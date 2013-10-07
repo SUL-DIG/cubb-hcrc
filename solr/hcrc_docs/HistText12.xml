@@ -420,7 +420,7 @@ Schools</field>
 <field name="author">Simmelink, Lucille</field><field name="author_nat">Lucille Simmelink</field>
 <field name="author">Hennessey, Jane</field><field name="author_nat">Jane Hennessey</field>
 <field name="author">Boeselager, Lillian</field><field name="author_nat">Lillian Boeselager</field>
-<field name="author">Maercklein, Kathryn </field><field name="author_nat">Kathryn  Maercklein</field>
+<field name="author">Maercklein, Kathryn</field><field name="author_nat">Kathryn  Maercklein</field>
 <field name="title">Pupil-teacher planning</field>
 <field name="year">1957</field>
 <field name="date">04/1957</field>
@@ -736,7 +736,7 @@ education</field>
 <field name="notes">ill. ; 25 cm.; Note(s): Also issued online.; Other Titles: Teachers' handbook
 for use in cooperative education programs in the Latin American republics; Responsibility: developed
 through the collaboration of Latin American and United States educators under the direction of Ann
-Nolan Clark. </field>
+Nolan Clark.</field>
 <field name="publisher">Institute of Inter-American Affairs, Division of Education</field>
 <field name="pub_place">Washington, DC</field>
 <field name="language">English</field>
@@ -1326,7 +1326,7 @@ index.</field>
 <field name="keywords">Elementary education</field>
 <field name="keywords">Secondary education</field>
 <field name="keywords">Curricula</field>
-<field name="notes">ill. ; 28 cm.; Responsibility: Wilmette Public School District. </field>
+<field name="notes">ill. ; 28 cm.; Responsibility: Wilmette Public School District.</field>
 <field name="publisher">Wilmette (Illinois) School District No. 39</field>
 <field name="pub_place">Wilmette, IL</field>
 <field name="language">English</field>

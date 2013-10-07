@@ -38,6 +38,9 @@
           zoom: 3,
           mapTypeId: google.maps.MapTypeId.ROADMAP
         };
+        
+        var map = new google.maps.Map( document.getElementById( 'map_canvas' ), options );
+      map.setOptions({styles: styles});
 
       var markers = [];
         markers[0] = new google.maps.Marker({

@@ -542,7 +542,7 @@ i</field>
 <field name="pub_place">Seattle, WA</field>
 <field name="language">English</field>
 <field name="call_number">377.1 .S44g</field>
-<field name="state_country">Washington </field>
+<field name="state_country">Washington</field>
 </doc>
 
 <doc>
@@ -558,7 +558,7 @@ Project, 1935-1953</field>
 <field name="publisher">Union College. Character Research Project</field>
 <field name="pub_place">Schenectady, NY</field>
 <field name="language">English</field>
-<field name="call_number">377.2 .U58u v. 1 </field>
+<field name="call_number">377.2 .U58u v. 1</field>
 </doc>
 
 <doc>
@@ -576,7 +576,7 @@ growth in class groups</field>
 <field name="publisher">Union College. Character Research Project</field>
 <field name="pub_place">Schenectady, NY</field>
 <field name="language">English</field>
-<field name="call_number">377.2 .U58u v. 2 </field>
+<field name="call_number">377.2 .U58u v. 2</field>
 </doc>
 
 <doc>
@@ -594,7 +594,7 @@ significant growth, ordinary growth, and no growth</field>
 <field name="publisher">Union College. Character Research Project</field>
 <field name="pub_place">Schenectady, NY</field>
 <field name="language">English</field>
-<field name="call_number">377.2 .U58u v. 2 </field>
+<field name="call_number">377.2 .U58u v. 2</field>
 </doc>
 
 <doc>
@@ -611,7 +611,7 @@ on the learning of concepts</field>
 <field name="publisher">Union College. Character Research Project</field>
 <field name="pub_place">Schenectady, NY</field>
 <field name="language">English</field>
-<field name="call_number">377.2 .U58u v. 5 </field>
+<field name="call_number">377.2 .U58u v. 5</field>
 </doc>
 
 <doc>
@@ -633,7 +633,7 @@ problem</field>
 <field name="publisher">Union College. Character Research Project</field>
 <field name="pub_place">Schenectady, NY</field>
 <field name="language">English</field>
-<field name="call_number">377.2 .U58u v. 7 </field>
+<field name="call_number">377.2 .U58u v. 7</field>
 </doc>
 
 <doc>
@@ -652,7 +652,7 @@ participating and not participating in the Character Research Project</field>
 <field name="publisher">Union College. Character Research Project</field>
 <field name="pub_place">Schenectady, NY</field>
 <field name="language">English</field>
-<field name="call_number">377.2 .U58u v. 8 </field>
+<field name="call_number">377.2 .U58u v. 8</field>
 </doc>
 
 <doc>
@@ -672,7 +672,7 @@ Branch</field>
 <field name="pub_place">Los Angeles, CA</field>
 <field name="language">English</field>
 <field name="call_number">379 .L87p</field>
-<field name="state_country">California </field>
+<field name="state_country">California</field>
 </doc>
 
 <doc>
@@ -693,7 +693,7 @@ Pullen, Jr.</field>
 <field name="pub_place">Baltimore, MD</field>
 <field name="language">English</field>
 <field name="call_number">379 .M39m</field>
-<field name="state_country">Maryland </field>
+<field name="state_country">Maryland</field>
 </doc>
 
 <doc>
@@ -725,7 +725,7 @@ the West]</field>
 <field name="publisher">Contra Costa County (California) Schools</field>
 <field name="pub_place">Martinez, CA</field>
 <field name="language">English</field>
-<field name="call_number">379 .C76c </field>
+<field name="call_number">379 .C76c</field>
 </doc>
 
 <doc>
@@ -739,7 +739,7 @@ the West]</field>
 <field name="publisher">Fresno (California) City Unified School District</field>
 <field name="pub_place">Fresno, CA</field>
 <field name="language">English</field>
-<field name="call_number">379 .F88a </field>
+<field name="call_number">379 .F88a</field>
 </doc>
 
 <doc>
@@ -750,7 +750,7 @@ the West]</field>
 <field name="publisher">Inglewood (California) Board of Education</field>
 <field name="pub_place">Inglewood, CA</field>
 <field name="language">English</field>
-<field name="call_number">379 .I51i </field>
+<field name="call_number">379 .I51i</field>
 </doc>
 
 <doc>
@@ -766,7 +766,7 @@ the West]</field>
 <field name="publisher">University of Oregon. School of Education</field>
 <field name="pub_place">Eugene, OR</field>
 <field name="language">English</field>
-<field name="call_number">379 .O66c </field>
+<field name="call_number">379 .O66c</field>
 </doc>
 
 <doc>
@@ -778,7 +778,7 @@ the West]</field>
 <field name="publisher">San Diego County (California) Superintendent of Schools</field>
 <field name="pub_place">San Diego, CA</field>
 <field name="language">English</field>
-<field name="call_number">379 .S19c </field>
+<field name="call_number">379 .S19c</field>
 </doc>
 
 <doc>
@@ -793,7 +793,7 @@ Schools</field>
 <field name="pub_place">San Diego, CA</field>
 <field name="language">English</field>
 <field name="call_number">379 .S19s v. 1</field>
-<field name="state_country">California </field>
+<field name="state_country">California</field>
 </doc>
 
 <doc>
@@ -808,7 +808,7 @@ Schools</field>
 <field name="pub_place">San Diego, CA</field>
 <field name="language">English</field>
 <field name="call_number">379 .S19s v. 2</field>
-<field name="state_country">California </field>
+<field name="state_country">California</field>
 </doc>
 
 <doc>
@@ -823,7 +823,7 @@ Schools</field>
 <field name="pub_place">San Diego, CA</field>
 <field name="language">English</field>
 <field name="call_number">379 .S19s v. 3</field>
-<field name="state_country">California </field>
+<field name="state_country">California</field>
 </doc>
 
 <doc>
@@ -839,7 +839,7 @@ Schools</field>
 <field name="pub_place">Montgomery, AL</field>
 <field name="language">English</field>
 <field name="call_number">371.156 .A31a 1970-71</field>
-<field name="state_country">Alabama </field>
+<field name="state_country">Alabama</field>
 </doc>
 
 <doc>
@@ -855,7 +855,7 @@ Schools</field>
 <field name="pub_place">Montgomery, AL</field>
 <field name="language">English</field>
 <field name="call_number">371.156 .A31a 1971-72</field>
-<field name="state_country">Alabama </field>
+<field name="state_country">Alabama</field>
 </doc>
 
 <doc>
@@ -876,7 +876,7 @@ the State</field>
 <field name="pub_place">New York, NY</field>
 <field name="language">English</field>
 <field name="call_number">379.11 .N56r</field>
-<field name="state_country">New York </field>
+<field name="state_country">New York</field>
 </doc>
 
 <doc>
@@ -896,7 +896,7 @@ Education Agency.</field>
 <field name="pub_place">Austin, TX</field>
 <field name="language">English</field>
 <field name="call_number">379 .T35s</field>
-<field name="state_country">Texas </field>
+<field name="state_country">Texas</field>
 </doc>
 
 <doc>
@@ -911,7 +911,7 @@ of the County Superintendant (preliminary draft)</field>
 <field name="publisher">Tulare County (California) Schools</field>
 <field name="language">English</field>
 <field name="call_number">379 .T91s</field>
-<field name="state_country">California </field>
+<field name="state_country">California</field>
 </doc>
 
 <doc>
@@ -925,7 +925,7 @@ of the County Superintendant (preliminary draft)</field>
 <field name="publisher">Tulare County (California) Schools</field>
 <field name="language">English</field>
 <field name="call_number">379 .T91s</field>
-<field name="state_country">California </field>
+<field name="state_country">California</field>
 </doc>
 
 <doc>
@@ -942,7 +942,7 @@ resolution of the State Board of Education, January 3, 1955)</field>
 <field name="pub_place">Sacramento, CA</field>
 <field name="language">English</field>
 <field name="call_number">379.156 .C15c</field>
-<field name="state_country">California </field>
+<field name="state_country">California</field>
 </doc>
 
 <doc>
@@ -958,7 +958,7 @@ resolution of the State Board of Education, January 3, 1955)</field>
 <field name="publisher">American Textbook Publishers Institute</field>
 <field name="pub_place">New York, NY</field>
 <field name="language">English</field>
-<field name="call_number">379.156 .A51b </field>
+<field name="call_number">379.156 .A51b</field>
 </doc>
 
 <doc>
@@ -976,7 +976,7 @@ Education.</field>
 <field name="publisher">Arizona State Department of Education</field>
 <field name="pub_place">Phoenix, AZ</field>
 <field name="language">English</field>
-<field name="call_number">379.156 .A71o </field>
+<field name="call_number">379.156 .A71o</field>
 </doc>
 
 <doc>
@@ -1025,7 +1025,7 @@ Richmond secondary schools</field>
 <field name="pub_place">Richmond, CA</field>
 <field name="language">English</field>
 <field name="call_number">379.156 .F62t</field>
-<field name="state_country">California </field>
+<field name="state_country">California</field>
 </doc>
 
 <doc>
@@ -1040,7 +1040,7 @@ Richmond secondary schools</field>
 <field name="pub_place">Tallahassee, FL</field>
 <field name="language">English</field>
 <field name="call_number">379.156 .F63f 1961</field>
-<field name="state_country">Florida </field>
+<field name="state_country">Florida</field>
 </doc>
 
 <doc>
@@ -1055,7 +1055,7 @@ Richmond secondary schools</field>
 <field name="pub_place">Tallahassee, FL</field>
 <field name="language">English</field>
 <field name="call_number">379.156 .F63f 1963</field>
-<field name="state_country">Florida </field>
+<field name="state_country">Florida</field>
 </doc>
 
 <doc>
@@ -1070,7 +1070,7 @@ Richmond secondary schools</field>
 <field name="pub_place">Tallahassee, FL</field>
 <field name="language">English</field>
 <field name="call_number">379.156 .F63f 1966</field>
-<field name="state_country">Florida </field>
+<field name="state_country">Florida</field>
 </doc>
 
 <doc>
@@ -1086,7 +1086,7 @@ Selection</field>
 Schools</field>
 <field name="pub_place">Los Angeles, CA</field>
 <field name="language">English</field>
-<field name="call_number">379.156 .L87g </field>
+<field name="call_number">379.156 .L87g</field>
 </doc>
 
 <doc>
@@ -1104,7 +1104,7 @@ Education (called 19 -, State Department of Education).</field>
 <field name="pub_place">Tallahassee, FL</field>
 <field name="language">English</field>
 <field name="call_number">379.156 .F63s</field>
-<field name="state_country">Florida </field>
+<field name="state_country">Florida</field>
 </doc>
 
 <doc>
@@ -1119,7 +1119,7 @@ Education (called 19 -, State Department of Education).</field>
 <field name="pub_place">Fresno, CA</field>
 <field name="language">English</field>
 <field name="call_number">379.156 .F88s</field>
-<field name="state_country">California </field>
+<field name="state_country">California</field>
 </doc>
 
 <doc>
@@ -1136,7 +1136,7 @@ by the Kansas State School Book Commission, 19 -193?; by the State Board of Educ
 <field name="pub_place">Topeka, KS</field>
 <field name="language">English</field>
 <field name="call_number">379.156 .K16p</field>
-<field name="state_country">Kansas </field>
+<field name="state_country">Kansas</field>
 </doc>
 
 <doc>
@@ -1154,7 +1154,7 @@ Cleveland."</field>
 <field name="publisher">Houghton Mifflin</field>
 <field name="pub_place">New York, NY</field>
 <field name="language">English</field>
-<field name="call_number">379.156 .H82h </field>
+<field name="call_number">379.156 .H82h</field>
 </doc>
 
 <doc>
@@ -1217,7 +1217,7 @@ Textbook Publishers Institute</field>
 <field name="pub_place">Los Angeles, CA</field>
 <field name="language">English</field>
 <field name="call_number">379.156 .L879c</field>
-<field name="state_country">California </field>
+<field name="state_country">California</field>
 </doc>
 
 <doc>
@@ -1280,7 +1280,7 @@ educators about the California textbook problem</field>
 <field name="pub_place">New York, NY</field>
 <field name="language">English</field>
 <field name="call_number">379.156 .M16L</field>
-<field name="state_country">California </field>
+<field name="state_country">California</field>
 </doc>
 
 <doc>
@@ -1327,7 +1327,7 @@ educators about the California textbook problem</field>
 <field name="publisher">Oklahoma State Board of Education</field>
 <field name="language">English</field>
 <field name="call_number">379.156 .O41o</field>
-<field name="state_country">Oklahoma </field>
+<field name="state_country">Oklahoma</field>
 </doc>
 
 <doc>
@@ -1346,7 +1346,7 @@ with law under direction of the State Board of Education by the State Department
 <field name="pub_place">Salem, OR</field>
 <field name="language">English</field>
 <field name="call_number">379.156 .O66s</field>
-<field name="state_country">Oregon </field>
+<field name="state_country">Oregon</field>
 </doc>
 
 <doc>
@@ -1362,7 +1362,7 @@ and use</field>
 <field name="publisher">University of Pittsburgh. Textbook Depository Library Project</field>
 <field name="pub_place">Pittsburgh, PA</field>
 <field name="language">English</field>
-<field name="call_number">379.156 .P69a </field>
+<field name="call_number">379.156 .P69a</field>
 </doc>
 
 <doc>
@@ -1378,7 +1378,7 @@ centers</field>
 <field name="publisher">University of Pittsburgh. Textbook Depository Library Project</field>
 <field name="pub_place">Pittsburgh, PA</field>
 <field name="language">English</field>
-<field name="call_number">379.156 .P69g </field>
+<field name="call_number">379.156 .P69g</field>
 </doc>
 
 <doc>
@@ -1394,7 +1394,7 @@ libraries in selected countries: secondary education</field>
 <field name="publisher">University of Pittsburgh. Textbook Depository Library Project</field>
 <field name="pub_place">Pittsburgh, PA</field>
 <field name="language">English</field>
-<field name="call_number">379.156 .P69L v. 1 </field>
+<field name="call_number">379.156 .P69L v. 1</field>
 </doc>
 
 <doc>
@@ -1412,7 +1412,7 @@ education 1971-72</field>
 Resources</field>
 <field name="pub_place">Rochester, NY</field>
 <field name="language">English</field>
-<field name="call_number">379.156 .R67b v. 1 </field>
+<field name="call_number">379.156 .R67b v. 1</field>
 </doc>
 
 <doc>
@@ -1430,7 +1430,7 @@ Resources</field>
 Resources</field>
 <field name="pub_place">Rochester, NY</field>
 <field name="language">English</field>
-<field name="call_number">379.156 .R67b v. 2 </field>
+<field name="call_number">379.156 .R67b v. 2</field>
 </doc>
 
 <doc>
@@ -1447,7 +1447,7 @@ Resources</field>
 Resources</field>
 <field name="pub_place">Rochester, NY</field>
 <field name="language">English</field>
-<field name="call_number">379.156 .R67b v. 3 </field>
+<field name="call_number">379.156 .R67b v. 3</field>
 </doc>
 
 <doc>
@@ -1465,7 +1465,7 @@ Resources</field>
 Resources</field>
 <field name="pub_place">Rochester, NY</field>
 <field name="language">English</field>
-<field name="call_number">379.156 .R67b v. 4 </field>
+<field name="call_number">379.156 .R67b v. 4</field>
 </doc>
 
 <doc>
@@ -1483,7 +1483,7 @@ Resources</field>
 Resources</field>
 <field name="pub_place">Rochester, NY</field>
 <field name="language">English</field>
-<field name="call_number">379.156 .R67b v. 5 </field>
+<field name="call_number">379.156 .R67b v. 5</field>
 </doc>
 
 <doc>
@@ -1501,7 +1501,7 @@ Resources</field>
 Resources</field>
 <field name="pub_place">Rochester, NY</field>
 <field name="language">English</field>
-<field name="call_number">379.156 .R67b v. 6 </field>
+<field name="call_number">379.156 .R67b v. 6</field>
 </doc>
 
 <doc>
@@ -1519,7 +1519,7 @@ Resources</field>
 Resources</field>
 <field name="pub_place">Rochester, NY</field>
 <field name="language">English</field>
-<field name="call_number">379.156 .R67b v. 7 </field>
+<field name="call_number">379.156 .R67b v. 7</field>
 </doc>
 
 <doc>
@@ -1536,7 +1536,7 @@ Resources</field>
 Resources</field>
 <field name="pub_place">Rochester, NY</field>
 <field name="language">English</field>
-<field name="call_number">379.156 .R67b v. 8 </field>
+<field name="call_number">379.156 .R67b v. 8</field>
 </doc>
 
 <doc>
@@ -1554,7 +1554,7 @@ Resources</field>
 Resources</field>
 <field name="pub_place">Rochester, NY</field>
 <field name="language">English</field>
-<field name="call_number">379.156 .R67b v. 9 </field>
+<field name="call_number">379.156 .R67b v. 9</field>
 </doc>
 
 <doc>
@@ -1572,7 +1572,7 @@ Resources</field>
 Resources</field>
 <field name="pub_place">Rochester, NY</field>
 <field name="language">English</field>
-<field name="call_number">379.156 .R67b v. 10 </field>
+<field name="call_number">379.156 .R67b v. 10</field>
 </doc>
 
 <doc>
@@ -1590,7 +1590,7 @@ Resources</field>
 Resources</field>
 <field name="pub_place">Rochester, NY</field>
 <field name="language">English</field>
-<field name="call_number">379.156 .R67b v. 11 </field>
+<field name="call_number">379.156 .R67b v. 11</field>
 </doc>
 
 <doc>
@@ -1608,7 +1608,7 @@ Note(s): Title varies slightly.; Responsibility: State Dept. of Education.</fiel
 <field name="pub_place">Columbia, SC</field>
 <field name="language">English</field>
 <field name="call_number">379.156 .S72c</field>
-<field name="state_country">South Carolina </field>
+<field name="state_country">South Carolina</field>
 </doc>
 
 <doc>
@@ -1626,7 +1626,7 @@ Note(s): Title varies slightly.; Responsibility: State Dept. of Education.</fiel
 <field name="pub_place">Austin, TX</field>
 <field name="language">English</field>
 <field name="call_number">379.156 .T35c</field>
-<field name="state_country">Texas </field>
+<field name="state_country">Texas</field>
 </doc>
 
 <doc>
@@ -1646,7 +1646,7 @@ Agency)</field>
 <field name="pub_place">Austin, TX</field>
 <field name="language">English</field>
 <field name="call_number">379.156 .T35b</field>
-<field name="state_country">Texas </field>
+<field name="state_country">Texas</field>
 </doc>
 
 <doc>
@@ -1662,7 +1662,7 @@ copyright dates</field>
 <field name="publisher">Tennessee State Textbook Commission</field>
 <field name="language">English</field>
 <field name="call_number">379.156 .T29o</field>
-<field name="state_country">Tennessee </field>
+<field name="state_country">Tennessee</field>
 </doc>
 
 <doc>
@@ -1698,7 +1698,7 @@ Bleyer ...</field>
 <field name="pub_place">Topeka, KS</field>
 <field name="language">English</field>
 <field name="call_number">379.175 .K16L</field>
-<field name="state_country">Kansas </field>
+<field name="state_country">Kansas</field>
 </doc>
 
 <doc>
@@ -1718,7 +1718,7 @@ Division.</field>
 <field name="pub_place">Visalia, CA</field>
 <field name="language">English</field>
 <field name="call_number">379.156 .T91s 1958</field>
-<field name="state_country">California </field>
+<field name="state_country">California</field>
 </doc>
 
 <doc>
@@ -1738,7 +1738,7 @@ Division.</field>
 <field name="pub_place">Visalia, CA</field>
 <field name="language">English</field>
 <field name="call_number">379.156 .T91s 1956</field>
-<field name="state_country">California </field>
+<field name="state_country">California</field>
 </doc>
 
 <doc>
@@ -1756,7 +1756,7 @@ schools</field>
 <field name="pub_place">Wilmington, DE</field>
 <field name="language">English</field>
 <field name="call_number">379.156 .W74s</field>
-<field name="state_country">Delaware </field>
+<field name="state_country">Delaware</field>
 </doc>
 
 <doc>
@@ -1795,7 +1795,7 @@ Education.</field>
 <field name="pub_place">Baton Rouge, LA</field>
 <field name="language">English</field>
 <field name="call_number">379.175 .L88h</field>
-<field name="state_country">Louisiana </field>
+<field name="state_country">Louisiana</field>
 </doc>
 
 <doc>
@@ -1813,7 +1813,7 @@ Highway Commissioner.</field>
 <field name="pub_place">Bismarck, ND</field>
 <field name="language">English</field>
 <field name="call_number">379.175 .N86s</field>
-<field name="state_country">North Dakota </field>
+<field name="state_country">North Dakota</field>
 </doc>
 
 <doc>
@@ -1827,7 +1827,7 @@ Highway Commissioner.</field>
 <field name="pub_place">Albany, CA</field>
 <field name="language">English</field>
 <field name="call_number">379.2 .A32p</field>
-<field name="state_country">California </field>
+<field name="state_country">California</field>
 </doc>
 
 <doc>
@@ -1843,7 +1843,7 @@ conferences</field>
 <field name="pub_place">Albany, CA</field>
 <field name="language">English</field>
 <field name="call_number">379.2 .A32p</field>
-<field name="state_country">California </field>
+<field name="state_country">California</field>
 </doc>
 
 <doc>
@@ -1868,7 +1868,7 @@ conferences</field>
 <field name="pub_place">Anaheim, CA</field>
 <field name="language">English</field>
 <field name="call_number">379.2 .A53r</field>
-<field name="state_country">California </field>
+<field name="state_country">California</field>
 </doc>
 
 <doc>
@@ -1897,7 +1897,7 @@ conferences</field>
 <field name="pub_place">Barrington, IL</field>
 <field name="language">English</field>
 <field name="call_number">379.2 .B26h</field>
-<field name="state_country">Illinois </field>
+<field name="state_country">Illinois</field>
 </doc>
 
 <doc>
@@ -1942,7 +1942,7 @@ teachers</field>
 <field name="publisher">Covina-Valley (California) Unified School District</field>
 <field name="language">English</field>
 <field name="call_number">379.2 .C87g</field>
-<field name="state_country">California </field>
+<field name="state_country">California</field>
 </doc>
 
 <doc>
@@ -1959,7 +1959,7 @@ Cumulative record</field>
 <field name="pub_place">Denver, CO</field>
 <field name="language">English</field>
 <field name="call_number">379.2 .D41c</field>
-<field name="state_country">Colorado </field>
+<field name="state_country">Colorado</field>
 </doc>
 
 <doc>
@@ -2070,7 +2070,7 @@ Cumulative record</field>
 <field name="pub_place">Fresno, CA</field>
 <field name="language">English</field>
 <field name="call_number">379.2 .F88c</field>
-<field name="state_country">California </field>
+<field name="state_country">California</field>
 </doc>
 
 <doc>
@@ -2081,7 +2081,7 @@ Cumulative record</field>
 <field name="publisher">Inyo (California) County Schools</field>
 <field name="language">English</field>
 <field name="call_number">379.2 .I63e</field>
-<field name="state_country">California </field>
+<field name="state_country">California</field>
 </doc>
 
 <doc>
@@ -2092,7 +2092,7 @@ Cumulative record</field>
 <field name="publisher">Kern (California) County Schools</field>
 <field name="language">English</field>
 <field name="call_number">379.2 .K39c</field>
-<field name="state_country">California </field>
+<field name="state_country">California</field>
 </doc>
 
 <doc>
@@ -2166,7 +2166,7 @@ schools, an instructional bulletin</field>
 <field name="pub_place">Los Angeles, CA</field>
 <field name="language">English</field>
 <field name="call_number">379.2 .L87o</field>
-<field name="state_country">California </field>
+<field name="state_country">California</field>
 </doc>
 
 <doc>
@@ -2180,7 +2180,7 @@ schools, an instructional bulletin</field>
 <field name="pub_place">Los Angeles, CA</field>
 <field name="language">English</field>
 <field name="call_number">379.2 .L879c</field>
-<field name="state_country">California </field>
+<field name="state_country">California</field>
 </doc>
 
 <doc>
@@ -2195,7 +2195,7 @@ schools, an instructional bulletin</field>
 <field name="pub_place">Manhasset, NY</field>
 <field name="language">English</field>
 <field name="call_number">379.2 .M27r</field>
-<field name="state_country">New York </field>
+<field name="state_country">New York</field>
 </doc>
 
 <doc>
@@ -2272,7 +2272,7 @@ schools, an instructional bulletin</field>
 <field name="publisher">Monterey County (California) Schools</field>
 <field name="language">English</field>
 <field name="call_number">379.2 .M77p</field>
-<field name="state_country">California </field>
+<field name="state_country">California</field>
 </doc>
 
 <doc>
@@ -2371,7 +2371,7 @@ schools, an instructional bulletin</field>
 <field name="pub_place">Niagara Falls, NY</field>
 <field name="language">English</field>
 <field name="call_number">379.2 .N57r</field>
-<field name="state_country">New York </field>
+<field name="state_country">New York</field>
 </doc>
 
 <doc>
@@ -2382,14 +2382,14 @@ schools, an instructional bulletin</field>
 <field name="pages">55</field>
 <field name="keywords">Compulsory education</field>
 <field name="keywords">School attendance</field>
-<field name="notes">forms ; 23 cm.; </field>
+<field name="notes">forms ; 23 cm.;</field>
 <field name="series_title">Publication (North Carolina. Department of Public Instruction)</field>
 <field name="series_vol">333</field>
 <field name="publisher">North Carolina State Department of Public Instruction</field>
 <field name="pub_place">Raleigh, NC</field>
 <field name="language">English</field>
 <field name="call_number">379.2 .N86c</field>
-<field name="state_country">North Carolina </field>
+<field name="state_country">North Carolina</field>
 </doc>
 
 <doc>
@@ -2406,7 +2406,7 @@ schools, an instructional bulletin</field>
 <field name="publisher">University of Oregon. College of Education</field>
 <field name="pub_place">Eugene, OR</field>
 <field name="language">English</field>
-<field name="call_number">379.2 .O67e </field>
+<field name="call_number">379.2 .O67e</field>
 </doc>
 
 <doc>
@@ -2571,7 +2571,7 @@ Responsibility: prepared by Robert Cooley and Malcolm C Pappin.</field>
 <field name="publisher">San Joaquin County (California) Schools</field>
 <field name="language">English</field>
 <field name="call_number">379.2 .S195t</field>
-<field name="state_country">California </field>
+<field name="state_country">California</field>
 </doc>
 
 <doc>
@@ -2583,7 +2583,7 @@ Responsibility: prepared by Robert Cooley and Malcolm C Pappin.</field>
 <field name="pub_place">San Luis Obispo, CA</field>
 <field name="language">English</field>
 <field name="call_number">379.2 .S196c</field>
-<field name="state_country">California </field>
+<field name="state_country">California</field>
 </doc>
 
 <doc>
@@ -2597,7 +2597,7 @@ Responsibility: prepared by Robert Cooley and Malcolm C Pappin.</field>
 <field name="pub_place">Huntington Station, NY</field>
 <field name="language">English</field>
 <field name="call_number">379.2 .S72t</field>
-<field name="state_country">New York </field>
+<field name="state_country">New York</field>
 </doc>
 
 <doc>
@@ -2609,7 +2609,7 @@ Responsibility: prepared by Robert Cooley and Malcolm C Pappin.</field>
 <field name="publisher">Tulare County (California) Schools</field>
 <field name="language">English</field>
 <field name="call_number">379.2 .T91p</field>
-<field name="state_country">California </field>
+<field name="state_country">California</field>
 </doc>
 
 <doc>
@@ -2622,7 +2622,7 @@ Responsibility: prepared by Robert Cooley and Malcolm C Pappin.</field>
 <field name="publisher">Ventura County (California) Schools</field>
 <field name="language">English</field>
 <field name="call_number">379.2 .V44p</field>
-<field name="state_country">California </field>
+<field name="state_country">California</field>
 </doc>
 
 <doc>
@@ -2639,7 +2639,7 @@ Christmas expressed in art activities.</field>
 <field name="pub_place">Chula Vista, CA</field>
 <field name="language">English</field>
 <field name="call_number">390 .C55s</field>
-<field name="state_country">California </field>
+<field name="state_country">California</field>
 </doc>
 
 <doc>
@@ -2658,7 +2658,7 @@ Edwards.</field>
 <field name="pub_place">Sacramento, CA</field>
 <field name="language">English</field>
 <field name="call_number">379.74 .C15c</field>
-<field name="state_country">California </field>
+<field name="state_country">California</field>
 </doc>
 
 <doc>
@@ -2675,7 +2675,7 @@ Edwards.</field>
 <field name="publisher">New York State University. Bureau of Field Financial Services</field>
 <field name="pub_place">Albany, NY</field>
 <field name="language">English</field>
-<field name="call_number">379.74 .N43b v. 2 </field>
+<field name="call_number">379.74 .N43b v. 2</field>
 </doc>
 
 <doc>
@@ -2692,7 +2692,7 @@ Edwards.</field>
 <field name="publisher">New York State University. Bureau of Field Financial Services</field>
 <field name="pub_place">Albany, NY</field>
 <field name="language">English</field>
-<field name="call_number">379.74 .N43b v. 3 </field>
+<field name="call_number">379.74 .N43b v. 3</field>
 </doc>
 
 <doc>
@@ -2710,7 +2710,7 @@ bibliographical references : l. 37-42.</field>
 <field name="pub_place">Philadelphia, PA</field>
 <field name="language">English</field>
 <field name="call_number">382 .P54w</field>
-<field name="state_country">Pennsylvania </field>
+<field name="state_country">Pennsylvania</field>
 </doc>
 
 <doc>
@@ -2741,7 +2741,7 @@ bibliographical references : l. 37-42.</field>
 <field name="pub_place">Pasadena, CA</field>
 <field name="language">English</field>
 <field name="call_number">383 .P27c</field>
-<field name="state_country">California </field>
+<field name="state_country">California</field>
 </doc>
 
 <doc>
@@ -2764,7 +2764,7 @@ Services.; School business management handbook</field>
 Services</field>
 <field name="pub_place">Albany, NY</field>
 <field name="language">English</field>
-<field name="call_number">379.74 .N43b v. 4 </field>
+<field name="call_number">379.74 .N43b v. 4</field>
 </doc>
 
 <doc>
@@ -2778,7 +2778,7 @@ Services</field>
 <field name="publisher">Garrett County (Maryland) Board of Education</field>
 <field name="language">English</field>
 <field name="call_number">390 .G23c</field>
-<field name="state_country">Maryland </field>
+<field name="state_country">Maryland</field>
 </doc>
 
 <doc>
@@ -2789,7 +2789,7 @@ Services</field>
 <field name="keywords">Holidays</field>
 <field name="publisher">Hallmark Cards</field>
 <field name="language">English</field>
-<field name="call_number">390 .H19m </field>
+<field name="call_number">390 .H19m</field>
 </doc>
 
 <doc>
@@ -2837,7 +2837,7 @@ and special occasions]</field>
 <field name="pub_place">Riverside, CA</field>
 <field name="language">English</field>
 <field name="call_number">390 .M64L</field>
-<field name="state_country">California </field>
+<field name="state_country">California</field>
 </doc>
 
 <doc>
@@ -2925,7 +2925,7 @@ and special occasions]</field>
 <field name="publisher">Yolo (California) County Schools</field>
 <field name="language">English</field>
 <field name="call_number">390 .Y54p</field>
-<field name="state_country">California </field>
+<field name="state_country">California</field>
 </doc>
 
 <doc>
@@ -2944,6 +2944,6 @@ and stage properties.</field>
 <field name="publisher">United States George Washington bicentennial commission</field>
 <field name="pub_place">Washington, D.C</field>
 <field name="language">English</field>
-<field name="call_number">391.0973 .U58f </field>
+<field name="call_number">391.0973 .U58f</field>
 </doc>
 </add>

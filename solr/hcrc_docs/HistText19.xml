@@ -79,7 +79,7 @@
 <field name="publisher">Alaska State Board of Education</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .A32o</field>
-<field name="state_country">Alaska </field>
+<field name="state_country">Alaska</field>
 </doc>
 
 <doc>
@@ -97,7 +97,7 @@
 <field name="pub_place">Springfield, IL</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .A43t</field>
-<field name="state_country">Illinois </field>
+<field name="state_country">Illinois</field>
 </doc>
 
 <doc>
@@ -240,7 +240,7 @@
 <field name="pub_place">Anchorage, AK</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .A53g</field>
-<field name="state_country">Alaska </field>
+<field name="state_country">Alaska</field>
 </doc>
 
 <doc>
@@ -310,7 +310,7 @@ references.</field>
 <field name="pub_place">Atlanta, GA</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .A88g</field>
-<field name="state_country">Georgia </field>
+<field name="state_country">Georgia</field>
 </doc>
 
 <doc>
@@ -325,7 +325,7 @@ references.</field>
 <field name="pub_place">Atlanta, GA</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .A88h</field>
-<field name="state_country">Georgia </field>
+<field name="state_country">Georgia</field>
 </doc>
 
 <doc>
@@ -431,7 +431,7 @@ references.</field>
 <field name="pub_place">Bloomfield, NJ</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .B65d</field>
-<field name="state_country">New Jersey </field>
+<field name="state_country">New Jersey</field>
 </doc>
 
 <doc>
@@ -467,7 +467,7 @@ Education</field>
 <field name="pub_place">Sacramento, CA</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .C15e 1968</field>
-<field name="state_country">California </field>
+<field name="state_country">California</field>
 </doc>
 
 <doc>
@@ -600,7 +600,7 @@ schools</field>
 <field name="pub_place">Davis, CA</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .C154e</field>
-<field name="state_country">California </field>
+<field name="state_country">California</field>
 </doc>
 
 <doc>
@@ -613,7 +613,7 @@ schools</field>
 <field name="keywords">English language</field>
 <field name="publisher">Carnegie Institute of Technology</field>
 <field name="language">English</field>
-<field name="call_number">428.2 .C28e v. 1 </field>
+<field name="call_number">428.2 .C28e v. 1</field>
 </doc>
 
 <doc>
@@ -626,7 +626,7 @@ schools</field>
 <field name="keywords">English language</field>
 <field name="publisher">Carnegie Institute of Technology</field>
 <field name="language">English</field>
-<field name="call_number">428.2 .C28e v. 2 </field>
+<field name="call_number">428.2 .C28e v. 2</field>
 </doc>
 
 <doc>
@@ -640,7 +640,7 @@ schools</field>
 <field name="publisher">Carnegie Institute of Technology</field>
 <field name="pub_place">Pittsburgh, PA</field>
 <field name="language">English</field>
-<field name="call_number">428.2 .C28e v. 3 </field>
+<field name="call_number">428.2 .C28e v. 3</field>
 </doc>
 
 <doc>
@@ -676,7 +676,7 @@ bulletin one: speaking</field>
 <field name="publisher">Central New York School Study Council</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .C39s v. 1</field>
-<field name="state_country">New York </field>
+<field name="state_country">New York</field>
 </doc>
 
 <doc>
@@ -692,7 +692,7 @@ bulletin two: writing</field>
 <field name="publisher">Central New York School Study Council</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .C39s v. 2</field>
-<field name="state_country">New York </field>
+<field name="state_country">New York</field>
 </doc>
 
 <doc>
@@ -708,7 +708,7 @@ bulletin three: reading and listening</field>
 <field name="publisher">Central New York School Study Council</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .C39s v. 3</field>
-<field name="state_country">New York </field>
+<field name="state_country">New York</field>
 </doc>
 
 <doc>
@@ -800,7 +800,7 @@ bulletin three: reading and listening</field>
 <field name="pub_place">Chicago, IL</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .C532w</field>
-<field name="state_country">Illinois </field>
+<field name="state_country">Illinois</field>
 </doc>
 
 <doc>
