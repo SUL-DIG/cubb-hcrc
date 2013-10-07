@@ -39,19 +39,19 @@
           mapTypeId: google.maps.MapTypeId.ROADMAP
         };
         
-        var map = new google.maps.Map( document.getElementById(map_canvas), options );
+        var map = new google.maps.Map( document.getElementById( 'map_canvas' ), options );
       map.setOptions({styles: styles});
 
       var markers = [];
         markers[0] = new google.maps.Marker({
-          position: new google.maps.LatLng(37.0000,120.0000),
+          position: new google.maps.LatLng(37.0000,-120.0000),
           icon: "/assets/images/google-maps-icon-red-hi.png",
           map: map,url:"/catalog?f%5Bstate_country_facet%5D%5B%5D=California",
           title:"California"});
 
         google.maps.event.addListener(markers[0], 'click', function() {window.location.href = this.url;});
         markers[1] = new google.maps.Marker({
-          position: new google.maps.LatLng(40.6700,73.9400),
+          position: new google.maps.LatLng(40.6700,-73.9400),
           icon: "/assets/images/google-maps-icon-red-hi.png",
           map: map,url:"/catalog?f[state_country_facet][]=New+York",
           title:"New York"});
