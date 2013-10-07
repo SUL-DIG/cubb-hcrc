@@ -1,0 +1,710 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">California State Department of Education</field>
+<field name="title">Vocational education in action</field>
+<field name="year">1947</field>
+<field name="date">10/1947</field>
+<field name="pages">48</field>
+<field name="keywords">Vocational education</field>
+<field name="notes">48 pages illustrations; Responsibility: prepared by the Vocational Education
+Staff of the California State Dept. of Education.</field>
+<field name="publisher">California State Department of Education</field>
+<field name="pub_place">Sacramento, CA</field>
+<field name="language">English</field>
+<field name="call_number">371.401 .C15v</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">California State Department of Education</field>
+<field name="title">Guidance in the elementary school; report of Conference, University Elementary
+School, University of California at Los Angeles, July 13-August 7, 1953</field>
+<field name="year">1953</field>
+<field name="date">1953</field>
+<field name="pages">87</field>
+<field name="keywords">Educational counseling</field>
+<field name="notes">87 pages; Note(s): Cover title./ Sponsored by the University of California, Los
+Angeles, and the California State Dept. of Education.</field>
+<field name="series_title">Conference on Guidance in the Elementary School (1953 : University of
+California at Los Angeles)</field>
+<field name="publisher">California State Dept. of Education, Division of Instruction, Bureau of
+Elementary Education</field>
+<field name="pub_place">Sacramento, CA</field>
+<field name="language">English</field>
+<field name="call_number">371.46 .C15g</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Florida Community College Council</field>
+<field name="title">A plan for curriculum consultants for Florida community-junior colleges</field>
+<field name="year">1956</field>
+<field name="date">06/1956</field>
+<field name="pages">2</field>
+<field name="keywords">Educational planning</field>
+<field name="keywords">Junior colleges</field>
+<field name="keywords">Curricula</field>
+<field name="notes">[3] p. ; 28 cm.; Note(s): "This plan was approved by th Florida Association of
+Public Junior Colleges in January, 1956."/ Cover title./ "June, 1956."</field>
+<field name="series_title">Bulletin (Florida. Community College Council)</field>
+<field name="series_vol">3</field>
+<field name="publisher">Florida Community College Council</field>
+<field name="pub_place">Tallahassee. FL</field>
+<field name="language">English</field>
+<field name="call_number">375.17 .F63p</field>
+<field name="state_country">Florida</field>
+<field name="grade_level_group">Postsecondary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Johnson,Leighton H.</field><field name="author_nat"/>
+<field name="title">Fostering general education in the community college</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="pages">11</field>
+<field name="keywords">Municipal universities and colleges</field>
+<field name="keywords">Humanistic education</field>
+<field name="notes">11 p. 23 cm.</field>
+<field name="series_title">Michigan State University.; College of Education.; Bureau of Research and
+Service.; Professional series bulletin</field>
+<field name="series_vol">14</field>
+<field name="publisher">Bureau of Research and Service, College of Education, Michigan State
+University</field>
+<field name="pub_place">East Lansing, MI</field>
+<field name="language">English</field>
+<field name="call_number">375.17 .M62f</field>
+<field name="state_country">Michigan</field>
+<field name="grade_level_group">Postsecondary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) Community College District</field>
+<field name="title">College courses and curricula</field>
+<field name="year">1966</field>
+<field name="date">1966-1967</field>
+<field name="pages">140</field>
+<field name="keywords">Education</field>
+<field name="keywords">Curricula</field>
+<field name="publisher">Los Angeles (California) Community College District</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="language">English</field>
+<field name="call_number">375.17 .L87cc</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Postsecondary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) Community College District</field>
+<field name="title">Catalog of uniform course numbers and titles</field>
+<field name="year">1965</field>
+<field name="date">1965-1966</field>
+<field name="pages">268</field>
+<field name="keywords">Education</field>
+<field name="keywords">Curricula</field>
+<field name="publisher">Los Angeles (California) Community College District</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="language">English</field>
+<field name="call_number">375.17 .L87c</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Postsecondary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Scheffer, Martin W.</field><field name="author_nat">Martin W. Scheffer</field>
+<field name="title">Student body characteristics reveal the educational contribution of Oregon's
+community colleges</field>
+<field name="series_title">School of Education, University of Oregon. Curriculum bulletin</field>
+<field name="series_vol">20</field>
+<field name="issue">242</field>
+<field name="year">1964</field>
+<field name="date">03/1964</field>
+<field name="pages">46</field>
+<field name="keywords">Community colleges</field>
+<field name="publisher">School of Education, University of Oregon</field>
+<field name="pub_place">Eugene, OR</field>
+<field name="language">English</field>
+<field name="call_number">375.17 .O66s</field>
+<field name="state_country">Oregon</field>
+<field name="grade_level_group">Postsecondary</field>
+</doc>
+
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Aberdeen (South Dakota) Board of Education</field>
+<field name="title">A core course in the making; cooperative plans and procedures</field>
+<field name="year">1940</field>
+<field name="date">1940?</field>
+<field name="pages">51</field>
+<field name="keywords">Curricula</field>
+<field name="keywords">Junior high schools</field>
+<field name="notes">51 l. 28 cm.; Responsibility: Prepared by a committee of teachers ...</field>
+<field name="publisher">Aberdeen (South Dakota) Board of Education</field>
+<field name="pub_place">Aberdeen, SD</field>
+<field name="language">English</field>
+<field name="call_number">375.3 .A145c</field>
+<field name="state_country">South Dakota</field>
+<field name="grade_level_group">Middle school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Virginia State Board of Education</field>
+<field name="title">Tentative course of study of Virginia elementary schools. Grades I-VII</field>
+<field name="year">1934</field>
+<field name="date">1934?</field>
+<field name="pages">560</field>
+<field name="keywords">Curricula</field>
+<field name="notes">xiii p., 1 l.; incl. diagrs. forms. 27 cm.; Note(s): At head of title: State
+board of education./ Three leaves of heavy paper inserted, not included in the paging./ "Directory
+of publishers": p. 554-560./ Includes bibliographical references.; Responsibility: Sidney B. Hall,
+superintendent of public instruction. D.W. Peters, director of instruction. Helen Ruth Henderson,
+assistant supervisor of elementary education. H.L. Caswell, general curriculum advisor.</field>
+<field name="series_title">Virginia State Board of Education. Bulletin</field>
+<field name="series_vol">17</field>
+<field name="issue">1</field>
+<field name="publisher">Virginia State Board of Education. Division of purchase and printing</field>
+<field name="pub_place">Richmond, VA</field>
+<field name="language">English</field>
+<field name="call_number">375.33 .V817t v. 1</field>
+<field name="state_country">Virginia</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+<field name="grade_level_number">7th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Virginia State Board of Education</field>
+<field name="title">Tentative course of study for the core curriculum of Virginia secondary schools.
+Grade VIII</field>
+<field name="year">1934</field>
+<field name="pages">319</field>
+<field name="keywords">Curricula</field>
+<field name="notes">xiii; 28 cm.; Note(s): Three leaves of heavy paper inserted, not included in the
+paging./ "Bibliographies-all fields": p. 281-319.; Responsibility: Sidney B. Hall, superintendent of
+public instruction. D.W. Peters, director of instruction, H.L. Caswell, general curriculum
+adviser.</field>
+<field name="series_title">Virginia.; State Board of Education.; Bulletin</field>
+<field name="series_vol">17</field>
+<field name="issue">2</field>
+<field name="publisher">Virginia State Board of Education. Division of Purchase and Printing</field>
+<field name="pub_place">Richmond, VA</field>
+<field name="language">English</field>
+<field name="call_number">375.33 .V817t v. 2</field>
+<field name="state_country">Virginia</field>
+<field name="grade_level_number">8th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Michigan State Department of Public Instruction</field>
+<field name="title">Educating teachers for an improving curriculum</field>
+<field name="year">1941</field>
+<field name="date">1941</field>
+<field name="pages">32</field>
+<field name="keywords">Curricula</field>
+<field name="keywords">Teacher training</field>
+<field name="publisher">Michigan State Department of Public Instruction</field>
+<field name="pub_place">Lansing, MI</field>
+<field name="language">English</field>
+<field name="call_number">375.5 .M621e</field>
+<field name="state_country">Michigan</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">California Committee for the Study of Education. Subcommittee on the
+Development of Moral and Spiritual Values in the Schools</field>
+<field name="title">Developing moral-spiritual values in the schools; a teacher's guide</field>
+<field name="year">1955</field>
+<field name="date">02/1955</field>
+<field name="pages">145</field>
+<field name="keywords">Moral education</field>
+<field name="notes">xv. 184 p. 22 cm.; Note(s): Bibliographical footnotes.</field>
+<field name="publisher">California Committee for the Study of Education</field>
+<field name="pub_place">Berkeley, CA</field>
+<field name="language">English</field>
+<field name="call_number">377.2 .C14d</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Glencoe (Illinois) Board of Education</field>
+<field name="title">Experimental curriculum outlines for Glencoe public schools; a co-operative
+study of educational policies and procedures designed to facilitate the growth and development of
+children within their environments</field>
+<field name="year">1937</field>
+<field name="date">09/1937</field>
+<field name="pages">135</field>
+<field name="keywords">Curricula</field>
+<field name="notes">2 p.L., 3 p., 1 L.; front. (diagr.) 27 1/2cm.; Note(s): Mimeographed.</field>
+<field name="publisher">Glencoe (Illinois) Board of Education</field>
+<field name="pub_place">Glencoe, IL</field>
+<field name="language">English</field>
+<field name="call_number">375.83 .G55e</field>
+<field name="state_country">Illinois</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Jacobson, Philip</field><field name="author_nat">Philip Jacobson</field>
+<field name="title">Religion in public education; a guide for discussion</field>
+<field name="year">1960</field>
+<field name="date">09/1960</field>
+<field name="pages">40</field>
+<field name="keywords">Religious education</field>
+<field name="notes">40 p. 28 cm.</field>
+<field name="publisher">American Jewish Committee, Institute of Human Relations</field>
+<field name="pub_place">New York, NY</field>
+<field name="language">English</field>
+<field name="call_number">377.1 .A51r</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City School District</field>
+<field name="title">World cultures ... Ninth and tenth year social studies ..</field>
+<field name="series_vol">283</field>
+<field name="year">1936</field>
+<field name="date">1936</field>
+<field name="keywords">Civilization</field>
+<field name="keywords">History</field>
+<field name="keywords">Sociology</field>
+<field name="abstract">I. Selected units and materials for the B-9 semester, including outline of
+two-year program.--II. Selected units and materials for the A-9 semester.</field>
+<field name="notes">v. pl. 22 cm.; Note(s): Includes bibliographies.</field>
+<field name="series_title">School publication (Los Angeles City School District : numbered series)
+;; no. 283-284</field>
+<field name="publisher">Los Angeles (California) City School District, Division of instruction and
+curriculum, Secondary curriculum section</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="language">English</field>
+<field name="call_number">375.952 .L879w</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">9th grade</field>
+<field name="grade_level_number">10th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">California Teachers Association. Moral and Spiritual Values
+Committee</field>
+<field name="title">Faiths of Mankind: a suggested bibliography of instructional materials for use
+in secondary schools</field>
+<field name="series_title">California Teachers Association. Moral and Spiritual Values Committee.
+Bulletin.</field>
+<field name="series_vol">1</field>
+<field name="year">1956</field>
+<field name="date">09/1956</field>
+<field name="pages">28</field>
+<field name="keywords">Bibliography</field>
+<field name="keywords">Religious education</field>
+<field name="publisher">California Teachers Association</field>
+<field name="pub_place">San Francisco, CA</field>
+<field name="language">English</field>
+<field name="call_number">377.1 .C153b v. 1</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">California Teachers Association. Moral and Spiritual Values
+Committee</field>
+<field name="title">The law on teaching religion and morals in schools: legal opinions and ruling
+affecting the teaching of religion and moral and spiritual values in the public schools</field>
+<field name="series_title">California Teachers Association. Moral and Spiritual Values Committee.
+Bulletin.</field>
+<field name="series_vol">2</field>
+<field name="year">1957</field>
+<field name="date">06/1957</field>
+<field name="pages">9</field>
+<field name="keywords">Religious education</field>
+<field name="publisher">California Teachers Association</field>
+<field name="pub_place">San Francisco, CA</field>
+<field name="language">English</field>
+<field name="call_number">377.1 .C153b v. 2</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">California Teachers Association. Moral and Spiritual Values
+Committee</field>
+<field name="title">Share your success in teaching moral and spiritual values: a suggested statement
+of ways and means of telling about your program in moral and spiritual education</field>
+<field name="series_title">California Teachers Association. Moral and Spiritual Values Committee.
+Bulletin.</field>
+<field name="series_vol">3</field>
+<field name="year">1957</field>
+<field name="date">06/1957</field>
+<field name="pages">27</field>
+<field name="keywords">Religious education</field>
+<field name="publisher">California Teachers Association</field>
+<field name="pub_place">San Francisco, CA</field>
+<field name="language">English</field>
+<field name="call_number">377.1 .C153b v. 3</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">California Association of Secondary School Administrators. Committee on
+Moral and Spiritual Values</field>
+<field name="title">Development of moral and spiritual values through the curriculums of California
+high schools</field>
+<field name="series_title">California State Department of Education. Bulletin.</field>
+<field name="series_vol">21</field>
+<field name="issue">13</field>
+<field name="year">1952</field>
+<field name="date">09/1952</field>
+<field name="pages">32</field>
+<field name="keywords">Religious education</field>
+<field name="publisher">California State Department of Education</field>
+<field name="pub_place">Sacramento, CA</field>
+<field name="language">English</field>
+<field name="call_number">377.2 .C15d</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">California State Department of Education</field>
+<field name="title">Guidelines for moral instruction in California schools</field>
+<field name="year">1969</field>
+<field name="date">1969</field>
+<field name="pages">81</field>
+<field name="keywords">Moral education</field>
+<field name="notes">iii; 28 cm.; Note(s): Includes bibliographical references./ Also issued
+online.</field>
+<field name="publisher">California State Department of Education</field>
+<field name="pub_place">Sacramento, CA</field>
+<field name="language">English</field>
+<field name="call_number">377.2 .C15g</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Cleveland Heights (Ohio) Public Schools</field>
+<field name="title">Character education</field>
+<field name="series_title">Cleveland Heights (Ohio) Public Schools. Curriculum bulletin.</field>
+<field name="year">1947</field>
+<field name="date">03/1947</field>
+<field name="pages">9</field>
+<field name="keywords">Moral education</field>
+<field name="publisher">Cleveland Heights (Ohio) Public Schools</field>
+<field name="pub_place">Cleveland Heights, OH</field>
+<field name="language">English</field>
+<field name="call_number">377.2 .C63c</field>
+<field name="state_country">Ohio</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Crooker, F. Deal</field><field name="author_nat">F. Deal Crooker</field>
+<field name="corp_author">Hawaii (Territory) Department of Public Instruction. Division of
+Instruction</field>
+<field name="title">Moral and ethical values in the public schools of Hawaii</field>
+<field name="year">1949</field>
+<field name="date">1949</field>
+<field name="pages">55</field>
+<field name="keywords">Moral education</field>
+<field name="notes">55 pages illustrations, music; Note(s): Includes bibliographical references
+(pages 54-55).; Responsibility: prepared by F. Deal Crooker.</field>
+<field name="publisher">Hawaii (Territory) Department of Public Instruction. Division of
+Instruction</field>
+<field name="pub_place">Honolulu, HI</field>
+<field name="language">English</field>
+<field name="call_number">377.2 .H38m</field>
+<field name="state_country">Hawaii</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Florida State Department of Education</field>
+<field name="title">A guide; teaching moral and spiritual values in Florida schools</field>
+<field name="year">1962</field>
+<field name="date">1962</field>
+<field name="keywords">Moral education</field>
+<field name="notes">86 pages.; Note(s): Includes bibliographical references.; Other Titles: Teaching
+moral and spiritual values in Florida schools.</field>
+<field name="series_title">Florida.; State Department of Education.; Bulletin</field>
+<field name="series_vol">14</field>
+<field name="publisher">Florida State Department of Education</field>
+<field name="pub_place">Tallahassee, FL</field>
+<field name="language">English</field>
+<field name="call_number">377.2 .F63g</field>
+<field name="state_country">Florida</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Fresno (California) City Unified School District</field>
+<field name="title">We live by values</field>
+<field name="year">1957</field>
+<field name="date">1957</field>
+<field name="pages">40</field>
+<field name="keywords">Moral education</field>
+<field name="publisher">Fresno (California) City Unified School District</field>
+<field name="pub_place">Fresno, CA</field>
+<field name="language">English</field>
+<field name="call_number">377.2 .F88w</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Jefferson County (Alabama) Board of Education</field>
+<field name="title">Ways of developing moral and spiritual values: a report of the committee on ways
+of developing desirable moral an spiritual values in children and youth</field>
+<field name="year">1955</field>
+<field name="date">1955</field>
+<field name="pages">30</field>
+<field name="keywords">Moral education</field>
+<field name="publisher">Jefferson County (Alabama) Board of Education</field>
+<field name="pub_place">Birmingham, AL</field>
+<field name="language">English</field>
+<field name="call_number">377.2 .J45w</field>
+<field name="state_country">Alabama</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Long Beach (California) City Schools</field>
+<field name="title">When we teach values</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="pages">106</field>
+<field name="keywords">Moral education</field>
+<field name="notes">106 p. ill.</field>
+<field name="publisher">Long Beach (California) City Schools</field>
+<field name="pub_place">Long Beach, CA</field>
+<field name="language">English</field>
+<field name="call_number">377.2 .L84w</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City School District</field>
+<field name="title">The teaching of values; an instructional guide for kindergarten, grades
+1-14</field>
+<field name="year">1966</field>
+<field name="date">1966</field>
+<field name="pages">195</field>
+<field name="keywords">Moral education</field>
+<field name="notes">xii; 24 cm.; Note(s): Includes bibliographical references.</field>
+<field name="series_title">Los Angeles City School District.; Division of Instructional Services.;
+Publication</field>
+<field name="series_vol">GC-15.</field>
+<field name="publisher">Los Angeles (California) City School District</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="language">English</field>
+<field name="call_number">377.2 .L87t v. 1</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City School District</field>
+<field name="title">Bibliography to accompany the teaching of values; an instructional guide for
+kindergarten, grades 1-14</field>
+<field name="year">1966</field>
+<field name="pages">76</field>
+<field name="keywords">Bibliography</field>
+<field name="keywords">Moral education</field>
+<field name="notes">vi; 28 cm.; Other Titles: Teaching of values</field>
+<field name="series_title">Los Angeles City School District.; Division of Instructional Services.;
+Publication</field>
+<field name="series_vol">GC-14</field>
+<field name="publisher">Los Angeles (California) City School District</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="language">English</field>
+<field name="call_number">377.2 .L87t v. 2</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">National Congress of Parents and Teachers</field>
+<field name="corp_author">Educational Policies Commission</field>
+<field name="title">Moral and spiritual education in home, school, and community; a program aid for
+your P.T.A</field>
+<field name="year">1953</field>
+<field name="date">05/1953</field>
+<field name="pages">28</field>
+<field name="keywords">Moral education</field>
+<field name="notes">28 p. 23 cm.; Responsibility: Prepared in cooperation with the Educational
+Policies Commission.</field>
+<field name="publisher">National Congress of Parents and Teachers</field>
+<field name="pub_place">Chicago, IL</field>
+<field name="language">English</field>
+<field name="call_number">377.2 .N27m</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">New York (New York) City Board of Education</field>
+<field name="title">The development of moral and spiritual ideals in the public schools</field>
+<field name="year">1956</field>
+<field name="date">10/1956</field>
+<field name="pages">16</field>
+<field name="keywords">Moral education</field>
+<field name="notes">16 p. ; 24 cm.; Responsibility: Board of Education of the City of New
+York.</field>
+<field name="publisher">New York (New York) City Board of Education</field>
+<field name="pub_place">New York, NY</field>
+<field name="language">English</field>
+<field name="call_number">377.2 .N532d</field>
+<field name="state_country">New York</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Saint Louis (Missouri) Public School</field>
+<field name="title">Moral and spiritual values in the Saint Louis public schools</field>
+<field name="year">1954</field>
+<field name="date">01/1954</field>
+<field name="pages">19</field>
+<field name="keywords">Moral education</field>
+<field name="series_title">Saint Louis (Missouri) Public School. Research and survey series, The Saint Louis public school journal</field>
+<field name="series_vol">7</field>
+<field name="issue">3</field>
+<field name="publisher">Saint Louis (Missouri) Public School</field>
+<field name="pub_place">Saint Louis, MO</field>
+<field name="language">English</field>
+<field name="call_number">377.2 .S14m</field>
+<field name="state_country">Missouri</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Everett, Marcia A.</field><field name="author_nat">Marcia A. Everett</field>
+<field name="corp_author">New Jersey. Character and Citizenship Education Commission</field>
+<field name="title">Their future is in our hands; education for character and citizenship</field>
+<field name="year">1953</field>
+<field name="date">1953</field>
+<field name="pages">150</field>
+<field name="keywords">Moral education</field>
+<field name="keywords">Child development</field>
+<field name="notes">150 p. illus. 28 cm.; Note(s): Cover title./ Bibliography: p. 143-149.;
+Responsibility: [Marcia A. Everett, editor and coordinator].</field>
+<field name="publisher">New Jersey State Department of Education</field>
+<field name="pub_place">Trenton, NJ</field>
+<field name="language">English</field>
+<field name="call_number">377.2 .N53t</field>
+<field name="state_country">New Jersey</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Adams, Flora A.</field><field name="author_nat">Flora A. Adams</field>
+<field name="corp_author">San Diego (California) City Schools</field>
+<field name="title">A guide to moral and spiritual education in elementary schools</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="pages">72</field>
+<field name="keywords">Moral education</field>
+<field name="notes">62 p.; Responsibility: prepared by Flora A Adams at the request of the School
+Community Advisory Committee on Moral and Spiritual Education, 1951-52 [and] 1955-56. Approved by
+the Board of Education.</field>
+<field name="edition">Rev</field>
+<field name="publisher">San Diego (California) City Schools</field>
+<field name="pub_place">San Diego, CA</field>
+<field name="language">English</field>
+<field name="call_number">377.2 .S19g v. 1</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">San Diego (California) City Schools</field>
+<field name="title">A guide to moral and spiritual education in secondary schools</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="pages">55</field>
+<field name="keywords">Moral education</field>
+<field name="notes">55 leaves ; 28 cm.; Note(s): Includes bibliographical references.;
+Responsibility: prepared by Wayne Laughery at the request of the School-Community Advisory Committee
+on Moral and Spiritual Education, 1951-52 ... School-Community Advisory Committee on Moral and
+Spiritual Education, 1955-56 ... Approved by the Board of Education.</field>
+<field name="issue">Rev</field>
+<field name="publisher">San Diego (California) City Schools</field>
+<field name="pub_place">San Diego, CA</field>
+<field name="language">English</field>
+<field name="call_number">377.2 .S19g v. 2</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">San Diego (California) City Schools</field>
+<field name="title">Spiritual values; summarizing present practices and suggesting activities for
+the development of spiritual values in education</field>
+<field name="year">1948</field>
+<field name="date">1948</field>
+<field name="keywords">Moral education</field>
+<field name="abstract">pt. 1. Our practices in San Diego schools. 1. Respect for personality -- 2.
+Loyalty to ideals of American democratic group life -- 3. Responsibility for self-direction -- 4.
+Perseverance in pursuit of worthy goals -- 5. Sensitivity, creative ability, reverence -- pt. 2. Our
+educational planning. 6. Influence of the teacher's personality -- 7. Opportunities in the
+curriculum -- 8. Principles of character formation.</field>
+<field name="notes">111 p. illus. 26 cm.; Note(s): "Instructional aids" (bibliographical): p.
+101-111.</field>
+<field name="publisher">San Diego (California) City Schools</field>
+<field name="pub_place">San Diego, CA</field>
+<field name="language">English</field>
+<field name="call_number">377.2 .S19s</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">San Fernando Valley (California) Committee</field>
+<field name="title">Suggested program: moral and spiritual values curriculum public schools of
+California non-sectarian</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="keywords">Moral education</field>
+<field name="publisher">San Fernando Valley (California) Committee</field>
+<field name="language">English</field>
+<field name="call_number">377.2 .S195s</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">San Mateo County (California) Board of Education</field>
+<field name="title">Moral and spiritual values in education for kindergarten--grade eight</field>
+<field name="year">1955</field>
+<field name="date">1955</field>
+<field name="keywords">Character</field>
+<field name="keywords">Moral education</field>
+<field name="keywords">Curricula</field>
+<field name="notes">72 leaves ; 28 cm.; Responsibility: approved by San Mateo County Board of
+Education ...</field>
+<field name="publisher">San Mateo County (California) Board of Education</field>
+<field name="pub_place">Redwood City, CA</field>
+<field name="language">English</field>
+<field name="call_number">377.2 .S196m</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary</field>
+<field name="grade_level_group">Middle school</field>
+</doc>
+</add>

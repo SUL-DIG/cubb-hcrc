@@ -1,0 +1,899 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="type">Book</field>
+<field name="author">Durr, William Kirtley</field><field name="author_nat">William Kirtley Durr</field>
+<field name="title">The first day of school</field>
+<field name="year">1957</field>
+<field name="date">1957</field>
+<field name="pages">16</field>
+<field name="keywords">Classroom management</field>
+<field name="keywords">Teaching</field>
+<field name="keywords">Elementary education</field>
+<field name="notes">ill. ; 23 cm.; Responsibility: William K. Durr.</field>
+<field name="series_title">Professional series bulletin</field>
+<field name="series_vol">28</field>
+<field name="publisher">Bureau of Educational Research, College of Education, Michigan State
+University</field>
+<field name="pub_place">East Lansing, MI</field>
+<field name="language">English</field>
+<field name="call_number">375.13 .M62f</field>
+<field name="state_country">Michigan</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Minneapolis (Minnesota) Public Schools</field>
+<field name="title">Living and learning in the elementary schools</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="pages">152</field>
+<field name="keywords">Elementary education</field>
+<field name="notes">ill. ; 29 cm.; Note(s): Includes bibliographical references and index.</field>
+<field name="edition">Rev</field>
+<field name="publisher">Minneapolis (Minnesota) Public Schools</field>
+<field name="pub_place">Minneapolis, MN</field>
+<field name="language">English</field>
+<field name="call_number">375.13 M665L</field>
+<field name="state_country">Minnesota</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Minnesota State Department of Education</field>
+<field name="title">A guide for better instruction in Minnesota schools</field>
+<field name="year">1946</field>
+<field name="date">1946</field>
+<field name="pages">203</field>
+<field name="keywords">Curricula</field>
+<field name="keywords">Public schools</field>
+<field name="notes">203 pages : illustrations ; 23 cm.; Note(s): Bibliography at end of each
+chapter.; Responsibility: State of Minnesota, Department of Education.</field>
+<field name="series_title">Curriculum bulletin (Minnesota. Department of Education)</field>
+<field name="series_vol">1</field>
+<field name="publisher">Minnesota State Department of Education</field>
+<field name="pub_place">St. Paul, MN</field>
+<field name="language">English</field>
+<field name="call_number">375.13 .M668g</field>
+<field name="state_country">Minnesota</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Monrovia (California) City SChool District</field>
+<field name="title">Supplementary outline to Los Angeles County course of study</field>
+<field name="year">1957</field>
+<field name="date">09/1957</field>
+<field name="pages">20</field>
+<field name="keywords">Curricula</field>
+<field name="publisher">Monrovia (California) City SChool District</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="language">English</field>
+<field name="call_number">375.13 .M75s</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Morongo (California) Unified School District</field>
+<field name="title">Course of study outline for elementary schools</field>
+<field name="year">1960</field>
+<field name="date">1960</field>
+<field name="pages">354</field>
+<field name="keywords">Curricula</field>
+<field name="keywords">Elementary education</field>
+<field name="publisher">Morongo (California) Unified School District</field>
+<field name="pub_place">Twentynine Palms, CA</field>
+<field name="language">English</field>
+<field name="call_number">375.13 .M82c</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Alameda (California) County Schools</field>
+<field name="title">Curriculum guide for seventh and eighth grades</field>
+<field name="year">1953</field>
+<field name="date">06/1953</field>
+<field name="pages">106</field>
+<field name="keywords">Curricula</field>
+<field name="publisher">Alameda (California) County Schools</field>
+<field name="pub_place">Alameda, CA</field>
+<field name="language">English</field>
+<field name="call_number">375.14 .A31c</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Battle Creek (Michigan) Public Schools</field>
+<field name="title">Social studies and English program for the seventh grade</field>
+<field name="year">1956</field>
+<field name="date">08/1956</field>
+<field name="keywords">Social sciences</field>
+<field name="keywords">English language</field>
+<field name="publisher">Battle Creek (Michigan) Public Schools</field>
+<field name="pub_place">Battle Creek, MI</field>
+<field name="language">English</field>
+<field name="call_number">375.14.B33s v. 1</field>
+<field name="state_country">Michigan</field>
+<field name="grade_level_number">7th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Battle Creek (Michigan) Public Schools</field>
+<field name="title">Social studies and English program for the eighth grade</field>
+<field name="year">1956</field>
+<field name="date">08/1956</field>
+<field name="keywords">Social sciences</field>
+<field name="keywords">English language</field>
+<field name="publisher">Battle Creek (Michigan) Public Schools</field>
+<field name="pub_place">Battle Creek, MI</field>
+<field name="language">English</field>
+<field name="call_number">375.14.B33s v. 2</field>
+<field name="state_country">Michigan</field>
+<field name="grade_level_number">8th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Boston (Massachusetts) School Committee</field>
+<field name="title">Organization and administration of junior high schools in Boston</field>
+<field name="year">1957</field>
+<field name="date">1957</field>
+<field name="pages">22</field>
+<field name="keywords">Junior high schools</field>
+<field name="keywords">School administrators</field>
+<field name="series_title">Variation: Boston (Mass.).; School Committee.; School document</field>
+<field name="series_vol">1</field>
+<field name="publisher">Boston (Massachusetts) Public Schools</field>
+<field name="pub_place">Boston, MA</field>
+<field name="language">English</field>
+<field name="call_number">375.14 .B74o</field>
+<field name="state_country">Massachusetts</field>
+<field name="grade_level_group">Middle school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Clover Park School District 400 (Lakewood Center, Washington)</field>
+<field name="title">Using blocks of time : aids to the teaching of social studies and English in
+grades seven and eight</field>
+<field name="year">1960</field>
+<field name="date">1960</field>
+<field name="pages">185</field>
+<field name="keywords">Social sciences</field>
+<field name="keywords">English language</field>
+<field name="notes">185 p. ; 28 cm.; Note(s): Includes bibliographical references (p. 178-185).;
+Responsibility: Clover Park School District No. 400.</field>
+<field name="publisher">Clover Park School District 400</field>
+<field name="pub_place">Lakewood Center, WA</field>
+<field name="language">English</field>
+<field name="call_number">375.14 .C64u</field>
+<field name="state_country">Washington</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Henderson, Adin D.</field><field name="author_nat">Adin D. Henderson</field>
+<field name="title">Handbook for junior high school education in California. Prepared for the Bureau
+of Elementary and Secondary Education, Division of Instruction</field>
+<field name="year">1969</field>
+<field name="date">1969</field>
+<field name="pages">268</field>
+<field name="keywords">Junior high schools</field>
+<field name="notes">xii; 23 cm.; Note(s): Bibliography: p. 250-264.; Responsibility: by Adin D.
+Henderson.</field>
+<field name="publisher">California State Department of Education</field>
+<field name="pub_place">Sacramento, CA</field>
+<field name="language">English</field>
+<field name="call_number">375.14 .C15h</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Middle school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Cleveland Heights (Ohio) Public Schools</field>
+<field name="title">Living and learning in the junior high school: a manual of information for the
+guidance of pupils, parents, and teachers</field>
+<field name="year">1948</field>
+<field name="date">05/1948</field>
+<field name="pages">11</field>
+<field name="keywords">Junior high schools</field>
+<field name="publisher">Cleveland Heights (Ohio) Public Schools</field>
+<field name="pub_place">Cleveland Heights, OH</field>
+<field name="language">English</field>
+<field name="call_number">375.14 .C63L</field>
+<field name="state_country">Ohio</field>
+<field name="grade_level_group">Middle school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Connecticut State Department of Education</field>
+<field name="title">The junior high school in Connecticut : a survey of curriculum and special
+services</field>
+<field name="year">1954</field>
+<field name="date">02/1954</field>
+<field name="pages">43</field>
+<field name="keywords">Junior high schools</field>
+<field name="keywords">Curriculum enrichment</field>
+<field name="notes">43 pages ; 28 cm; Note(s): Cover title./ "February, 1954."; Other Titles: Survey
+of curriculum and special services</field>
+<field name="publisher">Connecticut State Department of Education</field>
+<field name="pub_place">Hartford, CT</field>
+<field name="language">English</field>
+<field name="call_number">375.14 .C75j</field>
+<field name="state_country">Connecticut</field>
+<field name="grade_level_group">Middle school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Dearborn (Michigan) Public Schools. Division of Instruction</field>
+<field name="title">Supplement : the Dearborn junior high school curriculum study progress report,
+August, 1964</field>
+<field name="year">1964</field>
+<field name="date">08/1964</field>
+<field name="pages">25</field>
+<field name="keywords">Junior high schools</field>
+<field name="keywords">Curricula</field>
+<field name="notes">Supplement: the Dearborn junior high school curriculum study progress report,
+August, 1964 / Dearborn Public Schools. 1964 English Book 25 p. : ill. ; 28 cm. Dearborn, Mich. :
+Dearborn Public Schools; ill. ; 28 cm.; Other Titles: Supplement to progress report, junior high
+school curriculum study 1963-1964 and preview of 1964-1965; Responsibility: Division of Instruction,
+Dearborn Public Schools.</field>
+<field name="publisher">Dearborn (Michigan) Public Schools</field>
+<field name="pub_place">Dearborn, MI</field>
+<field name="language">English</field>
+<field name="call_number">375.14 .D28p Supp.</field>
+<field name="state_country">Michigan</field>
+<field name="grade_level_group">Middle school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Dearborn (Michigan) Public Schools. Division of Instruction</field>
+<field name="title">Progress report of the Dearborn junior high school curriculum study during
+1963-64</field>
+<field name="year">1964</field>
+<field name="date">08/1964</field>
+<field name="pages">61</field>
+<field name="keywords">Junior high schools</field>
+<field name="keywords">Curricula</field>
+<field name="notes">61 p. tables. 28 cm.; Note(s): Bibliography: p. 52-61.</field>
+<field name="publisher">Dearborn (Michigan) Public School</field>
+<field name="pub_place">Dearborn, MI</field>
+<field name="language">English</field>
+<field name="call_number">375.14 .D28p</field>
+<field name="state_country">Michigan</field>
+<field name="grade_level_group">Middle school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Frederick County (Maryland) Board of Education</field>
+<field name="title">A core program for core teaching : a handbook for core teachers</field>
+<field name="year">1957</field>
+<field name="date">1957</field>
+<field name="pages">79</field>
+<field name="keywords">Teaching</field>
+<field name="series_title">Frederick County (Maryland) Board of Education. Curriculum
+bulletin</field>
+<field name="series_vol">1</field>
+<field name="notes">79 p. ; cm</field>
+<field name="publisher">Frederick County (Maryland) Board of Education</field>
+<field name="pub_place">Frederick, MD</field>
+<field name="language">English</field>
+<field name="call_number">375.14 .F85c v. 1</field>
+<field name="state_country">Maryland</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Decatur (Illinois) Public Schools</field>
+<field name="title">A guide for combination social studies and English grade 7</field>
+<field name="year">1955</field>
+<field name="date">06/1955</field>
+<field name="keywords">Social sciences</field>
+<field name="keywords">English language</field>
+<field name="publisher">Decatur (Illinois) Public Schools</field>
+<field name="pub_place">Decatur, IL</field>
+<field name="language">English</field>
+<field name="call_number">375.14 .D29g</field>
+<field name="state_country">Illinois</field>
+<field name="grade_level_number">7th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Baughman, Millard Dale</field><field name="author_nat">Millard Dale Baughman</field>
+<field name="corp_author">Junior High School Association of Illinois</field>
+<field name="title">Pupil evaluation in the junior high school</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="pages">70</field>
+<field name="keywords">Grading and marking</field>
+<field name="keywords">Junior high schools</field>
+<field name="notes">70 p.; Note(s): Includes bibliographical references.</field>
+<field name="publisher">Interstate Printers and Publishers</field>
+<field name="pub_place">Urbana, IL</field>
+<field name="language">English</field>
+<field name="call_number">375.14 .I29p</field>
+<field name="state_country">Illinois</field>
+<field name="grade_level_group">Middle school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Frederick County (Maryland) Board of Education</field>
+<field name="title">Understanding myself and my world and living in a democratic society : skeleton
+outline of units in suggested problem areas for grades seven, eight, and nine</field>
+<field name="year">1957</field>
+<field name="date">1957</field>
+<field name="pages">66</field>
+<field name="series_title">Frederick County (Maryland) Board of Education. Curriculum
+bulletin</field>
+<field name="series_vol">2</field>
+<field name="keywords">Junior high schools</field>
+<field name="keywords">Curricula</field>
+<field name="notes">66 p. ; cm</field>
+<field name="publisher">Frederick County (Maryland) Board of Education</field>
+<field name="pub_place">Frederick, MD</field>
+<field name="language">English</field>
+<field name="call_number">375.14 .F85c</field>
+<field name="state_country">Maryland</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Iowa State Department of Public Instruction</field>
+<field name="title">Junior high schools for Iowa youth</field>
+<field name="year">1960</field>
+<field name="date">1960</field>
+<field name="pages">60</field>
+<field name="keywords">Junior high schools</field>
+<field name="keywords">Curricula</field>
+<field name="notes">xii; ill. ; 28 cm.; Responsibility: State Dept. of Public Instruction, Division
+of Curriculum.</field>
+<field name="publisher">Iowa State Department of Public Instruction</field>
+<field name="pub_place">Des Moines. IA</field>
+<field name="language">English</field>
+<field name="call_number">375.14 I64j</field>
+<field name="state_country">Iowa</field>
+<field name="grade_level_group">Middle school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Jefferson County (Kentucky) Public Schools</field>
+<field name="title">Core curriculum bulletin: a tentative guide for teachers</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="pages">257</field>
+<field name="keywords">Curricula</field>
+<field name="publisher">Jefferson County (Kentucky) Public Schools</field>
+<field name="language">English</field>
+<field name="call_number">375.14 .J45c</field>
+<field name="state_country">Kentucky</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Long Beach City (California) Schools. Office of Curriculum
+Development</field>
+<field name="title">A guide to the teaching of eighth grade social living</field>
+<field name="year">1957</field>
+<field name="date">1957</field>
+<field name="pages">371</field>
+<field name="keywords">Social sciences</field>
+<field name="keywords">Curricula</field>
+<field name="notes">371 p. ; 22 x 28 cm.; Note(s): Includes bibliographical references.</field>
+<field name="publisher">Long Beach City (California) Schools</field>
+<field name="pub_place">Long Beach, CA</field>
+<field name="language">English</field>
+<field name="call_number">375.14 .L84g</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">8th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Maine State Department of Education</field>
+<field name="title">A Guide to learning in grades seven, eight, and nine</field>
+<field name="year">1962</field>
+<field name="date">1962</field>
+<field name="pages">234</field>
+<field name="keywords">Secondary education</field>
+<field name="keywords">Curricula</field>
+<field name="keywords">Psychology of learning</field>
+<field name="notes">234 pages ; 28 cm.; Note(s): Includes bibliographical references.</field>
+<field name="series_title">Curriculum bulletin</field>
+<field name="series_vol">22</field>
+<field name="publisher">Maine State Department of Education</field>
+<field name="pub_place">Augusta, ME</field>
+<field name="language">English</field>
+<field name="call_number">375.14 .M22g</field>
+<field name="state_country">Maine</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Manhasset (New York) Public Schools</field>
+<field name="title">Your junior high school</field>
+<field name="year">1955</field>
+<field name="date">1955-1956</field>
+<field name="pages">23</field>
+<field name="keywords">Junior high schools</field>
+<field name="publisher">Manhasset (New York) Public Schools</field>
+<field name="pub_place">Long Island, NY</field>
+<field name="language">English</field>
+<field name="call_number">375.14 .M27y</field>
+<field name="state_country">New York</field>
+<field name="grade_level_group">Middle school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Shaeffer, Jo</field><field name="author_nat">Jo Shaeffer</field>
+<field name="author">Jaquette, Fred</field><field name="author_nat">Fred Jaquette</field>
+<field name="corp_author">Mesa County (Colorado) Valley Schools</field>
+<field name="title">Ungraded elementary schools</field>
+<field name="pages">9</field>
+<field name="keywords">Elementary school</field>
+<field name="keywords">Nongraded schools</field>
+<field name="publisher">Mesa County (Colorado) Valley Schools</field>
+<field name="pub_place">Grand Junction, CO</field>
+<field name="language">English</field>
+<field name="call_number">375.13 .M57u</field>
+<field name="state_country">Colorado</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Missouri State Board of Education</field>
+<field name="title">Missouri's elementary curriculum guide : grades one-six. Language arts, social
+studies-science, arithmetic</field>
+<field name="year">1955</field>
+<field name="date">1955</field>
+<field name="pages">313</field>
+<field name="keywords">Elementary education</field>
+<field name="keywords">Curricula</field>
+<field name="notes">xiii; ill. ; 28 cm.; Note(s): Cover title: A guide for elementary education.;
+Other Titles: Elementary curriculum guide; Guide for elementary education; Responsibility: State
+Board of Education.</field>
+<field name="series_title">Missouri.; Board of Education.; Publication</field>
+<field name="series_vol">100</field>
+<field name="publisher">Missouri State Board of Education</field>
+<field name="pub_place">Jefferson City, MO</field>
+<field name="language">English</field>
+<field name="call_number">375.13 .M67g</field>
+<field name="state_country">Missouri</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Las Vegas (New Mexico) City Schools</field>
+<field name="title">Core programs: 7th and 8th grades, 1956-57</field>
+<field name="year">1956</field>
+<field name="date">1956-1957</field>
+<field name="keywords">Junior high schools</field>
+<field name="publisher">Las Vegas (New Mexico) City Schools</field>
+<field name="pub_place">Las Vegas, NM</field>
+<field name="language">English</field>
+<field name="call_number">375.14 .L34c</field>
+<field name="state_country">New Mexico</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Monterey County (California) Schools</field>
+<field name="title">Monterey County schools curriculum</field>
+<field name="year">1958</field>
+<field name="date">09/1958</field>
+<field name="keywords">Curricula</field>
+<field name="notes">p. ; cm</field>
+<field name="edition">Rev.</field>
+<field name="publisher">Monterey County (California) Schools</field>
+<field name="pub_place">Monterey, CA</field>
+<field name="language">English</field>
+<field name="call_number">375.13 .M77c</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Napa (California) Schools</field>
+<field name="corp_author">Stockton (California) Schools</field>
+<field name="corp_author">Vallejo (California) Schools</field>
+<field name="title">The middle four of 6-4-4</field>
+<field name="pages">15</field>
+<field name="keywords">Middle school</field>
+<field name="publisher">Napa (California) Schools</field>
+<field name="pub_place">Napa, CA</field>
+<field name="language">English</field>
+<field name="call_number">375.14 .N19m</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Middle school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">New York (New York) Board of Education. Division of Junior High
+Schools</field>
+<field name="title">Developing a core program in the junior high school grades</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="pages">136</field>
+<field name="keywords">Junior high schools</field>
+<field name="keywords">Curricula</field>
+<field name="notes">136 p. illus. 23 cm.; Responsibility: [by] Division of Junior High Schools [and]
+Division of Curriculum Development, Board of Education of the city of New York.</field>
+<field name="series_title">New York (N.Y.). Board of Education. Curriculum bulletin, 1957-58
+series</field>
+<field name="series_vol">12</field>
+<field name="publisher">New York (New York) Board of Education</field>
+<field name="pub_place">Brooklyn, NY</field>
+<field name="language">English</field>
+<field name="call_number">375.14 .N532d</field>
+<field name="state_country">New York</field>
+<field name="grade_level_group">Middle school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Secondary Education Board (Massachusetts)</field>
+<field name="title">Definition of the requirements for 1956 : with the examinations of March and
+May, 1955 ..</field>
+<field name="year">1955</field>
+<field name="date">1955</field>
+<field name="keywords">Examinations</field>
+<field name="keywords">Private schools</field>
+<field name="publisher">Office of the Secondary Education Board</field>
+<field name="pub_place">Milton, MA</field>
+<field name="language">English</field>
+<field name="call_number">375.14 .M66d</field>
+<field name="state_country">Massachusetts</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of the State of New York</field>
+<field name="title">A design for early secondary education in New York State : suggestions to
+schools and their communities for improving educational programs in grades 7, 8 and 9</field>
+<field name="year">1954</field>
+<field name="date">1954</field>
+<field name="pages">118</field>
+<field name="keywords">Secondary education</field>
+<field name="keywords">Junior high schools</field>
+<field name="notes">x; ill. ; 29 cm.; Note(s): Includes bibliographical references.</field>
+<field name="publisher">University of the State of New York</field>
+<field name="pub_place">Albany, NY</field>
+<field name="language">English</field>
+<field name="call_number">375.14 .N53d</field>
+<field name="state_country">New York</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Oakland (California) Public Schools</field>
+<field name="title">Description of courses offered in junior high schools</field>
+<field name="year">1960</field>
+<field name="date">03/1960</field>
+<field name="pages">17</field>
+<field name="keywords">Curricula</field>
+<field name="keywords">Junior high schools</field>
+<field name="publisher">Oakland (California) Public Schools</field>
+<field name="pub_place">Oakland, CA</field>
+<field name="language">English</field>
+<field name="call_number">375.14 .O11d</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Middle school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Oklahoma State Department of Public Instruction</field>
+<field name="title">Scale for evaluating a junior high school</field>
+<field name="keywords">Junior high schools</field>
+<field name="publisher">Oklahoma State Department of Public Instruction</field>
+<field name="language">English</field>
+<field name="call_number">375.14 .O41s</field>
+<field name="state_country">Oklahoma</field>
+<field name="grade_level_group">Middle school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Mortimore, David E.</field><field name="author_nat">David E. Mortimore</field>
+<field name="author">Roberts, Thomas H.</field><field name="author_nat">Thomas H. Roberts</field>
+<field name="author">Jackson, Donald M.</field><field name="author_nat">Donald M. Jackson</field>
+<field name="title">The emergence and development of a radically innovative junior high school
+program</field>
+<field name="year">1973</field>
+<field name="date">10/1973</field>
+<field name="pages">39</field>
+<field name="keywords">Junior high schools</field>
+<field name="keywords">Curricula</field>
+<field name="notes">39 p. ; 28 cm.; Note(s): Cover title./ Oregon ASCD curriculum bulletin, no. 319,
+Oct. 1973./ Analysis of the program during its initial 3 years of development and its first year of
+operation (1969/70)--at Theodore Roosevelt Junior High School in Eugene, Oregon./ Includes
+bibliographical references (p. 39).; Other Titles: Oregon ASCD curriculum bulletin.; Responsibility:
+prepared by David E. Mortimer [sic], Thomas H. Roberts [and] Donald M. Jackson ; Harold Stauffer,
+special ed.</field>
+<field name="series_title">Oregon ASCD curriculum bulletin</field>
+<field name="series_vol">27</field>
+<field name="issue">319</field>
+<field name="publisher">Oregon Association for Supervision and Curriculum Development</field>
+<field name="pub_place">Salem, OR</field>
+<field name="language">English</field>
+<field name="call_number">375.14 .O65e</field>
+<field name="state_country">Oregon</field>
+<field name="grade_level_group">Middle school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Hansen, John H.</field><field name="author_nat">John H. Hansen</field>
+<field name="title">Age of trial: the junior high school years</field>
+<field name="year">1964</field>
+<field name="date">07/1964</field>
+<field name="pages">13</field>
+<field name="keywords">Junior high schools</field>
+<field name="series_title">Oregon ASCD curriculum bulletin</field>
+<field name="series_vol">20</field>
+<field name="issue">246</field>
+<field name="publisher">Oregon Association for Supervision and Curriculum Development</field>
+<field name="pub_place">Salen, OR</field>
+<field name="language">English</field>
+<field name="call_number">375.14 .O66a</field>
+<field name="grade_level_group">Middle school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Akin, J. G.</field><field name="author_nat">J. G. Akin</field>
+<field name="author">Lee, Enda</field><field name="author_nat">Enda Lee</field>
+<field name="author">Fulcher, Virginia</field><field name="author_nat">Virginia Fulcher</field>
+<field name="author">Grayson, Vera</field><field name="author_nat">Vera Grayson</field>
+<field name="author">Dossett, Janey</field><field name="author_nat">Janey Dossett</field>
+<field name="author">Williams, Annie B.</field><field name="author_nat">Annie B. Williams</field>
+<field name="author">Courtney, Louise</field><field name="author_nat">Louise Courtney</field>
+<field name="title">The core program for grade seven</field>
+<field name="year">1951</field>
+<field name="date">06/1951</field>
+<field name="keywords">Curricula</field>
+<field name="publisher">Owensboro (Kentucky) Public Schools</field>
+<field name="pub_place">Owensboro, KY</field>
+<field name="language">English</field>
+<field name="call_number">375.14 .O97c</field>
+<field name="state_country">Kentucky</field>
+<field name="grade_level_number">7th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Lee, Enda</field><field name="author_nat">Enda Lee</field>
+<field name="author">Brashear, Lucile</field><field name="author_nat">Lucile Brashear</field>
+<field name="author">Fields, Harry</field><field name="author_nat">Harry Fields</field>
+<field name="author">Gentry, Julia</field><field name="author_nat">Julia Gentry</field>
+<field name="author">Johnson, Josie</field><field name="author_nat">Josie Johnson</field>
+<field name="author">Maas, Sonja</field><field name="author_nat">Sonja Maas</field>
+<field name="author">Robinson, W. H.</field><field name="author_nat">W. H. Robinson</field>
+<field name="title">The core curriculum bulletin no. 2</field>
+<field name="year">1961</field>
+<field name="date">07/1961</field>
+<field name="keywords">Curricula</field>
+<field name="publisher">Owensboro (Kentucky) Public Schools</field>
+<field name="pub_place">Owensboro, KY</field>
+<field name="language">English</field>
+<field name="call_number">375.14 .O97c 1961</field>
+<field name="state_country">Kentucky</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Pasadena (California) Junior High Schools</field>
+<field name="title">English - social studies program in the Pasadena junior high schools</field>
+<field name="year">1955</field>
+<field name="date">1955</field>
+<field name="keywords">Social sciences</field>
+<field name="keywords">English language</field>
+<field name="publisher">Pasadena (California) Junior High Schools</field>
+<field name="pub_place">Pasadena, CA</field>
+<field name="language">English</field>
+<field name="call_number">375.14 .P27e</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Middle school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Hamann, James A.</field><field name="author_nat">James A. Hamann</field>
+<field name="author">Jennings, Wayne B.</field><field name="author_nat">Wayne B. Jennings</field>
+<field name="author">Koch, Keith S.</field><field name="author_nat">Keith S. Koch</field>
+<field name="title">Teaching the core class : some suggested methods</field>
+<field name="year">1967</field>
+<field name="date">08/1967</field>
+<field name="pages">62</field>
+<field name="keywords">Curricula</field>
+<field name="notes">iv; ; 28 cm.; Note(s): Includes bibliographical references (p. 61-62).;
+Responsibility: by James A. Hamann, Wayne B. Jennings, Keith S. Koch.</field>
+<field name="series_title">St. Paul (Minnesota) Publication </field>
+<field name="series_vol">323</field>
+<field name="publisher">Office of Instruction, St. Paul (Minnesota) Public Schools</field>
+<field name="pub_place">St. Paul, MN</field>
+<field name="language">English</field>
+<field name="call_number">375.14 .S14t</field>
+<field name="state_country">Minnesota</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Philadelphia (Pennsylvania) Public Schools</field>
+<field name="title">Choosing appropriate techniques</field>
+<field name="year">1964</field>
+<field name="date">1964</field>
+<field name="pages">79</field>
+<field name="keywords">Junior high schools</field>
+<field name="keywords">Curricula</field>
+<field name="keywords">Lesson planning</field>
+<field name="notes">ix, 79 leaves : ill. ; 28 cm.; Note(s): Includes bibliographical references
+(leaf 79).; Responsibility: Curriculum Office, Philadelphia Public Schools.</field>
+<field name="edition">Rev</field>
+<field name="publisher">Philadelphia (Pennsylvania) Public Schools</field>
+<field name="pub_place">Philadelphia, PA</field>
+<field name="language">English</field>
+<field name="call_number">375.14 .P54c</field>
+<field name="state_country">Pennsylvania</field>
+<field name="grade_level_group">Middle school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Pasadena (California) City Schools</field>
+<field name="title">Junior high school course of study</field>
+<field name="year">1947</field>
+<field name="date">1947-1948</field>
+<field name="pages">31</field>
+<field name="keywords">Junior high schools</field>
+<field name="keywords">Curricula</field>
+<field name="series_title">Secondary curriculum publication</field>
+<field name="series_vol">10</field>
+<field name="publisher">Pasadena (California) City Schools</field>
+<field name="pub_place">Pasadena, CA</field>
+<field name="language">English</field>
+<field name="call_number">375.14 .P27j</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Middle school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Raleigh (North Carolina) Public Schools</field>
+<field name="title">The junior high school program</field>
+<field name="pages">45</field>
+<field name="keywords">Junior high schools</field>
+<field name="publisher">Raleigh (North Carolina) Public Schools</field>
+<field name="pub_place">Raleigh, NC</field>
+<field name="language">English</field>
+<field name="call_number">375.14 .R16j</field>
+<field name="state_country">North Carolina</field>
+<field name="grade_level_group">Middle school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Rochester (New York) City School District</field>
+<field name="title">General education viii</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="pages">162</field>
+<field name="keywords">Curricula</field>
+<field name="publisher">Rochester (New York) City School District</field>
+<field name="pub_place">Rochester, NY</field>
+<field name="language">English</field>
+<field name="call_number">375.14 .R67g</field>
+<field name="state_country">New York</field>
+<field name="grade_level_number">8th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Spokane (Washington) Public Schools</field>
+<field name="title">Language arts-social studies guide, grades 7-8-9</field>
+<field name="year">1962</field>
+<field name="date">09/1962</field>
+<field name="pages">74</field>
+<field name="keywords">Language arts</field>
+<field name="keywords">Social sciences</field>
+<field name="publisher">Spokane (Washington) Public Schools</field>
+<field name="pub_place">Spokane, WA</field>
+<field name="language">English</field>
+<field name="call_number">375.14 .S75L</field>
+<field name="state_country">Washington</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Springfield (Missouri) Public Schools</field>
+<field name="title">Social studies, English language arts : junior high school level</field>
+<field name="year">1956</field>
+<field name="date">09/1956</field>
+<field name="pages">35</field>
+<field name="keywords">Social sciences</field>
+<field name="keywords">English language</field>
+<field name="keywords">Curricula</field>
+<field name="notes">35 p. ; 28 cm.; Note(s): Includes bibliographies.; Responsibility: [prepared
+under the direction of Roy F. Litle].</field>
+<field name="series_title">Instructional guidelines, bulletin / Springfield, Mo. Public
+Schools</field>
+<field name="series_vol">4</field>
+<field name="publisher">Springfield (Missouri) Public Schools</field>
+<field name="pub_place">Springfield, MO</field>
+<field name="language">English</field>
+<field name="call_number">375.14 .S77s</field>
+<field name="state_country">Missouri</field>
+<field name="grade_level_group">Middle school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Elizabeth Cobb School (Tallahassee, Florida)</field>
+<field name="title">Junior high curriculum guides, grades 7 &amp;8: a guide for study and further
+development</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="pages">113</field>
+<field name="keywords">Junior high schools</field>
+<field name="keywords">Curricula</field>
+<field name="publisher">Elizabeth Cobb School</field>
+<field name="pub_place">Tallahassee, FL</field>
+<field name="language">English</field>
+<field name="call_number">375.14 .T14j</field>
+<field name="state_country">Florida</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Winnetka (Illinois) Public Schools</field>
+<field name="title">Design for learning, learning laboratory, Skokie Jr. High School</field>
+<field name="year">1984</field>
+<field name="date">05/1964</field>
+<field name="pages">55</field>
+<field name="keywords">Junior high schools</field>
+<field name="publisher">Winnetka (Illinois) Public Schools</field>
+<field name="pub_place">Winnetka, IL</field>
+<field name="language">English</field>
+<field name="call_number">375.14 .W77L</field>
+<field name="state_country">Illinois</field>
+<field name="grade_level_group">Middle school</field>
+</doc>
+
+</add>

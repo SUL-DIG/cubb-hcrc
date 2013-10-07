@@ -1,0 +1,14 @@
+#facets {
+  h5 {background-color: #ffffff;}
+  h5:hover {background-color: lighten(#333399, 50%); }
+  a {
+    color: $facet_link_color;
+    font-size: 13px;
+    text-decoration: none;
+  }
+  a:hover {background-color: lighten(#333399, 20%); font-color: #ffffff;}
+  span.selected {
+    background-color: #eee;
+    color: $facet_selected_color;
+  }
+}
