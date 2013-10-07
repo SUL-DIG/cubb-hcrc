@@ -181,7 +181,12 @@ div .report {
 		}
 		}
 		}
-		
+#map_canvas {
+        width: 500px;
+        height: 400px;
+        background-color: #CCC;
+      }
+
 .form-search .radio input[type="radio"], .form-search .checkbox input[type="checkbox"], .form-inline .radio input[type="radio"], .form-inline .checkbox input[type="checkbox"] {
 float: right;
 }
