@@ -5,149 +5,65 @@ new_file = filename + '.new'
 
 
 # Replacing spreadsheet columns with xml tags.
-replace_title = '<relatedItem type="constituent"><titleInfo><title>'
-replace_annotator = '</title></titleInfo><name type="personal"><namePart>'
-replace_annotator_occ1 = '</namePart><role><roleTerm>annotator</roleTerm></role><description>'
-replace_annotator_occ2 = ', '
-replace_author = '</description></name><name type="personal"><namePart>'
-replace_author_occ1 = '</namePart><role><roleTerm>author</roleTerm></role><description>'
-replace_author_occ2 = ', '
-replace_authorofcitedbook = '</description></name><name type="personal"><namePart>'
-replace_authorofcitedbook_occ1 = '</namePart><role><roleTerm>author of cited book</roleTerm></role><description>'
-replace_authorofcitedbook_occ2 = ', '
-replace_authorofpostscript = '</description></name><name type="personal"><namePart>'
-replace_authorofpostscript_occ1 = '</namePart><role><roleTerm>author of postscript</roleTerm></role><description>'
-replace_authorofpostscriptk_occ2 = ', '
-replace_copyist = '</description></name><name type="personal"><namePart>'
-replace_copyist_occ1 = '</namePart><role><roleTerm>copyist</roleTerm></role><description>'
-replace_copyist_occ2 = ', '
-replace_exlibris = '</description></name><name type="personal"><namePart>'
-replace_exlibris_occ1 = '</namePart><role><roleTerm>ex libris</roleTerm></role><description>'
-replace_exlibris_occ2 = ', '
-replace_presumedauthor = '</description></name><name type="personal"><namePart>'
-replace_presumedauthor_occ1 = '</namePart><role><roleTerm>presumed author</roleTerm></role><description>'
-replace_presumedauthor_occ2 = ', '
-replace_presumedrecipient = '</description></name><name type="personal"><namePart>'
-replace_presumedrecipient_occ1 = '</namePart><role><roleTerm>presumed recipient</roleTerm></role><description>'
-replace_presumedrecipient_occ2 = ', '
-replace_presumedsender = '</description></name><name type="personal"><namePart>'
-replace_presumedsender_occ1 = '</namePart><role><roleTerm>presumed sender</roleTerm></role><description>'
-replace_presumedsender_occ2 = ', '
-replace_quotedname = '</description></name><name type="personal"><namePart>'
-replace_quotedname_occ1 = '</namePart><role><roleTerm>quoted name</roleTerm></role><description>'
-replace_quotedname_occ2 = ', '
-replace_recipient = '</description></name><name type="personal"><namePart>'
-replace_recipient_occ1 = '</namePart><role><roleTerm>recipient</roleTerm></role><description>'
-replace_recipient_occ2 = ', '
-replace_relatedname = '</description></name><name type="personal"><namePart>'
-replace_relatedname_occ1 = '</namePart><role><roleTerm>related name</roleTerm></role><description>'
-replace_relatedname_occ2 = ', '
-replace_sender = '</description></name><name type="personal"><namePart>'
-replace_sender_occ1 = '</namePart><role><roleTerm>sender</roleTerm></role><description>'
-replace_sender_occ2 = ', '
-replace_signatory = '</description></name><name type="personal"><namePart>'
-replace_signatory_occ1 = '</namePart><role><roleTerm>signatory</roleTerm></role><description>'
-replace_signatory_occ2 = ', '
-replace_translator = '</description></name><name type="personal"><namePart>'
-replace_translator_occ1 = '</namePart><role><roleTerm>translator</roleTerm></role><description>'
-replace_translator_occ2 = ', '
-replace_language1 = '</description></name><language><languageTerm type="code">'
-replace_language2 = '</languageTerm><language><languageTerm type="code">'
-replace_date_letter = '</language><typeOfResource>mixed material</typeOfResource><genre></genre><originInfo><!-- which item in title are this date and place associated with? --><dateOther type="letter">'
-replace_letter_place = '</dateOther><place><placeTerm>'
-replace_numberoffiles = '</placeTerm></place></originInfo><physicalDescription><internetMediaType>image/tiff</internetMediaType><extent unit="files">'
-replace_pagestart = '</extent></physicalDescription><part><extent unit="page"><start>'
-replace_pageend = '</start><end>'
-replace_comments = '</end></extent></part><abstract>'
-replace_subject1 = '</abstract><subject><topic>'
-replace_subject2 = '</topic><topic>'
-replace_acompdate = '<relatedItem type="constituent"><originInfo><dateOther type="accompanying letter">'
-replace_acompplace = '</dateOther><place><placeTerm>'
-replace_oldstyleletterdate = '</placeTerm></place></originInfo></relatedItem><relatedItem type="constituent"><originInfo><dateOther type="old style letter">'
-replace_oldestyleletterplace = '</dateOther><place><placeTerm>'
-replace_compositiondate = '</placeTerm></place></originInfo></relatedItem><relatedItem type="constituent"><originInfo><dateOther type="composition">'
-replace_compositionplace = '</dateOther><place><placeTerm>'
-replace_copydate = '</placeTerm></place></originInfo></relatedItem><relatedItem type="constituent"><originInfo><dateOther type="copy">'
-replace_copyplace = '</dateOther><place><placeTerm>'
-replace_newdocumentdate = '</placeTerm></place></originInfo></relatedItem><relatedItem type="constituent"><originInfo><dateOther type="new document">'
-replace_newdocumentplace = '</dateOther><place><placeTerm>'
-replace_letter2date = '</placeTerm></place></originInfo></relatedItem><relatedItem type="constituent"><originInfo><dateOther type="letter">'
-replace_letter2place = '</dateOther><place><placeTerm>'
-replace_letterabincdate = '</placeTerm></place></originInfo></relatedItem><relatedItem type="constituent"><originInfo><dateOther type="letter ab inc.">'
-replace_letterabincplace = '</dateOther><place><placeTerm>'
-replace_newstyleletterdate = '</placeTerm></place></originInfo></relatedItem><relatedItem type="constituent"><originInfo><dateOther type="new style letter">'
-replace_newstyleletterplace = '</dateOther><place><placeTerm>'
-replace_letterreferredtodate = '</placeTerm></place></originInfo></relatedItem><relatedItem type="constituent"><originInfo><dateOther type="letter referred to">'
-replace_letterreferredtoplace = '</dateOther><place><placeTerm>'
-replace_manuscriptreferredtodate = '</placeTerm></place></originInfo></relatedItem><relatedItem type="constituent"><originInfo><dateOther type="manuscript referred to">'
-replace_manuscriptreferredtoplace = '</dateOther><place><placeTerm>'
-replace_observationdate = '</placeTerm></place></originInfo></relatedItem><relatedItem type="constituent"><originInfo><dateOther type="observation">'
-replace_observationplace = '</dateOther><place><placeTerm>'
-replace_originalsentdate = '</placeTerm></place></originInfo></relatedItem><relatedItem type="constituent"><originInfo><dateOther type="original sent">'
-replace_originalsentplace = '</dateOther><place><placeTerm>'
-replace_proclamationdate = '</placeTerm></place></originInfo></relatedItem><relatedItem type="constituent"><originInfo><dateOther type="proclamation">'
-replace_proclamationplace = '</dateOther><place><placeTerm>'
-replace_publicationdate = '</placeTerm></place></originInfo></relatedItem><relatedItem type="constituent"><originInfo><dateOther type="publication">'
-replace_publicationplace = '</dateOther><place><placeTerm>'
-replace_quoteddate = '</placeTerm></place></originInfo></relatedItem><relatedItem type="constituent"><originInfo><dateOther type="quoted">'
-replace_quotedplace = '</dateOther><place><placeTerm>'
-replace_endoffile = '</placeTerm></place></originInfo></relatedItem></relatedItem>'
+replace_TY = '<doc><field name="type">'
+replace_A1 = '</field><field name="author">'
+replace_A2 = '</field><field name="corp_author">'
+replace_T1 = '</field><field name="title">'
+replace_Y1 = '</field><field name="year">'
+replace_SP = '</field><field name="pages">'
+replace_KW = '</field><field name="keywords">'
+replace_N1 = '</field><field name="notes">'
+replace_PB = '</field><field name="publisher">'
+replace_CY = '</field><field name="pub_place">'
+replace_LA = '</field><field name="language">'
+replace_D1 = '</field><field name="date">'
+replace_CN = '</field><field name="call_number">'
+replace_SC = '</field><field name="state_country">'
+replace_T2 = '</field><field name="series_title">'
+replace_V1 = '</field><field name="series_vol">'
+replace_V2 = '</field><field name="series_num_vol">'
+replace_IS = '</field><field name="issue">'
+replace_ED = '</field><field name="edition">'
+replace_G1 = '</field><field name="grade_level_group">'
+replace_G2 = '</field><field name="grade_level_number">'
+replace_AB = '</field><field name="abstract">'
+replace_ER = '</field></doc>'
 replace_amp = '&amp;'
+replace_space = '">'
+replace_space2 = '<'
 
-
-
-# Adding language codes.
-change_latin = '<languageTerm type="code">lat</languageTerm>'
-change_german = '<languageTerm type="code">ger</languageTerm>'
-change_italian = '<languageTerm type="code">ita</languageTerm>'
-change_greek = '<languageTerm type="code">gre</languageTerm>'
-change_arabic = '<languageTerm type="code">ara</languageTerm>'
-change_spanish = '<languageTerm type="code">spa</languageTerm>'
-
+# Adding grades.
+add_1g = '<field name="grade_level_number">1st grade</field>'
+add_2g = '<field name="grade_level_number">2nd grade</field>'
+add_3g = '<field name="grade_level_number">3rd grade</field>'
+add_4g = '<field name="grade_level_number">4th grade</field>'
+add_5g = '<field name="grade_level_number">5th grade</field>'
+add_6g = '<field name="grade_level_number">6th grade</field>'
+add_7g = '<field name="grade_level_number">7th grade</field>'
+add_8g = '<field name="grade_level_number">8th grade</field>'
+add_9g = '<field name="grade_level_number">9th grade</field>'
+add_10g = '<field name="grade_level_number">10th grade</field>'
+add_11g = '<field name="grade_level_number">11th grade</field>'
+add_12g = '<field name="grade_level_number">12th grade</field>'
+replace_BOOK = '<field name="type">Book'
+replace_JOUR = '<field name="type">Journal'
+replace_highschools = '>High school<'
+replace_middleschools = '>Middle school<'
+replace_elementaryschools = '>Elementary school<'
+replacerem_ty = '<doc><field name="type">'
+replacerem_gl = '</field><field name="grade_level_number">'
+replaceth = 'th grade<'
 
 #Add <add> tags.
 File.open(new_file,'w') do |fo|
-  fo.puts '<?xml version="1.0" encoding="UTF-8"?><modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-    <mods version="3.5">
-        <titleInfo>
-            <title>Correspondence of Athanasius Kircher</title>
-        </titleInfo>
-        <name type="personal">
-            <namePart>Gorman, Michael J.</namePart>
-            <role>
-                <roleTerm type="text">project director</roleTerm>
-            </role>
-        </name>
-        <name type="personal">
-            <namePart>Wilding, Nick</namePart>
-            <role>
-                <roleTerm type="text">project director</roleTerm>
-            </role>
-        </name>
-        <typeOfResource collection="yes">mixed material</typeOfResource>
-        <part>
-            <detail type="volume">
-                <number>555</number>
-            </detail>
-        </part>
-        <typeOfResource>mixed material</typeOfResource>
-        <physicalDescription>
-            <internetMediaType>image/tiff</internetMediaType>
-            <extent>584 images</extent>
-        </physicalDescription>
-        <abstract>"The Athanasius Kircher correspondence project was created with the goal of making the manuscript correspondence of Athanasius Kircher available on the Internet. The project was commenced through the collaboration of the Istituto e Museo di Storia della Scienza in Florence, the Pontifical Gregorian University in Rome and the European University Institute in Fiesole, under the direction of Michael John Gorman and Nick Wilding. Since September 2000, the digital collection has been rehoused at Stanford University." -- Introduction.</abstract>
-        <location>
-            <physicalLocation>Archives of the Pontifical Gregorian University</physicalLocation>
-            <shelfLocator>APUG 555</shelfLocator>
-        </location>'
-        
+  fo.puts "<add>"
 	File.foreach(filename) do |li|
     	fo.puts li
 	end
 end
 
 File.open(new_file,'a') do |f|
-  f.puts "</mods></modsCollection>"
+  f.puts "</add>"
 end
 
 #Replace columns with SOLR xml tags.

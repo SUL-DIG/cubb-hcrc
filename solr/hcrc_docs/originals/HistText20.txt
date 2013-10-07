@@ -1,0 +1,726 @@
+TY  - BOOK
+A1  - Lodge, Evan
+T1  - English activity outlines for grades 7, 8, 9
+Y1  - 1953
+D1  - 06/1953
+SP  - 49
+KW  - English language
+CY  - Cleveland, OH
+LA  - English
+CN  - 428.2 .C63e
+SC  - Ohio
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Cleveland Heights-University Heights (Ohio) City School District
+T1  - Thematic approach to literature, language, and composition : grades 7, 8, 9, junior high school course guide
+Y1  - 1966
+D1  - 09/1966
+SP  - 255
+KW  - Literature
+KW  - English language
+KW  - Composition and exercises
+N1  - 255 leaves ; 28 cm.; Responsibility: Cleveland Heights-University Heights City School District.
+PB  - Cleveland Heights-University Heights (Ohio) City School District
+CY  - Cleveland Heights, OH
+LA  - English
+CN  - 428.2 .C63L v. 1
+SC  - Ohio
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Cleveland Heights-University Heights (Ohio) City School District
+T1  - Thematic approach to literature, language, and composition : grades 10, 11, 12, senior high school course guide
+Y1  - 1967
+D1  - 09/1967
+SP  - 325
+KW  - Literature
+KW  - English language
+KW  - Composition and exercises
+PB  - Cleveland Heights-University Heights (Ohio) City School District
+CY  - Cleveland Heights, OH
+LA  - English
+CN  - 428.2 .C63L v. 2
+SC  - Ohio
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Clover Park School District No. 400 (Lakewood Center, Washington)
+T1  - Elementary composition curriculum guide
+Y1  - 1967
+D1  - 09/1967
+SP  - 151
+KW  - Language arts
+PB  - Clover Park School District No. 400
+CY  - Lakewood Center, WA
+LA  - English
+CN  - 428.2 .C64s
+SC  - Washington
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Wolf, Leonard
+T1  - Teaching a poem
+Y1  - 1965
+D1  - 1965
+SP  - 15
+T2  - Kinescripts. Set I
+KW  - English literature
+KW  - American literature
+KW  - English language
+PB  - College Entrance Examination Board. Commission on English
+CY  - Princeton, NJ
+LA  - English
+CN  - 428.2 .C73k v. 1
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Carr, Arthur J.
+T1  - A student writing assignment based on "Fire walking in Ceylon"
+Y1  - 1965
+D1  - 1965
+SP  - 29
+T2  - Kinescripts. Set I
+KW  - Composition and exercises
+KW  - English language
+PB  - College Entrance Examination Board. Commission on English
+CY  - Princeton, NJ
+LA  - English
+CN  - 428.2 .C73k v. 2
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Coleman, Alice C.
+T1  - A class study of Theodore Roethke's "The waking"
+Y1  - 1965
+D1  - 1965
+SP  - 14
+T2  - Kinescripts. Set I
+KW  - American literature
+KW  - English language
+PB  - College Entrance Examination Board. Commission on English
+CY  - Princeton, NJ
+LA  - English
+CN  - 428.2 .C73k v. 3
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Curwen, Henry Darcy
+T1  - Teaching biography in the secondary school
+Y1  - 1965
+D1  - 1965
+SP  - 14
+T2  - Kinescripts. Set I
+KW  - English language
+PB  - College Entrance Examination Board. Commission on English
+CY  - Princeton, NJ
+LA  - English
+CN  - 428.2 .C73k v. 4
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Smith, Hallett D.
+T1  - Teaching Shakespeare's Henry IV, Part 1
+Y1  - 1965
+D1  - 1965
+SP  - 14
+T2  - Kinescripts. Set I
+KW  - English literature
+KW  - English language
+PB  - College Entrance Examination Board. Commission on English
+CY  - Princeton, NJ
+LA  - English
+CN  - 428.2 .C73k v. 5
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Teeter, Karl V.
+T1  - Grammar and generative grammar
+Y1  - 1965
+D1  - 1965
+SP  - 13
+T2  - Kinescripts. Set I
+KW  - English language
+PB  - College Entrance Examination Board. Commission on English
+CY  - Princeton, NJ
+LA  - English
+CN  - 428.2 .C73k v. 6
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Gibson, Walker
+T1  - The "Speaking voice" and the teaching of composition
+Y1  - 1965
+D1  - 1965
+SP  - 13
+T2  - Kinescripts. Set I
+KW  - Composition and exercises
+KW  - English language
+PB  - College Entrance Examination Board. Commission on English
+CY  - Princeton, NJ
+LA  - English
+CN  - 428.2 .C73k v. 7
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Elledge, Scott B.
+T1  - Invention and topics: or, where to look for something to say
+Y1  - 1965
+D1  - 1965
+SP  - 17
+T2  - Kinescripts. Set I
+KW  - Composition and exercises
+KW  - English language
+PB  - College Entrance Examination Board. Commission on English
+CY  - Princeton, NJ
+LA  - English
+CN  - 428.2 .C73k v. 8
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Martin, Terence
+T1  - Teaching a novel: Moby Dick in the classroom
+Y1  - 1965
+D1  - 1965
+SP  - 14
+T2  - Kinescripts. Set I
+KW  - American literature
+KW  - English language
+PB  - College Entrance Examination Board. Commission on English
+CY  - Princeton, NJ
+LA  - English
+CN  - 428.2 .C73k v. 11
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Williams, George
+T1  - Organization--rhetorical and artistic
+Y1  - 1965
+D1  - 1965
+SP  - 22
+T2  - Kinescripts. Set I
+KW  - Composition and exercises
+KW  - English language
+PB  - College Entrance Examination Board. Commission on English
+CY  - Princeton, NJ
+LA  - English
+CN  - 428.2 .C73k v. 9
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Youngblood, Sarah
+T1  - Teaching a short story: Faulkner's "Barn burning"
+Y1  - 1965
+D1  - 1965
+SP  - 44
+T2  - Kinescripts. Set I
+KW  - American literature
+KW  - English language
+PB  - College Entrance Examination Board. Commission on English
+CY  - Princeton, NJ
+LA  - English
+CN  - 428.2 .C73k v. 10
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Kinder, Robert Farrar
+T1  - Challenges to meet : guidelines for building English language arts curriculum, K-12
+Y1  - 1969
+D1  - 1969
+SP  - 132
+KW  - Language arts
+KW  - English language
+N1  - xi; ill. ; 27 cm.; Note(s): Includes bibliographical references.; Responsibility: by Robert Farrar Kinder with the assistance of M. Agnella Gunn ... [et al.].
+T2  - Connecticut State Department of Education. Bulletin 
+V1  - 109
+PB  - Connecticut State Department of Educatio, Bureau of Elementary and Secondary Education
+CY  - Hartford, CT
+LA  - English
+CN  - 428.2 .C75c
+SC  - Connecticut
+ER  - 
+
+TY  - BOOK
+A1  - Joll, Leonard W.
+T1  - English, grades 7-12
+Y1  - 1959
+D1  - 09/1959
+SP  - 42
+KW  - English language
+T2  - Connecticut State Department of Education. Curriculum bulletin series
+V1  - 4 (Tentative)
+PB  - Connecticut State Department of Education
+CY  - Hartford, CT
+LA  - English
+CN  - 428.2 .C75e
+SC  - Connecticut
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - New Haven State Teachers College
+T1  - Guide for teaching the language arts in the laboratory schools
+Y1  - 1958
+D1  - 07/1958
+SP  - 55
+KW  - Language arts
+PB  - New Haven State Teachers College
+CY  - New Haven, CT
+LA  - English
+CN  - 428.2 .C75g
+ER  - 
+
+TY  - BOOK
+A1  - Cooper, Georgia
+A2  - Contra Costa County (California) Department of Education
+T1  - Wings emerging; language opportunities and the pre-school child
+Y1  - 1966
+D1  - 06/1966
+SP  - 45
+KW  - English language
+N1  - 45 pages illustrations; Note(s): Includes bibliographical references.; Responsibility: by Georgia Cooper [and others].
+PB  - Contra Costa County (California) Department of Education
+CY  - Pleasant Hill, CA
+LA  - English
+CN  - 428.2 .C76w
+SC  - California
+G1  - Pre-K
+ER  - 
+
+TY  - BOOK
+A2  - Covina-Valley (California) Unified School District
+T1  - A research guide for an experimental project in team teaching with junior English students during the 1962-63 school year
+Y1  - 1962
+D1  - 1962-1963
+SP  - 136
+KW  - English language
+PB  - Covina-Valley (California) Unified School District
+CY  - Covina, CA
+LA  - English
+CN  - 428.2 .C87L
+SC  - California
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Culver City (California) Unified School District
+T1  - An audio-lingual approach to teaching composition: teachers guide
+Y1  - 1965
+D1  - 08/1965
+KW  - English language
+KW  - Composition and exercises
+PB  - Culver City (California) Unified School District
+CY  - Culver City, CA
+LA  - English
+CN  - 428.2 .C96a
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Dade County (Florida) Public Schools
+T1  - Basic education skills package: a social sciences-language arts supplement to bulletin 10-b
+Y1  - 1968
+D1  - 1968
+SP  - 61
+KW  - Language arts
+KW  - Social sciences
+PB  - Dade County (Florida) Public Schools
+CY  - Miami, FL
+LA  - English
+CN  - 428.2 .D12b
+SC  - Florida
+ER  - 
+
+TY  - BOOK
+A2  - Dade County (Florida) Public Schools
+T1  - Language arts guide: written composition: grades 10-11-12
+Y1  - 1965
+D1  - 1965
+SP  - 70
+KW  - Language arts
+KW  - Composition and exercises
+T2  - Dade County (Florida) Public Schools. Bulletin.
+V1  - 6G
+PB  - Dade County (Florida) Public Schools
+CY  - Miami, FL
+LA  - English
+CN  - 428.2 .D12w
+SC  - Florida
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Dallas (Texas) Independent School District
+T1  - Content, scope, and sequence of language arts program
+Y1  - 1957
+D1  - 01/1957
+KW  - Language arts
+PB  - Dallas (Texas) Independent School District
+CY  - Dallas, TX
+LA  - English
+CN  - 428.2 .D14c
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - Dallas (Texas) Public Schools
+T1  - Exercises in English grammar
+Y1  - 1946
+D1  - 11/1946
+SP  - 14
+KW  - English language
+PB  - Dallas (Texas) Public Schools
+CY  - Dallas, TX
+LA  - English
+CN  - 428.2 .D14e v. 5
+SC  - Texas
+G1  - Middle school
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Dallas (Texas) Independent School District
+T1  - Language arts for secondary schools : resource materials
+Y1  - 1953
+D1  - 1953
+SP  - 256
+KW  - Language arts
+T2  - Curriculum bulletin series (Dallas Independent School District)
+PB  - Dallas (Texas) Independent School District
+CY  - Dallas, TX
+LA  - English
+CN  - 428.2 D14L v. 2
+SC  - Texas
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Dallas (Texas) Independent School District
+T1  - Language arts program content, scope, and sequence
+Y1  - 1959
+D1  - 1959
+SP  - 12
+KW  - Language arts
+PB  - Dallas (Texas) Independent School District
+CY  - Dallas, TX
+LA  - English
+CN  - 428.2 D14Lc
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - Dallas (Texas) Independent School District
+T1  - Language arts for secondary schools : curriculum guide
+Y1  - 1959
+D1  - 1959
+SP  - 132
+KW  - Language arts
+N1  - ill. ; 28 cm.; Note(s): Includes bibliographical references.; Responsibility: authorized by the Board of Education, June 24, 1959.
+T2  - Curriculum bulletin series (Dallas Independent School District)
+PB  - Dallas (Texas) Independent School District
+CY  - Dallas, TX
+LA  - English
+CN  - 428.2 .D14L v. 1
+SC  - Texas
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Dallas (Texas) Independent School District
+T1  - Learning our language. grade six
+Y1  - 1955
+D1  - 09/1955
+SP  - 78
+KW  - English language
+T2  - Bulletin (Dallas Independent School District (Texas))
+PB  - Dallas (Texas) Independent School District
+CY  - Dallas, TX
+LA  - English
+CN  - 428.2 .D14L3 v. 3
+SC  - Texas
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Dallas (Texas) Independent School District
+T1  - Learning our language. grade four
+Y1  - 1955
+D1  - 09/1955
+SP  - 58
+KW  - English language
+T2  - Bulletin (Dallas Independent School District (Texas))
+V1  - 206
+PB  - Dallas (Texas) Independent School District
+CY  - Dallas, TX
+LA  - English
+CN  - 428.2 .D14Le v. 1
+SC  - Texas
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Davenport (Iowa) Board of Education
+T1  - English language arts, grades 7-8-9: a teaching guide
+Y1  - 1958
+D1  - 1958
+SP  - 85
+KW  - English language
+KW  - Language arts
+PB  - Davenport (Iowa) Board of Education
+CY  - Davenport, IA
+LA  - English
+CN  - 428.2 .D24e
+SC  - Iowa
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Dayton (Ohio) Public Schools
+T1  - Course of study, language arts, high school
+Y1  - 1953
+D1  - 04/1953
+SP  - 164
+KW  - Language arts
+PB  - Dayton (Ohio) Public Schools
+CY  - Dayton, OH
+LA  - English
+CN  - 428.2 D27c
+SC  - Ohio
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Delaware (State) Department of Public Instruction
+T1  - Dialogue with a teacher of listeners, speakers, readers, writers : guidelines for the teacher of English language arts K-13
+Y1  - 1967
+D1  - 11/1967
+SP  - 46
+KW  - English language
+KW  - Language arts
+N1  - iii; ges : illustrations ; 29 cm; Note(s): Includes bibliographical references (pages 39-45).
+PB  - Delaware (State) Department of Public Instruction
+CY  - Dover, DE
+LA  - English
+CN  - 428.2 .D34d
+SC  - Delaware
+ER  - 
+
+TY  - BOOK
+A2  - Delaware (State) Department of Public Instruction
+T1  - English language arts curriculum supplement
+Y1  - 1966
+D1  - 1966?
+KW  - English language
+KW  - Communication
+PB  - Delaware (State) Department of Public Instruction
+CY  - Dover, DE
+LA  - English
+CN  - 428.2 .D34e
+SC  - Delaware
+ER  - 
+
+TY  - BOOK
+A2  - Denver (Colorado) Public Schools
+T1  - Improving vocabulary and interpreting factual material through understanding simple graphs: public exercises
+Y1  - 1965
+D1  - 1965-1966
+SP  - 18
+KW  - English language
+KW  - Reading
+PB  - Denver (Colorado) Public Schools
+CY  - Denver, CO
+LA  - English
+CN  - 428.2 .D41iv v. 3
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A2  - Denver (Colorado) Public Schools
+T1  - Improving vocabulary and interpreting factual material through understanding simple graphs: teacher's manual
+Y1  - 1965
+D1  - 1965-1966
+SP  - 28
+KW  - English language
+KW  - Reading
+PB  - Denver (Colorado) Public Schools
+CY  - Denver, CO
+LA  - English
+CN  - 428.2 .D41iv v. 4
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A2  - Denver (Colorado) Public Schools
+T1  - Improving vocabulary and interpreting factual material through understanding metaphors: pupil exercises
+Y1  - 1965
+D1  - 1965-1966
+SP  - 10
+KW  - English language
+PB  - Denver (Colorado) Public Schools
+CY  - Denver, CO
+LA  - English
+CN  - 428.2 .D41iv v. 5
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A2  - Denver (Colorado) Public Schools
+T1  - Improving vocabulary and interpreting factual material through understanding metaphors: teacher's manual
+Y1  - 1965
+D1  - 1965-1966
+SP  - 18
+KW  - English language
+PB  - Denver (Colorado) Public Schools
+CY  - Denver, CO
+LA  - English
+CN  - 428.2 .D41iv v. 6
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A2  - Des Moines (Iowa) Public Schools
+T1  - Communication skills: listening, speaking, writing
+Y1  - 1958
+D1  - 08/1958
+SP  - 58
+KW  - English language
+KW  - Communication
+PB  - Des Moines (Iowa) Public Schools
+CY  - Des Moines, IA
+LA  - English
+CN  - 428.2 .D44c
+SC  - Iowa
+ER  - 
+
+TY  - BOOK
+A2  - Des Moines (Iowa) Public Schools
+T1  - Course of study for junior high school English
+Y1  - 1956
+D1  - 08/1956
+KW  - English language
+T2  - Des Moines (Iowa) Public Schools. Curriculum bulletin
+PB  - Des Moines (Iowa) Public Schools
+CY  - Des Moines, IA
+LA  - English
+CN  - 428.2 .D44j
+SC  - Iowa
+ER  - 
+
+TY  - BOOK
+A2  - Dover (Ohio) Public Schools
+T1  - Curriculum guide for the Dover elementary school (K-6) in elementary language arts: English
+Y1  - 1963
+D1  - 1963-1964
+SP  - 163
+KW  - English language
+KW  - Language arts
+PB  - Dover (Ohio) Public Schools
+CY  - Dover, OH
+LA  - English
+CN  - 428.2 .D73c v. 1
+SC  - Ohio
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Dover (Ohio) Public Schools
+T1  - Curriculum guide for the Dover junior high school (7-9) in secondary language arts: English
+Y1  - 1963
+D1  - 1963-1964
+SP  - 128
+KW  - English language
+KW  - Language arts
+PB  - Dover (Ohio) Public Schools
+CY  - Dover, OH
+LA  - English
+CN  - 428.2 .D73c v. 2
+SC  - Ohio
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Dover (Ohio) Public Schools
+T1  - Curriculum guide for the Dover junior high school (10-12) in secondary language arts: English
+Y1  - 1963
+D1  - 1963-1964
+SP  - 121
+KW  - English language
+KW  - Language arts
+PB  - Dover (Ohio) Public Schools
+CY  - Dover, OH
+LA  - English
+CN  - 428.2 .D73c v. 3
+SC  - Ohio
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Downey (California) Secondary Schools
+T1  - A tentative course of study in the language arts, grades 7-12
+Y1  - 1955
+D1  - 09/1955
+SP  - 216
+KW  - English language
+KW  - Language arts
+PB  - Downey (California) Secondary Schools
+CY  - Downey, CA
+LA  - English
+CN  - 428.2 .D74t
+SC  - California
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Duluth (Minnesota?) Public Schools
+T1  - Brief outline of junior high school English composition and literature units
+Y1  - 1952
+D1  - 03/1952
+SP  - 7
+KW  - English language
+KW  - Language arts
+PB  - Duluth (Minnesota?) Public Schools
+CY  - Duluth
+LA  - English
+CN  - 428.2 .D88b
+G1  - Middle school
+ER  - 
