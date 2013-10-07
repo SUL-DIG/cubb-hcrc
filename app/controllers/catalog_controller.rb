@@ -60,8 +60,30 @@ class CatalogController < ApplicationController
     config.add_facet_field 'corp_author_facet', :label => 'Corporate Author', :limit => 10 
     config.add_facet_field 'year', :label => 'Year', :range => true
     config.add_facet_field 'state_country_facet', :label => 'State/Country', :limit => 10 
-    config.add_facet_field 'grade_level_group_facet', :label => 'Grade Level Group', :limit => 20 
-    config.add_facet_field 'grade_level_number', :label => 'Grade Level Number', :limit => 20 
+    config.add_facet_field 'grade_level_group_facet', :label => 'Grade Level Group', :query => {
+    :grade_level_group_prek => { :label => 'Pre-K', :fq => "grade_level_group:Pre-K"},
+    :grade_level_group_kinder => { :label => 'Kindergarten', :fq => "grade_level_group:Kindergarten"},
+    :grade_level_group_elementary => { :label => 'Elementary', :fq => "grade_level_group:Elementary"},
+    :grade_level_group_middle => { :label => 'Middle school', :fq => "grade_level_group:Middle school"},
+    :grade_level_group_high => { :label => 'High school', :fq => "grade_level_group:High school"},
+    :grade_level_group_post => { :label => 'Postsecondary', :fq => "grade_level_group:Postsecondary"},
+    }
+    config.add_facet_field 'grade_level_number_facet', :label => 'Grade Level Number', :query => {
+    :grade_level_number_kinder => { :label => 'Kindergarten', :fq => "grade_level_number:Kindergarten"},
+    :grade_level_number_first => { :label => '1st grade', :fq => "grade_level_number:1st grade"},
+    :grade_level_number_second => { :label => '2nd grade', :fq => "grade_level_number:2nd grade"},
+    :grade_level_number_third => { :label => '3rd grade', :fq => "grade_level_number:3rd grade"},
+    :grade_level_number_fourth => { :label => '4th grade', :fq => "grade_level_number:4th grade"},
+    :grade_level_number_fifth => { :label => '5th grade', :fq => "grade_level_number:5th grade"},
+    :grade_level_number_sixth => { :label => '6th grade', :fq => "grade_level_number:6th grade"},
+    :grade_level_number_seventh => { :label => '7th grade', :fq => "grade_level_number:7th grade"},
+    :grade_level_number_eigth => { :label => '8th grade', :fq => "grade_level_number:8th grade"},
+    :grade_level_number_ninth => { :label => '9th grade', :fq => "grade_level_number:9th grade"},
+    :grade_level_number_tenth => { :label => '10th grade', :fq => "grade_level_number:10th grade"},
+    :grade_level_number_eleventh => { :label => '11th grade', :fq => "grade_level_number:11th grade"},
+    :grade_level_number_twelfth => { :label => '12th grade', :fq => "grade_level_number:12th grade"},
+    :grade_level_number_post => { :label => 'Postsecondary', :fq => "grade_level_number:Postsecondary"},
+    }    
 	config.add_facet_field 'keywords_facet', :label => 'Subjects', :limit => 10 
 
 
