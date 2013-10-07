@@ -141,7 +141,7 @@ information; Entry: 19720630; Update: 20121117</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="corp_author">Beverly Hills (California) Unified School District </field>
+<field name="corp_author">Beverly Hills (California) Unified School District</field>
 <field name="title">Education for the academically able and talented and the State gifted
 minor</field>
 <field name="year">1962</field>
@@ -158,7 +158,7 @@ minor</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="corp_author">Beverly Hills (California) Unified School District </field>
+<field name="corp_author">Beverly Hills (California) Unified School District</field>
 <field name="title">Education for the academically able and talented and the State gifted
 minor</field>
 <field name="year">1963</field>
@@ -173,7 +173,7 @@ minor</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="corp_author">Beverly Hills (California) Unified School District </field>
+<field name="corp_author">Beverly Hills (California) Unified School District</field>
 <field name="title">Education for the academically able and talented and the State gifted
 minor</field>
 <field name="year">1964</field>
@@ -697,7 +697,7 @@ preschool education</field>
 <field name="date">11/1967</field>
 <field name="keywords">Early childhood education</field>
 <field name="notes">50 p. 23 cm.; Note(s): Bibliography: p. 40-44.; Responsibility: by Ruth A.
-Bouchard and Bernard Mackler. </field>
+Bouchard and Bernard Mackler.</field>
 <field name="series_title">The Center for Urban Education. Occasional paper</field>
 <field name="publisher">Center for Urban Education</field>
 <field name="pub_place">New York, NY</field>
@@ -735,7 +735,7 @@ Seeley.</field>
 <field name="keywords">Urban education</field>
 <field name="keywords">Bibliography</field>
 <field name="notes">ix; 30 cm.; Note(s): First edition issued by Hunter College, New York.;
-Responsibility: by H. Helen Randolph. </field>
+Responsibility: by H. Helen Randolph.</field>
 <field name="publisher">Center for Urban Education</field>
 <field name="pub_place">New York, NY</field>
 <field name="language">English</field>
@@ -1605,9 +1605,9 @@ teachers</field>
 <field name="year">1969</field>
 <field name="date">07/1969</field>
 <field name="pages">108</field>
-<field name="keywords">Children of migrant laborers </field>
+<field name="keywords">Children of migrant laborers</field>
 <field name="keywords">Bibliography</field>
-<field name="notes">108 p.; ill.; Note(s): </field>
+<field name="notes">108 p.; ill.; Note(s):</field>
 <field name="publisher">Florida Migratory Child Compensatory Program</field>
 <field name="pub_place">Tallahassee, FL</field>
 <field name="language">English</field>
@@ -2350,7 +2350,7 @@ Kentucky.</field>
 <field name="pages">40</field>
 <field name="keywords">Children with visual disabilities</field>
 <field name="keywords">Blind</field>
-<field name="notes">40 p. ill.; Responsibility: prepared by Dena Motley. </field>
+<field name="notes">40 p. ill.; Responsibility: prepared by Dena Motley.</field>
 <field name="series_title">Kansas. University. Bureau of Child Research. Public information
 series</field>
 <field name="series_vol">3</field>

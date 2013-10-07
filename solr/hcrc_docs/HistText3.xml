@@ -139,7 +139,7 @@ school</field>
 <field name="keywords">Gifted children</field>
 <field name="notes">iv; ges : illustrations ; 28 cm.; Note(s): Cover title./ "Pennsylvania
 curriculum development program."/ Includes bibliographical references (pages 24-25).; Other Titles:
-Pennsylvania curriculum development program </field>
+Pennsylvania curriculum development program</field>
 <field name="series_title">Pennsylvania.; Department of Public Instruction.; Curriculum development
 series</field>
 <field name="series_vol">2</field>
@@ -517,7 +517,7 @@ teachers</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="corp_author">Ravenswood Elementary School District (East Palo Alto, California) </field>
+<field name="corp_author">Ravenswood Elementary School District (East Palo Alto, California)</field>
 <field name="title">Report on fast learner program</field>
 <field name="pages">18</field>
 <field name="keywords">Gifted children</field>
@@ -726,7 +726,7 @@ Regional Project for Education of the Gifted</field>
 <field name="pages">101</field>
 <field name="keywords">Gifted children</field>
 <field name="notes">101 p. 23 cm.; Note(s): Bibliography: p. 89-91.; Responsibility: by State Dept.
-of Education representatives in the project: W.R. Burris [and others. </field>
+of Education representatives in the project: W.R. Burris [and others.</field>
 <field name="publisher">Southern Regional Education Board</field>
 <field name="pub_place">Atlanta, GA</field>
 <field name="language">English</field>
@@ -1247,7 +1247,7 @@ schools</field>
 <field name="pages">24</field>
 <field name="keywords">Special education</field>
 <field name="notes">24 p. 23 cm.</field>
-<field name="series_title">Texas Study of Secondary Education. Research study; </field>
+<field name="series_title">Texas Study of Secondary Education. Research study;</field>
 <field name="series_vol">17</field>
 <field name="publisher">Texas Study of Secondary Education</field>
 <field name="pub_place">Austin, TX</field>

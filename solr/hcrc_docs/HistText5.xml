@@ -11,7 +11,7 @@
 <field name="notes">Frequency: Annual; v. : ill. ; 22 cm; Note(s): Includes the ASCD exhibit of
 curriculum materials at the ... annual conference and also catalogs the materials received by the
 Curriculum Materials Committee for the ... ASCD annual conference.; Responsibility: Association for
-Supervision and Curriculum Development. </field>
+Supervision and Curriculum Development.</field>
 <field name="publisher">Association for Supervision and Curriculum Development</field>
 <field name="pub_place">Washington, DC</field>
 <field name="language">English</field>
@@ -29,7 +29,7 @@ Supervision and Curriculum Development. </field>
 <field name="notes">Frequency: Annual; v. : ill. ; 22 cm; Note(s): Includes the ASCD exhibit of
 curriculum materials at the ... annual conference and also catalogs the materials received by the
 Curriculum Materials Committee for the ... ASCD annual conference.; Responsibility: Association for
-Supervision and Curriculum Development. </field>
+Supervision and Curriculum Development.</field>
 <field name="publisher">Association for Supervision and Curriculum Development</field>
 <field name="pub_place">Washington, DC</field>
 <field name="language">English</field>
@@ -47,7 +47,7 @@ Supervision and Curriculum Development. </field>
 <field name="notes">Frequency: Annual; v. : ill. ; 22 cm; Note(s): Includes the ASCD exhibit of
 curriculum materials at the ... annual conference and also catalogs the materials received by the
 Curriculum Materials Committee for the ... ASCD annual conference.; Responsibility: Association for
-Supervision and Curriculum Development. </field>
+Supervision and Curriculum Development.</field>
 <field name="publisher">Association for Supervision and Curriculum Development</field>
 <field name="pub_place">Washington, DC</field>
 <field name="language">English</field>
@@ -351,7 +351,7 @@ Responsibility: prepared by the Humanities Framework Committee.</field>
 <field name="pages">34</field>
 <field name="keywords">Public schools</field>
 <field name="notes">34 p. ; 28 cm.; Note(s): "August 1964."</field>
-<field name="series_title">Chicago (Ill.).; Board of Education.; Study report </field>
+<field name="series_title">Chicago (Ill.).; Board of Education.; Study report</field>
 <field name="series_vol">13</field>
 <field name="publisher">Chicago (Illinois) Public Schools</field>
 <field name="pub_place">Chicago, IL</field>
@@ -368,7 +368,7 @@ Responsibility: prepared by the Humanities Framework Committee.</field>
 <field name="pages">40</field>
 <field name="keywords">Teaching aids</field>
 <field name="notes">40 p. ; 28 cm.; Note(s): "August 1964."</field>
-<field name="series_title">Chicago (Illinois).; Board of Education.; Study report </field>
+<field name="series_title">Chicago (Illinois).; Board of Education.; Study report</field>
 <field name="series_vol">14</field>
 <field name="publisher">Chicago (Illinois) Public Schools</field>
 <field name="pub_place">Chicago, IL</field>
@@ -386,7 +386,7 @@ Responsibility: prepared by the Humanities Framework Committee.</field>
 <field name="keywords">High school</field>
 <field name="keywords">Curricula</field>
 <field name="notes">86 p. illus. 28 cm.; Note(s): Bibliography: p. [83]-86.</field>
-<field name="series_title">Chicago (Illinois).; Board of Education.; Study report </field>
+<field name="series_title">Chicago (Illinois).; Board of Education.; Study report</field>
 <field name="series_vol">7</field>
 <field name="publisher">Chicago (Illinois) Public Schools</field>
 <field name="pub_place">Chicago, IL</field>
@@ -407,7 +407,7 @@ Responsibility: prepared by the Humanities Framework Committee.</field>
 <field name="abstract">Pt. 1. The Chicago teachers colleges; Pt. 2. The Chicago City junior
 colleges.</field>
 <field name="notes">79 p. and 66 p. diagrs., charts, maps.</field>
-<field name="series_title">Chicago (Illinois).; Board of Education.; Study report </field>
+<field name="series_title">Chicago (Illinois).; Board of Education.; Study report</field>
 <field name="series_vol">10</field>
 <field name="publisher">Chicago (Illinois) Public Schools</field>
 <field name="pub_place">Chicago, IL</field>
@@ -428,7 +428,7 @@ schools</field>
 <field name="keywords">Curricula</field>
 <field name="notes">115 p. ; 28 cm.; Note(s): Benjamin C. Willis, General Superintendent of
 Schools./ Includes bibliographical references (p. [111]-115).</field>
-<field name="series_title">Chicago (Illinois).; Board of Education.; Study report </field>
+<field name="series_title">Chicago (Illinois).; Board of Education.; Study report</field>
 <field name="series_vol">6</field>
 <field name="publisher">Chicago (Illinois) Public Schools</field>
 <field name="pub_place">Chicago, IL</field>
@@ -1146,7 +1146,7 @@ Division</field>
 <field name="keywords">School administrators</field>
 <field name="notes">326 pages 23 cm.; Other Titles: School administrators, Handbook for</field>
 <field name="series_title">Bulletin (Louisiana. Department of Education)</field>
-<field name="series_vol">741 </field>
+<field name="series_vol">741</field>
 <field name="edition">Rev.</field>
 <field name="publisher">Louisiana State Department of Education</field>
 <field name="pub_place">Baton Rouge, LA</field>
