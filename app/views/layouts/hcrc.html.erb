@@ -30,7 +30,17 @@
     <script type="text/javascript" src="//use.typekit.net/aed2nnh.js"></script>
     <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
     <script src="http://maps.googleapis.com/maps/api/js?sensor=false"></script>
-    <script>
+    <%= stylesheet_link_tag "application" %>
+    <%= javascript_include_tag "application" %>
+    <%= csrf_meta_tags %>
+    <%= raw(render_head_content) %>
+    <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+    <%= favicon_link_tag asset_path('stanford_favicon.ico') %>
+      <script>
   		function initialize() {
 		    var map_canvas = document.getElementById('map_canvas');
 		    var mapOptions = {
@@ -44,17 +54,6 @@
 
         google.maps.event.addDomListener(window, 'load', initialize);
   </script>
-    <%= stylesheet_link_tag "application" %>
-    <%= javascript_include_tag "application" %>
-    <%= csrf_meta_tags %>
-    <%= raw(render_head_content) %>
-    <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
-    <!--[if lt IE 9]>
-<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-<![endif]-->
-
-    <%= favicon_link_tag asset_path('stanford_favicon.ico') %>
-  
   </head>
   <% onload_text = "$('input#q').focus();" if params[:q].to_s.empty? and params[:f].to_s.empty? and params[:id].nil? %>
 
