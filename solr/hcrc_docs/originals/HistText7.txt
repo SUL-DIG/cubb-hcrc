@@ -1,0 +1,1498 @@
+
+
+
+
+TY  - BOOK
+A2  - Bucks County (Pennsylvania) Public Schools
+A2  - New Hope-Solebury (Pennsylvania) School District
+T1  - A Transitional pre-first grade program
+KW  - Kindergarten
+PB  - Bucks County (Pennsylvania) Public Schools
+CY  - Doylestown, PA
+LA  - English
+CN  - 375.11 .B92t suppl.
+SC  - Pennsylvania
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - Bucks County (Pennsylvania) Public Schools
+A2  - New Hope-Solebury (Pennsylvania) School District
+T1  - A Transitional pre-first grade program
+Y1  - 1969
+D1  - 06/1969
+SP  - 23
+KW  - Kindergarten
+N1  - 23 leaves ; 28 cm.; Note(s): Includes bibliographical references.; Responsibility: developed cooperatively by Bucks County Superintendent of Schools and New Hope-Solebury School District.
+PB  - Bucks County (Pennsylvania) Public Schools
+CY  - Doylestown, PA
+LA  - English
+CN  - 375.11 .B92t
+SC  - Pennsylvania
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - Cleveland Heights (Ohio) Public Schools
+T1  - Elementary school course of study : a kindergarten guide
+Y1  - 1958
+D1  - 09/1958
+SP  - 44
+KW  - Kindergarten
+N1  - 44 p. ; cm
+PB  - Cleveland Heights (Ohio) Public School
+CY  - Cleveland Heights, OH
+LA  - English
+CN  - 375.11 .C63k
+SC  - Ohio
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A1  - Latting, Lucile H.
+A1  - Stephens, Bertha L.
+T1  - Kindergarten guidebook
+Y1  - 1960
+D1  - 1960
+SP  - 170
+KW  - Kindergarten
+N1  - x; ges : illustrations ; 28 cm; Note(s): Includes bibliographical references (pages 168-170).; Responsibility: prepared by a State Kindergarten Committee under the supervision of Lucile H. Latting and Bertha L. Stephens.
+PB  - Colorado State Department of Education
+CY  - Denver, CO
+LA  - English
+CN  - 375.11 .C71k
+SC  - Colorado
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - Alameda County (California) Schools
+T1  - Kindergarten guide
+Y1  - 1958
+D1  - 1958
+SP  - 109
+KW  - Kindergarten
+PB  - Alameda County (California) Schools
+CY  - Hayward, CA
+LA  - English
+CN  - 375.11 . A313k
+SC  - California
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - Warren (Ohio) City Schools
+T1  - Improvement of the educational program through action research
+Y1  - 1957
+D1  - 01/1957
+T2  - Warren (Ohio) City Schools. Teaching Staff Bulletin
+V1  - FC-24
+KW  - Educational innovations
+PB  - Warren (Ohio) City Schools
+CY  - Warren, Ohio
+LA  - English
+CN  - 375 .W29i
+SC  - Ohio
+ER  - 
+
+TY  - BOOK
+A1  - Fox, Willard
+T1  - Selected practices for teaching basic skills
+Y1  - 1953
+D1  - 1953
+SP  - 75
+KW  - Teaching aids
+N1  - 75 p. ; 28 cm.; Note(s): Includes bibliographical references (p. [71]-75).; Responsibility: compiled by Willard Fox.
+T2  - Bulletin (Wyoming School Study Council)
+V1  - 2
+PB  - Bureau of Educational Research and Service, College of Education, University of Wyoming
+CY  - Laramie, WY
+LA  - English
+CN  - 375 .W99s
+SC  - Wyoming
+ER  - 
+
+TY  - BOOK
+A2  - Downers Grove (Illinois) Public Schools
+T1  - Our kindergartens : a guide for teachers
+Y1  - 1957
+D1  - 09/1957
+SP  - 121
+KW  - Kindergarten
+KW  - Curricula
+N1  - 121 leaves : ill. ; 28 cm.; Responsibility: Downers Grove Public Schools.
+PB  - Downers Grove (illinois) Public Schools
+CY  - Downers Grove, IL
+LA  - English
+CN  - 375.11 .D74o
+SC  - Illinois
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - Far West Laboratory for Education Research and Development
+T1  - Parents and children learning together
+SP  - 16
+KW  - Parent and child
+PB  - Far West Laboratory for Education Research and Development
+CY  - Berkeley, CA
+LA  - English
+CN  - 375.11 .F21r v. 1
+ER  - 
+
+TY  - BOOK
+A2  - Far West Laboratory for Education Research and Development
+T1  - Discovering children
+SP  - 28
+KW  - Children
+PB  - Far West Laboratory for Education Research and Development
+CY  - Berkeley, CA
+LA  - English
+CN  - 375.11 .F21r v. 2
+ER  - 
+
+TY  - BOOK
+A2  - Far West Laboratory for Education Research and Development
+T1  - Schools are for children
+SP  - 28
+KW  - Children
+PB  - Far West Laboratory for Education Research and Development
+CY  - Berkeley, CA
+LA  - English
+CN  - 375.11 .F21r v. 3
+ER  - 
+
+TY  - BOOK
+A2  - Ferndale (Michigan) School District
+T1  - A report on materials and equipment for children in kindergarten
+SP  - 20
+KW  - Kindergarten
+KW  - Teaching aids
+PB  - Ferndale (Michigan) School District
+CY  - Ferndale, MI
+LA  - English
+CN  - 375.11 .F36r
+SC  - Michigan
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - Ferndale (Michigan) School District
+T1  - Teacher-child ratio at the kindergarten level
+Y1  - 1955
+D1  - Spring 1955
+SP  - 17
+T2  - Ferndale (Michigan) School District. Bulletin
+V1  - 1
+KW  - Kindergarten
+ED  - Rev.
+PB  - Ferndale (Michigan) School District
+CY  - Ferndale, MI
+LA  - English
+CN  - 375.11 .F36t
+SC  - Michigan
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - Florida State Department of Education
+T1  - A guide for organizing and developing a kindergarten program in Florida
+Y1  - 1955
+D1  - 01/1955
+SP  - 51
+KW  - Kindergarten
+N1  - 51 pages illustrations 23 cm.; Note(s): Includes bibliographical references (pages 46-51).
+T2  - Florida.; State Department of Education.; Bulletin
+V1  - 53A
+ED  - Rev
+PB  - Florida State Department of Education
+CY  - Tallahassee, FL
+LA  - English
+CN  - 375.11 .F63g
+SC  - Florida
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - Fontana (California) Unified School District
+T1  - Kindergarten
+KW  - Kindergarten
+PB  - Fontana (California) Unified School District
+CY  - Fontana, CA
+LA  - English
+CN  - 375.11 .F67k
+SC  - California
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - Fort Knox (Kentucky) Elementary Schools
+T1  - New kindergarten handbook, 1967-1968
+Y1  - 1967
+D1  - 1967-1968
+SP  - 256
+KW  - Kindergarten
+PB  - Fort Knox (Kentucky) Elementary Schools
+CY  - Fort Knox, KY
+LA  - English
+CN  - 375.11 .F74n
+SC  - Kentucky
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - Gary (Indiana) Public Schools
+T1  - Supplement to the kindergarten guide
+Y1  - 1963
+D1  - 1963
+SP  - 50
+KW  - Kindergarten
+PB  - Gary (Indiana) Public Schools
+CY  - Gary, IN
+LA  - English
+CN  - 375.11 G24k Suppl. 1963
+ER  - 
+
+TY  - BOOK
+A1  - Banet, Bernard
+A1  - McClelland, Donna
+A1  - Nederveld, Patricia
+A1  - Thomson, Carole
+A1  - Silverman, Charles
+T1  - Action in the cognitive preschool model
+Y1  - 1972
+D1  - 1972
+SP  - 8
+KW  - Cognition in children
+N1  - ill. ; 28 cm.; Responsibility: Bernard Banet ... [et al.].
+PB  - High/Scope Educational Research Foundation, Preschool Department
+CY  - Ypsilanti, MI
+LA  - English
+CN  - 375.11 .H63h v. 2
+G1  - Pre-K
+ER  - 
+
+TY  - BOOK
+A1  - Thomson, Carole
+A1  - Banet, Bernard
+A1  - Silverman, Charles
+T1  - Child management in the cognitive preschool model
+Y1  - 1972
+D1  - 1972
+SP  - 4
+KW  - Cognition in children
+N1  - ill. ; 28 cm.; Responsibility: Bernard Banet ... [et al.].
+PB  - High/Scope Educational Research Foundation, Preschool Department
+CY  - Ypsilanti, MI
+LA  - English
+CN  - 375.11 .H63h v. 3
+G1  - Pre-K
+ER  - 
+
+TY  - BOOK
+A1  - Silverman, Charles
+A1  - Banet, Bernard
+A1  - Thomson, Carole
+A1  - Allen, Martha
+T1  - Language in the cognitive preschool model
+Y1  - 1972
+D1  - 1972
+SP  - 9
+KW  - Cognition in children
+N1  - ill. ; 28 cm.; Responsibility: Bernard Banet ... [et al.].
+PB  - High/Scope Educational Research Foundation, Preschool Department
+CY  - Ypsilanti, MI
+LA  - English
+CN  - 375.11 .H63h v. 4
+G1  - Pre-K
+ER  - 
+
+TY  - BOOK
+A2  - Illinois Curriculum Program
+T1  - Early childhood education in Illinois: focus on kindergarten
+Y1  - 1970
+D1  - 1979
+SP  - 70
+KW  - Kindergarten
+N1  - vii; illus. 22 x 28 cm.
+PB  - Illinois Curriculum Program
+CY  - Springfield, IL
+LA  - English
+CN  - 375.11 .I29e
+SC  - Illinois
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A1  - Nederveld, Patricia
+A1  - Thomson, Carole
+A1  - Banet, Bernard
+T1  - Levels of representation
+Y1  - 1972
+D1  - 1972
+KW  - Cognition in children
+AB  - pt. I. Experience with real objects : the object level and the index level / Patricia Nederveld, Carole Thomson. -- pt. II. Experience with representation : the symbol level and the sign level / Bernard Banet [and others].
+N1  - 2 pts. (22 leaves) ; 28 cm; 
+PB  - High/Scope Educational Research Foundation, Preschool Dept
+CY  - Ypsilanti, MI
+LA  - English
+CN  - 375.11 .H63h v. 5-6
+G1  - Pre-K
+ER  - 
+
+TY  - BOOK
+A2  - San Diego (California) City Schools
+T1  - Elementary program
+Y1  - 1963
+D1  - 10/1963
+SP  - 38
+KW  - Elementary education
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 372 .S19e
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - California Administrators of Special Education
+T1  - Looking at your EMR programs critically and constructively
+SP  - 11
+KW  - Children with mental disabilities
+N1  - 11 p. ; 28 cm.; Responsibility: the Administrators of Special Education, California.
+PB  - Office of Orange County (California) Superintendent of Schools
+CY  - Santa Ana, CA
+LA  - English
+CN  - 371.9 .O63L
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Contra Costa County (California) School Department
+T1  - Health education guide
+Y1  - 1965
+D1  - 1965
+KW  - Health education
+ED  - Preliminary ed.
+PB  - Contra Costa County (California) School Department
+CY  - Hayward, CA
+LA  - English
+CN  - 371.7 .C76h v. 1-2
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Illinois Curriculum Program
+T1  - School begins with kindergarten
+Y1  - 1959
+D1  - 09/1959
+SP  - 97
+KW  - Kindergarten
+N1  - vii; illus. 26 cm.; Note(s): Bibliography: p. 94. Bibliographical footnotes.
+T2  - Illinois Curriculum Program.; Subject field series; bulletin
+V1  - C-1
+PB  - Illinois Curriculum Program
+CY  - Springfield, IL
+LA  - English
+CN  - 375.11n.I29s
+SC  - Illinois
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - Ball State Teachers College Library
+T1  - Selected bibliography of courses of study for kindergarten education
+Y1  - 1955
+D1  - 10/1955
+SP  - 4
+T2  - Ball State Teachers College Library. Curriculum Laboratory.  Bibliography
+V1  - 13
+KW  - Kindergarten
+PB  - Ball State Teachers College Library
+CY  - Muncie, IN
+LA  - English
+CN  - 375.11 .I39s
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - Kentucky State Department of Education
+T1  - Preschool education in Kentucky
+Y1  - 1957
+D1  - 07/1957
+KW  - Early childhood education
+N1  - pages 365-437 : illustrations ; 23 cm.; Note(s): Includes bibliographical references.
+T2  - Educational bulletin (Frankfort, Ky.)
+V1  - 25
+IS  - 7
+PB  - Kentucky State Department of Education
+CY  - Frankfort, KY
+LA  - English
+CN  - 375.11 .K37p
+SC  - Kentucky
+G1  - Pre-K
+ER  - 
+
+TY  - BOOK
+A1  - Nohling, Edith E.
+A1  - Corneliuson, Signe A.
+T1  - Curriculum for kindergarten
+Y1  - 1953
+D1  - 06/1953
+KW  - Kindergarten
+KW  - Curricula
+N1  - lv. (various pagings) ; 28 cm.; Responsibility: by kindergarten teachers ; compiled and edited by Edith E. Nohling ... [et al.].
+PB  - Kenosha (Wisconsin) Public Schools
+CY  - Kenosha, WI
+LA  - English
+CN  - 375.11 .K36c
+SC  - Wisconsin
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - Lindbergh (Missouri) School District
+T1  - A guide for kindergarten teachers
+Y1  - 1964
+D1  - 1964
+SP  - 107
+KW  - Kindergarten
+PB  - Lindbergh (Missouri) School District
+CY  - St. Louis, MO
+LA  - English
+CN  - 375.11 .L75k
+SC  - Missouri
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A1  - Hagaman, Neva
+A1  - Borden, Hilma
+T1  - Guide for teachers of transition groups
+Y1  - 1947
+D1  - 06/1947
+KW  - Curricula
+N1  - 1 v. (various pagings) ill. 27 cm.; Other Titles: Transition groups; Responsibility: comp. by Neva Hagaman and Hilma Borden.
+ED  - Rev
+PB  - Long Beach (California) City Schools
+CY  - Long Beach, CA
+LA  - English
+CN  - 375.11 .L84g
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Long Beach (California) Public Schools
+T1  - A teacher's guide for kindergarten education
+Y1  - 1954
+D1  - 1954
+SP  - 297
+KW  - Kindergarten
+N1  - [vi]; illus. 28 cm.; Other Titles: Kindergarten education.
+PB  - Long Beach (California) Public Schools
+CY  - Long Beach, CA
+LA  - English
+CN  - 375.11 .L84t
+SC  - California
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District
+T1  - Guidelines for the kindergarten; an instructional bulletin
+Y1  - 1970
+D1  - 1970
+SP  - 40
+KW  - Kindergarten
+KW  - Early childhood education
+KW  - Curricula
+N1  - 1 v.; Note(s): Publication no. EC-343.
+PB  - Los Angeles (California) City School District
+CY  - Los Angeles, CA
+LA  - English
+CN  - 375.11 .L87g
+SC  - California
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District. Division of Instructional Services
+T1  - Kindergarten guide
+Y1  - 1960
+D1  - 1960
+SP  - 99
+T2  - Los Angeles (California) City School District. Division of Instructional Services. Publication.
+V1  - EC-204
+KW  - Kindergarten
+N1  - 99 p. ; 28 cm.; Responsibility: Los Angeles City Schools, Division of Instructional Services.
+PB  - Los Angeles (California) City School District
+CY  - Los Angeles, CA
+LA  - English
+CN  - 375.11 .L87k
+SC  - California
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) County
+T1  - A good program for five-year olds : narrative accounts to accompany selected slides
+Y1  - 1959
+D1  - 09/1959
+SP  - 59
+KW  - Kindergarten
+N1  - 59 leaves ; cm
+PB  - Los Angeles (California) County
+CY  - Los Angeles, CA
+LA  - English
+CN  - 375.11 .L879g
+SC  - California
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) County. Office of Superintendent of Schools
+T1  - Materials and equipment for four-and-one-half to seven-year-olds
+Y1  - 1946
+D1  - 06/1946
+SP  - 70
+KW  - Educational toys
+KW  - Child development
+KW  - Child psychology
+KW  - Kindergarten
+N1  - [9], 70 l. plans. 22 x 28 cm.; Note(s): Includes bibliographical references.
+PB  - Los Angeles (California) County
+CY  - Los Angeles, CA
+LA  - English
+CN  - 375.11 .L879m
+SC  - California
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles County (California) Schools
+T1  - Selected references concerning kindergarten education
+Y1  - 1959
+D1  - 09/1959
+SP  - 12
+KW  - Kindergarten
+PB  - Los Angeles County (California) Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 375.11 .L879s
+SC  - California
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - Madison (Wisconsin) Public Schools
+T1  - Guides for kindergarten teachers
+Y1  - 1953
+D1  - 1953
+KW  - Kindergarten
+N1  - 1. Helpful hints for registration; 2. Equipment and supplies; 3. The kindergarten program; 4. Learning activities in the kindergarten; 5. Excursions; 6. Illustrative unit in science; 7. Illustrative unit in social studies; 8. Looking forward to reading readiness; 9. For story-telling and reading aloud; 10. For rhythms and rote singing; 11. Recordings for kindergarten; 12. Visual helps; 13. Good books for kindergarten teachers; 14. A score of books for parents.
+PB  - Madison (Wisconsin) Public Schools
+CY  - Madison, WI
+LA  - English
+CN  - 375.11 .M18g
+SC  - Wisconsin
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - Maine State Department of Education
+T1  - That wonderful year; a conceptual-language approach to learning in the kindergarten
+Y1  - 1968
+D1  - 11/1968
+SP  - 82
+KW  - Reading readiness
+N1  - 82 p. 28 cm.; Note(s): Cover title./ Include bibliographies.
+PB  - Maine State Department of Education
+CY  - Augusta, ME
+LA  - English
+CN  - 375.11 .M22t
+SC  - Maine
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - Marietta (Ohio) Public Schools
+T1  - Course of study for kindergarten
+Y1  - 1955
+D1  - 06/1955
+KW  - Kindergarten
+PB  - Marietta (Ohio) Public Schools
+CY  - Marietta, OH
+LA  - English
+CN  - 375.11 .M33c
+SC  - Ohio
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - Merced County (California) Schools
+T1  - Kindergarten guide for kindergarten teachers
+Y1  - 1954
+D1  - 09/1954
+SP  - 76
+KW  - Kindergarten
+PB  - Merced County (California) Schools
+CY  - Merced, CA
+LA  - English
+CN  - 375.11 .M55k
+SC  - California
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - Missouri State Department of Education
+T1  - Kindergarten education
+Y1  - 1951
+D1  - 1951
+SP  - 35
+KW  - Kindergarten
+KW  - Curricula
+N1  - 35, [4] pages : illustrations ; 28 cm.; Note(s): At head of title: Missouri at work on the public school curriculum./ Includes bibliographical references (pages 32-35).; Responsibility: prepared by State Dept. of Education.
+T2  - Missouri State Department of Education. Publication
+V1  - 72
+PB  - Missouri State Department of Education
+CY  - Jefferson City, MO
+LA  - English
+CN  - 375.11 .M67k
+SC  - Missouri
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - Monrovia (California) Schools
+T1  - Kindergarten suggestions thruout the year
+KW  - Kindergarten
+PB  - Monrovia (California) Schools
+CY  - Monrovia, CA
+LA  - English
+CN  - 375.11 .M75k
+SC  - California
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - Austin Association for the Education of Young Children
+T1  - Ideas for learning environments
+Y1  - 1973
+D1  - 1973
+SP  - 65
+KW  - Teaching aids
+KW  - School facilities
+N1  - 65 p. illus. 23 cm.; Note(s): Issued in case with the author's Ideas for administrators, Ideas for creative curriculum, Ideas for teacher planning, and its Ideas for teaching with nature./ Bibliography: p. 11.
+PB  - National Association for the Education of Young Children
+CY  - Washington, DC
+LA  - English
+CN  - 375.11 .N27i v. 3
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Austin Association for the Education of Young Children
+T1  - Ideas for teacher planning
+Y1  - 1973
+D1  - 1973
+SP  - 52
+KW  - Creative activities and seat work
+N1  - 52 p. illus. 23 cm.; Note(s): Issued in case with the author's Ideas for administrators, Ideas for creative curriculum, Ideas for learning environments, and Its Ideas for teaching with nature./ Bibliography: p. 11-12.
+PB  - National Association for the Education of Young Children
+CY  - Washington, DC
+LA  - English
+CN  - 375.11 .N27i v. 4
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Austin Association for the Education of Young Children
+T1  - Ideas for teaching with nature
+Y1  - 1973
+D1  - 1973
+SP  - 59
+KW  - Outdoor education
+PB  - National Association for the Education of Young Children
+CY  - Washington, DC
+LA  - English
+CN  - 375.11 .N27i v. 5
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Austin Association for the Education of Young Children
+T1  - Ideas for creative curriculum
+Y1  - 1973
+D1  - 1973
+SP  - 77
+KW  - Creative thinking
+KW  - Drama in education
+KW  - Storytelling
+N1  - 77 p. illus. 23 cm.; Note(s): Issued in case with the author's Ideas for administrators, Ideas for learning environments, Ideas for teacher planning, and its Ideas for teaching with nature./ Includes bibliographies.
+PB  - National Association for the Education of Young Children
+CY  - Washington, DC
+LA  - English
+CN  - 375.11 .N27i v. 2
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Austin Association for the Education of Young Children
+T1  - Ideas for administrators
+Y1  - 1973
+D1  - 1973
+SP  - 37
+KW  - School reports
+N1  - 37 p. illus. 23 cm.; Note(s): Issued in case with the author's Ideas for creative curriculum, Ideas for Learning environments, Ideas for teacher planning, and its Ideas for teaching with nature.
+PB  - National Association for the Education of Young Children
+CY  - Washington, DC
+LA  - English
+CN  - 375.11 .N27i v. 1
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Monterey County (California) Schools
+T1  - Kindergarten guide
+Y1  - 1960
+D1  - 1960?
+SP  - 109
+KW  - Kindergarten
+N1  - 109 p. ill. 25 cm.
+PB  - Monterey County (California) Schools
+CY  - Salinas, CA
+LA  - English
+CN  - 375.11 .M77k
+SC  - California
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - Monterey County (California) Superintendent of Schools
+T1  - Kindergarten curriculum
+Y1  - 1953
+D1  - 01/1953
+SP  - 55
+T2  - Monterey County (California) Schools Curriculum Bulletin
+ED  - Revised
+KW  - Kindergarten
+KW  - Curricula
+PB  - Monterey County (California) Superintendent of Schools
+CY  - Salina, CA
+LA  - English
+CN  - 375.11 .M77k
+SC  - California
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - New Jersey State Department of Education
+T1  - First year in school
+Y1  - 1956
+D1  - 1956
+SP  - 106
+KW  - Kindergarten
+N1  - 106 pages : illustrations ; 23 cm.; Note(s): Includes bibliographical references.
+T2  - Elementary school bulletin
+V1  - 8
+ED  - Rev.
+PB  - New Jersey State Department of Education
+CY  - Trenton NJ
+LA  - English
+CN  - 375.11 .N531f
+SC  - New Jersey
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A1  - Reed, Flo
+T1  - Living and learning in kindergarten
+Y1  - 1964
+D1  - 1964
+SP  - 133
+ED  - Revised
+KW  - Kindergarten
+N1  - 133 p. illus. 28 cm.; Responsibility: Prepared by Flo Reed, elementary consultant.
+PB  - Nevada State Department of Education
+CY  - Carson City, NV
+LA  - English
+CN  - 375.11 .N49L
+SC  - Nevada
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Child Development and Parent Education
+T1  - Child development guides for teachers of three, four and five-year-old children
+Y1  - 1957
+D1  - 1957
+SP  - 112
+KW  - Nursery schools
+N1  - 112 p. ill. 26 cm.; Note(s): "A complete revision of the previously published Curriculum guides for teachers of two to five-year-old children and Curriculum guides for teachers of five-year-old children."/; Bibliography: p. 111-112.
+PB  - New York State Education Department
+CY  - Albany, NY
+LA  - English
+CN  - 375.11 .N532c 1957
+SC  - New York
+G1  - Pre-K
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Child Development and Parent Education
+T1  - Child development guides for teachers of three, four and five-year-old children
+Y1  - 1955
+D1  - 1955
+SP  - 112
+KW  - Nursery schools
+PB  - New York State Education Department
+CY  - Albany, NY
+LA  - English
+CN  - 375.11 .N532c 1955
+SC  - New York
+G1  - Pre-K
+ER  - 
+
+TY  - BOOK
+A2  - Newton (Massachusetts) Public Schools
+T1  - A kindergarten guide to pre-reading experiences
+Y1  - 1963
+D1  - 08/1963
+SP  - 73
+KW  - Kindergarten
+N1  - 73 leaves. 28 cm.5
+PB  - Newton (Massachusetts) Public Schools
+CY  - Newton, MA
+LA  - English
+CN  - 375.11 .N56k v. 1
+SC  - Massachusetts
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - Newton (Massachusetts) Public Schools
+T1  - How they grow: kindergarten handbook
+Y1  - 1958
+D1  - 1958
+SP  - 64
+KW  - Kindergarten
+N1  - 64 leaves. 28 cm.5
+PB  - Newton (Massachusetts) Public Schools
+CY  - Newton, MA
+LA  - English
+CN  - 375.11 .N56k v. 2
+SC  - Massachusetts
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - North Carolina State Department of Public Instruction
+T1  - Schools for young children : nursery schools and kindergartens
+Y1  - 1962
+D1  - 11/1962
+SP  - 32
+KW  - Nursery schools
+KW  - Kindergarten
+N1  - 32 pages : illustrations ; 23 cm.; Note(s): "November 20, 1962"--Foreword./ "This bulletin replaces 'The kindergarten in North Carolina' issued in 1953 and now out of print"--Foreword./ Includes bibliographical references (pages 29-31).
+T2  - Publication (North Carolina. Department of Public Instruction)
+V1  - 305
+PB  - North Carolina State Department of Public Instruction
+CY  - Raleigh, NC
+LA  - English
+CN  - 375.11 .N86s 1962
+SC  - North Carolina
+G1  - Pre-K
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - North Carolina State Department of Public Instruction
+T1  - Schools for young children : nursery schools and kindergartens
+Y1  - 1955
+D1  - 09/195
+SP  - 32
+KW  - Nursery schools
+KW  - Kindergarten
+T2  - Publication (North Carolina. Department of Public Instruction)
+V1  - 305
+PB  - North Carolina State Department of Public Instruction
+CY  - Raleigh, NC
+LA  - English
+CN  - 375.11 .N86s 1955
+SC  - North Carolina
+G1  - Pre-K
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Division of Elementary Education
+T1  - Children learn in kindergarten
+Y1  - 1958
+D1  - 1958
+SP  - 24
+KW  - Kindergarten
+N1  - 24 p. illus. 23 cm.
+PB  - University of the State of New York. Division of Elementary Education
+CY  - Albany, NY
+LA  - English
+CN  - 375.11 .N532cL
+SC  - New York
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - Oklahoma City (Oklahoma) Public Schools
+T1  - A guide to learning experiences in kindergarten
+SP  - 42
+KW  - Kindergarten
+T2  - Oklahoma City (Oklahoma) Public Schools. Bulletin.
+V1  - 58-K
+PB  - Oklahoma City (Oklahoma) Public Schools
+CY  - Oklahoma City, OK
+LA  - English
+CN  - 375.11 .O41g
+SC  - Oklahoma
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - Orange County (California) Superintendent of Schools
+T1  - The kindergarten child and organizing the kindergarten day: two sections of kindergarten, a teacher's guide
+Y1  - 1961
+D1  - 02/1961
+SP  - 37
+KW  - Kindergarten
+N1  - 37 l. illus. 28 cm.; Other Titles: Kindergarten, a teacher's guide.
+T2  - Orange County (California) Schools. Bulletin series
+V1  - I,; 142F
+PB  - Orange County (California) Schools
+CY  - Santa Ana, CA
+LA  - English
+CN  - 375.11 .O64k v. 1
+SC  - California
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - Orange County (California) Superintendent of Schools
+T1  - Art experiences: a section of kindergarten, a teacher's guide
+Y1  - 1961
+D1  - 02/1961
+SP  - 7
+KW  - Kindergarten
+KW  - Art
+N1  - 7 l. illus. 28 cm.; Other Titles: Kindergarten, a teacher's guide.
+T2  - Orange County (California) Schools. Bulletin series
+V1  - I,; 142E
+PB  - Orange County (California) Schools
+CY  - Santa Ana, CA
+LA  - English
+CN  - 375.11 .O64k v. 2
+SC  - California
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - Orange County (California) Superintendent of Schools
+T1  - Language arts: a section of kindergarten, a teacher's guide
+Y1  - 1962
+D1  - 09/1962
+SP  - 26
+KW  - Kindergarten
+KW  - Language arts
+N1  - 26 l. illus. 28 cm.; Other Titles: Kindergarten, a teacher's guide.
+T2  - Orange County (California) Schools. Bulletin series
+V1  - I,; 142-I
+PB  - Orange County (California) Schools
+CY  - Santa Ana, CA
+LA  - English
+CN  - 375.11 .O64k v. 3
+SC  - California
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - Orange County (California) Superintendent of Schools
+T1  - Social studies: a section of kindergarten, a teacher's guide
+Y1  - 1961
+D1  - 01/1961
+KW  - Kindergarten
+KW  - Social sciences
+T2  - Orange County (California) Schools. Bulletin series
+V1  - I,; 142D
+PB  - Orange County (California) Schools
+CY  - Santa Ana, CA
+LA  - English
+CN  - 375.11 .O64k v. 4
+SC  - California
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - Orange County (California) Superintendent of Schools
+T1  - Equipment and supplies: a section of kindergarten, a teacher's guide
+Y1  - 1959
+D1  - 09/1959
+SP  - 12
+KW  - Kindergarten
+KW  - Teaching aids
+N1  - 12 l. illus. 28 cm.; Other Titles: Kindergarten, a teacher's guide.
+T2  - Orange County (California) Schools. Bulletin series
+V1  - I,; 142A
+PB  - Orange County (California) Schools
+CY  - Santa Ana, CA
+LA  - English
+CN  - 375.11 .O64k v. 5
+SC  - California
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - Orange County (California) Superintendent of Schools
+T1  - Selected bibliography: a section of kindergarten, a teacher's guide
+Y1  - 1959
+D1  - 09/1959
+SP  - 19
+KW  - Kindergarten
+KW  - Bibliography
+N1  - 19 l. illus. 28 cm.; Other Titles: Kindergarten, a teacher's guide.
+T2  - Orange County (California) Schools. Bulletin series
+V1  - I,; 142B
+PB  - Orange County (California) Schools
+CY  - Santa Ana, CA
+LA  - English
+CN  - 375.11 .O64k v. 6
+SC  - California
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - Orange County (California) Schools
+T1  - Kindergarten; a teachers guide
+Y1  - 1951
+D1  - 08/1951
+SP  - 94
+KW  - Curricula
+KW  - Kindergarten
+ED  - Experimental
+PB  - Orange County (California) Schools
+CY  - Santa Ana, CA
+LA  - English
+CN  - 375.11 .O64a
+G1  - Pre-K
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools
+T1  - Our children in kindergarten : a guide for teachers
+Y1  - 1960
+D1  - 1960
+SP  - 109
+KW  - Kindergarten
+N1  - ill. ; cm; 
+PB  - Philadelphia (Pennsylvania) Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 375.11 .P54o
+SC  - Pennsylvania
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A1  - Farrow, Vern L.
+T1  - Kindergartens for your community
+Y1  - 1962
+D1  - 04/1962
+SP  - 22
+KW  - Kindergarten
+T2  - University of Oregon. School of Education. Curriculum bulletin.
+V1  - 18
+IS  - 04/1962
+PB  - University of Oregon. School of Education
+CY  - Eugene, OR
+LA  - English
+CN  - 375.11 .O66k
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A1  - Anderson, Mabel P.
+T1  - A guide for kindergarten teachers
+Y1  - 1958
+D1  - 1958-1959
+SP  - 127
+N1  - ix; ill. ; 28 cm.; Note(s): Includes bibliographical references (p. 123-127).; Responsibility: [Mabel P. Anderson].
+PB  - Riverside (California) Unified School District
+CY  - Riverside, CA
+LA  - English
+CN  - 375.11 R62g
+SC  - California
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - Reed Union (California) School District
+T1  - Kindergarten curriculum guide
+Y1  - 1963
+D1  - 1963
+SP  - 34
+KW  - Kindergarten
+KW  - Curricula
+N1  - xvi, 34 l. 28 cm.
+PB  - Reed Union (California) School District
+CY  - Belvedere-Tiburon, CA
+LA  - English
+CN  - 375.11 .R32k
+SC  - California
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - Richmond County (Georgia) Schools
+T1  - A guide for organizing and developing a kindergarten program in the Augusta area
+Y1  - 1955
+D1  - 07/1955
+SP  - 37
+KW  - Kindergarten
+N1  - Note: "Developed by a group of kindergarten teachers under the direction of the Richmond County Board of Education, Roy E. Rollins, Supt., John B. Burks, Ass't. Supt. in charge of instruction"
+PB  - Richmond County (Georgia) Schools
+CY  - Augusta, GA
+LA  - English
+CN  - 375.11 .R53k
+SC  - Georgia
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - Riverside (Illinois) Public Schools
+T1  - Kindergarten curriculum guide for parents
+SP  - 13
+KW  - Kindergarten
+KW  - Parents
+PB  - Riverside (Illinois) Public Schools
+CY  - Riverside, IL
+LA  - English
+CN  - 375.11 .R62k
+SC  - Illinois
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - Rockford (Illinois) Public Schools
+T1  - Kindergarten handbook : a guide for kindergarten teachers and those interested in the work of our kindergartens
+Y1  - 1956
+D1  - 1956-1957
+SP  - 67
+N1  - 67 leaves : ill. ; 28 cm.; Note(s): Cover title: Handbook for kindergarten teachers.; Responsibility: Kindergarten Teachers of the Rockford Public Schools.
+PB  - Rockford (Illinois) Public Schools
+CY  - Rockford, IL
+LA  - English
+CN  - 375.11 .R68h
+SC  - Illinois
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - Sacramento (California) City Unified School District
+T1  - Key to the kindergarten
+Y1  - 1956
+D1  - 06/1956
+SP  - 145
+PB  - Sacramento (California) City Unified School District
+CY  - Sacramento, CA
+LA  - English
+CN  - 375.11 .S12k
+SC  - California
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - Sacramento (California) City Unified District
+T1  - Preliminary follow-up study of pupils who have participated in the program for preschool pupils and their parents
+Y1  - 1971
+D1  - 02/1971
+SP  - 6
+KW  - Nursery schools
+PB  - Sacramento (California) City Unified District
+CY  - Sacramento, CA
+LA  - English
+CN  - 375.11 .S12p
+SC  - California
+G1  - Pre-K
+ER  - 
+
+TY  - BOOK
+A1  - Mitchell, Gloria D.
+T1  - Belle Benchley innovative school; multiage grouping--a model for early childhood education. ESEA title III project: Multiage grouping in early childhood education
+Y1  - 1973
+D1  - 1973
+SP  - 82
+KW  - Nongraded schools
+KW  - Early childhood education
+N1  - vi; illus. 28 cm.; Responsibility: [Prepared by Gloria D. Mitchell] 
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 375.11 .S193m
+G1  - Pre-K
+ER  - 
+
+TY  - BOOK
+A2  - Union School District
+T1  - Suggested teaching techniques for kindergarten
+SP  - 83
+KW  - Kindergarten
+PB  - Union School District
+LA  - English
+CN  - 375.11 .S196s
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - Solano County (California) Schools
+T1  - These are the ways: teacher's guide for kindergarten education
+Y1  - 1956
+D1  - 1956
+SP  - 92
+KW  - Kindergarten
+PB  - Solano County (California) Schools
+CY  - Fairfield, CA
+LA  - English
+CN  - 375.11 .S68t
+SC  - California
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - Kindergarten : happy open door to school
+Y1  - 1975
+D1  - 07/1975
+SP  - 28
+KW  - Kindergarten
+N1  - ill. ; 21 cm.; Note(s): Cover title.; Responsibility: [Texas Education Agency].
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 375.11 T35k
+SC  - Texas
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A1  - Child, Toni
+T1  - Guide for teaching kindergarten
+Y1  - 1970
+D1  - 1970?
+SP  - 43
+KW  - Kindergarten
+N1  - 43 pages : illustrations ; 28 cm; Note(s): Cover title./ Includes bibliographical references (pages 42-43).; Responsibility: [S.C. Department of Education, Public Information Office ; edited by Toni Child ; designed by John Conyers. Photos by David Abell [and others].
+PB  - South Carolina State Department of Education
+CY  - Columbia, SC
+LA  - English
+CN  - 375.11 S71g
+SC  - South Carolina
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - A guide for the education of five-year-old children in Texas
+Y1  - 1970
+D1  - 1970
+SP  - 43
+KW  - Kindergarten
+N1  - v; ill. ; 25 cm.; Note(s): Bibliography; p. 41-43.; Responsibility: Texas Education Agency.
+T2  - Texas Education Agency.; Bulletin
+V1  - 696
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 375.11 .T35g
+SC  - Texas
+G1  - Pre-K
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - Torrance (California) Unified School District
+T1  - Guiding kindergarten experiences: a handbook for teachers and administrators
+Y1  - 1957
+D1  - 1957
+SP  - 212
+KW  - Kindergarten
+T2  - Torrance (California) Unified School District. Publication.
+V1  - 30
+PB  - Torrance (California) Unified School District
+CY  - Torrance, CA
+LA  - English
+CN  - 375.11 .T69g
+SC  - California
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A1  - Cawelti, Gordon
+A1  - Alexander, Hiram M.
+T1  - Kindergarten : an intuitive approach, a curriculum guide for teachers of kindergarten
+Y1  - 1969
+D1  - 1969
+SP  - 217
+KW  - Kindergarten
+KW  - Kindergarten teachers
+N1  - v; ; 29 cm.; Note(s): "Produced through the cooperative effort of the kindergarten teachers of the The Tulsa Public Schools under the supervision of Beth Lamb, Supervisor of Kindergarten Education"./ Includes bibliographical references (p. 214-215).; Responsibility: Gordon Cawelti and Hiram M. Alexander.
+PB  - Tulsa (Oklahoma) Public Schools
+CY  - Tulsa, OK
+LA  - English
+CN  - 375.11 .T92k
+SC  - Oklahoma
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - Tulsa (Oklahoma) Public Schools
+T1  - A curriculum guide for teachers of kindergarten
+Y1  - 1962
+D1  - 1962
+SP  - 204
+N1  - iv; ill. ; 28 cm.; Responsibility: Tulsa Public Schools.
+ED  - Revised
+PB  - Tulsa (Oklahoma) Public Schools
+CY  - Tulsa, OK
+LA  - English
+CN  - 375.11 .T92c
+SC  - Oklahoma
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A1  - Gore, Lillian L.
+A2  - United States Office of Education. Instruction, Organization, and Services Branch
+T1  - Curriculum guides dealing with early elementary education: kindergarten
+Y1  - 1958
+D1  - 07/1958
+SP  - 17
+KW  - Early childhood education
+N1  - 17 p. ; 26 cm.; Note(s): Caption title.
+T2  - United States.; Office of Education.; Selected references
+V1  - 11
+PB  - U.S. Department of Health, Education, and Welfare, Office of Education, Division of State and Local School Systems, Instruction, Organization, and Services Branch
+CY  - Washington, DC
+LA  - English
+CN  - 375.11 .U58c
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A1  - Imhoff, Myrtle
+A2  - United States Office of Education. Instruction, Organization, and Services Branch
+T1  - Early elementary education
+Y1  - 1957
+D1  - 02/1957
+SP  - 12
+KW  - Early childhood education
+N1  - 12 p. ; 26 cm.; Note(s): Caption title.
+T2  - United States.; Office of Education.; Selected references
+V1  - 6
+PB  - U.S. Department of Health, Education, and Welfare, Office of Education, Division of State and Local School Systems, Instruction, Organization, and Services Branch
+CY  - Washington, DC
+LA  - English
+CN  - 375.11 .U58c
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - Vancouver (Washington) Public Schools
+T1  - Kindergarten handbook
+Y1  - 1952
+D1  - 09/1952
+SP  - 67
+KW  - Kindergarten
+PB  - Vancouver (Washington) Public Schools
+CY  - Vancouver, WA
+LA  - English
+CN  - 375.11 .V22k
+SC  - Washington
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - Ventura County (California) Board of Education
+T1  - In the kindergarten: a guide for teachers
+Y1  - 1955
+D1  - 1955
+SP  - 47
+KW  - Kindergarten teachers
+PB  - Ventura County (California) Board of Education
+CY  - Ventura, CA
+LA  - English
+CN  - 375.11 .V46i
+SC  - California
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - Virginia State Department of Education. Elementary Education Service
+T1  - A guide for kindergarten education
+Y1  - 1968
+D1  - 01/1968
+SP  - 34
+KW  - Kindergarten
+N1  - ii; 24 cm.; Note(s): Bibliography: p. 29-34.
+T2  - Virginia.; State Board of Education.; Bulletin
+V1  - 50
+IS  - 7
+PB  - Elementary Education Service, Virginia State Department of Education
+CY  - Richmond, VA
+LA  - English
+CN  - 375.11 .V81g
+SC  - Virginia
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - Warren (Michigan) Consolidated Schools
+T1  - From these roots: Warren Consolidated curriculum guide for kindergarten teachers
+Y1  - 1967
+D1  - 1967
+SP  - 209
+KW  - Kindergarten teachers
+PB  - Warren (Michigan) Consolidated Schools
+CY  - Warren, MI
+LA  - English
+CN  - 375.11 .W28f
+SC  - Michigan
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - West Virginia State Department of Education
+T1  - Section 5: early childhood education: kindergarten
+Y1  - 1970
+D1  - 1970
+SP  - 9
+KW  - Kindergarten
+PB  - West Virginia State Department of Education
+LA  - English
+CN  - 375.11 .W51k
+SC  - West Virginia
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - Ypsilanti Preschool Curriculum Demonstration Project
+T1  - The cognitive curriculum
+Y1  - 1970
+D1  - 05/1970
+KW  - Curricula
+PB  - Ypsilanti Preschool Curriculum Demonstration Project
+CY  - Ypsilanti, MI
+LA  - English
+CN  - 375.11 .Y85c
+SC  - Michigan
+G1  - Pre-K
+ER  - 
+
+

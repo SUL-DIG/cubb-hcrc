@@ -1,0 +1,1765 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Palo Alto (California) Unified School District</field>
+<field name="title">Basic guide for special training classes in the Palo Alto Unified School
+District (tentative)</field>
+<field name="year">1962</field>
+<field name="date">Summer 1962</field>
+<field name="pages">155</field>
+<field name="keywords">Special education</field>
+<field name="publisher">Palo Allo Unified School District</field>
+<field name="pub_place">Palo Alto, CA</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .P18b</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Palo Alto (California) Unified School District</field>
+<field name="title">The gifted child: a handbook for teachers and administrators</field>
+<field name="year">1955</field>
+<field name="date">1955</field>
+<field name="pages">32</field>
+<field name="keywords">Gifted children</field>
+<field name="publisher">Palo Allo Unified School District</field>
+<field name="pub_place">Palo Alto, CA</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .P18g</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Neuber, Margaret Anna</field><field name="author_nat">Margaret Anna Neuber</field>
+<field name="title">Language skills for living and learning; a guide for teachers of children with
+retarded mental development</field>
+<field name="year">1959</field>
+<field name="date">1959</field>
+<field name="pages">35</field>
+<field name="keywords">English language</field>
+<field name="keywords">Children with mental disabilities</field>
+<field name="publisher">Margaret A. Neuber</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .P41L v. 2</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Neuber, Margaret Anna</field><field name="author_nat">Margaret Anna Neuber</field>
+<field name="title">Arithmetic skills for living and learning, a guide for teachers of children with
+retarded mental development</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="pages">101</field>
+<field name="keywords">Mathematics</field>
+<field name="keywords">Children with mental disabilities</field>
+<field name="keywords">Teachers of children with mental disabilities</field>
+<field name="publisher">Margaret A. Neuber</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .P41L v. 1</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Neuber, Margaret Anna</field><field name="author_nat">Margaret Anna Neuber</field>
+<field name="corp_author">Pennsylvania State University. Department of Education</field>
+<field name="title">Social skills for living and learning; a guide for teachers of children with
+retarded mental development</field>
+<field name="year">1959</field>
+<field name="date">1959</field>
+<field name="pages">200</field>
+<field name="keywords">Children with mental disabilities</field>
+<field name="notes">x, 200 p.; Note(s): Includes programs for primary through senior high school
+levels.; Responsibility: [Ed. by Margaret A. Neuber.</field>
+<field name="pub_place">University Park</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .P41L v. 3</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Palo Alto (California) Unified School District</field>
+<field name="title">Improving the instructional program for able students : a summary of the
+development, expansion, and evaluation of Palo Alto's program for students with high ability</field>
+<field name="year">1960</field>
+<field name="date">06/1960</field>
+<field name="pages">36</field>
+<field name="keywords">Special education</field>
+<field name="publisher">Palo Alto Unified School District</field>
+<field name="pub_place">Palo Alto, CA</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .P18i</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Cubberley Senior High School (Palo Alto, California)</field>
+<field name="title">The 24 hour approach to work experience: work experience for senior high
+school</field>
+<field name="year">1961</field>
+<field name="date">05/1961</field>
+<field name="pages">5</field>
+<field name="keywords">Vocational education</field>
+<field name="publisher">Cubberley Senior High School</field>
+<field name="pub_place">Palo Alto, CA</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .P18t</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Davis, Carl J.</field><field name="author_nat">Carl J. Davis</field>
+<field name="corp_author">Perkins School for the Blind</field>
+<field name="title">Guidance programs for blind children : a report of a conference, April
+1959</field>
+<field name="year">1959</field>
+<field name="date">04/1959</field>
+<field name="keywords">Blind</field>
+<field name="notes">142 p. ; 28 cm.; Responsibility: edited by Carl J. Davis.</field>
+<field name="series_title">Perkins publications</field>
+<field name="series_vol">20</field>
+<field name="publisher">Perkins School for the Blind</field>
+<field name="pub_place">Watertown, MA</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .P44g</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Pennsylvania State Department of Public Instruction</field>
+<field name="title">Guide to planning for able pupils</field>
+<field name="year">1962</field>
+<field name="date">1962</field>
+<field name="pages">27</field>
+<field name="keywords">Gifted children</field>
+<field name="notes">iv; ges : illustrations ; 28 cm.; Note(s): Cover title./ "Pennsylvania
+curriculum development program."/ Includes bibliographical references (pages 24-25).; Other Titles:
+Pennsylvania curriculum development program </field>
+<field name="series_title">Pennsylvania.; Department of Public Instruction.; Curriculum development
+series</field>
+<field name="series_vol">2</field>
+<field name="publisher">Commonwealth of Pennsylvania Department of Public Instruction</field>
+<field name="pub_place">Harrisburg, PA</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .P415g</field>
+<field name="state_country">Pennsylvania</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Philadelphia (Pennsylvania) Public Schools</field>
+<field name="title">Curriculum guide for the retarded educable volume 1 (tentative)</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="pages">42</field>
+<field name="keywords">Children with mental disabilities</field>
+<field name="notes">xi; ; 28 cm.</field>
+<field name="publisher">Philadelphia (Pennsylvania) Public Schools, Division of Special
+Education</field>
+<field name="pub_place">Philadelphia, PA</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .P544c v. 2</field>
+<field name="state_country">Pennsylvania</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Philadelphia (Pennsylvania) Public Schools</field>
+<field name="title">Curriculum guide for the retarded educable : supplemental bulletin</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="pages">108</field>
+<field name="keywords">Children with mental disabilities</field>
+<field name="notes">xi; ; 28 cm.</field>
+<field name="publisher">Philadelphia (Pennsylvania) Public Schools, Division of Special
+Education</field>
+<field name="pub_place">Philadelphia, PA</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .P544c v. 1</field>
+<field name="state_country">Pennsylvania</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Philadelphia (Pennsylvania) Public Schools</field>
+<field name="title">The classroom teacher and speech improvement (tentative)</field>
+<field name="year">1960</field>
+<field name="date">1960</field>
+<field name="pages">43</field>
+<field name="keywords">Children with mental disabilities</field>
+<field name="series_title">Philadelphia (Pennsylvania) Public Schools. Curriculum guide</field>
+<field name="publisher">Philadelphia (Pennsylvania) Public Schools, Division of Special
+Education</field>
+<field name="pub_place">Philadelphia, PA</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .P544cl</field>
+<field name="state_country">Pennsylvania</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Philadelphia (Pennsylvania) Public Schools</field>
+<field name="title">The education of the child with a handicap</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="pages">40</field>
+<field name="keywords">Children with disabilities</field>
+<field name="publisher">Philadelphia (Pennsylvania) Public Schools, Division of Special
+Education</field>
+<field name="pub_place">Philadelphia, PA</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .P544e</field>
+<field name="state_country">Pennsylvania</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">School District of Philadelphia (Pennsylvania) Office of
+Curriculum</field>
+<field name="title">The academically talented in the Philadelphia Public Schools : progress
+report--1961</field>
+<field name="year">1961</field>
+<field name="date">1961</field>
+<field name="pages">84</field>
+<field name="keywords">Gifted children</field>
+<field name="notes">84 p. ; 28 cm.; Responsibility: Curriculum Office, Philadelphia Public
+Schools.</field>
+<field name="publisher">Philadelphia (Pennsylvania) Public Schools</field>
+<field name="pub_place">Philadelphia, PA</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .P544a</field>
+<field name="state_country">Pennsylvania</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Philadelphia (Pennsylvania) School-Community Coordinating Team</field>
+<field name="corp_author">Research Council of the Great Cities Program for School
+Improvement</field>
+<field name="title">School District of Philadelphia Great Cities School Improvement Program:
+progress report, September 1960-June 1962</field>
+<field name="year">1963</field>
+<field name="date">02/1963</field>
+<field name="pages">69</field>
+<field name="keywords">Children with social disabilities</field>
+<field name="publisher">Philadelphia (Pennsylvania) Public Schools</field>
+<field name="pub_place">Philadelphia, PA</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .P544sg</field>
+<field name="state_country">Pennsylvania</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Robinett, Donald W.</field><field name="author_nat">Donald W. Robinett</field>
+<field name="author">Sachs, Benjamin M.</field><field name="author_nat">Benjamin M. Sachs</field>
+<field name="title">An exploratory study for motivation of able under achieving students in the
+Pittsburg Unified School District</field>
+<field name="year">1964</field>
+<field name="date">06/1964</field>
+<field name="pages">74</field>
+<field name="keywords">Underachievers</field>
+<field name="keywords">Counseling</field>
+<field name="notes">80 p. tables 28 cm.; Note(s): Cover title.; Other Titles: Exploratory study for
+motivation of able underachieving students in the Pittsburg Unified School District; Responsibility:
+by Donald W. Robinett [and] Benjamin M. Sachs.</field>
+<field name="publisher">Pittsburg (Pennsylvania) Unified School District</field>
+<field name="pub_place">Pittsburg, CA</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .P68e</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">School District of Philadelphia, (Pennsylvania) Board of Public
+Education</field>
+<field name="title">The gifted child, his education in the Philadelphia public schools</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="pages">68</field>
+<field name="keywords">Gifted children</field>
+<field name="notes">68 p. ill. 18 cm.; Note(s): Cover title.</field>
+<field name="publisher">Philadelphia (Pennsylvania) Public Schools</field>
+<field name="pub_place">Philadelphia, PA</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .P554g</field>
+<field name="state_country">Pennsylvania</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Philadelphia (Pennsylvania) Public Schools. Curriculum Office</field>
+<field name="title">The key to teaching slow learners in the high school</field>
+<field name="year">1959</field>
+<field name="date">1959</field>
+<field name="pages">7</field>
+<field name="keywords">Children with mental disabilities</field>
+<field name="publisher">Philadelphia (Pennsylvania) Public Schools</field>
+<field name="pub_place">Philadelphia, PA</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .P554k</field>
+<field name="state_country">Pennsylvania</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Berson, Minnie Perrin</field><field name="author_nat">Minnie Perrin Berson</field>
+<field name="corp_author">Project Head Start (U.S.)</field>
+<field name="title">Daily program III for a child development center : a manual for teachers</field>
+<field name="year">1967</field>
+<field name="date">1967?</field>
+<field name="pages">48</field>
+<field name="keywords">Compensatory education</field>
+<field name="keywords">Day care centers</field>
+<field name="keywords">Project Head Start (U.S.)</field>
+<field name="notes">ill. ; 23 cm.; Note(s): Cover title./ "This booklet is a joint publication of
+Project Head Start, Office of Economic Opportunity, and the Bureau of Elementary and Secondary
+Education, Dept. of Health, Education and Welfare."--P. [4] of cover./ Includes bibliographical
+references (p. 47-48).; Other Titles: Daily program 3 for a child development center; Daily program
+three for a child development center; Responsibility: by Minnie Perrin Berson].</field>
+<field name="series_title">Project Head Start</field>
+<field name="series_vol">11</field>
+<field name="publisher">Project Head Start, Office of Economic Opportunity : Bureau of Elementary
+and Secondary Education, Dept. of Health, Education and Welfare</field>
+<field name="pub_place">Washington, DC</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .P96d</field>
+<field name="grade_level_group">Pre-K</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Pittsburgh (Pennsylvania) School District. Board of Public
+Education</field>
+<field name="title">Planning for the mentally advanced in the Pittsburgh elementary schools</field>
+<field name="year">1957</field>
+<field name="date">11/1957</field>
+<field name="pages">127</field>
+<field name="keywords">Gifted children</field>
+<field name="notes">127 p. 23 cm.</field>
+<field name="series_title">Pittsburgh schools</field>
+<field name="series_vol">32</field>
+<field name="issue">2</field>
+<field name="publisher">Pittsburgh (Pennsylvania) Board of Public Education</field>
+<field name="pub_place">Pittsburgh, PA</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .P69p</field>
+<field name="state_country">Pennsylvania</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Portland (Oregon) Public Schools</field>
+<field name="title">Special education : curriculum for special achievement classes, elementary
+mentally retarded program</field>
+<field name="year">1966</field>
+<field name="date">1966?</field>
+<field name="pages">97</field>
+<field name="keywords">Children with mental disabilities</field>
+<field name="keywords">Curricula</field>
+<field name="notes">97 leaves ; 23 x 29 cm.; Note(s): Cover title./ Caption title: Curriculum for
+special achievement classes, elementary mentally retarded program.; Other Titles: Curriculum for
+special achievement classes, elementary mentally retarded program</field>
+<field name="series_title">Curriculum publication (Portland, Oregon)</field>
+<field name="series_vol">SpE-1-17.</field>
+<field name="publisher">Portland (Oregon) Public Schools</field>
+<field name="pub_place">Portland, OR</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .P85s</field>
+<field name="state_country">Oregon</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Portland (Oregon) School District</field>
+<field name="title">The gifted child in Portland; a report of five years of experience in developing
+a program for children of exceptional endowment</field>
+<field name="year">1959</field>
+<field name="date">1959</field>
+<field name="pages">192</field>
+<field name="keywords">Gifted children</field>
+<field name="notes">192 p. illus. 23 cm.</field>
+<field name="publisher">Portland (Oregon) Public Schools</field>
+<field name="pub_place">Portland, OR</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .P85g</field>
+<field name="state_country">Oregon</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Health and Welfare Association of Allegheny County</field>
+<field name="title">The mental health team: history and operating procedures</field>
+<field name="year">1962</field>
+<field name="date">12/1962</field>
+<field name="pages">13</field>
+<field name="keywords">Child mental health</field>
+<field name="publisher">Pittsburgh (Oregon) Board of Public Education</field>
+<field name="pub_place">Pittsburgh, PA</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .P69m</field>
+<field name="state_country">Pennsylvania</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Pomona (California) City Schools</field>
+<field name="title">Background material for the PTA workshop on the special services offered by
+Pomona City Schools</field>
+<field name="year">1951</field>
+<field name="date">04/1951</field>
+<field name="keywords">Special education</field>
+<field name="publisher">Pomona (California) City Schools</field>
+<field name="pub_place">Pomona, CA</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .P78s</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Hess, Lotte P.</field><field name="author_nat">Lotte P. Hess</field>
+<field name="author">Prince, Carl A.</field><field name="author_nat">Carl A. Prince</field>
+<field name="corp_author">San Diego (California) City Schools</field>
+<field name="title">A guide for teaching seventh grade special classes.</field>
+<field name="year">1966</field>
+<field name="date">1966</field>
+<field name="pages">184</field>
+<field name="keywords">Children with mental disabilities</field>
+<field name="notes">v; ill. ; 29 cm.; Responsibility: prepared by Lotte P. Hess and Carl A.
+Prince.;</field>
+<field name="publisher">San Diego (California) City Schools</field>
+<field name="pub_place">San Diego, CA</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .S194gs</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">7th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">San Diego (California) City Schools</field>
+<field name="title">Guide for twelfth-grade special classes</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="pages">268</field>
+<field name="keywords">Special education</field>
+<field name="publisher">San Diego (California) City Schools</field>
+<field name="pub_place">San Diego, CA</field>
+<field name="language">English</field>
+<field name="notes">268 p. ; cm.</field>
+<field name="call_number">371.9 .S194gu</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">12th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">San Diego (California) City Schools</field>
+<field name="title">A mixed bag; ideas, techniques, and materials for speech therapy in elementary
+schools</field>
+<field name="year">1969</field>
+<field name="date">1969</field>
+<field name="pages">74</field>
+<field name="keywords">Speech</field>
+<field name="keywords">Remedial teaching</field>
+<field name="keywords">Speech therapy</field>
+<field name="notes">iv, 74 l. ill. 28 cm.; Responsibility: Prepared by Beryle R. Freiheit.</field>
+<field name="publisher">San Diego (California) City Schools</field>
+<field name="pub_place">San Diego, CA</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .S194m</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">San Diego County (California) Schools</field>
+<field name="title">What should we do about the gifted? Work and study guide for developing school
+district plans of action for gifted students</field>
+<field name="year">1958</field>
+<field name="date">09/1958</field>
+<field name="pages">39</field>
+<field name="keywords">Gifted children</field>
+<field name="notes">39 p.</field>
+<field name="publisher">San Diego County (California) Schools</field>
+<field name="pub_place">San Diego, CA</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .S195w</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Raleigh (North Carolina) Public Schools</field>
+<field name="title">Enrichment experiences for rapid learning in the elementary schools: a guide for
+teachers</field>
+<field name="year">1958</field>
+<field name="date">1958-1959</field>
+<field name="pages">23</field>
+<field name="keywords">Curriculum enrichment</field>
+<field name="publisher">Raleigh (North Carolina) Public Schools</field>
+<field name="pub_place">Raleigh, NC</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .R16e</field>
+<field name="state_country">North Carolina</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Ravenswood Elementary School District (East Palo Alto, California) </field>
+<field name="title">Report on fast learner program</field>
+<field name="pages">18</field>
+<field name="keywords">Gifted children</field>
+<field name="publisher">Ravenswood Elementary School District</field>
+<field name="pub_place">East Palo Alto, CA</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .R25r</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Redlands (California) Unified School District</field>
+<field name="title">Educationally handicapped policies and procedures handbook</field>
+<field name="pages">15</field>
+<field name="keywords">Children with disabilities</field>
+<field name="publisher">Redlands (California) Unified School District</field>
+<field name="pub_place">Redlands, CA</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .R31e</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Richmond (Virginia) Public Schools</field>
+<field name="title">Elementary holding classes</field>
+<field name="pages">26</field>
+<field name="keywords">Children with mental disabilities</field>
+<field name="publisher">Richmond (Virginia) Public Schools</field>
+<field name="pub_place">Richmond, VA</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .R53e</field>
+<field name="state_country">Virginia</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Riverside (Illinois) Board of Education</field>
+<field name="title">Improving our program of education for the gifted child</field>
+<field name="keywords">Gifted children</field>
+<field name="publisher">Riverside (Illinois) Board of Education</field>
+<field name="pub_place">Riverside, IL</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .R62i</field>
+<field name="state_country">Illinois</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Banks, George W.</field><field name="author_nat">George W. Banks</field>
+<field name="author">White, Marguerite J.</field><field name="author_nat">Marguerite J. White</field>
+<field name="title">Policies and procedures suggested as an aid to understanding and instructing the
+able student: a guide for teachers of the gifted and most able students</field>
+<field name="year">1960</field>
+<field name="date">1960</field>
+<field name="pages">37</field>
+<field name="keywords">Gifted children</field>
+<field name="publisher">San Diego (California) City Schools</field>
+<field name="pub_place">San Diego, CA</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .S194g</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">San Diego (California) City Schools</field>
+<field name="title">Pilot project in compensatory education: a report to the State Advisory
+Committee on Compensatory Education</field>
+<field name="year">1965</field>
+<field name="date">01/1965</field>
+<field name="pages">76</field>
+<field name="keywords">Special education</field>
+<field name="publisher">San Diego (California) City Schools</field>
+<field name="pub_place">San Diego, CA</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .S194p</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">San Diego (California) City Schools</field>
+<field name="title">Programs for the gifted in the elementary grades of the San Diego City
+Schools</field>
+<field name="keywords">Gifted children</field>
+<field name="publisher">San Diego (California) City Schools</field>
+<field name="pub_place">San Diego, CA</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .S194pr</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">San Jose (California) Unified School District</field>
+<field name="title">Project R-3 : mathematics component</field>
+<field name="year">1975</field>
+<field name="date">early 1970s</field>
+<field name="keywords">Compensatory education</field>
+<field name="keywords">Mathematics</field>
+<field name="keywords">Remedial teaching</field>
+<field name="notes">1 v. (various pagings) : ill. ; 28 cm.; Note(s): "A motivational program
+emphasizing student Readiness, subject Relevance, and learning Reinforcement through individualized
+instruction, intensive involvement, and gaming/simulation."/ Title from cover.; Other Titles:
+Mathematics component.</field>
+<field name="series_title">State compensatory education project; Right to read model</field>
+<field name="publisher">San Jose (California) Unified School District</field>
+<field name="pub_place">San Jose, CA</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .S197p v. 3</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Gowan, John Curtis</field><field name="author_nat">John Curtis Gowan</field>
+<field name="title">Annotated bibliography on creativity &amp;giftedness</field>
+<field name="year">1965</field>
+<field name="date">1965</field>
+<field name="pages">197</field>
+<field name="keywords">Creative ability</field>
+<field name="keywords">Gifted children</field>
+<field name="notes">iii; 28 cm.; Note(s): Continuation of the author's An annotated bibliography on
+the academically talented./ "Research reported herein was supported by the Cooperative Research
+Program of the Office of Education; U.S. Office of Education Cooperative research contract
+OE-S-061-64."</field>
+<field name="publisher">San Fernando Valley State College Foundation</field>
+<field name="pub_place">Northridge, CA</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .S196a</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">San Jose (California) Unified School District</field>
+<field name="title">Project R-3 : reading component</field>
+<field name="year">1975</field>
+<field name="date">early 1970s</field>
+<field name="keywords">Compensatory education</field>
+<field name="keywords">Educational innovations</field>
+<field name="keywords">Reading</field>
+<field name="keywords">Remedial teaching</field>
+<field name="notes">108 p. in various pagings : ill. ; 28 cm.; Note(s): "A motivational program
+emphasizing student Readiness, subject Relevance, and learning Reinforcement through individualized
+instruction, intensive involvement, and gaming/simulation."/ Cover title.; Responsibility: San Jose
+Unified School District.</field>
+<field name="series_title">State compensatory education project; Right to read model</field>
+<field name="publisher">San Jose (California) Unified School District</field>
+<field name="pub_place">San Jose, CA</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .S197p v. 4</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">San Jose (California) Unified School District</field>
+<field name="title">Project R-3 : administrative guide and instructional management package</field>
+<field name="year">1975</field>
+<field name="date">early 1970s</field>
+<field name="keywords">Compensatory education</field>
+<field name="keywords">Educational innovations</field>
+<field name="notes">various pagings : ill. ; 28 cm.; Note(s): "A motivational program emphasizing
+student Readiness, subject Relevance, and learning Reinforcement through individualized instruction,
+intensive involvement, and gaming/simulation."/ Cover title.; Responsibility: San José Unified
+School District.</field>
+<field name="series_title">State compensatory education project; A right to read model</field>
+<field name="publisher">San Jose (California) Unified School District</field>
+<field name="pub_place">San José, CA</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .S197p v. 1</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">San Jose (California) Unified School District</field>
+<field name="title">Project R-3 : model instructional unit</field>
+<field name="year">1975</field>
+<field name="date">early 1970s</field>
+<field name="keywords">Compensatory education</field>
+<field name="keywords">Educational innovations</field>
+<field name="notes">various pagings : ill. ; 28 cm.; Note(s): "A motivational program emphasizing
+student Readiness, subject Relevance, and learning Reinforcement through individualized instruction,
+intensive involvement, and gaming/simulation."/ Cover title.; Responsibility: San José Unified
+School District.</field>
+<field name="series_title">State compensatory education project; A right to read model</field>
+<field name="publisher">San Jose (California) Unified School District</field>
+<field name="pub_place">San José, CA</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .S197p v. 2</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Southern Regional Project for Education of the Gifted</field>
+<field name="title">The gifted student: a manual for program improvement; a report of the Southern
+Regional Project for Education of the Gifted</field>
+<field name="year">1962</field>
+<field name="date">1962</field>
+<field name="pages">101</field>
+<field name="keywords">Gifted children</field>
+<field name="notes">101 p. 23 cm.; Note(s): Bibliography: p. 89-91.; Responsibility: by State Dept.
+of Education representatives in the project: W.R. Burris [and others. </field>
+<field name="publisher">Southern Regional Education Board</field>
+<field name="pub_place">Atlanta, GA</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .S71g</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Elmott, Charlotte D.</field><field name="author_nat">Charlotte D. Elmott</field>
+<field name="author">Criner, Jane</field><field name="author_nat">Jane Criner</field>
+<field name="author">Wagner, Ralph</field><field name="author_nat">Ralph Wagner</field>
+<field name="title">The troublesome ten percent, a report of a demonstration of school social
+work</field>
+<field name="year">1961</field>
+<field name="date">1961</field>
+<field name="pages">88</field>
+<field name="keywords">Problem children</field>
+<field name="notes">88 p. 23 cm.; Responsibility: by Charlotte D. Elmott, Jane Criner [and] Ralph
+Wagner. A project of the Santa Barbara City Schools, in cooperation with the California State Dept.
+of Social Welfare and the Junior League of Santa Barbara.</field>
+<field name="publisher">Santa Barbara (California) City Schools</field>
+<field name="pub_place">Santa Barbara, CA</field>
+<field name="language">English</field>
+<field name="call_number">371.9 S23t</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Seattle (Washington) Public Schools. Administrative and Services
+Center</field>
+<field name="title">A policy for the education of able learners</field>
+<field name="year">1961</field>
+<field name="date">02/1961</field>
+<field name="keywords">Special education</field>
+<field name="publisher">Seattle (Washington) Public Schools</field>
+<field name="pub_place">Seattle, WA</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .S44p</field>
+<field name="state_country">Washington</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Geer, William C.</field><field name="author_nat">William C. Geer</field>
+<field name="author">Wolfe, William G.</field><field name="author_nat">William G. Wolfe</field>
+<field name="title">Education of the cerebral palsied in the South; a report of a study made
+possible by a grant from the Easter Seal Research Foundation</field>
+<field name="year">1960</field>
+<field name="date">1960</field>
+<field name="pages">74</field>
+<field name="keywords">Children with disabilities</field>
+<field name="notes">74 p. illus.; by William C. Geer and William G. Wolfe with the assistance of
+Artis Ingram and L. Leon Reid</field>
+<field name="publisher">Southern Regional Education Board</field>
+<field name="pub_place">Atlanta, GA</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .S71e</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Hansen, Botilda</field><field name="author_nat">Botilda Hansen</field>
+<field name="title">Curriculum suggestions for special education of the mentally handicapped</field>
+<field name="series_title">Santa Clara County (California) Schools. Special education
+bulletin</field>
+<field name="series_vol">1</field>
+<field name="year">1956</field>
+<field name="date">09/1956</field>
+<field name="keywords">Special education</field>
+<field name="keywords">Children with mental disabilities</field>
+<field name="publisher">Santa Clara County (California) Superintendent of Schools, Departent of
+Special Services</field>
+<field name="pub_place">San Jose, CA</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .S22s v. 1</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Perry, Christine Robinson</field><field name="author_nat">Christine Robinson Perry</field>
+<field name="title">Curriculum suggestions for special education of the mentally handicapped;
+independent activities and seatwork for the mentally handicapped primary through secondary
+levels</field>
+<field name="series_title">Santa Clara (California) County Schools. Special education
+bulletin</field>
+<field name="series_vol">2</field>
+<field name="year">1957</field>
+<field name="date">10/1957</field>
+<field name="pages">38</field>
+<field name="keywords">Special education</field>
+<field name="keywords">Children with mental disabilities</field>
+<field name="notes">38 l. ; illus. ; 29 cm.</field>
+<field name="publisher">Santa Clara County (California) Superintendent of Schools, Dept. of Special
+Services</field>
+<field name="pub_place">San Jose, CA</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .S22s v. 2</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Santa Clara County (California) Superintendent of Schools, Department of
+Special Services</field>
+<field name="title">Curriculum suggestions for special education of the mentally handicapped: social
+studies for the mentally handicapped at the primary level</field>
+<field name="series_title">Santa Clara County Schools. Special education bulletin</field>
+<field name="series_vol">3</field>
+<field name="issue">1</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="pages">18</field>
+<field name="keywords">Special education</field>
+<field name="keywords">Children with mental disabilities</field>
+<field name="keywords">Social sciences</field>
+<field name="publisher">Santa Clara County (California) Superintendent of Schools, Dept. of Special
+Services</field>
+<field name="pub_place">San Jose, CA</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .S22s v. 3</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Santa Clara County (California) Superintendent of Schools, Department of
+Special Services</field>
+<field name="title">Curriculum suggestions for special education of the mentally handicapped: social
+studies for the mentally handicapped at the intermediate level</field>
+<field name="series_title">Santa Clara County Schools. Special education bulletin</field>
+<field name="series_vol">3</field>
+<field name="issue">2</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="pages">20</field>
+<field name="keywords">Special education</field>
+<field name="keywords">Children with mental disabilities</field>
+<field name="keywords">Social sciences</field>
+<field name="publisher">Santa Clara County (California) Superintendent of Schools, Dept. of Special
+Services</field>
+<field name="pub_place">San Jose, CA</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .S22s v. 4</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Middle school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Santa Clara County (California) Superintendent of Schools, Department of
+Special Services</field>
+<field name="title">Curriculum suggestions for special education of the mentally handicapped: social
+studies for the mentally handicapped at the secondary level</field>
+<field name="series_title">Santa Clara County Schools. Special education bulletin</field>
+<field name="series_vol">3</field>
+<field name="issue">3</field>
+<field name="year">1958</field>
+<field name="date">11/1958</field>
+<field name="keywords">Special education</field>
+<field name="keywords">Children with mental disabilities</field>
+<field name="keywords">Social sciences</field>
+<field name="publisher">Santa Clara County (California) Superintendent of Schools, Dept. of Special
+Services</field>
+<field name="pub_place">San Jose, CA</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .S22s v. 5</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Santa Clara County (California) Superintendent of Schools, Department of
+Special Services</field>
+<field name="title">Curriculum suggestions for special education of the severely mentally
+handicapped</field>
+<field name="series_title">Santa Clara County (California) Schools. Special education
+bulletin</field>
+<field name="series_vol">4</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="pages">96</field>
+<field name="keywords">Special education</field>
+<field name="keywords">Children with mental disabilities</field>
+<field name="notes">96 l. 29 cm.</field>
+<field name="publisher">Santa Clara County (California) Superintendent of Schools, Department of
+Special Services</field>
+<field name="pub_place">San Jose, CA</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .S22s v. 6</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Hansen, Botilda</field><field name="author_nat">Botilda Hansen</field>
+<field name="title">The school environment for young educable mentally retarded children</field>
+<field name="series_title">Santa Clara County (California) Schools. Special education
+bulletin</field>
+<field name="series_vol">5</field>
+<field name="year">1961</field>
+<field name="date">1958</field>
+<field name="pages">10</field>
+<field name="keywords">Special education</field>
+<field name="keywords">Children with mental disabilities</field>
+<field name="notes">10 l. 29 cm.</field>
+<field name="publisher">Santa Clara County (California) Superintendent of Schools, Department of
+Special Services</field>
+<field name="pub_place">San Jose, CA</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .S22s v. 7</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">San Francisco (California) Unified School District</field>
+<field name="title">Services to exceptional children in the San Francisco public schools</field>
+<field name="year">1966</field>
+<field name="date">02/1966</field>
+<field name="pages">107</field>
+<field name="keywords">Special education</field>
+<field name="publisher">San Francisco (California) Unified School District</field>
+<field name="pub_place">San Francisco, CA</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .S197s</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Santa Clara County (California) Office of Education</field>
+<field name="title">Resource manual compiled by and for speech and hearing therapists</field>
+<field name="pages">113</field>
+<field name="keywords">Speech therapy</field>
+<field name="keywords">Deafness</field>
+<field name="publisher">Santa Clara County (California) Office of Education</field>
+<field name="pub_place">San Jose, CA</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .S227r</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Iowa University Special Education Curriculum Development Center</field>
+<field name="title">Improving instruction for trainable mentally retarded : a working
+document</field>
+<field name="year">1968</field>
+<field name="date">04/1968</field>
+<field name="pages">90</field>
+<field name="keywords">Children with mental disabilities</field>
+<field name="notes">90 leaves : illustrations ; 27 cm; Note(s): SECDC is supported in part by a
+grant from the U.S. Office of Education, Project # 6-2883./ Grant-OEG-3-7-002883-0499./ Includes
+bibliographical references (leaves 21-51).</field>
+<field name="publisher">Iowa University Special Education Curriculum Development Center</field>
+<field name="pub_place">Iowa City, IA</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .S74i</field>
+<field name="state_country">Iowa</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Iowa Department of Public Instruction</field>
+<field name="corp_author">Iowa State University</field>
+<field name="corp_author">Special Education Curriculum Development Center</field>
+<field name="title">Developing appropriate seatwork for the mentally retarded</field>
+<field name="year">1969</field>
+<field name="date">04/1969</field>
+<field name="pages">95</field>
+<field name="keywords">Children with mental disabilities</field>
+<field name="notes">95 pages : illustrations ; 28 cm; Note(s): Includes bibliographical references
+(page 95).</field>
+<field name="publisher">Special Education Curriculum Development Center</field>
+<field name="pub_place">Cedar Rapids, IA</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .S74d</field>
+<field name="state_country">Iowa</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Southern Wisconsin Colony and Training School</field>
+<field name="title">What can we do</field>
+<field name="year">1956</field>
+<field name="date">09/1956</field>
+<field name="keywords">Mentally ill children</field>
+<field name="notes">[6] leaves ; 28 cm.; Note(s): Cover title./ "September 1, 1956.";
+Responsibility: Southern Wisconsin Colony and Training School.</field>
+<field name="series_title">Community education series</field>
+<field name="series_vol">1</field>
+<field name="publisher">Southern Wisconsin Colony and Training School</field>
+<field name="pub_place">Union Grove, WI</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .S72c v. 1</field>
+<field name="state_country">Wisconsin</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Southern Wisconsin Colony and Training School</field>
+<field name="title">A curriculum for the trainable child</field>
+<field name="year">1956</field>
+<field name="date">09/1956</field>
+<field name="pages">22</field>
+<field name="keywords">Mentally ill children</field>
+<field name="notes">22 leaves ; 28 cm.; Note(s): "September 1, 1956."; Responsibility: Southern
+Wisconsin Colony and Training School.</field>
+<field name="series_title">Community education series</field>
+<field name="series_vol">2</field>
+<field name="publisher">Southern Wisconsin Colony and Training School</field>
+<field name="pub_place">Union Grove, WI</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .S72c v. 2</field>
+<field name="state_country">Wisconsin</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Iowa University Special Education Curriculum Development Center</field>
+<field name="title">Planning an arithmetic curriculum for the educable mentally retarded</field>
+<field name="year">1968</field>
+<field name="date">11/1968</field>
+<field name="pages">148</field>
+<field name="keywords">Children with mental disabilities</field>
+<field name="keywords">Mathematics</field>
+<field name="keywords">Curricula</field>
+<field name="notes">148 leaves : illustrations ; 27 cm; Note(s): SECDC is supported in part by a
+grant from the U.S. Office of Education, project # 6-2883./ Grant-OEG-3-7-002883-0499.</field>
+<field name="publisher">Iowa University Special Education Curriculum Development Center</field>
+<field name="pub_place">Iowa City, IA</field>
+<field name="language">English</field>
+<field name="call_number">371.9 S74p</field>
+<field name="state_country">Iowa</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Iowa Department of Public Instruction</field>
+<field name="corp_author">Iowa University Special Education Curriculum Development Center</field>
+<field name="title">Reporting pupil progress in special classes for the retarded</field>
+<field name="year">1968</field>
+<field name="date">10/1968</field>
+<field name="pages">67</field>
+<field name="keywords">Special education</field>
+<field name="keywords">School reports</field>
+<field name="notes">67 leaves : charts ; 27 cm; Note(s): SECDC is supported in part by a grant from
+the U.S. Office of Education, Project # 6-2883./ Grant OEG-3-7-002883-0499./ Includes
+bibliographical references (pages 56-57).</field>
+<field name="publisher">Iowa State Department of Public Instruction</field>
+<field name="pub_place">Des Moines, IA</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .S74r</field>
+<field name="state_country">Iowa</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Special Education Curriculum Development Center</field>
+<field name="title">Life experience starter unit, Set no. 2</field>
+<field name="year">1969</field>
+<field name="date">01/1969</field>
+<field name="pages">207</field>
+<field name="keywords">Special education</field>
+<field name="notes">ill. ; 22 x 28 cm.; Note(s): "A cooperative program involving the Iowa State
+Dept. of Public Instruction and The University of Iowa."/ Title from cover.</field>
+<field name="publisher">Iowa State Department of Public Instruction</field>
+<field name="pub_place">Des Moines, IA</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .S74L v. 2</field>
+<field name="state_country">Iowa</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Special Education Curriculum Development Center</field>
+<field name="title">Life experience starter unit: an honorable place in society</field>
+<field name="year">1968</field>
+<field name="date">Summer, 1968</field>
+<field name="pages">171</field>
+<field name="keywords">Children with mental disabilities</field>
+<field name="notes">Note(s): Cover title./ Set no. 1./ A cooperative program involving the Iowa
+State Dept. of Public Instruction and the University of Iowa.; Other Titles: Honorable place in
+society; Responsibility: [by Edward L. Meyen, and others.</field>
+<field name="publisher">Iowan State Department of Public Instruction</field>
+<field name="pub_place">Iowa City, IA</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .S74L v. 1</field>
+<field name="state_country">Iowa</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Meyen, Edward L.</field><field name="author_nat">Edward L. Meyen</field>
+<field name="corp_author">Iowa University Special Education Curriculum Development Center</field>
+<field name="title">Social problem fiction : a source of help for retarded readers</field>
+<field name="year">1969</field>
+<field name="date">02/1969</field>
+<field name="pages">314</field>
+<field name="keywords">Children with mental disabilities</field>
+<field name="keywords">Social problems in literature</field>
+<field name="notes">314 leaves; ; 22 x 28 cm.; Responsibility: Special Education Curriculum
+Development Center ; SECDC staff : Edward L. Meyen, Director ... [et al.].</field>
+<field name="publisher">Iowa State Department of Public Instruction</field>
+<field name="pub_place">Cedar Rapids, IA</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .S74s</field>
+<field name="state_country">Iowa</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Meyen, Edward L.</field><field name="author_nat">Edward L. Meyen</field>
+<field name="corp_author">Iowa University Special Education Curriculum Development Center</field>
+<field name="title">The use of overhead projection in classrooms for the mentally retarded</field>
+<field name="year">1969</field>
+<field name="date">03/1969</field>
+<field name="pages">84</field>
+<field name="keywords">Children with mental disabilities</field>
+<field name="keywords">Audio-visual materials</field>
+<field name="notes">84 leaves : illustrations ; 27 cm; Note(s): SECDC is supported in part by a
+grant from the U.S. Office of Education, Project # 6-2883./ Grant-OEG-3-7-002883-0499.;
+Responsibility: Edward L. Meyen, Donald L. Carr.</field>
+<field name="publisher">Iowa University Special Education Curriculum Development Center</field>
+<field name="pub_place">Iowa City, IS</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .S74u</field>
+<field name="state_country">Iowa</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Tennessee State Department of Education. Area of Special Education</field>
+<field name="title">Handbook for administrators : a guide for speech and hearing programs</field>
+<field name="year">1964</field>
+<field name="date">1964</field>
+<field name="pages">26</field>
+<field name="keywords">Speech therapy</field>
+<field name="keywords">Deafness</field>
+<field name="notes">26 pages : forms ; 28 cm; Other Titles: Guide for speech and hearing
+programs.</field>
+<field name="publisher">Tennessee State Department of Education</field>
+<field name="pub_place">Nashville, TN</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .T29h</field>
+<field name="state_country">Tennessee</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Texas Education Agency</field>
+<field name="title">A guide for programs for the education of migrant children</field>
+<field name="year">1969</field>
+<field name="date">Summer, 1969</field>
+<field name="pages">98</field>
+<field name="keywords">Children of migrant laborers</field>
+<field name="notes">98 p. 28 cm.</field>
+<field name="publisher">Texas Education Agency. Migrant &amp;Preschool Programs</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .T35g</field>
+<field name="state_country">Texas</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Shell Fellows in Science</field>
+<field name="title">Providing for the gifted student in science</field>
+<field name="year">1956</field>
+<field name="date">Summer, 1956</field>
+<field name="keywords">Gifted children</field>
+<field name="publisher">Shell Merit Program</field>
+<field name="pub_place">Stanford, CA</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .S78p</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Forsythe, Donald G.</field><field name="author_nat">Donald G. Forsythe</field>
+<field name="title">A resource unit on juvenile delinquency</field>
+<field name="pages">30</field>
+<field name="keywords">Juvenile delinquency</field>
+<field name="notes">For Dr Gross, ED 296 (a)</field>
+<field name="pub_place">Stanford, CA</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .S78r</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Anderson, Ruth Babb</field><field name="author_nat">Ruth Babb Anderson</field>
+<field name="author">Hottel, John V.</field><field name="author_nat">John V. Hottel</field>
+<field name="corp_author">Tennessee Program for Severely Mentally Retarded Children</field>
+<field name="title">Curriculum guidelines for teachers of severely mentally retarded
+children</field>
+<field name="year">1957</field>
+<field name="date">01/1957</field>
+<field name="pages">24</field>
+<field name="keywords">Children with mental disabilities</field>
+<field name="publisher">Tennessee Department of Education</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .T29c</field>
+<field name="state_country">Tennessee</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Levine, Bert Daniel</field><field name="author_nat">Bert Daniel Levine</field>
+<field name="title">Provisions and practices to serve the exceptional child in Texas secondary
+schools</field>
+<field name="year">1955</field>
+<field name="date">05/1955</field>
+<field name="pages">24</field>
+<field name="keywords">Special education</field>
+<field name="notes">24 p. 23 cm.</field>
+<field name="series_title">Texas Study of Secondary Education. Research study; </field>
+<field name="series_vol">17</field>
+<field name="publisher">Texas Study of Secondary Education</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .T354p</field>
+<field name="state_country">Texas</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Texas Education Agency</field>
+<field name="title">Guidelines for program development, special education : Volume III, Guidelines
+for developing a special education program for minimally brain-injured children and youth in the
+local community</field>
+<field name="year">1968</field>
+<field name="date">1968</field>
+<field name="pages">166</field>
+<field name="keywords">Special education</field>
+<field name="notes">vii; ill., forms ; 25 cm.; Note(s): Includes bibliographical references.;
+Responsibility: Texas Education Agency.</field>
+<field name="series_title">Texas Education Agency.; Bulletin</field>
+<field name="series_vol">673</field>
+<field name="edition">Rev</field>
+<field name="publisher">Texas Education Agency</field>
+<field name="pub_place">Austin, Tex</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .T35gu v. 3</field>
+<field name="state_country">Texas</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Texas Education Agency</field>
+<field name="title">Guidelines for program development; special education</field>
+<field name="year">1968</field>
+<field name="date">1968</field>
+<field name="pages">178</field>
+<field name="keywords">Special education</field>
+<field name="notes">v. illus., forms. 25 cm.; Note(s): Includes bibliographical references.</field>
+<field name="series_title">Texas Education Agency.; Bulletin</field>
+<field name="series_vol">673</field>
+<field name="edition">Rev</field>
+<field name="publisher">Texas Education Agency</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .T35gu v. 1</field>
+<field name="state_country">Texas</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Texas Education Agency</field>
+<field name="title">Curriculum guide, special education; a guide for developing a community program
+for the trainable mentally retarded</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="pages">161</field>
+<field name="keywords">Children with mental disabilities</field>
+<field name="notes">v. illus. 28 cm.; Note(s): Bibliography: v. 2, p. 113-117.</field>
+<field name="series_title">Texas Education Agency.; Bulletin</field>
+<field name="series_vol">673</field>
+<field name="publisher">Texas Education Agency</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .T35gu v. 2</field>
+<field name="state_country">Texas</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Carpenter, Anita Cecile Arsenault</field><field name="author_nat">Anita Cecile Arsenault Carpenter</field>
+<field name="title">Catalog of captioned films for the deaf</field>
+<field name="year">1967</field>
+<field name="date">01/1967</field>
+<field name="pages">102</field>
+<field name="keywords">Deafness</field>
+<field name="keywords">Motion pictures</field>
+<field name="notes">xvi, 102 p.; Note(s): A publication of the Bureau for Education of the
+Handicapped.</field>
+<field name="series_title">OE (Series) (United States. Office of Education)</field>
+<field name="series_vol">34035-B.</field>
+<field name="publisher">U.S. Department of Health, Education, and Welfare. Office of
+Education</field>
+<field name="pub_place">Washington, DC</field>
+<field name="language">English</field>
+<field name="call_number">31.9 .U58c</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Project Head Start (U.S.)</field>
+<field name="title">The staff</field>
+<field name="year">1969</field>
+<field name="date">1969?</field>
+<field name="pages">16</field>
+<field name="keywords">Project Head Start (U.S.)</field>
+<field name="notes">ill. ; 23 cm.; Note(s): Cover title.</field>
+<field name="series_title">Project Head Start</field>
+<field name="series_vol">1A.</field>
+<field name="publisher">U.S. Department of Health, Education, and Welfare</field>
+<field name="pub_place">Washington, DC</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .U58pr #1</field>
+<field name="grade_level_group">Pre-K</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Project Head Start (U.S.)</field>
+<field name="title">Recruitment and selection for a child development center</field>
+<field name="year">1969</field>
+<field name="date">1969</field>
+<field name="pages">28</field>
+<field name="keywords">Project Head Start (U.S.)</field>
+<field name="notes">ill. ; 23 cm.; Note(s): Cover title.</field>
+<field name="series_title">Project Head Start</field>
+<field name="series_vol">1A</field>
+<field name="publisher">U.S. Department of Health, Education, and Welfare</field>
+<field name="pub_place">Washington, DC</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .U58pr #1A</field>
+<field name="grade_level_group">Pre-K</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Project Head Start (U.S.)</field>
+<field name="title">Evaluating performance and progress</field>
+<field name="year">1969</field>
+<field name="date">1969</field>
+<field name="pages">26</field>
+<field name="keywords">Day care centers</field>
+<field name="keywords">Project Head Start (U.S.)</field>
+<field name="notes">ill. ; 23 cm.; Note(s): Cover title.</field>
+<field name="series_title">Project Head Start</field>
+<field name="series_vol">1B</field>
+<field name="publisher">U.S. Department of Health, Education, and Welfare</field>
+<field name="pub_place">Washington, DC</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .U58pr #1B</field>
+<field name="grade_level_group">Pre-K</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Stotera, Mary I.</field><field name="author_nat">Mary I. Stotera</field>
+<field name="title">Pueblo enrichment program</field>
+<field name="year">1965</field>
+<field name="date">11/1965</field>
+<field name="pages">33+</field>
+<field name="keywords">Mexican Americans</field>
+<field name="keywords">Learning disabilities</field>
+<field name="notes">33; ; 28 cm.; Responsibility: materials compiled and edited by Mary I.
+Stotera.</field>
+<field name="publisher">Tucson (Arizona) Public Schools</field>
+<field name="pub_place">Tucson, AZ</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .T89p</field>
+<field name="state_country">Arizona</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">United States Commission on Civil Rights. California Advisory
+Committee</field>
+<field name="title">Education and the Mexican American Community in Los Angeles County : a report of
+an open meeting by the California State Advisory Committee to the U.S. Commission on Civil
+Rights</field>
+<field name="year">1968</field>
+<field name="date">04/1968</field>
+<field name="pages">28</field>
+<field name="keywords">Mexican Americans</field>
+<field name="notes">iv; ; 28 cm.; Note(s): Press release, dated April 26, 1968, attached to inside
+front cover.</field>
+<field name="publisher">California State Advisory Committee</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .U57e</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">U.S. Department of Health, Education, and Welfare</field>
+<field name="title">Parents are needed : suggestions on parent participation in Child Development
+Centers</field>
+<field name="year">1969</field>
+<field name="date">1969</field>
+<field name="pages">16</field>
+<field name="keywords">Project Head Start (U.S.)</field>
+<field name="notes">16 S. : Ill.</field>
+<field name="series_title">Project Head Start</field>
+<field name="series_vol">6</field>
+<field name="publisher">Office of Economic Opportunity</field>
+<field name="pub_place">Washington, DC</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .U58pr #6</field>
+<field name="grade_level_group">Pre-K</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Project Head Start (U.S.)</field>
+<field name="title">Parent involvement : a workbook of training tips for Head Start Staff</field>
+<field name="year">1969</field>
+<field name="date">1969</field>
+<field name="pages">91</field>
+<field name="keywords">Community and school</field>
+<field name="notes">ill. ; 26 cm.; Note(s): Cover title./ Includes bibliographical
+references.</field>
+<field name="series_title">Project Head Start</field>
+<field name="series_vol">10A</field>
+<field name="publisher">Office of Economic Opportunity</field>
+<field name="pub_place">Washington, DC</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .U58pr #10A</field>
+<field name="grade_level_group">Pre-K</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Project Head Start (U.S.)</field>
+<field name="title">Training, courses and methods</field>
+<field name="year">1969</field>
+<field name="pages">106</field>
+<field name="keywords">Project Head Start (U.S.)</field>
+<field name="notes">ill. ; 24 cm.; Note(s): Includes bibliographical references.</field>
+<field name="series_title">Project Head Start</field>
+<field name="series_vol">1D</field>
+<field name="publisher">U.S. Department of Health, Education, and Welfare</field>
+<field name="pub_place">Washington, DC</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .U58pr #1D</field>
+<field name="grade_level_group">Pre-K</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Project Head Start (U.S.)</field>
+<field name="title">Volunteers in the child development center program</field>
+<field name="year">1969</field>
+<field name="date">1969</field>
+<field name="pages">40</field>
+<field name="keywords">Project Head Start (U.S.)</field>
+<field name="notes">40 p. ; 23 cm.; Note(s): Includes bibliographical references.</field>
+<field name="series_title">Project Head Start</field>
+<field name="series_vol">5</field>
+<field name="publisher">U.S. Department of Health, Education, and Welfare</field>
+<field name="pub_place">Washington, DC</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .U58pr #5</field>
+<field name="grade_level_group">Pre-K</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Abbitt, Earluth Apting</field><field name="author_nat">Earluth Apting Abbitt</field>
+<field name="title">Time to learn : the community that cares for the retarded child</field>
+<field name="year">1968</field>
+<field name="date">07/1968</field>
+<field name="keywords">Children with mental disabilities</field>
+<field name="notes">2 v.</field>
+<field name="publisher">Division of Mental Health</field>
+<field name="pub_place">St. Thomas, U.S. Virgin Islands</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .V817t v. 1-2</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Berson, Minnie Perrin</field><field name="author_nat">Minnie Perrin Berson</field>
+<field name="corp_author">Project Head Start (U.S.)</field>
+<field name="title">Daily program III for a child development center : a manual for teachers</field>
+<field name="year">1967</field>
+<field name="date">1967</field>
+<field name="pages">48</field>
+<field name="keywords">Compensatory education</field>
+<field name="keywords">Day care centers</field>
+<field name="keywords">Project Head Start (U.S.)</field>
+<field name="notes">ill. ; 24 cm.; Note(s): Cover title./ Stock number 1792-00014./ Includes
+bibliographical references (p. 54-55).; Other Titles: Daily program 3 for a child development
+center; Daily program three for a child development center; Responsibility: by Minnie Perrin
+Berson].</field>
+<field name="series_title">Project Head Start</field>
+<field name="series_vol">11</field>
+<field name="publisher">U.S. Department of Health, Education, and Welfare</field>
+<field name="pub_place">Washington, DC</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .U58pr #11</field>
+<field name="grade_level_group">Pre-K</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Project Head Start (U.S.)</field>
+<field name="title">Psychologist for a child development center</field>
+<field name="year">1969</field>
+<field name="date">1969</field>
+<field name="pages">29</field>
+<field name="keywords">School psychologists</field>
+<field name="keywords">Project Head Start (U.S.)</field>
+<field name="notes">ill. ; 24 cm.; Responsibility: Project Head Start.</field>
+<field name="series_title">Project Head Start</field>
+<field name="series_vol">12</field>
+<field name="publisher">Office of Economic Opportunity</field>
+<field name="pub_place">Washington, DC</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .U58pr #12</field>
+<field name="grade_level_group">Pre-K</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">United States. Naval Reserve Officers Training Corps</field>
+<field name="title">The Naval Reserve Officers Training Corps : bulletin of information for students
+desiring to enter the program in the fall term of college, 1954</field>
+<field name="year">1953</field>
+<field name="date">06/1953</field>
+<field name="pages">43</field>
+<field name="keywords">United States Naval Reserve Officers Training Corps</field>
+<field name="notes">ill. ; 23 cm.; Other Titles: Bulletin of information NROTC :; how to go to
+college and start a naval career.</field>
+<field name="publisher">U.S. Naval Reserve Officers Training Corps</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="language">English</field>
+<field name="call_number">371.425 .U58un</field>
+<field name="grade_level_group">Postsecondary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Vallejo (California) Unified School District</field>
+<field name="title">The program for the gifted child in the Vallejo Elementary Schools</field>
+<field name="year">1962</field>
+<field name="date">1962-1963</field>
+<field name="pages">19</field>
+<field name="keywords">Gifted children</field>
+<field name="publisher">Vallejo (California) Unified School District</field>
+<field name="pub_place">Vallejo, CA</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .V18p</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Ypsilanti (Michigan) Public Schools</field>
+<field name="title">Trainee's text for preschool and kindergarten aides, to be used in conjunction
+with a program to prepare high school students for employment as preschool and kindergarten
+aides</field>
+<field name="year">1966</field>
+<field name="date">1966</field>
+<field name="pages">97</field>
+<field name="keywords">Teachers' assistants</field>
+<field name="notes">97 p. ill.</field>
+<field name="publisher">Ypsilanti (Michigan) Public Schools</field>
+<field name="pub_place">Ypsilanti, MI</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .Y86p v. 1</field>
+<field name="state_country">Michigan</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Washington (State) Research Committee on Education</field>
+<field name="title">Educational adaptations for gifted pupils in the United States</field>
+<field name="year">1959</field>
+<field name="date">1959</field>
+<field name="pages">33</field>
+<field name="keywords">Gifted children</field>
+<field name="notes">33 p. 23 cm.; Note(s): Bibliography: p. 28-33.</field>
+<field name="publisher">Office of the Superintendent of Public Instruction</field>
+<field name="pub_place">Olympia, WA</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .W31e</field>
+<field name="state_country">Washington</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Wyoming State Department of Education</field>
+<field name="corp_author">University of Wyoming. College of Education</field>
+<field name="title">A handbook for teachers of migrant children in Wyoming</field>
+<field name="year">1968</field>
+<field name="date">1968</field>
+<field name="pages">109</field>
+<field name="keywords">Children of migrant laborers</field>
+<field name="notes">xiii; illus. 28 cm.; Note(s): Bibliography: p. 107-109.; Responsibility:
+Prepared by Wyoming State Dept. of Education in cooperation with the College of Education,
+University of Wyoming.</field>
+<field name="publisher">Wyoming State Department of Education</field>
+<field name="pub_place">Laramie, WY</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .W98h</field>
+<field name="state_country">Wyoming</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Young, Ethel</field><field name="author_nat">Ethel Young</field>
+<field name="title">The nursery school program for culturally different children, a notebook</field>
+<field name="year">1965</field>
+<field name="date">1965</field>
+<field name="pages">48</field>
+<field name="keywords">Nursery schools</field>
+<field name="notes">48 p. ill. 28 cm.; Note(s): Bibliography: p. 39-44.</field>
+<field name="publisher">Pacific Coast Pub</field>
+<field name="pub_place">Menlo Park, CA</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .Y71n</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Visalia (California) City Schools</field>
+<field name="title">Report of a three-year special project in the education of emotionally disturbed
+children</field>
+<field name="year">1959</field>
+<field name="date">06/1959</field>
+<field name="pages">36</field>
+<field name="keywords">Mentally ill children</field>
+<field name="notes">With the assistance of the Rosenberg Foundation</field>
+<field name="publisher">Visalia (California) City Schools</field>
+<field name="pub_place">Visalia, CA</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .V82r</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Walworth County (Wisconsin) Schools</field>
+<field name="title">Walworth County special school handbook</field>
+<field name="pages">69</field>
+<field name="keywords">Special education</field>
+<field name="publisher">Walworth County (Wisconsin) Schools</field>
+<field name="pub_place">Elkhorn, WI</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .W24w</field>
+<field name="state_country">Wisconsin</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Warwick (Rhode Island) School Department</field>
+<field name="title">A continuing program for mentally retarded pupils in the Warwick Public Schools,
+grades 7-12</field>
+<field name="year">1967</field>
+<field name="date">09/1967</field>
+<field name="pages">48</field>
+<field name="keywords">Children with mental disabilities</field>
+<field name="publisher">Warwick (Rhode Island) School Department</field>
+<field name="pub_place">Warwick, RI</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .W29c</field>
+<field name="state_country">Rhode Island</field>
+<field name="grade_level_group">Middle school</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Mooers, R. Wayne</field><field name="author_nat">R. Wayne Mooers</field>
+<field name="title">"But, I didn't hear...": a brief summary of suggestions for parents and teachers
+of hearing handicapped children</field>
+<field name="pages">8</field>
+<field name="keywords">Deafness</field>
+<field name="publisher">Waterloo (Iowa) Public Schools</field>
+<field name="pub_place">Waterloo, IA</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .W32b</field>
+<field name="state_country">Iowa</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Wilmington (Delaware) Public Schools</field>
+<field name="title">An introduction to the education of the able student in Wilmington Public
+Schools, Part 1</field>
+<field name="year">1958</field>
+<field name="date">01/1958</field>
+<field name="pages">28</field>
+<field name="series_title">Wilmington Public Schools. Instructional Bulletin</field>
+<field name="series_vol">1</field>
+<field name="issue">1</field>
+<field name="keywords">Gifted children</field>
+<field name="publisher">Wilmington (Delaware) Public Schools</field>
+<field name="pub_place">Wilmington, DE</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .W74i</field>
+<field name="state_country">Delaware</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Erickson, Marion J.</field><field name="author_nat">Marion J. Erickson</field>
+<field name="author">Radin, Norma</field><field name="author_nat">Norma Radin</field>
+<field name="title">A program to prepare disadvantaged high school students for employment as
+preschool and kindergarten aides</field>
+<field name="year">1966</field>
+<field name="date">1966</field>
+<field name="pages">99</field>
+<field name="keywords">Teachers' assistants</field>
+<field name="keywords">Vocational education</field>
+<field name="publisher">Ypsilanti (Michigan) Public Schools</field>
+<field name="pub_place">Ypsilanti, MI</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .Y86p v. 2</field>
+<field name="state_country">Michigan</field>
+<field name="grade_level_group">High school</field>
+</doc>
+</add>

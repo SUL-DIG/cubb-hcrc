@@ -1,0 +1,1295 @@
+
+
+
+
+TY  - BOOK
+A2  - Association for Supervision and Curriculum Development
+T1  - Curriculum materials
+Y1  - 1968
+D1  - 1968
+SP  - 66
+KW  - Curricula
+KW  - Bibliography
+N1  - Frequency: Annual; v. : ill. ; 22 cm; Note(s): Includes the ASCD exhibit of curriculum materials at the ... annual conference and also catalogs the materials received by the Curriculum Materials Committee for the ... ASCD annual conference.; Responsibility: Association for Supervision and Curriculum Development. 
+PB  - Association for Supervision and Curriculum Development
+CY  - Washington, DC
+LA  - English
+CN  - 375 .A87c 1968
+ER  - 
+
+TY  - BOOK
+A2  - Association for Supervision and Curriculum Development
+T1  - Curriculum materials
+Y1  - 1959
+D1  - 1959
+SP  - 43
+KW  - Curricula
+KW  - Bibliography
+N1  - Frequency: Annual; v. : ill. ; 22 cm; Note(s): Includes the ASCD exhibit of curriculum materials at the ... annual conference and also catalogs the materials received by the Curriculum Materials Committee for the ... ASCD annual conference.; Responsibility: Association for Supervision and Curriculum Development. 
+PB  - Association for Supervision and Curriculum Development
+CY  - Washington, DC
+LA  - English
+CN  - 375 .A87c 1959
+ER  - 
+
+TY  - BOOK
+A2  - Association for Supervision and Curriculum Development
+T1  - Curriculum materials
+Y1  - 1969
+D1  - 1969
+SP  - 62
+KW  - Curricula
+KW  - Bibliography
+N1  - Frequency: Annual; v. : ill. ; 22 cm; Note(s): Includes the ASCD exhibit of curriculum materials at the ... annual conference and also catalogs the materials received by the Curriculum Materials Committee for the ... ASCD annual conference.; Responsibility: Association for Supervision and Curriculum Development. 
+PB  - Association for Supervision and Curriculum Development
+CY  - Washington, DC
+LA  - English
+CN  - 375 .A87c 1969
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District. Division of Instructional Planning and Services
+T1  - Elementary teachers' handbook : instructional program
+Y1  - 1967
+D1  - 1967
+SP  - 106
+KW  - Elementary education
+N1  - vi; ; 23 cm.; Responsibility: Division of Instructional Planning and Services, Los Angeles City Schools.
+T2  - Publication / Division of Instructional Planning and Services, Los Angeles City Schools
+V1  - EC-244
+PB  - Division of Instructional Planning and Services, Los Angeles City Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 372 .L869e
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Michigan State Department of Education. Adult Education and Community Section
+T1  - Adult basic education; a bibliography of materials
+Y1  - 1969
+D1  - 1969?
+SP  - 164
+KW  - Adult education
+KW  - Bibliography
+N1  - 164 p. 28 cm.
+PB  - Michigan State Department of Education
+CY  - Lansing, MI
+LA  - English
+CN  - 374 .M62a
+SC  - Michigan
+ER  - 
+
+TY  - BOOK
+A2  - Michigan State Department of Public Instruction
+T1  - The high school completion program for adults and out-of-school youth
+Y1  - 1965
+D1  - 1965
+SP  - 31
+KW  - Dropouts
+KW  - Adult education
+N1  - 31 pages
+PB  - Michigan State Department of Public Instruction
+CY  - Lansing, MI
+LA  - English
+CN  - 374 .M62h
+SC  - Michigan
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Aliquippa (Pennsylvania) Public Schools
+T1  - Program of studies: primary grades
+Y1  - 1957
+D1  - 1957-1958
+SP  - 147
+KW  - Curricula
+PB  - Aliquippa (Pennsylvania) Public Schools
+CY  - Aliquippa, PA
+LA  - English
+CN  - 375 .A41p v. 1
+SC  - Pennsylvania
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Aliquippa (Pennsylvania) Public Schools
+T1  - Program of studies: intermediate grades
+Y1  - 1957
+D1  - 1957-1958
+SP  - 147
+KW  - Curricula
+PB  - Aliquippa (Pennsylvania) Public Schools
+CY  - Aliquippa, PA
+LA  - English
+CN  - 375 .A41p v. 2
+SC  - Pennsylvania
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Aliquippa (Pennsylvania) Public Schools
+T1  - Program of studies: junior high school
+Y1  - 1957
+D1  - 1957-1958
+SP  - 147
+KW  - Curricula
+PB  - Aliquippa (Pennsylvania) Public Schools
+CY  - Aliquippa, PA
+LA  - English
+CN  - 375 .A41p v. 3
+SC  - Pennsylvania
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Aliquippa (Pennsylvania) Public Schools
+T1  - Program of studies: high school
+Y1  - 1957
+D1  - 1957-1958
+SP  - 147
+KW  - Curricula
+PB  - Aliquippa (Pennsylvania) Public Schools
+CY  - Aliquippa, PA
+LA  - English
+CN  - 375 .A41p v. 4
+SC  - Pennsylvania
+G1  - High school
+ER  - 
+
+TY  - Book
+A2  - Berkeley (California) Unified School District
+T1  - Descriptions of Berkeley's alternative schools
+Y1  - 1971
+D1  - 1971?
+KW  - Alternative schools
+PB  - Berkeley (California) Unified School District
+CY  - Berkeley, CA
+LA  - English
+CN  - 375 .B51d
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Berkeley (California) Unified School District
+T1  - Experimental schools in Berkeley
+Y1  - 1971
+D1  - 09/1971
+SP  - 24
+KW  - Alternative schools
+N1  - col. ill. ; 23 x 11 cm.; Note(s): Cover title.; Responsibility: Berkeley Unified School District.
+PB  - Berkeley (California) Unified School District
+CY  - Berkeley, CA
+LA  - English
+CN  - 375 .B51e
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Instructional materials selection guide : health
+Y1  - 1975
+D1  - 1975
+SP  - 89
+KW  - Health education
+KW  - Bibliography
+KW  - Audio-visual materials
+N1  - v; ges ; 28 cm; Note(s): Cover title.
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 375 .C15i v. 1
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Instructional materials selection guide : Mathematics
+Y1  - 1975
+D1  - 1975
+SP  - 74
+KW  - Mathematics
+KW  - Bibliography
+N1  - v; 28 cm; Note(s): Cover title.
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 375 .C15i v. 2
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Read, Edwin A.
+A1  - Crnkovic, John K.
+T1  - The continuous progress plan; a new design for public school organization, curriculum, and instruction
+Y1  - 1963
+D1  - 1963
+SP  - 16
+KW  - Public schools
+KW  - Curricula
+N1  - 16 p. ill. 24 cm.; Responsibility: by Edwin A. Read and John K. Crnkovic.
+PB  - Brigham Young University
+CY  - Provo, UT
+LA  - English
+CN  - 375 .B85c
+SC  - Utah
+ER  - 
+
+TY  - BOOK
+A2  - Chicago (Illinois) Public Schools
+T1  - Education in the kindergarten and primary grades (kindergarten - grades 1-3) in the Chicago public schools
+Y1  - 1964
+D1  - 08/1964
+SP  - 89
+KW  - Elementary education
+KW  - Curricula
+N1  - 89 p. illus. 28 cm.; Note(s): Bibliography: p. [67]-[71].
+T2  - Chicago (Illinois) Board of Education. Study report
+V1  - 5
+PB  - Chicago (Illinois) Public Schools
+CY  - Chicago, IL
+LA  - English
+CN  - 375 .C53e v. 1
+SC  - Illinois
+G2  - Kindergarten
+G2  - 1st grade
+G2  - 2nd grade
+G2  - 3rd grade
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Your State curriculum laboratory
+Y1  - 1957
+D1  - 1957
+SP  - 7
+KW  - Curricula
+N1  - [7] pages : illustrations ; 23 cm
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 375 .C15y
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Catskill Area Project in Small School Design (Oneonta, New York)
+T1  - Multiple classes; learning in small groups
+Y1  - 1961
+D1  - 1961
+SP  - 32
+KW  - Group work in education
+N1  - 32 p. illus. 28 cm.; Note(s): Cover title.
+PB  - Catskill Area Project in Small School Design
+CY  - Oneonta, NY
+LA  - English
+CN  - 375 .C37m
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Humanities Framework Committee
+T1  - Proposed humanities framework for California public schools : kindergarten through grade twelve
+Y1  - 1975
+D1  - 1975
+SP  - 772
+KW  - Curricula
+KW  - Humanistic education
+KW  - Arts
+N1  - viii; ; 28 cm.; Note(s): Includes bibliographies./  Responsibility: prepared by the Humanities Framework Committee.
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 375 .C15p 1975
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Humanities Framework Committee
+T1  - Proposed humanities framework for California public schools : kindergarten through grade twelve
+Y1  - 1974
+D1  - 1974
+SP  - 775
+KW  - Curricula
+KW  - Humanistic education
+KW  - Arts
+N1  - viii; ; 28 cm.; Note(s): Includes bibliographies./ "For Review Only"; Responsibility: prepared by the Humanities Framework Committee.
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 375 .C15p 1975
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Chicago (Illinois) Public Schools
+T1  - Non-classroom professional services in the Chicago public schools
+Y1  - 1964
+D1  - 08/1964
+SP  - 34
+KW  - Public schools
+N1  - 34 p. ; 28 cm.; Note(s): "August 1964."
+T2  - Chicago (Ill.).; Board of Education.; Study report 
+V1  - 13
+PB  - Chicago (Illinois) Public Schools
+CY  - Chicago, IL
+LA  - English
+CN  - 375 .C53e v. 5
+SC  - Illinois
+ER  - 
+
+TY  - BOOK
+A2  - Chicago (Illinois) Public Schools
+T1  - New educational materials in the Chicago public schools
+Y1  - 1964
+D1  - 08/1964
+SP  - 40
+KW  - Teaching aids
+N1  - 40 p. ; 28 cm.; Note(s): "August 1964."
+T2  - Chicago (Illinois).; Board of Education.; Study report 
+V1  - 14
+PB  - Chicago (Illinois) Public Schools
+CY  - Chicago, IL
+LA  - English
+CN  - 375 .C53e v. 6
+SC  - Illinois
+ER  - 
+
+TY  - BOOK
+A2  - Chicago (Illinois) Public Schools
+T1  - High school education in the Chicago public schools
+Y1  - 1964
+D1  - 08/1964
+SP  - 86
+KW  - High schools
+KW  - Curricula
+N1  - 86 p. illus. 28 cm.; Note(s): Bibliography: p. [83]-86.
+T2  - Chicago (Illinois).; Board of Education.; Study report 
+V1  - 7
+PB  - Chicago (Illinois) Public Schools
+CY  - Chicago, IL
+LA  - English
+CN  - 375 .C53e v. 3
+SC  - Illinois
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Chicago (Illinois) Public Schools
+T1  - Higher education in the Chicago public schools
+Y1  - 1964
+D1  - 08/1964
+KW  - Higher education
+KW  - Public schools
+KW  - Curricula
+AB  - Pt. 1. The Chicago teachers colleges; Pt. 2. The Chicago City junior colleges.
+N1  - 79 p. and 66 p. diagrs., charts, maps.
+T2  - Chicago (Illinois).; Board of Education.; Study report 
+V1  - 10
+PB  - Chicago (Illinois) Public Schools
+CY  - Chicago, IL
+LA  - English
+CN  - 375n.C53e v. 4
+SC  - Illinois
+G1  - Postsecondary
+ER  - 
+
+TY  - BOOK
+A2  - Chicago (Illinois) Public Schools
+T1  - Education in the intermediate and upper grades in the Chicago public schools
+Y1  - 1964
+D1  - 08/1964
+SP  - 115
+KW  - Secondary education
+KW  - Curricula
+N1  - 115 p. ; 28 cm.; Note(s): Benjamin C. Willis, General Superintendent of Schools./ Includes bibliographical references (p. [111]-115).
+T2  - Chicago (Illinois).; Board of Education.; Study report 
+V1  - 6
+PB  - Chicago (Illinois) Public Schools
+CY  - Chicago, IL
+LA  - English
+CN  - 375 .C53e v. 2
+SC  - Illinois
+G1  - Elementary
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Cincinnati (Ohio) Board of Education
+T1  - Schools and the means of education, a statement of the policies, principles, purposes and procedures of Cincinnati's program of public education
+Y1  - 1954
+D1  - 01/1954
+SP  - 69
+KW  - Public schools
+N1  - viii; ill. 28 cm.; Note(s): A special report to the Board of Education from the Superintendent of Schools.
+PB  - Cincinnati (Ohio) Board of Education
+CY  - Cincinnati, OH
+LA  - English
+CN  - 375 .C57s
+SC  - Ohio
+ER  - 
+
+TY  - BOOK
+A2  - Columbus (Ohio) Public Schools
+T1  - Agreements booklet, kindergarten, grades 1-6
+KW  - Elementary education
+KW  - Curricula
+N1  - ill. ; 28 cm.; Note(s): Cover title.
+PB  - Columbus (Ohio) Public Schools
+CY  - Columbus, OH
+LA  - English
+CN  - 375 .C72a v. 1
+SC  - Ohio
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+ID  - 13739
+A2  - Columbus (Ohio) Public Schools
+T1  - Agreements booklet, senior high school
+Y1  - 1962
+D1  - 1962
+KW  - High schools
+KW  - Curricula
+N1  - ill. ; 28 cm.; Note(s): Cover title.
+PB  - Columbus (Ohio) Public Schools
+CY  - Columbus, OH
+LA  - English
+CN  - 375 .C72a v. 3
+SC  - Ohio
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Columbus (Ohio) Public Schools
+T1  - Agreements booklet : junior high school
+KW  - Middle school education
+KW  - Curricula
+N1  - p. ; cm.
+PB  - Columbus (Ohio) Public Schools
+CY  - Columbus, OH
+LA  - English
+CN  - 375 .C72a v. 2
+SC  - Ohio
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A1  - Pierce, Paul Revere
+T1  - Techniques of curriculum making in the Chicago Public Schools
+Y1  - 1955
+D1  - 1955
+SP  - 47
+KW  - Curricula
+N1  - ill. ; 23 cm.; Note(s): Includes bibliographical references (p. 47).; Responsibility: prepared in the Department of Instruction and Guidance by Paul R. Pierce.
+T2  - Curriculum brochure (Chicago Public Schools)
+V1  - 4
+PB  - Chicago (Illinois) Public Schools
+CY  - Chicago, IL
+LA  - English
+CN  - 375 .C53t
+SC  - Illinois
+ER  - 
+
+TY  - BOOK
+A2  - Dade County (Florida) Public Schools
+T1  - A guide to curriculum planning in the Dade County public schools
+Y1  - 1955
+D1  - 03/1955
+SP  - 30
+KW  - Curricula
+N1  - 30 p. ; 29 cm.; Note(s): Cover title./ Mimeographed.
+T2  - Dade County (Florida).; Public Schools.; Curriculum bulletin
+V1  - 1
+ED  - Rev.
+PB  - Dade County (Florida) Public Schools
+CY  - Miami, FL
+LA  - English
+CN  - 375 .D12g
+SC  - Florida
+ER  - 
+
+TY  - BOOK
+A2  - Dade County (Florida) Public Schools
+T1  - Progress report on instruction improvement
+Y1  - 1956
+D1  - 1956-57
+SP  - 29
+KW  - Curricula
+PB  - Dade County (Florida) Public Schools
+CY  - Miami, FL
+LA  - English
+CN  - 375 .D12p
+SC  - Florida
+PB
+
+TY  - BOOK
+A2  - Dade County (Florida) Public Schools
+T1  - Curriculum improvement, instructional services and learning resources
+Y1  - 1966
+D1  - 1966-1967
+KW  - Curricula
+N1  - ill.; Note(s): Reprinted from its Administrators' handbook.
+PB  - Dade County (Florida) Public Schools
+CY  - Miami, FL
+LA  - English
+CN  - 375 .D12c v. 2
+SC  - Florida
+ER  - 
+
+TY  - BOOK
+A2  - Dallas (Texas) Independent School District
+T1  - Curriculum: content, scope and sequence; grades one through twelve
+Y1  - 1959
+D1  - 1959
+SP  - 145
+KW  - Curricula
+N1  - 145 p. ill. 28 cm.; Responsibility: Authorized by the Board of Education, Sept. 9, 1959.
+T2  - Dallas Independent School District.; Curriculum bulletin series.
+PB  - Dallas (Texas) Independent School District
+CY  - Dallas, TX
+LA  - English
+CN  - 375 .D14
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A1  - Gurske, Barbara
+A1  - Cote, Bernard T.
+T1  - Learning center guide
+Y1  - 1972
+D1  - 1972
+SP  - 90
+KW  - Teaching aids
+N1  - 90 p. ill. 28 cm.; Responsibility: by Barbara Gurske [and] Bernard T. Cote.
+PB  - CTM
+CY  - Sunnyvale, CA
+LA  - English
+CN  - 375 .C95L
+ER  - 
+
+TY  - BOOK
+A2  - Dallas (Texas) Independent School District
+T1  - The curriculum in action, a statement of curriculum organization
+Y1  - 1951
+D1  - 01/1951
+SP  - 14
+KW  - Curricula
+N1  - 2 p. l., 5-14 p. 20 cm.; Note(s): Preface signed by W.T. White.
+PB  - Dallas (Texas) Independent School District
+CY  - Dallas, TX
+LA  - English
+CN  - 375 .D14s v. 1
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - Dallas (Texas) Independent School District
+T1  - Plan of action, a statement of philosophy
+Y1  - 1947
+D1  - 1947
+SP  - 20
+KW  - Philosophy of education
+N1  - 20, [1] p. 20 cm.
+PB  - Dallas (Texas) Independent School District
+CY  - Dallas, TX
+LA  - English
+CN  - 375 .D14s v. 2
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - Decatur (Illinois) Public Schools
+T1  - The 1964 status of the elementary curriculum
+Y1  - 1964
+D1  - 1964
+KW  - Curricula
+PB  - Decatur (Illinois) Public Schools
+CY  - Decatur, IL
+LA  - English
+CN  - 375 .D29s v. 1
+SC  - Illinois
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Decatur (Illinois) Public Schools
+T1  - Present status of the secondary curriculum
+Y1  - 1963
+D1  - 09/1963
+SP  - 79
+KW  - Curricula
+N1  - iv; ; 28 cm.; Note(s): On cover: Status [of the] Secondary Curriculum./ Includes bibliographical references.; Other Titles: Status of the secondary curriculum; Responsibility: Decatur Public Schools.
+PB  - Decatur (Illinois) Public Schools. District Number 61
+CY  - Decatur, IL
+LA  - English
+CN  - 375 .D29s v. 2
+SC  - Illinois
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Denver (Colorado) Public Schools
+T1  - Curriculum development through committee organization
+Y1  - 1956
+D1  - 1956
+SP  - 23
+KW  - Curricula
+N1  - 23 p. illus. 22 cm.; Note(s): "Revision of Curriculum development through committees on instruction."
+PB  - Denver (Colorado) Public Schools
+CY  - Denver, CO
+LA  - English
+CN  - 375 .D41c
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A2  - Denver (Colorado) Public Schools. Division of Instructional Services
+T1  - The Denver Public Schools look at themselves : highlights from the 1968 evaluation study
+Y1  - 1968
+D1  - 1968
+SP  - 36
+KW  - Public schools
+N1  - charts ; 28 cm.; Note(s): "Directed by the Division of Instructional Services."; Responsibility: Division of Instructional Services, Dept. of General Curriculum Services, Office of Guidance, Counseling and Evaluation.
+PB  - Denver (Colorado) Public Schools
+CY  - Denver, CO
+LA  - English
+CN  - 375n.D41d 1968
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A2  - Denver (Colorado) Public School
+T1  - Instruction 1969
+Y1  - 1970
+D1  - 1970
+SP  - 85
+KW  - Curricula
+PB  - Denver (Colorado) Public Schools
+CY  - Denver, CO
+LA  - English
+CN  - 375n.D41i
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A2  - Denver (Colorado) Public School
+T1  - Manual for using the form for planning and developing an instructional unit
+Y1  - 1949
+D1  - 1949
+SP  - 11
+KW  - Curricula
+PB  - Denver (Colorado) Public Schools
+CY  - Denver, CO
+LA  - English
+CN  - 375n.D41m
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A2  - Denver (Colorado) Public Schools. Division of Instructional Services
+T1  - The Denver Public Schools look at themselves : highlights from the 1956 evaluation study
+Y1  - 1956
+D1  - 1956
+SP  - 25
+KW  - Public schools
+N1  - charts ; 28 cm.; Note(s): "Directed by the Division of Instructional Services."; Other Titles: Highlights from the 1956 evaluation study.; Responsibility: Division of Instructional Services, Dept. of General Curriculum Services, Office of Guidance, Counseling and Evaluation.
+PB  - Denver (Colorado) Public Schools
+CY  - Denver, CO
+LA  - English
+CN  - 375n.D41d 1956 v. 1
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A1  - Glendinning, Katherine S.
+A1  - Kendall, Anna M.
+A1  - Adams, Elsie W.
+T1  - Planning and developing a life-experience unit : a chapter of the Social living guide for use in the elementary schools
+Y1  - 1948
+D1  - 1948
+SP  - 48
+KW  - Children
+KW  - Life skills guides
+N1  - viii, 48 leaves ; 28 cm.; Other Titles: Social living guide; Responsibility: prepared by ... Katherine S. Glendinning, Anna M. Kendall, Elsie W. Adams ...
+PB  - Denver (Colorado) Public Schools
+CY  - Denver, CO
+LA  - English
+CN  - 375 .D41p
+SC  - Colorado
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Research Services, Inc.
+T1  - Denver looks at its schools, 1956 : highlights from the 1956 opinion survey of the Denver Public Schools
+Y1  - 1956
+D1  - 1956
+SP  - 26
+KW  - Public schools
+N1  - 26 p. ; 28 cm.; Other Titles: Highlights from the 1956 opinion survey.; Responsibility: conducted by Research Services, inc., Denver, Colorado.
+PB  - Denver (Colorado) Public Schools
+CY  - Denver, CO
+LA  - English
+CN  - 375n.D41d 1956 v. 2
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A2  - Florida State Department of Education. Division of Instructional Field Services
+T1  - Curriculum study in Florida; reports to the Florida Courses of Study Committee, Mar. 16, 1955
+Y1  - 1955
+D1  - 03/1955
+SP  - 15
+KW  - Curricula
+N1  - 15 pages 28 cm
+PB  - Florida State Department of Education
+CY  - Tallahassee, FL
+LA  - English
+CN  - 375 .F63c
+SC  - Florida
+ER  - 
+
+TY  - BOOK
+A2  - Fort Benton (Montana) Public School
+T1  - Vertical curriculum study guide, ESEA title V
+Y1  - 1969
+D1  - 1969
+SP  - 31
+KW  - Curricula
+PB  - Fort Benton (Montana) Public School
+CY  - Fort Benton, MT
+LA  - English
+CN  - 375 .F73v
+SC  - Montana
+ER  - 
+
+TY  - BOOK
+A1  - Gilbaugh, John W.
+T1  - How to organize and teach units of work in elementary and secondary schools
+Y1  - 1957
+D1  - 1957
+SP  - 104
+KW  - Experimental methods
+KW  - Curricula
+N1  - 104 p. ; 23 cm.; Note(s): Includes bibliographical references (p. 102-104).; Other Titles: Units of work; Responsibility: by John W. Gilbaugh.
+PB  - Modern Education Publishers
+CY  - San Jose, CA
+LA  - English
+CN  - 375 .G47h
+ER  - 
+
+TY  - BOOK
+A1  - Nault, William H.
+T1  - Typical course study : kindergarten through grade 12
+Y1  - 1966
+D1  - 1966
+KW  - Curricula
+N1  - 1 v. (unpaged); Note(s): "Compiled from an analysis of current educational programs in representative school systems of the United States."; Responsibility: William H. Nault.
+PB  - Field Enterprise Educational Corporation
+CY  - Chicago, IL
+LA  - English
+CN  - 375 .F42t
+ER  - 
+
+TY  - BOOK
+A2  - Flint (Michigan) Public Schools
+T1  - Areas of instruction: instructional materials, kindergarten through grade 12
+Y1  - 1958
+D1  - 06/1958
+SP  - 33
+KW  - Curricula
+PB  - Flint (Michigan) Public Schools
+CY  - Flint, MI
+LA  - English
+CN  - 375 .F62a
+SC  - Michigan
+ER  - 
+
+TY  - BOOK
+A2  - United Independent Schools of East Cleveland
+A2  - Cleveland (Ohio) Urban Learning Community
+A2  - Urban League Street Academy
+T1  - A review of three alternative schools in Greater Cleveland; promising practices and feasibility issues
+Y1  - 1974
+D1  - 07/1974
+SP  - 31
+KW  - Experimental methods
+KW  - Alternative schools
+N1  - 31 p. 22 cm.; Note(s): Prepared for: The Martha Jennings Foundation ... [et al.]./ Bibliography: p. 31.; Responsibility: Prepared by United Independent Schools of Greater Cleveland, Cleveland Urban Learning Community [and] Urban League Street Academy.
+PB  - Martha Holden Jennings Foundation
+CY  - Cleveland, OH
+LA  - English
+CN  - 375 .G78r
+SC  - Ohio
+ER  - 
+
+TY  - BOOK
+A2  - Hawaii State Department of Education
+T1  - Curriculum survey reports: Hawaii, 1966
+Y1  - 1966
+D1  - 1966
+KW  - Curricula
+N1  - 1 volume (various pagings) tables (1 folded)
+PB  - Hawaii State Department of Education
+CY  - Honolulu, HI
+LA  - English
+CN  - 375 .H38c
+SC  - Hawaii
+ER  - 
+
+TY  - BOOK
+A2  - Hawaii State Department of Education. Office of the Superintendent
+T1  - The foundation program for the public schools of Hawaii
+Y1  - 1971
+D1  - 1971
+SP  - 30
+KW  - Aims and objectives
+KW  - Public schools
+KW  - Educational planning
+N1  - 30 pages : illustrations; Note(s): "Publication no. TAC 70-2075."; Responsibility: Office of the Superintendent, Dept. of Education, State of Hawaii.
+PB  - Office of Library Services, Teacher Assist Center, Dept. of Education, State of Hawaii
+CY  - Honolulu, HI
+LA  - English
+CN  - 375 .H38f
+SC  - Hawaii
+ER  - 
+
+TY  - GEN
+A2  - Hawaii (Territory) Department of Public Instruction
+T1  - Scope and sequential development of the curriculum
+Y1  - 1956
+D1  - 1956
+KW  - Curricula
+N1  - chart 44 1/2 x 30 in. in portfolio; Note(s): On verso: Physical development, characteristic reactions, and special needs of children./ 1958 ed. called: Scope and sequence of instruction.; Other Titles: Physical development, characteristic reactions, and special needs of children
+PB  - Hawaii (Territory) Department of Public Instruction
+CY  - Honolulu, HI
+LA  - English
+CN  - 375 .H38s
+SC  - Hawaii
+ER  - 
+
+TY  - BOOK
+A2  - Houston (Texas) Public Schools
+T1  - Curriculum summary report: kindergarten - grade twelve
+Y1  - 1953
+D1  - 1953-1954
+SP  - 30
+KW  - Curricula
+PB  - Houston (Texas) Public Schools
+CY  - Houston, TX
+LA  - English
+CN  - 375 .H84c
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - Western Illinois University. Office of Research
+T1  - Curriculum revision and development
+Y1  - 1953
+D1  - 10/1953
+SP  - 72
+KW  - Curricula
+N1  - 72 p. front. 23 cm.; Note(s): "Published under the direction of the Committee on Research, Statistics, and Publications."
+T2  - The Western Illinois State College bulletin
+V1  - 33
+IS  - 2
+PB  - Western Illinois University
+CY  - Macomb, IL
+LA  - English
+CN  - 375 .I29c
+ER  - 
+
+TY  - BOOK
+A2  - Indiana Association for Supervision and Curriculum Development
+A2  - Indiana State University. Curriculum Research and Development Center
+T1  - Team teaching in Indiana
+Y1  - 1966
+D1  - 05/1966
+SP  - 36
+KW  - Teaching teams
+N1  - ii; ; 23 cm.; Note(s): Includes bibliographical references (p. 35-36).; Responsibility: Indiana Association for Supervision and Curriculum Development and Curriculum and Development Center.
+PB  - School of Education, Indiana State University
+CY  - Terre Haute, IN
+LA  - English
+CN  - 375 .I39t
+ER  - 
+
+TY  - BOOK
+A2  - Inglewood (Calif.). Unified School District. Division of Educational Services
+T1  - Educational framework; a statement of the curriculum framework, Inglewood Unified School District. Grades - Kindergarten through twelve
+Y1  - 1960
+D1  - 09/1960
+KW  - Curricula
+N1  - 171 p. illus. 28 cm.
+PB  - Inglewood (Calif.). Unified School District
+CY  - Inglewood, CA
+LA  - English
+CN  - 375 .I51e
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Inyo County (California) Superintendent of Schools
+T1  - Elementary course of study: social studies
+Y1  - 1962
+D1  - 09/1962
+KW  - Curricula
+PB  - Inyo County (California) Superintendent of Schools
+CY  - Independence, CA
+LA  - English
+CN  - 375 .I63c v. 1
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Inyo County (California) Superintendent of Schools
+T1  - Elementary basic couse of study
+Y1  - 1964
+D1  - 09/1964
+KW  - Curricula
+PB  - Inyo County (California) Superintendent of Schools
+CY  - Independence, CA
+LA  - English
+CN  - 375 .I63c v. 1a
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Inyo County (California) Superintendent of Schools
+T1  - Secondary curriculum guide
+Y1  - 1961
+D1  - 10/1961
+SP  - 176
+KW  - Curricula
+PB  - Inyo County (California) Superintendent of Schools
+CY  - Independence, CA
+LA  - English
+CN  - 375 .I63c v. 2
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Kona Education Association
+A2  - Hawaii Department of Public Instruction. Division of Instruction
+T1  - Eighth annual Kona Teachers' Institute, November 6-10, 1950
+Y1  - 1950
+D1  - 11/1950
+KW  - Teachers' workshops
+N1  - 1 volume (unpaged) illustrations; Note(s): Reproduced from typescript copy.; Responsibility: Sponsored by the Kona Education Association, assisted by Division of Instruction, Department of Public Instruction.
+T2  - Kona Teachers' Institute (8th : 1950)
+PB  - Hawaii Department of Public Instruction
+CY  - Honolulu, HI
+LA  - English
+CN  - 375 .K82a
+SC  - Hawaii
+ER  - 
+
+TY  - BOOK
+A2  - Western Illinois University
+T1  - Curriculum revision for more effective living
+Y1  - 1950
+D1  - 01/1950
+KW  - Curricula
+N1  - 69 p. ill. 23 cm.; Note(s): Report of the proceedings of a workshop held in 1949./ Includes bibliographical references.
+T2  - Western Illinois University.; Bulletin
+V1  - 29
+IS  - 3
+PB  - Western Illinois University
+CY  - Macomb, IL
+LA  - English
+CN  - 375 .I29cr
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City Schools. Curriculum Division
+T1  - Communication to the Personnel and Schools Committee from the Curriculum Division
+Y1  - 1953
+D1  - 01/1953
+KW  - Curricula
+PB  - Los Angeles (California) City Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 375 .L87c
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District
+T1  - Point of view
+Y1  - 1949
+D1  - 1949
+SP  - 40
+KW  - Public schools
+N1  - 40 p. illus. 28 cm.
+T2  - Los Angeles (California) City School District.; Publication
+V1  - 470
+PB  - Los Angeles (California) City School District
+CY  - Los Angeles, CA
+LA  - English
+CN  - 375 .L87p
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City Schools
+T1  - Summer school opportunities: junior and senior high schools
+Y1  - 1960
+D1  - 1960
+SP  - 16
+KW  - Summer schools
+PB  - Los Angeles (California) City Schools
+CY  - Los Angeles, CA
+CN  - 375. L87s v. 2
+SC  - California
+G1  - Middle school
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) Unified School District
+T1  - A statement of goals
+Y1  - 1975
+D1  - 03/1975
+SP  - 60
+KW  - Aims and objectives
+N1  - vii; ; 22 cm.; Responsibility: Los Angeles Unified School District.
+T2  - Publication - Instructional Planning Division
+V1  - GC-31
+PB  - Los Angeles (California) Unified School District
+CY  - Los Angeles, CA
+LA  - English
+CN  - 375 .L87sg
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Louisiana State Department of Education
+T1  - Handbook for school administrators
+Y1  - 1966
+D1  - 1966
+SP  - 326
+KW  - School administrators
+N1  - 326 pages 23 cm.; Other Titles: School administrators, Handbook for
+T2  - Bulletin (Louisiana. Department of Education)
+V1  - 741 
+ED  - Rev.
+PB  - Louisiana State Department of Education
+CY  - Baton Rouge, LA
+LA  - English
+CN  - 375 .L88h
+SC  - Louisiana
+ER  - 
+
+TY  - BOOK
+A2  - Lovington (New Mexico) Municipal Schools
+T1  - Our curriculum
+Y1  - 1952
+D1  - 1952-1953
+SP  - 8
+KW  - Curricula
+PB  - Lovington (New Mexico) Municipal Schools
+CY  - Lovington, NM
+LA  - English
+CN  - 375 .L91o
+SC  - New Mexico
+ER  - 
+
+TY  - BOOK
+A2  - Marin County (California) Schools
+T1  - Course in history
+Y1  - 1927
+D1  - 1927
+SP  - 11
+KW  - History
+KW  - Curricula
+PB  - Marin County (California) Schools
+CN  - 375 .M33m
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Marin County (California) Schools
+T1  - Civics
+Y1  - 1928
+D1  - 06/1928
+KW  - Civics
+KW  - Curricula
+PB  - Marin County (California) Schools
+CN  - 375 .M33m
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Marin County (California) Schools
+T1  - Geography
+Y1  - 1928
+D1  - 06/1928
+SP  - 7
+KW  - Geography
+KW  - Curricula
+PB  - Marin County (California) Schools
+CN  - 375 .M33m
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Marin County (California) Schools
+T1  - Language and grammar
+Y1  - 1926
+D1  - 1926
+KW  - English language
+KW  - Curricula
+PB  - Marin County (California) Schools
+CN  - 375 .M33m
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Marin County (California) Schools
+T1  - Course in reading
+Y1  - 1928
+D1  - 07/1928
+SP  - 19
+KW  - Reading
+KW  - Curricula
+PB  - Marin County (California) Schools
+CN  - 375 .M33m
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Marin County (California) Schools
+T1  - Spelling
+KW  - Spelling
+KW  - Curricula
+PB  - Marin County (California) Schools
+CN  - 375 .M33m
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Marin County (California) Schools
+T1  - Health education
+Y1  - 1928
+D1  - 06/1928
+KW  - Health education
+KW  - Curricula
+PB  - Marin County (California) Schools
+CN  - 375 .M33m
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Marin County (California) Schools
+T1  - Course in drawing
+KW  - Drawing
+KW  - Curricula
+PB  - Marin County (California) Schools
+CN  - 375 .M33m
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Maryland. Superintendents Committee on Curriculum and Supervision
+T1  - Foundations of public education in Maryland
+Y1  - 1956
+D1  - 1956
+SP  - 36
+KW  - Public schools
+N1  - iv; diagr. 28 cm.; Note(s): Cover title./ Bibliography: p. 36.
+T2  - Maryland.; Superintendents Committee on Curriculum and Supervision.; Planning for effective learning.
+PB  - Maryland State Department of Education
+CY  - Baltimore, MD
+LA  - English
+CN  - 375 .M39f
+SC  - Maryland
+ER  - 
+
+TY  - BOOK
+A1  - English, Fenwick W
+A1  - Zaharis, James
+T1  - How to build a model of staff differentiation
+Y1  - 1970
+D1  - 08/1970
+SP  - 38
+KW  - Differentiated teaching staff
+N1  - "A step by step guide to the development of a situational specific site model of differentiated staffing."
+PB  - Center for Differentiated Staffing, Claremont Graduate School
+CY  - Claremont, CA
+LA  - English
+CN  - 375 .M57h
+ER  -
+
+TY  - BOOK
+A2  - Michigan Curriculum Program
+T1  - Status and plans for 1959-60.
+Y1  - 1959
+D1  - 06/1959
+SP  - 5
+KW  - Curricula
+PB  - Michigan Curriculum Program
+LA  - English
+CN  - 375 .M62m
+SC  - Michigan
+ER  - 
+
+TY  - BOOK
+A2  - Minnesota Project on Differentiated Staffing
+T1  - Minnesota project on differentiated staffing: a consortium of public and non-public schools
+KW  - Differentiated teaching staffs
+N1  - ill. ; 28 cm.
+PB  - Minnesota Project on Differentiated Staffing
+CY  - St. Paul, MN
+LA  - English
+CN  - 375 .M66c
+SC  - Minnesota
+ER  - 
+
+TY  - BOOK
+A2  - Monterey County (California) Superintendent of Schools
+T1  - Monterey County schools curriculum
+Y1  - 1952
+D1  - 08/1952
+KW  - Curricula
+PB  - Monterey County (California) Superintendent of Schools
+CY  - Monterey, CA
+LA  - English
+CN  - 375 .M77c
+G1  - Elementary
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Montgomery County (Maryland) Public Schools
+T1  - Program of studies 1969-1971
+Y1  - 1969
+D1  - 1969
+SP  - 104
+KW  - Curricula
+N1  - v; ill. ; 22 cm.; Responsibility: Montgomery County Public Schools.
+PB  - Montgomery County Public Schools
+CY  - Rockville, MD
+LA  - English
+CN  - 375 .M78p
+SC  - Maryland
+ER  - 
+
+TY  - BOOK
+A2  - Southeast Alternatives (Project)
+T1  - Southeast Alternatives, Experimental Schools Program
+Y1  - 1972
+D1  - 03/1972
+SP  - 15
+KW  - Experimental methods
+KW  - Curricula
+N1  - 15 p. ; 28 cm.
+PB  - Minneapolis (Minnesota) Public Schools
+CY  - Minneapolis, MN
+LA  - English
+CN  - 375 .M65s
+SC  - Minnesota
+ER  - 

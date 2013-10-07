@@ -1,0 +1,1662 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Bucks County (Pennsylvania) Public Schools</field>
+<field name="corp_author">New Hope-Solebury (Pennsylvania) School District</field>
+<field name="title">A Transitional pre-first grade program</field>
+<field name="keywords">Kindergarten</field>
+<field name="publisher">Bucks County (Pennsylvania) Public Schools</field>
+<field name="pub_place">Doylestown, PA</field>
+<field name="language">English</field>
+<field name="call_number">375.11 .B92t suppl.</field>
+<field name="state_country">Pennsylvania</field>
+<field name="grade_level_number">Kindergarten</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Bucks County (Pennsylvania) Public Schools</field>
+<field name="corp_author">New Hope-Solebury (Pennsylvania) School District</field>
+<field name="title">A Transitional pre-first grade program</field>
+<field name="year">1969</field>
+<field name="date">06/1969</field>
+<field name="pages">23</field>
+<field name="keywords">Kindergarten</field>
+<field name="notes">23 leaves ; 28 cm.; Note(s): Includes bibliographical references.;
+Responsibility: developed cooperatively by Bucks County Superintendent of Schools and New
+Hope-Solebury School District.</field>
+<field name="publisher">Bucks County (Pennsylvania) Public Schools</field>
+<field name="pub_place">Doylestown, PA</field>
+<field name="language">English</field>
+<field name="call_number">375.11 .B92t</field>
+<field name="state_country">Pennsylvania</field>
+<field name="grade_level_number">Kindergarten</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Cleveland Heights (Ohio) Public Schools</field>
+<field name="title">Elementary school course of study : a kindergarten guide</field>
+<field name="year">1958</field>
+<field name="date">09/1958</field>
+<field name="pages">44</field>
+<field name="keywords">Kindergarten</field>
+<field name="notes">44 p. ; cm</field>
+<field name="publisher">Cleveland Heights (Ohio) Public School</field>
+<field name="pub_place">Cleveland Heights, OH</field>
+<field name="language">English</field>
+<field name="call_number">375.11 .C63k</field>
+<field name="state_country">Ohio</field>
+<field name="grade_level_number">Kindergarten</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Latting, Lucile H.</field><field name="author_nat">Lucile H. Latting</field>
+<field name="author">Stephens, Bertha L.</field><field name="author_nat">Bertha L. Stephens</field>
+<field name="title">Kindergarten guidebook</field>
+<field name="year">1960</field>
+<field name="date">1960</field>
+<field name="pages">170</field>
+<field name="keywords">Kindergarten</field>
+<field name="notes">x; ges : illustrations ; 28 cm; Note(s): Includes bibliographical references
+(pages 168-170).; Responsibility: prepared by a State Kindergarten Committee under the supervision
+of Lucile H. Latting and Bertha L. Stephens.</field>
+<field name="publisher">Colorado State Department of Education</field>
+<field name="pub_place">Denver, CO</field>
+<field name="language">English</field>
+<field name="call_number">375.11 .C71k</field>
+<field name="state_country">Colorado</field>
+<field name="grade_level_number">Kindergarten</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Alameda County (California) Schools</field>
+<field name="title">Kindergarten guide</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="pages">109</field>
+<field name="keywords">Kindergarten</field>
+<field name="publisher">Alameda County (California) Schools</field>
+<field name="pub_place">Hayward, CA</field>
+<field name="language">English</field>
+<field name="call_number">375.11 . A313k</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">Kindergarten</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Warren (Ohio) City Schools</field>
+<field name="title">Improvement of the educational program through action research</field>
+<field name="year">1957</field>
+<field name="date">01/1957</field>
+<field name="series_title">Warren (Ohio) City Schools. Teaching Staff Bulletin</field>
+<field name="series_vol">FC-24</field>
+<field name="keywords">Educational innovations</field>
+<field name="publisher">Warren (Ohio) City Schools</field>
+<field name="pub_place">Warren, Ohio</field>
+<field name="language">English</field>
+<field name="call_number">375 .W29i</field>
+<field name="state_country">Ohio</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Fox, Willard</field><field name="author_nat">Willard Fox</field>
+<field name="title">Selected practices for teaching basic skills</field>
+<field name="year">1953</field>
+<field name="date">1953</field>
+<field name="pages">75</field>
+<field name="keywords">Teaching aids</field>
+<field name="notes">75 p. ; 28 cm.; Note(s): Includes bibliographical references (p. [71]-75).;
+Responsibility: compiled by Willard Fox.</field>
+<field name="series_title">Bulletin (Wyoming School Study Council)</field>
+<field name="series_vol">2</field>
+<field name="publisher">Bureau of Educational Research and Service, College of Education, University
+of Wyoming</field>
+<field name="pub_place">Laramie, WY</field>
+<field name="language">English</field>
+<field name="call_number">375 .W99s</field>
+<field name="state_country">Wyoming</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Downers Grove (Illinois) Public Schools</field>
+<field name="title">Our kindergartens : a guide for teachers</field>
+<field name="year">1957</field>
+<field name="date">09/1957</field>
+<field name="pages">121</field>
+<field name="keywords">Kindergarten</field>
+<field name="keywords">Curricula</field>
+<field name="notes">121 leaves : ill. ; 28 cm.; Responsibility: Downers Grove Public
+Schools.</field>
+<field name="publisher">Downers Grove (illinois) Public Schools</field>
+<field name="pub_place">Downers Grove, IL</field>
+<field name="language">English</field>
+<field name="call_number">375.11 .D74o</field>
+<field name="state_country">Illinois</field>
+<field name="grade_level_number">Kindergarten</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Far West Laboratory for Education Research and Development</field>
+<field name="title">Parents and children learning together</field>
+<field name="pages">16</field>
+<field name="keywords">Parent and child</field>
+<field name="publisher">Far West Laboratory for Education Research and Development</field>
+<field name="pub_place">Berkeley, CA</field>
+<field name="language">English</field>
+<field name="call_number">375.11 .F21r v. 1</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Far West Laboratory for Education Research and Development</field>
+<field name="title">Discovering children</field>
+<field name="pages">28</field>
+<field name="keywords">Children</field>
+<field name="publisher">Far West Laboratory for Education Research and Development</field>
+<field name="pub_place">Berkeley, CA</field>
+<field name="language">English</field>
+<field name="call_number">375.11 .F21r v. 2</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Far West Laboratory for Education Research and Development</field>
+<field name="title">Schools are for children</field>
+<field name="pages">28</field>
+<field name="keywords">Children</field>
+<field name="publisher">Far West Laboratory for Education Research and Development</field>
+<field name="pub_place">Berkeley, CA</field>
+<field name="language">English</field>
+<field name="call_number">375.11 .F21r v. 3</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Ferndale (Michigan) School District</field>
+<field name="title">A report on materials and equipment for children in kindergarten</field>
+<field name="pages">20</field>
+<field name="keywords">Kindergarten</field>
+<field name="keywords">Teaching aids</field>
+<field name="publisher">Ferndale (Michigan) School District</field>
+<field name="pub_place">Ferndale, MI</field>
+<field name="language">English</field>
+<field name="call_number">375.11 .F36r</field>
+<field name="state_country">Michigan</field>
+<field name="grade_level_number">Kindergarten</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Ferndale (Michigan) School District</field>
+<field name="title">Teacher-child ratio at the kindergarten level</field>
+<field name="year">1955</field>
+<field name="date">Spring 1955</field>
+<field name="pages">17</field>
+<field name="series_title">Ferndale (Michigan) School District. Bulletin</field>
+<field name="series_vol">1</field>
+<field name="keywords">Kindergarten</field>
+<field name="edition">Rev.</field>
+<field name="publisher">Ferndale (Michigan) School District</field>
+<field name="pub_place">Ferndale, MI</field>
+<field name="language">English</field>
+<field name="call_number">375.11 .F36t</field>
+<field name="state_country">Michigan</field>
+<field name="grade_level_number">Kindergarten</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Florida State Department of Education</field>
+<field name="title">A guide for organizing and developing a kindergarten program in Florida</field>
+<field name="year">1955</field>
+<field name="date">01/1955</field>
+<field name="pages">51</field>
+<field name="keywords">Kindergarten</field>
+<field name="notes">51 pages illustrations 23 cm.; Note(s): Includes bibliographical references
+(pages 46-51).</field>
+<field name="series_title">Florida.; State Department of Education.; Bulletin</field>
+<field name="series_vol">53A</field>
+<field name="edition">Rev</field>
+<field name="publisher">Florida State Department of Education</field>
+<field name="pub_place">Tallahassee, FL</field>
+<field name="language">English</field>
+<field name="call_number">375.11 .F63g</field>
+<field name="state_country">Florida</field>
+<field name="grade_level_number">Kindergarten</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Fontana (California) Unified School District</field>
+<field name="title">Kindergarten</field>
+<field name="keywords">Kindergarten</field>
+<field name="publisher">Fontana (California) Unified School District</field>
+<field name="pub_place">Fontana, CA</field>
+<field name="language">English</field>
+<field name="call_number">375.11 .F67k</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">Kindergarten</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Fort Knox (Kentucky) Elementary Schools</field>
+<field name="title">New kindergarten handbook, 1967-1968</field>
+<field name="year">1967</field>
+<field name="date">1967-1968</field>
+<field name="pages">256</field>
+<field name="keywords">Kindergarten</field>
+<field name="publisher">Fort Knox (Kentucky) Elementary Schools</field>
+<field name="pub_place">Fort Knox, KY</field>
+<field name="language">English</field>
+<field name="call_number">375.11 .F74n</field>
+<field name="state_country">Kentucky</field>
+<field name="grade_level_number">Kindergarten</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Gary (Indiana) Public Schools</field>
+<field name="title">Supplement to the kindergarten guide</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="pages">50</field>
+<field name="keywords">Kindergarten</field>
+<field name="publisher">Gary (Indiana) Public Schools</field>
+<field name="pub_place">Gary, IN</field>
+<field name="language">English</field>
+<field name="call_number">375.11 G24k Suppl. 1963</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Banet, Bernard</field><field name="author_nat">Bernard Banet</field>
+<field name="author">McClelland, Donna</field><field name="author_nat">Donna McClelland</field>
+<field name="author">Nederveld, Patricia</field><field name="author_nat">Patricia Nederveld</field>
+<field name="author">Thomson, Carole</field><field name="author_nat">Carole Thomson</field>
+<field name="author">Silverman, Charles</field><field name="author_nat">Charles Silverman</field>
+<field name="title">Action in the cognitive preschool model</field>
+<field name="year">1972</field>
+<field name="date">1972</field>
+<field name="pages">8</field>
+<field name="keywords">Cognition in children</field>
+<field name="notes">ill. ; 28 cm.; Responsibility: Bernard Banet ... [et al.].</field>
+<field name="publisher">High/Scope Educational Research Foundation, Preschool Department</field>
+<field name="pub_place">Ypsilanti, MI</field>
+<field name="language">English</field>
+<field name="call_number">375.11 .H63h v. 2</field>
+<field name="grade_level_group">Pre-K</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Thomson, Carole</field><field name="author_nat">Carole Thomson</field>
+<field name="author">Banet, Bernard</field><field name="author_nat">Bernard Banet</field>
+<field name="author">Silverman, Charles</field><field name="author_nat">Charles Silverman</field>
+<field name="title">Child management in the cognitive preschool model</field>
+<field name="year">1972</field>
+<field name="date">1972</field>
+<field name="pages">4</field>
+<field name="keywords">Cognition in children</field>
+<field name="notes">ill. ; 28 cm.; Responsibility: Bernard Banet ... [et al.].</field>
+<field name="publisher">High/Scope Educational Research Foundation, Preschool Department</field>
+<field name="pub_place">Ypsilanti, MI</field>
+<field name="language">English</field>
+<field name="call_number">375.11 .H63h v. 3</field>
+<field name="grade_level_group">Pre-K</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Silverman, Charles</field><field name="author_nat">Charles Silverman</field>
+<field name="author">Banet, Bernard</field><field name="author_nat">Bernard Banet</field>
+<field name="author">Thomson, Carole</field><field name="author_nat">Carole Thomson</field>
+<field name="author">Allen, Martha</field><field name="author_nat">Martha Allen</field>
+<field name="title">Language in the cognitive preschool model</field>
+<field name="year">1972</field>
+<field name="date">1972</field>
+<field name="pages">9</field>
+<field name="keywords">Cognition in children</field>
+<field name="notes">ill. ; 28 cm.; Responsibility: Bernard Banet ... [et al.].</field>
+<field name="publisher">High/Scope Educational Research Foundation, Preschool Department</field>
+<field name="pub_place">Ypsilanti, MI</field>
+<field name="language">English</field>
+<field name="call_number">375.11 .H63h v. 4</field>
+<field name="grade_level_group">Pre-K</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Illinois Curriculum Program</field>
+<field name="title">Early childhood education in Illinois: focus on kindergarten</field>
+<field name="year">1970</field>
+<field name="date">1979</field>
+<field name="pages">70</field>
+<field name="keywords">Kindergarten</field>
+<field name="notes">vii; illus. 22 x 28 cm.</field>
+<field name="publisher">Illinois Curriculum Program</field>
+<field name="pub_place">Springfield, IL</field>
+<field name="language">English</field>
+<field name="call_number">375.11 .I29e</field>
+<field name="state_country">Illinois</field>
+<field name="grade_level_number">Kindergarten</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Nederveld, Patricia</field><field name="author_nat">Patricia Nederveld</field>
+<field name="author">Thomson, Carole</field><field name="author_nat">Carole Thomson</field>
+<field name="author">Banet, Bernard</field><field name="author_nat">Bernard Banet</field>
+<field name="title">Levels of representation</field>
+<field name="year">1972</field>
+<field name="date">1972</field>
+<field name="keywords">Cognition in children</field>
+<field name="abstract">pt. I. Experience with real objects : the object level and the index level /
+Patricia Nederveld, Carole Thomson. -- pt. II. Experience with representation : the symbol level and
+the sign level / Bernard Banet [and others].</field>
+<field name="notes">2 pts. (22 leaves) ; 28 cm; </field>
+<field name="publisher">High/Scope Educational Research Foundation, Preschool Dept</field>
+<field name="pub_place">Ypsilanti, MI</field>
+<field name="language">English</field>
+<field name="call_number">375.11 .H63h v. 5-6</field>
+<field name="grade_level_group">Pre-K</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">San Diego (California) City Schools</field>
+<field name="title">Elementary program</field>
+<field name="year">1963</field>
+<field name="date">10/1963</field>
+<field name="pages">38</field>
+<field name="keywords">Elementary education</field>
+<field name="publisher">San Diego (California) City Schools</field>
+<field name="pub_place">San Diego, CA</field>
+<field name="language">English</field>
+<field name="call_number">372 .S19e</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">California Administrators of Special Education</field>
+<field name="title">Looking at your EMR programs critically and constructively</field>
+<field name="pages">11</field>
+<field name="keywords">Children with mental disabilities</field>
+<field name="notes">11 p. ; 28 cm.; Responsibility: the Administrators of Special Education,
+California.</field>
+<field name="publisher">Office of Orange County (California) Superintendent of Schools</field>
+<field name="pub_place">Santa Ana, CA</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .O63L</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Contra Costa County (California) School Department</field>
+<field name="title">Health education guide</field>
+<field name="year">1965</field>
+<field name="date">1965</field>
+<field name="keywords">Health education</field>
+<field name="edition">Preliminary ed.</field>
+<field name="publisher">Contra Costa County (California) School Department</field>
+<field name="pub_place">Hayward, CA</field>
+<field name="language">English</field>
+<field name="call_number">371.7 .C76h v. 1-2</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Illinois Curriculum Program</field>
+<field name="title">School begins with kindergarten</field>
+<field name="year">1959</field>
+<field name="date">09/1959</field>
+<field name="pages">97</field>
+<field name="keywords">Kindergarten</field>
+<field name="notes">vii; illus. 26 cm.; Note(s): Bibliography: p. 94. Bibliographical
+footnotes.</field>
+<field name="series_title">Illinois Curriculum Program.; Subject field series; bulletin</field>
+<field name="series_vol">C-1</field>
+<field name="publisher">Illinois Curriculum Program</field>
+<field name="pub_place">Springfield, IL</field>
+<field name="language">English</field>
+<field name="call_number">375.11n.I29s</field>
+<field name="state_country">Illinois</field>
+<field name="grade_level_number">Kindergarten</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Ball State Teachers College Library</field>
+<field name="title">Selected bibliography of courses of study for kindergarten education</field>
+<field name="year">1955</field>
+<field name="date">10/1955</field>
+<field name="pages">4</field>
+<field name="series_title">Ball State Teachers College Library. Curriculum Laboratory.
+Bibliography</field>
+<field name="series_vol">13</field>
+<field name="keywords">Kindergarten</field>
+<field name="publisher">Ball State Teachers College Library</field>
+<field name="pub_place">Muncie, IN</field>
+<field name="language">English</field>
+<field name="call_number">375.11 .I39s</field>
+<field name="grade_level_number">Kindergarten</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Kentucky State Department of Education</field>
+<field name="title">Preschool education in Kentucky</field>
+<field name="year">1957</field>
+<field name="date">07/1957</field>
+<field name="keywords">Early childhood education</field>
+<field name="notes">pages 365-437 : illustrations ; 23 cm.; Note(s): Includes bibliographical
+references.</field>
+<field name="series_title">Educational bulletin (Frankfort, Ky.)</field>
+<field name="series_vol">25</field>
+<field name="issue">7</field>
+<field name="publisher">Kentucky State Department of Education</field>
+<field name="pub_place">Frankfort, KY</field>
+<field name="language">English</field>
+<field name="call_number">375.11 .K37p</field>
+<field name="state_country">Kentucky</field>
+<field name="grade_level_group">Pre-K</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Nohling, Edith E.</field><field name="author_nat">Edith E. Nohling</field>
+<field name="author">Corneliuson, Signe A.</field><field name="author_nat">Signe A. Corneliuson</field>
+<field name="title">Curriculum for kindergarten</field>
+<field name="year">1953</field>
+<field name="date">06/1953</field>
+<field name="keywords">Kindergarten</field>
+<field name="keywords">Curricula</field>
+<field name="notes">lv. (various pagings) ; 28 cm.; Responsibility: by kindergarten teachers ;
+compiled and edited by Edith E. Nohling ... [et al.].</field>
+<field name="publisher">Kenosha (Wisconsin) Public Schools</field>
+<field name="pub_place">Kenosha, WI</field>
+<field name="language">English</field>
+<field name="call_number">375.11 .K36c</field>
+<field name="state_country">Wisconsin</field>
+<field name="grade_level_number">Kindergarten</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Lindbergh (Missouri) School District</field>
+<field name="title">A guide for kindergarten teachers</field>
+<field name="year">1964</field>
+<field name="date">1964</field>
+<field name="pages">107</field>
+<field name="keywords">Kindergarten</field>
+<field name="publisher">Lindbergh (Missouri) School District</field>
+<field name="pub_place">St. Louis, MO</field>
+<field name="language">English</field>
+<field name="call_number">375.11 .L75k</field>
+<field name="state_country">Missouri</field>
+<field name="grade_level_number">Kindergarten</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Hagaman, Neva</field><field name="author_nat">Neva Hagaman</field>
+<field name="author">Borden, Hilma</field><field name="author_nat">Hilma Borden</field>
+<field name="title">Guide for teachers of transition groups</field>
+<field name="year">1947</field>
+<field name="date">06/1947</field>
+<field name="keywords">Curricula</field>
+<field name="notes">1 v. (various pagings) ill. 27 cm.; Other Titles: Transition groups;
+Responsibility: comp. by Neva Hagaman and Hilma Borden.</field>
+<field name="edition">Rev</field>
+<field name="publisher">Long Beach (California) City Schools</field>
+<field name="pub_place">Long Beach, CA</field>
+<field name="language">English</field>
+<field name="call_number">375.11 .L84g</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Long Beach (California) Public Schools</field>
+<field name="title">A teacher's guide for kindergarten education</field>
+<field name="year">1954</field>
+<field name="date">1954</field>
+<field name="pages">297</field>
+<field name="keywords">Kindergarten</field>
+<field name="notes">[vi]; illus. 28 cm.; Other Titles: Kindergarten education.</field>
+<field name="publisher">Long Beach (California) Public Schools</field>
+<field name="pub_place">Long Beach, CA</field>
+<field name="language">English</field>
+<field name="call_number">375.11 .L84t</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">Kindergarten</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City School District</field>
+<field name="title">Guidelines for the kindergarten; an instructional bulletin</field>
+<field name="year">1970</field>
+<field name="date">1970</field>
+<field name="pages">40</field>
+<field name="keywords">Kindergarten</field>
+<field name="keywords">Early childhood education</field>
+<field name="keywords">Curricula</field>
+<field name="notes">1 v.; Note(s): Publication no. EC-343.</field>
+<field name="publisher">Los Angeles (California) City School District</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="language">English</field>
+<field name="call_number">375.11 .L87g</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">Kindergarten</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City School District. Division of Instructional
+Services</field>
+<field name="title">Kindergarten guide</field>
+<field name="year">1960</field>
+<field name="date">1960</field>
+<field name="pages">99</field>
+<field name="series_title">Los Angeles (California) City School District. Division of Instructional
+Services. Publication.</field>
+<field name="series_vol">EC-204</field>
+<field name="keywords">Kindergarten</field>
+<field name="notes">99 p. ; 28 cm.; Responsibility: Los Angeles City Schools, Division of
+Instructional Services.</field>
+<field name="publisher">Los Angeles (California) City School District</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="language">English</field>
+<field name="call_number">375.11 .L87k</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">Kindergarten</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) County</field>
+<field name="title">A good program for five-year olds : narrative accounts to accompany selected
+slides</field>
+<field name="year">1959</field>
+<field name="date">09/1959</field>
+<field name="pages">59</field>
+<field name="keywords">Kindergarten</field>
+<field name="notes">59 leaves ; cm</field>
+<field name="publisher">Los Angeles (California) County</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="language">English</field>
+<field name="call_number">375.11 .L879g</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">Kindergarten</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) County. Office of Superintendent of
+Schools</field>
+<field name="title">Materials and equipment for four-and-one-half to seven-year-olds</field>
+<field name="year">1946</field>
+<field name="date">06/1946</field>
+<field name="pages">70</field>
+<field name="keywords">Educational toys</field>
+<field name="keywords">Child development</field>
+<field name="keywords">Child psychology</field>
+<field name="keywords">Kindergarten</field>
+<field name="notes">[9], 70 l. plans. 22 x 28 cm.; Note(s): Includes bibliographical
+references.</field>
+<field name="publisher">Los Angeles (California) County</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="language">English</field>
+<field name="call_number">375.11 .L879m</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">Kindergarten</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles County (California) Schools</field>
+<field name="title">Selected references concerning kindergarten education</field>
+<field name="year">1959</field>
+<field name="date">09/1959</field>
+<field name="pages">12</field>
+<field name="keywords">Kindergarten</field>
+<field name="publisher">Los Angeles County (California) Schools</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="language">English</field>
+<field name="call_number">375.11 .L879s</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">Kindergarten</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Madison (Wisconsin) Public Schools</field>
+<field name="title">Guides for kindergarten teachers</field>
+<field name="year">1953</field>
+<field name="date">1953</field>
+<field name="keywords">Kindergarten</field>
+<field name="notes">1. Helpful hints for registration; 2. Equipment and supplies; 3. The
+kindergarten program; 4. Learning activities in the kindergarten; 5. Excursions; 6. Illustrative
+unit in science; 7. Illustrative unit in social studies; 8. Looking forward to reading readiness; 9.
+For story-telling and reading aloud; 10. For rhythms and rote singing; 11. Recordings for
+kindergarten; 12. Visual helps; 13. Good books for kindergarten teachers; 14. A score of books for
+parents.</field>
+<field name="publisher">Madison (Wisconsin) Public Schools</field>
+<field name="pub_place">Madison, WI</field>
+<field name="language">English</field>
+<field name="call_number">375.11 .M18g</field>
+<field name="state_country">Wisconsin</field>
+<field name="grade_level_number">Kindergarten</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Maine State Department of Education</field>
+<field name="title">That wonderful year; a conceptual-language approach to learning in the
+kindergarten</field>
+<field name="year">1968</field>
+<field name="date">11/1968</field>
+<field name="pages">82</field>
+<field name="keywords">Reading readiness</field>
+<field name="notes">82 p. 28 cm.; Note(s): Cover title./ Include bibliographies.</field>
+<field name="publisher">Maine State Department of Education</field>
+<field name="pub_place">Augusta, ME</field>
+<field name="language">English</field>
+<field name="call_number">375.11 .M22t</field>
+<field name="state_country">Maine</field>
+<field name="grade_level_number">Kindergarten</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Marietta (Ohio) Public Schools</field>
+<field name="title">Course of study for kindergarten</field>
+<field name="year">1955</field>
+<field name="date">06/1955</field>
+<field name="keywords">Kindergarten</field>
+<field name="publisher">Marietta (Ohio) Public Schools</field>
+<field name="pub_place">Marietta, OH</field>
+<field name="language">English</field>
+<field name="call_number">375.11 .M33c</field>
+<field name="state_country">Ohio</field>
+<field name="grade_level_number">Kindergarten</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Merced County (California) Schools</field>
+<field name="title">Kindergarten guide for kindergarten teachers</field>
+<field name="year">1954</field>
+<field name="date">09/1954</field>
+<field name="pages">76</field>
+<field name="keywords">Kindergarten</field>
+<field name="publisher">Merced County (California) Schools</field>
+<field name="pub_place">Merced, CA</field>
+<field name="language">English</field>
+<field name="call_number">375.11 .M55k</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">Kindergarten</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Missouri State Department of Education</field>
+<field name="title">Kindergarten education</field>
+<field name="year">1951</field>
+<field name="date">1951</field>
+<field name="pages">35</field>
+<field name="keywords">Kindergarten</field>
+<field name="keywords">Curricula</field>
+<field name="notes">35, [4] pages : illustrations ; 28 cm.; Note(s): At head of title: Missouri at
+work on the public school curriculum./ Includes bibliographical references (pages 32-35).;
+Responsibility: prepared by State Dept. of Education.</field>
+<field name="series_title">Missouri State Department of Education. Publication</field>
+<field name="series_vol">72</field>
+<field name="publisher">Missouri State Department of Education</field>
+<field name="pub_place">Jefferson City, MO</field>
+<field name="language">English</field>
+<field name="call_number">375.11 .M67k</field>
+<field name="state_country">Missouri</field>
+<field name="grade_level_number">Kindergarten</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Monrovia (California) Schools</field>
+<field name="title">Kindergarten suggestions thruout the year</field>
+<field name="keywords">Kindergarten</field>
+<field name="publisher">Monrovia (California) Schools</field>
+<field name="pub_place">Monrovia, CA</field>
+<field name="language">English</field>
+<field name="call_number">375.11 .M75k</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">Kindergarten</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Austin Association for the Education of Young Children</field>
+<field name="title">Ideas for learning environments</field>
+<field name="year">1973</field>
+<field name="date">1973</field>
+<field name="pages">65</field>
+<field name="keywords">Teaching aids</field>
+<field name="keywords">School facilities</field>
+<field name="notes">65 p. illus. 23 cm.; Note(s): Issued in case with the author's Ideas for
+administrators, Ideas for creative curriculum, Ideas for teacher planning, and its Ideas for
+teaching with nature./ Bibliography: p. 11.</field>
+<field name="publisher">National Association for the Education of Young Children</field>
+<field name="pub_place">Washington, DC</field>
+<field name="language">English</field>
+<field name="call_number">375.11 .N27i v. 3</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Austin Association for the Education of Young Children</field>
+<field name="title">Ideas for teacher planning</field>
+<field name="year">1973</field>
+<field name="date">1973</field>
+<field name="pages">52</field>
+<field name="keywords">Creative activities and seat work</field>
+<field name="notes">52 p. illus. 23 cm.; Note(s): Issued in case with the author's Ideas for
+administrators, Ideas for creative curriculum, Ideas for learning environments, and Its Ideas for
+teaching with nature./ Bibliography: p. 11-12.</field>
+<field name="publisher">National Association for the Education of Young Children</field>
+<field name="pub_place">Washington, DC</field>
+<field name="language">English</field>
+<field name="call_number">375.11 .N27i v. 4</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Austin Association for the Education of Young Children</field>
+<field name="title">Ideas for teaching with nature</field>
+<field name="year">1973</field>
+<field name="date">1973</field>
+<field name="pages">59</field>
+<field name="keywords">Outdoor education</field>
+<field name="publisher">National Association for the Education of Young Children</field>
+<field name="pub_place">Washington, DC</field>
+<field name="language">English</field>
+<field name="call_number">375.11 .N27i v. 5</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Austin Association for the Education of Young Children</field>
+<field name="title">Ideas for creative curriculum</field>
+<field name="year">1973</field>
+<field name="date">1973</field>
+<field name="pages">77</field>
+<field name="keywords">Creative thinking</field>
+<field name="keywords">Drama in education</field>
+<field name="keywords">Storytelling</field>
+<field name="notes">77 p. illus. 23 cm.; Note(s): Issued in case with the author's Ideas for
+administrators, Ideas for learning environments, Ideas for teacher planning, and its Ideas for
+teaching with nature./ Includes bibliographies.</field>
+<field name="publisher">National Association for the Education of Young Children</field>
+<field name="pub_place">Washington, DC</field>
+<field name="language">English</field>
+<field name="call_number">375.11 .N27i v. 2</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Austin Association for the Education of Young Children</field>
+<field name="title">Ideas for administrators</field>
+<field name="year">1973</field>
+<field name="date">1973</field>
+<field name="pages">37</field>
+<field name="keywords">School reports</field>
+<field name="notes">37 p. illus. 23 cm.; Note(s): Issued in case with the author's Ideas for
+creative curriculum, Ideas for Learning environments, Ideas for teacher planning, and its Ideas for
+teaching with nature.</field>
+<field name="publisher">National Association for the Education of Young Children</field>
+<field name="pub_place">Washington, DC</field>
+<field name="language">English</field>
+<field name="call_number">375.11 .N27i v. 1</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Monterey County (California) Schools</field>
+<field name="title">Kindergarten guide</field>
+<field name="year">1960</field>
+<field name="date">1960?</field>
+<field name="pages">109</field>
+<field name="keywords">Kindergarten</field>
+<field name="notes">109 p. ill. 25 cm.</field>
+<field name="publisher">Monterey County (California) Schools</field>
+<field name="pub_place">Salinas, CA</field>
+<field name="language">English</field>
+<field name="call_number">375.11 .M77k</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">Kindergarten</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Monterey County (California) Superintendent of Schools</field>
+<field name="title">Kindergarten curriculum</field>
+<field name="year">1953</field>
+<field name="date">01/1953</field>
+<field name="pages">55</field>
+<field name="series_title">Monterey County (California) Schools Curriculum Bulletin</field>
+<field name="edition">Revised</field>
+<field name="keywords">Kindergarten</field>
+<field name="keywords">Curricula</field>
+<field name="publisher">Monterey County (California) Superintendent of Schools</field>
+<field name="pub_place">Salina, CA</field>
+<field name="language">English</field>
+<field name="call_number">375.11 .M77k</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">Kindergarten</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">New Jersey State Department of Education</field>
+<field name="title">First year in school</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="pages">106</field>
+<field name="keywords">Kindergarten</field>
+<field name="notes">106 pages : illustrations ; 23 cm.; Note(s): Includes bibliographical
+references.</field>
+<field name="series_title">Elementary school bulletin</field>
+<field name="series_vol">8</field>
+<field name="edition">Rev.</field>
+<field name="publisher">New Jersey State Department of Education</field>
+<field name="pub_place">Trenton NJ</field>
+<field name="language">English</field>
+<field name="call_number">375.11 .N531f</field>
+<field name="state_country">New Jersey</field>
+<field name="grade_level_number">Kindergarten</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Reed, Flo</field><field name="author_nat">Flo Reed</field>
+<field name="title">Living and learning in kindergarten</field>
+<field name="year">1964</field>
+<field name="date">1964</field>
+<field name="pages">133</field>
+<field name="edition">Revised</field>
+<field name="keywords">Kindergarten</field>
+<field name="notes">133 p. illus. 28 cm.; Responsibility: Prepared by Flo Reed, elementary
+consultant.</field>
+<field name="publisher">Nevada State Department of Education</field>
+<field name="pub_place">Carson City, NV</field>
+<field name="language">English</field>
+<field name="call_number">375.11 .N49L</field>
+<field name="state_country">Nevada</field>
+<field name="grade_level_number">Kindergarten</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of the State of New York. Bureau of Child Development and
+Parent Education</field>
+<field name="title">Child development guides for teachers of three, four and five-year-old
+children</field>
+<field name="year">1957</field>
+<field name="date">1957</field>
+<field name="pages">112</field>
+<field name="keywords">Nursery schools</field>
+<field name="notes">112 p. ill. 26 cm.; Note(s): "A complete revision of the previously published
+Curriculum guides for teachers of two to five-year-old children and Curriculum guides for teachers
+of five-year-old children."/; Bibliography: p. 111-112.</field>
+<field name="publisher">New York State Education Department</field>
+<field name="pub_place">Albany, NY</field>
+<field name="language">English</field>
+<field name="call_number">375.11 .N532c 1957</field>
+<field name="state_country">New York</field>
+<field name="grade_level_group">Pre-K</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of the State of New York. Bureau of Child Development and
+Parent Education</field>
+<field name="title">Child development guides for teachers of three, four and five-year-old
+children</field>
+<field name="year">1955</field>
+<field name="date">1955</field>
+<field name="pages">112</field>
+<field name="keywords">Nursery schools</field>
+<field name="publisher">New York State Education Department</field>
+<field name="pub_place">Albany, NY</field>
+<field name="language">English</field>
+<field name="call_number">375.11 .N532c 1955</field>
+<field name="state_country">New York</field>
+<field name="grade_level_group">Pre-K</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Newton (Massachusetts) Public Schools</field>
+<field name="title">A kindergarten guide to pre-reading experiences</field>
+<field name="year">1963</field>
+<field name="date">08/1963</field>
+<field name="pages">73</field>
+<field name="keywords">Kindergarten</field>
+<field name="notes">73 leaves. 28 cm.5</field>
+<field name="publisher">Newton (Massachusetts) Public Schools</field>
+<field name="pub_place">Newton, MA</field>
+<field name="language">English</field>
+<field name="call_number">375.11 .N56k v. 1</field>
+<field name="state_country">Massachusetts</field>
+<field name="grade_level_number">Kindergarten</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Newton (Massachusetts) Public Schools</field>
+<field name="title">How they grow: kindergarten handbook</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="pages">64</field>
+<field name="keywords">Kindergarten</field>
+<field name="notes">64 leaves. 28 cm.5</field>
+<field name="publisher">Newton (Massachusetts) Public Schools</field>
+<field name="pub_place">Newton, MA</field>
+<field name="language">English</field>
+<field name="call_number">375.11 .N56k v. 2</field>
+<field name="state_country">Massachusetts</field>
+<field name="grade_level_number">Kindergarten</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">North Carolina State Department of Public Instruction</field>
+<field name="title">Schools for young children : nursery schools and kindergartens</field>
+<field name="year">1962</field>
+<field name="date">11/1962</field>
+<field name="pages">32</field>
+<field name="keywords">Nursery schools</field>
+<field name="keywords">Kindergarten</field>
+<field name="notes">32 pages : illustrations ; 23 cm.; Note(s): "November 20, 1962"--Foreword./
+"This bulletin replaces 'The kindergarten in North Carolina' issued in 1953 and now out of
+print"--Foreword./ Includes bibliographical references (pages 29-31).</field>
+<field name="series_title">Publication (North Carolina. Department of Public Instruction)</field>
+<field name="series_vol">305</field>
+<field name="publisher">North Carolina State Department of Public Instruction</field>
+<field name="pub_place">Raleigh, NC</field>
+<field name="language">English</field>
+<field name="call_number">375.11 .N86s 1962</field>
+<field name="state_country">North Carolina</field>
+<field name="grade_level_group">Pre-K</field>
+<field name="grade_level_number">Kindergarten</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">North Carolina State Department of Public Instruction</field>
+<field name="title">Schools for young children : nursery schools and kindergartens</field>
+<field name="year">1955</field>
+<field name="date">09/195</field>
+<field name="pages">32</field>
+<field name="keywords">Nursery schools</field>
+<field name="keywords">Kindergarten</field>
+<field name="series_title">Publication (North Carolina. Department of Public Instruction)</field>
+<field name="series_vol">305</field>
+<field name="publisher">North Carolina State Department of Public Instruction</field>
+<field name="pub_place">Raleigh, NC</field>
+<field name="language">English</field>
+<field name="call_number">375.11 .N86s 1955</field>
+<field name="state_country">North Carolina</field>
+<field name="grade_level_group">Pre-K</field>
+<field name="grade_level_number">Kindergarten</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of the State of New York. Division of Elementary
+Education</field>
+<field name="title">Children learn in kindergarten</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="pages">24</field>
+<field name="keywords">Kindergarten</field>
+<field name="notes">24 p. illus. 23 cm.</field>
+<field name="publisher">University of the State of New York. Division of Elementary
+Education</field>
+<field name="pub_place">Albany, NY</field>
+<field name="language">English</field>
+<field name="call_number">375.11 .N532cL</field>
+<field name="state_country">New York</field>
+<field name="grade_level_number">Kindergarten</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Oklahoma City (Oklahoma) Public Schools</field>
+<field name="title">A guide to learning experiences in kindergarten</field>
+<field name="pages">42</field>
+<field name="keywords">Kindergarten</field>
+<field name="series_title">Oklahoma City (Oklahoma) Public Schools. Bulletin.</field>
+<field name="series_vol">58-K</field>
+<field name="publisher">Oklahoma City (Oklahoma) Public Schools</field>
+<field name="pub_place">Oklahoma City, OK</field>
+<field name="language">English</field>
+<field name="call_number">375.11 .O41g</field>
+<field name="state_country">Oklahoma</field>
+<field name="grade_level_number">Kindergarten</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Orange County (California) Superintendent of Schools</field>
+<field name="title">The kindergarten child and organizing the kindergarten day: two sections of
+kindergarten, a teacher's guide</field>
+<field name="year">1961</field>
+<field name="date">02/1961</field>
+<field name="pages">37</field>
+<field name="keywords">Kindergarten</field>
+<field name="notes">37 l. illus. 28 cm.; Other Titles: Kindergarten, a teacher's guide.</field>
+<field name="series_title">Orange County (California) Schools. Bulletin series</field>
+<field name="series_vol">I,; 142F</field>
+<field name="publisher">Orange County (California) Schools</field>
+<field name="pub_place">Santa Ana, CA</field>
+<field name="language">English</field>
+<field name="call_number">375.11 .O64k v. 1</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">Kindergarten</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Orange County (California) Superintendent of Schools</field>
+<field name="title">Art experiences: a section of kindergarten, a teacher's guide</field>
+<field name="year">1961</field>
+<field name="date">02/1961</field>
+<field name="pages">7</field>
+<field name="keywords">Kindergarten</field>
+<field name="keywords">Art</field>
+<field name="notes">7 l. illus. 28 cm.; Other Titles: Kindergarten, a teacher's guide.</field>
+<field name="series_title">Orange County (California) Schools. Bulletin series</field>
+<field name="series_vol">I,; 142E</field>
+<field name="publisher">Orange County (California) Schools</field>
+<field name="pub_place">Santa Ana, CA</field>
+<field name="language">English</field>
+<field name="call_number">375.11 .O64k v. 2</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">Kindergarten</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Orange County (California) Superintendent of Schools</field>
+<field name="title">Language arts: a section of kindergarten, a teacher's guide</field>
+<field name="year">1962</field>
+<field name="date">09/1962</field>
+<field name="pages">26</field>
+<field name="keywords">Kindergarten</field>
+<field name="keywords">Language arts</field>
+<field name="notes">26 l. illus. 28 cm.; Other Titles: Kindergarten, a teacher's guide.</field>
+<field name="series_title">Orange County (California) Schools. Bulletin series</field>
+<field name="series_vol">I,; 142-I</field>
+<field name="publisher">Orange County (California) Schools</field>
+<field name="pub_place">Santa Ana, CA</field>
+<field name="language">English</field>
+<field name="call_number">375.11 .O64k v. 3</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">Kindergarten</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Orange County (California) Superintendent of Schools</field>
+<field name="title">Social studies: a section of kindergarten, a teacher's guide</field>
+<field name="year">1961</field>
+<field name="date">01/1961</field>
+<field name="keywords">Kindergarten</field>
+<field name="keywords">Social sciences</field>
+<field name="series_title">Orange County (California) Schools. Bulletin series</field>
+<field name="series_vol">I,; 142D</field>
+<field name="publisher">Orange County (California) Schools</field>
+<field name="pub_place">Santa Ana, CA</field>
+<field name="language">English</field>
+<field name="call_number">375.11 .O64k v. 4</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">Kindergarten</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Orange County (California) Superintendent of Schools</field>
+<field name="title">Equipment and supplies: a section of kindergarten, a teacher's guide</field>
+<field name="year">1959</field>
+<field name="date">09/1959</field>
+<field name="pages">12</field>
+<field name="keywords">Kindergarten</field>
+<field name="keywords">Teaching aids</field>
+<field name="notes">12 l. illus. 28 cm.; Other Titles: Kindergarten, a teacher's guide.</field>
+<field name="series_title">Orange County (California) Schools. Bulletin series</field>
+<field name="series_vol">I,; 142A</field>
+<field name="publisher">Orange County (California) Schools</field>
+<field name="pub_place">Santa Ana, CA</field>
+<field name="language">English</field>
+<field name="call_number">375.11 .O64k v. 5</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">Kindergarten</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Orange County (California) Superintendent of Schools</field>
+<field name="title">Selected bibliography: a section of kindergarten, a teacher's guide</field>
+<field name="year">1959</field>
+<field name="date">09/1959</field>
+<field name="pages">19</field>
+<field name="keywords">Kindergarten</field>
+<field name="keywords">Bibliography</field>
+<field name="notes">19 l. illus. 28 cm.; Other Titles: Kindergarten, a teacher's guide.</field>
+<field name="series_title">Orange County (California) Schools. Bulletin series</field>
+<field name="series_vol">I,; 142B</field>
+<field name="publisher">Orange County (California) Schools</field>
+<field name="pub_place">Santa Ana, CA</field>
+<field name="language">English</field>
+<field name="call_number">375.11 .O64k v. 6</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">Kindergarten</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Orange County (California) Schools</field>
+<field name="title">Kindergarten; a teachers guide</field>
+<field name="year">1951</field>
+<field name="date">08/1951</field>
+<field name="pages">94</field>
+<field name="keywords">Curricula</field>
+<field name="keywords">Kindergarten</field>
+<field name="edition">Experimental</field>
+<field name="publisher">Orange County (California) Schools</field>
+<field name="pub_place">Santa Ana, CA</field>
+<field name="language">English</field>
+<field name="call_number">375.11 .O64a</field>
+<field name="grade_level_group">Pre-K</field>
+<field name="grade_level_number">Kindergarten</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Philadelphia (Pennsylvania) Public Schools</field>
+<field name="title">Our children in kindergarten : a guide for teachers</field>
+<field name="year">1960</field>
+<field name="date">1960</field>
+<field name="pages">109</field>
+<field name="keywords">Kindergarten</field>
+<field name="notes">ill. ; cm; </field>
+<field name="publisher">Philadelphia (Pennsylvania) Public Schools</field>
+<field name="pub_place">Philadelphia, PA</field>
+<field name="language">English</field>
+<field name="call_number">375.11 .P54o</field>
+<field name="state_country">Pennsylvania</field>
+<field name="grade_level_number">Kindergarten</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Farrow, Vern L.</field><field name="author_nat">Vern L. Farrow</field>
+<field name="title">Kindergartens for your community</field>
+<field name="year">1962</field>
+<field name="date">04/1962</field>
+<field name="pages">22</field>
+<field name="keywords">Kindergarten</field>
+<field name="series_title">University of Oregon. School of Education. Curriculum bulletin.</field>
+<field name="series_vol">18</field>
+<field name="issue">04/1962</field>
+<field name="publisher">University of Oregon. School of Education</field>
+<field name="pub_place">Eugene, OR</field>
+<field name="language">English</field>
+<field name="call_number">375.11 .O66k</field>
+<field name="grade_level_number">Kindergarten</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Anderson, Mabel P.</field><field name="author_nat">Mabel P. Anderson</field>
+<field name="title">A guide for kindergarten teachers</field>
+<field name="year">1958</field>
+<field name="date">1958-1959</field>
+<field name="pages">127</field>
+<field name="notes">ix; ill. ; 28 cm.; Note(s): Includes bibliographical references (p. 123-127).;
+Responsibility: [Mabel P. Anderson].</field>
+<field name="publisher">Riverside (California) Unified School District</field>
+<field name="pub_place">Riverside, CA</field>
+<field name="language">English</field>
+<field name="call_number">375.11 R62g</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">Kindergarten</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Reed Union (California) School District</field>
+<field name="title">Kindergarten curriculum guide</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="pages">34</field>
+<field name="keywords">Kindergarten</field>
+<field name="keywords">Curricula</field>
+<field name="notes">xvi, 34 l. 28 cm.</field>
+<field name="publisher">Reed Union (California) School District</field>
+<field name="pub_place">Belvedere-Tiburon, CA</field>
+<field name="language">English</field>
+<field name="call_number">375.11 .R32k</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">Kindergarten</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Richmond County (Georgia) Schools</field>
+<field name="title">A guide for organizing and developing a kindergarten program in the Augusta
+area</field>
+<field name="year">1955</field>
+<field name="date">07/1955</field>
+<field name="pages">37</field>
+<field name="keywords">Kindergarten</field>
+<field name="notes">Note: "Developed by a group of kindergarten teachers under the direction of the
+Richmond County Board of Education, Roy E. Rollins, Supt., John B. Burks, Ass't. Supt. in charge of
+instruction"</field>
+<field name="publisher">Richmond County (Georgia) Schools</field>
+<field name="pub_place">Augusta, GA</field>
+<field name="language">English</field>
+<field name="call_number">375.11 .R53k</field>
+<field name="state_country">Georgia</field>
+<field name="grade_level_number">Kindergarten</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Riverside (Illinois) Public Schools</field>
+<field name="title">Kindergarten curriculum guide for parents</field>
+<field name="pages">13</field>
+<field name="keywords">Kindergarten</field>
+<field name="keywords">Parents</field>
+<field name="publisher">Riverside (Illinois) Public Schools</field>
+<field name="pub_place">Riverside, IL</field>
+<field name="language">English</field>
+<field name="call_number">375.11 .R62k</field>
+<field name="state_country">Illinois</field>
+<field name="grade_level_number">Kindergarten</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Rockford (Illinois) Public Schools</field>
+<field name="title">Kindergarten handbook : a guide for kindergarten teachers and those interested
+in the work of our kindergartens</field>
+<field name="year">1956</field>
+<field name="date">1956-1957</field>
+<field name="pages">67</field>
+<field name="notes">67 leaves : ill. ; 28 cm.; Note(s): Cover title: Handbook for kindergarten
+teachers.; Responsibility: Kindergarten Teachers of the Rockford Public Schools.</field>
+<field name="publisher">Rockford (Illinois) Public Schools</field>
+<field name="pub_place">Rockford, IL</field>
+<field name="language">English</field>
+<field name="call_number">375.11 .R68h</field>
+<field name="state_country">Illinois</field>
+<field name="grade_level_number">Kindergarten</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Sacramento (California) City Unified School District</field>
+<field name="title">Key to the kindergarten</field>
+<field name="year">1956</field>
+<field name="date">06/1956</field>
+<field name="pages">145</field>
+<field name="publisher">Sacramento (California) City Unified School District</field>
+<field name="pub_place">Sacramento, CA</field>
+<field name="language">English</field>
+<field name="call_number">375.11 .S12k</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">Kindergarten</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Sacramento (California) City Unified District</field>
+<field name="title">Preliminary follow-up study of pupils who have participated in the program for
+preschool pupils and their parents</field>
+<field name="year">1971</field>
+<field name="date">02/1971</field>
+<field name="pages">6</field>
+<field name="keywords">Nursery schools</field>
+<field name="publisher">Sacramento (California) City Unified District</field>
+<field name="pub_place">Sacramento, CA</field>
+<field name="language">English</field>
+<field name="call_number">375.11 .S12p</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Pre-K</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Mitchell, Gloria D.</field><field name="author_nat">Gloria D. Mitchell</field>
+<field name="title">Belle Benchley innovative school; multiage grouping--a model for early childhood
+education. ESEA title III project: Multiage grouping in early childhood education</field>
+<field name="year">1973</field>
+<field name="date">1973</field>
+<field name="pages">82</field>
+<field name="keywords">Nongraded schools</field>
+<field name="keywords">Early childhood education</field>
+<field name="notes">vi; illus. 28 cm.; Responsibility: [Prepared by Gloria D. Mitchell] </field>
+<field name="publisher">San Diego (California) City Schools</field>
+<field name="pub_place">San Diego, CA</field>
+<field name="language">English</field>
+<field name="call_number">375.11 .S193m</field>
+<field name="grade_level_group">Pre-K</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Union School District</field>
+<field name="title">Suggested teaching techniques for kindergarten</field>
+<field name="pages">83</field>
+<field name="keywords">Kindergarten</field>
+<field name="publisher">Union School District</field>
+<field name="language">English</field>
+<field name="call_number">375.11 .S196s</field>
+<field name="grade_level_number">Kindergarten</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Solano County (California) Schools</field>
+<field name="title">These are the ways: teacher's guide for kindergarten education</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="pages">92</field>
+<field name="keywords">Kindergarten</field>
+<field name="publisher">Solano County (California) Schools</field>
+<field name="pub_place">Fairfield, CA</field>
+<field name="language">English</field>
+<field name="call_number">375.11 .S68t</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">Kindergarten</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Texas Education Agency</field>
+<field name="title">Kindergarten : happy open door to school</field>
+<field name="year">1975</field>
+<field name="date">07/1975</field>
+<field name="pages">28</field>
+<field name="keywords">Kindergarten</field>
+<field name="notes">ill. ; 21 cm.; Note(s): Cover title.; Responsibility: [Texas Education
+Agency].</field>
+<field name="publisher">Texas Education Agency</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">375.11 T35k</field>
+<field name="state_country">Texas</field>
+<field name="grade_level_number">Kindergarten</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Child, Toni</field><field name="author_nat">Toni Child</field>
+<field name="title">Guide for teaching kindergarten</field>
+<field name="year">1970</field>
+<field name="date">1970?</field>
+<field name="pages">43</field>
+<field name="keywords">Kindergarten</field>
+<field name="notes">43 pages : illustrations ; 28 cm; Note(s): Cover title./ Includes
+bibliographical references (pages 42-43).; Responsibility: [S.C. Department of Education, Public
+Information Office ; edited by Toni Child ; designed by John Conyers. Photos by David Abell [and
+others].</field>
+<field name="publisher">South Carolina State Department of Education</field>
+<field name="pub_place">Columbia, SC</field>
+<field name="language">English</field>
+<field name="call_number">375.11 S71g</field>
+<field name="state_country">South Carolina</field>
+<field name="grade_level_number">Kindergarten</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Texas Education Agency</field>
+<field name="title">A guide for the education of five-year-old children in Texas</field>
+<field name="year">1970</field>
+<field name="date">1970</field>
+<field name="pages">43</field>
+<field name="keywords">Kindergarten</field>
+<field name="notes">v; ill. ; 25 cm.; Note(s): Bibliography; p. 41-43.; Responsibility: Texas
+Education Agency.</field>
+<field name="series_title">Texas Education Agency.; Bulletin</field>
+<field name="series_vol">696</field>
+<field name="publisher">Texas Education Agency</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">375.11 .T35g</field>
+<field name="state_country">Texas</field>
+<field name="grade_level_group">Pre-K</field>
+<field name="grade_level_number">Kindergarten</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Torrance (California) Unified School District</field>
+<field name="title">Guiding kindergarten experiences: a handbook for teachers and
+administrators</field>
+<field name="year">1957</field>
+<field name="date">1957</field>
+<field name="pages">212</field>
+<field name="keywords">Kindergarten</field>
+<field name="series_title">Torrance (California) Unified School District. Publication.</field>
+<field name="series_vol">30</field>
+<field name="publisher">Torrance (California) Unified School District</field>
+<field name="pub_place">Torrance, CA</field>
+<field name="language">English</field>
+<field name="call_number">375.11 .T69g</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">Kindergarten</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Cawelti, Gordon</field><field name="author_nat">Gordon Cawelti</field>
+<field name="author">Alexander, Hiram M.</field><field name="author_nat">Hiram M. Alexander</field>
+<field name="title">Kindergarten : an intuitive approach, a curriculum guide for teachers of
+kindergarten</field>
+<field name="year">1969</field>
+<field name="date">1969</field>
+<field name="pages">217</field>
+<field name="keywords">Kindergarten</field>
+<field name="keywords">Kindergarten teachers</field>
+<field name="notes">v; ; 29 cm.; Note(s): "Produced through the cooperative effort of the
+kindergarten teachers of the The Tulsa Public Schools under the supervision of Beth Lamb, Supervisor
+of Kindergarten Education"./ Includes bibliographical references (p. 214-215).; Responsibility:
+Gordon Cawelti and Hiram M. Alexander.</field>
+<field name="publisher">Tulsa (Oklahoma) Public Schools</field>
+<field name="pub_place">Tulsa, OK</field>
+<field name="language">English</field>
+<field name="call_number">375.11 .T92k</field>
+<field name="state_country">Oklahoma</field>
+<field name="grade_level_number">Kindergarten</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Tulsa (Oklahoma) Public Schools</field>
+<field name="title">A curriculum guide for teachers of kindergarten</field>
+<field name="year">1962</field>
+<field name="date">1962</field>
+<field name="pages">204</field>
+<field name="notes">iv; ill. ; 28 cm.; Responsibility: Tulsa Public Schools.</field>
+<field name="edition">Revised</field>
+<field name="publisher">Tulsa (Oklahoma) Public Schools</field>
+<field name="pub_place">Tulsa, OK</field>
+<field name="language">English</field>
+<field name="call_number">375.11 .T92c</field>
+<field name="state_country">Oklahoma</field>
+<field name="grade_level_number">Kindergarten</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Gore, Lillian L.</field><field name="author_nat">Lillian L. Gore</field>
+<field name="corp_author">United States Office of Education. Instruction, Organization, and Services
+Branch</field>
+<field name="title">Curriculum guides dealing with early elementary education: kindergarten</field>
+<field name="year">1958</field>
+<field name="date">07/1958</field>
+<field name="pages">17</field>
+<field name="keywords">Early childhood education</field>
+<field name="notes">17 p. ; 26 cm.; Note(s): Caption title.</field>
+<field name="series_title">United States.; Office of Education.; Selected references</field>
+<field name="series_vol">11</field>
+<field name="publisher">U.S. Department of Health, Education, and Welfare, Office of Education,
+Division of State and Local School Systems, Instruction, Organization, and Services Branch</field>
+<field name="pub_place">Washington, DC</field>
+<field name="language">English</field>
+<field name="call_number">375.11 .U58c</field>
+<field name="grade_level_number">Kindergarten</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Imhoff, Myrtle</field><field name="author_nat">Myrtle Imhoff</field>
+<field name="corp_author">United States Office of Education. Instruction, Organization, and Services
+Branch</field>
+<field name="title">Early elementary education</field>
+<field name="year">1957</field>
+<field name="date">02/1957</field>
+<field name="pages">12</field>
+<field name="keywords">Early childhood education</field>
+<field name="notes">12 p. ; 26 cm.; Note(s): Caption title.</field>
+<field name="series_title">United States.; Office of Education.; Selected references</field>
+<field name="series_vol">6</field>
+<field name="publisher">U.S. Department of Health, Education, and Welfare, Office of Education,
+Division of State and Local School Systems, Instruction, Organization, and Services Branch</field>
+<field name="pub_place">Washington, DC</field>
+<field name="language">English</field>
+<field name="call_number">375.11 .U58c</field>
+<field name="grade_level_number">Kindergarten</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Vancouver (Washington) Public Schools</field>
+<field name="title">Kindergarten handbook</field>
+<field name="year">1952</field>
+<field name="date">09/1952</field>
+<field name="pages">67</field>
+<field name="keywords">Kindergarten</field>
+<field name="publisher">Vancouver (Washington) Public Schools</field>
+<field name="pub_place">Vancouver, WA</field>
+<field name="language">English</field>
+<field name="call_number">375.11 .V22k</field>
+<field name="state_country">Washington</field>
+<field name="grade_level_number">Kindergarten</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Ventura County (California) Board of Education</field>
+<field name="title">In the kindergarten: a guide for teachers</field>
+<field name="year">1955</field>
+<field name="date">1955</field>
+<field name="pages">47</field>
+<field name="keywords">Kindergarten teachers</field>
+<field name="publisher">Ventura County (California) Board of Education</field>
+<field name="pub_place">Ventura, CA</field>
+<field name="language">English</field>
+<field name="call_number">375.11 .V46i</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">Kindergarten</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Virginia State Department of Education. Elementary Education
+Service</field>
+<field name="title">A guide for kindergarten education</field>
+<field name="year">1968</field>
+<field name="date">01/1968</field>
+<field name="pages">34</field>
+<field name="keywords">Kindergarten</field>
+<field name="notes">ii; 24 cm.; Note(s): Bibliography: p. 29-34.</field>
+<field name="series_title">Virginia.; State Board of Education.; Bulletin</field>
+<field name="series_vol">50</field>
+<field name="issue">7</field>
+<field name="publisher">Elementary Education Service, Virginia State Department of Education</field>
+<field name="pub_place">Richmond, VA</field>
+<field name="language">English</field>
+<field name="call_number">375.11 .V81g</field>
+<field name="state_country">Virginia</field>
+<field name="grade_level_number">Kindergarten</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Warren (Michigan) Consolidated Schools</field>
+<field name="title">From these roots: Warren Consolidated curriculum guide for kindergarten
+teachers</field>
+<field name="year">1967</field>
+<field name="date">1967</field>
+<field name="pages">209</field>
+<field name="keywords">Kindergarten teachers</field>
+<field name="publisher">Warren (Michigan) Consolidated Schools</field>
+<field name="pub_place">Warren, MI</field>
+<field name="language">English</field>
+<field name="call_number">375.11 .W28f</field>
+<field name="state_country">Michigan</field>
+<field name="grade_level_number">Kindergarten</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">West Virginia State Department of Education</field>
+<field name="title">Section 5: early childhood education: kindergarten</field>
+<field name="year">1970</field>
+<field name="date">1970</field>
+<field name="pages">9</field>
+<field name="keywords">Kindergarten</field>
+<field name="publisher">West Virginia State Department of Education</field>
+<field name="language">English</field>
+<field name="call_number">375.11 .W51k</field>
+<field name="state_country">West Virginia</field>
+<field name="grade_level_number">Kindergarten</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Ypsilanti Preschool Curriculum Demonstration Project</field>
+<field name="title">The cognitive curriculum</field>
+<field name="year">1970</field>
+<field name="date">05/1970</field>
+<field name="keywords">Curricula</field>
+<field name="publisher">Ypsilanti Preschool Curriculum Demonstration Project</field>
+<field name="pub_place">Ypsilanti, MI</field>
+<field name="language">English</field>
+<field name="call_number">375.11 .Y85c</field>
+<field name="state_country">Michigan</field>
+<field name="grade_level_group">Pre-K</field>
+</doc>
+</add>

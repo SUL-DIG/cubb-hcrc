@@ -1,0 +1,1309 @@
+
+
+
+
+TY  - BOOK
+A2  - California State Bureau of Homemaking Education
+T1  - Guide for planning the homemaking curriculum
+Y1  - 1946
+D1  - 1946
+SP  - 149
+KW  - Home economics
+KW  - Curricula
+KW  - Families
+N1  - x; ; 28 cm.; Note(s): Includes bibliographies.; Other Titles: Homemaking curriculum.
+ED  - Preliminary draft
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 371.364 .C15g
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Bureau of Homemaking Education
+A2  - California State Division of Schoolhouse Planning
+T1  - Space and equipment for homemaking education;
+Y1  - 1946
+D1  - 1946
+SP  - 29
+KW  - Home economics
+N1  - 29 p. illus. 28 cm.; Note(s): Bibliography: 29.; Responsibility: prepared by Bureau of Homemaking Education and Division of Schoolhouse Planning of the California State Department of Education.
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 371.364 .C15s
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Gregory, Grace
+A1  - Johnson, Theano
+A1  - Pasterino, Rose
+A1  - Pendleton, Catherine
+A1  - Treveiler, Ruth
+A1  - Day, Eariel
+A1  - Cyr, Helen W.
+A1  - Boyd, Jessie
+A2  - Oakland (California) Public Schools
+T1  - Library skills and the secondary school teacher
+Y1  - 1962
+D1  - 09/1962
+SP  - 99
+KW  - School libraries
+N1  - v, 99 l. ill. 28 cm.; Note(s): Includes bibliographical references.; Responsibility: Prepared by Mrs. Grace Gregory ... [et al.].
+PB  - Oakland Public Schools, Office of the Director of Libraries
+CY  - Oakland, CA
+LA  - English
+CN  - 027.8 O11L
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Ventura County (California) Board of Education
+T1  - Creative writing
+Y1  - 1963
+D1  - 1963
+SP  - 52
+KW  - Creative writing
+N1  - 52 p. ill.; Reprinted 1965.
+PB  - Ventura County (California) Board of Education
+CY  - Ventura, CA
+LA  - English
+CN  - 371.3424 .V46c
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Marin County (California) Superintendent of Schools
+T1  - Drug abuse education resource materials
+KW  - Drug abuse
+PB  - Marin County (California) Superintendent of Schools
+LA  - English
+CN  - 362 .M33d
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Tulare County (California) Superintendent of Schools
+T1  - A notebook on creative writing
+T2  - Language arts bulletin
+Y1  - 1961
+D1  - 06/1962
+SP  - 76
+KW  - Creative writing
+PB  - Tulare County (California) Superintendent of Schools
+CY  - Visalia, CA
+LA  - English
+CN  - 371.3424 .T91n
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California. Bureau of Business Education
+T1  - Business education curriculums and subjects in California high schools : 1952-1953
+Y1  - 1953
+D1  - 1952-1953
+SP  - 106
+KW  - Business education
+KW  - Curricula
+T2  - California. Bureau of Business Education. Business education publication
+V1  - 70
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 373 .C15b
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - National Association of Secondary School Principals (U.S.)
+T1  - Planning for American youth; an educational program for youth of secondary-school age
+Y1  - 1951
+D1  - 1951
+SP  - 63
+KW  - Secondary education
+N1  - 63 p. illus. 27 cm.; Note(s): Responsibility: A summary of Education for all American youth, a publication of the Educational Policies Commission, National Educational Association. Prepared by the Executive Committee and the Committee on Curriculum Planning and Development of the National Association of Secondary-School Principals. 
+ED  - Revised
+PB  - National Association of Secondary School Principals (U.S.)
+CY  - Washington, DC
+LA  - English
+CN  - 373 .N277
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Norwalk (Connecticut) Public Schools
+T1  - A multi-sensory expanded readiness program for young children with retarded development
+Y1  - 1966
+D1  - 05/1966
+KW  - Children with mental disabilities
+KW  - Readiness for school
+N1  - 1 v. : ill. ; 28 cm.; Note(s): Cover title./ Includes bibliographical references.
+ED  - Revised
+PB  - Norwalk (Connecticut) Public Schools
+CY  - Norwalk, CT
+LA  - English
+CN  - 371.9 .N91
+SC  - Connecticut
+ER  - 
+
+TY  - BOOK
+A1  - Taba, Hilda
+T1  - Teacher's handbook for elementary social studies
+Y1  - 1967
+D1  - 1967
+SP  - 150
+KW  - Social sciences
+KW  - Curricula
+N1  - x; ill. 28 cm.
+ED  - Introductory
+PB  - Addison-Wesley
+CY  - Palo Alto, CA
+LA  - English
+CN  - 372.8 .T112
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Merced County (California) Superintendent of Schools
+T1  - School mural
+SP  - 8
+KW  - Mural painting and decoration
+PB  - Merced County (California) Superintendent of Schools
+LA  - English
+CN  - 372.5 .M55s
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Stowe, Elaine
+A1  - Williams, Mabel
+T1  - A guide for the teaching of reading in the junior high school
+Y1  - 1964
+D1  - 09/1964
+SP  - 129
+KW  - Reading
+PB  - Sacramento City (California) Unified School District
+CY  - Sacramento, CA
+LA  - English
+CN  - 373.3 S12
+SC  - California
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - California Department of Education
+T1  - Science curriculum development in the secondary schools; a report to the Superintendent of Public Instruction
+Y1  - 1965
+D1  - 1965
+SP  - 50
+KW  - Science
+N1  - 50 pages illustrations; Responsibility: by the State Advisory Committee on Science Instruction in the High Schools.
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 373 .C15s
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Roberts, Ernest M.
+T1  - Curriculum guide adult basic education Broward County
+Y1  - 1967
+D1  - 1967
+SP  - 106
+KW  - Adult education
+CY  - Fort Lauderdale, FL
+LA  - English
+CN  - 374 .B87p
+SC  - Florida
+ER  - 
+
+TY  - BOOK
+A2  - California Council for Continuation Education
+T1  - Handbook on continuation education in California
+Y1  - 1966
+D1  - 1966
+SP  - 82
+KW  - Adult education
+N1  - 82 p.; Note(s): "Prepared for the Bureau of Elementary and Secondary Education, California State Dept. of Education by the California Council for Continuation Education."/ Revision of Handbook published in 1950.
+ED  - Preliminary
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 374 .C15h
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Bureau of Adult Education
+T1  - Montecito Workshop in Adult Education : report and proceedings July 18-28, 1952, Santa Barbara
+Y1  - 1952
+D1  - 07/1952
+SP  - 122
+KW  - Adult education
+N1  - 122 p.; Note(s): Cover title.
+PB  - California State Department of Education. Bureau of Adult Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 374 .C15m
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Koehler,Lawrence E.
+T1  - Handbook for teachers of adults. Prepared for the Bureau of Adult Education, Division of Instruction, State Dept. of Education
+Y1  - 1968
+D1  - 1968
+SP  - 83
+KW  - Adult education
+ED  - Rev.
+N1  - viii; 23 cm.; Note(s): Revision of 1951 ed. by Stanley E. Sworder./ Bibliography: p. 74-83.; Responsibility: by Lawrence E. Koehler.
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 374 .C15a
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - A guide to coursed beyond high schools in California
+Y1  - 1964
+D1  - 05/1964
+SP  - 55
+KW  - Adult education
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 374 .C15c
+SC  - California
+G1  - Postsecondary
+ER  - 
+
+TY  - BOOK
+A2  - Chicago (Illinois) Public Schools
+T1  - Adult education in the Chicago public schools
+Y1  - 1964
+D1  - 08/1964
+SP  - 50
+KW  - Adult education
+N1  - maps ; 28 cm.; Note(s): "August 1964."/ Includes bibliographical references (p. [49]-50).
+T2  - Chicago (Ill.).; Board of Education.; Study report
+V1  - 11
+PB  - Chicago (Illinois) Board of Education
+CY  - Chicago, IL
+LA  - English
+CN  - 374 .C53a
+SC  - Illinois
+ER  - 
+
+TY  - BOOK
+A2  - Dallas (Texas) Independent School District
+T1  - Public Evening Schools 57th Annual Fall Session
+Y1  - 1958
+D1  - 09/1958
+SP  - 15
+KW  - Adult education
+PB  - Dallas (Texas) Independent School District
+CY  - Dallas, TX
+LA  - English
+CN  - 374 .D14p
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A1  - Crow, Ralph E.
+A2  - Cleveland (Ohio) Public Schools
+T1  - Handbook for adult education teachers
+Y1  - 1953
+D1  - 09/1953
+SP  - 21
+KW  - Adult education
+KW  - Teachers
+N1  - 21 leaves ; 28 cm.; Note(s): Cover title.; Responsibility: prepared by Ralph E. Crow. Minor revisions.
+ED  - Revised
+PB  - Cleveland (Ohio) Public Schools
+CY  - Cleveland, OH
+LA  - English
+CN  - 374 .C63h
+SC  - Ohio
+ER  - 
+
+TY  - BOOK
+A2  - Hawaii Department of Public Instruction Adult Education Division
+T1  - Beikoku shiminken koza. American citizenship course in the Government of the United States and Constitution
+Y1  - 1952
+D1  - 10/1952
+SP  - 24
+KW  - Citizenship
+N1  - 23 p. 22 cm.; Other Titles: American citizenship course in the Government of the United States and the Constitution
+PB  - Hawaii Department of Public Instruction Adult Education Division
+CY  - Honolulu, HI
+LA  - Japanese
+CN  - 374 .H38a
+SC  - Hawaii
+ER  - 
+
+TY  - BOOK
+A1  - Noffsinger, Edith M.
+T1  - Stories as stepping-stones to better English
+Y1  - 1955
+D1  - 1955
+SP  - 66
+KW  - English language
+KW  - Textbooks for foreign speakers
+KW  - Readers
+N1  - v, 66, [1] p. ill.
+PB  - Hawaii (Territory) Department of Public Instruction
+CY  - Honolulu, HI
+LA  - English
+CN  - 374 .H38s
+SC  - Hawaii
+ER  - 
+
+TY  - BOOK
+A2  - Hawaii (Territory) Department of Public Instruction
+T1  - Handbook for adult education administrators
+Y1  - 1955
+D1  - 09/1955
+SP  - 61
+KW  - Adult education
+PB  - Hawaii (Territory) Department of Public Instruction
+CY  - Honolulu, HI
+LA  - English
+CN  - 374 .H38h
+SC  - Hawaii
+G1  - Postsecondary
+ER  - 
+
+TY  - BOOK
+A1  - Hereford, Carl F.
+T1  - Organizing group discussions
+Y1  - 1961
+D1  - 1961
+SP  - 27
+KW  - Discussion
+N1  - 27 p. ; 23 cm.; Responsibility: Carl F. Hereford.
+PB  - University of Texas. Hogg Foundation for Mental Health
+CY  - Austin, TX
+LA  - English
+CN  - 374 .H74o
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District
+T1  - Catalog of authorized subjects adult schools : graduation requirements and curricula : 1968-69 revision
+Y1  - 1969
+D1  - 1968-1969
+SP  - 122
+KW  - Adult education
+KW  - Curricula
+N1  - xxxii; ; 28 cm.; Note(s): Prepared by the District's Division of Instructional Services./ Includes index.; Other Titles: Graduation requirements and curricula 
+T2  - Publication
+V1  - AC-100
+ED  - 1968-69 revision
+PB  - Los Angeles (California) City Schools. Division of Instructional Planning and Services
+CY  - Los Angeles, CA
+LA  - English
+CN  - 374 .L87c 1968-69
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District. Division of Instructional Planning and Services
+T1  - Catalog of authorized subjects, community adult schools and occupational centers : graduation requirements and curricula
+Y1  - 1969
+D1  - 1969-1970
+SP  - 110
+KW  - Adult education
+KW  - Curricula
+N1  - xxxiv; ; 28 cm.; Note(s): Includes index.; Responsibility: Los Angeles City Schools, Division of Instructional Planning and Services.
+T2  - Publication
+VL  - AC-100
+ED  - 1970-72 revision
+PB  - Los Angeles (California) City Schools. Division of Instructional Planning and Services
+CY  - Los Angeles, CA
+LA  - English
+CN  - 374 .L87c 1969-70
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City Schools. Division of Career and Continuing Education
+T1  - Catalog of authorized subjects for community adult schools and occupational centers : graduation requirements and curricula
+Y1  - 1972
+D1  - 1972-1973
+KW  - Adult education
+KW  - Curricula
+N1  - p. ; cm.; Note(s): Revision./ This publication has been developed in accordance with the Comprehensive Curriculum Policy adopted by the Los Angeles City Board of Education.
+T2  - Publication
+V1  - AC-100
+ED  - 1972-73 revision
+PB  - Los Angeles (California) City Schools, Division of Career and Continuing Education
+CY  - Los Angeles, CA
+LA  - English
+CN  - 374 .L87c 1972-73
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Operation Reach
+T1  - Orientation to continuation education
+Y1  - 1967
+D1  - 08/1967
+SP  - 94
+KW  - Continuing education centers
+KW  - Adult education
+N1  - x, 94 p.; Note(s): "Operation Reach, through the SPEIR Office of the Imperial and Riverside Counties Superintendents of Schools, saw the need to communicate these techniques to Riverside and Imperial county educators."
+PB  - Operation Reach
+CY  - Riverside, CA
+LA  - English
+CN  - 374 .I34o
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) Unified Schools. Division of Career and Continuing Education
+T1  - Public information: continuing education programs: community adult schools, regional occupational centers, MDTA skill centers
+Y1  - 1972
+D1  - 04/1972
+SP  - 58
+KW  - Continuing education centers
+KW  - Adult education
+PB  - Los Angeles (California) Unified Schools. Division of Career and Continuing Education
+CY  - Los Angeles, CA
+LA  - English
+CN  - 374 .L87co
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District. Division of Adult Education
+T1  - Handbook for community adult school principals
+Y1  - 1971
+D1  - 1971
+SP  - 26
+KW  - Adult education
+KW  - School superintendents
+KW  - School principals
+N1  - 26 p. ; 27 cm.; Note(s): Includes index.; Other Titles: Community adult school principals.; Responsibility: Los Angeles City Schools ; prepared by Division of Planning and Research.
+ED  - Rev.
+PB  - Los Angeles (California) City School District. Division of Adult Education
+CY  - Los Angeles, CA
+CN  - 374 .L87ha
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District. Division of Adult Education
+T1  - Handbook for community adult school counselors
+Y1  - 1971
+D1  - 1971
+SP  - 63
+KW  - Counseling
+KW  - Adult education
+N1  - x; ; 28 cm.; Note(s): Includes index.; Responsibility: prepared by Division of Adult Education, Los Angeles City Schools.
+ED  - 1971 revision
+PB  - Division of Planning and Research, Los Angeles (California) City Schools
+CY  - Los Angeles, CA
+CN  - 374 .L87h
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District. Division of Career and Continuing Education
+T1  - Handbook for evaluating instruction
+Y1  - 1972
+D1  - 1972
+SP  - 29
+KW  - Evaluation
+N1  - 29 p. ; 28 cm.; Note(s): Includes bibliographical references (p. 27-29).; Responsibility: Los Angeles City Schools Division of Career and Continuing Education.
+ED  - Rev.
+PB  - Los Angeles (California) City School District. Division of Career and Continuing Education
+CY  - Los Angeles, CA
+CN  - 374 .L87he 1972
+SC  - California
+G1  - Postsecondary
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District. Division of College and Adult Education
+T1  - Adult school graduation requirements and curricula
+Y1  - 1962
+D1  - 1962
+SP  - 40
+KW  - Adult education
+N1  - ill. ; 23 cm.
+PB  - Los Angeles (California) City Schools, Division of College and Adult Education, Adult Education Branch
+CY  - Los Angeles, CA
+LA  - English
+SC  - California
+G1  - Postsecondary
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California). Board of Education. Division of Career and Continuing Education
+T1  - Handbook for evaluating instruction
+Y1  - 1971
+D1  - 1971
+SP  - 33
+KW  - Teachers
+KW  - Evaluation
+N1  - 33 p.; Note(s): Bibliography: p.32-33.
+ED  - Rev.
+PB  - Los Angeles (California). Board of Education. Division of Career and Continuing Education
+CY  - Los Angeles, CA
+CN  - 374 .L87he 1971
+SC  - California
+G1  - Postsecondary
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District
+T1  - Learning center ideas in action : a how-to handbook for starting an individualized adult learning center
+Y1  - 1973
+D1  - 1973
+SP  - 112
+KW  - Adult education
+N1  - vi; ill. ; 28 cm.; Note(s): Cover title.; Responsibility: Division of Career and Continuing Education, Los Angeles Unified School District.
+ED  - 1973 revision
+PB  - Los Angeles (California) City School District
+CY  - Los Angeles, CA
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - New York (New York) Board of Education
+T1  - Handbook of procedures for teachers of adults in the evening high schools of New York City
+Y1  - 1953
+D1  - 1953-1954
+SP  - 42
+KW  - Evening and continuation schools
+KW  - Adult education teachers
+N1  - 42 p. 23 cm.; Entry: 19830415; Update: 20121113
+T2  - New York (New York); Board of Education.; Curriculum bulletin, 1953-54 series
+V1  - 9
+PB  - New York (New York) Board of Education
+CY  - New York, NY
+CN  - 374.N52h
+SC  - New York
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New York (New York) Board of Education
+T1  - Resource materials in civic education for adult elementary classes
+Y1  - 1959
+D1  - 1959
+SP  - 146
+KW  - Adult education
+KW  - Elementary education of adults
+N1  - 146 p. illus. 23 cm.; Note(s): "Companion to the Manual for teachers of adult elementary classes ... which it supplements. [Issued by the Division of Community Education]"/ "Suggestions for readings, audio-visual aids, and use of community resources": p. 133-146.
+T2  - New York (New York) Board of Education. Curriculum bulletin, 1957-58 ser.,
+V1  - 7
+PB  - New York (New York) Board of Education
+CY  - Brooklyn, NY
+CN  - 374 .N52r
+SC  - New York
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - New York (State) Bureau of Adult Education
+T1  - Americanization and adult elementary education bibliography
+Y1  - 1960
+D1  - 1960
+SP  - 28
+KW  - Adult education
+KW  - Elementary education of adults
+KW  - Bibliography
+KW  - Americanization
+N1  - 28 p. 23 cm.
+PB  - New York (State) Bureau of Adult Education
+CY  - Albany, NY
+CN  - 374 .N53s
+SC  - New York
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) Unified School District
+T1  - Learning center ideas in action : a how-to handbook for starting an individualized adult learning center
+SP  - 32
+KW  - Adult education
+ED  - Experimental
+PB  - Los Angeles (California) Unified School District
+CY  - Los Angeles, CA
+LA  - English
+CN  - 374 .L87L
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Ebert, Don
+A1  - Gaasholt, Marie
+T1  - Materials for teaching adults to read
+Y1  - 1968
+D1  - 07/1968
+SP  - 18
+KW  - Adult education
+KW  - Reading
+KW  - Bibliography
+N1  - 18 p. 28 cm.; Note(s): Cover title./ Includes bibliographical references.; Responsibility: prepared by Don Ebert [and] Marie Gaasholt. editor, Hugh B. Wood.
+T2  - University of Oregon. Curriculum Laboratory. Curriculum bulletin
+V1  - 24
+IS  - 292
+PB  - School of Education, University of Oregon
+CY  - Eugene, OR
+LA  - English
+CN  - 374 .O67m
+ER  - 
+
+TY  - BOOK
+A1  - Neff, Monroe C.
+A1  - Paterno, Elaine T.
+A1  - Ulmer, Curtis
+T1  - Using real life materials for the culturally disadvantaged
+Y1  - 1972
+D1  - 1972
+SP  - 61
+KW  - Children with social disabilities
+KW  - Multicultural education
+N1  - 61 p. illus. 28 cm.; Note(s): Also issued online.; Responsibility: by Monroe C. Neff [and] Elaine T. Paterno. Curtis Ulmer, editor.
+T2  - Prentice-Hall adult education series
+PB  - Prentice-Hall
+CY  - Englewood Cliffs, NJ
+LA  - English
+CN  - 374 .N53u
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York
+T1  - Continuing education and public responsibility
+Y1  - 1960
+D1  - 1960
+SP  - 44
+KW  - Adult education
+N1  - 44 p.; Note(s): Addresses by Elmo B. Roper, Carroll V. Newsom and William P. Tolley, given at three conferences "for school and community leaders," held at the Bronx, Syracuse and Niagara Falls.
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 374 .N53c v. 2
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Continuing Education Curriculum Development
+T1  - High school equivalency: pt. 1. Theory and design of the program
+Y1  - 1969
+D1  - 1969
+SP  - 112
+KW  - Adult education
+N1  - v. illus. 28 cm.; Note(s): Bibliography: v. 1, p. 98-109.
+PB  - University of the State of New York. Bureau of Continuing Education Curriculum Development
+CY  - Albany, NY
+LA  - English
+CN  - 374 .N53h v. 1
+SC  - New York
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Continuing Education Curriculum Development
+T1  - High school equivalency: pt. 2. Curriculum resource handbook: English language
+Y1  - 1970
+D1  - 1970
+SP  - 81
+KW  - Adult education
+KW  - Curricula
+KW  - English language
+PB  - University of the State of New York. Bureau of Continuing Education Curriculum Development
+CY  - Albany, NY
+LA  - English
+CN  - 374 .N53h v. 2
+SC  - New York
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Continuing Education Curriculum Development
+T1  - High school equivalency: pt. 2. Curriculum resource handbook: Mathematics
+Y1  - 1970
+D1  - 1970
+SP  - 70
+KW  - Adult education
+KW  - Curricula
+KW  - Mathematics
+PB  - University of the State of New York. Bureau of Continuing Education Curriculum Development
+CY  - Albany, NY
+LA  - English
+CN  - 374 .N53h v. 3
+SC  - New York
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Continuing Education Curriculum Development
+T1  - High school equivalency: pt. 2. Curriculum resource handbook: Science
+Y1  - 1970
+D1  - 1970
+SP  - 70
+KW  - Adult education
+KW  - Curricula
+KW  - Science
+PB  - University of the State of New York. Bureau of Continuing Education Curriculum Development
+CY  - Albany, NY
+LA  - English
+CN  - 374 .N53h v. 4
+SC  - New York
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York
+A2  - Advisory Council on Adult Education
+T1  - Continuing education for adults and the State of New York
+Y1  - 1960
+D1  - 1960
+SP  - 66
+KW  - Adult education
+AB  - A platform for adult education -- The curriculum -- Planning and administering the program -- Regulations of the Commissioner of Education -- Interpretation of the adult education regulations -- Department services to adult education.
+N1  - 66 p. ; 23 cm.; Note(s): "S39r-Ja 60-18,500."/ Prepared by the Adult Education Council.
+PB  - University of the State of New York, State Education Dept
+CY  - Albany, NY
+LA  - English
+CN  - 374 .N53c v. 1
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A1  - Abreu Gomez, Ermilo
+T1  - Abraham Lincoln
+Y1  - 1955
+D1  - 1955
+KW  - Lincoln, Abraham, 1809-1865
+KW  - Juvenile literature
+N1  - ill. ; 21 cm.; Responsibility: redactó Ermilo Abreu Gomez; ilustró Stephen Kraft.
+T2  - Biblioteca popular latinoamericana
+ED  - 2a
+PB  - Union Panamericana, UNESCO
+CY  - Washington, DC
+LA  - Spanish
+CN  - 374 .P18b v. 2
+ER  - 
+
+TY  - BOOK
+A1  - Abreu Gómez, Ermilo
+A1  - Cernades W., Roberta
+T1  - Morelos
+Y1  - 1955
+D1  - 1955
+KW  - Morelos, José María, 1765-1815
+KW  - Biography
+KW  - Latin America
+N1  - 1 v. (unpaged) : ill. ; 21 cm.; Responsibility: redacción de Ermilo Abreu Gómez ; ilustraciones de Roberta Cernades W. ; asesor técnico, Agustín Cué Cánovas.; Entry: 20120723; Update: 20120723
+T2  - Biblioteca popular latinoamericana. Serie de civismo; Variation: Biblioteca popular latinoamericana.
+VL  - 2a
+PB  - Unión Panamericana, UNESCO
+CY  - Washington, DC
+LA  - Spanish
+CN  - 374 .P18b v. 5 1955
+ER  - 
+
+TY  - BOOK
+A1  - Abreu Gómez, Ermilo
+A1  - Cernades W., Roberta
+T1  - Morelos
+Y1  - 1956
+D1  - 1956
+KW  - Morelos, José María, 1765-1815
+KW  - Biography
+KW  - Latin America
+N1  - 1 v. (unpaged) : ill. ; 21 cm.; Responsibility: redacción de Ermilo Abreu Gómez ; ilustraciones de Roberta Cernades W. ; asesor técnico, Agustín Cué Cánovas.; Entry: 20120723; Update: 20120723
+T2  - Biblioteca popular latinoamericana. Serie de civismo; Variation: Biblioteca popular latinoamericana.
+VL  - 3a
+PB  - Unión Panamericana : UNESCO
+CY  - Washington, DC
+LA  - Spanish
+CN  - 374 .P18b v. 5 1956
+ER  - 
+
+TY  - BOOK
+A1  - Abreu Gómez, Ermilo
+A1  - Diago, Roberto
+T1  - Martí
+Y1  - 1953
+D1  - 1953
+SP  - 22
+KW  - Marti, José, 1853-1895
+N1  - 22 S mehreren Abb; Responsibility: redacción de Ermilo Abreu Gómez. Illustraciones de Roberto Diago
+T2  - Biblioteca popular latinoamericana
+CY  - Washington, NY
+LA  - Spanish
+CN  - 374 .P18b v. 4
+ER  - 
+
+TY  - BOOK
+A1  - Nannetti Cárdenas, Guillermo
+T1  - La biblioteca de educación fundamental: guía de trabajo
+Y1  - 1955
+D1  - 1955
+SP  - 30
+KW  - Literacy
+KW  - Latin America
+KW  - Adult education
+KW  - Community development
+N1  - ill. ; 18 cm.; Responsibility: Guillermo Nannetti.
+ED  - 1. ed.
+PB  - Editorial Latinoamericana de Educación Fundamental, Unión Panamericana
+CY  - Washington, DC
+LA  - Spanish
+CN  - 374 .P18b v. 1
+ER  - 
+
+TY  - BOOK
+A1  - Nannetti Cárdenas, Guillermo
+T1  - José de San Martín
+Y1  - 1955
+D1  - 1955
+SP  - 32
+KW  - Latin American
+KW  - Biography
+KW  - Readers
+KW  - San Martín, José de
+N1  - 32 leaves : ill. ; 21 cm.; Responsibility: redactó Guillermo Nannetti ; ilustró Emma Reyes.
+T2  - Biblioteca popular latinoamericana
+ED  - 2a
+PB  - Unión Panamericana, UNESCO
+CY  - Washington, DC
+LA  - Spanish
+CN  - 374 .P18b v. 3
+ER  - 
+
+TY  - BOOK
+A1  - Abreu Gómez, Ermilo
+T1  - Abonos agricolas
+Y1  - 1955
+D1  - 1955
+KW  - Fertilizers
+KW  - Manures
+N1  - [21] p. ill. 19 cm.; Responsibility: Ilus de Roberta Cernades W.
+T2  - Biblioteca popular latinoamericana. Serie de agricultura
+PB  - Unión Panamericana
+CY  - Washington, DC
+LA  - Spanish
+CN  - 374 .P18b v. 13
+ER  - 
+
+TY  - BOOK
+A1  - Abreu Gómez, Ermilo
+T1  - Naciones amigas
+Y1  - 1955
+D1  - 1955
+SP  - 17
+KW  - Organization of American States
+N1  - 17 p. ill. 19 cm.; Responsibility: [Ilus. de Roberta Cernades W.9
+T2  - Biblioteca popular latinoamericana
+ED  - 1a
+PB  - Unión Panamericana
+CY  - Washington, DC
+LA  - Spanish
+CN  - 374 .P18b v. 6
+ER  - 
+
+TY  - BOOK
+A1  - Abreu Gómez,Ermilo
+T1  - El alcoholismo
+Y1  - 1955
+D1  - 1955
+SP  - 19
+KW  - Alcoholism
+KW  - Alcoholism and employment
+N1  - 19 p. ill. 19 cm.; Responsibility: [Ilus. de Harold Fonseca.
+T2  - Biblioteca popular latinoamericana. Serie de salud
+ED  - 2a
+PB  - Unión Panamericana
+CY  - Washington, DC
+LA  - Spanish
+CN  - 374 .P18b v. 8
+ER  - 
+
+TY  - BOOK
+A1  - Abreu Gómez, Ermilo
+T1  - La casa de salud
+Y1  - 1955
+D1  - 1955
+SP  - 21
+KW  - Hospitals
+KW  - Readers
+N1  - ill. ; 18 cm.; Responsibility: [redacción de Ermilo Abreu Gómez ; ilustraciones de Harold Fonseca].
+T2  - Biblioteca popular latinoamericana. [Serie de salud]
+ED  - 2a
+PB  - Unión Panamericana
+CY  - Washington, DC
+LA  - Spanish
+CN  - 374 .P18b v. 10
+ER  - 
+
+TY  - BOOK
+A1  - Nannetti Cárdenas, Guillermo
+A1  - Cernades W., Roberta
+T1  - La tuberculosis
+Y1  - 1956
+KW  - Tuberculosis prevention
+KW  - Latin America
+N1  - 1 vol. (non paginé [51] p.) : ill., couv. ill. ; 21 cm.; Responsibility: ilustró, Roberto Cernades W.
+T2  - Biblioteca popular latinoamericana. Serie de salud 
+ED  - 4a
+PB  - Unión Panamerícana, Unesco
+CY  - Washington, DC
+LA  - Spanish
+CN  - 374 .P18b v. 12
+ER  - 
+
+TY  - BOOK
+A1  - Abreu Gómez, Ermilo
+A2  - Unesco
+T1  - Defiende los bosques
+Y1  - 1955
+D1  - 1955
+SP  - 14
+KW  - Readers
+KW  - Forest protection
+T2  - Biblioteca popular latinoamericana. Serie de agricultura
+ED  - 2a
+PB  - Unión Panamericana
+CY  - Washington, DC
+LA  - Spanish
+CN  - 374 .P18b v. 14
+ER  - 
+
+TY  - BOOK
+A1  - Nannetti Cárdenas, Guillermo
+T1  - Defiende tu suelo; historia de Antonio Arango
+Y1  - 1956
+D1  - 1956
+SP  - 26
+KW  - Soil conservation
+N1  - [56] p. ill. 21 cm.; Responsibility: [Ilus. de] Emma Reyes. 
+T2  - Biblioteca popular latinoamericana. Serie de agricultura
+PB  - Unión Panamericana, UNESCO
+CY  - Washington, DC
+LA  - Spanish
+CN  - 374 .P18b v. 15
+ER  - 
+
+TY  - BOOK
+A1  - Nannetti Cárdenas, Guillermo
+T1  - La viruela : el recuerdo de Pedrito
+Y1  - 1952
+D1  - 1952
+KW  - Smallpox
+N1  - ill.; Note(s): "Redacción de Guillermo Nannetti. Ilustraciones de Harold Fonseca"--verso of t.p.
+T2  - Biblioteca popular latinoamericana. Serie de salud
+VL  - 2a
+PB  - Unión Panamericana, Unesco
+CY  - Washington, DC
+LA  - Spanish
+CN  - 374 .P18b v. 11
+ER  - 
+
+TY  - BOOK
+A1  - Nannetti Cárdenas, Guillermo
+T1  - El paludismo
+Y1  - 1954
+D1  - 1954
+SP  - 38
+KW  - Malaria prevention & control
+KW  - Mosquito control
+KW  - Readers
+N1  - ill. ; 18 cm.
+T2  - Biblioteca popular latinoamericana
+ED  - 2a
+PB  - Unión Panamericana, Unesco
+CY  - Washington, DC
+LA  - Spanish
+CN  - 374 .P18b v. 9
+ER  - 
+
+TY  - BOOK
+A1  - Abreu Gómez, Ermilo
+T1  - Cuida a tus hijos
+Y1  - 1954
+D1  - 1954
+SP  - 12
+KW  - Child care
+KW  - Children's health and hygiene
+N1  - ill. ; 18 cm.; Responsibility: Unión Panamericana, UNESCO.
+T2  - Biblioteca popular latinoamericana : Serie de salud
+ED  - 2a
+PB  - Unión Panamericana
+CY  - Washington, DC
+LA  - Spanish
+CN  - 374 .P18b v. 7
+ER  - 
+
+TY  - BOOK
+A1  - Abreu Gómez, Ermilo
+T1  - Gusanos del maíz
+Y1  - 1955
+D1  - 1955
+SP  - 12
+KW  - Corn diseases and pests
+N1  - 12 p. ill. 19 cm.
+T2  - Biblioteca popular latinoamericana
+ED  - 1a
+PB  - Unión Panamericana
+CY  - Washington, DC
+LA  - Spanish
+CN  - 374 .P18b v. 18
+ER  - 
+
+TY  - BOOK
+A1  - Abreu Gómez, Ermilo
+T1  - El huerto casero
+Y1  - 1955
+D1  - 1955
+KW  - Vegetable gardening
+KW  - Latin America
+N1  - [14] p. ill. 19 cm.; Responsibility: Ilus. de Harold Fonseca.
+T2  - Biblioteca popular latinoamericana. Serie de agricultura
+ED  - 2a
+PB  - Unión Panamericana
+CY  - Washington, DC
+LA  - Spanish
+CN  - 374 .P18b v. 17
+ER  - 
+
+TY  - BOOK
+A1  - Abreu Gómez, Ermilo
+T1  - Bueno y barato; una cooperativa de consumo
+Y1  - 1955
+D1  - 1955
+SP  - 53
+KW  - Cooperative societies
+N1  - 25 l. illus. 18 cm.
+T2  - Biblioteca popular latinoamericana
+ED  - 5a
+PB  - Unión Panamericana, UNESCO
+CY  - Washington, DC
+LA  - Spanish
+CN  - 374 .P18b v. 20
+ER  - 
+
+TY  - BOOK
+A1  - Abreu Gómez, Ermilo
+T1  - Mejor semilla de maiz
+Y1  - 1955
+D1  - 1955
+SP  - 13
+KW  - Corn
+N1  - 1 v.; Responsibility: Biblioteca popular latinoamericana. Union panamericana. Washington.
+ED  - 2a
+PB  - Unión Panamericana, UNESCO
+CY  - Wáshington, DC
+LA  - Spanish
+CN  - 374 .P18b v. 16
+ER  - 
+
+TY  - BOOK
+A1  - Abreu Gómez, Ermilo
+T1  - Ayuda a tu pueblo
+Y1  - 1955
+D1  - 1955
+KW  - Social service
+N1  - unpaged. illus. 21 cm.; Responsibility: [Ilus. de Luis Daell]
+T2  - Biblioteca popular latinoamericana. Serie de economía y asuntos sociales
+ED  - 5a
+PB  - Unión Panamericana, UNESCO
+CY  - Wáshington, DC
+LA  - Spanish
+CN  - 374 .P18b v. 19
+ER  - 
+
+TY  - BOOK
+A1  - Abreu Gómez, Ermilo
+T1  - Aprende a medir
+Y1  - 1955
+D1  - 1955
+SP  - 20
+KW  - Metric system
+N1  - 20 p. ill. 19 cm.
+T2  - Biblioteca popular latinoamericana. Serie de conocimientos básicos
+ED  - 1a
+PB  - Unión Panamericana
+CY  - Washington, DC
+LA  - Spanish
+CN  - 374 .P18b v. 25
+ER  - 
+
+TY  - BOOK
+A1  - Abreu Gómez, Ermilo
+T1  - Aprende a escribir
+Y1  - 1955
+D1  - 1955
+SP  - 53
+KW  - Writing
+KW  - Spanish language
+N1  - 53 p. ill. 19 cm.; Responsibility: [Ilus. de Elton C. Fax.
+T2  - Biblioteca popular latinoamericana. Serie de conocimientos básicos
+ED  - 2a
+PB  - Unión Panamericana
+CY  - Washington, DC
+LA  - Spanish
+CN  - 374 .P18b v. 24
+ER  - 
+
+TY  - BOOK
+A1  - Abreu Gómez, Ermilo
+T1  - Algo sobre América
+Y1  - 1955
+D1  - 1955
+SP  - 19
+KW  - Spanish language
+KW  - Readers
+N1  - maps ; 19 cm.; Responsibility: [redacción de Ermilio Abreu Gómez ; ilustraciones de Harold Fonseca y Roberta Cernades W.].
+T2  - Biblioteca popular latinoamericana
+ED  - 2a
+PB  - Unión Panamericana
+CY  - Washington, DC
+LA  - Spanish
+CN  - 374 .P18b v. 23
+ER  - 
+
+TY  - BOOK
+A1  - Abreu Gómez, Ermilo
+T1  - La casa rural
+Y1  - 1952
+D1  - 1952
+KW  - Rural Housing 
+KW  - Juvenile literature
+N1  - [36] p. ill. 21 cm.; Responsibility: [Ilus. de Luis Daell].
+T2  - Biblioteca popular latinoamericana. Serie de economía y asuntos sociales
+PB  - Unión Panamericana
+CY  - Washington, DC
+LA  - Spanish
+CN  - 374 .P18b v. 22
+ER  - 
+
+TY  - BOOK
+A1  - Abreu Gómez, Ermilo
+T1  - Crédito agrícola : la historia de dos campesinos
+Y1  - 1955
+D1  - 1955
+KW  - Readers
+KW  - Agricultural credit
+N1  - [20] p.
+T2  - Biblioteca popular latinoamericana.; Serie de economía y asuntos sociales.
+ED  - 5a
+PB  - Unión Panamericana
+CY  - Washington, DC
+LA  - Spanish
+CN  - 374 .P18b v. 21
+ER  - 
+
+TY  - BOOK
+A1  - Abreu Gómez, Ermilo
+T1  - Algo de geometría
+Y1  - 1955
+D1  - 1955
+SP  - 20
+KW  - Geometry
+N1  - 20 p. ill. 19 cm.; Responsibility: Ilus. de Leroy Preudhomme.
+T2  - Biblioteca popular latinoamericana
+ED  - 1a
+PB  - Unión Panamericana
+CY  - Washington, DC
+LA  - Spanish
+CN  - 374 .P18b v. 26
+ER  - 
+
+TY  - BOOK
+A1  - Abreu Gómez, Ermilo
+T1  - La tierra y los planetas
+Y1  - 1955
+D1  - 1955
+SP  - 16
+KW  - Solar system
+N1  - 16 p. ill. 19 cm.; Responsibility: [Ilus. de Harold Fonseca.
+T2  - Biblioteca popular latinoamericana. Serie de conocimientos básicos
+ED  - 1a
+PB  - Unión Panamericana
+CY  - Washington, DC
+LA  - Spanish
+CN  - 374 .P18b v. 27
+ER  - 
+
+TY  - BOOK
+A1  - Abreu Gómez,Ermilo
+T1  - San Francisco de Asís
+Y1  - 1955
+D1  - 1955
+KW  - Saint Francis of Assisi, 1182-1226
+KW  - Juvenile literature
+N1  - unpaged. illus. 21 cm.; Responsibility: [Ilus. de Harold Fonseca] 
+T2  - Biblioteca popular latinoamericana. Serie de recreación
+ED  - 3a
+PB  - Unión Panamericana, UNESCO
+CY  - Washington, DC
+LA  - Spanish
+CN  - 374 .P18b v. 29
+ER  - 
+
+TY  - BOOK
+A1  - Abreu Gómez, Ermilo
+T1  - Vamos a leer
+Y1  - 1955
+D1  - 1955
+KW  - Reading
+N1  - 1 vol. (45 p.) : fig. ; In-12.; Responsibility: Ermilo Abreu Gómez.
+T2  - Biblioteca popular latinoamerícana
+ED  - 3a
+PB  - Unión Panamerícana, UNESCO
+CY  - Washington, DC
+LA  - Spanish
+CN  - 374 .P18b v. 30
+ER  - 
+
+TY  - BOOK
+A1  - Abreu Gómez, Ermilo
+A1  - Fonseca, Antonio
+T1  - Quetzalcoatl: leyenda mexicana
+Y1  - 1956
+D1  - 1956
+KW  - Quetzalcoatl
+KW  - Aztec deities
+KW  - Legends
+KW  - Juvenile literature
+N1  - 1 v. (unpaged) : col. ill. ; 21 cm.; Other Titles: At head of title:; Biblioteca popular latinoamericana; Responsibility: redactó, Ermilo Abreu Gómez ; ilustró, Antonio Fonseca.
+T2  - Biblioteca popular latinoamericana. Serie de recreación
+ED  - 2a
+PB  - Unión Panamericana, UNESCO
+CY  - Washington, DC
+LA  - Spanish
+CN  - 374 .P18b v. 28
+ER  - 
+
+TY  - BOOK
+A1  - Abreu Gómez, Ermilo
+T1  - Agua pura
+Y1  - 1952
+D1  - 1952
+KW  - Water purification
+N1  - ill.; Note(s): "Redacción de Ermilo Abreu Gómez. Ilustraciones de Antonio Fonseca"--verso of t.p.
+T2  - Biblioteca popular latinoamericana. Serie de civismo; Biblioteca popular latinoamericana. Serie de salud
+ED  - 2a
+PB  - Unión Panamericana, Unesco
+CY  - Washington, DC
+LA  - Spanish
+CN  - 374 .P18b v. 31
+ER  - 
+

@@ -1,0 +1,2949 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="type">Book</field>
+<field name="author">Brown, D. Sydney</field><field name="author_nat">D. Sydney Brown</field>
+<field name="title">Teaching gifted students art in grades seven through nine</field>
+<field name="year">1973</field>
+<field name="date">1973</field>
+<field name="pages">31</field>
+<field name="keywords">Art</field>
+<field name="keywords">Gifted children</field>
+<field name="notes">vii; ; 23 cm.; Note(s): Prepared for the Division of Special Education,
+California State Department of Education./ Includes bibliographical references.; Responsibility: by
+D. Sydney Brown.</field>
+<field name="publisher">California State Department of Education</field>
+<field name="pub_place">Sacramento, CA</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .C15tga 1973 v. 2</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Covey, Barbara L.</field><field name="author_nat">Barbara L. Covey</field>
+<field name="title">Teaching gifted students English usage in grades seven through nine</field>
+<field name="year">1970</field>
+<field name="date">1970</field>
+<field name="pages">42</field>
+<field name="keywords">English language</field>
+<field name="keywords">Gifted children</field>
+<field name="notes">vi; ill. ; 23 cm.; Note(s): Bibliography: p. 40-42.; Responsibility: prepared
+for the Division of Special Education, California State Department of Education, by Barbara L.
+Covey.</field>
+<field name="publisher">California State Department of Education</field>
+<field name="pub_place">Sacramento, CA</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .C15tge 1970 v. 3</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Franklin, Mayer J.</field><field name="author_nat">Mayer J. Franklin</field>
+<field name="author">Friedl, Berthold C.</field><field name="author_nat">Berthold C. Friedl</field>
+<field name="title">Teaching gifted students foreign language in grades ten through twelve</field>
+<field name="year">1973</field>
+<field name="date">1973</field>
+<field name="pages">40</field>
+<field name="keywords">Language and languages</field>
+<field name="keywords">Gifted children</field>
+<field name="notes">viii; ; 23 cm.; Note(s): Includes bibliographical references (p. 37-40).;
+Responsibility: prepared for the Division of Special Education, California State Department of
+Education, by Mayer J. Franklin and Berthold C. Friedl.</field>
+<field name="publisher">California State Department of Education</field>
+<field name="pub_place">Sacramento, CA</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .C15tgf 1973 v. 4</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Luca, Mark C.</field><field name="author_nat">Mark C. Luca</field>
+<field name="author">Allen, Bonnie</field><field name="author_nat">Bonnie Allen</field>
+<field name="title">Teaching gifted children art in grades four through six</field>
+<field name="year">1973</field>
+<field name="date">1973</field>
+<field name="pages">36</field>
+<field name="keywords">Gifted children</field>
+<field name="keywords">Art</field>
+<field name="notes">viii; ; 23 cm.; Note(s): Prepared for the Division of Special Education,
+California State Department of Education./ Includes bibliographical references.; Responsibility: by
+Mark C. Luca and Bonnie Allen.</field>
+<field name="publisher">California State Department of Education</field>
+<field name="pub_place">Sacramento, CA</field>
+<field name="language">English</field>
+<field name="call_number">371.9 C15tga 1973 v. 1</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Clifford, Thomas</field><field name="author_nat">Thomas Clifford</field>
+<field name="title">Teaching gifted children literature in grades four through six</field>
+<field name="year">1972</field>
+<field name="date">1972</field>
+<field name="pages">34</field>
+<field name="keywords">Gifted children</field>
+<field name="keywords">English language</field>
+<field name="notes">v; ges ; 23 cm; Responsibility: by Thomas Clifford.</field>
+<field name="publisher">California State Department of Education</field>
+<field name="pub_place">Sacramento, CA</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .C15tgL 1972 v. 2</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Covey, Barbara L.</field><field name="author_nat">Barbara L. Covey</field>
+<field name="title">Teaching gifted students literature in grades seven through nine</field>
+<field name="year">1973</field>
+<field name="date">1973</field>
+<field name="pages">34</field>
+<field name="keywords">Literature</field>
+<field name="keywords">Special education</field>
+<field name="notes">vi; ges ; 23 cm; Note(s): Includes bibliographical references (page 34).;
+Responsibility: prepared for the Division of Special Education, California State Department of
+Education by Barbara L. Covey.</field>
+<field name="publisher">California State Department of Education</field>
+<field name="pub_place">Sacramento, CA</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .C15tgL 1973 v. 3</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Gensley, Juliana Townsend</field><field name="author_nat">Juliana Townsend Gensley</field>
+<field name="title">Teaching gifted children literature in grades one through three</field>
+<field name="year">1972</field>
+<field name="date">1972</field>
+<field name="pages">28</field>
+<field name="keywords">Gifted children</field>
+<field name="keywords">Literature</field>
+<field name="notes">vii; ges ; 23 cm; Responsibility: by Juliana Townsend Gensley.</field>
+<field name="publisher">California State Department of Education</field>
+<field name="pub_place">Sacramento, CA</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .C15tgL 1972 v . 1</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Nicholson, Margaret</field><field name="author_nat">Margaret Nicholson</field>
+<field name="author">Stubbe, Arabelle</field><field name="author_nat">Arabelle Stubbe</field>
+<field name="author">Wadhams, Geraldine</field><field name="author_nat">Geraldine Wadhams</field>
+<field name="author">Whirry, Marilyn</field><field name="author_nat">Marilyn Whirry</field>
+<field name="title">Teaching gifted students literature and language in grades nine through
+twelve</field>
+<field name="year">1970</field>
+<field name="date">1970</field>
+<field name="pages">54</field>
+<field name="keywords">Gifted children</field>
+<field name="keywords">English language</field>
+<field name="keywords">Literature</field>
+<field name="notes">ix; ges ; 23 cm; Note(s): Includes bibliographical references (pages 53-54).;
+Responsibility: prepared for the Division of Special Education, California State Department of
+Education by Margaret Nicholson [and others].</field>
+<field name="publisher">California State Department of Education</field>
+<field name="pub_place">Sacramento, CA</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .C15tgL 1970 v. 4</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">9th grade</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">California State Department of Education</field>
+<field name="title">Teaching gifted children literature and language in grades nine through
+twelve</field>
+<field name="year">1978</field>
+<field name="date">1978</field>
+<field name="pages">53</field>
+<field name="keywords">Literature</field>
+<field name="publisher">California State Department of Education</field>
+<field name="pub_place">Sacramenta, CA</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .C15tgL 1978 v. 4</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">9th grade</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">California State Department of Education</field>
+<field name="title">Literature, curriculum guide for teaching gifted children literature in grades
+one through three</field>
+<field name="year">1978</field>
+<field name="date">1978</field>
+<field name="pages">29</field>
+<field name="keywords">Literature</field>
+<field name="keywords">Gifted children</field>
+<field name="publisher">California State Department of Education</field>
+<field name="pub_place">Sacramenta, CA</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .C15tgL 1978 v. 1</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">California State Department of Education</field>
+<field name="title">Teaching gifted children literature in grades four through six</field>
+<field name="year">1978</field>
+<field name="date">1978</field>
+<field name="pages">28</field>
+<field name="keywords">Gifted children</field>
+<field name="keywords">Literature</field>
+<field name="notes">vii; ges ; 23 cm; Responsibility: by Thomas Clifford.</field>
+<field name="publisher">California State Department of Education</field>
+<field name="pub_place">Sacramento, CA</field>
+<field name="language">English</field>
+<field name="call_number">371.9 C15tgL 1978 v. 2</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Walker, Virginia</field><field name="author_nat">Virginia Walker</field>
+<field name="title">Teaching gifted children mathematics in grades one through three</field>
+<field name="year">1973</field>
+<field name="date">1973</field>
+<field name="pages">38</field>
+<field name="keywords">Gifted children</field>
+<field name="keywords">Mathematics</field>
+<field name="notes">ill. ; 23 cm.; Note(s): Prepared for the Division of Special Education,
+California State Department of Education by Virginia Walker./ Includes bibliographical references.;
+Responsibility: by Juliana T. Gensley.</field>
+<field name="publisher">California State Department of Education</field>
+<field name="pub_place">Sacramento, CA</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .C15tgm 1973 v. 1</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Brandwein, Paul Franz</field><field name="author_nat">Paul Franz Brandwein</field>
+<field name="title">Teaching gifted children science in grades one through six</field>
+<field name="year">1973</field>
+<field name="date">1973</field>
+<field name="pages">64</field>
+<field name="keywords">Science</field>
+<field name="keywords">Gifted children</field>
+<field name="notes">viii; ges ; 23 cm; Note(s): Includes bibliographical references (pages 63-64).;
+Responsibility: prepared for the Division of Special Education, California State Department of
+Education by Paul F. Brandwein.</field>
+<field name="publisher">California State Department of Education</field>
+<field name="pub_place">Sacramento, CA</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .C15tgs 1973 v. 1</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Ely, Jewel Mary</field><field name="author_nat">Jewel Mary Ely</field>
+<field name="title">Teaching gifted children music in grades one through six</field>
+<field name="year">1978</field>
+<field name="date">1978</field>
+<field name="pages">85</field>
+<field name="keywords">Gifted children</field>
+<field name="keywords">Music</field>
+<field name="notes">ix; charts ; 23 cm.; Responsibility: Jewel Mary Ely.</field>
+<field name="publisher">California State Department of Education</field>
+<field name="pub_place">Sacramento, CA</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .C15tgmu 1978 v. 1</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Muir, Raquel</field><field name="author_nat">Raquel Muir</field>
+<field name="title">Science, a unit on microbiology : curriculum guide for teaching gifted children
+science in grades four through six</field>
+<field name="year">1970</field>
+<field name="date">1970</field>
+<field name="pages">58</field>
+<field name="keywords">Science</field>
+<field name="keywords">Gifted children</field>
+<field name="notes">vi; ill. ; 23 cm.; Note(s): Bibliography: p. 54-55.; Responsibility: prepared
+for the Division of Special Education, California State Department of Education, by Raquel
+Muir.</field>
+<field name="publisher">California State Department of Education</field>
+<field name="pub_place">Sacramento, CA</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .C15tgs 1970 v. 2</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Wampler, Martha Maybury</field><field name="author_nat">Martha Maybury Wampler</field>
+<field name="title">Music : curriculum guide for teaching gifted children music in grade four
+through six</field>
+<field name="year">1973</field>
+<field name="date">1973</field>
+<field name="pages">50</field>
+<field name="keywords">Gifted children</field>
+<field name="keywords">Music</field>
+<field name="notes">vii; ges ; 23 cm; Note(s): Includes bibliographical references (pages 49-50).;
+Responsibility: by Martha Maybury Wampler.</field>
+<field name="publisher">California State Department of Education</field>
+<field name="pub_place">Sacramento, CA</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .C15tgmu 1973 v. 2</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Bruch, Catherine B.</field><field name="author_nat">Catherine B. Bruch</field>
+<field name="title">Teaching gifted children social sciences in grades four through six</field>
+<field name="year">1971</field>
+<field name="date">1971</field>
+<field name="pages">34</field>
+<field name="keywords">Social sciences</field>
+<field name="keywords">Gifted children</field>
+<field name="notes">vi; ges ; 23 cm; Responsibility: prepared for the Division of Special Education,
+California State Department of Education by Catherine B. Bruch.</field>
+<field name="publisher">California State Department of Education</field>
+<field name="pub_place">Sacramento, CA</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .C15tgss 1971 v. 2</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Hauck, Barbara</field><field name="author_nat">Barbara Hauck</field>
+<field name="title">Social science: curriculum guide for teaching gifted children social sciences in
+grades one through three</field>
+<field name="year">1970</field>
+<field name="date">1970</field>
+<field name="pages">31</field>
+<field name="keywords">Social sciences</field>
+<field name="keywords">Gifted children</field>
+<field name="notes">vii; 23 cm.; Note(s): Selected references: p. 27-31.</field>
+<field name="publisher">California State Department of Education, Division of Special
+Education</field>
+<field name="pub_place">Sacramento, CA</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .C15tgss 1970 v. 1</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">California State Department of Education</field>
+<field name="title">Science : curriculum guide for teaching gifted children science in grades one
+through three: a sample ecology unit</field>
+<field name="year">1977</field>
+<field name="date">1977</field>
+<field name="pages">32</field>
+<field name="keywords">Science)</field>
+<field name="keywords">Ecology</field>
+<field name="keywords">Gifted children</field>
+<field name="abstract">Science: curriculum guide for teaching gifted children science in grades one
+through three: a sample ecology unit / Howard N Hubbard 1977 [1977 ed.]. English Book vii, 32 pages
+; 23 cm Sacramento : The Dept., Helps gifted pupils to take an active part in meaningful learning
+activities that concern the world of natural science. Contains a sample teaching-learning plan and
+eight sample lesson plans. The emphasis is on ecology and its aspects, such as the biological, the
+environmental, and the geological.; Chapter 1: Purposes and approaches -- Overview -- Behavioral
+objectives -- Generalizations and concepts. -- Chapter 2: Sample teaching-learning plan -- A unit on
+ecology -- Evaluation. Chapter 3: Sample lesson plans -- Subtratum -- Animal movement -- Seed
+dispersal -- Temperature -- Its influence on the environment -- Light -- Food -- Water -- Erosion.;
+Helps gifted pupils to take an active part in meaningful learning activities that concern the world
+of natural science. Contains a sample teaching-learning plan and eight sample lesson plans. The
+emphasis is on ecology and its aspects, such as the biological, the environmental, and the
+geological.</field>
+<field name="notes">vii; ges ; 23 cm; Note(s): "The 1970 edition of the guide was written by
+Charlotte Morrison ... The guide was updated by Howard N. Hubbard."/ Includes bibliographical
+references.; Other Titles: Curriculum guide for teaching gifted children science in grades one
+through three.; Responsibility: prepared for the Office of Special Education, California State Dept.
+of Education.</field>
+<field name="edition">1977 ed.</field>
+<field name="publisher">California State Department of Education</field>
+<field name="pub_place">Sacramento, CA</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .C15tgs 1977 v. 1</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Popham, Donald F.</field><field name="author_nat">Donald F. Popham</field>
+<field name="title">Teaching gifted students social sciences in grades ten through twelve</field>
+<field name="year">1971</field>
+<field name="date">1971</field>
+<field name="pages">36</field>
+<field name="keywords">Social sciences</field>
+<field name="keywords">Gifted children</field>
+<field name="notes">vi; ; 23 cm.; Note(s): Includes bibliographical references (p. 27-29).;
+Responsibility: prepared for the Division of Special Education, California State Department of
+Education, by Donald F. Popham.</field>
+<field name="publisher">California State Department of Education</field>
+<field name="pub_place">Sacramento, CA</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .C14tgss 1971 v. 4</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">California State Department of Education</field>
+<field name="title">Social sciences : curriculum guide for teaching gifted children social sciences
+in grades one through three</field>
+<field name="year">1977</field>
+<field name="date">1977</field>
+<field name="pages">34</field>
+<field name="keywords">Social sciences</field>
+<field name="keywords">Gifted children</field>
+<field name="notes">v; ges ; 23 cm; Note(s): Includes bibliographical references (pages 29-33).;
+Responsibility: prepared under the direction of the Gifted and Talented Education Management Team,
+California State Department of Education.</field>
+<field name="publisher">California State Department of Education</field>
+<field name="pub_place">Sacramento, CA</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .C15tgss 1977 v. 1</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">California State Department of Education. Office of Curriculum
+Services</field>
+<field name="title">Teaching gifted students social sciences in grades seven through nine</field>
+<field name="year">1977</field>
+<field name="date">1977</field>
+<field name="pages">49</field>
+<field name="keywords">Social sciences</field>
+<field name="keywords">Gifted children</field>
+<field name="notes">v; ; 23 cm.; Note(s): On cover: Social sciences, 7-9./ Includes bibliographical
+references (p. 42-48).; Other Titles: Social sciences, 7-9; Responsibility: prepared for the Office
+of Curriculum Services, California State Department of Education.</field>
+<field name="edition">1977 ed.</field>
+<field name="publisher">California State Department of Education</field>
+<field name="pub_place">Sacramento, CA</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .C15tgss 1977 v. 3</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Levine, Martin</field><field name="author_nat">Martin Levine</field>
+<field name="title">Social sciences : curriculum guide for teaching gifted students social sciences
+in grades seven through nine</field>
+<field name="year">1973</field>
+<field name="date">1973</field>
+<field name="pages">55</field>
+<field name="keywords">Social sciences</field>
+<field name="keywords">Gifted children</field>
+<field name="notes">vii; ges ; 23 cm; Note(s): Includes bibliographical references (pages 53-55).;
+Responsibility: prepared for the Division of Special Education, California State Department of
+Education by Martin Levine.</field>
+<field name="publisher">California State Department of Education</field>
+<field name="pub_place">Sacramento, CA</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .C15tgss 1973 v. 3</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Seattle Public Schools. Administrative and Service Center</field>
+<field name="title">The great religions of the world: a resource unit for use in world history
+i</field>
+<field name="year">1952</field>
+<field name="date">09/1952</field>
+<field name="pages">22</field>
+<field name="keywords">Religion</field>
+<field name="publisher">Seattle (Washington) Public Schools</field>
+<field name="pub_place">Seattle, WA</field>
+<field name="language">English</field>
+<field name="call_number">377.1 .S44g</field>
+<field name="state_country">Washington </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Ligon, Ernest M.</field><field name="author_nat">Ernest M. Ligon</field>
+<field name="title">An outline of the conceptual history of the Union College Character Research
+Project, 1935-1953</field>
+<field name="year">1953</field>
+<field name="date">1953</field>
+<field name="pages">27</field>
+<field name="keywords">Moral education</field>
+<field name="series_title">Union College studies in character research</field>
+<field name="publisher">Union College. Character Research Project</field>
+<field name="pub_place">Schenectady, NY</field>
+<field name="language">English</field>
+<field name="call_number">377.2 .U58u v. 1 </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Morse, Mervyn M.</field><field name="author_nat">Mervyn M. Morse</field>
+<field name="title">The effectivement of individual classroom adaptation in bringing about attitude
+growth in class groups</field>
+<field name="year">1953</field>
+<field name="date">10/1953</field>
+<field name="pages">15</field>
+<field name="keywords">Character</field>
+<field name="series_title">Union College studies in character research</field>
+<field name="series_vol">1</field>
+<field name="issue">1</field>
+<field name="publisher">Union College. Character Research Project</field>
+<field name="pub_place">Schenectady, NY</field>
+<field name="language">English</field>
+<field name="call_number">377.2 .U58u v. 2 </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Morse, Mervyn M.</field><field name="author_nat">Mervyn M. Morse</field>
+<field name="title">Some factors which relate to the three categories of attitude growth:
+significant growth, ordinary growth, and no growth</field>
+<field name="year">1953</field>
+<field name="date">10/1953</field>
+<field name="pages">15</field>
+<field name="keywords">Character</field>
+<field name="series_title">Union College studies in character research</field>
+<field name="series_vol">1</field>
+<field name="issue">1</field>
+<field name="publisher">Union College. Character Research Project</field>
+<field name="pub_place">Schenectady, NY</field>
+<field name="language">English</field>
+<field name="call_number">377.2 .U58u v. 2 </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Baker, Winifred A.</field><field name="author_nat">Winifred A. Baker</field>
+<field name="title">Longitudinal study of the effect of experience in the character research project
+on the learning of concepts</field>
+<field name="year">1954</field>
+<field name="date">01/1954</field>
+<field name="keywords">Character</field>
+<field name="series_title">Union College studies in character research</field>
+<field name="series_vol">1</field>
+<field name="issue">4</field>
+<field name="publisher">Union College. Character Research Project</field>
+<field name="pub_place">Schenectady, NY</field>
+<field name="language">English</field>
+<field name="call_number">377.2 .U58u v. 5 </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Smith, Leona J.</field><field name="author_nat">Leona J. Smith</field>
+<field name="author">Ligon, Ernest M.</field><field name="author_nat">Ernest M. Ligon</field>
+<field name="author">Lohmann, Joan</field><field name="author_nat">Joan Lohmann</field>
+<field name="author">O'Brien, Mary A.</field><field name="author_nat">Mary A. O'Brien</field>
+<field name="author">Seymour, Richard B.</field><field name="author_nat">Richard B. Seymour</field>
+<field name="title">Home dynamics study: a search for dimensions of the family climate based on
+dynamic interrelationships among factors influencing parental attitudes: orientation to the
+problem</field>
+<field name="year">1954</field>
+<field name="date">03/1954</field>
+<field name="keywords">Character</field>
+<field name="series_title">Union College studies in character research</field>
+<field name="series_vol">1</field>
+<field name="issue">6</field>
+<field name="publisher">Union College. Character Research Project</field>
+<field name="pub_place">Schenectady, NY</field>
+<field name="language">English</field>
+<field name="call_number">377.2 .U58u v. 7 </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">McLane, Edwin D.</field><field name="author_nat">Edwin D. McLane</field>
+<field name="author">O'Brien, Mary A.</field><field name="author_nat">Mary A. O'Brien</field>
+<field name="author">Wemple, Sallie Ann</field><field name="author_nat">Sallie Ann Wemple</field>
+<field name="title">A comparison of the effectiveness of the teaching-learning process in groups
+participating and not participating in the Character Research Project</field>
+<field name="year">1954</field>
+<field name="date">05/1954</field>
+<field name="keywords">Character</field>
+<field name="series_title">Union College studies in character research</field>
+<field name="series_vol">1</field>
+<field name="issue">7</field>
+<field name="publisher">Union College. Character Research Project</field>
+<field name="pub_place">Schenectady, NY</field>
+<field name="language">English</field>
+<field name="call_number">377.2 .U58u v. 8 </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City School District. Elementary Finance
+Committee</field>
+<field name="title">Policies governing elementary student body and/or PTA finance</field>
+<field name="year">1948</field>
+<field name="date">09/1948</field>
+<field name="keywords">Student activities</field>
+<field name="keywords">Accounting</field>
+<field name="notes">17 p. 23 cm.; Note(s): Cover title.</field>
+<field name="series_title">Los Angeles City School District. Publication</field>
+<field name="series_vol">464</field>
+<field name="publisher">Los Angeles (California) City School Districts, Student Body Services
+Branch</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="language">English</field>
+<field name="call_number">379 .L87p</field>
+<field name="state_country">California </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Maryland State Department of Education</field>
+<field name="title">Maryland's educational program, school administrative manual</field>
+<field name="year">1952</field>
+<field name="date">06/1952</field>
+<field name="pages">95</field>
+<field name="keywords">School management and organization</field>
+<field name="keywords">Public schools</field>
+<field name="notes">viii; ges tables 23 cm.; Note(s): "A revision ... expanded."/ Signed: Thomas G.
+Pullen, Jr.</field>
+<field name="series_title">Maryland school bulletin</field>
+<field name="series_vol">32</field>
+<field name="issue">2</field>
+<field name="publisher">Maryland State Department of Education</field>
+<field name="pub_place">Baltimore, MD</field>
+<field name="language">English</field>
+<field name="call_number">379 .M39m</field>
+<field name="state_country">Maryland </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Western Interstate Commission for Higher Education</field>
+<field name="title">Who should go to college? The problem of selective admission in state colleges
+and universities. [First in a series of reports dealing with emerging issues in higher education in
+the West]</field>
+<field name="year">1959</field>
+<field name="date">04/1959</field>
+<field name="pages">19</field>
+<field name="keywords">Universities and colleges</field>
+<field name="keywords">Admissions</field>
+<field name="notes">20 p. 25 cm.</field>
+<field name="publisher">Western Interstate Commission for Higher Education</field>
+<field name="pub_place">Boulder, CO</field>
+<field name="language">English</field>
+<field name="call_number">378.213 .W526w</field>
+<field name="grade_level_group">Postsecondary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Contra Costa County (California) Schools</field>
+<field name="title">County office field services</field>
+<field name="year">1953</field>
+<field name="date">04/1953</field>
+<field name="keywords">School management and organization</field>
+<field name="publisher">Contra Costa County (California) Schools</field>
+<field name="pub_place">Martinez, CA</field>
+<field name="language">English</field>
+<field name="call_number">379 .C76c </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Fresno (California) City Unified School District</field>
+<field name="title">Administrative policies of the board of education</field>
+<field name="year">1952</field>
+<field name="date">09/1952</field>
+<field name="pages">34</field>
+<field name="keywords">School management and organization</field>
+<field name="publisher">Fresno (California) City Unified School District</field>
+<field name="pub_place">Fresno, CA</field>
+<field name="language">English</field>
+<field name="call_number">379 .F88a </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Inglewood (California) Board of Education</field>
+<field name="title">Activities</field>
+<field name="keywords">School management and organization</field>
+<field name="publisher">Inglewood (California) Board of Education</field>
+<field name="pub_place">Inglewood, CA</field>
+<field name="language">English</field>
+<field name="call_number">379 .I51i </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Cloud, Sidney S.</field><field name="author_nat">Sidney S. Cloud</field>
+<field name="title">The community power structure and its influence upon school elections</field>
+<field name="year">1961</field>
+<field name="date">01/1961</field>
+<field name="keywords">School elections</field>
+<field name="series_title">University of Oregon. School of Education. Curriculum bulletin</field>
+<field name="series_vol">17</field>
+<field name="issue">209</field>
+<field name="publisher">University of Oregon. School of Education</field>
+<field name="pub_place">Eugene, OR</field>
+<field name="language">English</field>
+<field name="call_number">379 .O66c </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">San Diego County (California) Superintendent of Schools</field>
+<field name="title">County office services</field>
+<field name="pages">22</field>
+<field name="keywords">School management and organization</field>
+<field name="publisher">San Diego County (California) Superintendent of Schools</field>
+<field name="pub_place">San Diego, CA</field>
+<field name="language">English</field>
+<field name="call_number">379 .S19c </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">San Diego County (California) Schools</field>
+<field name="title">Service area committee reports</field>
+<field name="year">1952</field>
+<field name="date">11/1952</field>
+<field name="keywords">School management and organization</field>
+<field name="publisher">San Diego County (California) Schools. Office of the Superintendent of
+Schools</field>
+<field name="pub_place">San Diego, CA</field>
+<field name="language">English</field>
+<field name="call_number">379 .S19s v. 1</field>
+<field name="state_country">California </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">San Diego County (California) Schools</field>
+<field name="title">Service area committee reports</field>
+<field name="year">1952</field>
+<field name="date">12/1952</field>
+<field name="keywords">School management and organization</field>
+<field name="publisher">San Diego County (California) Schools. Office of the Superintendent of
+Schools</field>
+<field name="pub_place">San Diego, CA</field>
+<field name="language">English</field>
+<field name="call_number">379 .S19s v. 2</field>
+<field name="state_country">California </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">San Diego County (California) Schools</field>
+<field name="title">Addendum: service area committee reports</field>
+<field name="year">1953</field>
+<field name="date">01/1953</field>
+<field name="keywords">School management and organization</field>
+<field name="publisher">San Diego County (California) Schools. Office of the Superintendent of
+Schools</field>
+<field name="pub_place">San Diego, CA</field>
+<field name="language">English</field>
+<field name="call_number">379 .S19s v. 3</field>
+<field name="state_country">California </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Alabama State Department of Education</field>
+<field name="title">Alabama state-adopted textbook list, 1970-71</field>
+<field name="year">1970</field>
+<field name="date">1970</field>
+<field name="pages">82</field>
+<field name="keywords">Bibliography</field>
+<field name="keywords">Textbooks</field>
+<field name="publisher">Alabama State Department of Education</field>
+<field name="pub_place">Montgomery, AL</field>
+<field name="language">English</field>
+<field name="call_number">371.156 .A31a 1970-71</field>
+<field name="state_country">Alabama </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Alabama State Department of Education</field>
+<field name="title">Alabama state-adopted textbook list, 1971-72</field>
+<field name="year">1971</field>
+<field name="date">1971</field>
+<field name="pages">89</field>
+<field name="keywords">Bibliography</field>
+<field name="keywords">Textbooks</field>
+<field name="publisher">Alabama State Department of Education</field>
+<field name="pub_place">Montgomery, AL</field>
+<field name="language">English</field>
+<field name="call_number">371.156 .A31a 1971-72</field>
+<field name="state_country">Alabama </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Burlingham, Charles C.</field><field name="author_nat">Charles C. Burlingham</field>
+<field name="corp_author">New York (State). Governor's Committee on the Costs of Public Education in
+the State</field>
+<field name="title">Report of the Governor's Committee on the Costs of Public Education in the State
+of New York</field>
+<field name="year">1933</field>
+<field name="date">1933</field>
+<field name="pages">101</field>
+<field name="keywords">School finance</field>
+<field name="notes">charts, tables ; 23 cm.; Note(s): Charles C. Burlingham, chairman./ Also issued
+online.</field>
+<field name="publisher">New York (State). Governor's Committee on the Costs of Public Education in
+the State</field>
+<field name="pub_place">New York, NY</field>
+<field name="language">English</field>
+<field name="call_number">379.11 .N56r</field>
+<field name="state_country">New York </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Texas State Education Agency</field>
+<field name="title">Services to Texas schools</field>
+<field name="year">1953</field>
+<field name="date">07/1953</field>
+<field name="pages">123</field>
+<field name="keywords">School management and organization</field>
+<field name="notes">123, [4] p. ; 23 cm.; Note(s): Tx Doc no.: E500.7, B936, 541-53./ With: Bulletin
+(Texas. State Dept. of Education) ; 541-53.; Responsibility: compiled by the staff of the Texas
+Education Agency.</field>
+<field name="series_title">Bulletin (Texas Education Agency)</field>
+<field name="series_vol">541</field>
+<field name="publisher">Texas State Education Agency</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">379 .T35s</field>
+<field name="state_country">Texas </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Tulare County (California) Schools</field>
+<field name="title">Services index: services available to Tulare County Schools through the Office
+of the County Superintendant (preliminary draft)</field>
+<field name="year">1952</field>
+<field name="date">1952?</field>
+<field name="pages">6</field>
+<field name="keywords">School management and organization</field>
+<field name="publisher">Tulare County (California) Schools</field>
+<field name="language">English</field>
+<field name="call_number">379 .T91s</field>
+<field name="state_country">California </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Tulare County (California) Schools</field>
+<field name="title">Personnel assignments and responsibilities, 1952-53</field>
+<field name="year">1952</field>
+<field name="date">12/1952</field>
+<field name="pages">6</field>
+<field name="keywords">School management and organization</field>
+<field name="publisher">Tulare County (California) Schools</field>
+<field name="language">English</field>
+<field name="call_number">379 .T91s</field>
+<field name="state_country">California </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">California State Board of Education</field>
+<field name="title">Call for bids for textbooks and teacher's manuals in arithmetic : (Authorized by
+resolution of the State Board of Education, January 3, 1955)</field>
+<field name="year">1955</field>
+<field name="date">02/1955</field>
+<field name="pages">11</field>
+<field name="keywords">Textbooks</field>
+<field name="keywords">Mathematics</field>
+<field name="publisher">California State Board of Education</field>
+<field name="pub_place">Sacramento, CA</field>
+<field name="language">English</field>
+<field name="call_number">379.156 .C15c</field>
+<field name="state_country">California </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">American Textbook Publishers Institute</field>
+<field name="title">Budgeting for textbooks, a realistic approach</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="pages">31</field>
+<field name="keywords">Textbooks</field>
+<field name="keywords">School finance</field>
+<field name="notes">31 p. ill. 26 cm.</field>
+<field name="publisher">American Textbook Publishers Institute</field>
+<field name="pub_place">New York, NY</field>
+<field name="language">English</field>
+<field name="call_number">379.156 .A51b </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Arizona State Department of Education</field>
+<field name="title">Official list state adopted (free) textbooks for common schools and state
+welfare institutions 1958-1959 school year</field>
+<field name="year">1958</field>
+<field name="date">07/1958</field>
+<field name="keywords">Textbooks</field>
+<field name="keywords">Bibliography</field>
+<field name="notes">Frequency: Annual; volumes ; 28-33 cm; Note(s): Vols. for issued under the
+Dept.'s later name, Dept. of Public Instruction; issued under the Dept.'s later name, Dept. of
+Education.</field>
+<field name="publisher">Arizona State Department of Education</field>
+<field name="pub_place">Phoenix, AZ</field>
+<field name="language">English</field>
+<field name="call_number">379.156 .A71o </field>
+</doc>
+
+<doc>
+<field name="type">Journal</field>
+<field name="corp_author">California State Department of Education</field>
+<field name="title">California state textbooks : elementary school textbooks adopted by the State
+Board of Education for use in California during ...</field>
+<field name="year">1968</field>
+<field name="date">1968-1970</field>
+<field name="keywords">Curricula</field>
+<field name="keywords">Catalogs</field>
+<field name="keywords">Textbooks</field>
+<field name="publisher">California State Department of Education</field>
+<field name="pub_place">Sacramento, CA</field>
+<field name="language">English</field>
+<field name="call_number">379.156 .C15ca</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Richmond (California) Public Schools</field>
+<field name="title">A statement of policy regarding textbook selection and adoption procedures for
+Richmond secondary schools</field>
+<field name="pages">21</field>
+<field name="keywords">Textbooks</field>
+<field name="publisher">Richmond (California) Public Schools</field>
+<field name="pub_place">Richmond, CA</field>
+<field name="language">English</field>
+<field name="call_number">379.156 .R53t</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">High school</field>
+<field name="grade_level_group">Middle school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Flint (California) Public Schools</field>
+<field name="title">Basic textbooks</field>
+<field name="year">1958</field>
+<field name="date">09/1958</field>
+<field name="pages">14</field>
+<field name="keywords">Textbooks</field>
+<field name="publisher">Flint (California) Public Schools</field>
+<field name="pub_place">Richmond, CA</field>
+<field name="language">English</field>
+<field name="call_number">379.156 .F62t</field>
+<field name="state_country">California </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Florida State Department of Education</field>
+<field name="title">Florida school bulletin: textbook issue</field>
+<field name="year">1961</field>
+<field name="date">06/1961</field>
+<field name="pages">107</field>
+<field name="keywords">Textbooks</field>
+<field name="publisher">Florida State Department of Education</field>
+<field name="pub_place">Tallahassee, FL</field>
+<field name="language">English</field>
+<field name="call_number">379.156 .F63f 1961</field>
+<field name="state_country">Florida </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Florida State Department of Education</field>
+<field name="title">Florida school bulletin: textbook issue</field>
+<field name="year">1963</field>
+<field name="date">06/1963</field>
+<field name="pages">121</field>
+<field name="keywords">Textbooks</field>
+<field name="publisher">Florida State Department of Education</field>
+<field name="pub_place">Tallahassee, FL</field>
+<field name="language">English</field>
+<field name="call_number">379.156 .F63f 1963</field>
+<field name="state_country">Florida </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Florida State Department of Education</field>
+<field name="title">Florida school bulletin: textbook issue</field>
+<field name="year">1966</field>
+<field name="date">04/1966</field>
+<field name="pages">165</field>
+<field name="keywords">Textbooks</field>
+<field name="publisher">Florida State Department of Education</field>
+<field name="pub_place">Tallahassee, FL</field>
+<field name="language">English</field>
+<field name="call_number">379.156 .F63f 1966</field>
+<field name="state_country">Florida </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Cooperative Council on Inservice Education. Committee on Textbook
+Selection</field>
+<field name="title">Guide for textbook selection: procedures and criteria</field>
+<field name="year">1953</field>
+<field name="date">1953</field>
+<field name="pages">48</field>
+<field name="keywords">Textbooks</field>
+<field name="publisher">Los Angeles (California) Office of the County Superintendent of
+Schools</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="language">English</field>
+<field name="call_number">379.156 .L87g </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Florida State Department of Education</field>
+<field name="title">State-adopted textbooks in Florida : a catalog</field>
+<field name="year">1971</field>
+<field name="date">1971-1972</field>
+<field name="pages">58</field>
+<field name="keywords">Catalogs</field>
+<field name="keywords">Textbooks</field>
+<field name="notes">volumes ; 23 x 30 cm -28 cm; Note(s): Vols. for - issued by the Department of
+Education (called 19 -, State Department of Education).</field>
+<field name="publisher">Florida State Department of Education</field>
+<field name="pub_place">Tallahassee, FL</field>
+<field name="language">English</field>
+<field name="call_number">379.156 .F63s</field>
+<field name="state_country">Florida </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Fresno County (California) School Library</field>
+<field name="title">Supplementary textbooks on supply from the Fresno County School Library</field>
+<field name="year">1952</field>
+<field name="date">09/1952</field>
+<field name="pages">20</field>
+<field name="keywords">Textbooks</field>
+<field name="publisher">Fresno County (California) School Library</field>
+<field name="pub_place">Fresno, CA</field>
+<field name="language">English</field>
+<field name="call_number">379.156 .F88s</field>
+<field name="state_country">California </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Kansas State Department of Public Instruction</field>
+<field name="title">1956 price list of books adopted and approved for use in Kansas schools</field>
+<field name="year">1956</field>
+<field name="date">07/1956</field>
+<field name="keywords">Textbooks</field>
+<field name="keywords">Bibliography</field>
+<field name="notes">Frequency: Annual; 19-; volumes 23 cm; Note(s): Title varies slightly./ Issued
+by the Kansas State School Book Commission, 19 -193?; by the State Board of Education, 194 -</field>
+<field name="publisher">Kansas State Department of Public Instruction</field>
+<field name="pub_place">Topeka, KS</field>
+<field name="language">English</field>
+<field name="call_number">379.156 .K16p</field>
+<field name="state_country">Kansas </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Spaulding, William E.</field><field name="author_nat">William E. Spaulding</field>
+<field name="title">How shall we judge them? A discussion of materials of instruction</field>
+<field name="year">1961</field>
+<field name="date">12/1961</field>
+<field name="pages">24</field>
+<field name="keywords">Teaching aids</field>
+<field name="keywords">Textbooks</field>
+<field name="notes">24 p.; Note(s): "An address given by the President of Houghton Mifflin Company
+on December 1, 1961, before the Text Book Conference of the Educational Research Concil of Greater
+Cleveland."</field>
+<field name="publisher">Houghton Mifflin</field>
+<field name="pub_place">New York, NY</field>
+<field name="language">English</field>
+<field name="call_number">379.156 .H82h </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City School District</field>
+<field name="title">List of authorized textbooks for junior and senior high school,
+1961-1962</field>
+<field name="year">1961</field>
+<field name="date">1961-1962</field>
+<field name="pages">130</field>
+<field name="keywords">Textbooks</field>
+<field name="keywords">Bibliography</field>
+<field name="series_title">Los Angeles City School District.; Publication</field>
+<field name="series_vol">426</field>
+<field name="edition">Rev.</field>
+<field name="publisher">Los Angeles (California) City School District</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="language">English</field>
+<field name="call_number">379.156 .L879L 1961-1962</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Middle school</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City School District</field>
+<field name="title">List of authorized textbooks for junior and senior high school,
+1964-1965</field>
+<field name="year">1964</field>
+<field name="date">1964</field>
+<field name="pages">130</field>
+<field name="keywords">Textbooks</field>
+<field name="keywords">Bibliography</field>
+<field name="series_title">Los Angeles City School District.; Publication</field>
+<field name="series_vol">426</field>
+<field name="edition">Rev.</field>
+<field name="publisher">Los Angeles (California) City School District</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="language">English</field>
+<field name="call_number">379.156 .L879L 1964-1965</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Middle school</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City School District. Division of Instructional
+Services</field>
+<field name="title">Curriculum trends and text book needs; reports presented by the Curriculum
+Branch, Division of Instructional Services, Los Angeles City Schools, at a meeting for the American
+Textbook Publishers Institute</field>
+<field name="year">1965</field>
+<field name="date">11/1965</field>
+<field name="pages">60</field>
+<field name="keywords">Curricula</field>
+<field name="keywords">Textbooks</field>
+<field name="publisher">Los Angeles (California) City School District</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="language">English</field>
+<field name="call_number">379.156 .L879c</field>
+<field name="state_country">California </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City School District. Division of Instructional
+Services</field>
+<field name="title">List of authorized textbooks for junior and senior high schools,
+1958-1959</field>
+<field name="year">1958</field>
+<field name="date">1958-1959</field>
+<field name="pages">102</field>
+<field name="keywords">Textbooks</field>
+<field name="keywords">Bibliography</field>
+<field name="series_title">Los Angeles Board of Education.; School publications</field>
+<field name="series_vol">426</field>
+<field name="edition">Rev.</field>
+<field name="publisher">Los Angeles (California) City School District</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="language">English</field>
+<field name="call_number">379.156 .L879L 1958-1959</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Middle school</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City School District. Division of Instructional
+Services</field>
+<field name="title">List of authorized textbooks for junior and senior high schools,
+1959-1960</field>
+<field name="year">1959</field>
+<field name="date">1959-1960</field>
+<field name="pages">106</field>
+<field name="keywords">Textbooks</field>
+<field name="keywords">Bibliography</field>
+<field name="series_title">Los Angeles Board of Education.; School publications</field>
+<field name="series_vol">426</field>
+<field name="edition">Rev.</field>
+<field name="publisher">Los Angeles (California) City School District</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="language">English</field>
+<field name="call_number">379.156 .L879L 1959-1960</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Middle school</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Knowlton, Philip A.</field><field name="author_nat">Philip A. Knowlton</field>
+<field name="title">Let the chips fall; a study of voluntary statements made by 1472 California
+educators about the California textbook problem</field>
+<field name="year">1957</field>
+<field name="date">1957</field>
+<field name="pages">37</field>
+<field name="keywords">Textbooks</field>
+<field name="notes">37 p. 28 cm.</field>
+<field name="publisher">Macmillan</field>
+<field name="pub_place">New York, NY</field>
+<field name="language">English</field>
+<field name="call_number">379.156 .M16L</field>
+<field name="state_country">California </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Nebraska State Department of Education</field>
+<field name="title">Partial lists of elementary school textbooks and supplementary aids</field>
+<field name="year">1955</field>
+<field name="date">07/1955</field>
+<field name="pages">25</field>
+<field name="keywords">Textbooks</field>
+<field name="keywords">Teaching aids</field>
+<field name="publisher">Nebraska State Department of Education</field>
+<field name="pub_place">Lincoln, NE</field>
+<field name="language">English</field>
+<field name="call_number">379.156 .N36s v. 1</field>
+<field name="state_country">Nebraska</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Nebraska State Department of Education</field>
+<field name="title">Partial lists of recent textbooks for basic high school courses</field>
+<field name="year">1955</field>
+<field name="date">07/1955</field>
+<field name="pages">18</field>
+<field name="keywords">Textbooks</field>
+<field name="publisher">Nebraska State Department of Education</field>
+<field name="pub_place">Lincoln, NE</field>
+<field name="language">English</field>
+<field name="call_number">379.156 .N36s v. 2</field>
+<field name="state_country">Nebraska</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Journal</field>
+<field name="corp_author">Oklahoma State Board of Education</field>
+<field name="title">Official list of all textbooks</field>
+<field name="year">1952</field>
+<field name="date">1952-1956</field>
+<field name="keywords">Textbooks</field>
+<field name="notes">Holdings: 1952, 1953, 1955-56</field>
+<field name="publisher">Oklahoma State Board of Education</field>
+<field name="language">English</field>
+<field name="call_number">379.156 .O41o</field>
+<field name="state_country">Oklahoma </field>
+</doc>
+
+<doc>
+<field name="type">Journal</field>
+<field name="corp_author">Oregon State Department of Education</field>
+<field name="title">State adopted textbooks for Oregon schools</field>
+<field name="year">1955</field>
+<field name="date">1955-1957</field>
+<field name="keywords">Bibliography</field>
+<field name="keywords">Textbooks</field>
+<field name="notes">Frequency: Biennial; 1953-55-1957-59 ; suppl. no. 1 (1959-65)-no. 2 (1961-67).;
+5 volumes ; 23 cm; Note(s): "A circular for school officers."; Responsibility: issued in compliance
+with law under direction of the State Board of Education by the State Department of Education
+...</field>
+<field name="publisher">Oregon State Department of Education</field>
+<field name="pub_place">Salem, OR</field>
+<field name="language">English</field>
+<field name="call_number">379.156 .O66s</field>
+<field name="state_country">Oregon </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of Pittsburgh. Textbook Depository Library Project</field>
+<field name="title">Annotated bibliography on textbook writing, publication, evaluation, selection
+and use</field>
+<field name="year">1965</field>
+<field name="date">12/1965</field>
+<field name="pages">40</field>
+<field name="keywords">Bibliography</field>
+<field name="keywords">Textbooks</field>
+<field name="publisher">University of Pittsburgh. Textbook Depository Library Project</field>
+<field name="pub_place">Pittsburgh, PA</field>
+<field name="language">English</field>
+<field name="call_number">379.156 .P69a </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of Pittsburgh. Textbook Depository Library Project</field>
+<field name="title">Guide to the use of textbook depository libraries and educational materials
+centers</field>
+<field name="year">1967</field>
+<field name="date">09/1967</field>
+<field name="pages">47</field>
+<field name="keywords">Bibliography</field>
+<field name="keywords">Textbooks</field>
+<field name="publisher">University of Pittsburgh. Textbook Depository Library Project</field>
+<field name="pub_place">Pittsburgh, PA</field>
+<field name="language">English</field>
+<field name="call_number">379.156 .P69g </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of Pittsburgh. Textbook Depository Library Project</field>
+<field name="title">Supplement: list of titles suggested for placement in textbook depository
+libraries in selected countries: secondary education</field>
+<field name="year">1966</field>
+<field name="date">08/1966</field>
+<field name="pages">36</field>
+<field name="keywords">Bibliography</field>
+<field name="keywords">Textbooks</field>
+<field name="publisher">University of Pittsburgh. Textbook Depository Library Project</field>
+<field name="pub_place">Pittsburgh, PA</field>
+<field name="language">English</field>
+<field name="call_number">379.156 .P69L v. 1 </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Rochester (New York) City School District. Division of Instruction</field>
+<field name="title">Basal textbooks, experimental textbooks, supplementary books : business
+education 1971-72</field>
+<field name="year">1971</field>
+<field name="date">1971-1972</field>
+<field name="pages">8</field>
+<field name="keywords">Business education</field>
+<field name="keywords">Textbooks</field>
+<field name="keywords">Bibliography</field>
+<field name="publisher">City School District, Division of Instruction, Department of Learning
+Resources</field>
+<field name="pub_place">Rochester, NY</field>
+<field name="language">English</field>
+<field name="call_number">379.156 .R67b v. 1 </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Rochester (New York) City School District. Division of Instruction</field>
+<field name="title">Basal textbooks, experimental textbooks, supplementary books : English
+1971-72</field>
+<field name="year">1971</field>
+<field name="date">1971-1972</field>
+<field name="pages">21</field>
+<field name="keywords">English language</field>
+<field name="keywords">Textbooks</field>
+<field name="keywords">Bibliography</field>
+<field name="publisher">City School District, Division of Instruction, Department of Learning
+Resources</field>
+<field name="pub_place">Rochester, NY</field>
+<field name="language">English</field>
+<field name="call_number">379.156 .R67b v. 2 </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Rochester (New York) City School District. Division of Instruction</field>
+<field name="title">Basal textbooks, experimental textbooks, supplementary books : foreign languages
+1971-72</field>
+<field name="year">1971</field>
+<field name="date">1971-1972</field>
+<field name="keywords">Languages</field>
+<field name="keywords">Textbooks</field>
+<field name="keywords">Bibliography</field>
+<field name="publisher">City School District, Division of Instruction, Department of Learning
+Resources</field>
+<field name="pub_place">Rochester, NY</field>
+<field name="language">English</field>
+<field name="call_number">379.156 .R67b v. 3 </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Rochester (New York) City School District. Division of Instruction</field>
+<field name="title">Basal textbooks, experimental textbooks, supplementary books : health education
+1971-72</field>
+<field name="year">1971</field>
+<field name="date">1971-1972</field>
+<field name="pages">3</field>
+<field name="keywords">Health education</field>
+<field name="keywords">Textbooks</field>
+<field name="keywords">Bibliography</field>
+<field name="publisher">City School District, Division of Instruction, Department of Learning
+Resources</field>
+<field name="pub_place">Rochester, NY</field>
+<field name="language">English</field>
+<field name="call_number">379.156 .R67b v. 4 </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Rochester (New York) City School District. Division of Instruction</field>
+<field name="title">Basal textbooks, experimental textbooks, supplementary books : home economics
+1971-72</field>
+<field name="year">1971</field>
+<field name="date">1971-1972</field>
+<field name="pages">6</field>
+<field name="keywords">Home economics</field>
+<field name="keywords">Textbooks</field>
+<field name="keywords">Bibliography</field>
+<field name="publisher">City School District, Division of Instruction, Department of Learning
+Resources</field>
+<field name="pub_place">Rochester, NY</field>
+<field name="language">English</field>
+<field name="call_number">379.156 .R67b v. 5 </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Rochester (New York) City School District. Division of Instruction</field>
+<field name="title">Basal textbooks, experimental textbooks, supplementary books : industrial arts
+1971-72</field>
+<field name="year">1971</field>
+<field name="date">1971-1972</field>
+<field name="pages">13</field>
+<field name="keywords">Industrial arts</field>
+<field name="keywords">Textbooks</field>
+<field name="keywords">Bibliography</field>
+<field name="publisher">City School District, Division of Instruction, Department of Learning
+Resources</field>
+<field name="pub_place">Rochester, NY</field>
+<field name="language">English</field>
+<field name="call_number">379.156 .R67b v. 6 </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Rochester (New York) City School District. Division of Instruction</field>
+<field name="title">Basal textbooks, experimental textbooks, supplementary books : mathematics
+1971-72</field>
+<field name="year">1971</field>
+<field name="date">1971-1972</field>
+<field name="pages">7</field>
+<field name="keywords">Health education</field>
+<field name="keywords">Textbooks</field>
+<field name="keywords">Bibliography</field>
+<field name="publisher">City School District, Division of Instruction, Department of Learning
+Resources</field>
+<field name="pub_place">Rochester, NY</field>
+<field name="language">English</field>
+<field name="call_number">379.156 .R67b v. 7 </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Rochester (New York) City School District. Division of Instruction</field>
+<field name="title">Basal textbooks, experimental textbooks, supplementary books : music
+1971-72</field>
+<field name="year">1971</field>
+<field name="date">1971-1972</field>
+<field name="keywords">Music</field>
+<field name="keywords">Textbooks</field>
+<field name="keywords">Bibliography</field>
+<field name="publisher">City School District, Division of Instruction, Department of Learning
+Resources</field>
+<field name="pub_place">Rochester, NY</field>
+<field name="language">English</field>
+<field name="call_number">379.156 .R67b v. 8 </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Rochester (New York) City School District. Division of Instruction</field>
+<field name="title">Basal textbooks, experimental textbooks, supplementary books : science
+1971-72</field>
+<field name="year">1971</field>
+<field name="date">1971-1972</field>
+<field name="pages">6</field>
+<field name="keywords">Science</field>
+<field name="keywords">Textbooks</field>
+<field name="keywords">Bibliography</field>
+<field name="publisher">City School District, Division of Instruction, Department of Learning
+Resources</field>
+<field name="pub_place">Rochester, NY</field>
+<field name="language">English</field>
+<field name="call_number">379.156 .R67b v. 9 </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Rochester (New York) City School District. Division of Instruction</field>
+<field name="title">Basal textbooks, experimental textbooks, supplementary books : special education
+1971-72</field>
+<field name="year">1971</field>
+<field name="date">1971-1972</field>
+<field name="pages">22</field>
+<field name="keywords">Special education</field>
+<field name="keywords">Textbooks</field>
+<field name="keywords">Bibliography</field>
+<field name="publisher">City School District, Division of Instruction, Department of Learning
+Resources</field>
+<field name="pub_place">Rochester, NY</field>
+<field name="language">English</field>
+<field name="call_number">379.156 .R67b v. 10 </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Rochester (New York) City School District. Division of Instruction</field>
+<field name="title">Basal textbooks, experimental textbooks, supplementary books : social studies
+1971-72</field>
+<field name="year">1971</field>
+<field name="date">1971-1972</field>
+<field name="pages">10</field>
+<field name="keywords">Social sciences</field>
+<field name="keywords">Textbooks</field>
+<field name="keywords">Bibliography</field>
+<field name="publisher">City School District, Division of Instruction, Department of Learning
+Resources</field>
+<field name="pub_place">Rochester, NY</field>
+<field name="language">English</field>
+<field name="call_number">379.156 .R67b v. 11 </field>
+</doc>
+
+<doc>
+<field name="type">Journal</field>
+<field name="corp_author">South Carolina State Department of Education</field>
+<field name="title">A complete list of adopted textbooks, including workbooks, for use in South
+Carolina public schools, 1956-1958 (including approved workbooks)</field>
+<field name="year">1956</field>
+<field name="date">1956-1958</field>
+<field name="keywords">Textbooks</field>
+<field name="keywords">Bibliography</field>
+<field name="notes">Frequency: Annual; Former: Biennial; Ceased with 1970/71.; volumes ; 23 cm;
+Note(s): Title varies slightly.; Responsibility: State Dept. of Education.</field>
+<field name="publisher">South Carolina State Department of Education</field>
+<field name="pub_place">Columbia, SC</field>
+<field name="language">English</field>
+<field name="call_number">379.156 .S72c</field>
+<field name="state_country">South Carolina </field>
+</doc>
+
+<doc>
+<field name="type">Journal</field>
+<field name="corp_author">Texas Education Agency</field>
+<field name="title">Catalogue of current-adoption textbooks</field>
+<field name="year">1966</field>
+<field name="date">1966-1977</field>
+<field name="keywords">Textbooks</field>
+<field name="keywords">Bibliography</field>
+<field name="notes">Frequency: Annual; Holdings: 1966-1967, 1967-68, 1968-69, 1969-70, 1971-72,
+1972-73, 1973-74, 1974-75, 1975-76, 1976-77.</field>
+<field name="series_title">Bulletin (Texas Education Agency)</field>
+<field name="publisher">Texas Education Agency</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">379.156 .T35c</field>
+<field name="state_country">Texas </field>
+</doc>
+
+<doc>
+<field name="type">Journal</field>
+<field name="corp_author">Texas State Department of Education</field>
+<field name="title">List of current adoption textbooks, 1941-1942</field>
+<field name="year">1941</field>
+<field name="date">1941-1942</field>
+<field name="pages">19</field>
+<field name="keywords">Textbooks</field>
+<field name="keywords">Bibliography</field>
+<field name="notes">Frequency: Annual; -1953/54.; volumes ; 23 cm; Note(s): Issued by: Texas State
+Department of Education, -1951; Texas Education Agency, 1952-1954.</field>
+<field name="series_title">Bulletin / Texas Education Agency.; Variation: Bulletin (Texas Education
+Agency)</field>
+<field name="publisher">Texas State Department of Education</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">379.156 .T35b</field>
+<field name="state_country">Texas </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Tennessee State Textbook Commission</field>
+<field name="title">Tennessee official list of textbooks with wholesale prices, retail prices and
+copyright dates</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="pages">76</field>
+<field name="keywords">Textbooks</field>
+<field name="keywords">Bibliography</field>
+<field name="publisher">Tennessee State Textbook Commission</field>
+<field name="language">English</field>
+<field name="call_number">379.156 .T29o</field>
+<field name="state_country">Tennessee </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Bleyer, Willard Grosvenor</field><field name="author_nat">Willard Grosvenor Bleyer</field>
+<field name="title">The high school course in English</field>
+<field name="year">1907</field>
+<field name="date">1907</field>
+<field name="keywords">English language</field>
+<field name="keywords">English literature</field>
+<field name="notes">69 p. 19 cm.; Note(s): Bibliography: p. 65-69.; Responsibility: by Willard G.
+Bleyer ...</field>
+<field name="series_title">Bulletin of the University of Wisconsin</field>
+<field name="series_vol">416</field>
+<field name="edition">Rev.</field>
+<field name="publisher">University of Wisconsin</field>
+<field name="pub_place">Madison, WI</field>
+<field name="language">English</field>
+<field name="call_number">379.171 .W811</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Kansas State Highway Commission of Kansas</field>
+<field name="title">The laws and regulations governing school pupil transportation in Kansas</field>
+<field name="year">1951</field>
+<field name="date">07/1951</field>
+<field name="pages">34</field>
+<field name="keywords">School buses</field>
+<field name="keywords">Law and legislation</field>
+<field name="publisher">Kansas State Highway Commission of Kansas</field>
+<field name="pub_place">Topeka, KS</field>
+<field name="language">English</field>
+<field name="call_number">379.175 .K16L</field>
+<field name="state_country">Kansas </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Tulare County (California) Superintendent of Schools</field>
+<field name="title">Supplementary textbook list</field>
+<field name="year">1958</field>
+<field name="date">05/1958</field>
+<field name="pages">82</field>
+<field name="keywords">Textbooks</field>
+<field name="keywords">Bibliography</field>
+<field name="notes">82 p. ; 29 cm.; Note(s): Includes bibliographical references.; Responsibility:
+Tulare County Superintendent of Schools, Instructional Services Division, Library Services
+Division.</field>
+<field name="edition">3d.</field>
+<field name="publisher">Tulare County (California) Superintendent of Schools</field>
+<field name="pub_place">Visalia, CA</field>
+<field name="language">English</field>
+<field name="call_number">379.156 .T91s 1958</field>
+<field name="state_country">California </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Tulare County (California) Superintendent of Schools</field>
+<field name="title">Supplementary textbook list</field>
+<field name="year">1956</field>
+<field name="date">05/1956</field>
+<field name="pages">56</field>
+<field name="keywords">Textbooks</field>
+<field name="keywords">Bibliography</field>
+<field name="notes">82 p. ; 29 cm.; Note(s): Includes bibliographical references.; Responsibility:
+Tulare County Superintendent of Schools, Instructional Services Division, Library Services
+Division.</field>
+<field name="edition">2d.</field>
+<field name="publisher">Tulare County (California) Superintendent of Schools</field>
+<field name="pub_place">Visalia, CA</field>
+<field name="language">English</field>
+<field name="call_number">379.156 .T91s 1956</field>
+<field name="state_country">California </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Wilmington (Delaware) Public Schools</field>
+<field name="title">Survey of integrated text books and library books in the Wilmington public
+schools</field>
+<field name="year">1967</field>
+<field name="date">02/1967</field>
+<field name="pages">26</field>
+<field name="keywords">Textbooks</field>
+<field name="keywords">Bibliography</field>
+<field name="keywords">Library materials</field>
+<field name="publisher">Wilmington (Delaware) Public Schools</field>
+<field name="pub_place">Wilmington, DE</field>
+<field name="language">English</field>
+<field name="call_number">379.156 .W74s</field>
+<field name="state_country">Delaware </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Aberdeen (Washington) Public Schools</field>
+<field name="title">Reporting pupil progress : parent-teacher conferences : a manual of information
+and instructions covering the reporting program as developed and practiced in the Aberdeen
+elementary schools</field>
+<field name="year">1954</field>
+<field name="date">1954</field>
+<field name="pages">59</field>
+<field name="keywords">School reports</field>
+<field name="keywords">Parent-teacher conferences</field>
+<field name="notes">v, 59 leaves ; 28 cm.; Responsibility: Aberdeen Public Schools.</field>
+<field name="publisher">Aberdeen (Washington) Public Schools</field>
+<field name="pub_place">Aberdeen, WA</field>
+<field name="language">English</field>
+<field name="call_number">379.2 .A14r</field>
+<field name="state_country">Washington</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Louisiana State Department of Education</field>
+<field name="title">Handbook for school bus operators and school officials</field>
+<field name="year">1949</field>
+<field name="date">1949</field>
+<field name="pages">18</field>
+<field name="keywords">School buses</field>
+<field name="notes">1949.; 1 volume ; 28 cm; Responsibility: Louisiana, State Dept. of Public
+Education.</field>
+<field name="series_title">Bulletin (Louisiana State Department of Education)</field>
+<field name="series_vol">684</field>
+<field name="publisher">Louisiana State Department of Education</field>
+<field name="pub_place">Baton Rouge, LA</field>
+<field name="language">English</field>
+<field name="call_number">379.175 .L88h</field>
+<field name="state_country">Louisiana </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">North Dakota State Department of Public Instruction</field>
+<field name="title">North Dakota school bus standards</field>
+<field name="year">1947</field>
+<field name="date">07/1947</field>
+<field name="pages">37</field>
+<field name="keywords">School buses</field>
+<field name="notes">37 pages : plans ; 23 cm; Note(s): "July, 1947."; Responsibility: prepared and
+issued under the direction of the Department of Public Instruction ; in cooperation with the State
+Highway Commissioner.</field>
+<field name="publisher">North Dakota State Department of Public Instruction</field>
+<field name="pub_place">Bismarck, ND</field>
+<field name="language">English</field>
+<field name="call_number">379.175 .N86s</field>
+<field name="state_country">North Dakota </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Albany (California) Unified School District</field>
+<field name="title">Progress report</field>
+<field name="year">1953</field>
+<field name="date">1953?</field>
+<field name="keywords">Grading and marking</field>
+<field name="publisher">Albany (California) Unified School District</field>
+<field name="pub_place">Albany, CA</field>
+<field name="language">English</field>
+<field name="call_number">379.2 .A32p</field>
+<field name="state_country">California </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Albany (California) Unified School District</field>
+<field name="title">What? No report cards? Reporting pupil progress through parent
+conferences</field>
+<field name="year">1953</field>
+<field name="date">09/1953</field>
+<field name="pages">11</field>
+<field name="keywords">Grading and marking</field>
+<field name="publisher">Albany (California) Unified School District</field>
+<field name="pub_place">Albany, CA</field>
+<field name="language">English</field>
+<field name="call_number">379.2 .A32p</field>
+<field name="state_country">California </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Amador (California) County Schools</field>
+<field name="title">Kindergarten progress report</field>
+<field name="keywords">Grading and marking</field>
+<field name="publisher">Amador (California) County Schools</field>
+<field name="pub_place">Amador, CA</field>
+<field name="language">English</field>
+<field name="call_number">379.2 .A49k</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">Kindergarten</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Anaheim (California) City Schools</field>
+<field name="title">Reporting to parents</field>
+<field name="keywords">Grading and marking</field>
+<field name="publisher">Anaheim (California) City Schools</field>
+<field name="pub_place">Anaheim, CA</field>
+<field name="language">English</field>
+<field name="call_number">379.2 .A53r</field>
+<field name="state_country">California </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Arlington (Virginia) Public Schools</field>
+<field name="title">Teachers' guide for reporting to parents in the elementary grades</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="pages">19</field>
+<field name="keywords">Grading and marking</field>
+<field name="publisher">Arlington (Virginia) Public Schools</field>
+<field name="pub_place">Arlington, VA</field>
+<field name="language">English</field>
+<field name="call_number">379.2 .A72t</field>
+<field name="state_country">Virginia</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Barrington (Illinois) Elementary Schools</field>
+<field name="title">Handbook of reporting practices for parents and teachers</field>
+<field name="pages">8</field>
+<field name="keywords">Grading and marking</field>
+<field name="publisher">Barrington (Illinois) Elementary Schools</field>
+<field name="pub_place">Barrington, IL</field>
+<field name="language">English</field>
+<field name="call_number">379.2 .B26h</field>
+<field name="state_country">Illinois </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Caddo Parish (Louisiana) Schools</field>
+<field name="title">The elementary report card: a resource bulletin for elementary school
+teachers</field>
+<field name="pages">22</field>
+<field name="keywords">Grading and marking</field>
+<field name="publisher">Caddo Parish (Louisiana) Schools</field>
+<field name="pub_place">Shreveport, LA</field>
+<field name="language">English</field>
+<field name="call_number">379.2 .C12e</field>
+<field name="state_country">Louisiana</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Cleveland (Ohio) Public Schools. Elementary Division</field>
+<field name="title">Child progress reports, a guide for teachers</field>
+<field name="year">1952</field>
+<field name="date">09/1952</field>
+<field name="pages">15</field>
+<field name="keywords">Grading and marking</field>
+<field name="publisher">Cleveland (Ohio) Board of Education</field>
+<field name="pub_place">Cleveland, OH</field>
+<field name="language">English</field>
+<field name="call_number">379.2 .C63c</field>
+<field name="state_country">Ohio</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Covina-Valley (California) Unified School District</field>
+<field name="title">Grading standards and practices</field>
+<field name="year">1962</field>
+<field name="date">08/1962</field>
+<field name="pages">45</field>
+<field name="keywords">Grading and marking</field>
+<field name="publisher">Covina-Valley (California) Unified School District</field>
+<field name="language">English</field>
+<field name="call_number">379.2 .C87g</field>
+<field name="state_country">California </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Denver (Colorado) Public Schools. Department of Public Personnel</field>
+<field name="title">Manual, cumulative record, kindergarten - grade 12</field>
+<field name="year">1953</field>
+<field name="date">08/1963</field>
+<field name="pages">17</field>
+<field name="keywords">School records and correspondence</field>
+<field name="notes">17 leaves : illustrations ; 28 cm; Note(s): Cover title.; Other Titles:
+Cumulative record</field>
+<field name="publisher">Denver (Colorado) Public Schools. Department of Public Personnel</field>
+<field name="pub_place">Denver, CO</field>
+<field name="language">English</field>
+<field name="call_number">379.2 .D41c</field>
+<field name="state_country">Colorado </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Denver (Colorado) Public Schools</field>
+<field name="title">Report to parents, grades 1 and 2</field>
+<field name="year">1952</field>
+<field name="date">1952</field>
+<field name="keywords">Grading and marking</field>
+<field name="publisher">Denver (Colorado) Public Schools</field>
+<field name="pub_place">Denver, CO</field>
+<field name="language">English</field>
+<field name="call_number">379.2 .D41r</field>
+<field name="state_country">Colorado</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Inglewood (California) Unified School District</field>
+<field name="title">Report to parents for kindergarten</field>
+<field name="year">1954</field>
+<field name="date">09/1954</field>
+<field name="keywords">Grading and marking</field>
+<field name="publisher">Inglewood (California) Unified School District</field>
+<field name="pub_place">Inglewood, CA</field>
+<field name="language">English</field>
+<field name="call_number">379.2 .I51p</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">Kindergarten</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Inglewood (California) Unified School District</field>
+<field name="title">Report to parents for grades 1, 2 and 3</field>
+<field name="year">1954</field>
+<field name="date">09/1954</field>
+<field name="keywords">Grading and marking</field>
+<field name="publisher">Inglewood (California) Unified School District</field>
+<field name="pub_place">Inglewood, CA</field>
+<field name="language">English</field>
+<field name="call_number">379.2 .I51p</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Inglewood (California) Unified School District</field>
+<field name="title">Report to parents for grades 4, 5 and 6</field>
+<field name="year">1954</field>
+<field name="date">09/1954</field>
+<field name="keywords">Grading and marking</field>
+<field name="publisher">Inglewood (California) Unified School District</field>
+<field name="pub_place">Inglewood, CA</field>
+<field name="language">English</field>
+<field name="call_number">379.2 .I51p</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Inglewood (California) Unified School District</field>
+<field name="title">Report to parents for grades 7 and 8</field>
+<field name="year">1954</field>
+<field name="date">09/1954</field>
+<field name="keywords">Grading and marking</field>
+<field name="publisher">Inglewood (California) Unified School District</field>
+<field name="pub_place">Inglewood, CA</field>
+<field name="language">English</field>
+<field name="call_number">379.2 .I51p</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Denver (Colorado) Public Schools</field>
+<field name="title">Report to parents, grades 3-4-5-6</field>
+<field name="year">1954</field>
+<field name="date">1954</field>
+<field name="keywords">Grading and marking</field>
+<field name="publisher">Denver (Colorado) Public Schools</field>
+<field name="pub_place">Denver, CO</field>
+<field name="language">English</field>
+<field name="call_number">379.2 .D41r</field>
+<field name="state_country">Colorado</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Fresno County (California) Schools</field>
+<field name="title">Cumulative record card</field>
+<field name="keywords">Grading and marking</field>
+<field name="publisher">Fresno County (California) Schools</field>
+<field name="pub_place">Fresno, CA</field>
+<field name="language">English</field>
+<field name="call_number">379.2 .F88c</field>
+<field name="state_country">California </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Inyo (California) County Schools</field>
+<field name="title">Experimental report to parents</field>
+<field name="keywords">Grading and marking</field>
+<field name="publisher">Inyo (California) County Schools</field>
+<field name="language">English</field>
+<field name="call_number">379.2 .I63e</field>
+<field name="state_country">California </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Kern (California) County Schools</field>
+<field name="title">Kern County cumulative guidance record</field>
+<field name="keywords">Grading and marking</field>
+<field name="publisher">Kern (California) County Schools</field>
+<field name="language">English</field>
+<field name="call_number">379.2 .K39c</field>
+<field name="state_country">California </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Lassen (California) County Schools</field>
+<field name="title">California cumulative guidance record for elementary schools</field>
+<field name="keywords">Grading and marking</field>
+<field name="publisher">Lassen (California) County Schools</field>
+<field name="pub_place">Susanville, CA</field>
+<field name="language">English</field>
+<field name="call_number">379.2 .L34c</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Long Beach (California) Unified School District</field>
+<field name="title">Manual for preparing the elementary progress report</field>
+<field name="year">1966</field>
+<field name="date">1966</field>
+<field name="pages">13</field>
+<field name="keywords">Grading and marking</field>
+<field name="notes">13 p. ; 28 cm.; Responsibility: developed by a committee of parents, teachers,
+administrators, and school patrons of the Long Beach Unified School District under the supervision
+of Helene L. Rose.</field>
+<field name="publisher">Long Beach (California) Unified School District. Office of Curriculum
+Development, Division of Instruction</field>
+<field name="pub_place">Long Beach, CA</field>
+<field name="language">English</field>
+<field name="call_number">379.2 .L84m</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City School District</field>
+<field name="title">Conferencing : an approach to reporting pupil progress : guidelines for teachers
+in elementary schools, an instructional bulletin</field>
+<field name="year">1970</field>
+<field name="date">1970</field>
+<field name="pages">22</field>
+<field name="keywords">Parent-teacher conferences</field>
+<field name="keywords">Home and school</field>
+<field name="abstract">Teacher preparation -- Conducting the conference -- Conducting the group
+conference -- Conference record sheets, kindergarten : kindergarten conference sheet (narrative) :
+kindergarten conference sheet (checklist) -- Conference record sheets, grades one and two :
+conference record sheet, grades one and two (narrative) : conference record sheet, grades one and
+two (checklist).</field>
+<field name="notes">v; forms ; 21 cm.; Note(s): Cover title./ Publication no. EC-342./ Includes
+index.; Other Titles: Approach to reporting pupil progress; Guidelines for teachers in elementary
+schools, an instructional bulletin</field>
+<field name="publisher">Los Angeles (California) City Schools</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="language">English</field>
+<field name="call_number">379.2 .L87c</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles County (California) Superintendent of Schools</field>
+<field name="title">Outline for special study</field>
+<field name="year">1946</field>
+<field name="date">10/1946</field>
+<field name="keywords">Guidance</field>
+<field name="keywords">Counseling</field>
+<field name="publisher">Los Angeles County (California) Superintendent of Schools</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="language">English</field>
+<field name="call_number">379.2 .L87o</field>
+<field name="state_country">California </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City Schools</field>
+<field name="title">Criteria for marking in junior and senior high schools</field>
+<field name="year">1958</field>
+<field name="date">11/1958</field>
+<field name="keywords">Grading and marking</field>
+<field name="publisher">Los Angeles (California) City Schools</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="language">English</field>
+<field name="call_number">379.2 .L879c</field>
+<field name="state_country">California </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Manhasset (New York) Public Schools</field>
+<field name="title">Reporting to parents</field>
+<field name="year">1960</field>
+<field name="date">11/1960</field>
+<field name="pages">4</field>
+<field name="keywords">Grading and marking</field>
+<field name="publisher">Manhasset (New York) Public Schools</field>
+<field name="pub_place">Manhasset, NY</field>
+<field name="language">English</field>
+<field name="call_number">379.2 .M27r</field>
+<field name="state_country">New York </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Minneapolis (Minnesota) Public Schools</field>
+<field name="title">Progress report for kindergarten</field>
+<field name="year">1955</field>
+<field name="date">08/1955</field>
+<field name="keywords">Grading and marking</field>
+<field name="publisher">Minneapolis (Minnesota) Public Schools</field>
+<field name="pub_place">Minneapolis, MN</field>
+<field name="language">English</field>
+<field name="call_number">379.2 .M66p</field>
+<field name="state_country">Minnesota</field>
+<field name="grade_level_number">Kindergarten</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Minneapolis (Minnesota) Public Schools</field>
+<field name="title">Progress report for grade one</field>
+<field name="year">1955</field>
+<field name="date">08/1955</field>
+<field name="keywords">Grading and marking</field>
+<field name="publisher">Minneapolis (Minnesota) Public Schools</field>
+<field name="pub_place">Minneapolis, MN</field>
+<field name="language">English</field>
+<field name="call_number">379.2 .M66p</field>
+<field name="state_country">Minnesota</field>
+<field name="grade_level_number">1st grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Minneapolis (Minnesota) Public Schools</field>
+<field name="title">Progress report for grades 2 and 3</field>
+<field name="year">1955</field>
+<field name="date">08/1955</field>
+<field name="keywords">Grading and marking</field>
+<field name="publisher">Minneapolis (Minnesota) Public Schools</field>
+<field name="pub_place">Minneapolis, MN</field>
+<field name="language">English</field>
+<field name="call_number">379.2 .M66p</field>
+<field name="state_country">Minnesota</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Minneapolis (Minnesota) Public Schools</field>
+<field name="title">Progress report for grades 4,5,6</field>
+<field name="year">1955</field>
+<field name="date">08/1955</field>
+<field name="keywords">Grading and marking</field>
+<field name="publisher">Minneapolis (Minnesota) Public Schools</field>
+<field name="pub_place">Minneapolis, MN</field>
+<field name="language">English</field>
+<field name="call_number">379.2 .M66p</field>
+<field name="state_country">Minnesota</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Monterey County (California) Schools</field>
+<field name="title">Parent teacher conferences for reporting pupil progress: a handbook</field>
+<field name="year">1959</field>
+<field name="date">1959</field>
+<field name="pages">31</field>
+<field name="keywords">Parent-teacher conferences</field>
+<field name="publisher">Monterey County (California) Schools</field>
+<field name="language">English</field>
+<field name="call_number">379.2 .M77p</field>
+<field name="state_country">California </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Napa County (California) Schools</field>
+<field name="title">Report to parents, grades 1-2</field>
+<field name="keywords">Grading and marking</field>
+<field name="publisher">Napa County (California) Schools</field>
+<field name="pub_place">Napa, CA</field>
+<field name="language">English</field>
+<field name="call_number">379.2 .N19r</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Napa County (California) Schools</field>
+<field name="title">Report to parents, grades 3-4-5-6-7-8</field>
+<field name="keywords">Grading and marking</field>
+<field name="publisher">Napa County (California) Schools</field>
+<field name="pub_place">Napa, CA</field>
+<field name="language">English</field>
+<field name="call_number">379.2 .N19r</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Niagara Falls (New York) Department of Education</field>
+<field name="title">Kindergarten report card</field>
+<field name="keywords">Grading and marking</field>
+<field name="publisher">Niagara Falls (New York) Department of Education</field>
+<field name="pub_place">Niagara Falls, NY</field>
+<field name="language">English</field>
+<field name="call_number">379.2 .N57r</field>
+<field name="state_country">New York</field>
+<field name="grade_level_number">Kindergarten</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Niagara Falls (New York) Department of Education</field>
+<field name="title">Progress report: primary - first grade</field>
+<field name="keywords">Grading and marking</field>
+<field name="publisher">Niagara Falls (New York) Department of Education</field>
+<field name="pub_place">Niagara Falls, NY</field>
+<field name="language">English</field>
+<field name="call_number">379.2 .N57r</field>
+<field name="state_country">New York</field>
+<field name="grade_level_number">1st grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Niagara Falls (New York) Department of Education</field>
+<field name="title">Progress report: primary - second and third grades</field>
+<field name="keywords">Grading and marking</field>
+<field name="publisher">Niagara Falls (New York) Department of Education</field>
+<field name="pub_place">Niagara Falls, NY</field>
+<field name="language">English</field>
+<field name="call_number">379.2 .N57r</field>
+<field name="state_country">New York</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Niagara Falls (New York) Department of Education</field>
+<field name="title">Progress report: intermediate grades - fourth, fifth and sixth</field>
+<field name="keywords">Grading and marking</field>
+<field name="publisher">Niagara Falls (New York) Department of Education</field>
+<field name="pub_place">Niagara Falls, NY</field>
+<field name="language">English</field>
+<field name="call_number">379.2 .N57r</field>
+<field name="state_country">New York</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Niagara Falls (New York) Department of Education</field>
+<field name="title">Teacher's guide in marking report cards</field>
+<field name="keywords">Grading and marking</field>
+<field name="publisher">Niagara Falls (New York) Department of Education</field>
+<field name="pub_place">Niagara Falls, NY</field>
+<field name="language">English</field>
+<field name="call_number">379.2 .N57r</field>
+<field name="state_country">New York </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">North Carolina State Department of Public Instruction</field>
+<field name="title">Child accounting and school attendance</field>
+<field name="year">1954</field>
+<field name="pages">55</field>
+<field name="keywords">Compulsory education</field>
+<field name="keywords">School attendance</field>
+<field name="notes">forms ; 23 cm.; </field>
+<field name="series_title">Publication (North Carolina. Department of Public Instruction)</field>
+<field name="series_vol">333</field>
+<field name="publisher">North Carolina State Department of Public Instruction</field>
+<field name="pub_place">Raleigh, NC</field>
+<field name="language">English</field>
+<field name="call_number">379.2 .N86c</field>
+<field name="state_country">North Carolina </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Leavitt, Jerome</field><field name="author_nat">Jerome Leavitt</field>
+<field name="title">Evaluating and reporting pupil progress</field>
+<field name="year">1969</field>
+<field name="date">08/1969</field>
+<field name="pages">16</field>
+<field name="keywords">Grading and marking</field>
+<field name="series_title">University of Oregon. College of Education. Curriculum Bulletin</field>
+<field name="series_vol">25</field>
+<field name="issue">305</field>
+<field name="publisher">University of Oregon. College of Education</field>
+<field name="pub_place">Eugene, OR</field>
+<field name="language">English</field>
+<field name="call_number">379.2 .O67e </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Anastasiow, Nicholas J.</field><field name="author_nat">Nicholas J. Anastasiow</field>
+<field name="title">Evaluation of the elementary school report card</field>
+<field name="year">1963</field>
+<field name="date">11/1963</field>
+<field name="pages">6</field>
+<field name="keywords">Grading and marking</field>
+<field name="publisher">Palo Alto (California) Unified School District</field>
+<field name="pub_place">Palo Alto, CA</field>
+<field name="language">English</field>
+<field name="call_number">379.2 .P18e</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Anastasiow, Nicholas J.</field><field name="author_nat">Nicholas J. Anastasiow</field>
+<field name="title">Experimental use of a modified elementary report card</field>
+<field name="year">1963</field>
+<field name="date">11/1963</field>
+<field name="pages">9</field>
+<field name="keywords">Grading and marking</field>
+<field name="publisher">Palo Alto (California) Unified School District</field>
+<field name="pub_place">Palo Alto, CA</field>
+<field name="language">English</field>
+<field name="call_number">379.2 .P18e</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Gelatt, H. B.</field><field name="author_nat">H. B. Gelatt</field>
+<field name="corp_author">Palo Alto (California) Unified School District. Elementary Schools</field>
+<field name="title">Parent-teacher conference guide</field>
+<field name="year">1958</field>
+<field name="date">10/1958</field>
+<field name="pages">18</field>
+<field name="keywords">Parent-teacher conferences</field>
+<field name="publisher">Palo Alto (California) Unified School District</field>
+<field name="pub_place">Palo Alto, CA</field>
+<field name="language">English</field>
+<field name="call_number">379.2 .P18p</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Paterson (New Jersey) Board of Education</field>
+<field name="title">Marking manual for elementary schools</field>
+<field name="year">1958</field>
+<field name="date">1958-1959</field>
+<field name="pages">25</field>
+<field name="keywords">Grading and marking</field>
+<field name="publisher">Paterson (New Jersey) Board of Education</field>
+<field name="pub_place">Paterson, NJ</field>
+<field name="language">English</field>
+<field name="call_number">379.2 .P29m</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Riverside (California) City Schools</field>
+<field name="title">Reporting to parents: an elementary teachers guide</field>
+<field name="year">1958</field>
+<field name="date">1958-1959</field>
+<field name="pages">48</field>
+<field name="keywords">Grading and marking</field>
+<field name="publisher">Riverside (California) City Schools</field>
+<field name="pub_place">Riverside, CA</field>
+<field name="language">English</field>
+<field name="call_number">379.2 .R62r</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Riverside (California) City Schools</field>
+<field name="title">Grades 1-2 [progress report]</field>
+<field name="keywords">Grading and marking</field>
+<field name="publisher">Riverside (California) City Schools</field>
+<field name="pub_place">Riverside, CA</field>
+<field name="language">English</field>
+<field name="call_number">379.2 .R62t</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">San Diego County (California) Schools</field>
+<field name="title">Report to parents</field>
+<field name="year">1951</field>
+<field name="date">1951</field>
+<field name="keywords">Grading and marking</field>
+<field name="publisher">San Diego County (California) Schools</field>
+<field name="pub_place">San Diego, CA</field>
+<field name="language">English</field>
+<field name="call_number">379.2 .S15r</field>
+<field name="grade_level_number">Kindergarten</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Cooley, Robert</field><field name="author_nat">Robert Cooley</field>
+<field name="author">Pappin, Malcolm C.</field><field name="author_nat">Malcolm C. Pappin</field>
+<field name="title">Reporting and recording pupil progress in the elementary school : a guide for
+conferencing on pupil progress, pupil growth reports, record keeping</field>
+<field name="year">1972</field>
+<field name="date">1972</field>
+<field name="pages">65</field>
+<field name="keywords">Grading and marking</field>
+<field name="keywords">Parent-teacher conferences</field>
+<field name="keywords">Student records</field>
+<field name="notes">vi; ill., forms ; 28 cm.; Note(s): Unedited./ Stock No. 41-R-8800.;
+Responsibility: prepared by Robert Cooley and Malcolm C Pappin.</field>
+<field name="publisher">San Diego (California) City Schools</field>
+<field name="pub_place">San Diego, CA</field>
+<field name="language">English</field>
+<field name="call_number">379.2 .S19r</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">San Francisco (California) Unified School District</field>
+<field name="title">Progress report for grades one, two, and three</field>
+<field name="year">1955</field>
+<field name="date">07/1955</field>
+<field name="keywords">Grading and marking</field>
+<field name="publisher">San Francisco (California) Unified School District</field>
+<field name="pub_place">San Francisco, CA</field>
+<field name="language">English</field>
+<field name="call_number">379.2 .S195p</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">San Joaquin County (California) Schools</field>
+<field name="title">Tentative teachers' guide to reporting to parents</field>
+<field name="year">1952</field>
+<field name="date">09/1952</field>
+<field name="pages">29</field>
+<field name="keywords">Grading and marking</field>
+<field name="keywords">Parent-teacher conferences</field>
+<field name="keywords">Student records</field>
+<field name="publisher">San Joaquin County (California) Schools</field>
+<field name="language">English</field>
+<field name="call_number">379.2 .S195t</field>
+<field name="state_country">California </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">San Luis Obispo County (California) Schools</field>
+<field name="title">Criteria for cumulative guidance records</field>
+<field name="keywords">Guidance</field>
+<field name="publisher">San Luis Obispo County (California) Schools</field>
+<field name="pub_place">San Luis Obispo, CA</field>
+<field name="language">English</field>
+<field name="call_number">379.2 .S196c</field>
+<field name="state_country">California </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">South Huntington (New York) Schools</field>
+<field name="title">Teacher's guide for reporting pupil progress</field>
+<field name="keywords">Grading and marking</field>
+<field name="keywords">Parent-teacher conferences</field>
+<field name="keywords">Student records</field>
+<field name="publisher">South Huntington (New York) Schools</field>
+<field name="pub_place">Huntington Station, NY</field>
+<field name="language">English</field>
+<field name="call_number">379.2 .S72t</field>
+<field name="state_country">New York </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Tulare County (California) Schools</field>
+<field name="title">Pupil growth record</field>
+<field name="keywords">Grading and marking</field>
+<field name="keywords">Student records</field>
+<field name="publisher">Tulare County (California) Schools</field>
+<field name="language">English</field>
+<field name="call_number">379.2 .T91p</field>
+<field name="state_country">California </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Ventura County (California) Schools</field>
+<field name="title">Plan for reporting to parents</field>
+<field name="keywords">Grading and marking</field>
+<field name="keywords">Parent-teacher conferences</field>
+<field name="keywords">Student records</field>
+<field name="publisher">Ventura County (California) Schools</field>
+<field name="language">English</field>
+<field name="call_number">379.2 .V44p</field>
+<field name="state_country">California </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Chula Vista (California) City School District</field>
+<field name="title">The spirit of Christmas expressed in art activities</field>
+<field name="year">1962</field>
+<field name="date">11/1962</field>
+<field name="keywords">Art</field>
+<field name="keywords">Christmas</field>
+<field name="notes">ill. ; 28 cm.; Note(s): Includes bibliographical references.; Other Titles:
+Christmas expressed in art activities.</field>
+<field name="publisher">Chula Vista (California) City School District</field>
+<field name="pub_place">Chula Vista, CA</field>
+<field name="language">English</field>
+<field name="call_number">390 .C55s</field>
+<field name="state_country">California </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Glasgow, Noel D.</field><field name="author_nat">Noel D. Glasgow</field>
+<field name="author">Edwards, Dorothy A.</field><field name="author_nat">Dorothy A. Edwards</field>
+<field name="corp_author">California State Department of Education</field>
+<field name="title">Courses offered by California private schools</field>
+<field name="year">1965</field>
+<field name="date">07/1965</field>
+<field name="pages">59</field>
+<field name="keywords">Vocational education</field>
+<field name="notes">59 pages 23 cm; Responsibility: edited by Noel D. Glasgow and Dorothy A.
+Edwards.</field>
+<field name="publisher">California State Department of Education</field>
+<field name="pub_place">Sacramento, CA</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .C15c</field>
+<field name="state_country">California </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">New York State University. Bureau of Field Financial Services</field>
+<field name="title">Insurance</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="pages">96</field>
+<field name="keywords">Insurance</field>
+<field name="notes">ill. ; 26 cm.</field>
+<field name="series_title">School business management handbook</field>
+<field name="series_vol">2</field>
+<field name="publisher">New York State University. Bureau of Field Financial Services</field>
+<field name="pub_place">Albany, NY</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .N43b v. 2 </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">New York State University. Bureau of Field Financial Services</field>
+<field name="title">Budget</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="pages">212</field>
+<field name="keywords">Budgets</field>
+<field name="notes">ill. ; 26 cm.</field>
+<field name="series_title">School business management handbook</field>
+<field name="series_vol">3</field>
+<field name="publisher">New York State University. Bureau of Field Financial Services</field>
+<field name="pub_place">Albany, NY</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .N43b v. 3 </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Philadelphia (Pennsylvania) Public Schools</field>
+<field name="title">World trade and Point four</field>
+<field name="year">1950</field>
+<field name="date">09/1950</field>
+<field name="pages">42</field>
+<field name="keywords">Social sciences</field>
+<field name="notes">42 leaves : ill. ; 29 cm.; Note(s): Cover title./ "Much of the credit for the
+initiation of this project belongs to the Joint Council on Economic Education."--Introd./ Includes
+bibliographical references : l. 37-42.</field>
+<field name="publisher">Philadelphia (Pennsylvania) Public Schools</field>
+<field name="pub_place">Philadelphia, PA</field>
+<field name="language">English</field>
+<field name="call_number">382 .P54w</field>
+<field name="state_country">Pennsylvania </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Burbank (California) Unified School District</field>
+<field name="title">Unit plan for the post office, grade 2 - 3</field>
+<field name="year">1959</field>
+<field name="date">09/1959</field>
+<field name="keywords">Social sciences</field>
+<field name="publisher">Burbank (California) Unified School District</field>
+<field name="pub_place">Burbank, CA</field>
+<field name="language">English</field>
+<field name="call_number">383 .B94p</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Pasadena (California) City Schools</field>
+<field name="title">Carrying the mail</field>
+<field name="year">1953</field>
+<field name="date">09/1953</field>
+<field name="pages">5</field>
+<field name="keywords">Teaching aids</field>
+<field name="publisher">Pasadena (California) City Schools</field>
+<field name="pub_place">Pasadena, CA</field>
+<field name="language">English</field>
+<field name="call_number">383 .P27c</field>
+<field name="state_country">California </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of the State of New York. Division of Educational Management
+Services</field>
+<field name="title">Accounting &amp;reporting</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="pages">144</field>
+<field name="keywords">Schools</field>
+<field name="keywords">Accounting</field>
+<field name="keywords">School reports</field>
+<field name="notes">144 p. illus. 26 cm.; Note(s): Issued by the division under an earlier name:
+Bureau of Field Financial Services.</field>
+<field name="series_title">University of the State of New York.; Division of Educational Management
+Services.; School business management handbook</field>
+<field name="series_vol">4</field>
+<field name="publisher">University of the State of New York. Division of Educational Management
+Services</field>
+<field name="pub_place">Albany, NY</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .N43b v. 4 </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Garrett County (Maryland) Board of Education</field>
+<field name="title">Christmas bulletin</field>
+<field name="year">1954</field>
+<field name="date">12/1954</field>
+<field name="pages">89</field>
+<field name="keywords">Christmas</field>
+<field name="publisher">Garrett County (Maryland) Board of Education</field>
+<field name="language">English</field>
+<field name="call_number">390 .G23c</field>
+<field name="state_country">Maryland </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Hallmark Cards</field>
+<field name="title">May Day celebrations for children</field>
+<field name="pages">20</field>
+<field name="keywords">Holidays</field>
+<field name="publisher">Hallmark Cards</field>
+<field name="language">English</field>
+<field name="call_number">390 .H19m </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Hess, Helen</field><field name="author_nat">Helen Hess</field>
+<field name="title">Christmas unit</field>
+<field name="year">1958</field>
+<field name="date">02/1958</field>
+<field name="keywords">Christmas</field>
+<field name="keywords">Holidays</field>
+<field name="publisher">Jefferson School</field>
+<field name="pub_place">Menasha, WI</field>
+<field name="language">English</field>
+<field name="call_number">390 .M53c</field>
+<field name="state_country">Wisconsin</field>
+<field name="grade_level_number">Kindergarten</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Hess, Helen</field><field name="author_nat">Helen Hess</field>
+<field name="title">Seasons</field>
+<field name="year">1958</field>
+<field name="date">03/1958</field>
+<field name="keywords">Seasons</field>
+<field name="publisher">Jefferson School</field>
+<field name="pub_place">Menasha, WI</field>
+<field name="language">English</field>
+<field name="call_number">390 .M53c</field>
+<field name="state_country">Wisconsin</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Miller, Bruce</field><field name="author_nat">Bruce Miller</field>
+<field name="title">Let's celebrate a holiday! [Sources of free materials on holidays, festivals,
+and special occasions]</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="pages">24</field>
+<field name="keywords">Holidays</field>
+<field name="notes">24 p. 24 cm.</field>
+<field name="publisher">Riverside (California) Superintendent of Schools</field>
+<field name="pub_place">Riverside, CA</field>
+<field name="language">English</field>
+<field name="call_number">390 .M64L</field>
+<field name="state_country">California </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Milwaukee (Wisconsin) Public Schools</field>
+<field name="title">Social studies in the primary school</field>
+<field name="year">1952</field>
+<field name="date">1952</field>
+<field name="pages">23</field>
+<field name="keywords">Social sciences</field>
+<field name="abstract">[v. 1]. Holiday celebrations as learning experiences.</field>
+<field name="notes">v. ; 28 cm.; Note(s): Cover title./ Includes bibliographies.</field>
+<field name="series_title">Milwaukee. Public Schools. Curriculum bulletin</field>
+<field name="series_vol">9</field>
+<field name="issue">7</field>
+<field name="publisher">Milwaukee (Wisconsin) Public Schools</field>
+<field name="pub_place">Milwaukee, WI</field>
+<field name="language">English</field>
+<field name="call_number">390 .M66h</field>
+<field name="state_country">Wisconsin</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Modesto (California) City Schools</field>
+<field name="title">Living with children at Christmas time through art, music and language</field>
+<field name="year">1953</field>
+<field name="date">1953</field>
+<field name="pages">35</field>
+<field name="keywords">Christmas</field>
+<field name="keywords">Holidays</field>
+<field name="keywords">Art</field>
+<field name="keywords">Music</field>
+<field name="keywords">English language</field>
+<field name="publisher">Modesto (California) City Schools</field>
+<field name="pub_place">Modesto, CA</field>
+<field name="language">English</field>
+<field name="call_number">390 .M69L</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Dole, Dorothy</field><field name="author_nat">Dorothy Dole</field>
+<field name="author">Curnow, Ethel</field><field name="author_nat">Ethel Curnow</field>
+<field name="author">Kelly, Gladys</field><field name="author_nat">Gladys Kelly</field>
+<field name="author">Ridge, Winifred</field><field name="author_nat">Winifred Ridge</field>
+<field name="title">Primary social studies: our holidays</field>
+<field name="pages">17</field>
+<field name="keywords">Social sciences</field>
+<field name="keywords">Holidays</field>
+<field name="publisher">Phoenix (Arizona) Elementary Schools</field>
+<field name="pub_place">Phoenix, AZ</field>
+<field name="language">English</field>
+<field name="call_number">390 .P57o</field>
+<field name="state_country">Arizona</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Racine (Wisconsin) Unified School District</field>
+<field name="title">Science unit</field>
+<field name="year">1961</field>
+<field name="date">09/1961</field>
+<field name="keywords">Science</field>
+<field name="publisher">Racine (Wisconsin) Unified School District</field>
+<field name="pub_place">Racine, WI</field>
+<field name="language">English</field>
+<field name="call_number">390 .R12s</field>
+<field name="state_country">Wisconsin</field>
+<field name="grade_level_number">Kindergarten</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Yolo (California) County Schools</field>
+<field name="title">Peace on earth</field>
+<field name="year">1953</field>
+<field name="date">12/1953</field>
+<field name="keywords">Christmas</field>
+<field name="keywords">Holidays</field>
+<field name="publisher">Yolo (California) County Schools</field>
+<field name="language">English</field>
+<field name="call_number">390 .Y54p</field>
+<field name="state_country">California </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">United States George Washington Bicentennial Commission</field>
+<field name="title">George Washington play and pageant costume book ..</field>
+<field name="year">1931</field>
+<field name="date">1931</field>
+<field name="pages">24</field>
+<field name="keywords">Children's costumes</field>
+<field name="keywords">Washington, George, 1732-1799</field>
+<field name="keywords">Drama</field>
+<field name="abstract">pt. I. costume in the time of George Washington.--pt. II. Military uniforms
+and stage properties.</field>
+<field name="notes">24 p. illus. 31 cm.; Note(s): "2nd ed."/ "Authorities consulted": p. 24.</field>
+<field name="publisher">United States George Washington bicentennial commission</field>
+<field name="pub_place">Washington, D.C</field>
+<field name="language">English</field>
+<field name="call_number">391.0973 .U58f </field>
+</doc>
+</add>

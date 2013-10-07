@@ -1,0 +1,1566 @@
+
+
+
+
+TY  - BOOK
+A2  - Committee on Assessing the Progress of Education
+T1  - National assessment of educational progress: writing objectives
+Y1  - 1969
+D1  - 1969
+SP  - 19
+KW  - English language
+KW  - Writing
+N1  - 19 p. 23 cm.; Other Titles: Writing objectives.
+PB  - Committee on Assessing the Progress of Education
+CY  - Ann Arbor, MI
+LA  - English
+CN  - 375 .N27o v. 3
+ER  - 
+
+TY  - BOOK
+A2  - Committee on Assessing the Progress of Education
+T1  - National assessment of educational progress : citizenship objectives
+Y1  - 1969
+D1  - 1969
+SP  - 57
+KW  - Civics
+N1  - 57 p. ; 24 cm.; Other Titles: Citizenship objectives. 
+PB  - Committee on Assessing the Progress of Education
+CY  - Ann Arbor, MI
+LA  - English
+CN  - 375 .N27o v. 1
+ER  - 
+
+TY  - BOOK
+A2  - Committee on Assessing the Progress of Education
+T1  - National assessment of educational progress : science objectives
+Y1  - 1969
+D1  - 1969
+SP  - 33
+KW  - Science
+N1  - 33 p. ; 23 cm.; Note(s): Includes bibliographical references.; Other Titles: Science objectives 
+PB  - Committee on Assessing the Progress of Education
+CY  - Ann Arbor, MI
+LA  - English
+CN  - 375 .N27o v. 2
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - National Assessment of Educational Progress (Project)
+A2  - Education Commission of the States
+T1  - Literature objectives
+Y1  - 1970
+D1  - 1970
+SP  - 21
+KW  - Literature
+N1  - 21 p. ; 23 cm.; Note(s): "This publication was prepared pursuant to Grant No. OEG-0-9-080771-2468(508) with the Office of Education, U.S. Department of Health, Education, and Welfare"--T.p. verso.
+PB  - National Assessment of Educational Progress
+CY  - Ann Arbor, MI
+LA  - English
+CN  - 375 .N27o v. 4
+ER  - 
+
+TY  - BOOK
+A2  - National Assessment of Educational Progress (Project)
+A2  - Education Commission of the States
+T1  - Mathematics objectives
+Y1  - 1970
+D1  - 1970
+SP  - 35
+KW  - Mathematical ability
+KW  - Academic achievement
+KW  - Statistics
+KW  - Educational tests and measurements
+KW  - Mathematics
+N1  - 35 p. ; 23 cm.; Note(s): "A project of the Education Commission of the States."
+PB  - National Assessment of Educational Progress
+CY  - Ann Arbor, MI
+LA  - English
+CN  - 375 .N27o v. 5
+ER  - 
+
+TY  - BOOK
+A2  - National Assessment of Educational Progress (Project)
+T1  - Art objectives
+Y1  - 1971
+D1  - 1971
+SP  - 27
+KW  - Art
+N1  - 27 p. ; 23 cm.; Responsibility: National Assessment of Educational Progress. 
+PB  - National Assessment of Educational Progress
+CY  - Ann Arbor, MI
+LA  - English
+CN  - 375. N27o  v. 9
+ER  - 
+
+TY  - BOOK
+A2  - National Assessment of Educational Progress (Project)
+T1  - Music objectives
+Y1  - 1970
+D1  - 1970
+SP  - 23
+KW  - Music
+KW  - Educational tests and measurements
+N1  - 23 p. ; 23 cm.; Note(s): A project of the Education Commission of the States./ This publication was prepared pursuant to Grant No. OEG-0-9-080771-2468(508)--with the Office of Education, U.S. Department of Health, Education, and Welfare.
+PB  - National Assessment of Educational Progress
+CY  - Ann Arbor, MI
+LA  - English
+CN  - 375 .N27o v. 6
+ER  - 
+
+TY  - BOOK
+A2  - National Assessment of Educational Progress (Project)
+A2  - Education Commission of the States
+T1  - Reading objectives
+Y1  - 1970
+D1  - 1970
+SP  - 34
+KW  - Reading
+KW  - Reading comprehension
+N1  - 34 p. ; 23 cm.; Note(s): "A project of the Education Commission of the States."/ "This publication was prepared pursuant to grant no. OEG-0-9-080771-2468(010)--with the Office of Education, U.S. Department of Health, Education, and Welfare."
+PB  - National Assessment of Educational Progress
+CY  - Ann Arbor, MI
+LA  - English
+CN  - 375 .N27o v. 7
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - National Assessment of Educational Progress (Project)
+A2  - Education Commission of the States
+T1  - Social studies objectives
+Y1  - 1970
+D1  - 1970
+SP  - 37
+KW  - Social sciences
+N1  - 37 p. 23 cm.; Note(s): A project of the Education Commission of the States.
+PB  - National Assessment of Educational Progress
+CY  - Ann Arbor, MI
+LA  - English
+CN  - 375 .N27o v. 8
+ER  - 
+
+TY  - BOOK
+A2  - National Assessment of Educational Progress (Project)
+A2  - Education Commission of the States
+T1  - Objectives for career and occupational development
+Y1  - 1971
+D1  - 1971
+SP  - 75
+KW  - Vocational education
+KW  - Curriculum planning
+KW  - Educational tests and measurements
+N1  - 75 p. ; 23 cm.; Note(s): "A project of the Education Commission of the States."/ On cover: Career and occupational development objectives./ Funded by and under contract with U.S. National Center for Education Statistics.; Other Titles: Career and occupational development objective
+PB  - National Assessment of Educational Progress
+CY  - Denver, CO
+LA  - English
+CN  - 375 .N27o v. 10
+ER  - 
+
+TY  - BOOK
+A1  - Jesser, David L.
+A2  - Western States Small Schools Project for Nevada
+T1  - Promising practices for improving classroom atmosphere and pupil motivation for learning; volume 1: language arts
+Y1  - 1967
+D1  - 09/1967
+SP  - 117
+KW  - Language arts
+N1  - v. 28 cm.; Other Titles: Promising practices for improving classroom atmosphere and pupil motivation for learning.; Responsibility: David L. Jesser, director.
+PB  - Nevada State Department of Education
+CY  - Carson City, NV
+LA  - English
+CN  - 375 .N49p v. 1
+SC  - Nevada
+ER  - 
+
+TY  - BOOK
+A2  - National Assessment of Educational Progress (Project)
+T1  - Observations and commentary of a panel of reviewers: Rept. 2. Citizenship: national results--partial
+Y1  - 1970
+D1  - 07/1970
+SP  - 30
+KW  - Curricula
+KW  - Citizenship
+N1  - v. 28 cm.; Note(s): Includes bibliographical references.
+PB  - National Assessment of Educational Progress
+CY  - Denver, CO
+LA  - English
+CN  - 375 .N27oc v. 2
+ER  - 
+
+TY  - BOOK
+A2  - New England Educational Assessment Project
+T1  - Innovative practices in New England schools
+Y1  - 1969
+D1  - 08/1969
+SP  - 58
+KW  - Educational innovations
+KW  - Public schools
+N1  - ill. ; 28 cm.; Note(s): "August 1969".
+PB  - New England Educational Assessment Project
+CY  - Providence, RI
+LA  - English
+CN  - 375 .N50i
+ER  - 
+
+TY  - BOOK
+A1  - Digneo, Ellen Hartnett
+A2  - Western States Small Schools Project in New Mexico
+T1  - Annual progress report, 1965-66
+Y1  - 1965
+D1  - 1965-1966
+SP  - 84
+KW  - Educational innovations
+PB  - New Mexico State Department of Education
+CY  - Santa Fe, NM
+LA  - English
+CN  - 375 .N52a
+SC  - New Mexico
+ER  - 
+
+TY  - BOOK
+A2  - New York (New York). Bureau of Curriculum Research
+T1  - Curriculum design of the New York City schools
+Y1  - 1956
+D1  - 1956
+SP  - 20
+KW  - Curricula
+KW  - Curriculum planning
+N1  - 20 p. 31 cm.
+PB  - New York City Board of Education
+CY  - New York
+LA  - English
+CN  - 375 .N53cu
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A1  - Bristow, William Harvey
+A1  - Furman, Dorothy
+T1  - The unit in curriculum development and instruction
+Y1  - 1956
+D1  - 08/1956
+SP  - 32
+KW  - Curriculum planning
+KW  - Teaching
+N1  - 32 p. 23 cm.; Note(s): "The manuscript was prepared by William H. Bristow and Dorothy Furman."/ Includes bibliographical references.
+T2  - New York (N.Y.).; Board of Education.; Bureau of Curriculum Research.; Curriculum research report.
+PB  - New York City Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 375 .N53u
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - North Carolina State Board of Education
+T1  - A Guide to curriculum study : a course outline
+Y1  - 1958
+D1  - 1958
+SP  - 40
+KW  - Educational surveys
+KW  - Public schools
+N1  - vi, 40 leaves ; Note(s): Cover title./ Includes bibliographical references.
+PB  - North Carolina State Board of Education
+CY  - Raleigh, NC
+LA  - English
+CN  - 375 .N86g v. 2
+SC  - North Carolina
+ER  - 
+
+TY  - BOOK
+A1  - Salter, Ruth
+A1  - Kowitz, Gerald T.
+T1  - Experimental programs in the public schools : a report on research projects supported by the New York State Education Department
+Y1  - 1961
+D1  - 12/1961
+SP  - 18
+KW  - Experimental methods
+N1  - ill. ; 23 cm.; Responsibility: by Ruth Salter, education aide and Gerald T. Kowitz, coordinator, experimental programs. 
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 375 .N53e
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - Educational Products Information Exchange Institute
+T1  - Evaluation practices used in the selection of educational materials and equipment
+Y1  - 1969
+D1  - 12/1969
+SP  - 106
+KW  - Evaluation
+KW  - Teaching materials
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 375 .N53ep
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - Norfolk (Virginia) City Schools
+T1  - Handbook for the Norfolk City Schools
+Y1  - 1967
+D1  - 1967
+SP  - 94
+KW  - Public schools
+KW  - Curriculum planning
+PB  - Norfolk (Virginia) City Schools
+CY  - Norfolk, VA
+LA  - English
+CN  - 375 .N83h
+SC  - Virginia
+ER  - 
+
+TY  - BOOK
+A1  - Finkelstein, Elsie L.
+A1  - McCowan, Richard J.
+T1  - Assessment and evaluation handbook, title 1, ESEA
+Y1  - 1967
+D1  - 1967-1968
+SP  - 128
+KW  - Educational surveys
+N1  - vi; 28 cm.; Note(s): Bibliography: p. 119-128./ Responsibility: [Written and compiled by Elsie L. Finkelstein in cooperation with Richard J. McCowan] 
+PB  - University of the State of New York, State Education Department, Office of Research and Evaluation
+CY  - Albany, NY
+LA  - English
+CN  - 375 .N53a
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Elementary Curriculum Development
+T1  - Charting the curriculum in New York State schools
+Y1  - 1954
+D1  - 1954?
+SP  - 25
+KW  - Curricula
+N1  - 25 p. diagrs. 23 x 28 cm.; Responsibility: prepared by Bureau[s] of Elementary Curriculum Development ... Secondary Curriculum Development ... [and] Vocational Curriculum Development, New York State Education Dept. 
+PB  - New York State Education Department
+CY  - Albany, NY
+LA  - English
+CN  - 375 .N53cw
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A1  - Lewis,Lois Matheson
+T1  - The relationship of achievement to reported self concept and behavior ratings by teachers
+Y1  - 1968
+SP  - 11
+KW  - Academic achievement
+KW  - Teachers
+T2  - Occasional papers
+V1  - 2
+IS  - 4
+PB  - Oakland (Michigan) Schools
+CY  - Pontiac, MI
+LA  - English
+CN  - 375 .O11o v. II, no. 4
+ER  - 
+
+TY  - BOOK
+A1  - Samph, Thomas
+T1  - The role of the observer and his effects on teacher classroom behavior
+SP  - 22
+KW  - Teachers
+N1  - 22 p.; Responsibility: Thomas Samph.
+T2  - Occasional papers
+V1  - 2
+IS  - 1
+PB  - Oakland (Michigan) Schools
+CY  - Pontiac, MI
+LA  - English
+CN  - 375 .O11o v. II, no. 1
+ER  - 
+
+TY  - BOOK
+A1  - Fleury, Clarence
+A1  - Roth, Rodney W.
+T1  - Predicting success in French
+SP  - 8
+KW  - French
+T2  - Occasional papers
+V1  - 2
+IS  - 2
+PB  - Oakland (Michigan) Schools
+CY  - Pontiac, MI
+LA  - English
+CN  - 375 .O11o v. II, no. 2
+ER  - 
+
+TY  - BOOK
+A1  - Elliott, Katherine
+T1  - Appalachian children in urban schools
+SP  - 12
+KW  - Public schools
+T2  - Occasional papers
+V1  - 2
+IS  - 3
+PB  - Oakland (Michigan) Schools
+CY  - Pontiac, MI
+LA  - English
+CN  - 375 .O11o v. II, no. 3
+ER  - 
+
+TY  - BOOK
+A1  - Thompson, Lois
+A1  - Hilaire, Philip G.
+T1  - I.T.A. a review and an assessment
+SP  - 7
+KW  - Assessment
+T2  - Occasional papers
+V1  - 2
+IS  - 5
+PB  - Oakland (Michigan) Schools
+CY  - Pontiac, MI
+LA  - English
+CN  - 375 .O11o v. II, no. 5
+ER  - 
+
+TY  - BOOK
+A1  - Hungerman, Ann D.
+T1  - New elementary mathematics
+SP  - 18
+KW  - Mathematics
+T2  - Occasional papers
+V1  - 2
+IS  - 6
+PB  - Oakland (Michigan) Schools
+CY  - Pontiac, MI
+LA  - English
+CN  - 375 .O11o v. II, no. 6
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Robertson, William J.
+T1  - An individualized instruction program
+SP  - 12
+KW  - Individualized instruction
+T2  - Occasional papers
+V1  - 2
+IS  - 7
+PB  - Oakland (Michigan) Schools
+CY  - Pontiac, MI
+LA  - English
+CN  - 375 .O11o v. II, no. 7
+ER  - 
+
+TY  - BOOK
+A1  - Roth, Rodney
+T1  - Black studies: three-fourths effective
+SP  - 11
+KW  - African Americans
+T2  - Occasional papers
+V1  - 2
+IS  - 8
+PB  - Oakland (Michigan) Schools
+CY  - Pontiac, MI
+LA  - English
+CN  - 375 .O11o v. II, no. 8
+ER  - 
+
+TY  - BOOK
+A1  - Piwko, Robert J.
+T1  - Evaluating education outcomes: Ferndale looks at its early mathematics program
+SP  - 5
+KW  - Mathematics
+KW  - Evaluation
+T2  - Occasional papers
+V1  - 2
+IS  - 9
+PB  - Oakland (Michigan) Schools
+CY  - Pontiac, MI
+LA  - English
+CN  - 375 .O11o v. II, no. 9
+ER  - 
+
+TY  - BOOK
+A1  - Cowan, Ronald A.
+T1  - High school pot heads - how do they stack up?
+SP  - 10
+KW  - Drug abuse
+T2  - Occasional papers
+V1  - 2
+IS  - 10
+PB  - Oakland (Michigan) Schools
+CY  - Pontiac, MI
+LA  - English
+CN  - 375 .O11o v. II, no. 10
+ER  - 
+
+TY  - BOOK
+A1  - Cunio, Theodore F.
+T1  - The need for curriculum objectives in special education
+SP  - 8
+KW  - Curriculum planning
+KW  - Special education
+T2  - Occasional papers
+V1  - 3
+IS  - 1
+PB  - Oakland (Michigan) Schools
+CY  - Pontiac, MI
+LA  - English
+CN  - 375 .O11o v. III, no. 1
+ER  - 
+
+TY  - BOOK
+A1  - Michael, Elizabeth B.
+A1  - Michael, Calvin B.
+T1  - Extended interpretations of sociometric data for classroom use
+SP  - 22
+KW  - Sociometry
+T2  - Occasional papers
+V1  - 3
+IS  - 2
+PB  - Oakland (Michigan) Schools
+CY  - Pontiac, MI
+LA  - English
+CN  - 375 .O11o v. III, no. 2
+ER  - 
+
+TY  - BOOK
+A1  - Cowan, Ronald
+T1  - Drug usage: will the pyramid become top heavy?
+SP  - 8
+KW  - Drug abuse
+T2  - Occasional papers
+V1  - 3
+IS  - 3
+PB  - Oakland (Michigan) Schools
+CY  - Pontiac, MI
+LA  - English
+CN  - 375 .O11o v. III, no. 3
+ER  - 
+
+TY  - BOOK
+A1  - Brozovich, Richard
+A1  - Hall, Leon
+A1  - Watson, Richard
+T1  - The BHW scale: a method of cognitive assessment
+SP  - 18
+KW  - Evaluation
+T2  - Occasional papers
+V1  - 3
+IS  - 4
+PB  - Oakland (Michigan) Schools
+CY  - Pontiac, MI
+LA  - English
+CN  - 375 .O11o v. III, no. 4
+ER  - 
+
+TY  - BOOK
+A1  - Marshall, Beverly
+T1  - Learning independence - academic achievement
+SP  - 11
+KW  - Academic achievement
+T2  - Occasional papers
+V1  - 3
+IS  - 5
+PB  - Oakland (Michigan) Schools
+CY  - Pontiac, MI
+LA  - English
+CN  - 375 .O11o v. III, no. 5
+ER  - 
+
+TY  - BOOK
+A1  - Hungerman, Ann D.
+T1  - New elementary mathematics, part iii
+SP  - 12
+KW  - Mathematics
+T2  - Occasional papers
+V1  - 3
+IS  - 6
+PB  - Oakland (Michigan) Schools
+CY  - Pontiac, MI
+LA  - English
+CN  - 375 .O11o v. III, no. 6
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Bender, Albert E.
+T1  - Centers for teachers : England and the U.S.A.
+Y1  - 1975
+D1  - 09/1975
+SP  - 17
+KW  - Teacher centers
+N1  - 17 p. ; 28 cm.; Responsibility: prepared by Albert E. Bender.
+T2  - Oregon ASCD curriculum bulletin
+V1  - 29
+IS  - 328
+PB  - Oregon Association for Supervision and Curriculum Development
+CY  - Salem, OR
+LA  - English
+CN  - 375 .O65ce
+SC  - Oregon
+ER  - 
+
+TY  - BOOK
+A1  - Brownfield, Dana
+A1  - Kohl, Mary
+A1  - Wilkins, Jerry
+T1  - Moving toward a more open education
+Y1  - 1974
+D1  - 05/1974
+SP  - 70
+KW  - Open plan schools
+KW  - Individualized instruction
+N1  - ill. ; 27 cm.; Note(s): Oregon ASCD curriculum bulletin, no. 323, May 1974./ Includes bibliographical references (p. 62).; Other Titles: Oregon ASCD curriculum bulletin.; Responsibility: Dana Brownfield, Mary Kohl, Jerr Wilkins.
+T2  - Oregon ASCD curriculum bulletin
+V1  - 28
+IS  - 323
+PB  - Oregon Association for Supervision and Curriculum Development
+CY  - Salem, OR
+LA  - English
+CN  - 375 .O65m
+SC  - Oregon
+ER  - 
+
+TY  - BOOK
+A1  - Doherty, Victor W.
+A1  - Hathaway, Walter E.
+T1  - Designing behavioral goals, K-12
+Y1  - 1973
+D1  - 12/1973
+SP  - 27
+KW  - Aims and objectives
+N1  - ill. ; 28 cm.; Note(s): Cover title.; Responsibility: prepared by Victor W. Doherty, Walter E. Hathaway.
+T2  - Oregon ASCD curriculum bulletin
+V1  - 27
+IS  - 320
+PB  - Oregon Association for Supervision and Curriculum Development
+CY  - Salem, OR
+LA  - English
+CN  - 375 .O65d
+SC  - Oregon
+ER  - 
+
+TY  - BOOK
+A1  - Frymier,Jack Rimmel
+T1  - A curriculum manifesto
+Y1  - 1972
+D1  - 12/1972
+SP  - 43
+KW  - Curricula
+N1  - 43 p. ; 28 cm.; Note(s): Cover title.; Responsibility: prepared by Jack R. Frymier.
+T2  - Oregon ASCD curriculum bulletin
+V1  - 26
+IS  - 314
+PB  - Oregon Association for Supervision and Curriculum Development
+CY  - Salem, OR
+LA  - English
+CN  - 375 .O65c
+SC  - Oregon
+ER  - 
+
+TY  - BOOK
+A2  - Southwestern Cooperative Educational Laboratory
+A2  - Oklahoma Curriculum Improvement Commission
+T1  - Catalog of educational innovations in the Oklahoma public schools
+Y1  - 1967
+D1  - 1967
+SP  - 171
+KW  - Educational innovations
+N1  - 171 pages 23 cm; Responsibility: Prepared by Southwestern Cooperative Educational Laboratory, inc. and Oklahoma Curriculum Improvement Commission.
+PB  - Oklahoma State Department of Education
+CY  - Oklahoma City, OK
+LA  - English
+CN  - 375 .O41c
+SC  - Oklahoma
+ER  - 
+
+TY  - BOOK
+A2  - Oklahoma City (Oklahoma) Public Schools
+T1  - Workshop reports: elementary, Aug. 28-31, 1950
+Y1  - 1950
+D1  - 08/1950
+SP  - 130
+KW  - Curricula
+T2  - Oklahoma City (Oklahoma) Public Schools; Curriculum Bulletin
+V1  - 511
+PB  - Oklahoma City (Oklahoma) Public Schools
+CY  - Oklahoma City, OK
+LA  - English
+CN  - 375 .O41w v. 1
+SC  - Oklahoma
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Oklahoma City (Oklahoma) Public Schools
+T1  - Workshop reports: secondary, Aug. 28-31, 1950
+Y1  - 1950
+D1  - 08/1950
+SP  - 105
+KW  - Curricula
+T2  - Oklahoma City (Oklahoma) Public Schools; Curriculum Bulletin
+V1  - 512
+PB  - Oklahoma City (Oklahoma) Public Schools
+CY  - Oklahoma City, OK
+LA  - English
+CN  - 375 .O41w v. 2
+SC  - Oklahoma
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Omaha (Nebraska) Public Schools
+T1  - Multiple activities program: an evaluation
+Y1  - 1970
+D1  - 1970-1971
+SP  - 202
+KW  - Evaluation
+PB  - Omaha (Nebraska) Public Schools
+CY  - Omaha, NE
+LA  - English
+CN  - 375 .O54m
+SC  - Nebraska
+ER  - 
+
+TY  - BOOK
+A1  - Spanjer, R. Allan
+T1  - Teaching performance, some bases for change
+Y1  - 1972
+D1  - 04/1972
+SP  - 13
+KW  - Teaching
+N1  - 13 p. ; 27 cm.; Note(s): Cover title./ Oregon ASCD curriculum bulletin, no. 311, April 1972./ Includes bibliographical references (p. [14]).; Other Titles: Oregon ASCD curriculum bulletin.; Responsibility: prepared by R. Allan Spanjer.
+T2  - Oregon ASCD curriculum bulletin
+V1  - 26
+IS  - 311
+PB  - Oregon Association for Supervision and Curriculum Development
+CY  - Salem, OR
+LA  - English
+CN  - 375 .O65t
+SC  - Oregon
+ER  - 
+
+TY  - BOOK
+A1  - Leavitt, Jerome Edward
+T1  - Ideas for educators
+Y1  - 1965
+D1  - 07/1965
+SP  - 65
+KW  - Teachers
+N1  - 65 p. 28 cm.; Note(s): Cover title.; Responsibility: editor, Hugh B. Wood. 
+T2  - University of Oregon. Curriculum Laboratory. Curriculum bulletin
+V1  - 21
+IS  - 258
+PB  - School of Education, University of Oregon
+CY  - Eugene, OR
+CN  - 375 .O67i v. 1
+ER  - 
+
+TY  - BOOK
+A1  - Leavitt, Jerome Edward
+T1  - More ideas for educators
+Y1  - 1966
+D1  - 07/1966
+SP  - 32
+KW  - Teachers
+N1  - 32 p. 28 cm.; Note(s): Cover title.; Responsibility: editor, Hugh B. Wood.
+T2  - University of Oregon. Curriculum Laboratory. Curriculum bulletin
+V1  - 22
+IS  - 269
+PB  - School of Education, University of Oregon
+CY  - Eugene, OR
+CN  - 375 .O67i v. 2
+SC  - Oregon
+ER  - 
+
+TY  - BOOK
+A2  - Oregon State Department of Education
+T1  - Guide to secondary education in Oregon for school years 1957-1959
+Y1  - 1957
+D1  - 157
+SP  - 209
+KW  - Curricula
+PB  - Oregon State Department of Education
+CY  - Salem, OR
+CN  - 375 .O66g v. 4
+SC  - Oregon
+ER  - 
+
+TY  - BOOK
+A2  - Oregon State Department of Education
+T1  - Guide for elementary education in Oregon, 1955-57, intermediate division
+Y1  - 1955
+D1  - 1955
+SP  - 100
+KW  - Curricula
+PB  - Oregon State Department of Education
+CY  - Salem, OR
+LA  - English
+CN  - 375 .O66g v. 2
+SC  - Oregon
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Oregon State Department of Education
+T1  - Guide for elementary education in Oregon, 1955-57, upper division
+Y1  - 1955
+D1  - 1955
+SP  - 81
+KW  - Curricula
+PB  - Oregon State Department of Education
+CY  - Salem, OR
+LA  - English
+CN  - 375 .O66g v. 3
+SC  - Oregon
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Oregon State Department of Education
+T1  - 19557-1959 Source materials supplement to guide for elementary education in Oregon
+Y1  - 1957
+D1  - 1957
+SP  - 15
+KW  - Teaching materials
+PB  - Oregon State Department of Education
+CY  - Salem, OR
+LA  - English
+CN  - 375 .O66g v. 5
+SC  - Oregon
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Wolford, Melvin E.
+T1  - Differences in attitudes of social classes: implications for educational planning
+Y1  - 1963
+D1  - 02/1963
+SP  - 21
+KW  - Educational planning
+N1  - 21 p. ; 27 cm.; Note(s): Cover title./ Oregon ASCD curriculum bulletin, no. 231, February 1963./ Includes bibliographical references (p. [14]).; Other Titles: Oregon ASCD curriculum bulletin.; Responsibility: prepared by elvin E. Wolford.
+T2  - Oregon ASCD curriculum bulletin
+V1  - 19
+IS  - 231
+PB  - Oregon Association for Supervision and Curriculum Development
+CY  - Salem, OR
+LA  - English
+CN  - 375 .O67d
+SC  - Oregon
+ER  - 
+
+TY  - BOOK
+A1  - Hall, Wendell C.
+T1  - A study of "discovery" and its implications for the curriculum
+Y1  - 1965
+D1  - 11/1965
+SP  - 14
+KW  - Learning by discovery
+N1  - 14 p. 28 cm.; Note(s): Cover title./ Bibliography: p. 12-14.; Responsibility: editor, Hugh B. Wood.
+T2  - University of Oregon. Curriculum Laboratory. Curriculum bulletin
+V1  - 21
+IS  - 261
+PB  - School of Education, University of Oregon
+CY  - Eugene, OR
+LA  - English
+CN  - 375 .O67st
+SC  - Oregon
+ER  - 
+
+TY  - BOOK
+A1  - Stearns, Floyd Kenneth
+T1  - Role expectations of the curriculum director, as perceived by superintendents, principals, and teachers
+Y1  - 1966
+D1  - 10/1966
+SP  - 27
+KW  - Curricula
+N1  - 27 l.
+T2  - Oregon ASCD curriculum bulletin
+V1  - 22
+IS  - 271
+PB  - School of Education, University of Oregon
+CY  - Eugene, OR
+LA  - English
+CN  - 375 .O67r
+SC  - Oregon
+ER  - 
+
+TY  - BOOK
+A1  - Wood, Hugh B.
+T1  - Some techniques of teaching
+Y1  - 1969
+D1  - 05/1969
+SP  - 7
+KW  - Teaching
+N1  - 7 l.
+T2  - Oregon ASCD curriculum bulletin
+V1  - 25
+IS  - 302
+PB  - School of Education, University of Oregon
+CY  - Eugene, OR
+LA  - English
+CN  - 375 .O67s
+SC  - Oregon
+ER  - 
+
+TY  - BOOK
+A1  - Trump, J. Lloyd
+T1  - A summary of proposals: flexible scheduling, large and small group instruction, and independent study
+Y1  - 1969
+D1  - 01/1969
+SP  - 14
+KW  - School schedules
+KW  - Class size
+KW  - Individualized instruction
+N1  - 14 p. 28 cm.; Responsibility: editor, Hugh B. Wood.
+T2  - University of Oregon. Curriculum Labortary. Curriculum bulletin
+V1  - 25
+IS  - 298
+PB  - College of Education, University of Oregon
+CY  - Eugene, OR
+LA  - English
+CN  - 375 .O67su
+SC  - Oregon
+ER  - 
+
+TY  - BOOK
+A1  - Trump, J. Lloyd
+T1  - Ingredients of change
+Y1  - 1968
+D1  - 12/1968
+SP  - 6
+KW  - Educational innovations
+N1  - 6 p.
+T2  - Oregon ASCD curriculum bulletin
+V1  - 24
+IS  - 297
+PB  - College of Education, University of Oregon
+CY  - Eugene, OR
+LA  - English
+CN  - 375 .O67in
+SC  - Oregon
+ER  - 
+
+TY  - BOOK
+A1  - Leavitt, Jerome
+A1  - Wood, Hugh B.
+T1  - More sense and nonsense
+Y1  - 1969
+D1  - 09/1969
+SP  - 19
+KW  - Education
+N1  - 19 p.
+T2  - Oregon ASCD curriculum bulletin
+V1  - 25
+IS  - 306
+PB  - College of Education, University of Oregon
+CY  - Eugene, OR
+LA  - English
+CN  - 375 .O67m
+SC  - Oregon
+ER  - 
+
+TY  - BOOK
+A1  - Wood, Hugh B.
+T1  - Planning for teaching
+Y1  - 1969
+D1  - 04/1969
+SP  - 12
+KW  - Teaching
+N1  - 12 p.
+T2  - Oregon ASCD curriculum bulletin
+V1  - 25
+IS  - 301
+PB  - College of Education, University of Oregon
+CY  - Eugene, OR
+LA  - English
+CN  - 375 .O67p
+SC  - Oregon
+ER  - 
+
+TY  - BOOK
+A2  - Palo Alto (California) Unified School District
+T1  - Curriculum development in the Palo Alto Unified School District, 1957-1960
+Y1  - 1960
+D1  - 08/1960
+SP  - 30
+KW  - Curriculum planning
+PB  - Palo Alto (California) Unified School District
+CY  - Palo Alto, CA
+LA  - English
+CN  - 375 .P18c
+SC  - California
+ER  - 
+ 
+TY  - BOOK
+A2  - San Diego (California) City Schools
+T1  - Curriculum guide; the secondary program
+Y1  - 1957
+D1  - 1957
+SP  - 262
+KW  - Curricula
+N1  - 262 p. 28 cm.; Responsibility: Prepared by the Curriculum Steering Committees of the San Diego City Schools.
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 375 .S19 v. 2
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - San Diego (California) City Schools
+T1  - Summary of instructional units with appendix of instructional changes
+Y1  - 1958
+D1  - 1958-1959
+SP  - 14
+KW  - Curricula
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 375 .S19 v. 3
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - School District of Philadelphia, Pennsylvania. Board of Education
+T1  - Team teaching in Philadelphia schools
+Y1  - 1970
+D1  - 1970
+SP  - 22
+KW  - Teaching teams
+N1  - 22 p.
+PB  - School District of Philadelphia
+CY  - Philadelphia, PA
+LA  - English
+CN  - 375 .P54t
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Provo (Utah) City Schools
+T1  - Recommendations of professional personnel for improvement of the school program
+Y1  - 1957
+D1  - 1957
+KW  - Teachers
+PB  - Provo (Utah) City Schools
+CY  - Provo, UT
+LA  - English
+CN  - 375 .P96r
+SC  - Utah
+ER  -
+
+TY  - BOOK
+A2  - School District of Philadelphia, Pennsylvania. Instructional Services
+T1  - Guidelines for nongraded instruction
+Y1  - 1969
+D1  - 1969
+SP  - 38
+KW  - Curricula
+KW  - Elementary education
+N1  - 38 p. ; cm.
+PB  - School District of Philadelphia
+CY  - Philadelphia, PA
+LA  - English
+CN  - 375 .P54g
+SC  - Pennsylvania
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - School District of Philadelphia, Pennsylvania
+T1  - Humanities curriculum : motivation program
+Y1  - 1968
+SP  - 107
+KW  - Humanistic education
+N1  - ix; ; 28 cm.
+ED  - Rev.
+PB  - Instructional Services, School District of Philadelphia
+CY  - Philadelphia, PA
+LA  - English
+CN  - 375 .P54h
+SC  - Pennsylvania
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Joiner, Lee M.
+A2  - St. Paul Open School
+T1  - Evaluation report
+Y1  - 1972
+D1  - 08/1972
+SP  - 80
+KW  - Public schools
+PB  - Teaching and Learning Research Corp.
+CY  - Elmhurst, NY
+LA  - English
+CN  - 375 .S14o
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - San Diego (California) City Schools
+T1  - A digest of the secondary school curriculum
+Y1  - 1967
+D1  - 09/1967
+SP  - 241
+KW  - Curricula
+N1  - 241 p. ; cm
+ED  - Rev. ed.
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 375 .S19d 1967 v. 2
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - San Diego (California) City Schools
+T1  - A digest of the elementary school curriculum -- grades kindergarten - six
+Y1  - 1967
+D1  - 08/1967
+SP  - 41
+KW  - Curricula
+N1  - 41 p. ; cm
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 375 .S19d 1967 v. 1
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - San Diego (California) City Schools
+T1  - Curriculum frameworks : kindergarten through grade 12
+Y1  - 1976
+D1  - 1976
+SP  - 70
+KW  - Curricula
+N1  - 70 p. ; 28 cm.; Note(s): Cover title.; Responsibility: San Diego City Schools.
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 375 .S19cu
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - San Diego (California) City Schools
+T1  - A digest of the secondary school curriculum
+Y1  - 1969
+D1  - 09/1969
+SP  - 274
+KW  - Curricula
+N1  - 274 p. ; Note(s): Stock no. 41-S-2900.
+ED  - Rev
+CY  - San Diego (California) City Schools
+LA  - English
+CN  - 375 .S19d 1969 v. 2
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - San Diego (California) City Schools
+T1  - A digest of the elementary school curriculum, grades Kindergarten-six
+Y1  - 1969
+D1  - 08/1969
+SP  - 46
+KW  - Curricula
+N1  - 1 v.; 46 p.; Note(s): Stock no. 41-E-2500.
+ED  - Rev
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 375 .S19d 1969 v. 1
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - California School for the Deaf
+T1  - Pamphlet of information concerning the deaf child and the California School for the Deaf
+Y1  - 1947
+D1  - 1947
+SP  - 48
+KW  - Deaf
+N1  - ill. ; 23 cm.
+PB  - California School for the Deaf
+CY  - Berkeley, CA
+LA  - English
+CN  - 371.9 .C149p
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - The education of emotionally handicapped children; a report to the California Legislature prepared pursuant to section 1 of chapter 2385, Statutes of 1957
+Y1  - 1961
+D1  - 03/1961
+SP  - 76
+KW  - Emotional problems of children
+N1  - xii; illustrations 24 cm; Note(s): Includes bibliographical references (pages 75-76).
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 371.9 .C15e
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California. Division of Special Schools and Services
+A2  - School for Cerebral Palsied Children, Northern California
+A2  - School for Cerebral Palsied Children, Southern California
+T1  - California state schools for children with cerebral palsy and similar handicaps
+Y1  - 1965
+D1  - 1965
+SP  - 27
+KW  - Children with disabilities
+KW  - Cerebral palsy
+N1  - 27, [1] p. ill.; ates. 23 cm.; Note(s): Bibliography: p. 25-[28].
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 371.9 .C15ca
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+A2  - California State College at Long Beach
+T1  - The interpretation of mental retardation to the community; a summary of the proceedings of a conference held at Long Grach State College, June 19, 1957. Under the sponsorship of U.S. Children's Bureau [and others
+Y1  - 1958
+D1  - 11/1958
+KW  - Children with mental disabilities
+N1  - 11 pages 23 cm
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 371.9 .C15in
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Daly, Flora M.
+A1  - Cain, Leo F.
+T1  - Mentally retarded students in California secondary schools; a report of a study made under the direction of San Francisco State College and the California State Dept. of Education, 1950-51
+Y1  - 1953
+D1  - 10/1953
+SP  - 200
+KW  - Children with mental disabilities
+N1  - xiv; illustrations, forms 23 cm.; Note(s): Includes bibliographical references (pages 196-200).; Responsibility: [by] Flora M. Daly [and] Leo F. Cain.
+T2  - California.; Department of Education.; Bulletin
+V1  - 22
+IS  - 7
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 371.9 .C15me
+ER  - 
+
+TY  - BOOK
+A1  - Gore, Beatrice Ellen Stoering
+A1  - Outland, Richard W.
+T1  - Educational programs for orthopedically handicapped children including the cerebral palsied in California schools
+Y1  - 1965
+D1  - 1965
+SP  - 62
+KW  - Children with disabilities
+KW  - Cerebral palsy
+N1  - x; forms 23 cm.; Note(s): Bibliography : p. 59-62.; Responsibility: Prepared by Beatrice E. Gore and Richard W. Outland. 
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 371.9 .C15eh
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California. State Board of Education
+T1  - Educational programs for gifted pupils, a report to the California State Legislature
+Y1  - 1961
+D1  - 01/1961
+SP  - 273
+KW  - Gifted children
+N1  - 273 l.; Note(s): Cover title.
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 371.9 .C15eg 1961
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Santa Clara County (California) Office of Education
+T1  - Alternatives: different ways of doing things in the schools of Santa Clara County
+Y1  - 1973
+D1  - 1973
+SP  - 118
+KW  - Educational innovations
+PB  - Santa Clara County (California) Office of Education
+CY  - San Jose, CA
+LA  - English
+CN  - 375 .S23a
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - McNichols, Richard F.
+T1  - Present status of the curriculum and improvement of instruction activities
+Y1  - 1958
+D1  - 01/1958
+SP  - 20
+KW  - Curricula
+PB  - Scranton (Pennsylvania) Public Schools
+CY  - Scranton, PA
+LA  - English
+CN  - 375 .S43c v. 1
+SC  - Pennsylvania
+ER  -
+
+TY  - BOOK
+A2  - Shorewood (Wisconsin) Public Schools.
+T1  - An all-faculty workshop report on pupil-teacher participation in planning
+KW  - Curricula
+N1  - 34 leaves.
+PB  - Shorewood (Wisconsin) Public Schools
+CY  - Shorewood, WI
+LA  - English
+CN  - 375 .S55a
+SC  - Wisconsin
+ER  - 
+
+TY  - BOOK
+A2  - Shoreline (Washington) Board of Directors
+T1  - Shoreline curriculum guide
+Y1  - 1964
+D1  - 1964
+KW  - Curricula
+PB  - Shoreline (Washington) Public Schools
+CY  - Seattle, WA
+LA  - English
+CN  - 375 .S559s v. 1-2
+SC  - Washington
+ER  - 
+
+TY  - BOOK
+A2  - Stanford University. School Planning Laboratory
+T1  - Educational utilization of masonite peg-board panels and fixtures
+SP  - 19
+KW  - Bulletin boards
+N1  - 18 p. ill. 22 x 28 cm.
+PB  - Masonite Corporation
+CY  - Chicago, IL
+LA  - English
+CN  - 375 .S78e
+ER  - 
+
+TY  - BOOK
+A2  - Swang Hill School, Serowe, Botswana, South Africa
+T1  - The curriculum in predominantly rural countries
+Y1  - 1968
+D1  - 06/1968
+SP  - 18
+KW  - Curricula
+PB  - Swang Hill School
+CY  - Botswana, SA
+LA  - English
+CN  - 375 .S97c
+SC  - South Africa
+ER  - 
+
+TY  - BOOK
+A1  - English, Fenwick W.
+T1  - A handbook of the Temple City differentiated staffing project, 1965-1970: an up-to-date revision of project, procedures and policies
+Y1  - 1970
+D1  - 06/1970
+SP  - 44
+KW  - Differentiated teaching staff
+PB  - Temple City (California)
+CY  - Temple City, CA
+LA  - English
+CN  - 375 .T38h
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - The concept of confluence of Texan cultures in curriculum planning
+Y1  - 1970
+D1  - 06/1970
+KW  - Multicultural education
+KW  - Social sciences
+KW  - Textbooks
+KW  - Curriculum planning
+AB  - Position statement concerning emphasis on concept of confluence of cultures in Social Studies instruction and in textbooks -- A design for implementing in public school curriculum the concept of confluence of Texan cultures.
+N1  - 2 pts. in 1 ; 28 cm.; Note(s): Title from cover letter.; Other Titles: Position statement concerning emphasis on concept of confluence of cultures in Social Studies instruction and in textbooks; Design for implementing in public school curriculum the concept of confluence of Texan cultures; Responsibility: Texas Education Agency.
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 375  .T35c
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - Demonstration schools in individualized instruction : 1975 visitor's guide
+Y1  - 1975
+D1  - 03/1975
+SP  - 62
+KW  - Laboratory schools
+N1  - ill. ; 28 cm.
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 375 .T35d
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A1  - Greer, Edith Christine Simanek
+A1  - Hinsley, E. Jean
+T1  - Principles and procedures of curriculum development : a selected bibliography
+Y1  - 1960
+D1  - 08/1960
+SP  - 37
+KW  - Curriculum planning
+KW  - Bibliography
+N1  - 37 p. ; 26 cm.; Note(s): "August 1960."/ Caption title.; Responsibility: prepared by Edith S. Greer and E. Jean Hinsley.
+T2  - OE (Series) (United States. Office of Education)
+V1  - 33014.
+PB  - U.S. Department of Health, Education, and Welfare, Office of Education
+CY  - Washington, DC
+LA  - English
+CN  - 375 .U58p
+ER  - 
+
+TY  - BOOK
+A2  - Tuscaloosa (Alabama) Public Schools
+T1  - Sharidea; a report of practices in the Tuscaloosa City Schools
+Y1  - 1953
+D1  - 03/1953
+SP  - 19
+KW  - Community and school
+N1  - 19 l. ill. 30 cm.
+PB  - Tuscaloosa (Alabama) Public Schools
+CY  - Tuscaloosa, AL
+LA  - English
+CN  - 375 .T96s v. 1
+SC  - Alabama
+ER  - 
+
+TY  - BOOK
+A2  - University City (Missouri) School District
+T1  - Envisioning a new kind of school
+KW  - Educational innovations
+PB  - University City (Missouri) School District
+CY  - University City, MO
+LA  - English
+CN  - 375 .U59e
+SC  - Missouri
+ER  - 
+
+TY  - BOOK
+A2  - Tuscaloosa (Alabama) Public Schools
+T1  - Sharidea; a report of practices in the Tuscaloosa City Schools
+Y1  - 1953
+D1  - 11/1953
+SP  - 21
+KW  - Community and school
+N1  - 21 l. ill. 30 cm.
+PB  - Tuscaloosa (Alabama) Public Schools
+CY  - Tuscaloosa, AL
+LA  - English
+CN  - 375 .T96s v. 2
+SC  - Alabama
+ER  - 
+
+TY  - BOOK
+A2  - University City (Missouri) School District
+T1  - Planning the curriculum
+Y1  - 1967
+D1  - 1967
+SP  - 84
+KW  - Curricula
+PB  - University City (Missouri) School District
+CY  - University City, MO
+LA  - English
+CN  - 375 .U59p
+SC  - Missouri
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Handley, Theresa B.
+A1  - Matsuda, Lawrence
+T1  - Models for the evaluation of bias content in instructional materials
+Y1  - 1975
+D1  - 06/1975
+KW  - Teaching aids
+KW  - Prejudices
+N1  - v; in various pagings ; 28 cm.; Note(s): "Developed in the Equal Educational Opportunities Section ... for Dr. Frank B. Brouillet, Superintendent of Public Instruction, State of Washington."/ "June 1975."/ Bibliography: p. 20-21.; Responsibility: prepared by Theresa B. Handley ; edited by Lawrence Matsuda.
+PB  - Washington State Superintendent of Public Instruction
+CY  - Olympia, WA
+LA  - English
+CN  - 375 .W31m
+SC  - Washington
+ER  - 
+
+TY  - BOOK
+A2  - Washington County (Georgia) Schools
+T1  - The proposed twelve-year program for Washington County
+Y1  - 1951
+D1  - 1951
+KW  - Public schools
+PB  - Washington County (Georgia) Schools
+CY  - Sandersville, GA
+LA  - English
+CN  - 375 .W31p
+SC  - Georgia
+ER  - 
+
+TY  - BOOK
+A2  - Ypsilanti (Michigan) Public Schools
+T1  - Curriculum outlines: grades k-6
+D1  - 1950s
+KW  - Curricula
+PB  - Ypsilanti (Michigan) Public Schools
+CY  - Ypsilanti, MI
+LA  - English
+CN  - 375 .Y86c v. 1
+SC  - Michigan
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Ypsilanti (Michigan) Public Schools
+T1  - Curriculum outlines: grades 7-12
+D1  - 1950s
+KW  - Curricula
+PB  - Ypsilanti (Michigan) Public Schools
+CY  - Ypsilanti, MI
+LA  - English
+CN  - 375 .Y86c v. 2
+SC  - Michigan
+G1  - Middle school
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Virginia State Department of Education
+T1  - A good day for learning
+Y1  - 1970
+D1  - 07/1970
+SP  - 39
+KW  - Elementary education
+N1  - iv; Note(s): Cover title.
+ED  - Rev
+PB  - Virginia State Department of Education, Elementary Education Service
+CY  - Richmond, VA
+LA  - English
+CN  - 375 .V81g
+SC  - Virginia
+ER  - 
+
+

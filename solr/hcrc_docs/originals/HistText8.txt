@@ -1,0 +1,698 @@
+
+
+TY  - BOOK
+A1  - Bachetti, Frances
+A1  - McIlveen, Marjorie
+A1  - Smith, Helen
+A1  - Julian, Winifred
+T1  - Teacher's guide for the transition first grade
+Y1  - 1947
+D1  - 06/1947
+KW  - Elementary education
+PB  - Alameda (California) City Schools
+CY  - Alameda, CA
+LA  - English
+CN  - 375.12 .A311t
+SC  - California
+G2  - 1st
+ER  - 
+
+TY  - BOOK
+A1  - Berson, Minnie Perrin
+T1  - Opening, mixing, matching; continuity of growth for children and teachers
+Y1  - 1974
+D1  - 1974
+SP  - 44
+KW  - Group work in education
+KW  - Nongraded schools
+N1  - 44 p. illus. 21 x 26 cm.; Note(s): Includes bibliographical references.
+PB  - Association for Childhood Education International
+CY  - Washington, DC
+LA  - English
+CN  - 375.12 .A84o
+G1  - Elementary education
+ER  - 
+
+TY  - BOOK
+A2  - Beverly Hills (California) Unified School District
+T1  - Kindergarten-primary levels of achievement program; (tentative curriculum guide)
+Y1  - 1963
+D1  - 06/1963
+SP  - 62
+KW  - Nongraded schools
+KW  - Ability grouping in education
+T2  - Beverly Hills (California) Unified School District. Curriculum Bulletin
+V1  - 18
+N1  - 62 p. 28 cm.
+PB  - Beverly Hills (California) Unified School District
+CY  - Beverly Hills, CA
+LA  - English
+CN  - 375.12 .B57c v. 1
+SC  - California
+G1  - Elementary
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - Beverly Hills (California) Unified School District
+T1  - Kindergarten-primary levels of achievement program; (supplement for second year after kindergarten) tentative curriculum guide
+Y1  - 1964
+D1  - 07/1964
+SP  - 39
+KW  - Nongraded schools
+KW  - Ability grouping in education
+T2  - Beverly Hills (California) Unified School District. Curriculum Bulletin
+V1  - 21
+N1  - 39 p. 28 cm.
+PB  - Beverly Hills (California) Unified School District
+CY  - Beverly Hills, CA
+LA  - English
+CN  - 375.12 .B57c v. 2
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - California Elementary School Administrators Association
+T1  - Instructional supplies and equipment for the four- and five-year olds of the good elementary school
+Y1  - 1956
+D1  - 1956
+SP  - 72
+KW  - School furniture and equipment
+KW  - Kindergarten
+N1  - ill. ; 26 cm.
+T2  - California Elementary School Administrators Association.; Monograph
+V1  - 2
+PB  - California Elementary School Administrators Association
+CY  - San Francisco, CA
+LA  - English
+CN  - 375.12 .C15i v. 1
+SC  - California
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - California Elementary School Administrators Association
+T1  - Instructional supplies and equipment for the five- and six-year olds of the good elementary school
+Y1  - 1956
+D1  - 1956
+SP  - 80
+KW  - School furniture and equipment
+KW  - Primary education
+N1  - ill. ; 26 cm.
+T2  - California Elementary School Administrators Association.; Monograph
+V1  - 3
+PB  - California Elementary School Administrators Association
+CY  - San Francisco, CA
+LA  - English
+CN  - 375.12 .C15i v. 2
+SC  - California
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - Charlotte (North Carolina) City Schools
+T1  - A handbook for first grade teachers
+Y1  - 1959
+D1  - 1959
+SP  - 51
+KW  - Primary education
+KW  - Teachers
+N1  - 51 leaves; 28 cm.; Note: Prepared by Frist Grade Teachers
+PB  - Charlotte (North Carolina) City Schools
+CY  - Charlotte, NC
+LA  - English
+CN  - 375.12 .C47h
+SC  - North Carolina
+G2  - 1st
+ER  - 
+
+TY  - BOOK
+A2  - Chesterfield County (Virginia) Public Schools
+T1  - Nongraded program for the primary block
+Y1  - 1967
+D1  - 1967
+SP  - 61
+KW  - Curriculum planning
+KW  - Nongraded schools
+N1  - 61 leaves ; 28 cm.; Note(s): Includes bibliographical references (leaves 60-61).; Responsibility: Chesterfield County Public Schools, Chesterfield, Virginia.
+ED  - Rev
+PB  - Chesterfield County (Virginia) Public Schools
+CY  - Chesterfield, VA
+LA  - English
+CN  - 375.12 .C52n
+SC  - Virginia
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Chicago (Illinois) Board of Education
+T1  - Guidelines for the primary program of continuous development
+Y1  - 1963
+D1  - 1963
+SP  - 81
+KW  - Primary education
+KW  - Curricula
+N1  - v; ill. ; 28 cm.; Note(s): Includes bibliographical references (p. 80-81).
+PB  - Chicago (Illinois) Board of Education
+CY  - Chicago, IL
+LA  - English
+CN  - 375.12 .C53gu
+SC  - Illinois
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Cleveland (Ohio) Public Schools
+T1  - Teacher's guide: units for first grade
+Y1  - 1954
+D1  - 1954
+SP  - 213
+KW  - Elementary education
+KW  - Curricula
+N1  - 213 p.; Note(s): Bibliography: p. 212-213.
+PB  - Cleveland (Ohio) Public Schools
+CY  - Cleveland, OH
+LA  - English
+CN  - 375.12 .C63t v. 2
+SC  - Ohio
+G1  - 1st
+ER  - 
+
+TY  - BOOK
+A1  - Willis, Benjamin C.
+T1  - Guideposts for kindergarten--primary teachers : Chicago Public Schools
+Y1  - 1957
+D1  - 1957
+SP  - 244
+KW  - Kindergarten
+KW  - Teachers
+N1  - [ii]; ill. ; 29 cm.; Note(s): Bibliographies.; Responsibility: Benjamin C. Willis.
+PB  - Chicago (Illinois) Board of Education
+CY  - Chicago, IL
+LA  - English
+CN  - 375.12 .C53g
+SC  - Illinois
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - Dayton (Ohio) Public Schools
+T1  - Primary teachers guide
+Y1  - 1956
+D1  - 1956
+SP  - 404
+KW  - Primary education
+KW  - Curricula
+N1  - vii; ill. ; 29 cm.; Note(s): Includes bibliographical references.; Responsibility: prepared under the direction of Robert B. French and Harold L. Boda.
+ED  - 2nd
+PB  - Dayton (Ohio) Public Schools
+CY  - Dayton, OH
+LA  - English
+CN  - 375.12 .D27p
+SC  - Ohio
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Slater, Eva May
+T1  - The primary unit
+Y1  - 1955
+D1  - 1955
+SP  - 33
+KW  - Primary education
+KW  - School management and organization
+N1  - 33 l. 28 cm.; Note(s): Bibliography: leaves 28-31.
+T2  - University of Connecticut. Curriculum Center. Curriculum bulletin
+V1  - 3
+PB  - University of Connecticut, School of Education
+CY  - Storrs, CT
+LA  - English
+CN  - 375.12 .C75p
+SC  - Connecticut
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Dallas (Texas) Independent School District
+T1  - Handbook for primary teaches
+Y1  - 1957
+D1  - 1957-1958
+SP  - 31
+KW  - Primary education
+KW  - Teachers
+PB  - Dallas (Texas) Independent School District
+CY  - Dallas, TX
+LA  - English
+CN  - 375.12 .D14h
+SC  - Texas
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Fairfield (California) School District
+T1  - First grade curriculum guide
+Y1  - 1960
+D1  - 1960
+SP  - 179
+KW  - Primary education
+KW  - Curricula
+PB  - Fairfield (California) School District
+CY  - Fairfield, CA
+LA  - English
+CN  - 375.12 .F16f
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Fort Smith (Arkansas) Public Schools
+T1  - For those first days: readiness helps for teachers of beginners
+Y1  - 1955
+D1  - 09/1955
+SP  - 73
+KW  - Primary education
+PB  - Fort Smith (Arkansas) Public Schools
+CY  - Fort Smith, AR
+LA  - English
+CN  - 375.12 .F73f
+SC  - Arkansas
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Fort Knox (Kentucky) Elementary Schools
+T1  - On to the first grade
+KW  - Primary education
+PB  - Fort Knox (Kentucky) Elementary Schools
+CY  - Fort Knox, KY
+LA  - English
+CN  - 375.12 .F74o
+SC  - Kentucky
+G2  - 1st
+ER  - 
+
+TY  - BOOK
+A1  - Huey, J. Frances
+T1  - Mental health through an improved primary curriculum: a day with a primary class
+KW  - Primary education
+PB  - Northern Illinois University
+CY  - Dekalb, IL
+LA  - English
+CN  - 375.12 .I29m
+SC  - Illinois
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Jackson (Michigan) Public Schools
+T1  - Independent learning activities for children
+Y1  - 1958
+D1  - 07/1958
+KW  - Primary education
+PB  - Jackson (Michigan) Public Schools
+CY  - Jackson, MI
+LA  - English
+CN  - 375.12 .J13i
+SC  - Michigan
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Kenosha (Wisconsin) Public Schools
+T1  - Kindergarten handbook for directors
+Y1  - 1955
+D1  - 06/1955
+SP  - 33
+KW  - Kindergarten
+PB  - Kenosha (Wisconsin) Public Schools
+CY  - Kenosha, WI
+LA  - English
+CN  - 375.12 .K36h v. 1
+SC  - Wisconsin
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - Kenosha (Wisconsin) Public Schools
+T1  - First grade handbook
+Y1  - 1955
+D1  - 08/1955
+SP  - 40
+KW  - Primary education
+PB  - Kenosha (Wisconsin) Public Schools
+CY  - Kenosha, WI
+LA  - English
+CN  - 375.12 .K36h v. 2
+SC  - Wisconsin
+G2  - 1st
+ER  - 
+
+TY  - BOOK
+A2  - Knoxville (Tennessee) City Schools
+T1  - The other children : a seatwork activities bulletin
+Y1  - 1960
+D1  - 1960
+SP  - 250
+KW  - Creative activities and seat work
+KW  - Elementary education
+N1  - vi; ill. ; 28 cm.; Note(s): "58-00024"--P. [4] of cover.; Responsibility: prepared by the Knoxville City Schools.
+PB  - Harper & Row
+CY  - New York, NY
+LA  - English
+CN  - 375.12 .K73o
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Long Beach (California) Unified School District
+T1  - Time allotment and outline of the curriculum for the elementary grades, K-3
+Y1  - 1968
+D1  - 09/1968
+KW  - Time allotment
+KW  - Primary education
+KW  - Curricula
+N1  - 1 v.
+ED  - Rev
+PB  - Long Beach (California) Unified School District
+CY  - Long Beach, CA
+LA  - English
+CN  - 375.12 .L84t
+SC  - California
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - Los Alamos (New Mexico) Schools
+T1  - Elementary school curriculum guide grade 1-3
+Y1  - 1959
+D1  - 06/1959
+KW  - Elementary education
+KW  - Curricula
+PB  - Los Alamos (New Mexico) Schools
+CY  - Los Alamos, NM
+LA  - English
+CN  - 375.12 .L86c
+SC  - New Mexico
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City Schools
+T1  - Planning the daily program: primary grades
+Y1  - 1960
+D1  - 1960
+SP  - 62
+KW  - Primary education
+PB  - Los Angeles (California) City Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 375.12 .L87p
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Maine State Department of Education
+T1  - A guide to learning in the primary school
+Y1  - 1958
+D1  - 1958
+SP  - 108
+KW  - Primary education
+PB  - Maine State Department of Education
+CY  - Augusta, ME
+LA  - English
+CN  - 375.12 .M22g
+SC  - Maine
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Stockard, Bill
+A1  - Gardner, Charles
+T1  - Report on primary multigraded grouping: a pilot study
+Y1  - 1960
+D1  - Spring, 1960
+SP  - 6
+KW  - Primary education
+KW  - Combination of grades
+PB  - Merced County (California) Schools
+CY  - Merced, CA
+LA  - English
+CN  - 375.12 .M55r
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Minneapolis (Minnesota) Public Schools
+T1  - Independent activities for first grade
+Y1  - 1956
+D1  - 1956
+SP  - 76
+KW  - Primary education
+N1  - 76, [1] leaves : ill. ; 28 cm.; Note(s): Includes bibliographical references (leaf [77]).
+PB  - Minneapolis (Minnesota) Public Schools
+CY  - Minneapolis, MN
+LA  - English
+CN  - 375.12 .M66i
+SC  - Minnesota
+G2  - 1st
+ER  - 
+
+TY  - BOOK
+A2  - National Education Association of the United States. Department of Elementary-Kindergarten-Nursery Education
+T1  - Kindergarten-primary education; an annotated and indexed bibliography
+Y1  - 1955
+D1  - 06/1955
+SP  - 36
+KW  - Kindergarten
+KW  - Bibliography
+KW  - Primary education
+N1  - 36 pages illustrations 28 cm; Note(s): Published by the dept. under its earlier name: Dept. of Kindergarten-Primary Education.; Responsibility: prepared by a committee of Detroit teachers with the assistance of the NEA Research Division.
+PB  - National Education Association of the United States. Department of Elementary-Kindergarten-Nursery Education
+CY  - Washington, DC
+LA  - English
+CN  - 375.12 .N27k
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - New York (New York) Board of Education
+T1  - Early childhood education; a teacher's handbook for kindergarten-grade 2
+Y1  - 1959
+D1  - 06/1959
+KW  - Primary education
+SP  - 139
+N1  - 139 p. illus. 23 cm.
+T2  - New York (N.Y.).; Board of Education.; Curriculum bulletin, 1958-59 series
+V1  - 5
+PB  - New York (New York) Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 375.12 .N53e
+SC  - New York
+G1  - Kindergarten
+G1  - 1st
+G1  - 2nd
+ER  - 
+
+TY  - BOOK
+A1  - Wall, Harvey R.
+A1  - Reasoner, Robert W.
+T1  - Team teaching, a descriptive and evaluative study of a program for the primary grades
+Y1  - 1962
+D1  - 1962
+SP  - 133
+KW  - Teaching teams
+KW  - Primary education
+N1  - vii, 133 leaves. 28 cm.; Responsibility: [by] Harvey R. Wall [and] Robert W. Reasoner.
+T2  - Educational Resources Information Center (U.S.).; ERIC reports.
+PB  - Mt. Diablo (California) Unified School District
+CY  - Concord, CA
+LA  - English
+CN  - 375.12 .M92t
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Noguchi, Albert
+T1  - The problem of ability grouping among primary grade pupils
+Y1  - 1963
+D1  - 03/1963
+SP  - 18
+KW  - Primary education
+T2  - University of Oregon. Curriculum Laboratory. Curriculum bulletin.
+V1  - 19
+IS  - 232
+PB  - School of Education, University of Oregon
+CY  - Eugene, OR
+LA  - English
+CN  - 375.12 .O66p
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Clark, Charles W.
+T1  - The ungraded primary school
+Y1  - 1960
+D1  - November-December, 1960
+SP  - 40
+KW  - Nongraded schools
+N1  - 40 p. 28 cm.; Note(s): Cover title./ Bibliography: p. 39-40.; Responsibility: editor, Hugh B. Wood.
+T2  - University of Oregon. Curriculum Laboratory. Curriculum bulletin
+V1  - 16
+IS  - 208
+PB  - School of Education, University of Oregon
+CY  - Eugene, OR
+LA  - English
+CN  - 375.12 .O66u
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - St. John, Martin
+T1  - A beginning unit on emotions
+SP  - 44
+KW  - Emotions
+PB  - Primary Education Center
+CY  - Menlo Park, CA
+LA  - English
+CN  - 375.12 .P95m v. 1
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Moriarty, Joe
+T1  - Friendship: a multicultural unit based on peer interaction, first grade level
+Y1  - 1974
+D1  - 08/1974
+SP  - 38
+KW  - Friendship
+PB  - Primary Education Center
+CY  - Menlo Park, CA
+LA  - English
+CN  - 375.12 .P95m v. 2
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Hamamoto, Emily
+T1  - Multicultural handwriting unit-third grade: teacher's manual
+Y1  - 1974
+D1  - 08/1974
+SP  - 41
+KW  - Multicultural education
+PB  - Primary Education Center
+LA  - English
+CY  - Menlo Park, CA
+CN  - 375.12 .P95m v. 3
+SC  - California
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A1  - Hamamoto, Emily
+T1  - Multicultural handwriting unit: student manual
+SP  - 201
+KW  - Multicultural education
+PB  - Primary Education Center
+CY  - Menlo Park, CA
+LA  - English
+CN  - 375.12 .P95m v. 3 M
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Sacramento (California) City Unified School District
+T1  - The continuous progress primary plan : the nongraded program
+Y1  - 1964
+D1  - 1964
+KW  - Nongraded schools
+KW  - Curriculum planning
+AB  - pt. 1. A tentative guide for organization.--pt. 2. Levels of achievement.
+N1  - 2 v. ; 28 cm.; Note(s): Includes bibliographical references (leaves [36]-41, pt. 1).; Responsibility: Sacramento City Unified School District.
+ED  - Rev
+PB  - Sacramento (California) City Unified School District
+CY  - Sacramento, CA
+LA  - English
+CN  - 375.12 .S12c v. 1-2
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - St. Louis (Missouri) Public Schools
+T1  - Curriculum guide for the primary school (kindergarten--grade 3)
+Y1  - 1956
+D1  - 09/1956
+SP  - 76
+T2  - The Saint Louis Public School journal; Courses of study series no. 57
+V1  - 12
+IS  - 1
+KW  - Primary education
+KW  - Curricula
+PB  - St. Louis (Missouri) Public Schools
+CY  - St. Louis, MO
+LA  - English
+CN  - 375.12 .S14cu
+SC  - Missouri
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - Southern Humboldt (California) Unified School District
+T1  - Ungraded primary curriculum guide: book i: reading
+KW  - Nongraded schools
+KW  - Reading
+PB  - Southern Humboldt (California) Unified School District
+CY  - Miranda, CA
+LA  - English
+CN  - 375.12 .S73u v. 1
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Southern Humboldt (California) Unified School District
+T1  - Ungraded primary curriculum guide: book ii: organization for instruction: social studies, language, science, arithmetic
+KW  - Nongraded schools
+KW  - Social studies
+KW  - English language
+KW  - Science
+KW  - Mathematics
+PB  - Southern Humboldt (California) Unified School District
+CY  - Miranda, CA
+LA  - English
+CN  - 375.12 .S73u v. 2
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - U.S. Department of Health, Education, and Welfare.  Office of Education
+T1  - The primary unit
+Y1  - 1957
+D1  - 05/1957
+SP  - 9
+T2  - U.S. Department of Health, Education, and Welfare.  Office of Education. Selected references
+V1  - 1
+KW  - Primary education
+PB  - U.S. Department of Health, Education, and Welfare.  Office of Education
+CY  - Washington, DC
+LA  - English
+CN  - 375.12 .U58p
+G1  - Elementary
+ER  - 

@@ -1,0 +1,29 @@
+<!-- Brandbar snippet start -->
+<div id="brandbar">
+    <div class="container">
+        <%= link_to(image_tag("SUL-Logo-white-text-h25.png", :alt => "Stanford University Libraries"), "http://library.stanford.edu/")%>
+    </div> <!-- .container end -->
+    <div class="report">
+    <a href="http://operadata-dev.stanford.edu/report"><span>Report a Problem</span></a>
+    </div>
+</div> <!-- #brandbar end -->
+<!-- Brandbar snippet end -->
+<div id="header-wrapper">
+  <div id="header-navbar-static-top" class="navbar navbar-static-top">
+    <div class="navbar-inner">
+      <div class="container">
+        <div class="row">
+          <div class="span3">
+                <%= link_to(image_tag("cubberley_logo.png", :alt => t('blacklight.application_name'), :title => 'Logo designed by Karim Arsalane'), root_path, :class => "logo") %>
+          </div>
+          <div class="span3">
+          <div class="span6 clearfix" id="searchbar">
+                    <%= render_search_bar %>
+            </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
