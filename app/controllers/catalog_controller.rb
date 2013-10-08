@@ -54,7 +54,6 @@ class CatalogController < ApplicationController
     #
     # :show may be set to false if you don't want the facet to be drawn in the 
     # facet bar
-    config.add_facet_field 'type', :label => 'Type'
     config.add_facet_field 'language', :label => 'Language', :limit => 20 
     config.add_facet_field 'author_facet', :label => 'Author', :limit => 10 
     config.add_facet_field 'corp_author_facet', :label => 'Corporate Author', :limit => 10 
