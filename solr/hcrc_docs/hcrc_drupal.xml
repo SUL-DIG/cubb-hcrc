@@ -33663,7 +33663,7 @@ Note(s): Title from cover./ Supplements published by: Audio-Visual Center, India
 <doc>
 <field name="type">Journal</field>
 <field name="corp_author">National Educational Television Film Service</field>
-field name="title">Educational television motion pictures</field>
+<field name="title">Educational television motion pictures</field>
 <field name="keywords">Educational films</field>
 <field name="keywords">Television in education</field>
 <field name="year">1958</field>
