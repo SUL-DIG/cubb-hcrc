@@ -2363,7 +2363,7 @@ shop, mechanical drawing, electrical shop, welding, woodwork</field>
 <field name="pages">15</field>
 <field name="call_number">371.3095 .F88as v.2</field>
 <field name="state_country">California</field>
-<field name="grade_level_group"”>High school</field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
