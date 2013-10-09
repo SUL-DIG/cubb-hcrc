@@ -756,13 +756,13 @@ education</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="corp_author">La Mesa - Spring Valley (California) School District</field>
+<field name="corp_author">La Mesa-Spring Valley (California) School District</field>
 <field name="title">A guide for second and third grade teachers</field>
 <field name="year">1956</field>
 <field name="date">1956</field>
 <field name="pages">75</field>
 <field name="keywords">Elementary education</field>
-<field name="publisher">La Mesa - Spring Valley (California) School District</field>
+<field name="publisher">La Mesa-Spring Valley (California) School District</field>
 <field name="pub_place">La Mesa, CA</field>
 <field name="language">English</field>
 <field name="call_number">375.13 .L22g v. 1</field>
@@ -773,13 +773,13 @@ education</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="corp_author">La Mesa - Spring Valley (California) School District</field>
+<field name="corp_author">La Mesa-Spring Valley (California) School District</field>
 <field name="title">A guide for fourth and fifth grade teachers</field>
 <field name="year">1956</field>
 <field name="date">1956</field>
 <field name="pages">59</field>
 <field name="keywords">Elementary education</field>
-<field name="publisher">La Mesa - Spring Valley (California) School District</field>
+<field name="publisher">La Mesa-Spring Valley (California) School District</field>
 <field name="pub_place">La Mesa, CA</field>
 <field name="language">English</field>
 <field name="call_number">375.13 .L22g v. 2</field>
@@ -790,13 +790,13 @@ education</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="corp_author">La Mesa - Spring Valley (California) School District</field>
+<field name="corp_author">La Mesa-Spring Valley (California) School District</field>
 <field name="title">A guide for sixth grade teachers</field>
 <field name="year">1956</field>
 <field name="date">1956</field>
 <field name="pages">99</field>
 <field name="keywords">Elementary education</field>
-<field name="publisher">La Mesa - Spring Valley (California) School District</field>
+<field name="publisher">La Mesa-Spring Valley (California) School District</field>
 <field name="pub_place">La Mesa, CA</field>
 <field name="language">English</field>
 <field name="call_number">375.13 .L22g v. 3</field>
@@ -806,13 +806,13 @@ education</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="corp_author">La Mesa - Spring Valley (California) School District</field>
+<field name="corp_author">La Mesa-Spring Valley (California) School District</field>
 <field name="title">Ungraded team teaching program</field>
 <field name="year">1964</field>
 <field name="date">02/1964</field>
 <field name="keywords">Teaching teams</field>
 <field name="keywords">Nongraded schools</field>
-<field name="publisher">La Mesa - Spring Valley (California) School District</field>
+<field name="publisher">La Mesa-Spring Valley (California) School District</field>
 <field name="pub_place">La Mesa, CA</field>
 <field name="language">English</field>
 <field name="call_number">375.13 .L22u</field>
@@ -1142,7 +1142,7 @@ Publication</field>
 <field name="date">1956</field>
 <field name="pages">160</field>
 <field name="keywords">Elementary education</field>
-<field name="notes">160 p. ; 23 cm.; Responsibility: Los Angeles City Schools Division of
+<field name="notes">160 p. ; 23 cm.; Responsibility: Los Angeles City (California) Schools Division of
 Instructional Services.</field>
 <field name="publisher">Los Angeles (California) City Schools</field>
 <field name="pub_place">Los Angeles, CA</field>

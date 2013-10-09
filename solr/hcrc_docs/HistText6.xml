@@ -1526,7 +1526,7 @@ up-to-date revision of project, procedures and policies</field>
 <field name="year">1970</field>
 <field name="date">06/1970</field>
 <field name="pages">44</field>
-<field name="keywords">Differentiated teaching staff</field>
+<field name="keywords">Differentiated teaching staffs</field>
 <field name="publisher">Temple City (California)</field>
 <field name="pub_place">Temple City, CA</field>
 <field name="language">English</field>
@@ -1600,7 +1600,7 @@ Education</field>
 <doc>
 <field name="type">Book</field>
 <field name="corp_author">Tuscaloosa (Alabama) Public Schools</field>
-<field name="title">Sharidea; a report of practices in the Tuscaloosa City Schools</field>
+<field name="title">Sharidea; a report of practices in the Tuscaloosa (Alabama) City Schools</field>
 <field name="year">1953</field>
 <field name="date">03/1953</field>
 <field name="pages">19</field>
@@ -1628,7 +1628,7 @@ Education</field>
 <doc>
 <field name="type">Book</field>
 <field name="corp_author">Tuscaloosa (Alabama) Public Schools</field>
-<field name="title">Sharidea; a report of practices in the Tuscaloosa City Schools</field>
+<field name="title">Sharidea; a report of practices in the Tuscaloosa (Alabama) City Schools</field>
 <field name="year">1953</field>
 <field name="date">11/1953</field>
 <field name="pages">21</field>

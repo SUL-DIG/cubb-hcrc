@@ -63,7 +63,7 @@ Planning and Services</field>
 <field name="pages">106</field>
 <field name="keywords">Elementary education</field>
 <field name="notes">vi; ; 23 cm.; Responsibility: Division of Instructional Planning and Services,
-Los Angeles City Schools.</field>
+Los Angeles City (California) Schools.</field>
 <field name="series_title">Publication / Division of Instructional Planning and Services, Los
 Angeles City Schools</field>
 <field name="series_vol">EC-244</field>
@@ -695,7 +695,7 @@ Guidance, Counseling and Evaluation.</field>
 </doc>
 <doc>
 <field name="type">Book</field>
-<field name="corp_author">Denver (Colorado) Public School</field>
+<field name="corp_author">Denver (Colorado) Public schools</field>
 <field name="title">Instruction 1969</field>
 <field name="year">1970</field>
 <field name="date">1970</field>
@@ -709,7 +709,7 @@ Guidance, Counseling and Evaluation.</field>
 </doc>
 <doc>
 <field name="type">Book</field>
-<field name="corp_author">Denver (Colorado) Public School</field>
+<field name="corp_author">Denver (Colorado) Public schools</field>
 <field name="title">Manual for using the form for planning and developing an instructional
 unit</field>
 <field name="year">1949</field>
@@ -799,13 +799,13 @@ Mar. 16, 1955</field>
 </doc>
 <doc>
 <field name="type">Book</field>
-<field name="corp_author">Fort Benton (Montana) Public School</field>
+<field name="corp_author">Fort Benton (Montana) Public Schools</field>
 <field name="title">Vertical curriculum study guide, ESEA title V</field>
 <field name="year">1969</field>
 <field name="date">1969</field>
 <field name="pages">31</field>
 <field name="keywords">Curricula</field>
-<field name="publisher">Fort Benton (Montana) Public School</field>
+<field name="publisher">Fort Benton (Montana) Public Schools</field>
 <field name="pub_place">Fort Benton, MT</field>
 <field name="language">English</field>
 <field name="call_number">375 .F73v</field>
@@ -1282,13 +1282,13 @@ Planning for effective learning.</field>
 </doc>
 <doc>
 <field name="type">Book</field>
-<field name="author">English, Fenwick W</field><field name="author_nat">Fenwick W English</field>
+<field name="author">English, Fenwick W.</field><field name="author_nat">Fenwick W. English</field>
 <field name="author">Zaharis, James</field><field name="author_nat">James Zaharis</field>
 <field name="title">How to build a model of staff differentiation</field>
 <field name="year">1970</field>
 <field name="date">08/1970</field>
 <field name="pages">38</field>
-<field name="keywords">Differentiated teaching staff</field>
+<field name="keywords">Differentiated teaching staffs</field>
 <field name="notes">"A step by step guide to the development of a situational specific site model of
 differentiated staffing."</field>
 <field name="publisher">Center for Differentiated Staffing, Claremont Graduate School</field>

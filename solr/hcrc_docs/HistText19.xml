@@ -330,14 +330,14 @@ references.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="corp_author">Austin (Texas) Public School</field>
+<field name="corp_author">Austin (Texas) Public schools</field>
 <field name="title">Language arts, grades one through twelve</field>
 <field name="year">1958</field>
 <field name="date">1958</field>
 <field name="pages">91</field>
 <field name="keywords">Language arts</field>
 <field name="notes">91 leaves ; cm</field>
-<field name="publisher">Austin (Texas) Public School</field>
+<field name="publisher">Austin (Texas) Public schools</field>
 <field name="pub_place">Austin, TX</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .A93L</field>

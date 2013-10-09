@@ -42,7 +42,7 @@ Hope-Solebury School District.</field>
 <field name="pages">44</field>
 <field name="keywords">Kindergarten</field>
 <field name="notes">44 p. ; cm</field>
-<field name="publisher">Cleveland Heights (Ohio) Public School</field>
+<field name="publisher">Cleveland Heights (Ohio) Public schools</field>
 <field name="pub_place">Cleveland Heights, OH</field>
 <field name="language">English</field>
 <field name="call_number">375.11 .C63k</field>
@@ -495,13 +495,13 @@ compiled and edited by Edith E. Nohling ... [et al.].</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="corp_author">Lindbergh (Missouri) School District</field>
+<field name="corp_author">Lindbergh School District (St. Louis, Missouri)</field>
 <field name="title">A guide for kindergarten teachers</field>
 <field name="year">1964</field>
 <field name="date">1964</field>
 <field name="pages">107</field>
 <field name="keywords">Kindergarten</field>
-<field name="publisher">Lindbergh (Missouri) School District</field>
+<field name="publisher">Lindbergh School District (St. Louis, Missouri)</field>
 <field name="pub_place">St. Louis, MO</field>
 <field name="language">English</field>
 <field name="call_number">375.11 .L75k</field>
@@ -575,7 +575,7 @@ Services</field>
 Services. Publication.</field>
 <field name="series_vol">EC-204</field>
 <field name="keywords">Kindergarten</field>
-<field name="notes">99 p. ; 28 cm.; Responsibility: Los Angeles City Schools, Division of
+<field name="notes">99 p. ; 28 cm.; Responsibility: Los Angeles City (California) Schools, Division of
 Instructional Services.</field>
 <field name="publisher">Los Angeles (California) City School District</field>
 <field name="pub_place">Los Angeles, CA</field>
@@ -587,7 +587,7 @@ Instructional Services.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="corp_author">Los Angeles (California) County</field>
+<field name="corp_author">Los Angeles County (California) Schools</field>
 <field name="title">A good program for five-year olds : narrative accounts to accompany selected
 slides</field>
 <field name="year">1959</field>
@@ -595,7 +595,7 @@ slides</field>
 <field name="pages">59</field>
 <field name="keywords">Kindergarten</field>
 <field name="notes">59 leaves ; cm</field>
-<field name="publisher">Los Angeles (California) County</field>
+<field name="publisher">Los Angeles County (California) Schools</field>
 <field name="pub_place">Los Angeles, CA</field>
 <field name="language">English</field>
 <field name="call_number">375.11 .L879g</field>
@@ -617,7 +617,7 @@ Schools</field>
 <field name="keywords">Kindergarten</field>
 <field name="notes">[9], 70 l. plans. 22 x 28 cm.; Note(s): Includes bibliographical
 references.</field>
-<field name="publisher">Los Angeles (California) County</field>
+<field name="publisher">Los Angeles County (California) Schools</field>
 <field name="pub_place">Los Angeles, CA</field>
 <field name="language">English</field>
 <field name="call_number">375.11 .L879m</field>
@@ -1253,7 +1253,7 @@ Responsibility: [Mabel P. Anderson].</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="corp_author">Reed Union (California) School District</field>
+<field name="corp_author">Reed Union School District (Marin County, California)</field>
 <field name="title">Kindergarten curriculum guide</field>
 <field name="year">1963</field>
 <field name="date">1963</field>
@@ -1261,7 +1261,7 @@ Responsibility: [Mabel P. Anderson].</field>
 <field name="keywords">Kindergarten</field>
 <field name="keywords">Curricula</field>
 <field name="notes">xvi, 34 l. 28 cm.</field>
-<field name="publisher">Reed Union (California) School District</field>
+<field name="publisher">Reed Union School District (Marin County, California)</field>
 <field name="pub_place">Belvedere-Tiburon, CA</field>
 <field name="language">English</field>
 <field name="call_number">375.11 .R32k</field>
@@ -1339,14 +1339,14 @@ teachers.; Responsibility: Kindergarten Teachers of the Rockford Public Schools.
 
 <doc>
 <field name="type">Book</field>
-<field name="corp_author">Sacramento (California) City Unified District</field>
+<field name="corp_author">Sacramento (California) City Unified School District</field>
 <field name="title">Preliminary follow-up study of pupils who have participated in the program for
 preschool pupils and their parents</field>
 <field name="year">1971</field>
 <field name="date">02/1971</field>
 <field name="pages">6</field>
 <field name="keywords">Nursery schools</field>
-<field name="publisher">Sacramento (California) City Unified District</field>
+<field name="publisher">Sacramento (California) City Unified School District</field>
 <field name="pub_place">Sacramento, CA</field>
 <field name="language">English</field>
 <field name="call_number">375.11 .S12p</field>

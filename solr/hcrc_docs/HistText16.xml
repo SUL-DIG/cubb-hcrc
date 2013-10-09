@@ -575,7 +575,7 @@ York.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="corp_author">Saint Louis (Missouri) Public School</field>
+<field name="corp_author">Saint Louis (Missouri) Public schools</field>
 <field name="title">Moral and spiritual values in the Saint Louis public schools</field>
 <field name="year">1954</field>
 <field name="date">01/1954</field>
@@ -584,7 +584,7 @@ York.</field>
 <field name="series_title">Saint Louis (Missouri) Public School. Research and survey series, The Saint Louis public school journal</field>
 <field name="series_vol">7</field>
 <field name="issue">3</field>
-<field name="publisher">Saint Louis (Missouri) Public School</field>
+<field name="publisher">Saint Louis (Missouri) Public schools</field>
 <field name="pub_place">Saint Louis, MO</field>
 <field name="language">English</field>
 <field name="call_number">377.2 .S14m</field>
