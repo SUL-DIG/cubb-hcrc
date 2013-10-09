@@ -411,7 +411,7 @@ editor, Hugh B. Wood.</field>
 <field name="pages">16</field>
 <field name="call_number">371.33 .S3u v. 1</field>
 <field name="state_country">Kansas</field>
-<field name="grade_level_number">9th</field>
+<field name="grade_level_number">9th grade</field>
 </doc>
 
 <doc>
@@ -467,8 +467,8 @@ vi</field>
 <field name="pages">101</field>
 <field name="call_number">371.33 .W37a</field>
 <field name="state_country">Missouri</field>
-<field name="grade_level_number">5th</field>
-<field name="grade_level_number">6th</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
 </doc>
 
 <doc>
@@ -617,7 +617,7 @@ metropolitan schools, Nashville - Davidson Co., Tenn</field>
 <field name="call_number">320 .N25a</field>
 <field name="notes">163 p.</field>
 <field name="state_country">Tennessee</field>
-<field name="grade_level_number">12th</field>
+<field name="grade_level_number">12th grade</field>
 </doc>
 <doc>
 
@@ -696,7 +696,7 @@ high-twelfth grades</field>
 <field name="pages">44</field>
 <field name="call_number">371.33 .O11am</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">12th</field>
+<field name="grade_level_number">12th grade</field>
 </doc>
 
 <doc>
@@ -895,8 +895,8 @@ man and his culture: old world prehistory&quot;</field>
 <field name="pub_place">Boulder, CO</field>
 <field name="pages">16</field>
 <field name="call_number">371.33 .S65c v. 30</field>
-<field name="grade_level_number">9th</field>
-<field name="grade_level_number">10th</field>
+<field name="grade_level_number">9th grade</field>
+<field name="grade_level_number">10th grade</field>
 </doc>
 
 <doc>
@@ -913,13 +913,13 @@ his culture, grade 1-7</field>
 <field name="pub_place">Boulder, CO</field>
 <field name="pages">38</field>
 <field name="call_number">371.33 .S65c v. 41</field>
-<field name="grade_level_number">1st</field>
-<field name="grade_level_number">2nd</field>
-<field name="grade_level_number">3rd</field>
-<field name="grade_level_number">4th</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
 <field name="grade_level_number"”>5th</field>
-<field name="grade_level_number">6th</field>
-<field name="grade_level_number">7th</field>
+<field name="grade_level_number">6th grade</field>
+<field name="grade_level_number">7th grade</field>
 </doc>
 
 <doc>
@@ -956,7 +956,7 @@ political systems: an inquiry approach, grade 9</field>
 <field name="pub_place">Boulder, CO</field>
 <field name="pages">24</field>
 <field name="call_number">371.33 .S65c v. 36</field>
-<field name="grade_level_number">9th</field>
+<field name="grade_level_number">9th grade</field>
 </doc>
 
 <doc>
@@ -973,7 +973,7 @@ western society, grade 10</field>
 <field name="pub_place">Boulder, CO</field>
 <field name="pages">13</field>
 <field name="call_number">371.33 .S65c v. 32</field>
-<field name="grade_level_number">10th</field>
+<field name="grade_level_number">10th grade</field>
 </doc>
 
 <doc>
@@ -1054,7 +1054,7 @@ Studies Center</field>
 <field name="pub_place">Boulder, CO</field>
 <field name="pages">20</field>
 <field name="call_number">371.33 .S65c v. 17</field>
-<field name="grade_level_number">12th</field>
+<field name="grade_level_number">12th grade</field>
 </doc>
 
 <doc>
@@ -1086,7 +1086,7 @@ Studies Center</field>
 <field name="pub_place">Boulder, CO</field>
 <field name="pages">27</field>
 <field name="call_number">371.33 .S65c v. 37</field>
-<field name="grade_level_number">6th</field>
+<field name="grade_level_number">6th grade</field>
 </doc>
 
 <doc>
@@ -1132,7 +1132,7 @@ ii, grade 5</field>
 <field name="pub_place">Boulder, CO</field>
 <field name="pages">40</field>
 <field name="call_number">371.33 .S65c v. 33</field>
-<field name="grade_level_number">5th</field>
+<field name="grade_level_number">5th grade</field>
 </doc>
 
 <doc>
@@ -1196,7 +1196,7 @@ ii, grade 5</field>
 <field name="pub_place">Boulder, CO</field>
 <field name="pages">18</field>
 <field name="call_number">371.33 .S65c v. 38</field>
-<field name="grade_level_number">10th</field>
+<field name="grade_level_number">10th grade</field>
 </doc>
 
 <doc>
@@ -1227,8 +1227,8 @@ life, grades 8-9</field>
 <field name="publisher">Social Science Education Consortium</field>
 <field name="pub_place">Boulder, CO</field>
 <field name="call_number">371.33 .S65c v. 39</field>
-<field name="grade_level_number">8th</field>
-<field name="grade_level_number">9th</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
 </doc>
 
 <doc>
@@ -1247,7 +1247,7 @@ grade 9</field>
 <field name="pub_place">Boulder, CO</field>
 <field name="pages">16</field>
 <field name="call_number">371.33 .S65c v. 22</field>
-<field name="grade_level_number">9th</field>
+<field name="grade_level_number">9th grade</field>
 </doc>
 
 <doc>
@@ -1306,9 +1306,9 @@ grade 9</field>
 <field name="pub_place">Boulder, CO</field>
 <field name="pages">9</field>
 <field name="call_number">371.33 .S65c v. 28</field>
-<field name="grade_level_number">4th</field>
-<field name="grade_level_number">5th</field>
-<field name="grade_level_number">6th</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
 </doc>
 
 <doc>
@@ -1325,7 +1325,7 @@ grade 9</field>
 <field name="pub_place">Boulder, CO</field>
 <field name="pages">19</field>
 <field name="call_number">371.33 .S65c v. 40</field>
-<field name="grade_level_number">11th</field>
+<field name="grade_level_number">11th grade</field>
 </doc>
 
 <doc>
@@ -1447,7 +1447,7 @@ of Research and Evaluation. Publication 23</field>
 <field name="publisher">Social Science Education Consortium</field>
 <field name="pub_place">Boulder, CO</field>
 <field name="call_number">371.33 .S65c v. 34</field>
-<field name="grade_level_number">10th</field>
+<field name="grade_level_number">10th grade</field>
 </doc>
 
 <doc>
@@ -1596,8 +1596,8 @@ studies curriculum monograph:</field>
 <field name="call_number">320 L87ap</field>
 <field name="notes">109 l.; Note(s): Includes bibliographies.</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">11th</field>
-<field name="grade_level_number">12th</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
 </doc>
 
 <doc>
@@ -2069,11 +2069,11 @@ understanding</field>
 <field name="pub_place">Alhambra, CA</field>
 <field name="call_number">371.3095 .a39s v. 2</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">4th</field>
-<field name="grade_level_number">5th</field>
-<field name="grade_level_number">6th</field>
-<field name="grade_level_number">7th</field>
-<field name="grade_level_number">8th</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
 </doc>
 
 <doc>
@@ -2102,9 +2102,9 @@ understanding</field>
 <field name="call_number">371.3095 .a39s v. 1</field>
 <field name="state_country">California</field>
 <field name="grade_level_number">Kindergarten</field>
-<field name="grade_level_number">1st</field>
-<field name="grade_level_number">2nd</field>
-<field name="grade_level_number">3rd</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
 </doc>
 
 <doc>
@@ -3020,8 +3020,8 @@ Services</field>
 bibliographical references.; Responsibility: curriculum writers, Robert J. Gennette, Crandallyn A.
 Graham, Frank Muchenje.</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">9th</field>
-<field name="grade_level_number">10th</field>
+<field name="grade_level_number">9th grade</field>
+<field name="grade_level_number">10th grade</field>
 </doc>
 
 <doc>
@@ -3043,8 +3043,8 @@ Graham, Frank Muchenje.</field>
 bibliographical references.; Responsibility: curriculum writers, Robert J. Gennette, Crandallyn A.
 Graham, Frank Muchenje.</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">9th</field>
-<field name="grade_level_number">10th</field>
+<field name="grade_level_number">9th grade</field>
+<field name="grade_level_number">10th grade</field>
 </doc>
 
 <doc>
@@ -3552,15 +3552,15 @@ Ernest E. Hartzog and the Career Development Services Department staff.</field>
 <field name="pages">89</field>
 <field name="call_number">371.45 .A51c</field>
 <field name="grade_level_number">Kindergarten</field>
-<field name="grade_level_number">1st</field>
-<field name="grade_level_number">2nd</field>
-<field name="grade_level_number">3rd</field>
-<field name="grade_level_number">4th</field>
-<field name="grade_level_number">5th</field>
-<field name="grade_level_number">6th</field>
-<field name="grade_level_number">7th</field>
-<field name="grade_level_number">8th</field>
-<field name="grade_level_number">9th</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
 </doc>
 
 <doc>
@@ -3871,8 +3871,8 @@ schools</field>
 <field name="pages">247</field>
 <field name="call_number">371.3095 .L869c v. 2 1960</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">3rd</field>
-<field name="grade_level_number">4th</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
 </doc>
 
 <doc>
@@ -3903,7 +3903,7 @@ schools</field>
 <field name="pages">44</field>
 <field name="call_number">371.3095 .L869c v. 5</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">6th</field>
+<field name="grade_level_number">6th grade</field>
 </doc>
 
 <doc>
@@ -3967,7 +3967,7 @@ schools</field>
 <field name="pages">37</field>
 <field name="call_number">371.3095 .L869c v. 2</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">3rd</field>
+<field name="grade_level_number">3rd grade</field>
 </doc>
 
 <doc>
@@ -4180,7 +4180,7 @@ ninth-grade civics</field>
 <field name="notes">[iv], 84 l. : ill., charts ; 28 cm.; Note(s): Spiral-bound with heavey paper
 covers./ Bibliography: l. 82-84.; General Info: Restricted access./ Access by request at Main
 Library archives only; material does not circulate.; Responsibility: Akron Public Schools.</field>
-<field name="grade_level_number">9th</field>
+<field name="grade_level_number">9th grade</field>
 </doc>
 
 <doc>
@@ -4342,7 +4342,7 @@ Development</field>
 <field name="pages">14</field>
 <field name="call_number">371.33 .S53u v. 2</field>
 <field name="state_country">Kansas</field>
-<field name="grade_level_number">9th</field>
+<field name="grade_level_number">9th grade</field>
 </doc>
 
 <doc>
@@ -4521,9 +4521,9 @@ American history, two-year course, American history, one-year course [and] world
 <field name="call_number">371.33 .N531c v. 3</field>
 <field name="notes">63 p. 23 cm.</field>
 <field name="state_country">New York</field>
-<field name="grade_level_number">10th</field>
-<field name="grade_level_number">11th</field>
-<field name="grade_level_number">12th</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
 </doc>
 
 <doc>
@@ -4546,12 +4546,12 @@ Development. Curriculum leaflet</field>
 <field name="call_number">371.33 .N531ce</field>
 <field name="notes">19 p. 23 cm.; Note(s): Cover title.</field>
 <field name="state_country">New York</field>
-<field name="grade_level_number">7th</field>
-<field name="grade_level_number">8th</field>
-<field name="grade_level_number">9th</field>
-<field name="grade_level_number">10th</field>
-<field name="grade_level_number">11th</field>
-<field name="grade_level_number">12th</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
 </doc>
 
 <doc>
@@ -4620,7 +4620,7 @@ Development</field>
 <field name="call_number">371.33 .I39c</field>
 <field name="notes">47 p. ; 23 cm.</field>
 <field name="state_country">Indiana</field>
-<field name="grade_level_number">9th</field>
+<field name="grade_level_number">9th grade</field>
 </doc>
 
 <doc>
@@ -4638,9 +4638,9 @@ Development</field>
 <field name="notes">&quot;Prepared by Lilia A. Gonzalez and Barbara Root at the request of the
 Upper Elementary Curriculum Planning Committee and the Instructional Council.&quot;</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">4th</field>
-<field name="grade_level_number">5th</field>
-<field name="grade_level_number">6th</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
 </doc>
 
 <doc>
@@ -4714,7 +4714,7 @@ of New York.</field>
 <field name="call_number">320 .C57c</field>
 <field name="notes">145 p. illus. 28 cm.; Note(s): Includes bibliographies.</field>
 <field name="state_country">Ohio</field>
-<field name="grade_level_number">9th</field>
+<field name="grade_level_number">9th grade</field>
 </doc>
 
 <doc>
@@ -4762,7 +4762,7 @@ Responsibility: Frederick M. Patterson, Kenneth P. Holmes and Erna Murphy.</fiel
 <field name="pages">19</field>
 <field name="call_number">323 .P81c</field>
 <field name="state_country">Michigan</field>
-<field name="grade_level_number">8th</field>
+<field name="grade_level_number">8th grade</field>
 </doc>
 
 <doc>
@@ -4995,7 +4995,7 @@ program</field>
 <field name="call_number">371.33 .S196s v. 1</field>
 <field name="notes">&quot;A Social Studies Resource Guide For Grade 1&quot;</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">1st</field>
+<field name="grade_level_number">1st grade</field>
 </doc>
 <doc>
 
@@ -5013,7 +5013,7 @@ eight</field>
 <field name="pages">17</field>
 <field name="call_number">371.33 .S23h v. 5</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">8th</field>
+<field name="grade_level_number">8th grade</field>
 </doc>
 
 <doc>
@@ -5067,12 +5067,12 @@ Science (grades 7 to 8) -- [17] Social studies (grades 9 to 12) -- [18] Mathemat
 -- [19] Physical science (grade 9).</field>
 <field name="call_number">371.33 .N531st</field>
 <field name="notes">19 v. ; 28 cm.; Other Titles: Objectives and items co-op</field>
-<field name="grade_level_number">7th</field>
-<field name="grade_level_number">8th</field>
-<field name="grade_level_number">9th</field>
-<field name="grade_level_number">10th</field>
-<field name="grade_level_number">11th</field>
-<field name="grade_level_number">12th</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
 </doc>
 
 <doc>
@@ -5312,7 +5312,7 @@ McCrady, Charles L. Mitsakos.</field>
 Developmental Economic Education Program of the Joint Council on Economic Education New York and the
 Minnesota State Council on Economic Education.</field>
 <field name="state_country">Minnesota</field>
-<field name="grade_level_number">11th</field>
+<field name="grade_level_number">11th grade</field>
 </doc>
 
 <doc>
@@ -5807,10 +5807,10 @@ grades 9-12 social studies : instructional bulletin</field>
 <field name="language">English</field>
 <field name="call_number">371.33 .L86ce</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">9th</field>
-<field name="grade_level_number">10th</field>
-<field name="grade_level_number">11th</field>
-<field name="grade_level_number">12th</field>
+<field name="grade_level_number">9th grade</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
 </doc>
 
 <doc>
@@ -5850,7 +5850,7 @@ guide</field>
 <field name="call_number">371.33 .L86c</field>
 <field name="notes">ix; ; 28 cm.; Note(s): Cover title.</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">12th</field>
+<field name="grade_level_number">12th grade</field>
 </doc>
 
 <doc>
@@ -5874,8 +5874,8 @@ guide</field>
 part 1 : general information, imperialism; Responsibility: prepared by Erwin E. Eisenberger ... [et
 al.].</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">3rd</field>
-<field name="grade_level_number">4th</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
 </doc>
 
 <doc>
@@ -5898,8 +5898,8 @@ al.].</field>
 <field name="notes">ill. ; 28 cm.; Note(s): Includes bibliographical references.; Responsibility:
 prepared by Erwin E. Eisenberger ... [et al.].</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">3rd</field>
-<field name="grade_level_number">4th</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
 </doc>
 
 <doc>
@@ -5920,8 +5920,8 @@ prepared by Erwin E. Eisenberger ... [et al.].</field>
 <field name="call_number">320 .L84c v. 3</field>
 <field name="notes">ill. ; 28 cm.; on cover: &quot;Cooperation Among Nations&quot;</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">3rd</field>
-<field name="grade_level_number">4th</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
 </doc>
 
 <doc>
@@ -6270,7 +6270,7 @@ mathematics : preliminary version</field>
 <field name="pages">23</field>
 <field name="call_number">371.76 .C57c</field>
 <field name="state_country">Ohio</field>
-<field name="grade_level_number">10th</field>
+<field name="grade_level_number">10th grade</field>
 </doc>
 
 <doc>
@@ -6317,7 +6317,7 @@ mathematics : preliminary version</field>
 <field name="pages">321</field>
 <field name="call_number">371.33 .S12c 1956 v. 6</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">6th</field>
+<field name="grade_level_number">6th grade</field>
 </doc>
 
 <doc>
@@ -6338,7 +6338,7 @@ counseling in junior high schools, grade VII</field>
 <field name="call_number">371.46 .B74c v. 1</field>
 <field name="notes">3 v. in 1, 24 cm.</field>
 <field name="state_country">Massachusetts</field>
-<field name="grade_level_number">7th</field>
+<field name="grade_level_number">7th grade</field>
 </doc>
 
 <doc>
@@ -6359,7 +6359,7 @@ counseling in junior high schools, grade VIII</field>
 <field name="call_number">371.46 .B74c v. 2</field>
 <field name="notes">3 v. in 1, 24 cm.</field>
 <field name="state_country">Massachusetts</field>
-<field name="grade_level_number">8th</field>
+<field name="grade_level_number">8th grade</field>
 </doc>
 
 <doc>
@@ -6389,7 +6389,7 @@ counseling in junior high schools, grade VIII</field>
 <field name="pages">36</field>
 <field name="call_number">371.33 .S12c 1949</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">5th</field>
+<field name="grade_level_number">5th grade</field>
 </doc>
 
 <doc>
@@ -6405,9 +6405,9 @@ approach</field>
 <field name="pages">215</field>
 <field name="call_number">323 .S195 #18</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">7th</field>
-<field name="grade_level_number">8th</field>
-<field name="grade_level_number">9th</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
 </doc>
 
 <doc>
@@ -6453,7 +6453,7 @@ approach</field>
 <field name="pages">127</field>
 <field name="call_number">320 .W51c</field>
 <field name="state_country">Connecticut</field>
-<field name="grade_level_number">9th</field>
+<field name="grade_level_number">9th grade</field>
 </doc>
 
 <doc>
@@ -6575,7 +6575,7 @@ with the NEA National Commission on Safety Education</field>
 <field name="pages">41</field>
 <field name="call_number">371.33 .P85c</field>
 <field name="state_country">Oregon</field>
-<field name="grade_level_number">12th</field>
+<field name="grade_level_number">12th grade</field>
 </doc>
 
 <doc>
@@ -6790,8 +6790,8 @@ Marilyn Greulach.</field>
 <field name="language">English</field>
 <field name="call_number">371.33 .C53s</field>
 <field name="state_country">Illinois</field>
-<field name="grade_level_number">7th</field>
-<field name="grade_level_number">8th</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
 </doc>
 
 <doc>
@@ -6840,9 +6840,9 @@ by D.D. Creech.</field>
 <field name="pages">17</field>
 <field name="language">English</field>
 <field name="notes">ill. ; 28 cm.; Note(s): Includes bibliographies.</field>
-<field name="grade_level_number">7th</field>
-<field name="grade_level_number">8th</field>
-<field name="grade_level_number">9th</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
 </doc>
 
 <doc>
@@ -6857,9 +6857,9 @@ by D.D. Creech.</field>
 <field name="pub_place">Hampton, VA</field>
 <field name="call_number">371.33 .H23s v. 2</field>
 <field name="state_country">Virginia</field>
-<field name="grade_level_number">7th</field>
-<field name="grade_level_number">8th</field>
-<field name="grade_level_number">9th</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
 </doc>
 
 <doc>
@@ -6874,9 +6874,9 @@ by D.D. Creech.</field>
 <field name="pub_place">Hampton, VA</field>
 <field name="call_number">371.33 .H23s v. 3</field>
 <field name="state_country">Virginia</field>
-<field name="grade_level_number">10th</field>
-<field name="grade_level_number">11th</field>
-<field name="grade_level_number">12th</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
 </doc>
 
 <doc>
@@ -7323,8 +7323,8 @@ of Research and Evaluation. Publication 22</field>
 <field name="pages">66</field>
 <field name="call_number">371.33 .S196d</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">7th</field>
-<field name="grade_level_number">8th</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
 </doc>
 
 <doc>
@@ -7342,7 +7342,7 @@ general education</field>
 <field name="call_number">371.33 .A72t v. 2</field>
 <field name="notes">77 p. ; cm</field>
 <field name="state_country">Virginia</field>
-<field name="grade_level_number">8th</field>
+<field name="grade_level_number">8th grade</field>
 </doc>
 
 <doc>
@@ -7393,9 +7393,9 @@ charge.</field>
 <field name="pub_place">Mason City, IA</field>
 <field name="call_number">371.33 .M39c v. 2</field>
 <field name="state_country">Iowa</field>
-<field name="grade_level_number">4th</field>
-<field name="grade_level_number">5th</field>
-<field name="grade_level_number">6th</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
 </doc>
 
 <doc>
@@ -7633,7 +7633,7 @@ references (p. 34-35).</field>
 <field name="pages">63</field>
 <field name="call_number">371.76 .M27d</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">10th</field>
+<field name="grade_level_number">10th grade</field>
 </doc>
 
 <doc>
@@ -7910,7 +7910,7 @@ U.S. history</field>
 <field name="language">English</field>
 <field name="call_number">330 .M65e v. 3</field>
 <field name="state_country">Minnesota</field>
-<field name="grade_level_number">11th</field>
+<field name="grade_level_number">11th grade</field>
 </doc>
 
 <doc>
@@ -7995,8 +7995,8 @@ teaching strategies in 11th and 12th grade U.S. and world history textbooks</fie
 <field name="notes">v; ; 23 cm.; Other Titles: Evaluation of the economics and the teaching
 strategies in 11th and 12th grade U.S. and world history textbooks.; Responsibility: James B.
 O'Neill.</field>
-<field name="grade_level_number">11th</field>
-<field name="grade_level_number">12th</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
 </doc>
 
 <doc>
@@ -8018,12 +8018,12 @@ Business and Economic Research, University of Iowa</field>
 <field name="series_vol">2</field>
 <field name="language">English</field>
 <field name="call_number">330 .J74em v. 1</field>
-<field name="grade_level_number">1st</field>
-<field name="grade_level_number">2nd</field>
-<field name="grade_level_number">3rd</field>
-<field name="grade_level_number">4th</field>
-<field name="grade_level_number">5th</field>
-<field name="grade_level_number">6th</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
 </doc>
 
 <doc>
@@ -8045,9 +8045,9 @@ teaching strategies in social studies textbooks, high school (grades 10-12)</fie
 <field name="language">English</field>
 <field name="call_number">330 .J74em v. 3</field>
 <field name="notes">vi; ; 23 cm.; Responsibility: Dennis J. Weidenaar ... [et al.].</field>
-<field name="grade_level_number">10th</field>
-<field name="grade_level_number">11th</field>
-<field name="grade_level_number">12th</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
 </doc>
 
 <doc>
@@ -8070,9 +8070,9 @@ teaching strategies in social studies textbooks, junior high school (grades 7-9)
 <field name="call_number">330 .J74em v. 2</field>
 <field name="notes">v; ; 23 cm.; Note(s): Bibliography: p. 45-46.; Responsibility: George G.
 Watson, Jr. ... [et al.].</field>
-<field name="grade_level_number">7th</field>
-<field name="grade_level_number">8th</field>
-<field name="grade_level_number">9th</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
 </doc>
 
 <doc>
@@ -8135,12 +8135,12 @@ Wood, chairman, National Schools Committee.</field>
 <field name="pub_place">Columbus, OH</field>
 <field name="call_number">330 .C72e</field>
 <field name="state_country">Ohio</field>
-<field name="grade_level_number">7th</field>
-<field name="grade_level_number">8th</field>
-<field name="grade_level_number">9th</field>
-<field name="grade_level_number">10th</field>
-<field name="grade_level_number">11th</field>
-<field name="grade_level_number">12th</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
 </doc>
 
 <doc>
@@ -8768,8 +8768,8 @@ prepared by Edward V. Schten.</field>
 <field name="pub_place">Louisville, KY</field>
 <field name="call_number">371.33 .J45e v. 1</field>
 <field name="state_country">Kentucky</field>
-<field name="grade_level_number">3rd</field>
-<field name="grade_level_number">4th</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
 </doc>
 
 <doc>
@@ -8891,7 +8891,7 @@ libraries&quot;: p. 53-56./ Bibliography: p. 16, 57-61.</field>
 between the City School District of Rochester and Project ABLE, Division of Pupil Personnel
 Services, New York State Education Department.; Responsibility: developed by Project BEACON staff.</field>
 <field name="state_country">New York</field>
-<field name="grade_level_number">4th</field>
+<field name="grade_level_number">4th grade</field>
 </doc>
 
 <doc>
@@ -9058,9 +9058,9 @@ safety</field>
 <field name="notes">[1 v.] 28 cm.; Note(s): Cover title./ Mimeographed./ Miss Lilian Miller, 
 chairman of the Committee./ Contains bibliographies.</field>
 <field name="state_country">Ohio</field>
-<field name="grade_level_number">4th</field>
-<field name="grade_level_number">5th</field>
-<field name="grade_level_number">6th</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
 </doc>
 
 <doc>
@@ -9076,9 +9076,9 @@ chairman of the Committee./ Contains bibliographies.</field>
 <field name="call_number">371.33 .C635s</field>
 <field name="state_country">Ohio</field>
 <field name="grade_level_number">Kindergarten</field>
-<field name="grade_level_number">1st</field>
-<field name="grade_level_number">2nd</field>
-<field name="grade_level_number">3rd</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
 </doc>
 
 <doc>
@@ -9171,10 +9171,10 @@ Development</field>
 <field name="pages">33</field>
 <field name="call_number">027.8 .O41L</field>
 <field name="state_country">Oklahoma</field>
-<field name="grade_level_number">1st</field>
-<field name="grade_level_number">2nd</field>
-<field name="grade_level_number">3rd</field>
-<field name="grade_level_number">4th</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
 </doc>
 
 <doc>
@@ -9209,12 +9209,12 @@ Development</field>
 <field name="notes">chart ; 22 cm.; Note(s): One folded chart in pocket.; Responsibility: prepared
 by teachers and curriculum directors under the direction of Ellen Hartnett Digneo.</field>
 <field name="state_country">New Mexico</field>
-<field name="grade_level_number">1st</field>
-<field name="grade_level_number">2nd</field>
-<field name="grade_level_number">3rd</field>
-<field name="grade_level_number">4th</field>
-<field name="grade_level_number">5th</field>
-<field name="grade_level_number">6th</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
 </doc>
 
 <doc>
@@ -9235,11 +9235,11 @@ Hillcrest Elementary School, Langham Elementary School</field>
 <field name="call_number">371.33 .N37so v. 1</field>
 <field name="notes">1 v. (unpaged) : ill. ; 37 cm.; Note(s): Includes bibliographical references.</field>
 <field name="state_country">Texas</field>
-<field name="grade_level_number">1st</field>
-<field name="grade_level_number">2nd</field>
-<field name="grade_level_number">3rd</field>
-<field name="grade_level_number">4th</field>
-<field name="grade_level_number">5th</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
 </doc>
 
 <doc>
@@ -10310,10 +10310,10 @@ the Robert Gatewood Elementary School, Norfolk, Virginia</field>
 <field name="notes">vii; ; 22 x 29 cm.; Responsibility: prepared by Louise H. Madison, Barbara
 Brown, Rachel J. Harris.</field>
 <field name="state_country">Virginia</field>
-<field name="grade_level_number">1st</field>
-<field name="grade_level_number">2nd</field>
-<field name="grade_level_number">3rd</field>
-<field name="grade_level_number">4th</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
 </doc>
 
 <doc>
@@ -10712,7 +10712,7 @@ State Dept. of Education.</field>
 <field name="notes">v. : illus. ; 22 x 28 cm.!+! Teacher handbook. [guide]; Note(s): These guides
 have been developed in a pilot study project.</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">1st</field>
+<field name="grade_level_number">1st grade</field>
 </doc>
 
 <doc>
@@ -10968,7 +10968,7 @@ Public Schools, the Denver District Attorney's Office, and the Denver Police Dep
 <field name="pages">33</field>
 <field name="call_number">371.33 .G87f</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">9th</field>
+<field name="grade_level_number">9th grade</field>
 </doc>
 
 <doc>
@@ -11079,9 +11079,9 @@ studies, ninth grade civics</field>
 <field name="pub_place">Battle Creek, MI</field>
 <field name="call_number">371.33 .B33s</field>
 <field name="state_country">Michigan</field>
-<field name="grade_level_number">7th</field>
-<field name="grade_level_number">8th</field>
-<field name="grade_level_number">9th</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
 </doc>
 
 <doc>
@@ -11206,7 +11206,7 @@ preparation for your career.&quot;/ Bibliography: p. [3] of cover.</field>
 <field name="pages">31</field>
 <field name="call_number">370.21 .C57g v. 2</field>
 <field name="state_country">Ohio</field>
-<field name="grade_level_number">1st</field>
+<field name="grade_level_number">1st grade</field>
 </doc>
 
 <doc>
@@ -11263,7 +11263,7 @@ preparation for your career.&quot;/ Bibliography: p. [3] of cover.</field>
 <field name="pages">8</field>
 <field name="call_number">370.21 .D27g</field>
 <field name="state_country">Ohio</field>
-<field name="grade_level_number">1st</field>
+<field name="grade_level_number">1st grade</field>
 </doc>
 
 <doc>
@@ -11290,7 +11290,7 @@ common learnings)</field>
 <field name="pages">9</field>
 <field name="call_number">323 .S14g</field>
 <field name="state_country">Minnesota</field>
-<field name="grade_level_number">9th</field>
+<field name="grade_level_number">9th grade</field>
 </doc>
 
 <doc>
@@ -11343,7 +11343,7 @@ common learnings)</field>
 Counties&quot; Adapted from a unit developed by teachers in a workshop held in Santa Barbara during
 the summer of 1944.</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">8th</field>
+<field name="grade_level_number">8th grade</field>
 </doc>
 
 <doc>
@@ -11381,7 +11381,7 @@ Education Agency)</field>
 <field name="notes">v. : ill. ; 28 cm.; Responsibility: a social science program of the Educational
 Research Council of Greater Cleveland.</field>
 <field name="state_country">Ohio</field>
-<field name="grade_level_number">3rd</field>
+<field name="grade_level_number">3rd grade</field>
 </doc>
 
 <doc>
@@ -11400,7 +11400,7 @@ Research Council of Greater Cleveland.</field>
 <field name="notes">v. : ill. ; 28 cm.; Responsibility: a social science program of the Educational
 Research Council of Greater Cleveland. Includes supplement.</field>
 <field name="state_country">Ohio</field>
-<field name="grade_level_number">2nd</field>
+<field name="grade_level_number">2nd grade</field>
 </doc>
 
 <doc>
@@ -11842,12 +11842,12 @@ administrators, supervisors and teachers</field>
 <field name="call_number">371.45 .G24g v. 2</field>
 <field name="notes">58 p. ; cm</field>
 <field name="state_country">Indiana</field>
-<field name="grade_level_number">7th</field>
-<field name="grade_level_number">8th</field>
-<field name="grade_level_number">9th</field>
-<field name="grade_level_number">10th</field>
-<field name="grade_level_number">11th</field>
-<field name="grade_level_number">12th</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
 </doc>
 
 <doc>
@@ -11955,8 +11955,8 @@ Titles: Driver and traffic education.</field>
 <field name="call_number">371.33 .M66g</field>
 <field name="notes">160 p. ; 23 cm.; Note(s): Curriculum bulletin no.17E/ Includes bibliographies.</field>
 <field name="state_country">Minnesota</field>
-<field name="grade_level_number">7th</field>
-<field name="grade_level_number">8th</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
 </doc>
 
 <doc>
@@ -12015,12 +12015,12 @@ study and syllabus in the use of library books</field>
 <field name="call_number">371.76 .O41g</field>
 <field name="state_country">Oklahoma</field>
 <field name="grade_level_number">Kindergarten</field>
-<field name="grade_level_number">1st</field>
-<field name="grade_level_number">2nd</field>
-<field name="grade_level_number">3rd</field>
-<field name="grade_level_number">4th</field>
-<field name="grade_level_number">5th</field>
-<field name="grade_level_number">6th</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
 </doc>
 
 <doc>
@@ -12070,7 +12070,7 @@ Responsibility: comp. by Neva Hagaman and Hilma Borden.</field>
 <field name="language">English</field>
 <field name="call_number">320 .S189g</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">10th</field>
+<field name="grade_level_number">10th grade</field>
 </doc>
 
 <doc>
@@ -12088,7 +12088,7 @@ Responsibility: comp. by Neva Hagaman and Hilma Borden.</field>
 <field name="call_number">371.33 .L84g</field>
 <field name="notes">46 p. ; 22 x 26 cm.; Note(s): Includes bibliographical references.</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">12th</field>
+<field name="grade_level_number">12th grade</field>
 </doc>
 
 <doc>
@@ -12110,7 +12110,7 @@ the harbor.</field>
 <field name="notes">v; ill. ; 28 cm.; Note(s): &quot;Approved by the Board of Education.&quot;;
 Responsibility: prepared by Elizabeth Lamb ; illustrations by Olive Black.</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">2nd</field>
+<field name="grade_level_number">2nd grade</field>
 </doc>
 
 <doc>
@@ -12134,7 +12134,7 @@ carrying the mail, living in a Pueblo Indian home</field>
 <field name="notes">v; ill. ; 28 cm.; Note(s): &quot;Approved by the Board of Education.&quot;;
 Responsibility: prepared by Mary Owen ; illustrations by Olive Black and Wanda Daniels.</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">3rd</field>
+<field name="grade_level_number">3rd grade</field>
 </doc>
 
 <doc>
@@ -12154,7 +12154,7 @@ Traveling on a train, Riding on a ferry boat</field>
 Responsibility: Prepared at the request of the Social Studies Steering Committee. Illustrated by
 Olive Black. Approved by the Board of Education.</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">1st</field>
+<field name="grade_level_number">1st grade</field>
 </doc>
 
 <doc>
@@ -12185,11 +12185,11 @@ Olive Black. Approved by the Board of Education.</field>
 <field name="language">English</field>
 <field name="call_number">027.8 .A31g</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">4th</field>
-<field name="grade_level_number">5th</field>
-<field name="grade_level_number">6th</field>
-<field name="grade_level_number">7th</field>
-<field name="grade_level_number">8th</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
 </doc>
 
 <doc>
@@ -12284,7 +12284,7 @@ living and working in a complex society</field>
 <field name="pages">54</field>
 <field name="call_number">371.33 .V22g v. 3</field>
 <field name="state_country">Washington</field>
-<field name="grade_level_number">9th</field>
+<field name="grade_level_number">9th grade</field>
 </doc>
 
 <doc>
@@ -12300,7 +12300,7 @@ area: living in a world of science and machines</field>
 <field name="pages">54</field>
 <field name="call_number">371.33 .V22g v. 1</field>
 <field name="state_country">Washington</field>
-<field name="grade_level_number">7th</field>
+<field name="grade_level_number">7th grade</field>
 </doc>
 
 <doc>
@@ -12316,7 +12316,7 @@ living in a world of evolving governments &amp; cultures</field>
 <field name="pages">54</field>
 <field name="call_number">371.33 .V22g v. 4</field>
 <field name="state_country">Washington</field>
-<field name="grade_level_number">10th</field>
+<field name="grade_level_number">10th grade</field>
 </doc>
 
 <doc>
@@ -12332,7 +12332,7 @@ area: living for today and tomorrow</field>
 <field name="pages">54</field>
 <field name="call_number">371.33 .V22g v. 6</field>
 <field name="state_country">Washington</field>
-<field name="grade_level_number">12th</field>
+<field name="grade_level_number">12th grade</field>
 </doc>
 
 <doc>
@@ -12498,7 +12498,7 @@ Responsibility: Kenneth A. Wells ; illustrated by Joanne Bartlett.</field>
 <field name="pages">209</field>
 <field name="call_number">371.33 .P85g</field>
 <field name="state_country">Oregon</field>
-<field name="grade_level_number">9th</field>
+<field name="grade_level_number">9th grade</field>
 </doc>
 
 <doc>
@@ -12819,9 +12819,9 @@ R. Taylor, chairman. [Foreword by Oliver Hodge.].</field>
 <field name="call_number">371.45 .P54h</field>
 <field name="notes">viii; ; 28 cm.</field>
 <field name="state_country">Pennsylvania</field>
-<field name="grade_level_number">7th</field>
-<field name="grade_level_number">8th</field>
-<field name="grade_level_number">9th</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
 </doc>
 
 <doc>
@@ -13131,7 +13131,7 @@ Education</field>
 <field name="pages">15</field>
 <field name="call_number">371.33 .S12c 1956 v. 8</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">8th</field>
+<field name="grade_level_number">8th grade</field>
 </doc>
 
 <doc>
@@ -13147,7 +13147,7 @@ school</field>
 <field name="pages">84</field>
 <field name="call_number">371.33 .S12c 1956 v. 7</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">7th</field>
+<field name="grade_level_number">7th grade</field>
 </doc>
 
 <doc>
@@ -13234,8 +13234,8 @@ August 1956&quot;</field>
 <field name="pages">32</field>
 <field name="call_number">370.21 .C76h</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">7th</field>
-<field name="grade_level_number">8th</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
 </doc>
 
 <doc>
@@ -13850,7 +13850,7 @@ p. ;/ 29 cm.; Responsibility: Ronald D. Daugherty, Carroll R. Hyder, W. Kent Bro
 <field name="notes">&quot;A sequence of experiences in home and community life in Ventura County
 for first grade children.&quot;</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">1st</field>
+<field name="grade_level_number">1st grade</field>
 </doc>
 
 <doc>
@@ -14074,7 +14074,7 @@ for grade 3. Tentative draft</field>
 <field name="call_number">323 .L87ho</field>
 <field name="notes">89 p. ; cm</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">3rd</field>
+<field name="grade_level_number">3rd grade</field>
 </doc>
 
 <doc>
@@ -14533,7 +14533,7 @@ graders discussing their plan for redeveloping a depressed area in San Francisco
 statements by William Edison, Margaret Burk LaGrille [and] Fred T. Wilhelms. Edited by Robert R.
 Leeper and Mary Albert O'Neill.</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">6th</field>
+<field name="grade_level_number">6th grade</field>
 </doc>
 
 <doc>
@@ -15020,8 +15020,8 @@ needs of pupils who are Asian : with emphasis on their language and cultural nee
 <field name="notes">&quot;This unit of work has been prepared for all the elementary schools of San
 Mateo County.&quot;</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">3rd</field>
-<field name="grade_level_number">4th</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
 </doc>
 
 <doc>
@@ -15492,7 +15492,7 @@ Canfield; programing, Conrad Stack.</field>
 <field name="pages">59</field>
 <field name="call_number">371.3095 .M65i</field>
 <field name="state_country">Wisconsin</field>
-<field name="grade_level_number">4th</field>
+<field name="grade_level_number">4th grade</field>
 </doc>
 
 <doc>
@@ -15613,7 +15613,7 @@ July 14, 1965 (Project HS-045).&quot;</field>
 <field name="pages">56</field>
 <field name="call_number">323 .N531i v. 3</field>
 <field name="state_country">New York</field>
-<field name="grade_level_number">12th</field>
+<field name="grade_level_number">12th grade</field>
 </doc>
 
 <doc>
@@ -15629,9 +15629,9 @@ grades 4, 5 and 6</field>
 <field name="pages">48</field>
 <field name="call_number">323 .N531i v. 2</field>
 <field name="state_country">New York</field>
-<field name="grade_level_number">4th</field>
-<field name="grade_level_number">5th</field>
-<field name="grade_level_number">6th</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
 </doc>
 
 <doc>
@@ -15985,7 +15985,7 @@ Research Division of the United States Office of Education, effective prior to J
 <field name="pages">86</field>
 <field name="call_number">371.46 .C63g</field>
 <field name="state_country">Ohio</field>
-<field name="grade_level_number">8th</field>
+<field name="grade_level_number">8th grade</field>
 </doc>
 
 <doc>
@@ -16162,12 +16162,12 @@ program grades 7-12</field>
 <field name="language">English</field>
 <field name="call_number">027.8 R81k</field>
 <field name="state_country">Oregon</field>
-<field name="grade_level_number">7th</field>
-<field name="grade_level_number">8th</field>
-<field name="grade_level_number">9th</field>
-<field name="grade_level_number">10th</field>
-<field name="grade_level_number">11th</field>
-<field name="grade_level_number">12th</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
 </doc>
 
 <doc>
@@ -16382,10 +16382,10 @@ Program</field>
 <field name="call_number">371.33 .H33p v. 11</field>
 <field name="notes">ill. ; 22 cm.; Note(s): Grades 9-12.; Responsibility: adapted from the Harvard
 Social Studies Project by Donald W. Oliver and Fred M. Newmann.</field>
-<field name="grade_level_number">9th</field>
-<field name="grade_level_number">10th</field>
-<field name="grade_level_number">11th</field>
-<field name="grade_level_number">12th</field>
+<field name="grade_level_number">9th grade</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
 </doc>
 
 <doc>
@@ -16513,7 +16513,7 @@ Internet Archive Web site.; General Info: Other format available: Online version
 1879-; Lesson plans in fourth grade history.; Baltimore, Warwick &amp; York, 1917; Responsibility:
 by M. Annie Grace, Emma C. Monroe and others.</field>
 <field name="state_country">Maryland</field>
-<field name="grade_level_number">4th</field>
+<field name="grade_level_number">4th grade</field>
 </doc>
 
 <doc>
@@ -16700,7 +16700,7 @@ Tufts University, by Olive and Wyman Holmes with the co-operation of the Center 
 <field name="author">Pearson, Craig</field>
 <field name="author">Cutler, Charles</field>
 <field name="title">Liberty under law : case studies of the basic principles of the bill of rights</field>
-<field name="keywords">Civil rights </field>
+<field name="keywords">Civil rights</field>
 <field name="keywords">United States Constitution</field>
 <field name="year">1967</field>
 <field name="date">1967</field>
@@ -17081,11 +17081,11 @@ life histories, application forms, information sheets.</field>
 <field name="call_number">371.3095 .W34L</field>
 <field name="state_country">California</field>
 <field name="grade_level_number">Kindergarten</field>
-<field name="grade_level_number">1st</field>
-<field name="grade_level_number">2nd</field>
-<field name="grade_level_number">3rd</field>
-<field name="grade_level_number">4th</field>
-<field name="grade_level_number">5th</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
 </doc>
 
 <doc>
@@ -17308,9 +17308,9 @@ life series: our food</field>
 <field name="pages">129</field>
 <field name="call_number">323 .A85L pt. 2</field>
 <field name="state_country">Georgia</field>
-<field name="grade_level_number">4th</field>
-<field name="grade_level_number">5th</field>
-<field name="grade_level_number">6th</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
 </doc>
 
 <doc>
@@ -17327,9 +17327,9 @@ grades</field>
 <field name="call_number">323 .A85L pt. 1</field>
 <field name="state_country">Georgia</field>
 <field name="grade_level_number">Kindergarten</field>
-<field name="grade_level_number">1st</field>
-<field name="grade_level_number">2nd</field>
-<field name="grade_level_number">3rd</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
 </doc>
 
 <doc>
@@ -17382,7 +17382,7 @@ Bernards. Illustrations by Uri Shulevitz.</field>
 <field name="call_number">371.33 .A72t v. 1</field>
 <field name="notes">49 p. ; 22 cm.; Note(s): Cover title.</field>
 <field name="state_country">Virginia</field>
-<field name="grade_level_number">7th</field>
+<field name="grade_level_number">7th grade</field>
 </doc>
 
 <doc>
@@ -17399,7 +17399,7 @@ Bernards. Illustrations by Uri Shulevitz.</field>
 <field name="call_number">323 .L84L</field>
 <field name="notes">217 p. ; 22 x 28 cm.; Responsibility: prepared by Mary R. Blakely ... [et al.]</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">1st</field>
+<field name="grade_level_number">1st grade</field>
 </doc>
 
 <doc>
@@ -17420,7 +17420,7 @@ grade</field>
 <field name="notes">1 v. (various pagings) : ill. ; 22 x 34 cm.; Note(s): Cover title: Living
 together in the home, school, neighborhood.; Other Titles: Living together in the home, school, 
 neighborhood; Responsibility: prepared by Shirley Hill, Lucille M. Nixon, elementary consultant.</field>
-<field name="grade_level_number">1st</field>
+<field name="grade_level_number">1st grade</field>
 <field name="state_country">California</field>
 </doc>
 
@@ -17437,7 +17437,7 @@ for first grade</field>
 <field name="pages">75</field>
 <field name="call_number">371.33 .P18L 1960</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">1st</field>
+<field name="grade_level_number">1st grade</field>
 </doc>
 
 <doc>
@@ -17454,9 +17454,9 @@ elementary schools, grades K-3</field>
 <field name="state_country">Michigan</field>
 <field name="series_num_vol">3</field>
 <field name="grade_level_number">Kindergarten</field>
-<field name="grade_level_number">1st</field>
-<field name="grade_level_number">2nd</field>
-<field name="grade_level_number">3rd</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
 </doc>
 
 <doc>
@@ -17789,7 +17789,7 @@ by W. T. Markham, State Superintendent of Public Instruction, Kansas, 1935.</fie
 <field name="pages">75</field>
 <field name="call_number">371.33 .C14m v. 3</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">3rd</field>
+<field name="grade_level_number">3rd grade</field>
 </doc>
 
 <doc>
@@ -17805,7 +17805,7 @@ by W. T. Markham, State Superintendent of Public Instruction, Kansas, 1935.</fie
 <field name="pages">74</field>
 <field name="call_number">371.33 .C14m v. 2</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">2nd</field>
+<field name="grade_level_number">2nd grade</field>
 </doc>
 
 <doc>
@@ -17902,9 +17902,9 @@ studies, primary grades (k-3)</field>
 <field name="call_number">371.33 .M39c</field>
 <field name="state_country">Iowa</field>
 <field name="grade_level_number">Kindergarten</field>
-<field name="grade_level_number">1st</field>
-<field name="grade_level_number">2nd</field>
-<field name="grade_level_number">3rd</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
 </doc>
 
 <doc>
@@ -17923,7 +17923,7 @@ U.S. historyu</field>
 <field name="pages">105</field>
 <field name="call_number">371.33 .M39c v. 4</field>
 <field name="state_country">Iowa</field>
-<field name="grade_level_number">8th</field>
+<field name="grade_level_number">8th grade</field>
 </doc>
 
 <doc>
@@ -17943,7 +17943,7 @@ social studies</field>
 <field name="pages">108</field>
 <field name="call_number">371.33 .M39c v. 3</field>
 <field name="state_country">Iowa</field>
-<field name="grade_level_number">7th</field>
+<field name="grade_level_number">7th grade</field>
 </doc>
 
 <doc>
@@ -18216,8 +18216,8 @@ Opportunities for Mexican-Americans, April 25-26, 1968 ... Austin, Texas.&quot;;
 <field name="pages">86</field>
 <field name="call_number">371.45 .U59c v. 2</field>
 <field name="state_country">Missouri</field>
-<field name="grade_level_number">6th</field>
-<field name="grade_level_number">7th</field>
+<field name="grade_level_number">6th grade</field>
+<field name="grade_level_number">7th grade</field>
 </doc>
 
 <doc>
@@ -18278,10 +18278,10 @@ Grades 9-12</field>
 <field name="pages">19</field>
 <field name="call_number">370.72 .N52m</field>
 <field name="state_country">New Hampshire</field>
-<field name="grade_level_number">9th</field>
-<field name="grade_level_number">10th</field>
-<field name="grade_level_number">11th</field>
-<field name="grade_level_number">12th</field>
+<field name="grade_level_number">9th grade</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
 </doc>
 
 <doc>
@@ -18381,7 +18381,7 @@ Texas</field>
 <field name="pages">137</field>
 <field name="call_number">371.33 .P23m</field>
 <field name="state_country">Oregon</field>
-<field name="grade_level_number">12th</field>
+<field name="grade_level_number">12th grade</field>
 </doc>
 
 <doc>
@@ -18739,8 +18739,8 @@ black, Spanish-speaking, Asian American, and Native American cultures</field>
 <field name="call_number">323 .M95m</field>
 <field name="grade_level_group">Postsecondary</field>
 <field name="grade_level_number">Kindergarten</field>
-<field name="grade_level_number">1st</field>
-<field name="grade_level_number">2nd</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
 </doc>
 
 <doc>
@@ -18880,10 +18880,10 @@ Education by Radio-Television; Kent State University.</field>
 <field name="pub_place">Window Rock, AZ</field>
 <field name="pages">144</field>
 <field name="call_number">371.33 .N31s v. 2</field>
-<field name="grade_level_number">5th</field>
-<field name="grade_level_number">6th</field>
-<field name="grade_level_number">7th</field>
-<field name="grade_level_number">8th</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
 <field name="state_country">Arizona</field>
 </doc>
 
@@ -18900,10 +18900,10 @@ Education by Radio-Television; Kent State University.</field>
 <field name="call_number">371.33 .N31s v. 1</field>
 <field name="state_country">Arizona</field>
 <field name="grade_level_number">Kindergarten</field>
-<field name="grade_level_number">1st</field>
-<field name="grade_level_number">2nd</field>
-<field name="grade_level_number">3rd</field>
-<field name="grade_level_number">4th</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
 <field name="state_country">Arizona</field>
 </doc>
 
@@ -19025,12 +19025,12 @@ with the United States Department of Health, Education, and Welfare, Office of E
 Responsibility: by Minnie W. Koblitz.</field>
 <field name="state_country">New York</field>
 <field name="grade_level_number">Kindergarten</field>
-<field name="grade_level_number">1st</field>
-<field name="grade_level_number">2nd</field>
-<field name="grade_level_number">3rd</field>
-<field name="grade_level_number">4th</field>
-<field name="grade_level_number">5th</field>
-<field name="grade_level_number">6th</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
 </doc>
 
 <doc>
@@ -19149,9 +19149,9 @@ Social studies in Kentucky.</field>
 <field name="pages">21</field>
 <field name="call_number">371.33 .C38s v. 2</field>
 <field name="state_country">Iowa</field>
-<field name="grade_level_number">8th</field>
-<field name="grade_level_number">9th</field>
-<field name="grade_level_number">10th</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+<field name="grade_level_number">10th grade</field>
 </doc>
 
 <doc>
@@ -19263,7 +19263,7 @@ discussion in human relations in the primary grades</field>
 <field name="language">English</field>
 <field name="call_number">320 .D88n</field>
 <field name="state_country">Minnesota</field>
-<field name="grade_level_number">9th</field>
+<field name="grade_level_number">9th grade</field>
 </doc>
 
 <doc>
@@ -19798,12 +19798,12 @@ vii-xii</field>
 <field name="series_vol">1</field>
 <field name="call_number">371.45 .W29o</field>
 <field name="state_country">Rhode Island</field>
-<field name="grade_level_number">7th</field>
-<field name="grade_level_number">8th</field>
-<field name="grade_level_number">9th</field>
-<field name="grade_level_number">10th</field>
-<field name="grade_level_number">11th</field>
-<field name="grade_level_number">12th</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
 </doc>
 
 <doc>
@@ -19969,14 +19969,14 @@ the Los Angeles County Superintendent of Schools and the School Districts of Los
 <field name="call_number">371.33 .L87o v. 3</field>
 <field name="state_country">California</field>
 <field name="grade_level_number">Kindergarten</field>
-<field name="grade_level_number">1st</field>
-<field name="grade_level_number">2nd</field>
-<field name="grade_level_number">3rd</field>
-<field name="grade_level_number">4th</field>
-<field name="grade_level_number">5th</field>
-<field name="grade_level_number">6th</field>
-<field name="grade_level_number">7th</field>
-<field name="grade_level_number">8th</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
 </doc>
 
 <doc>
@@ -19992,7 +19992,7 @@ the Los Angeles County Superintendent of Schools and the School Districts of Los
 <field name="pages">101</field>
 <field name="call_number">371.33 .A67o</field>
 <field name="state_country">Oklahoma</field>
-<field name="grade_level_number">9th</field>
+<field name="grade_level_number">9th grade</field>
 </doc>
 
 <doc>
@@ -20106,7 +20106,7 @@ July 14, 1965. (Project No. HS-045).&quot;</field>
 <field name="pages">21</field>
 <field name="call_number">371.33 .F89o</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">8th</field>
+<field name="grade_level_number">8th grade</field>
 </doc>
 
 <doc>
@@ -20121,7 +20121,7 @@ July 14, 1965. (Project No. HS-045).&quot;</field>
 <field name="pages">21</field>
 <field name="call_number">371.33 .F89o</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">8th</field>
+<field name="grade_level_number">8th grade</field>
 </doc>
 
 <doc>
@@ -20416,7 +20416,7 @@ school camps</field>
 <field name="call_number">371.84 .S19o v. 1</field>
 <field name="notes">258 p.</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">6th</field>
+<field name="grade_level_number">6th grade</field>
 </doc>
 
 <doc>
@@ -20490,9 +20490,9 @@ Study Commission on Elementary School Guidance</field>
 <field name="pages">48</field>
 <field name="call_number">027.8 .O14o</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">10th</field>
-<field name="grade_level_number">11th</field>
-<field name="grade_level_number">12th</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
 </doc>
 
 <doc>
@@ -20949,7 +20949,7 @@ B. Clemm (p. [15]-36)</field>
 <field name="pages">20</field>
 <field name="call_number">371.76 .F62p</field>
 <field name="state_country">Michigan</field>
-<field name="grade_level_number">2nd</field>
+<field name="grade_level_number">2nd grade</field>
 </doc>
 
 <doc>
@@ -20984,7 +20984,7 @@ B. Clemm (p. [15]-36)</field>
 <field name="notes">xvii; forms. 28 cm.; Responsibility: prepared by a committee [composed of]
 Emily Shepherd ... [et al.] ...</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">8th</field>
+<field name="grade_level_number">8th grade</field>
 </doc>
 
 <doc>
@@ -21185,7 +21185,7 @@ II.</field>
 <field name="pages">31</field>
 <field name="call_number">323 .S19p</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">2nd</field>
+<field name="grade_level_number">2nd grade</field>
 </doc>
 
 <doc>
@@ -21363,7 +21363,7 @@ pupils in the junior high schools of Los Angeles</field>
 <field name="call_number">371.41 .L879p v. 1</field>
 <field name="notes">163 p. ill. 29 cm.</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">9th</field>
+<field name="grade_level_number">9th grade</field>
 </doc>
 
 <doc>
@@ -22676,8 +22676,8 @@ Technology), &quot;Food Engineering&quot;</field>
 <field name="call_number">027.8 N528r</field>
 <field name="notes">Curriculum Bulletin no. 20; Division of Instruction</field>
 <field name="state_country">Louisiana</field>
-<field name="grade_level_number">7th</field>
-<field name="grade_level_number">8th</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
 </doc>
 
 <doc>
@@ -22699,7 +22699,7 @@ statistics</field>
 William H. Bristow, assistant director, Eugene A. Nifenecker ... John E. Wade ... Ellsworth B. Buck
 ...</field>
 <field name="state_country">New York</field>
-<field name="grade_level_number">1st</field>
+<field name="grade_level_number">1st grade</field>
 </doc>
 
 <doc>
@@ -22890,15 +22890,15 @@ Program</field>
 <field name="language">English</field>
 <field name="call_number">016 .P18r</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">1st</field>
-<field name="grade_level_number">2nd</field>
-<field name="grade_level_number">3rd</field>
-<field name="grade_level_number">4th</field>
-<field name="grade_level_number">5th</field>
-<field name="grade_level_number">6th</field>
-<field name="grade_level_number">7th</field>
-<field name="grade_level_number">8th</field>
-<field name="grade_level_number">9th</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
 </doc>
 
 <doc>
@@ -23046,15 +23046,15 @@ to the Tennessee General Assembly</field>
 <field name="notes">83p., Appendix xxii.</field>
 <field name="state_country">Massachusetts</field>
 <field name="grade_level_number">Kindergarten</field>
-<field name="grade_level_number">1st</field>
-<field name="grade_level_number">2nd</field>
-<field name="grade_level_number">3rd</field>
-<field name="grade_level_number">4th</field>
-<field name="grade_level_number">5th</field>
-<field name="grade_level_number">6th</field>
-<field name="grade_level_number">7th</field>
-<field name="grade_level_number">8th</field>
-<field name="grade_level_number">9th</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
 </doc>
 
 <doc>
@@ -23321,7 +23321,7 @@ Clara County</field>
 <field name="pub_place">Dearborn, MI</field>
 <field name="call_number">371.33 .D28a</field>
 <field name="state_country">Michigan</field>
-<field name="grade_level_number">8th</field>
+<field name="grade_level_number">8th grade</field>
 </doc>
 
 <doc>
@@ -23351,7 +23351,7 @@ contemporary American problems</field>
 <field name="pages">35</field>
 <field name="call_number">327 .A53w v. 1</field>
 <field name="state_country">Alaska</field>
-<field name="grade_level_number">9th</field>
+<field name="grade_level_number">9th grade</field>
 </doc>
 
 <doc>
@@ -23365,7 +23365,7 @@ contemporary American problems</field>
 <field name="pub_place">Dearborn, MI</field>
 <field name="call_number">371.33 .D28p</field>
 <field name="state_country">Michigan</field>
-<field name="grade_level_number">7th</field>
+<field name="grade_level_number">7th grade</field>
 </doc>
 
 <doc>
@@ -23385,7 +23385,7 @@ contemporary American problems</field>
 <field name="notes">[iv], 84 l. : ill., charts ; 28 cm.; Note(s): Spiral-bound with heavy paper
 covers./ Bibliography: l. 82-84.</field>
 <field name="state_country">Ohio</field>
-<field name="grade_level_number">9th</field>
+<field name="grade_level_number">9th grade</field>
 </doc>
 
 <doc>
@@ -23432,7 +23432,7 @@ Turner, reprinted from The Florida School Bulletin, September 1962 attached to i
 <field name="pages">12</field>
 <field name="call_number">371.76 .S24c v. 4</field>
 <field name="state_country">Florida</field>
-<field name="grade_level_number">5th</field>
+<field name="grade_level_number">5th grade</field>
 </doc>
 
 <doc>
@@ -23447,7 +23447,7 @@ Turner, reprinted from The Florida School Bulletin, September 1962 attached to i
 <field name="pages">12</field>
 <field name="call_number">371.76 .S24c v. 3</field>
 <field name="state_country">Florida</field>
-<field name="grade_level_number">4th</field>
+<field name="grade_level_number">4th grade</field>
 </doc>
 
 <doc>
@@ -23462,7 +23462,7 @@ Turner, reprinted from The Florida School Bulletin, September 1962 attached to i
 <field name="pages">12</field>
 <field name="call_number">371.76 .S24c v. 1</field>
 <field name="state_country">Florida</field>
-<field name="grade_level_number">2nd</field>
+<field name="grade_level_number">2nd grade</field>
 </doc>
 
 <doc>
@@ -23477,7 +23477,7 @@ Turner, reprinted from The Florida School Bulletin, September 1962 attached to i
 <field name="pages">8</field>
 <field name="call_number">371.76 .S24c v. 5</field>
 <field name="state_country">Florida</field>
-<field name="grade_level_number">6th</field>
+<field name="grade_level_number">6th grade</field>
 </doc>
 
 <doc>
@@ -23492,7 +23492,7 @@ Turner, reprinted from The Florida School Bulletin, September 1962 attached to i
 <field name="pages">8</field>
 <field name="call_number">371.76 .S24c v. 2</field>
 <field name="state_country">Florida</field>
-<field name="grade_level_number">3rd</field>
+<field name="grade_level_number">3rd grade</field>
 </doc>
 
 <doc>
@@ -23617,7 +23617,7 @@ special service teachers</field>
 <field name="notes">xii, 54 leaves ; 28 cm.; Note(s): Includes bibliographical references.; Other
 Titles: American history and problems; Responsibility: Orange Public Schools.</field>
 <field name="state_country">Texas</field>
-<field name="grade_level_number">11th</field>
+<field name="grade_level_number">11th grade</field>
 </doc>
 
 <doc>
@@ -23635,8 +23635,8 @@ multi-media instructional aid package</field>
 <field name="call_number">371.33 .S195r</field>
 <field name="state_country">California</field>
 <field name="grade_level_number">Kindergarten</field>
-<field name="grade_level_number">1st</field>
-<field name="grade_level_number">2nd</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
 </doc>
 
 <doc>
@@ -23736,9 +23736,9 @@ from the Harvard Social Studies Project under the direction of Donald W. Oliver 
 <field name="notes">189 p. ; 28 cm.; Note(s): &quot;A National Education Association
 publication.&quot;/ Includes bibliographies.; Responsibility: developed by New Jersey Education
 Association/National Education Association Ethnic Heritage Projects.</field>
-<field name="grade_level_number">7th</field>
-<field name="grade_level_number">8th</field>
-<field name="grade_level_number">9th</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
 </doc>
 
 <doc>
@@ -23798,12 +23798,12 @@ Industrial Arts Committee on School Shop Safety, 1955. Richard Smith, Bristol, g
 kindergarten--6</field>
 <field name="state_country">New York</field>
 <field name="grade_level_number">Kindergarten</field>
-<field name="grade_level_number">1st</field>
-<field name="grade_level_number">2nd</field>
-<field name="grade_level_number">3rd</field>
-<field name="grade_level_number">4th</field>
-<field name="grade_level_number">5th</field>
-<field name="grade_level_number">6th</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
 </doc>
 
 <doc>
@@ -23890,7 +23890,7 @@ kindergarten--6</field>
 <field name="pages">10</field>
 <field name="call_number">371.76 .W24s</field>
 <field name="state_country">Wisconsin</field>
-<field name="grade_level_number">3rd</field>
+<field name="grade_level_number">3rd grade</field>
 </doc>
 
 <doc>
@@ -23979,7 +23979,7 @@ traditional values</field>
 <field name="pages">6</field>
 <field name="call_number">371.84 .S195o v. 1</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">6th</field>
+<field name="grade_level_number">6th grade</field>
 </doc>
 
 <doc>
@@ -23991,7 +23991,7 @@ traditional values</field>
 <field name="date">1956</field>
 <field name="call_number">371.45 .S78s</field>
 <field name="notes">&quot;Shell Fellow&quot;</field>
-<field name="grade_level_number">12th</field>
+<field name="grade_level_number">12th grade</field>
 </doc>
 
 <doc>
@@ -24429,7 +24429,7 @@ Canadian Education Association.</field>
 <field name="notes">v. : illus. ; 22 x 28 cm.!+! Teacher handbook. [guide]; Note(s): These guides
 have been developed in a pilot study project.</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">2nd</field>
+<field name="grade_level_number">2nd grade</field>
 </doc>
 
 <doc>
@@ -25085,7 +25085,7 @@ edition</field>
 <field name="pub_place">Wichita, KS</field>
 <field name="call_number">371.33 W63s</field>
 <field name="state_country">Kansas</field>
-<field name="grade_level_number">7th</field>
+<field name="grade_level_number">7th grade</field>
 </doc>
 
 <doc>
@@ -25095,7 +25095,7 @@ edition</field>
 <field name="keywords">Social sciences</field>
 <field name="publisher">Springfield School District</field>
 <field name="call_number">371.33 .S75s</field>
-<field name="grade_level_number">9th</field>
+<field name="grade_level_number">9th grade</field>
 </doc>
 
 <doc>
@@ -25175,9 +25175,9 @@ in grades four through six</field>
 ... &quot;/ Bibliography: leaf 44.; Other Titles: Creative man.; Responsibility: prepared for the
 Division of Special Education, California State Department of Education, by Catherine B. Bruch.</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">4th</field>
-<field name="grade_level_number">5th</field>
-<field name="grade_level_number">6th</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
 </doc>
 
 <doc>
@@ -25196,9 +25196,9 @@ in grades ten through twelve</field>
 <field name="language">English</field>
 <field name="call_number">371.33 .C15c v. 4</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">10th</field>
-<field name="grade_level_number">11th</field>
-<field name="grade_level_number">12th</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
 </doc>
 
 <doc>
@@ -25217,9 +25217,9 @@ through nine</field>
 <field name="language">English</field>
 <field name="call_number">371.33 .C15c v. 3</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">7th</field>
-<field name="grade_level_number">8th</field>
-<field name="grade_level_number">9th</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
 </doc>
 
 <doc>
@@ -25238,9 +25238,9 @@ twelve</field>
 <field name="language">English</field>
 <field name="call_number">371.33 .C15c v. 5</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">10th</field>
-<field name="grade_level_number">11th</field>
-<field name="grade_level_number">12th</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
 </doc>
 
 <doc>
@@ -25257,7 +25257,7 @@ twelve</field>
 <field name="pages">27</field>
 <field name="call_number">371.33 .S23h v. 4</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">7th</field>
+<field name="grade_level_number">7th grade</field>
 </doc>
 
 <doc>
@@ -25274,7 +25274,7 @@ twelve</field>
 <field name="pages">16</field>
 <field name="call_number">371.33 .S23h v. 3</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">6th</field>
+<field name="grade_level_number">6th grade</field>
 </doc>
 
 <doc>
@@ -25290,7 +25290,7 @@ twelve</field>
 <field name="pages">16</field>
 <field name="call_number">371.33 .S23h v. 2</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">5th</field>
+<field name="grade_level_number">5th grade</field>
 </doc>
 
 <doc>
@@ -25306,7 +25306,7 @@ twelve</field>
 <field name="pages">38</field>
 <field name="call_number">371.33 .S23h v. 1</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">4th</field>
+<field name="grade_level_number">4th grade</field>
 </doc>
 
 <doc>
@@ -25396,7 +25396,7 @@ report and presents further results of the [author's] investigation&quot;--Pref.
 <field name="pages">32</field>
 <field name="call_number">371.33 .F17s v. 4</field>
 <field name="state_country">Connecticut</field>
-<field name="grade_level_number">11th</field>
+<field name="grade_level_number">11th grade</field>
 </doc>
 
 <doc>
@@ -25411,7 +25411,7 @@ report and presents further results of the [author's] investigation&quot;--Pref.
 <field name="pages">51</field>
 <field name="call_number">371.33 .F17s v. 5</field>
 <field name="state_country">Connecticut</field>
-<field name="grade_level_number">12th</field>
+<field name="grade_level_number">12th grade</field>
 </doc>
 
 <doc>
@@ -25429,14 +25429,14 @@ report and presents further results of the [author's] investigation&quot;--Pref.
 <field name="notes">106 p. 18 x 28 cm.; Note(s): &quot;Teacher references&quot;: p. 99-106.;
 Responsibility: San Diego County Schools.</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">1st</field>
-<field name="grade_level_number">2nd</field>
-<field name="grade_level_number">3rd</field>
-<field name="grade_level_number">4th</field>
-<field name="grade_level_number">5th</field>
-<field name="grade_level_number">6th</field>
-<field name="grade_level_number">7th</field>
-<field name="grade_level_number">8th</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
 </doc>
 
 <doc>
@@ -25478,14 +25478,14 @@ civilization -- [gr. 8] The U.S. and our heritage.</field>
 <field name="notes">v. 28 cm.; Other Titles: Social studies units and guides; Responsibility:
 preparation and distribution by Fred C. Beyer, County Superintendent of Schools.</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">1st</field>
-<field name="grade_level_number">2nd</field>
-<field name="grade_level_number">3rd</field>
-<field name="grade_level_number">4th</field>
-<field name="grade_level_number">5th</field>
-<field name="grade_level_number">6th</field>
-<field name="grade_level_number">7th</field>
-<field name="grade_level_number">8th</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
 </doc>
 
 <doc>
@@ -25521,12 +25521,12 @@ Responsibility: Social Studies Committee.</field>
 <field name="language">English</field>
 <field name="call_number">371.33 .C75soc</field>
 <field name="state_country">Connecticut</field>
-<field name="grade_level_number">7th</field>
-<field name="grade_level_number">8th</field>
-<field name="grade_level_number">9th</field>
-<field name="grade_level_number">10th</field>
-<field name="grade_level_number">11th</field>
-<field name="grade_level_number">12th</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
 </doc>
 
 <doc>
@@ -25655,9 +25655,9 @@ development</field>
 <field name="pages">211</field>
 <field name="call_number">371.33 .M671g 1956</field>
 <field name="state_country">Missouri</field>
-<field name="grade_level_number">7th</field>
-<field name="grade_level_number">8th</field>
-<field name="grade_level_number">9th</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
 </doc>
 
 <doc>
@@ -25672,9 +25672,9 @@ development</field>
 <field name="pages">211</field>
 <field name="call_number">371.33 .M671g 1958</field>
 <field name="state_country">Missouri</field>
-<field name="grade_level_number">7th</field>
-<field name="grade_level_number">8th</field>
-<field name="grade_level_number">9th</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
 </doc>
 
 <doc>
@@ -25712,9 +25712,9 @@ development</field>
 <field name="call_number">371.33 .S766s v. 2</field>
 <field name="notes">134 p.</field>
 <field name="state_country">Massachusetts</field>
-<field name="grade_level_number">4th</field>
-<field name="grade_level_number">5th</field>
-<field name="grade_level_number">6th</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
 </doc>
 
 <doc>
@@ -25750,9 +25750,9 @@ development</field>
 <field name="notes">134 p.</field>
 <field name="state_country">Massachusetts</field>
 <field name="grade_level_number">Kindergarten</field>
-<field name="grade_level_number">1st</field>
-<field name="grade_level_number">2nd</field>
-<field name="grade_level_number">3rd</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
 </doc>
 
 <doc>
@@ -25772,9 +25772,9 @@ development</field>
 <field name="call_number">371.33 .G23s v. 1</field>
 <field name="notes">48 l. 28 cm.</field>
 <field name="state_country">Maryland</field>
-<field name="grade_level_number">1st</field>
-<field name="grade_level_number">2nd</field>
-<field name="grade_level_number">3rd</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
 </doc>
 
 <doc>
@@ -25792,7 +25792,7 @@ development</field>
 <field name="call_number">371.33 .H33s v.1</field>
 <field name="notes">37 p.</field>
 <field name="state_country">Connecticut</field>
-<field name="grade_level_number">4th</field>
+<field name="grade_level_number">4th grade</field>
 </doc>
 
 <doc>
@@ -25810,7 +25810,7 @@ development</field>
 <field name="call_number">371.33 .H33s v.2</field>
 <field name="notes">37 p.</field>
 <field name="state_country">Connecticut</field>
-<field name="grade_level_number">5th</field>
+<field name="grade_level_number">5th grade</field>
 </doc>
 
 <doc>
@@ -25828,7 +25828,7 @@ development</field>
 <field name="call_number">371.33 .H33s v.3</field>
 <field name="notes">37 p.</field>
 <field name="state_country">Connecticut</field>
-<field name="grade_level_number">6th</field>
+<field name="grade_level_number">6th grade</field>
 </doc>
 
 <doc>
@@ -25844,12 +25844,12 @@ development</field>
 <field name="call_number">371.33 .P84s</field>
 <field name="state_country">Michigan</field>
 <field name="grade_level_number">Kindergarten</field>
-<field name="grade_level_number">1st</field>
-<field name="grade_level_number">2nd</field>
-<field name="grade_level_number">3rd</field>
-<field name="grade_level_number">4th</field>
-<field name="grade_level_number">5th</field>
-<field name="grade_level_number">6th</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
 </doc>
 
 <doc>
@@ -25869,9 +25869,9 @@ development</field>
 <field name="call_number">371.33 .G23s v. 2</field>
 <field name="notes">28 cm.</field>
 <field name="state_country">Maryland</field>
-<field name="grade_level_number">4th</field>
-<field name="grade_level_number">5th</field>
-<field name="grade_level_number">6th</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
 </doc>
 
 <doc>
@@ -25913,7 +25913,7 @@ k-12 sequences of study</field>
 <field name="pages">92</field>
 <field name="call_number">371.33 .H88s</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">8th</field>
+<field name="grade_level_number">8th grade</field>
 </doc>
 
 <doc>
@@ -25978,11 +25978,11 @@ Nederland</field>
 <field name="notes">1 v. (unpaged) ; 28 cm.; Note(s): Cover title./ Includes bibliographical
 references.</field>
 <field name="state_country">Texas</field>
-<field name="grade_level_number">8th</field>
-<field name="grade_level_number">9th</field>
-<field name="grade_level_number">10th</field>
-<field name="grade_level_number">11th</field>
-<field name="grade_level_number">12th</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
 </doc>
 
 <doc>
@@ -26108,7 +26108,7 @@ social studies</field>
 <field name="pages">299</field>
 <field name="call_number">371.33 .S12c 1956 v. 3</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">3rd</field>
+<field name="grade_level_number">3rd grade</field>
 </doc>
 
 <doc>
@@ -26134,12 +26134,12 @@ social studies</field>
 <field name="pub_place">Hampton, VA</field>
 <field name="call_number">371.33 .H23s v. 1</field>
 <field name="state_country">Virginia</field>
-<field name="grade_level_number">1st</field>
-<field name="grade_level_number">2nd</field>
-<field name="grade_level_number">3rd</field>
-<field name="grade_level_number">4th</field>
-<field name="grade_level_number">5th</field>
-<field name="grade_level_number">6th</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
 </doc>
 
 <doc>
@@ -26169,12 +26169,12 @@ social studies</field>
 <field name="pages">389</field>
 <field name="call_number">371.33 .N25s v. 1</field>
 <field name="state_country">Tennessee</field>
-<field name="grade_level_number">1st</field>
-<field name="grade_level_number">2nd</field>
-<field name="grade_level_number">3rd</field>
-<field name="grade_level_number">4th</field>
-<field name="grade_level_number">5th</field>
-<field name="grade_level_number">6th</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
 </doc>
 
 <doc>
@@ -26189,12 +26189,12 @@ social studies</field>
 <field name="pages">389</field>
 <field name="call_number">371.33 .N25s v. 2</field>
 <field name="state_country">Tennessee</field>
-<field name="grade_level_number">7th</field>
-<field name="grade_level_number">8th</field>
-<field name="grade_level_number">9th</field>
-<field name="grade_level_number">10th</field>
-<field name="grade_level_number">11th</field>
-<field name="grade_level_number">12th</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
 </doc>
 
 <doc>
@@ -26213,14 +26213,14 @@ social studies</field>
 supplements rather than replaces The Virginia Course of Study which contains valuable
 suggestions.&quot;/ Includes bibliographical references.</field>
 <field name="state_country">Virginia</field>
-<field name="grade_level_number">1st</field>
-<field name="grade_level_number">2nd</field>
-<field name="grade_level_number">3rd</field>
-<field name="grade_level_number">4th</field>
-<field name="grade_level_number">5th</field>
-<field name="grade_level_number">6th</field>
-<field name="grade_level_number">7th</field>
-<field name="grade_level_number">8th</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
 </doc>
 
 <doc>
@@ -26232,7 +26232,7 @@ suggestions.&quot;/ Includes bibliographical references.</field>
 <field name="pub_place">Philadelphia, PA</field>
 <field name="call_number">371.33 .P54s v. 6</field>
 <field name="state_country">Pennsylvania</field>
-<field name="grade_level_number">5th</field>
+<field name="grade_level_number">5th grade</field>
 </doc>
 
 <doc>
@@ -26244,7 +26244,7 @@ suggestions.&quot;/ Includes bibliographical references.</field>
 <field name="pub_place">Philadelphia, PA</field>
 <field name="call_number">371.33 .P54s v. 5</field>
 <field name="state_country">Pennsylvania</field>
-<field name="grade_level_number">4th</field>
+<field name="grade_level_number">4th grade</field>
 </doc>
 
 <doc>
@@ -26259,7 +26259,7 @@ suggestions.&quot;/ Includes bibliographical references.</field>
 <field name="pages">162</field>
 <field name="call_number">371.33 .W28s v. 1</field>
 <field name="state_country">Michigan</field>
-<field name="grade_level_number">1st</field>
+<field name="grade_level_number">1st grade</field>
 </doc>
 
 <doc>
@@ -26271,7 +26271,7 @@ suggestions.&quot;/ Includes bibliographical references.</field>
 <field name="pub_place">Philadelphia, PA</field>
 <field name="call_number">371.33 .P54s v. 7</field>
 <field name="state_country">Pennsylvania</field>
-<field name="grade_level_number">6th</field>
+<field name="grade_level_number">6th grade</field>
 </doc>
 
 <doc>
@@ -26283,7 +26283,7 @@ suggestions.&quot;/ Includes bibliographical references.</field>
 <field name="pub_place">Philadelphia, PA</field>
 <field name="call_number">371.33 .P54s v. 4</field>
 <field name="state_country">Pennsylvania</field>
-<field name="grade_level_number">3rd</field>
+<field name="grade_level_number">3rd grade</field>
 </doc>
 
 <doc>
@@ -26298,7 +26298,7 @@ suggestions.&quot;/ Includes bibliographical references.</field>
 <field name="pages">103</field>
 <field name="call_number">371.33 .W28s v. 3</field>
 <field name="state_country">Michigan</field>
-<field name="grade_level_number">3rd</field>
+<field name="grade_level_number">3rd grade</field>
 </doc>
 
 <doc>
@@ -26310,7 +26310,7 @@ suggestions.&quot;/ Includes bibliographical references.</field>
 <field name="pub_place">Philadelphia, PA</field>
 <field name="call_number">371.33 .P54s v. 3</field>
 <field name="state_country">Pennsylvania</field>
-<field name="grade_level_number">2nd</field>
+<field name="grade_level_number">2nd grade</field>
 </doc>
 
 <doc>
@@ -26325,7 +26325,7 @@ suggestions.&quot;/ Includes bibliographical references.</field>
 <field name="pages">89</field>
 <field name="call_number">371.33 .W28s v. 2</field>
 <field name="state_country">Michigan</field>
-<field name="grade_level_number">2nd</field>
+<field name="grade_level_number">2nd grade</field>
 </doc>
 
 <doc>
@@ -26338,7 +26338,7 @@ suggestions.&quot;/ Includes bibliographical references.</field>
 <field name="call_number">371.33 .P54s v. 2</field>
 <field name="state_country">Pennsylvania</field>
 <field name="grade_level_number">Kindergarten</field>
-<field name="grade_level_number">1st</field>
+<field name="grade_level_number">1st grade</field>
 </doc>
 
 <doc>
@@ -26476,13 +26476,13 @@ no. 10. World history.</field>
 <field name="notes">no. : tables ; 28 cm.; Other Titles: Bulletin; Responsibility: Shorewood public
 schools.</field>
 <field name="state_country">Wisconsin</field>
-<field name="grade_level_number">1st</field>
-<field name="grade_level_number">2nd</field>
-<field name="grade_level_number">3rd</field>
-<field name="grade_level_number">4th</field>
-<field name="grade_level_number">5th</field>
-<field name="grade_level_number">6th</field>
-<field name="grade_level_number">7th</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+<field name="grade_level_number">7th grade</field>
 </doc>
 
 <doc>
@@ -26507,7 +26507,7 @@ schools.</field>
 <field name="pub_place">Modesto, CA</field>
 <field name="call_number">371.33 .M59s v. 1-2</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">8th</field>
+<field name="grade_level_number">8th grade</field>
 </doc>
 
 <doc>
@@ -26576,7 +26576,7 @@ Fowler, elementary, Orville A. Reddington, secondary.</field>
 <field name="notes">p. ; cm.; Responsibility: prepared and produced in the Department of General
 Curriculum Services, William R. Spears, director.</field>
 <field name="state_country">Colorado</field>
-<field name="grade_level_number">1st</field>
+<field name="grade_level_number">1st grade</field>
 </doc>
 
 <doc>
@@ -26596,7 +26596,7 @@ Curriculum Services, William R. Spears, director.</field>
 <field name="notes">p. ; cm.; Responsibility: prepared and produced in the Department of General
 Curriculum Services, William R. Spears, director.</field>
 <field name="state_country">Colorado</field>
-<field name="grade_level_number">2nd</field>
+<field name="grade_level_number">2nd grade</field>
 </doc>
 
 <doc>
@@ -26616,7 +26616,7 @@ Curriculum Services, William R. Spears, director.</field>
 <field name="notes">p. ; cm.; Responsibility: prepared and produced in the Department of General
 Curriculum Services, William R. Spears, director.</field>
 <field name="state_country">Colorado</field>
-<field name="grade_level_number">3rd</field>
+<field name="grade_level_number">3rd grade</field>
 </doc>
 
 <doc>
@@ -26634,7 +26634,7 @@ Curriculum Services, William R. Spears, director.</field>
 <field name="notes">77 p. ; 28 cm.; Note(s): Includes bibliographical references (p. 65-77).;
 Responsibility: prepared and produced in the Department of General Curriculum Services.</field>
 <field name="state_country">Colorado</field>
-<field name="grade_level_number">4th</field>
+<field name="grade_level_number">4th grade</field>
 </doc>
 
 <doc>
@@ -26652,7 +26652,7 @@ Responsibility: prepared and produced in the Department of General Curriculum Se
 <field name="notes">p. ; cm.; Responsibility: prepared and produced in the Department of General
 Curriculum Services, William R. Spears, Director.</field>
 <field name="state_country">Colorado</field>
-<field name="grade_level_number">5th</field>
+<field name="grade_level_number">5th grade</field>
 </doc>
 
 <doc>
@@ -26778,7 +26778,7 @@ direction of Dept. of Instruction. Includes Senior High School, grades 10-12</fi
 <field name="notes">28 leaves ; 28 cm.; Note(s): Supplement (S65).; Other Titles: Living in
 California.; Responsibility: Anaheim City School District.</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">4th</field>
+<field name="grade_level_number">4th grade</field>
 </doc>
 
 <doc>
@@ -26786,7 +26786,7 @@ California.; Responsibility: Anaheim City School District.</field>
 <field name="corp_author">Anaheim (California) City School District</field>
 <field name="title">Social studies scope and sequence outline : grade 5, living in the United
 States</field>
-<field name="keywords">Geography </field>
+<field name="keywords">Geography</field>
 <field name="keywords">Social sciences</field>
 <field name="keywords">United States history</field>
 <field name="publisher">Anaheim (California) City School District</field>
@@ -26797,7 +26797,7 @@ States</field>
 <field name="notes">28 leaves ; 28 cm.; Note(s): Supplement (S65).; Other Titles: Living in
 California.; Responsibility: Anaheim City School District.</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">5th</field>
+<field name="grade_level_number">5th grade</field>
 </doc>
 
 <doc>
@@ -26816,7 +26816,7 @@ Hemisphere</field>
 <field name="call_number">371.33 .A53s v. 4</field>
 <field name="notes">65, [9] leaves : ill. ; 28 cm.; Other Titles: Living in the Western
 Hemisphere.; Responsibility: prepared by Evelyn Sonnie, Anaheim City School District.</field>
-<field name="grade_level_number">6th</field>
+<field name="grade_level_number">6th grade</field>
 </doc>
 
 <doc>
@@ -26834,7 +26834,7 @@ Hemisphere.; Responsibility: prepared by Evelyn Sonnie, Anaheim City School Dist
 <field name="call_number">371.33 .A53s v. 1</field>
 <field name="notes">ii, 34 l. 28 cm.; Note(s): Cover title.; Other Titles: Living in a community.</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">3rd</field>
+<field name="grade_level_number">3rd grade</field>
 </doc>
 
 <doc>
@@ -26849,10 +26849,10 @@ Hemisphere.; Responsibility: prepared by Evelyn Sonnie, Anaheim City School Dist
 <field name="call_number">371.33 .S769s</field>
 <field name="notes">49 p. ; cm;</field>
 <field name="state_country">Missouri</field>
-<field name="grade_level_number">9th</field>
-<field name="grade_level_number">10th</field>
-<field name="grade_level_number">11th</field>
-<field name="grade_level_number">12th</field>
+<field name="grade_level_number">9th grade</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
 </doc>
 
 <doc>
@@ -26901,15 +26901,15 @@ Utah</field>
 <field name="call_number">371.33 .G23s 1960 suppl.</field>
 <field name="notes">28 cm.</field>
 <field name="state_country">Maryland</field>
-<field name="grade_level_number">1st</field>
-<field name="grade_level_number">2nd</field>
-<field name="grade_level_number">3rd</field>
-<field name="grade_level_number">4th</field>
-<field name="grade_level_number">5th</field>
-<field name="grade_level_number">6th</field>
-<field name="grade_level_number">7th</field>
-<field name="grade_level_number">8th</field>
-<field name="grade_level_number">9th</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
 </doc>
 
 <doc>
@@ -26944,7 +26944,7 @@ social studies)</field>
 <field name="notes">ill. ; 22 x 33 cm.; Note(s): Cover title.; Responsibility: Portland Public
 Schools.</field>
 <field name="state_country">Oregon</field>
-<field name="grade_level_number">3rd</field>
+<field name="grade_level_number">3rd grade</field>
 </doc>
 
 <doc>
@@ -26960,14 +26960,14 @@ Schools.</field>
 <field name="call_number">371.33 .B57c</field>
 <field name="state_country">California</field>
 <field name="grade_level_number">Kindergarten</field>
-<field name="grade_level_number">1st</field>
-<field name="grade_level_number">2nd</field>
-<field name="grade_level_number">3rd</field>
-<field name="grade_level_number">4th</field>
-<field name="grade_level_number">5th</field>
-<field name="grade_level_number">6th</field>
-<field name="grade_level_number">7th</field>
-<field name="grade_level_number">8th</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
 </doc>
 
 <doc>
@@ -26983,13 +26983,13 @@ Schools.</field>
 <field name="call_number">371.33 .R67s</field>
 <field name="state_country">New York</field>
 <field name="grade_level_number">Kindergarten</field>
-<field name="grade_level_number">1st</field>
-<field name="grade_level_number">2nd</field>
-<field name="grade_level_number">3rd</field>
-<field name="grade_level_number">4th</field>
-<field name="grade_level_number">5th</field>
-<field name="grade_level_number">6th</field>
-<field name="grade_level_number">7th</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+<field name="grade_level_number">7th grade</field>
 </doc>
 
 <doc>
@@ -27013,7 +27013,7 @@ How we get our food -- [gr. 7] Life in the world today: backgrounds of western c
 <field name="notes">v. : ill. ; 28 cm.; Note(s): Title on some vols. or covers: Social studies
 resource units.; Other Titles: Social studies resource units</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">1st</field>
+<field name="grade_level_number">1st grade</field>
 </doc>
 
 <doc>
@@ -27087,7 +27087,7 @@ College, in cooperation with the California State Department of Education ...]</
 <field name="pages">19</field>
 <field name="call_number">371.33 .B94s Grade 1 Adv.</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">1st</field>
+<field name="grade_level_number">1st grade</field>
 </doc>
 
 <doc>
@@ -27102,7 +27102,7 @@ College, in cooperation with the California State Department of Education ...]</
 <field name="pages">20</field>
 <field name="call_number">371.33 .B94s Grade 1</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">1st</field>
+<field name="grade_level_number">1st grade</field>
 </doc>
 
 <doc>
@@ -27117,7 +27117,7 @@ College, in cooperation with the California State Department of Education ...]</
 <field name="pages">24</field>
 <field name="call_number">371.33 .B94s Grade 2</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">2nd</field>
+<field name="grade_level_number">2nd grade</field>
 </doc>
 
 <doc>
@@ -27132,14 +27132,14 @@ College, in cooperation with the California State Department of Education ...]</
 <field name="pages">205</field>
 <field name="call_number">371.33 .S197s</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">1st</field>
-<field name="grade_level_number">2nd</field>
-<field name="grade_level_number">3rd</field>
-<field name="grade_level_number">4th</field>
-<field name="grade_level_number">5th</field>
-<field name="grade_level_number">6th</field>
-<field name="grade_level_number">7th</field>
-<field name="grade_level_number">8th</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
 </doc>
 
 <doc>
@@ -27154,8 +27154,8 @@ College, in cooperation with the California State Department of Education ...]</
 <field name="pages">22</field>
 <field name="call_number">371.33 .F17s v. 3</field>
 <field name="state_country">Connecticut</field>
-<field name="grade_level_number">9th</field>
-<field name="grade_level_number">10th</field>
+<field name="grade_level_number">9th grade</field>
+<field name="grade_level_number">10th grade</field>
 </doc>
 
 <doc>
@@ -27171,12 +27171,12 @@ College, in cooperation with the California State Department of Education ...]</
 <field name="pages">5</field>
 <field name="call_number">371.33 .F17s v. 1</field>
 <field name="state_country">Connecticut</field>
-<field name="grade_level_number">1st</field>
-<field name="grade_level_number">2nd</field>
-<field name="grade_level_number">3rd</field>
-<field name="grade_level_number">4th</field>
-<field name="grade_level_number">5th</field>
-<field name="grade_level_number">6th</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
 </doc>
 
 <doc>
@@ -27208,9 +27208,9 @@ Development</field>
 <field name="language">English</field>
 <field name="call_number">371.33 .N531s v. 3</field>
 <field name="state_country">New York</field>
-<field name="grade_level_number">10th</field>
-<field name="grade_level_number">11th</field>
-<field name="grade_level_number">12th</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
 </doc>
 
 <doc>
@@ -27224,7 +27224,7 @@ Development</field>
 <field name="pub_place">Pontiac, MI</field>
 <field name="call_number">371.33 .P81s v. 2</field>
 <field name="state_country">Michigan</field>
-<field name="grade_level_number">5th</field>
+<field name="grade_level_number">5th grade</field>
 </doc>
 
 <doc>
@@ -27238,7 +27238,7 @@ Development</field>
 <field name="pub_place">Pontiac, MI</field>
 <field name="call_number">371.33 .P81s v. 3</field>
 <field name="state_country">Michigan</field>
-<field name="grade_level_number">6th</field>
+<field name="grade_level_number">6th grade</field>
 </doc>
 
 <doc>
@@ -27253,9 +27253,9 @@ Development</field>
 <field name="pages">81</field>
 <field name="call_number">371.33 .P81s v. 4</field>
 <field name="state_country">Michigan</field>
-<field name="grade_level_number">7th</field>
-<field name="grade_level_number">8th</field>
-<field name="grade_level_number">9th</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
 </doc>
 
 <doc>
@@ -27270,12 +27270,12 @@ Development</field>
 <field name="pages">49</field>
 <field name="call_number">371.33 .M21s</field>
 <field name="state_country">Wisconsin</field>
-<field name="grade_level_number">7th</field>
-<field name="grade_level_number">8th</field>
-<field name="grade_level_number">9th</field>
-<field name="grade_level_number">10th</field>
-<field name="grade_level_number">11th</field>
-<field name="grade_level_number">12th</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
 </doc>
 
 <doc>
@@ -27293,7 +27293,7 @@ Development</field>
 <field name="call_number">371.33 .N531ss</field>
 <field name="notes">80 p. 28 cm.; Responsibility: [prepared by Dorothy E. Foster].</field>
 <field name="state_country">New York</field>
-<field name="grade_level_number">6th</field>
+<field name="grade_level_number">6th grade</field>
 </doc>
 
 <doc>
@@ -27345,12 +27345,12 @@ Development</field>
 education.; Other Titles: Social studies :; the elementary school curriculum, grades K-6</field>
 <field name="state_country">New York</field>
 <field name="grade_level_number">Kindergarten</field>
-<field name="grade_level_number">1st</field>
-<field name="grade_level_number">2nd</field>
-<field name="grade_level_number">3rd</field>
-<field name="grade_level_number">4th</field>
-<field name="grade_level_number">5th</field>
-<field name="grade_level_number">6th</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
 </doc>
 
 <doc>
@@ -27367,7 +27367,7 @@ education.; Other Titles: Social studies :; the elementary school curriculum, gr
 <field name="call_number">371.33 .S19g 1961 v. 1</field>
 <field name="notes">1 v. illus. 28 cm.</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">1st</field>
+<field name="grade_level_number">1st grade</field>
 </doc>
 
 <doc>
@@ -27385,7 +27385,7 @@ education.; Other Titles: Social studies :; the elementary school curriculum, gr
 <field name="call_number">371.33 .S19g 1961 v. 3</field>
 <field name="notes">1 v. illus. 28 cm.</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">3rd</field>
+<field name="grade_level_number">3rd grade</field>
 </doc>
 
 <doc>
@@ -27402,7 +27402,7 @@ education.; Other Titles: Social studies :; the elementary school curriculum, gr
 <field name="call_number">371.33 .S19g 1961 v. 2</field>
 <field name="notes">1 v. illus. 28 cm.</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">2nd</field>
+<field name="grade_level_number">2nd grade</field>
 </doc>
 
 <doc>
@@ -27420,7 +27420,7 @@ Development</field>
 <field name="call_number">330 .N53a</field>
 <field name="notes">xx; illus. 28 cm.</field>
 <field name="state_country">New York</field>
-<field name="grade_level_number">12th</field>
+<field name="grade_level_number">12th grade</field>
 </doc>
 
 <doc>
@@ -27491,14 +27491,14 @@ through eight</field>
 <field name="call_number">371.33 .S19s</field>
 <field name="notes">47 p. ; 28 cm.</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">1st</field>
-<field name="grade_level_number">2nd</field>
-<field name="grade_level_number">3rd</field>
-<field name="grade_level_number">4th</field>
-<field name="grade_level_number">5th</field>
-<field name="grade_level_number">6th</field>
-<field name="grade_level_number">7th</field>
-<field name="grade_level_number">8th</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
 </doc>
 
 <doc>
@@ -27545,7 +27545,7 @@ seventh grade general education classes, Tulsa, Oklahoma</field>
 <field name="pages">75</field>
 <field name="call_number">323 .R683m</field>
 <field name="state_country">Oklahoma</field>
-<field name="grade_level_number">7th</field>
+<field name="grade_level_number">7th grade</field>
 </doc>
 
 <doc>
@@ -28217,7 +28217,7 @@ and Harold E. Mitzel.</field>
 <field name="language">English</field>
 <field name="notes">35, 5 vii p. 28 cm.</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">12th</field>
+<field name="grade_level_number">12th grade</field>
 </doc>
 
 <doc>
@@ -28411,7 +28411,7 @@ part 1</field>
 <field name="pages">32</field>
 <field name="call_number">371.46 .C96s</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">9th</field>
+<field name="grade_level_number">9th grade</field>
 </doc>
 
 <doc>
@@ -28648,12 +28648,12 @@ war in the modern world</field>
 <field name="pub_place">Duluth, MN</field>
 <field name="call_number">371.33 .D88s</field>
 <field name="notes">Minnesota</field>
-<field name="grade_level_number">7th</field>
-<field name="grade_level_number">8th</field>
-<field name="grade_level_number">9th</field>
-<field name="grade_level_number">10th</field>
-<field name="grade_level_number">11th</field>
-<field name="grade_level_number">12th</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
 </doc>
 
 <doc>
@@ -28750,9 +28750,9 @@ schools, December 9-15, 1955</field>
 <field name="pages">20</field>
 <field name="call_number">371.33 .B94s Sugg. 4-6</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">4th</field>
-<field name="grade_level_number">5th</field>
-<field name="grade_level_number">6th</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
 </doc>
 
 <doc>
@@ -28767,9 +28767,9 @@ schools, December 9-15, 1955</field>
 <field name="pages">22</field>
 <field name="call_number">371.33 .B94s Sugg. 1-3</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">1st</field>
-<field name="grade_level_number">2nd</field>
-<field name="grade_level_number">3rd</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
 </doc>
 
 <doc>
@@ -28897,7 +28897,7 @@ and orthopedically handicapped, September, 1973</field>
 <field name="call_number">371.33 .A72t v. 3</field>
 <field name="notes">77 p. ; cm</field>
 <field name="state_country">Virginia</field>
-<field name="grade_level_number">8th</field>
+<field name="grade_level_number">8th grade</field>
 </doc>
 
 <doc>
@@ -29201,7 +29201,7 @@ Tufts University</field>
 <field name="pages">28</field>
 <field name="call_number">371.33 .C51c v. 1</field>
 <field name="state_country">Massachusetts</field>
-<field name="grade_level_number">3rd</field>
+<field name="grade_level_number">3rd grade</field>
 </doc>
 
 <doc>
@@ -29254,16 +29254,16 @@ Tufts University</field>
 curriculum for grades K-12 and has been developed by the Project Social Studies Curriculum Center at
 the University of Minnesota.&quot;</field>
 <field name="state_country">Minnesota</field>
-<field name="grade_level_number">8th</field>
+<field name="grade_level_number">8th grade</field>
 </doc>
 
 <doc>
 <field name="type">Book</field>
 <field name="corp_author">Project Social Studies Curriculum Development Center</field>
 <field name="title">Teacher's guide to the seventh grade course on man and society</field>
-<field name="keywords">Anthropology </field>
+<field name="keywords">Anthropology</field>
 <field name="keywords">Social sciences</field>
-<field name="keywords">Sociology </field>
+<field name="keywords">Sociology</field>
 <field name="year">1968</field>
 <field name="date">1968</field>
 <field name="publisher">University of Minnesota</field>
@@ -29275,7 +29275,7 @@ the University of Minnesota.&quot;</field>
 curriculum for grades K-12 and has been developed by the Project Social Studies Curriculum
 Development Center at the University of Minnesota.</field>
 <field name="state_country">Minnesota</field>
-<field name="grade_level_number">7th</field>
+<field name="grade_level_number">7th grade</field>
 </doc>
 
 <doc>
@@ -29290,12 +29290,12 @@ Development Center at the University of Minnesota.</field>
 <field name="pages">81</field>
 <field name="call_number">371.33 .G752t</field>
 <field name="state_country">Utah</field>
-<field name="grade_level_number">7th</field>
-<field name="grade_level_number">8th</field>
-<field name="grade_level_number">9th</field>
-<field name="grade_level_number">10th</field>
-<field name="grade_level_number">11th</field>
-<field name="grade_level_number">12th</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
 </doc>
 
 <doc>
@@ -29312,8 +29312,8 @@ around the world</field>
 <field name="language">English</field>
 <field name="call_number">371.33 .C51f v. 1</field>
 <field name="state_country">Massachusetts</field>
-<field name="grade_level_number">1st</field>
-<field name="grade_level_number">2nd</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
 </doc>
 
 <doc>
@@ -29433,7 +29433,7 @@ States history</field>
 <field name="pages">103</field>
 <field name="call_number">327 .B19t</field>
 <field name="state_country">Maryland</field>
-<field name="grade_level_number">12th</field>
+<field name="grade_level_number">12th grade</field>
 </doc>
 
 <doc>
@@ -29587,12 +29587,12 @@ Responsibility: [by Edward G. Olsen, and others]</field>
 secondary schools of Hawaii [by the Secondary Curriculum Committee].&quot; September, 1955
 Supplement included.</field>
 <field name="state_country">Hawaii</field>
-<field name="grade_level_number">7th</field>
-<field name="grade_level_number">8th</field>
-<field name="grade_level_number">9th</field>
-<field name="grade_level_number">10th</field>
-<field name="grade_level_number">11th</field>
-<field name="grade_level_number">12th</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
 </doc>
 
 <doc>
@@ -29633,7 +29633,7 @@ Contemporary problems; Section 4: Teaching aids &amp; bibliographies.</field>
 <field name="notes">ill. ; 28 cm.; Responsibility: prepared by Denver C. Fox at the request of the
 Joint Camping Education Advisory Committee 1957-58.</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">6th</field>
+<field name="grade_level_number">6th grade</field>
 </doc>
 
 <doc>
@@ -29712,7 +29712,7 @@ Joint Camping Education Advisory Committee 1957-58.</field>
 <field name="type">Book</field>
 <field name="author">Campbell, A. Bruce</field>
 <field name="title">Teaching about basic legal concepts in the senior high school</field>
-<field name="keywords">Law </field>
+<field name="keywords">Law</field>
 <field name="year">1974</field>
 <field name="date">1974</field>
 <field name="pub_place">Albany, NY</field>
@@ -29762,10 +29762,10 @@ of Secondary Curriculum Development</field>
 <field name="call_number">320 .N53t</field>
 <field name="notes">39 p. ; 23 cm.; Note(s): Bibliography: p. 32-38.</field>
 <field name="state_country">New York</field>
-<field name="grade_level_number">9th</field>
-<field name="grade_level_number">10th</field>
-<field name="grade_level_number">11th</field>
-<field name="grade_level_number">12th</field>
+<field name="grade_level_number">9th grade</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
 </doc>
 
 <doc>
@@ -29803,12 +29803,12 @@ grades 7-12</field>
 <field name="call_number">320 .L88t</field>
 <field name="notes">Reprinted 1963.</field>
 <field name="state_country">Kentucky</field>
-<field name="grade_level_number">7th</field>
-<field name="grade_level_number">8th</field>
-<field name="grade_level_number">9th</field>
-<field name="grade_level_number">10th</field>
-<field name="grade_level_number">11th</field>
-<field name="grade_level_number">12th</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
 </doc>
 
 <doc>
@@ -30254,9 +30254,9 @@ social studies seven, social studies eight, social studies nine</field>
 <field name="pages">51</field>
 <field name="call_number">371.33 .A13t</field>
 <field name="state_country">Pennsylvania</field>
-<field name="grade_level_number">7th</field>
-<field name="grade_level_number">8th</field>
-<field name="grade_level_number">9th</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
 </doc>
 
 <doc>
@@ -30276,15 +30276,15 @@ social studies seven, social studies eight, social studies nine</field>
 <field name="notes">v; illus. 26 cm.; Note(s): Includes bibliographies.</field>
 <field name="state_country">Illinois</field>
 <field name="grade_level_number">Kindergarten</field>
-<field name="grade_level_number">1st</field>
-<field name="grade_level_number">2nd</field>
-<field name="grade_level_number">3rd</field>
-<field name="grade_level_number">4th</field>
-<field name="grade_level_number">5th</field>
-<field name="grade_level_number">6th</field>
-<field name="grade_level_number">7th</field>
-<field name="grade_level_number">8th</field>
-<field name="grade_level_number">9th</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
 </doc>
 
 <doc>
@@ -30317,8 +30317,8 @@ social studies seven, social studies eight, social studies nine</field>
 <field name="call_number">371.33 .M62t v. 2</field>
 <field name="notes">iv; ill., maps ; 21 x 26 cm.; Note(s): Includes bibliographical references.;
 Responsibility: edited by John U. Michaelis.</field>
-<field name="grade_level_number">3rd</field>
-<field name="grade_level_number">4th</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
 </doc>
 
 <doc>
@@ -30403,9 +30403,9 @@ of work for grades four, five, and six</field>
 <field name="pages">20</field>
 <field name="call_number">327 .S23te v. 3</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">4th</field>
-<field name="grade_level_number">5th</field>
-<field name="grade_level_number">6th</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
 </doc>
 
 <doc>
@@ -30437,9 +30437,9 @@ Units of work for grades one, two, and three</field>
 <field name="pages">20</field>
 <field name="call_number">327 .S23te v. 2</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">1st</field>
-<field name="grade_level_number">2nd</field>
-<field name="grade_level_number">3rd</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
 </doc>
 
 <doc>
@@ -30650,12 +30650,12 @@ grade fourteen</field>
 <field name="pub_place">Ft. Lauderdale, FL</field>
 <field name="call_number">371.33 .B87t</field>
 <field name="state_country">Florida</field>
-<field name="grade_level_number">7th</field>
-<field name="grade_level_number">8th</field>
-<field name="grade_level_number">9th</field>
-<field name="grade_level_number">10th</field>
-<field name="grade_level_number">11th</field>
-<field name="grade_level_number">12th</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
 </doc>
 
 <doc>
@@ -30687,7 +30687,7 @@ grade fourteen</field>
 <field name="series_vol">FC-7</field>
 <field name="call_number">371.401 .W28t</field>
 <field name="state_country">Ohio</field>
-<field name="grade_level_number">10th</field>
+<field name="grade_level_number">10th grade</field>
 </doc>
 
 <doc>
@@ -30704,7 +30704,7 @@ grade fourteen</field>
 <field name="call_number">371.33 .O11t</field>
 <field name="notes">11 leaves ; cm</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">12th</field>
+<field name="grade_level_number">12th grade</field>
 </doc>
 
 <doc>
@@ -31070,9 +31070,9 @@ concepts and activities, grades four, five, and six</field>
 <field name="call_number">371.33 .L86t</field>
 <field name="notes">ill. ; 22 x 28 cm.; Note(s): Cover title./ Includes bibliographical references.</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">4th</field>
-<field name="grade_level_number">5th</field>
-<field name="grade_level_number">6th</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
 </doc>
 
 <doc>
@@ -31407,10 +31407,10 @@ Sub-Committee of the Curriculum Committee, National Council for the Social Studi
 <field name="call_number">371.3 .B21t v. 2</field>
 <field name="notes">26 [i.e. 28] p. ; 22 cm.; Responsibility: Annette D. Frank, Tillie S. Pine.
 </field>
-<field name="grade_level_number">3rd</field>
-<field name="grade_level_number">4th</field>
-<field name="grade_level_number">5th</field>
-<field name="grade_level_number">6th</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
 </doc>
 
 <doc>
@@ -31595,7 +31595,7 @@ Downs. Vendor Info: Baker and Taylor (BTCP)</field>
 <field name="pages">151</field>
 <field name="call_number">371.33 .R53so v. 2</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">2nd</field>
+<field name="grade_level_number">2nd grade</field>
 </doc>
 
 <doc>
@@ -31666,7 +31666,7 @@ University of Washington, 1955.</field>
 <field name="pages">136</field>
 <field name="call_number">371.33 .R53so v. 1</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">1st</field>
+<field name="grade_level_number">1st grade</field>
 </doc>
 
 <doc>
@@ -31750,7 +31750,7 @@ pupils: a resource unit for seventh grade social living classes</field>
 <field name="pages">84</field>
 <field name="call_number">371.46 .L84o</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">7th</field>
+<field name="grade_level_number">7th grade</field>
 </doc>
 
 <doc>
@@ -31769,7 +31769,7 @@ Educational Research</field>
 <field name="call_number">323 .L84ot</field>
 <field name="notes">Published Sept. 1945, revised May 1946</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">7th</field>
+<field name="grade_level_number">7th grade</field>
 </doc>
 
 <doc>
@@ -31955,7 +31955,7 @@ history</field>
 Developmental Economic Education Program of the Joint Council on Economic Education New York and the
 Minnesota State Council on Economic Education.</field>
 <field name="state_country">Minnesota</field>
-<field name="grade_level_number">8th</field>
+<field name="grade_level_number">8th grade</field>
 </doc>
 
 <doc>
@@ -32498,9 +32498,9 @@ children in grades four, five and six</field>
 <field name="notes">&quot;The booklet is designed to answer many of the questions asked by the
 parents of intermediate children and to suggest how parents and teachers can work together to help
 children obtain the greatest benefit from the intermediate years in school.&quot; p. [1]</field>
-<field name="grade_level_number">4th</field>
-<field name="grade_level_number">5th</field>
-<field name="grade_level_number">6th</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
 </doc>
 
 <doc>
@@ -32551,7 +32551,7 @@ Annette Smith, James Waterman Wise.&quot;/ Bibliography: p. 82-93.</field>
 <field name="pages">14</field>
 <field name="call_number">370.21 .V82w</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">1st</field>
+<field name="grade_level_number">1st grade</field>
 </doc>
 
 <doc>
@@ -32736,7 +32736,7 @@ optional</field>
 <field name="pages">10</field>
 <field name="call_number">371.33 .S53u v. 3</field>
 <field name="state_country">Kansas</field>
-<field name="grade_level_number">9th</field>
+<field name="grade_level_number">9th grade</field>
 </doc>
 
 <doc>
@@ -33155,7 +33155,7 @@ policemen, our firemen. The monograph follows the scope of the Yolo County cours
 <field name="call_number">371.33 .Y54s v. 2</field>
 <field name="notes">1 v.;</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">1st</field>
+<field name="grade_level_number">1st grade</field>
 </doc>
 
 <doc>
@@ -33174,7 +33174,7 @@ policemen, our firemen. The monograph follows the scope of the Yolo County cours
 <field name="call_number">371.33 .Y54s v. 3</field>
 <field name="notes">1 v.</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">2nd</field>
+<field name="grade_level_number">2nd grade</field>
 </doc>
 
 <doc>
@@ -33191,7 +33191,7 @@ policemen, our firemen. The monograph follows the scope of the Yolo County cours
 <field name="call_number">371.33 .Y54s v. 4</field>
 <field name="notes">1 v.</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">3rd</field>
+<field name="grade_level_number">3rd grade</field>
 </doc>
 
 <doc>
@@ -33209,7 +33209,7 @@ policemen, our firemen. The monograph follows the scope of the Yolo County cours
 <field name="call_number">371.33 .Y54s v. 5</field>
 <field name="notes">1 v.</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">4th</field>
+<field name="grade_level_number">4th grade</field>
 </doc>
 
 <doc>
@@ -33227,7 +33227,7 @@ policemen, our firemen. The monograph follows the scope of the Yolo County cours
 <field name="call_number">371.33 .Y54s v. 6</field>
 <field name="notes">1 v.</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">5th</field>
+<field name="grade_level_number">5th grade</field>
 </doc>
 
 <doc>
@@ -33247,7 +33247,7 @@ policemen, our firemen. The monograph follows the scope of the Yolo County cours
 <field name="call_number">371.33 .Y54s v. 7</field>
 <field name="notes">1 v.</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">6th</field>
+<field name="grade_level_number">6th grade</field>
 </doc>
 
 <doc>
@@ -33266,7 +33266,7 @@ policemen, our firemen. The monograph follows the scope of the Yolo County cours
 <field name="call_number">371.33 .Y54s v. 8</field>
 <field name="notes">1 v.</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">7th</field>
+<field name="grade_level_number">7th grade</field>
 </doc>
 
 <doc>
@@ -33283,7 +33283,7 @@ policemen, our firemen. The monograph follows the scope of the Yolo County cours
 <field name="call_number">371.33 .Y54s v. 9</field>
 <field name="notes">1 v.</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">8th</field>
+<field name="grade_level_number">8th grade</field>
 </doc>
 
 <doc>
@@ -33434,7 +33434,7 @@ children</field>
 <field name="pages">26</field>
 <field name="call_number">370.21 .S68h V. 2</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">1st</field>
+<field name="grade_level_number">1st grade</field>
 </doc>
 
 <doc>
@@ -33448,8 +33448,8 @@ children</field>
 <field name="pub_place">Des Moines, IA</field>
 <field name="call_number">370.21 .D44y</field>
 <field name="state_country">Iowa</field>
-<field name="grade_level_number">3rd</field>
-<field name="grade_level_number">4th</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
 </doc>
 
 <doc>
