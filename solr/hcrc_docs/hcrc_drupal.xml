@@ -33712,7 +33712,7 @@ adult schools</field>
 <field name="call_number">371.3 .L869L</field>
 <field name="notes">Library has 1960-1961 and 1964-1965.</field>
 <field name="state_country">California</field>
-field name="grade_level_group">Postsecondary</field>
+<field name="grade_level_group">Postsecondary</field>
 <field name="grade_level_group">High school</field>
 <field name="grade_level_group">Middle school</field>
 </doc>
