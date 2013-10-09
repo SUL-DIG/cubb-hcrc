@@ -917,7 +917,7 @@ his culture, grade 1-7</field>
 <field name="grade_level_number">2nd grade</field>
 <field name="grade_level_number">3rd grade</field>
 <field name="grade_level_number">4th grade</field>
-<field name="grade_level_number"”>5th</field>
+<field name="grade_level_number">5th grade</field>
 <field name="grade_level_number">6th grade</field>
 <field name="grade_level_number">7th grade</field>
 </doc>
