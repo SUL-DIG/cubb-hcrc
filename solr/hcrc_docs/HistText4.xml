@@ -209,7 +209,7 @@ references.</field>
 <field name="date">09/1964</field>
 <field name="pages">129</field>
 <field name="keywords">Reading</field>
-<field name="publisher">Sacramento City (California) Unified School District</field>
+<field name="publisher">Sacramento (California) City Unified School District</field>
 <field name="pub_place">Sacramento, CA</field>
 <field name="language">English</field>
 <field name="call_number">373.3 S12</field>
@@ -563,7 +563,7 @@ Education</field>
 <field name="keywords">School superintendents</field>
 <field name="keywords">School principals</field>
 <field name="notes">26 p. ; 27 cm.; Note(s): Includes index.; Other Titles: Community adult school
-principals.; Responsibility: Los Angeles City Schools ; prepared by Division of Planning and
+principals.; Responsibility: Los Angeles City (California) Schools ; prepared by Division of Planning and
 Research.</field>
 <field name="edition">Rev.</field>
 <field name="publisher">Los Angeles (California) City School District. Division of Adult
@@ -584,7 +584,7 @@ Education</field>
 <field name="keywords">Counseling</field>
 <field name="keywords">Adult education</field>
 <field name="notes">x; ; 28 cm.; Note(s): Includes index.; Responsibility: prepared by Division of
-Adult Education, Los Angeles City Schools.</field>
+Adult Education, Los Angeles City (California) Schools.</field>
 <field name="edition">1971 revision</field>
 <field name="publisher">Division of Planning and Research, Los Angeles (California) City
 Schools</field>
@@ -603,7 +603,7 @@ Continuing Education</field>
 <field name="pages">29</field>
 <field name="keywords">Evaluation</field>
 <field name="notes">29 p. ; 28 cm.; Note(s): Includes bibliographical references (p. 27-29).;
-Responsibility: Los Angeles City Schools Division of Career and Continuing Education.</field>
+Responsibility: Los Angeles City (California) Schools Division of Career and Continuing Education.</field>
 <field name="edition">Rev.</field>
 <field name="publisher">Los Angeles (California) City School District. Division of Career and
 Continuing Education</field>
@@ -909,7 +909,7 @@ Council.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Abreu Gomez, Ermilo</field><field name="author_nat">Ermilo Abreu Gomez</field>
+<field name="author">Abreu Gómez, Ermilo</field><field name="author_nat">Ermilo Abreu Gomez</field>
 <field name="title">Abraham Lincoln</field>
 <field name="year">1955</field>
 <field name="date">1955</field>
@@ -1060,7 +1060,7 @@ Emma Reyes.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Abreu Gómez,Ermilo</field><field name="author_nat"/>
+<field name="author">Abreu Gómez, Ermilo</field><field name="author_nat"/>
 <field name="title">El alcoholismo</field>
 <field name="year">1955</field>
 <field name="date">1955</field>
@@ -1347,7 +1347,7 @@ de Harold Fonseca y Roberta Cernades W.].</field>
 <field name="title">La casa rural</field>
 <field name="year">1952</field>
 <field name="date">1952</field>
-<field name="keywords">Rural Housing</field>
+<field name="keywords">Rural housing</field>
 <field name="keywords">Juvenile literature</field>
 <field name="notes">[36] p. ill. 21 cm.; Responsibility: [Ilus. de Luis Daell].</field>
 <field name="series_title">Biblioteca popular latinoamericana. Serie de economía y asuntos
@@ -1413,7 +1413,7 @@ básicos</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Abreu Gómez,Ermilo</field><field name="author_nat"/>
+<field name="author">Abreu Gómez, Ermilo</field><field name="author_nat"/>
 <field name="title">San Francisco de Asís</field>
 <field name="year">1955</field>
 <field name="date">1955</field>

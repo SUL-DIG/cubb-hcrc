@@ -405,7 +405,7 @@ through three: a sample ecology unit</field>
 <field name="year">1977</field>
 <field name="date">1977</field>
 <field name="pages">32</field>
-<field name="keywords">Science)</field>
+<field name="keywords">Science</field>
 <field name="keywords">Ecology</field>
 <field name="keywords">Gifted children</field>
 <field name="abstract">Science: curriculum guide for teaching gifted children science in grades one
@@ -1206,7 +1206,7 @@ Cleveland."</field>
 <field name="corp_author">Los Angeles (California) City School District. Division of Instructional
 Services</field>
 <field name="title">Curriculum trends and text book needs; reports presented by the Curriculum
-Branch, Division of Instructional Services, Los Angeles City Schools, at a meeting for the American
+Branch, Division of Instructional Services, Los Angeles City (California) Schools, at a meeting for the American
 Textbook Publishers Institute</field>
 <field name="year">1965</field>
 <field name="date">11/1965</field>
@@ -2075,10 +2075,10 @@ Cumulative record</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="corp_author">Inyo (California) County Schools</field>
+<field name="corp_author">Inyo County (California) Schools</field>
 <field name="title">Experimental report to parents</field>
 <field name="keywords">Grading and marking</field>
-<field name="publisher">Inyo (California) County Schools</field>
+<field name="publisher">Inyo County (California) Schools</field>
 <field name="language">English</field>
 <field name="call_number">379.2 .I63e</field>
 <field name="state_country">California</field>
@@ -2097,10 +2097,10 @@ Cumulative record</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="corp_author">Lassen (California) County Schools</field>
+<field name="corp_author">Lassen County (California) Schools</field>
 <field name="title">California cumulative guidance record for elementary schools</field>
 <field name="keywords">Grading and marking</field>
-<field name="publisher">Lassen (California) County Schools</field>
+<field name="publisher">Lassen County (California) Schools</field>
 <field name="pub_place">Susanville, CA</field>
 <field name="language">English</field>
 <field name="call_number">379.2 .L34c</field>
@@ -2769,13 +2769,13 @@ Services</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="corp_author">Garrett County (Maryland) Board of Education</field>
+<field name="corp_author">Garret County (Maryland) Board of Education</field>
 <field name="title">Christmas bulletin</field>
 <field name="year">1954</field>
 <field name="date">12/1954</field>
 <field name="pages">89</field>
 <field name="keywords">Christmas</field>
-<field name="publisher">Garrett County (Maryland) Board of Education</field>
+<field name="publisher">Garret County (Maryland) Board of Education</field>
 <field name="language">English</field>
 <field name="call_number">390 .G23c</field>
 <field name="state_country">Maryland</field>
@@ -2916,13 +2916,13 @@ and special occasions]</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="corp_author">Yolo (California) County Schools</field>
+<field name="corp_author">Yolo County (California) Schools</field>
 <field name="title">Peace on earth</field>
 <field name="year">1953</field>
 <field name="date">12/1953</field>
 <field name="keywords">Christmas</field>
 <field name="keywords">Holidays</field>
-<field name="publisher">Yolo (California) County Schools</field>
+<field name="publisher">Yolo County (California) Schools</field>
 <field name="language">English</field>
 <field name="call_number">390 .Y54p</field>
 <field name="state_country">California</field>

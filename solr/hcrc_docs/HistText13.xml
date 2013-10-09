@@ -61,13 +61,13 @@ chapter.; Responsibility: State of Minnesota, Department of Education.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="corp_author">Monrovia (California) City SChool District</field>
+<field name="corp_author">Monrovia (California) City School District</field>
 <field name="title">Supplementary outline to Los Angeles County course of study</field>
 <field name="year">1957</field>
 <field name="date">09/1957</field>
 <field name="pages">20</field>
 <field name="keywords">Curricula</field>
-<field name="publisher">Monrovia (California) City SChool District</field>
+<field name="publisher">Monrovia (California) City School District</field>
 <field name="pub_place">Los Angeles, CA</field>
 <field name="language">English</field>
 <field name="call_number">375.13 .M75s</field>
@@ -270,7 +270,7 @@ Dearborn Public Schools.</field>
 <field name="keywords">Junior high schools</field>
 <field name="keywords">Curricula</field>
 <field name="notes">61 p. tables. 28 cm.; Note(s): Bibliography: p. 52-61.</field>
-<field name="publisher">Dearborn (Michigan) Public School</field>
+<field name="publisher">Dearborn (Michigan) Public schools</field>
 <field name="pub_place">Dearborn, MI</field>
 <field name="language">English</field>
 <field name="call_number">375.14 .D28p</field>

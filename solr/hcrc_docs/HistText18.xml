@@ -1620,13 +1620,13 @@ Adventures in handwriting</field>
 <doc>
 <field name="type">Book</field>
 <field name="author">James, Katherine G.</field><field name="author_nat">Katherine G. James</field>
-<field name="corp_author">New Haven State Teacher College</field>
+<field name="corp_author">New Haven State Teachers College</field>
 <field name="title">Guide for teaching spelling in the laboratory schools</field>
 <field name="year">1958</field>
 <field name="date">1958</field>
 <field name="pages">27</field>
 <field name="keywords">Orthography and spelling</field>
-<field name="publisher">New Haven State Teacher College</field>
+<field name="publisher">New Haven State Teachers College</field>
 <field name="pub_place">New Haven, CT</field>
 <field name="language">English</field>
 <field name="call_number">428.1 .C75g</field>
@@ -1687,13 +1687,13 @@ Harris, Rachel V.H. Needham, Denver Public Schools.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="corp_author">Gary (Indiana) Public School</field>
+<field name="corp_author">Gary (Indiana) Public Schools</field>
 <field name="title">Spelling skills guide for the elementary schools</field>
 <field name="year">1958</field>
 <field name="date">1958</field>
 <field name="pages">19</field>
 <field name="keywords">Orthography and spelling</field>
-<field name="publisher">Gary (Indiana) Public School</field>
+<field name="publisher">Gary (Indiana) Public Schools</field>
 <field name="pub_place">Gary, IN</field>
 <field name="language">English</field>
 <field name="call_number">428.1 .G24s</field>
@@ -1746,7 +1746,7 @@ schools</field>
 <doc>
 <field name="type">Book</field>
 <field name="author">Fitzgerald, James Augustine</field><field name="author_nat">James Augustine Fitzgerald</field>
-<field name="author">University of the State of New York. Bureau of Elementary Curriculum
+<field name="corp_author">University of the State of New York. Bureau of Elementary Curriculum
 Development</field><field name="author_nat"/>
 <field name="title">Learning to spell; a research report</field>
 <field name="year">1960</field>

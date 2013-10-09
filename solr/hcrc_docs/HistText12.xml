@@ -825,7 +825,7 @@ Virginia</field>
 <doc>
 <field name="type">Book</field>
 <field name="author">Schlechty, Phillip C.</field><field name="author_nat">Phillip C. Schlechty</field>
-<field name="corp_author">Virginia Beach (Virginia). Public Schools</field>
+<field name="corp_author">Virginia Beach (Virginia) Public Schools</field>
 <field name="title">Parent attitudes toward the Virginia Beach year-round school pilot
 project</field>
 <field name="year">1974</field>
@@ -836,7 +836,7 @@ project</field>
 presented to the Virginia Beach Public Schools by Phillip C. Schlechty.</field>
 <field name="series_title">The Virginia Beach, Virginia 45-15 pilot program of year-round
 education</field>
-<field name="publisher">Virginia Beach (Virginia). Public Schools</field>
+<field name="publisher">Virginia Beach (Virginia) Public Schools</field>
 <field name="pub_place">Virginia Beach, VA</field>
 <field name="language">English</field>
 <field name="call_number">375.13 .V81y no. 8</field>
@@ -845,7 +845,7 @@ education</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="corp_author">Virginia Beach (Virginia). Public Schools</field>
+<field name="corp_author">Virginia Beach (Virginia) Public Schools</field>
 <field name="corp_author">Schlechty Associates</field>
 <field name="title">The extensiveness and accuracy of parent information about the Virginia Beach
 45-15 pilot program</field>
@@ -857,7 +857,7 @@ education</field>
 Schools by Schlechty Associates.</field>
 <field name="series_title">The Virginia Beach, Virginia 45-15 pilot program of year-round
 education</field>
-<field name="publisher">Virginia Beach (Virginia). Public Schools</field>
+<field name="publisher">Virginia Beach (Virginia) Public Schools</field>
 <field name="pub_place">Virginia Beach, VA</field>
 <field name="language">English</field>
 <field name="call_number">375.13 .V81y no. 5</field>
@@ -866,14 +866,14 @@ education</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="corp_author">Virginia Beach (Virginia). Public Schools</field>
+<field name="corp_author">Virginia Beach (Virginia) Public Schools</field>
 <field name="title">News view : a compilation of newspaper reports and features about The Virginia
 Beach, Virginia, pilot program of year-round education</field>
 <field name="year">1973</field>
 <field name="date">1973-1974</field>
 <field name="keywords">School year</field>
 <field name="notes">2 v. .; v. ill. 27 cm; Note(s): Subtitle varies.</field>
-<field name="publisher">Virginia Beach (Virginia). Public Schools</field>
+<field name="publisher">Virginia Beach (Virginia) Public Schools</field>
 <field name="pub_place">Virginia Beach, VA</field>
 <field name="language">English</field>
 <field name="call_number">375.13 .V81y nos. 6-7</field>

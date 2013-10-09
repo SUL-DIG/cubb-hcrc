@@ -166,7 +166,7 @@ interest...&quot;</field>
 <field name="keywords">Educational counseling</field>
 <field name="year">1968</field>
 <field name="date">1968</field>
-<field name="publisher">Los Angeles City Schools</field>
+<field name="publisher">Los Angeles City (California) Schools</field>
 <field name="pub_place">Los Angeles, CA</field>
 <field name="pages">45</field>
 <field name="language">English</field>
@@ -285,12 +285,12 @@ desegregation</field>
 <doc>
 <field name="type">Book</field>
 <field name="author">Parker, Dorothy</field>
-<field name="corp_author">Vallejo Unified School District</field>
+<field name="corp_author">Vallejo (California) Unified School District</field>
 <field name="title">Administration of elementary school libraries</field>
 <field name="keywords">School libraries</field>
 <field name="year">1958</field>
 <field name="date">04/1958</field>
-<field name="publisher">Vallejo Unified School District</field>
+<field name="publisher">Vallejo (California) Unified School District</field>
 <field name="pub_place">Vallejo, CA</field>
 <field name="pages">13</field>
 <field name="call_number">027.8 .V18a</field>
@@ -674,7 +674,7 @@ metropolitan schools, Nashville - Davidson Co., Tenn</field>
 <field name="keywords">Politics and government</field>
 <field name="year">1962</field>
 <field name="date">1962</field>
-<field name="publisher">Los Angeles City Schools</field>
+<field name="publisher">Los Angeles City (California) Schools</field>
 <field name="pub_place">Los Angeles, CA</field>
 <field name="pages">183</field>
 <field name="language">English</field>
@@ -798,7 +798,7 @@ Publication</field>
 <field name="keywords">Politics and government</field>
 <field name="year">1962</field>
 <field name="date">1962</field>
-<field name="publisher">Los Angeles City Schools, Division of Instructional Services, Instructional
+<field name="publisher">Los Angeles City (California) Schools, Division of Instructional Services, Instructional
 Aids and Services Branch, Library Section</field>
 <field name="pub_place">Los Angeles, CA</field>
 <field name="series_vol">GC-11</field>
@@ -3743,7 +3743,7 @@ Newmann. AEP ed.: Craig Pearson; John Marchak; David G. Sparks.</field>
 <field name="keywords">Catalogs</field>
 <field name="year">1953</field>
 <field name="date">09/1953</field>
-<field name="publisher">Sacramento City (California) Unified School District</field>
+<field name="publisher">Sacramento (California) City Unified School District</field>
 <field name="pub_place">Sacramento, CA</field>
 <field name="pages">85</field>
 <field name="call_number">371.3095 .S12c 1953 v. 1</field>
@@ -3760,7 +3760,7 @@ Newmann. AEP ed.: Craig Pearson; John Marchak; David G. Sparks.</field>
 <field name="keywords">Catalogs</field>
 <field name="year">1953</field>
 <field name="date">09/1953</field>
-<field name="publisher">Sacramento City (California) Unified School District</field>
+<field name="publisher">Sacramento (California) City Unified School District</field>
 <field name="pub_place">Sacramento, CA</field>
 <field name="pages">183</field>
 <field name="call_number">371.3095 .S12c 1953 v. 2</field>
@@ -3973,13 +3973,13 @@ schools</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="corp_author">Santa Barbara (California) County Schools</field>
+<field name="corp_author">Santa Barbara County (California) Schools</field>
 <field name="title">Catalog of audio-visual resources</field>
 <field name="keywords">Audio-visual materials</field>
 <field name="keywords">Catalogs</field>
 <field name="year">1948</field>
 <field name="date">10/1948</field>
-<field name="publisher">Santa Barbara (California) County Schools</field>
+<field name="publisher">Santa Barbara County (California) Schools</field>
 <field name="pub_place">Santa Barbara, CA</field>
 <field name="pages">218</field>
 <field name="call_number">371.3095 .S228c</field>
@@ -4043,7 +4043,7 @@ Department. Lassen County Schools</field>
 <field name="keywords">Catalogs</field>
 <field name="year">1950</field>
 <field name="date">09/1950</field>
-<field name="publisher">Lassen (California) County Schools</field>
+<field name="publisher">Lassen County (California) Schools</field>
 <field name="pub_place">Susanville, CA</field>
 <field name="pages">139</field>
 <field name="call_number">371.3095 .L34c</field>
@@ -4094,7 +4094,7 @@ handicapped, Master Tape Library.</field>
 <field name="keywords">Catalogs</field>
 <field name="year">1949</field>
 <field name="date">09/1949</field>
-<field name="publisher">Los Angeles (California) County Schools</field>
+<field name="publisher">Los Angeles County (California) Schools</field>
 <field name="pub_place">Los Angeles, CA</field>
 <field name="pages">83</field>
 <field name="call_number">371.3095 .L87c v. 2</field>
@@ -5113,7 +5113,7 @@ of Cincinnati ; foreword by Walter C. Langsam, President, University of Cincinna
 <field name="title">College guidance handbook for high school students</field>
 <field name="keywords">College choice</field>
 <field name="keywords">Universities and colleges</field>
-<field name="keywords">Admission</field>
+<field name="keywords">Admissions</field>
 <field name="year">1967</field>
 <field name="date">1967</field>
 <field name="publisher">Denver (Colorado) Public Schools</field>
@@ -7844,7 +7844,7 @@ magazine.; Other Titles: Councilor.</field>
 <field name="title">Economic education for the elementary school--a bibliography</field>
 <field name="series_title">Bibliography series</field>
 <field name="keywords">Economics</field>
-<field name="keywords">Bibliographies</field>
+<field name="keywords">Bibliography</field>
 <field name="year">1965</field>
 <field name="date">1965</field>
 <field name="publisher">Kansas State Department of Public Education</field>
@@ -8127,7 +8127,7 @@ Wood, chairman, National Schools Committee.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="corp_author">The Columbus (Ohio) Public Schools. Division of Instruction</field>
+<field name="corp_author">Columbus (Ohio) Public Schools. Division of Instruction</field>
 <field name="title">Economics: program and resources for instructions, grade 7-12.</field>
 <field name="keywords">Economics</field>
 <field name="year">1969</field>
@@ -10556,12 +10556,12 @@ Dent and Ernest F. Tiemann ; designed by Nancy M. Holland.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="corp_author">Los Angeles (California) County Schools</field>
+<field name="corp_author">Los Angeles County (California) Schools</field>
 <field name="title">Film study guides</field>
 <field name="keywords">Educational films</field>
 <field name="year">1948</field>
 <field name="date">1948</field>
-<field name="publisher">Los Angeles (California) County Schools</field>
+<field name="publisher">Los Angeles County (California) Schools</field>
 <field name="pub_place">Los Angeles, CA</field>
 <field name="call_number">371.3095 .L87fs</field>
 <field name="state_country">California</field>
@@ -10770,12 +10770,12 @@ revision. *Not for publication.&quot;/ Includes bibliography: (p.142-165).</fiel
 
 <doc>
 <field name="type">Book</field>
-<field name="corp_author">The Modern Language Association of America</field>
+<field name="corp_author">Modern Language Association of America</field>
 <field name="title">Foreign language training curricula: a conference report</field>
 <field name="keywords">Language teachers</field>
 <field name="year">1960</field>
 <field name="date">05/1960</field>
-<field name="publisher">The Modern Language Association of America</field>
+<field name="publisher">Modern Language Association of America</field>
 <field name="pub_place">New York, NY</field>
 <field name="pages">6</field>
 <field name="call_number">370.7 .M69f</field>
@@ -12714,7 +12714,7 @@ Education Association of the United States.</field>
 <field name="type">Book</field>
 <field name="author">Elgin, David T.</field>
 <field name="author">Garcia, Genero B.</field>
-<field name="author">Lynes, Gary g.</field>
+<field name="author">Lynes, Gary G.</field>
 <field name="author">Ring, Kathryn M.</field>
 <field name="author">Smith, Jack V.</field>
 <field name="title">A guide to the development of student participation in government in junior
@@ -13256,7 +13256,7 @@ August 1956&quot;</field>
 <field name="type">Book</field>
 <field name="corp_author">Charlotte (North Carolina) City Schools</field>
 <field name="title">Handbook for teachers</field>
-<field name="keywords">Public school</field>
+<field name="keywords">Public schools</field>
 <field name="year">1959</field>
 <field name="date">1959-1960</field>
 <field name="publisher">Charlotte (North Carolina) City Schools</field>
@@ -15550,7 +15550,7 @@ Responsibility: by Shoreline School District No. 412.</field>
 <field name="type">Book</field>
 <field name="corp_author">Berkeley (California) Unified School District</field>
 <field name="title">Intergroup in-service guide</field>
-<field name="keywords">Minorities ; Race relations</field>
+<field name="keywords">Minorities</field><field>Race relations</field>
 <field name="keywords">Multicultural education</field>
 <field name="year">1967</field>
 <field name="date">09/1967</field>
@@ -15752,10 +15752,10 @@ personnel</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="corp_author">The Lake Charles (Louisiana) City School Board Office</field>
+<field name="corp_author">Lake Charles (Louisiana) City School Board Office</field>
 <field name="title">Is your child starting to school?</field>
 <field name="keywords">Parent and child</field>
-<field name="publisher">The Lake Charles (Louisiana) City School Board Office</field>
+<field name="publisher">Lake Charles (Louisiana) City School Board Office</field>
 <field name="pub_place">Lake Charles, LA</field>
 <field name="pages">11</field>
 <field name="call_number">370.21 .L18i</field>
@@ -16085,14 +16085,14 @@ ninth grade, by Virginia Fooks.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="corp_author">Sacramento City (California) Unified School District</field>
+<field name="corp_author">Sacramento (California) City Unified School District</field>
 <field name="title">Junior high school social studies audio-visual aids schedule and manual</field>
 <field name="keywords">Audio-visual materials</field>
 <field name="keywords">Social sciences</field>
 <field name="keywords">Audio-visual materials</field>
 <field name="year">1956</field>
 <field name="date">06/1956</field>
-<field name="publisher">Sacramento City (California) Unified School District</field>
+<field name="publisher">Sacramento (California) City Unified School District</field>
 <field name="pub_place">Sacramento, CA</field>
 <field name="pages">69</field>
 <field name="call_number">371.3095 .S12j</field>
@@ -16150,7 +16150,7 @@ ninth grade, by Virginia Fooks.</field>
 <doc>
 <field name="type">Book</field>
 <field name="author">Barneck, Henry</field>
-<field name="corp_author">Roseburg (Oregon) Public School District No. 4 (Or.)</field>
+<field name="corp_author">Roseburg (Oregon) Public School District No. 4</field>
 <field name="title">The keys to information: Roseburg public schools library scope and sequence
 program grades 7-12</field>
 <field name="keywords">Library instruction</field>
@@ -19934,7 +19934,7 @@ bibliographical references.</field>
 <field name="pub_place">Sunnyvale, CA</field>
 <field name="pages">131</field>
 <field name="call_number">371.33 .S94o</field>
-<field name="state_country">Calfornia</field>
+<field name="state_country">California</field>
 </doc>
 
 <doc>
@@ -21513,7 +21513,7 @@ research by John J. Patrick.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="corp_author">Learning Resources in International Studies (Organization)</field>
+<field name="corp_author">Learning Resources in International Studies</field>
 <field name="title">Population workbook : a series of learning exercises in population studies for
 undergraduates</field>
 <field name="keywords">Population</field>
@@ -22106,7 +22106,7 @@ Responsibility: by Frank Angel.</field>
 <field name="type">Book</field>
 <field name="corp_author">Los Angeles (California) City Schools</field>
 <field name="title">Program of Americanism for our schools</field>
-<field name="series_title">Los Angeles City Schools Pubication</field>
+<field name="series_title">Los Angeles City (California) Schools Pubication</field>
 <field name="keywords">Citizenship</field>
 <field name="year">1940</field>
 <field name="date">1940</field>
@@ -23270,7 +23270,7 @@ vision.&quot;</field>
 <field name="pages">91</field>
 <field name="language">English</field>
 <field name="call_number">027.8 .L87r v. 1</field>
-<field name="notes">91 p. illus.; Los Angeles City Schools. Division of Instructional Services.
+<field name="notes">91 p. illus.; Los Angeles City (California) Schools. Division of Instructional Services.
 Publication; no. SC-598</field>
 <field name="state_country">California</field>
 <field name="grade_level_group">Middle school</field>
@@ -23995,13 +23995,13 @@ traditional values</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="corp_author">Philadelphia (Pennsylvania) Public Schools Curriculum Office</field>
+<field name="corp_author">Philadelphia (Pennsylvania) Public Schools. Curriculum Office</field>
 <field name="title">School as a social institution</field>
 <field name="series_title">Resource Bulletin in Social Studies</field>
 <field name="keywords">Social sciences</field>
 <field name="year">1953</field>
 <field name="date">09/1953</field>
-<field name="publisher">Philadelphia (Pennsylvania) Public School</field>
+<field name="publisher">Philadelphia (Pennsylvania) Public schools</field>
 <field name="pub_place">Philadelphia, PA</field>
 <field name="pages">50</field>
 <field name="language">English</field>
@@ -24311,7 +24311,7 @@ from the Harvard Social Studies Project under the direction of Donald W. Oliver 
 <doc>
 <field name="type">Book</field>
 <field name="corp_author">Tuscaloosa (Alabama) Public Schools. Committee on Basic Social Program</field>
-<field name="corp_author">Tuscaloosa City Schools</field>
+<field name="corp_author">Tuscaloosa (Alabama) City Schools</field>
 <field name="title">Scope and sequence of the basic social program, tentative report, 1947-1950</field>
 <field name="keywords">Social sciences</field>
 <field name="year">1950</field>
@@ -25763,7 +25763,7 @@ development</field>
 <field name="keywords">Social sciences</field>
 <field name="year">1965</field>
 <field name="date">1965</field>
-<field name="publisher">Garrett County (Maryland) Board of Education</field>
+<field name="publisher">Garret County (Maryland) Board of Education</field>
 <field name="pub_place">Oakland, MD</field>
 <field name="series_vol">Rev.</field>
 <field name="pages">48</field>
@@ -25860,7 +25860,7 @@ development</field>
 <field name="keywords">Social sciences</field>
 <field name="year">1965</field>
 <field name="date">1965</field>
-<field name="publisher">Garrett County (Maryland) Board of Education</field>
+<field name="publisher">Garret County (Maryland) Board of Education</field>
 <field name="pub_place">Oakland, MD</field>
 <field name="series_vol">Rev.</field>
 <field name="pages">78</field>
@@ -25940,7 +25940,7 @@ retarded pupils.</field>
 <field name="corp_author">Los Angeles County (California) Office of Superintendent of Schools</field>
 <field name="title">Social studies for EMR pupils : teacher resource material : an instructional
 bulletin for junior high schools</field>
-<field name="series_title">Publication - Los Angeles City Schools, Division of Instructional
+<field name="series_title">Publication - Los Angeles City (California) Schools, Division of Instructional
 Planning and Services, Instructional Planning Branch</field>
 <field name="keywords">Social sciences</field>
 <field name="year">1970</field>
@@ -25953,7 +25953,7 @@ Planning and Services, Instructional Planning Branch</field>
 <field name="call_number">371.33 .L86s 1970 v. 2</field>
 <field name="notes">ix, 241 leaves : ill.; Note(s): Photoreproduction. Arlington, Va. : ERIC
 Document Reproduction Service, [1978?]. -- 2 v. ; 28 cm. -- (ERIC reports ; ED 046 809).;
-Responsibility: Los Angeles City Schools, Division of Instructional Planning and Services, 
+Responsibility: Los Angeles City (California) Schools, Division of Instructional Planning and Services, 
 Instructional Planning Branch.</field>
 <field name="state_country">California</field>
 <field name="grade_level_group">Middle school</field>
@@ -26994,7 +26994,7 @@ Schools.</field>
 <doc>
 <field name="type">Book</field>
 <field name="corp_author">San Mateo County (California) Schools</field>
-<field name="corp_author">San Mateo County Board of Education</field>
+<field name="corp_author">San Mateo County (California) Board of Education</field>
 <field name="title">Social studies units for grade one, including health, science, and safety</field>
 <field name="keywords">Community life</field>
 <field name="keywords">Food</field>
@@ -28594,7 +28594,7 @@ aids for teachers</field>
 <field name="type">Book</field>
 <field name="author">Thorpe, Gerald L.</field>
 <field name="corp_author">Wayne State University. College of Education</field>
-<field name="corp_author">The World Law Fund</field>
+<field name="corp_author">World Law Fund</field>
 <field name="title">A suggested procedure for teaching a twelve week unit on problems of peace and
 war in the modern world</field>
 <field name="keywords">International relations</field>
@@ -29929,7 +29929,7 @@ references&quot;: p. 48-49./ Also issued online.; Responsibility: by Elmer H. Wi
 <doc>
 <field name="type">Book</field>
 <field name="author">Doyle, R. W.</field>
-<field name="corp_author">The Mapleton Public Schools (Denver, Colorado) K-12 Economic Education Curriculum Committee</field>
+<field name="corp_author">Mapleton Public Schools (Denver, Colorado) K-12 Economic Education Curriculum Committee</field>
 <field name="title">Teaching guide for better economic understanding, grades K-12</field>
 <field name="keywords">Economics</field>
 <field name="year">1964</field>
@@ -30326,7 +30326,7 @@ Responsibility: edited by John U. Michaelis.</field>
 <field name="title">Teaching units in the social sciences: early grades</field>
 <field name="series_title">New trends in teaching series</field>
 <field name="keywords">Social sciences</field>
-<field name="keywords">Teachers Handbook</field>
+<field name="keywords">Teachers handbook</field>
 <field name="year">1966</field>
 <field name="date">1966</field>
 <field name="publisher">Rand McNally</field>
@@ -32216,8 +32216,8 @@ Responsibility: prepared by Edward H. Anderson.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="corp_author">Ventura County (California) Teachers Handbook</field>
-<field name="title">Ventura County (California) Teachers Handbook</field>
+<field name="corp_author">Ventura County (California) Teachers handbook</field>
+<field name="title">Ventura County (California) Teachers handbook</field>
 <field name="keywords">Public schools</field>
 <field name="keywords">Teacher orientation</field>
 <field name="year">1949</field>
@@ -33694,7 +33694,7 @@ issued online.; General Info: Continued by: How to do it in the social studies c
 
 <doc>
 <field name="type">Journal</field>
-<field name="corp_author">Los Angeles City Schools</field>
+<field name="corp_author">Los Angeles City (California) Schools</field>
 <field name="title">List of authorized textbooks. : Junior and senior high schools and community
 adult schools</field>
 <field name="series_title">Los Angeles. Board of Education. School publications. ;; no. 426, rev.
@@ -33704,7 +33704,7 @@ adult schools</field>
 <field name="keywords">Textbooks</field>
 <field name="year">1960</field>
 <field name="date">1960/61, 1964/65</field>
-<field name="publisher">Los Angeles City Schools</field>
+<field name="publisher">Los Angeles City (California) Schools</field>
 <field name="pub_place">Los Angeles, CA</field>
 <field name="language">English</field>
 <field name="call_number">371.3 .L869L</field>

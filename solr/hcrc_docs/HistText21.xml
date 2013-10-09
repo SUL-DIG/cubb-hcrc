@@ -1013,7 +1013,7 @@ conjunction with the junior high school English course of study</field>
 <field name="pages">135</field>
 <field name="keywords">English language</field>
 <field name="keywords">Composition and exercises</field>
-<field name="publisher">Los Angeles (California) County Schools</field>
+<field name="publisher">Los Angeles County (California) Schools</field>
 <field name="pub_place">Los Angeles, CA</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .L87g v. 1</field>
@@ -1023,13 +1023,13 @@ conjunction with the junior high school English course of study</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="corp_author">Los Angeles (California) County Schools</field>
+<field name="corp_author">Los Angeles County (California) Schools</field>
 <field name="title">Using short films to motivate English activities</field>
 <field name="year">1947</field>
 <field name="date">01/1947</field>
 <field name="pages">31</field>
 <field name="keywords">English language</field>
-<field name="publisher">Los Angeles (California) County Schools</field>
+<field name="publisher">Los Angeles County (California) Schools</field>
 <field name="pub_place">Los Angeles, CA</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .L87u</field>
@@ -1037,7 +1037,7 @@ conjunction with the junior high school English course of study</field>
 </doc>
 <doc>
 <field name="type">Book</field>
-<field name="author">Los Angeles (California) City Schools</field>
+<field name="corp_author">Los Angeles (California) City Schools</field>
 <field name="title">Instructional guide, b11 English</field>
 <field name="year">1962</field>
 <field name="date">1962</field>
@@ -1135,7 +1135,7 @@ Curriculum Branch</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Los Angeles (California) City Schools</field>
+<field name="corp_author">Los Angeles (California) City Schools</field>
 <field name="title">Instructional guide for senior English : [grade 12]</field>
 <field name="year">1956</field>
 <field name="date">1956</field>
