@@ -2576,7 +2576,8 @@ States history &amp; geography</field>
 <field name="notes">&quot;A Joint Publication of the Divisions of Audio-Visual Education and
 Secondary Education.&quot;</field>
 <field name="state_country">California</field>
-<field name=”grade_level_group”>High school</field></doc>
+<field name="grade_level_group">High school</field>
+</doc>
 
 <doc>
 <field name="type">Book</field>
