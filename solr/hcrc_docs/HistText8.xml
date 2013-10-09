@@ -548,7 +548,7 @@ series</field>
 <field name="language">English</field>
 <field name="call_number">375.12 .N53e</field>
 <field name="state_country">New York</field>
-<field name="grade_level_group">Kindergarten</field>
+<field name="grade_level_number">Kindergarten</field>
 <field name="grade_level_number">1st grade</field>
 <field name="grade_level_number">2nd grade</field>
 </doc>
