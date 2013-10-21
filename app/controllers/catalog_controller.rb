@@ -100,7 +100,7 @@ class CatalogController < ApplicationController
     config.add_index_field 'date', :label => 'Date:' 
     config.add_index_field 'state_country', :label => 'State/Country:' 
     config.add_index_field 'grade_leve_group', :label => 'Grade Level:'
-    config.add_index_field 'keywords', :label => 'Subjects:':link_to_search => :keywords_facet
+    config.add_index_field 'keywords', :label => 'Subjects:', :link_to_search => :keywords_facet
 
     # solr fields to be displayed in the show (single result) view
     #   The ordering of the field names is the order of the display 
