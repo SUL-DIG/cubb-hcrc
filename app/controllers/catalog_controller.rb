@@ -121,7 +121,7 @@ class CatalogController < ApplicationController
     config.add_show_field 'series_num_vol', :label => 'Number of Volumes in Series:'
     config.add_show_field 'edition', :label => 'Edition:'
     config.add_show_field 'issue', :label => 'Issue:'
-    config.add_show_field 'keywords', :label => 'Subjects:', , :link_to_search => :keywords_facet
+    config.add_show_field 'keywords', :label => 'Subjects:', :link_to_search => :keywords_facet
     config.add_show_field 'language', :label => 'Language:'
     config.add_show_field 'grade_level_group', :label => 'Grade Level Group:'
     config.add_show_field 'grade_level_number', :label => 'Grade Level Number:'
