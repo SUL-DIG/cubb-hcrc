@@ -1,6 +1,9 @@
 module ApplicationHelper
 def render_external_link args, results = Array.new
-        results << link_to((args[:document].get(blacklight_config.show_fields[args[:field]][:text]), ("/?f%5Bkeywords_facet%5D%5B%5D=" + args[:document].get(args[:field])), { :target => "_self" }).html_safe
+		text = args[:document].get(blacklight_config.show_fields[args[:field]][:text])
+		url_pre = "/?f%5Bkeywords_facet%5D%5B%5D="
+		url_post = args[:document].get(args[:field])
+        results << link_to(text, (url_pre + url_post), { :target => "_self" }).html_safe
   end
 
 end
