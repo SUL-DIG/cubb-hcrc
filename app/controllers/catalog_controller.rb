@@ -100,7 +100,7 @@ class CatalogController < ApplicationController
     config.add_index_field 'date', :label => 'Date:' 
     config.add_index_field 'state_country', :label => 'State/Country:' 
     config.add_index_field 'grade_leve_group', :label => 'Grade Level:'
-    config.add_index_field 'keywords', :label => 'Subjects:', :link_to_search => :keywords_facet
+    config.add_index_field 'keywords', :label => 'Subjects:'
 
     # solr fields to be displayed in the show (single result) view
     #   The ordering of the field names is the order of the display 
@@ -123,8 +123,8 @@ class CatalogController < ApplicationController
     config.add_show_field 'issue', :label => 'Issue:'
     config.add_show_field 'keywords', :label => 'Subjects:', :link_to_search => :keywords_facet
     config.add_show_field 'language', :label => 'Language:'
-    config.add_show_field 'grade_level_group', :label => 'Grade Level Group:'
-    config.add_show_field 'grade_level_number', :label => 'Grade Level Number:'
+    config.add_show_field 'grade_level_group', :label => 'Grade Level Group:', :link_to_search => :grade_level_group_facet
+    config.add_show_field 'grade_level_number', :label => 'Grade Level Number:', :link_to_search => :grade_level_number_facet
     
 
     # "fielded" search configuration. Used by pulldown among other places.
