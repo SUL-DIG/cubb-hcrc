@@ -1,0 +1,1192 @@
+TY  - BOOK
+A2  - Oakland (California) Public Schools
+T1  - The language arts guide: first progress report: grades seven through nine
+Y1  - 1950
+D1  - 08/1950
+SP  - 43
+KW  - Language arts
+KW  - English language
+PB  - Oakland (California) Public Schools
+CY  - Oakland, CA
+LA  - English
+CN  - 428.2 .O11L 1950 v. 1
+SC  - California
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Oakland (California) Public Schools
+T1  - The language arts guide: first progress report: grades ten, eleven, and twelve
+Y1  - 1950
+D1  - 08/1950
+SP  - 43
+KW  - Language arts
+KW  - English language
+PB  - Oakland (California) Public Schools
+CY  - Oakland, CA
+LA  - English
+CN  - 428.2 .O11L 1950 v. 2
+SC  - California
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Oakland (California) Board of Education
+T1  - The language arts guide : third progress report : grades seven through twelve
+Y1  - 1953
+D1  - 12/1953
+SP  - 233
+KW  - English language
+KW  - Language arts
+N1  - xvi, 233 leaves ; 28 cm.
+PB  - Oakland (California) Public Schools
+CY  - Oakland, CA
+LA  - English
+CN  - 428.2 .O11L 1953
+SC  - California
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Oakland (California) Public Schools
+T1  - World literature and advanced composition: a required course for college preparatory students in the twelfth year
+Y1  - 1959
+D1  - 06/1959
+SP  - 34
+KW  - Literature
+T2  - Lang. Arts; 1959-3
+PB  - Oakland (California) Public Schools
+CY  - Oakland, CA
+LA  - English
+CN  - 428.2 O11w
+SC  - California
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Oklahoma City (Oklahoma) Public Schools
+T1  - Here's how!  (Some suggestions for the teaching of language arts by Oklahoma City teachers)
+Y1  - 1953
+D1  - 09/1953
+SP  - 62
+KW  - Language arts
+PB  - Oklahoma City (Oklahoma) Public Schools
+CY  - Oklahoma City, OK
+LA  - English
+CN  - 428.2 .O41h
+SC  - Oklahoma
+ER  - 
+
+TY  - BOOK
+A2  - Oakland (California) Public Schools
+T1  - The language arts guide, fourth progress report; grades seven through twelve
+Y1  - 1957
+D1  - 1957
+SP  - 208
+KW  - English language
+KW  - Language arts
+N1  - xv; illus. 28 cm.; Note(s): Cover title./ "Lang. arts 1957-1."
+PB  - Oakland (California) Public Schools
+CY  - Oakland, CA
+LA  - English
+CN  - 428.2 .O11L 1957
+SC  - California
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Oakland (California) Public Schools
+T1  - Tentative guide for English elective--ninth grade
+Y1  - 1959
+D1  - 06/1959
+SP  - 36
+KW  - English language
+PB  - Oakland (California) Public Schools
+CY  - Oakland, CA
+LA  - English
+CN  - 428.2 .O11t
+SC  - California
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Oklahoma State Department of Education
+T1  - Revised teaching guide for the language arts : grades 1-13, (for classroom use)
+Y1  - 1963
+D1  - 1963
+SP  - 186
+KW  - Language arts
+KW  - English language
+N1  - 186 pages : illustrations ; 23 cm; Note(s): Includes bibliographical references (pages 177-180).; Other Titles: Teaching guide for the language arts.; Responsibility: [prepared by the Oklahoma Council of Teachers of English under the authority of the Oklahoma Curriculum Improvement Commission].
+ED  - Rev
+PB  - Oklahoma State Department of Education
+CY  - Oklahoma City, OK
+LA  - English
+CN  - 428.2 O41t
+SC  - Oklahoma
+ER  - 
+
+TY  - BOOK
+A2  - Ontario (Canada) Department of Education
+T1  - English intermediate division, 1969
+Y1  - 1969
+D1  - 1969
+SP  - 15
+KW  - English language
+N1  - 15 p. illus. 28 cm.; Note(s): Cover title./ Includes bibliographical references.
+PB  - Ontario (Canada) Department of Education
+CY  - Toronto, Ontario
+LA  - English
+CN  - 428.2 .O59e
+SC  - Canada
+ER  - 
+
+TY  - BOOK
+A2  - University of Oregon. Curriculum Study Center
+T1  - Grammaticality : language curriculum i, student version
+Y1  - 1964
+D1  - 1964
+SP  - 173
+KW  - English language
+KW  - Curriculum
+PB  - University of Oregon
+CY  - Eugene, OR
+LA  - English
+CN  - 428.2 .O65c v. 2
+ER  - 
+
+TY  - BOOK
+A2  - University of Oregon. Oregon Curriculum Study Center
+T1  - Grammaticality and phrase structure rules 1-12. Language curriculum i. Student version
+Y1  - 1965
+D1  - 1965
+SP  - 183
+KW  - English language
+KW  - Grammar
+N1  - 183 p. ; 28 cm.; Responsibility: University of Oregon.
+PB  - University of Oregon
+CY  - Eugene, OR
+LA  - English
+CN  - 428.2 .O65c v. 2a
+ER  - 
+
+TY  - BOOK
+A2  - University of Oregon
+A2  - Oregon Curriculum Study Center
+A2  - NDEA Summer English Institute
+T1  - Phrase structure rules 13-18: Language curriculum i. Student version
+Y1  - 1965
+D1  - 1965
+SP  - 69
+KW  - English language
+KW  - Grammar
+AB  - Part of a seventh grade curriculum in transformational grammar.
+N1  - ill. ; 28 cm.; Responsibility: University of Oregon.
+PB  - University of Oregon
+CY  - Eugene, Ore
+LA  - English
+CN  - 428.2 .O65c v. 3
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A2  - University of Oregon
+A2  - Oregon Curriculum Study Center
+A2  - NDEA Summer English Institute
+T1  - Phrase structure rules 13-18: Language curriculum i. Student version
+Y1  - 1965
+D1  - 1965
+SP  - 69
+KW  - English language
+KW  - Grammar
+AB  - Part of a seventh grade curriculum in transformational grammar.
+N1  - ill. ; 28 cm.; Responsibility: University of Oregon.
+PB  - University of Oregon
+CY  - Eugene, Ore
+LA  - English
+CN  - 428.2 .O65c v. 3a
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A2  - University of Oregon
+A2  - Oregon Curriculum Study Center
+A2  - NDEA Summer English Institute
+T1  - A Curriculum in English : Grade 7-12
+Y1  - 1964
+D1  - 1964
+SP  - 62
+KW  - English language
+KW  - Composition and exercises
+AB  - Course of study which includes language, literature, composition, and speech.
+N1  - 52 p.; Responsibility: University of Oregon.
+PB  - University of Oregon
+CY  - Eugene, OR
+LA  - English
+CN  - 428.2 .O65c v. 1 1964
+SC  - Oregon
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - University of Oregon
+A2  - Oregon Curriculum Study Center
+A2  - NDEA Summer English Institute
+T1  - A Curriculum in English : Grade 7-12
+Y1  - 1966
+D1  - 1966
+SP  - 61
+KW  - English language
+KW  - Composition and exercises
+AB  - Course of study which includes language, literature, composition, and speech.
+N1  - 52 p.; Responsibility: University of Oregon.
+ED  - Rev.
+PB  - University of Oregon
+CY  - Eugene, OR
+LA  - English
+CN  - 428.2 .O65c v. 1 1966
+SC  - Oregon
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - University of Oregon. Oregon Curriculum Study Center
+T1  - Expansion of phrase structure rules and single base transformation : language curriculum. II, Student version
+Y1  - 1965
+D1  - 1965
+SP  - 134
+KW  - English language
+KW  - Grammar
+PB  - University of Oregon. Oregon Curriculum Study Center
+CY  - Eugene, OR
+LA  - English
+CN  - 428.2 .O65c v. 4
+ER  - 
+
+TY  - BOOK
+A2  - University of Oregon. Oregon Curriculum Study Center
+T1  - Double-base transformations language curriculum. II
+Y1  - 1965
+D1  - 1965
+SP  - 107
+KW  - English language
+KW  - Grammar
+AB  - V. [1] Teacher version -- v. [2] Student version.
+PB  - University of Oregon. Oregon Curriculum Study Center
+CY  - Eugene, OR
+LA  - English
+CN  - 428.2 .O65c v. 5
+ER  - 
+
+TY  - BOOK
+A2  - University of Oregon. Oregon Curriculum Study Center
+T1  - Novel--The pearl. Literature curriculum II. Student version
+Y1  - 1964
+D1  - 1964
+SP  - 21
+KW  - Literature
+PB  - University of Oregon. Oregon Curriculum Study Center
+CY  - Eugene, OR
+LA  - English
+CN  - 428.2 .O65c v. 5a
+ER  - 
+
+TY  - BOOK
+A2  - University of Oregon. Oregon Curriculum Study Center
+T1  - Novel--The call of the wild. Literature curriculum II. Student version
+Y1  - 1964
+D1  - 1964
+SP  - 20
+KW  - Literature
+PB  - University of Oregon. Oregon Curriculum Study Center
+CY  - Eugene, OR
+LA  - English
+CN  - 428.2 .O65c v. 9
+ER  - 
+
+TY  - BOOK
+A2  - University of Oregon. Oregon Curriculum Study Center
+T1  - Merchant of Venice. Literature curriculum III
+Y1  - 1965
+D1  - 1965
+SP  - 38
+KW  - Literature
+PB  - University of Oregon. Oregon Curriculum Study Center
+CY  - Eugene, OR
+LA  - English
+CN  - 428.2 .O65c v. 10
+ER  - 
+
+TY  - BOOK
+A2  - University of Oregon. Oregon Curriculum Study Center
+T1  - Novel: Roughing it. Literature curriculum III
+Y1  - 1965
+D1  - 1965
+SP  - 33
+KW  - Literature
+PB  - University of Oregon. Oregon Curriculum Study Center
+CY  - Eugene, OR
+LA  - English
+CN  - 428.2 .O65c v. 11
+ER  - 
+
+TY  - BOOK
+A2  - University of Oregon. Oregon Curriculum Study Center
+T1  - General orientation unit. Literature curriculum I. Student version
+Y1  - 1964
+D1  - 1964
+SP  - 47
+KW  - Literature
+PB  - University of Oregon. Oregon Curriculum Study Center
+CY  - Eugene, OR
+LA  - English
+CN  - 428.2 .O65c v. 6
+ER  - 
+
+TY  - BOOK
+A2  - University of Oregon
+A2  - Oregon Curriculum Study Center
+A2  - NDEA Summer English Institute
+T1  - Finding and developing ideas
+Y1  - 1964
+D1  - 1964
+SP  - 66
+KW  - English language
+KW  - Rhetoric
+AB  - Lessons to help the student become aware of how sentences can be shaped and joined to fulfill purposes.
+N1  - 66 p. ; 28 cm.; Responsibility: University of Oregon.
+PB  - University of Oregon
+CY  - Eugene, OR
+LA  - English
+CN  - 428.2 .O65c v. 13
+ER  - 
+
+TY  - BOOK
+A2  - University of Oregon
+A2  - Oregon Curriculum Study Center
+A2  - NDEA Summer English Institute
+T1  - Rhetoric of the sentence
+Y1  - 1964
+D1  - 1964
+SP  - 14
+KW  - English language
+KW  - Rhetoric
+AB  - Curriculum dealing with the rhetoric of three transformations: passive, question and sentence conjunction.
+N1  - 14 p. ; 28 cm.; Responsibility: University of Oregon.
+PB  - University of Oregon
+CY  - Eugene, OR
+LA  - English
+CN  - 428.2 .O65c v. 14
+ER  - 
+
+TY  - BOOK
+A2  - University of Oregon
+A2  - Oregon Curriculum Study Center
+A2  - NDEA Summer English Institute
+T1  - Handbook for seventh and eighth grade work in speech
+Y1  - 1964
+D1  - 1964
+SP  - 13
+KW  - English language
+KW  - Rhetoric
+KW  - Speech
+KW  - Public speaking
+N1  - 13 p. ; 28 cm.; Responsibility: University of Oregon.
+PB  - University of Oregon
+CY  - Eugene, OR
+LA  - English
+CN  - 428.2 .O65c v. 12
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - University of Oregon
+A2  - Oregon Curriculum Study Center
+A2  - NDEA Summer English Institute
+T1  - Travel literature. Literature curriculum ii. Student version
+Y1  - 1964
+D1  - 1964
+SP  - 54
+KW  - Literature
+AB  - Literature curriculum organized around principles of structure.
+PB  - University of Oregon
+CY  - Eugene, OR
+LA  - English
+CN  - 428.2 .O65c v. 7
+ER  - 
+
+TY  - BOOK
+A1  - Farrow, Vern, L.
+T1  - Whither elementary language arts in the space age?
+Y1  - 1966
+D1  - 12/1966
+SP  - 9
+KW  - Language arts
+N1  - 9 p. 28 cm.; Note(s): Cover title./ Bibliography: p. 9.; Responsibility: editor, Hugh B. Wood.
+T2  - University of Oregon. Curriculum Laboratory. Curriculum bulletin
+V1  - 273
+PB  - School of Education, University of Oregon
+CY  - Eugene, OR
+LA  - English
+CN  - 428.2 .O67w
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Gigous, Goldie Marie
+T1  - Improving listening skills
+Y1  - 1967
+D1  - 1967
+SP  - 48
+KW  - Listening
+N1  - ill.; Responsibility: Goldie Marie Gigous.
+T2  - Instructor handbook series
+PB  - F.A. Owen
+CY  - Dansville, NY
+LA  - English
+CN  - 428.2 .O97i
+ER  - 
+
+TY  - BOOK
+A1  - Kraus, Silvy A.
+T1  - The teaching of grammar
+Y1  - 1961
+D1  - 02/1961
+SP  - 19
+KW  - English language
+KW  - Grammar
+N1  - 19 p. ; 30 cm.; Responsibility: prepared by Silvy A. Kraus.
+T2  - University of Oregon. School of Education. Curriculum bulletin
+V1  - 210
+PB  - School of Education, University of Oregon
+CY  - Eugene, OR
+LA  - English
+CN  - 428.2 .O67te
+ER  - 
+
+TY  - BOOK
+A1  - Mittman, Arthur
+T1  - Constructing tests in a curriculum study center
+Y1  - 1967
+D1  - 11/1967
+SP  - 6
+KW  - English literature
+N1  - 6 p.; Note(s): Cover title.
+T2  - University of Oregon. School of Education. Curriculum bulletin
+V1  - 284
+PB  - School of Education, University of Oregon
+CY  - Eugene, OR
+LA  - English
+CN  - 428.2 .O67c
+ER  - 
+
+TY  - BOOK
+A2  - Palm Springs (California) Unified School District
+T1  - A sequential course of study in English; grades 7-12
+Y1  - 1964
+D1  - 1964
+SP  - 40
+KW  - English language
+N1  - [95] l. ; 29 cm.
+PB  - Palm Springs (California) Unified School District
+CY  - Palm Springs, CA
+LA  - English
+CN  - 428.2 .P17s
+SC  - California
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A1  - Tanner, Bernard
+A1  - Vittetoe, Craig
+T1  - A description of the twelfth grade course in advanced standing English
+Y1  - 1958
+D1  - Summer, 1958
+SP  - 35
+KW  - English language
+PB  - Palo Alto (California) Unified School District
+CY  - Palo Alto, CA
+LA  - English
+CN  - 428.2 .P18d
+SC  - California
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A1  - White, Jean F.
+A1  - Shutes, Robert E.
+A2  - Palo Alto (California) Unified School District
+T1  - Teacher's guide for English language arts: grade vii
+Y1  - 1956
+D1  - 1956?
+SP  - 106
+KW  - English language
+N1  - 106 p.; Note(s): Cover title./ Foreword signed: Jean F. White, Robert E. Shutes
+PB  - Palo Alto (California) Unified School District
+CY  - Palo Alto, CA
+LA  - English
+CN  - 428.2 .P18t v. 1
+SC  - California
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A1  - White, Jean F.
+A1  - Shutes, Robert E.
+A2  - Palo Alto (California) Unified School District
+T1  - Teacher's guide for English language arts: grade viii
+Y1  - 1956
+D1  - 1956?
+SP  - 98
+KW  - English language
+N1  - Note(s): Cover title./ Foreword signed: Jean F. White, Robert E. Shutes
+PB  - Palo Alto (California) Unified School District
+CY  - Palo Alto, CA
+LA  - English
+CN  - 428.2 .P18t v. 3
+SC  - California
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A1  - Myres, John
+T1  - Mechanics of English, grades 7 to 12: a curriculum guide for secondary English
+Y1  - 1959
+D1  - 1959
+SP  - 161
+KW  - English language
+KW  - Curricula
+T2  - Paramount (California) Unified School District. Publication
+V1  - 125
+PB  - Paramount (California) Unified School District
+CY  - Paramount, CA
+LA  - English
+CN  - 428.2 .P22m
+SC  - California
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Paramount (California) Unified School District
+T1  - Teaching goals and instructional activities for the language arts: kindergarten
+Y1  - 1957
+D1  - 1957
+SP  - 70
+KW  - Language arts
+T2  - Paramount (California) Unified School District. Publication
+V1  - 102
+PB  - Paramount (California) Unified School District
+CY  - Paramount, CA
+LA  - English
+CN  - 428.2 .P22t v. 1
+SC  - California
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - Paramount (California) Unified School District
+T1  - Teaching goals and instructional activities for the language arts: grade one
+Y1  - 1957
+D1  - 1957
+SP  - 61
+KW  - Language arts
+T2  - Paramount (California) Unified School District. Publication
+V1  - 103
+PB  - Paramount (California) Unified School District
+CY  - Paramount, CA
+LA  - English
+CN  - 428.2 .P22t v. 2
+SC  - California
+G2  - 1st
+ER  - 
+
+TY  - BOOK
+A2  - Paramount (California) Unified School District
+T1  - Teaching goals and instructional activities for the language arts: grade two
+Y1  - 1957
+D1  - 1957
+SP  - 71
+KW  - Language arts
+T2  - Paramount (California) Unified School District. Publication
+V1  - 104
+PB  - Paramount (California) Unified School District
+CY  - Paramount, CA
+LA  - English
+CN  - 428.2 .P22t v. 3
+SC  - California
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A2  - Paramount (California) Unified School District
+T1  - Teaching goals and instructional activities for the language arts: grade three
+Y1  - 1957
+D1  - 1957
+SP  - 67
+KW  - Language arts
+T2  - Paramount (California) Unified School District. Publication
+V1  - 105
+PB  - Paramount (California) Unified School District
+CY  - Paramount, CA
+LA  - English
+CN  - 428.2 .P22t v. 4
+SC  - California
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - Paramount (California) Unified School District
+T1  - Teaching goals and instructional activities for the language arts: grade four
+Y1  - 1957
+D1  - 1957
+SP  - 69
+KW  - Language arts
+T2  - Paramount (California) Unified School District. Publication
+V1  - 106
+PB  - Paramount (California) Unified School District
+CY  - Paramount, CA
+LA  - English
+CN  - 428.2 .P22t v. 5
+SC  - California
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Paramount (California) Unified School District
+T1  - Teaching goals and instructional activities for the language arts: grade five
+Y1  - 1957
+D1  - 1957
+SP  - 71
+KW  - Language arts
+T2  - Paramount (California) Unified School District. Publication
+V1  - 107
+PB  - Paramount (California) Unified School District
+CY  - Paramount, CA
+LA  - English
+CN  - 428.2 .P22t v. 6
+SC  - California
+G2  - 5th
+ER  - 
+
+TY  - BOOK
+A2  - Paramount (California) Unified School District
+T1  - Teaching goals and instructional activities for the language arts: grade six
+Y1  - 1957
+D1  - 1957
+SP  - 61
+KW  - Language arts
+T2  - Paramount (California) Unified School District. Publication
+V1  - 108
+PB  - Paramount (California) Unified School District
+CY  - Paramount, CA
+LA  - English
+CN  - 428.2 .P22t v. 7
+SC  - California
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Paramount (California) Unified School District
+T1  - Goals in the language arts: elementary level
+Y1  - 1957
+D1  - 1957
+SP  - 43
+KW  - Language arts
+T2  - Paramount (California) Unified School District. Publication
+V1  - 101
+PB  - Paramount (California) Unified School District
+CY  - Paramount, CA
+LA  - English
+CN  - 428.2 .P22t v. 8
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Pasadena (California) City Schools
+T1  - English and language arts materials
+Y1  - 1953
+D1  - 09/1953
+SP  - 40
+KW  - Language arts
+KW  - English language
+PB  - Pasadena (California) City Schools
+CY  - Pasadena, CA
+LA  - English
+CN  - 428.2 .P27e
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools. Curriculum Office
+T1  - A guide to the teaching of the mechanics of English : grades 7-12
+Y1  - 1960
+D1  - 1960
+SP  - 42
+KW  - English language
+N1  - xi; ; 28 cm.; Note(s): Includes bibliographical references.; Responsibility: [prepared by the Secondary School English Curriculum Committee].
+ED  - Tentative
+PB  - Philadelphia (Pennsylvania) Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 428.2 .P54m
+SC  - Pennsylvania
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A1  - Luty, E. T.
+T1  - Central high school senior English program (an evaluation report)
+Y1  - 1970
+D1  - 1970
+SP  - 37
+KW  - English language
+PB  - Phoenix (Arizona) Schools
+CY  - Phoenix, AZ
+LA  - English
+CN  - 428.2 .P57c
+SC  - Arizona
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Plumas Unified School District (Quincy, California)
+T1  - Language arts: course of study, grades k-12
+Y1  - 1960
+D1  - 1960
+SP  - 82
+KW  - Language arts
+PB  - Plumas Unified School District
+CY  - Quincy, CA
+LA  - English
+CN  - 428.2 .P73L
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Portland (Oregon) Public Schools
+T1  - Teachers' guide and suggestions for units: tenth grade unit
+Y1  - 1949
+D1  - 1949
+SP  - 116
+KW  - English language
+KW  - English literature
+ED  - Rev.
+PB  - Portland (Oregon) Public Schools
+CY  - Portland, OR
+LA  - English
+CN  - 428.2 .P85t
+SC  - Oregon
+G2  - 10th
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools
+T1  - A guide to the teaching of English : an adapted course of study, grades 10 to 12
+Y1  - 1963
+D1  - 1963
+SP  - 97
+KW  - Children with mental disabilities
+KW  - English language
+N1  - xiii; ; 28 cm.; Note(s): Includes bibliographical references.
+PB  - Philadelphia (Pennsylvania) Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 428.2 .P54g
+SC  - Pennsylvania
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools
+T1  - Language skills : curriculum guide for the retarded educable
+Y1  - 1962
+D1  - 1962
+SP  - 69
+KW  - Children with mental disabilities
+KW  - Language arts
+N1  - xi; ill. ; 28 cm.; Responsibility: School District of Philadelphia.
+PB  - Division of Special Education, Philadelphia Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 428.2 .P54L
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Portland (Oregon) Public Schools
+T1  - A teacher experiments with unit instruction (high school)
+Y1  - 1957
+D1  - 02/1957
+SP  - 7
+KW  - English language
+T2  - Portland (Oregon) Public Schools. Curriculum publication
+V1  - LA-35
+PB  - Portland (Oregon) Public Schools
+CY  - Portland, OR
+LA  - English
+CN  - 428.2 .P85tg
+SC  - Oregon
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Providence (Rhode Island?) Public Schools. Curriculum Office
+T1  - English composition, grades 7 - 9
+Y1  - 1964
+D1  - 09/1964
+SP  - 12
+KW  - English language
+KW  - Composition and exercises
+PB  - Providence Public Schools
+CY  - Providence, [RI]
+LA  - English
+CN  - 428.2 .P96e
+SC  - Rhode Island
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A1  - Hupke, Robert
+A1  - Brown, Rita
+A1  - Swinford, Philip
+A1  - Walker, Margarete
+A2  - Purdue English Curriculum Center
+A2  - Purdue Project English
+T1  - The fables of Aesop : an opus-centered unit
+Y1  - 1966
+D1  - Fall, 1966
+SP  - 227
+KW  - English language
+KW  - Language arts
+KW  - Fables
+N1  - 227 p. ; 28 cm.; Note(s): "Purdue Project English."/ Cover title.; Responsibility: Purdue English Curriculum Center ; editor-in-chief, Robert Hupke ; collaborators, Rita Brown, Philip Swinford, Margarete Walker.
+PB  - Purdue English Curriculum Center
+CY  - West Lafayette, IN
+LA  - English
+CN  - 428.2 .P98f
+ER  - 
+
+TY  - BOOK
+A2  - Ramapo Central School District No. 2 (Spring Valley, New York)
+T1  - A tentative curriculum guide: basic English, grade 10
+Y1  - 1964
+D1  - 1964
+SP  - 50
+KW  - English language
+KW  - Curricula
+PB  - Ramapo Central School District No. 2
+CY  - Spring Valley, NY
+LA  - English
+CN  - 428.2 .R16c v. 1
+SC  - New York
+G2  - 10th
+ER  - 
+
+TY  - BOOK
+A2  - Ramapo Central School District No. 2 (Spring Valley, New York)
+T1  - Curriculum guide: 10th grade English regents
+Y1  - 1964
+D1  - 1964
+SP  - 29
+KW  - English language
+KW  - Curricula
+PB  - Ramapo Central School District No. 2
+CY  - Spring Valley, NY
+LA  - English
+CN  - 428.2 .R16c v. 2
+SC  - New York
+G2  - 10th
+ER  - 
+
+TY  - BOOK
+A2  - Ramapo Central School District No. 2 (Spring Valley, New York)
+T1  - Curriculum guide: 10th grade English regents. Part ii
+Y1  - 1964
+D1  - 1964
+KW  - English language
+KW  - Curricula
+PB  - Ramapo Central School District No. 2
+CY  - Spring Valley, NY
+LA  - English
+CN  - 428.2 .R16c v. 3
+SC  - New York
+G2  - 10th
+ER  - 
+
+TY  - BOOK
+A2  - Ramapo Central School District No. 2 (Spring Valley, New York)
+T1  - Curriculum guide: 11th grade English regents
+Y1  - 1964
+D1  - 1964
+SP  - 47
+KW  - English language
+KW  - Curricula
+PB  - Ramapo Central School District No. 2
+CY  - Spring Valley, NY
+LA  - English
+CN  - 428.2 .R16c v. 4
+SC  - New York
+G2  - 11th
+ER  - 
+
+TY  - BOOK
+A2  - Ramapo Central School District No. 2 (Spring Valley, New York)
+T1  - Curriculum guide: 11th grade English regents, part ii
+Y1  - 1964
+D1  - 1964
+KW  - English language
+KW  - Curricula
+PB  - Ramapo Central School District No. 2
+CY  - Spring Valley, NY
+LA  - English
+CN  - 428.2 .R16c v. 5
+SC  - New York
+G2  - 11th
+ER  - 
+
+TY  - BOOK
+A2  - Ramapo Central School District No. 2 (Spring Valley, New York)
+T1  - Tentative syllabus for English iv regents, part i
+Y1  - 1964
+D1  - 1964
+SP  - 40
+KW  - English language
+KW  - Curricula
+PB  - Ramapo Central School District No. 2
+CY  - Spring Valley, NY
+LA  - English
+CN  - 428.2 .R16c v. 6
+SC  - New York
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Ramapo Central School District No. 2 (Spring Valley, New York)
+T1  - Tentative syllabus for English iv regents, part ii
+Y1  - 1964
+D1  - 1964
+KW  - English language
+KW  - Curricula
+PB  - Ramapo Central School District No. 2
+CY  - Spring Valley, NY
+LA  - English
+CN  - 428.2 .R16c v. 7
+SC  - New York
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Kincheloe, Isabel Mary
+A2  - Reader's Digest Services. Educational Division
+T1  - Building vocabulary
+SP  - 16
+KW  - Vocabulary
+N1  - 16 p. ill. 23 cm.; Responsibility: by Isabel Kincheloe.
+PB  - Reader's Digest Services, Educational Division
+CY  - Pleasantville, NY
+LA  - English
+CN  - 428.2 .R28b v. 1
+ER  - 
+
+TY  - BOOK
+A1  - Stauffer, Russell G.
+A2  - Reader's Digest Services. Educational Division
+T1  - Reading-thinking : a dynamic program
+SP  - 23
+KW  - Reading
+N1  - ill. ; 23 cm.; Note(s): Cover title./ Includes bibliographical references (p. 23).; Responsibility: by Russell G. Stauffer
+PB  - Reader's Digest Services, Educational Division
+CY  - Pleasantville, NY
+LA  - English
+CN  - 428.2 .R28b v. 3
+ER  - 
+
+TY  - BOOK
+A1  - Hamilton, Mary Glenn
+A2  - Reader's Digest Services. Educational Division
+T1  - Expository writing; a motivated approach
+SP  - 28
+KW  - English language
+KW  - Composition and exercises
+N1  - 28 p. ill. 23 cm.; Responsibility: by Mary Glenn Hamilton.
+PB  - Reader's Digest Services, Educational Division
+CY  - Pleasantville, NY
+LA  - English
+CN  - 428.2 .R28b v. 4
+ER  - 
+
+TY  - BOOK
+A2  - Redford Union Schools (Detroit, Michigan)
+T1  - A guide to the teaching of the language arts in the elementary schools
+Y1  - 1957
+D1  - 09/1957
+SP  - 159
+KW  - English language
+KW  - Language arts
+N1  - vii; ill. ; 28 cm.; Note(s): Includes bibliographical references (p. 157-159).; Responsibility: Redford Union Schools.
+PB  - Redford Union Schools
+CY  - Detroit, MI
+LA  - English
+CN  - 428.2 .R29g
+SC  - Michigan
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Cooper, David
+T1  - Some suggestions for the teaching of thinking in eleventh and twelfth grade English classes
+SP  - 10
+KW  - English language
+PB  - Sequoia High School
+CY  - Redwood City, CA
+LA  - English
+CN  - 428.2 .R31s
+SC  - California
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Del Mar Community Intermediate School
+T1  - The humanities
+Y1  - 1964
+D1  - 1964
+KW  - Humanities
+PB  - Reed Union School District
+CY  - Belvedere-Tiburon, CA
+LA  - English
+CN  - 428.2 .R32h
+SC  - California
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Renton (Washington) School District No. 403
+T1  - Language arts guide: primary grades
+Y1  - 1956
+D1  - 1956
+KW  - Language arts
+PB  - Renton (Washington) School District No. 403
+CY  - Renton, WA
+LA  - English
+CN  - 428.2 .R42L v. 1-2
+SC  - Washington
+G1  - Elementary
+ER  - 
+
+TY  - BOOk
+A2  - Richfield (Minnesota) Public Schools
+T1  - Language arts curriculum guide, grades 7-12
+Y1  - 1968
+D1  - 1968
+KW  - Language arts
+KW  - Curricula
+PB  - Richfield (Minnesota) Public Schools
+CY  - Richfield, MN
+LA  - English
+CN  - 428.2 .R52L pt. 1-2
+SC  - Minnesota
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A1  - Ballard, Rose
+A1  - Waterman, Bertha
+A1  - Williams, Marian
+T1  - Report of Committee on Guideposts in Grammar
+Y1  - 1954
+D1  - 01/1954
+SP  - 4
+KW  - Grammar
+PB  - Rock Island (Illinois) Public Schools
+CY  - Rock Island, IL
+LA  - English
+CN  - 428.2 .R68r
+SC  - Illinois
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Rocky River (Ohio) Public Schools
+T1  - A guide to English, grades 9-12
+Y1  - 1962
+D1  - 9/1962
+KW  - English language
+PB  - Rocky River (Ohio) Public Schools
+CY  - Rocky River, OH
+LA  - English
+CN  - 428.2 .R681e
+SC  - Ohio
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Rocky River (Ohio) Junior High School
+T1  - Language arts, grade 8
+Y1  - 1967
+D1  - 8/1967
+SP  - 51
+KW  - English language
+PB  - Rocky River (Ohio) Junior High School
+CY  - Rocky River, OH
+LA  - English
+CN  - 428.2 .R681e
+SC  - Ohio
+G2  - 8th
+ER  - 
+
