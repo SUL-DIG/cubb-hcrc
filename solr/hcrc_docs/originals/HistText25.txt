@@ -1,0 +1,814 @@
+
+
+TY  - BOOK
+A1  - Muth, Elizabeth
+A1  - Kuykendall, Kay
+T1  - Course notes and suggestions for English-geography; Part 1: English
+Y1  - 1964
+D1  - 1964
+SP  - 84
+KW  - English language
+PB  - Sweetwater Union High School District
+CY  - Chula Vista, CA
+LA  - English
+CN  - 428.2 .S97e v. 1
+SC  - California
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A1  - Dubost, Nancyann
+A1  - Runyon, Anna
+T1  - Course notes and suggestions for English 8
+Y1  - 1964
+D1  - 1964
+SP  - 114
+KW  - English language
+PB  - Sweetwater Union High School District
+CY  - Chula Vista, CA
+LA  - English
+CN  - 428.2 .S97e v. 2
+SC  - California
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A1  - Ferguson, Margaret I.
+A1  - Jensen, Clara F.
+T1  - Course notes and suggestions for English 9 regular
+Y1  - 1964
+D1  - 1964
+SP  - 63
+KW  - English language
+PB  - Sweetwater Union High School District
+CY  - Chula Vista, CA
+LA  - English
+CN  - 428.2 .S97e v. 3
+SC  - California
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A1  - Ferguson, Margaret I.
+A1  - Jensen, Clara F.
+T1  - Course notes and suggestions for English 9 enrichment
+Y1  - 1964
+D1  - 1964
+SP  - 75
+KW  - English language
+PB  - Sweetwater Union High School District
+CY  - Chula Vista, CA
+LA  - English
+CN  - 428.2 .S97e v. 4
+SC  - California
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A1  - Ferguson, Margaret I.
+A1  - Jensen, Clara F.
+T1  - Course notes and suggestions for English 9 z track
+Y1  - 1964
+D1  - 1964
+SP  - 37
+KW  - English language
+PB  - Sweetwater Union High School District
+CY  - Chula Vista, CA
+LA  - English
+CN  - 428.2 .S97e v. 5
+SC  - California
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A1  - Bauer, Judith L.
+A1  - Beck, Martin E.
+T1  - Course notes and suggestions for English 10 regular
+Y1  - 1964
+D1  - 1964
+SP  - 47
+KW  - English language
+PB  - Sweetwater Union High School District
+CY  - Chula Vista, CA
+LA  - English
+CN  - 428.2 .S97e v. 6
+SC  - California
+G2  - 10th
+ER  - 
+
+TY  - BOOK
+A1  - Bauer, Judith L.
+A1  - Beck, Martin E.
+T1  - Course notes and suggestions for English 10 enrichment
+Y1  - 1964
+D1  - 1964
+SP  - 45
+KW  - English language
+PB  - Sweetwater Union High School District
+CY  - Chula Vista, CA
+LA  - English
+CN  - 428.2 .S97e v. 7
+SC  - California
+G2  - 10th
+ER  - 
+
+TY  - BOOK
+A1  - Bauer, Judith L.
+A1  - Beck, Martin E.
+T1  - Course notes and suggestions for English 10 z track
+Y1  - 1964
+D1  - 1964
+SP  - 33
+KW  - English language
+PB  - Sweetwater Union High School District
+CY  - Chula Vista, CA
+LA  - English
+CN  - 428.2 .S97e v. 8
+SC  - California
+G2  - 10th
+ER  - 
+
+TY  - BOOK
+A1  - Bennett, Wilson
+A1  - McDonald, Leo P.
+T1  - Course notes and suggestions for English 11 regular
+Y1  - 1964
+D1  - 1964
+SP  - 51
+KW  - English language
+PB  - Sweetwater Union High School District
+CY  - Chula Vista, CA
+LA  - English
+CN  - 428.2 .S97e v. 9
+SC  - California
+G2  - 11th
+ER  - 
+
+TY  - BOOK
+A1  - Bennett, Wilson
+A1  - McDonald, Leo P.
+T1  - Course notes and suggestions for English 11 enrichment
+Y1  - 1964
+D1  - 1964
+SP  - 53
+KW  - English language
+PB  - Sweetwater Union High School District
+CY  - Chula Vista, CA
+LA  - English
+CN  - 428.2 .S97e v. 10
+SC  - California
+G2  - 11th
+ER  - 
+
+TY  - BOOK
+A1  - Bennett, Wilson
+A1  - McDonald, Leo P.
+T1  - Course notes and suggestions for English 11 z track
+Y1  - 1964
+D1  - 1964
+SP  - 41
+KW  - English language
+PB  - Sweetwater Union High School District
+CY  - Chula Vista, CA
+LA  - English
+CN  - 428.2 .S97e v. 11
+SC  - California
+G2  - 11th
+ER  - 
+
+TY  - BOOK
+A1  - Hassler, Martha
+A1  - Mills, W. Burke
+T1  - Course notes and suggestions for English 12 regular
+Y1  - 1964
+D1  - 1964
+SP  - 157
+KW  - English language
+PB  - Sweetwater Union High School District
+CY  - Chula Vista, CA
+LA  - English
+CN  - 428.2 .S97e v. 12
+SC  - California
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A1  - Hassler, Martha
+A1  - Mills, W. Burke
+T1  - Course notes and suggestions for English 12 enrichment
+Y1  - 1964
+D1  - 1964
+SP  - 172
+KW  - English language
+PB  - Sweetwater Union High School District
+CY  - Chula Vista, CA
+LA  - English
+CN  - 428.2 .S97e v. 13
+SC  - California
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A1  - Hassler, Martha
+A1  - Mills, W. Burke
+T1  - Course notes and suggestions for English 12 z track
+Y1  - 1964
+D1  - 1964
+SP  - 86
+KW  - English language
+PB  - Sweetwater Union High School District
+CY  - Chula Vista, CA
+LA  - English
+CN  - 428.2 .S97e v. 14
+SC  - California
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - Coordination in the English program for grades 7, 8, 9
+Y1  - 1966
+D1  - 10/1966
+KW  - English language
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 428.2 .T35c v. 1
+SC  - Texas
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - Coordination in the English program for grades 10, 11, 12
+Y1  - 1966
+D1  - 10/1966
+KW  - English language
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 428.2 .T35c v. 2
+SC  - Texas
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - Coordinated vocational-academic education: English language arts
+Y1  - 1972
+D1  - 1972
+SP  - 129
+KW  - Language arts
+KW  - Vocational education
+KW  - Curricula
+N1  - vii; 28 cm.; Note(s): Bibliography: p. 121-129.
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 428.2 .T35e
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - Trenton (Michigan) Public Schools
+T1  - Project APEX : appropriate placement for excellence in English
+Y1  - 1970
+D1  - Winter, 1970
+SP  - 266
+KW  - English language
+N1  - vi; ; 23 cm.; Note(s): Cover title: APEX: a nongraded phase elective English curriculum./ Includes bibliographical references (p. 260-261).; Other Titles: APEX: a nongraded phase elective English curriculum.
+ED  - 4th ed. rev
+PB  - Trenton (Michigan) Public Schools
+CY  - Trenton, MI
+LA  - English
+CN  - 428.2 .T79p
+SC  - Michigan
+ER  - 
+
+TY  - BOOK
+A2  - Tucson (Arizona) Public Schools
+T1  - Teachers guide: high school English department
+Y1  - 1955
+D1  - 08/1955
+SP  - 78
+KW  - English language
+PB  - Tucson (Arizona) Public Schools
+CY  - Tucson, AZ
+LA  - English
+CN  - 428.2 .T89t
+SC  - Arizona
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Tulare County (California) Superintendent of Schools
+T1  - Social studies bulletin 2: experience stories, charts and outlines
+Y1  - 1956
+D1  - 1956
+SP  - 10
+KW  - Social sciences
+PB  - Tulare County (California) Superintendent of Schools
+CY  - Visalia, CA
+LA  - English
+CN  - 428.2 T91e
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Tulare County (California) Schools
+T1  - Tulare County cooperative language arts guide
+Y1  - 1949
+D1  - 1949
+SP  - 132
+KW  - Language arts
+PB  - Tulare County (California) Schools
+CY  - Visalia, CA
+LA  - English
+CN  - 428.2 .T91t
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Tyler (Texas) Independent School District
+T1  - Curriculum guide for English, grades 7-9
+Y1  - 1964
+D1  - 08/1964
+SP  - 103
+KW  - Curricula
+KW  - English language
+PB  - Tyler (Texas) Independent School District
+CY  - Tyler, TX
+LA  - English
+CN  - 428.2 .T98c
+SC  - Texas
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - United States Dependent School European Area
+T1  - Education and training: secondary English curriculum guide
+Y1  - 1965
+D1  - 08/1965
+SP  - 252
+KW  - Curricula
+KW  - English language
+T2  - USDESEA Pamphlet
+V1  - 350-112
+PB  - United States Dependent School European Area
+LA  - English
+CN  - 428.2 .U58e
+ER  - 
+
+TY  - BOOK
+A2  - University City (Missouri) Schools
+T1  - A guide for the English language arts: elementary, junior high, senior high
+Y1  - 1961
+D1  - 09/1961
+SP  - 131
+KW  - English language
+KW  - Language arts
+PB  - University City (Missouri) Schools
+CY  - University City, MO
+LA  - English
+CN  - 428.2 .U59g
+SC  - Missouri
+ER  - 
+
+TY  - BOOK
+A2  - Vallejo (California) Unified School District
+T1  - Course of study in language arts: kindergarten through sixth grade, Vallejo Elementary Schools
+Y1  - 1960
+D1  - 07/1960
+SP  - 26
+KW  - Language arts
+PB  - Vallejo (California) Unified School District
+CY  - Vallejo, CA
+LA  - English
+CN  - 428.2 .V18c
+SC  - California
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Victor Valley Junior-Senior High School (Victorville, California)
+T1  - An outline of pupil activities in language arts, grades 7-12
+Y1  - 1958
+D1  - 1958
+KW  - Language arts
+PB  - Victor Valley Junior-Senior High School
+CY  - Victorville, CA
+LA  - English
+CN  - 428.2 .V64o
+SC  - California
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOk
+A2  - Warren (Ohio) City Schools
+T1  - Correlated English and history, grade 10 and 11
+Y1  - 1956
+D1  - 11/1956
+KW  - English
+KW  - History
+PB  - Warren (Ohio) City Schools
+CY  - Warren, Ohio
+LA  - English
+CN  - 428.2 .W29c
+SC  - Ohio
+G2  - 10th
+G2  - 11th
+ER  - 
+
+TY  - BOOK
+A2  - Washington State Superintendent of Public Instruction
+T1  - Language arts tentative curriculum guide, grades seven, eight and nine
+Y1  - 1961
+D1  - 01/1961
+SP  - 62
+KW  - Language arts
+ED  - Rev.
+PB  - Washington State Superintendent of Public Instruction
+CY  - Olympia, WA
+LA  - English
+CN  - 428.2 .W31e v. 1
+SC  - Washington
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Waukesha (Wisconsin) Public Schools
+T1  - Language handbook
+Y1  - 1959
+D1  - 09/1959
+SP  - 81
+KW  - Language arts
+PB  - Waukesha (Wisconsin) Public Schools
+CY  - Waukesha, WI
+LA  - English
+CN  - 428.2 .W35L
+SC  - Wisconsin
+ER  - 
+
+TY  - BOOK
+A2  - West Hempstead (New York) Public Schools
+T1  - The language arts program: oral and written expression, grades 1-6
+Y1  - 1962
+D1  - 1962
+SP  - 14
+KW  - Language arts
+PB  - West Hempstead (New York) Public Schools
+CY  - West Hempstead, NY
+LA  - English
+CN  - 428.2 .W51L v. 1
+SC  - English
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  -
+
+TY  - BOOK
+A2  - West Hempstead (New York) Public Schools
+T1  - Form and style manual for elementary schools
+Y1  - 1963
+D1  - 1963
+SP  - 11
+KW  - Language arts
+PB  - West Hempstead (New York) Public Schools
+CY  - West Hempstead, NY
+LA  - English
+CN  - 428.2 .W51L v. 2
+SC  - New York
+G1  - Elementary
+ER  -
+
+TY  - BOOK
+A2  - West Hartford (Connecticut) Public Schools
+T1  - Guide for English, grades 7-12
+Y1  - 1962
+D1  - 1962
+SP  - 97
+KW  - English language
+PB  - West Hartford (Connecticut) Public Schools
+CY  - West Hartford, CT
+LA  - English
+CN  - 428.2 .W511c
+SC  - Connecticut
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - WVASCD Region II, West Virginia
+T1  - Let's communicate: language arts curriculum guide
+SP  - 301
+KW  - Language arts
+PB  - WVASCD Region II, West Virginia
+LA  - English
+CN  - 428.2 .W513L
+ER  - 
+
+TY  - BOOK
+A2  - Wichita (Kansas) Public Schools
+T1  - Tentative guide in communication for third year teachers
+Y1  - 1953
+D1  - 1953-54
+SP  - 30
+KW  - English language
+KW  - Spelling
+KW  - Writing
+PB  - Wichita (Kansas) Public Schools
+CY  - Wichita, KS
+LA  - English
+CN  - 428.2 .W63t v. 1
+SC  - Kansas
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - Wichita (Kansas) Public Schools
+T1  - Tentative guide in communication for fourth year teachers
+Y1  - 1954
+D1  - 1954-55
+SP  - 26
+KW  - English language
+KW  - Spelling
+KW  - Writing
+PB  - Wichita (Kansas) Public Schools
+CY  - Wichita, KS
+LA  - English
+CN  - 428.2 .W63t v. 2
+SC  - Kansas
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Wichita (Kansas) Public Schools
+T1  - Tentative guide in communication for fifth year teachers
+Y1  - 1953
+D1  - 1953-54
+SP  - 25
+KW  - English language
+KW  - Spelling
+KW  - Writing
+PB  - Wichita (Kansas) Public Schools
+CY  - Wichita, KS
+LA  - English
+CN  - 428.2 .W63t v. 3
+SC  - Kansas
+G2  - 5th
+ER  - 
+
+TY  - BOOK
+A2  - Wichita (Kansas) Public Schools
+T1  - Tentative guide in communication for sixth year teachers
+Y1  - 1954
+D1  - 1954-55
+SP  - 26
+KW  - English language
+KW  - Spelling
+KW  - Writing
+PB  - Wichita (Kansas) Public Schools
+CY  - Wichita, KS
+LA  - English
+CN  - 428.2 .W63t v. 4
+SC  - Kansas
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Wilmington (Delaware) Public Schools
+T1  - English: a guide to instruction: grades 7-12 (tentative)
+Y1  - 1964
+D1  - 1964
+KW  - English language
+PB  - Wilmington (Delaware) Public Schools
+CY  - Wilmington, DE
+LA  - English
+CN  - 428.2 .W74e
+SC  - Delaware
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Wisconsin Cooperative Educational Planning Program
+T1  - Basic considerations in a functional speech program
+Y1  - 1948
+D1  - 10/1948
+SP  - 38
+KW  - Speech
+N1  - 38 pages : illustrations ; 23 cm.; Note(s): Cover title./ "Publication of this pamphlet was authorized by the Curriculum Guiding Committee of the Wisconsin Cooperative Educational Planning Program"--T.p. verso./ "October, 1948."
+T2  - Wisconsin Cooperative Educational Planning Program. Curriculum bulletin
+V1  - 18
+IS  - 4
+PB  - Wisconsin State Superintendent
+CY  - Madison, WI
+LA  - English
+CN  - 428.2 .W81b
+SC  - Wisconsin
+ER  - 
+
+TY  - BOOK
+A2  - Wisconsin Cooperative Educational Planning Program
+T1  - Underlying principles and implementations
+Y1  - 1948
+D1  - 09/1948
+SP  - 38
+KW  - Curricula
+KW  - English language
+N1  - ill. ; 23 cm.; Note(s): Cover title./ "September, 1948."
+T2  - Curriculum bulletin (Wisconsin Cooperative Educational Planning Program) ;; no. 16.; Language arts bulletin (Wisconsin Cooperative Educational Planning Program) ;; no. 2.
+PB  - Wisconsin Cooperative Educational Planning Program
+CY  - Madison, WI
+LA  - English
+CN  - 428.2 .W81u
+SC  - Wisconsin
+ER  - 
+
+TY  - BOOK
+A2  - Wisconsin State Department of Public Instruction
+T1  - English language arts in Wisconsin : a sequential growth curriculum in English language arts for the kindergarten through grade twelve
+Y1  - 1968
+D1  - 01/1968
+SP  - 449
+KW  - Curriculum planning
+KW  - Language arts
+N1  - ix; ill. ; 28 cm.; Note(s): Includes bibliographical references and index.; Responsibility: prepared by Wisconsin teachers for the children and youth of Wisconsin as an activity of the Wisconsin Language Arts Curriculum Project.
+PB  - Wisconsin State Department of Public Instruction
+CY  - Madison, WI
+LA  - English
+CN  - 428.2 .W81e v. 1
+SC  - Wisconsin
+ER  - 
+
+TY  - BOOK
+A2  - Wisconsin State Department of Public Instruction
+T1  - Teaching, speaking and writing in Wisconsin
+Y1  - 1966
+D1  - 1966
+SP  - 150
+KW  - Speech
+KW  - Language arts
+KW  - English language
+N1  - vi; ges : illustrations ; 28 cm; Note(s): "A sequential growth curriculum in speaking and writing activities from the kindergarten through grade twelve."/ "January 1966."/ Includes bibliographical references (pages 120-126).; Responsibility: prepared by Wisconsin teachers for the children and youth of Wisconsin as an activity of the Wisconsin English-Language-Arts Curriculum Project.
+ED  - Experimental
+PB  - Wisconsin State Department of Public Instruction
+CY  - Madison, WI
+LA  - English
+CN  - 428.2 .W81e v. 3
+SC  - Wisconsin
+ER  - 
+
+TY  - BOOK
+A2  - Wisconsin State Department of Public Instruction
+T1  - Teaching literature in Wisconsin : a sequential growth curriculum in experiences with literature from the kindergarten through grade twelve. Experimental ed.
+Y1  - 1965
+D1  - 1965
+SP  - 155
+KW  - Literature
+KW  - Language arts
+KW  - Curricula
+N1  - iv; ; 28 cm.; Note(s): Includes bibliographical references (p. 155).; Responsibility: prepared by Wisconsin teachers for the children and youth of Wisconsin as an activity of the Wisconsin English-Language-Arts Curriculum Project.
+PB  - Wisconsin State Department of Public Instruction
+CY  - Madison, WI
+LA  - English
+CN  - 428.2 .W81e v. 2
+SC  - Wisconsin
+ER  - 
+
+TY  - BOOK
+A1  - Hoffman, Harry H.
+T1  - English teaching today : an investigation of the preparation of high-school English teachers of the North Central Association of Colleges and Secondary Schools
+Y1  - 1956
+D1  - 1956
+SP  - 160
+KW  - Literature
+KW  - English teachers
+KW  - Teacher training
+N1  - ix; ; 28 cm.; Note(s): Originally presented as the author's thesis (Ed. D.)--University of Wyoming, 1955./ Includes bibliographical references (p. [142]-148).; Responsibility: by Harry H. Hoffman ; edited by Edna L. Furness.
+PB  - Curriculum and Research Center, College of Education, University of Wyoming
+CY  - Laramie, WY
+LA  - English
+CN  - 428.2 .W98e
+ER  - 
+
+TY  - BOOK
+A1  - Kunz, Linda Ann
+A1  - Viscount, Robert R.
+T1  - Write me a ream : a course in controlled composition
+Y1  - 1973
+D1  - 1973
+SP  - 62
+KW  - English language
+KW  - Composition and exercises
+N1  - 62 p. ; 21 cm.; Responsibility: by Linda Ann Kunz and Robert R. Viscount.
+PB  - Teacher's College Press
+CY  - New York, NY
+LA  - English
+CN  - 428.2 .W94k
+ER  - 
+
+TY  - BOOK
+A2  - Wyoming State Department of Education
+T1  - English and the language arts : a curriculum guide for grades K-12
+Y1  - 1965
+D1  - 01/1965
+SP  - 152
+KW  - Language arts
+KW  - English language
+N1  - 152 pages ; 28 cm; Note(s): Cover title: English curriculum guide.; Other Titles: English curriculum guide.; Responsibility: [Wyoming Education Dept.].
+PB  - Wyoming State Department of Education
+CY  - Cheyenne, WY
+LA  - English
+CN  - 428.2 .W96c
+SC  - Wyoming
+ER  - 
+
+TY  - BOOK
+A2  - Yolo County (California) Superintendent of Schools
+T1  - Communicative arts: course of study for the elementary schools of Yolo County
+KW  - Language arts
+PB  - Yolo County (California) Superintendent of Schools
+CY  - Woodland, CA
+LA  - English
+CN  - 428.2 .Y54c
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Yolo County (California) Superintendent of Schools
+T1  - Language arts: course of study and teachers guide for Yolo County for primary grades
+Y1  - 1959
+D1  - 1959
+SP  - 76
+KW  - Language arts
+PB  - Yolo County (California) Superintendent of Schools
+CY  - Woodland, CA
+LA  - English
+CN  - 428.2 .Y54L v. 1
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Yolo County (California) Superintendent of Schools
+T1  - Language arts: course of study and teachers guide for Yolo County for intermediate grades
+Y1  - 1960
+D1  - 1960
+SP  - 74
+KW  - Language arts
+PB  - Yolo County (California) Superintendent of Schools
+CY  - Woodland, CA
+LA  - English
+CN  - 428.2 .Y54L v. 2
+SC  - California
+G1  - Elementary
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Yolo County (California) Superintendent of Schools
+T1  - Language arts: course of study and teachers guide for Yolo County for upper grades
+Y1  - 1960
+D1  - 1960
+SP  - 87
+KW  - Language arts
+PB  - Yolo County (California) Superintendent of Schools
+CY  - Woodland, CA
+LA  - English
+CN  - 428.2 .Y54L v. 3
+SC  - California
+G1  - Middle school
+ER  - 
+
