@@ -534,7 +534,7 @@ Elementary Schools</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .W51L v. 2</field>
 <field name="state_country">New York</field>
-<field name="grade_level_group">Elementary</field>
+<field name="grade_level_group">Elementary school</field>
 </doc>
 
 <doc>
@@ -835,7 +835,7 @@ County</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .Y54c</field>
 <field name="state_country">California</field>
-<field name="grade_level_group">Elementary</field>
+<field name="grade_level_group">Elementary school</field>
 </doc>
 
 <doc>
@@ -852,7 +852,7 @@ grades</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .Y54L v. 1</field>
 <field name="state_country">California</field>
-<field name="grade_level_group">Elementary</field>
+<field name="grade_level_group">Elementary school</field>
 </doc>
 
 <doc>
