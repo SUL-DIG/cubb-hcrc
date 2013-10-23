@@ -939,6 +939,6 @@ schools</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .S89s</field>
 <field name="state_country">Connecticut</field>
-<field name="grade_level_group">Elementary</field>
+<field name="grade_level_group">Elementary school</field>
 </doc>
 </add>

@@ -441,7 +441,7 @@ procedures</field>
 <field name="pub_place">Champaign, IL</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .N277c</field>
-<field name="grade_level_group">Elementary</field>
+<field name="grade_level_group">Elementary school</field>
 </doc>
 
 <doc>
@@ -499,7 +499,7 @@ L. Evertts, editor.</field>
 <field name="pub_place">Champaign, IL</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .N277d</field>
-<field name="grade_level_group">Elementary</field>
+<field name="grade_level_group">Elementary school</field>
 </doc>
 
 <doc>
@@ -705,7 +705,7 @@ references.; Other Titles: English institutes for elementary teachers.</field>
 <field name="pub_place">New York, NY</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .N277so</field>
-<field name="grade_level_group">Elementary</field>
+<field name="grade_level_group">Elementary school</field>
 </doc>
 
 <doc>
@@ -1268,7 +1268,7 @@ Wade.</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .N56c v. 1</field>
 <field name="state_country">Massachusetts</field>
-<field name="grade_level_group">Elementary</field>
+<field name="grade_level_group">Elementary school</field>
 </doc>
 
 <doc>

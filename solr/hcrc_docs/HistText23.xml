@@ -500,7 +500,7 @@ Hugh B. Wood.</field>
 <field name="pub_place">Eugene, OR</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .O67w</field>
-<field name="grade_level_group">Elementary</field>
+<field name="grade_level_group">Elementary school</field>
 </doc>
 
 <doc>
@@ -805,7 +805,7 @@ six</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .P22t v. 8</field>
 <field name="state_country">California</field>
-<field name="grade_level_group">Elementary</field>
+<field name="grade_level_group">Elementary school</field>
 </doc>
 
 <doc>
@@ -1172,7 +1172,7 @@ Responsibility: Redford Union Schools.</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .R29g</field>
 <field name="state_country">Michigan</field>
-<field name="grade_level_group">Elementary</field>
+<field name="grade_level_group">Elementary school</field>
 </doc>
 
 <doc>
@@ -1218,7 +1218,7 @@ English classes</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .R42L v. 1-2</field>
 <field name="state_country">Washington</field>
-<field name="grade_level_group">Elementary</field>
+<field name="grade_level_group">Elementary school</field>
 </doc>
 
 <doc>
