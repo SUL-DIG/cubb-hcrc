@@ -123,7 +123,7 @@ class CatalogController < ApplicationController
     config.add_show_field 'issue', :label => 'Issue:'
     config.add_show_field 'keywords', :label => 'Subjects:', :link_to_search => :keywords_facet
     config.add_show_field 'language', :label => 'Language:'
-    config.add_show_field 'grade_level_group', :label => 'Grade Level Group:', :link_to_search => :grade_level_group_facet
+    config.add_show_field 'grade_level_group', :label => 'Grade Level Group:'
     config.add_show_field 'grade_level_number', :label => 'Grade Level Number:', :link_to_search => :grade_level_number_facet
     
 
