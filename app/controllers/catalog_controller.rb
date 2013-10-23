@@ -63,8 +63,8 @@ class CatalogController < ApplicationController
     :grade_level_group_prek => { :label => 'Pre-K', :fq => "grade_level_group:Pre-K"},
     :grade_level_group_kinder => { :label => 'Kindergarten', :fq => "grade_level_group:Kindergarten"},
     :grade_level_group_elementary => { :label => 'Elementary', :fq => "grade_level_group:Elementary"},
-    :grade_level_group_middle => { :label => 'Middle school', :fq => "grade_level_group:Middle school"},
-    :grade_level_group_high => { :label => 'High school', :fq => "grade_level_group:High school"},
+    :grade_level_group_middle => { :label => 'Middle school', :fq => "grade_level_group:Middle"},
+    :grade_level_group_high => { :label => 'High school', :fq => "grade_level_group:High"},
     :grade_level_group_post => { :label => 'Postsecondary', :fq => "grade_level_group:Postsecondary"},
     }
     config.add_facet_field 'grade_level_number_facet', :label => 'Grade Level Number', :query => {
