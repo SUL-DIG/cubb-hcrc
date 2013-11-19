@@ -8,7 +8,6 @@
 
 <html lang="en">
   <head>
-  	<base target="_top"/>
     <meta charset="utf-8">
     <meta http-equiv="Content-Type" content="text/html" charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -65,7 +64,7 @@
 <![endif]-->
 
     <%= favicon_link_tag asset_path('stanford_favicon.ico') %>
-
+	<base target="_top"/>
   </head>
   <% onload_text = "$('input#q').focus();" if params[:q].to_s.empty? and params[:f].to_s.empty? and params[:id].nil? %>
 
