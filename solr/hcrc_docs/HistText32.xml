@@ -1273,7 +1273,7 @@ instruction</field>
 <field name="language">English</field>
 <field name="language">French</field>
 <field name="call_number">440 .D41g v. 1</field>
-<field name="call_number">Colorado</field>
+<field name="state_country">Colorado</field>
 <field name="grade_level_group">Elementary </field>
 </doc>
 
