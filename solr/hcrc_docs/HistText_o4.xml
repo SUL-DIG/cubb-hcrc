@@ -1,0 +1,2065 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="type">Book</field>
+<field name="author">Rader, William</field>
+<field name="author">Kyes, Frances</field>
+<field name="author">Nesbitt, Susan</field>
+<field name="author">Lynch, Valerie</field>
+<field name="corp_author">University of Chicago. Industrial Relations Center. Elementary Economics
+Project</field>
+<field name="title">Elementary-school economics 1: teacher's guide</field>
+<field name="keywords">Economics</field>
+<field name="year">1967</field>
+<field name="date">1967</field>
+<field name="publisher">Allied Educational Council</field>
+<field name="pub_place">Galien, MI</field>
+<field name="series_vol">Rev. ed.</field>
+<field name="pages">111</field>
+<field name="language">English</field>
+<field name="call_number">330 .E19e v. 3</field>
+<field name="state_country">Michigan</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Rader, William</field>
+<field name="author">Kyes, Frances</field>
+<field name="author">Nesbitt, Susan</field>
+<field name="author">Lynch, Valerie</field>
+<field name="author">White, Clyde</field>
+<field name="title">Elementary-school economics 2: projects</field>
+<field name="keywords">Economics</field>
+<field name="year">1964</field>
+<field name="publisher">Allied Education Council Distribution Center</field>
+<field name="pub_place">Galien, MI</field>
+<field name="pages">24</field>
+<field name="call_number">330 .E19e v. 4</field>
+<field name="state_country">Michigan</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">German, Jeremiah</field>
+<field name="author">Kyes, Frances</field>
+<field name="author">Nesbitt, Susan</field>
+<field name="author">Lynch, Valerie</field>
+<field name="author">Gillis, Floyd</field>
+<field name="author">Nimer, Daniel</field>
+<field name="title">Elementary-school economics 2: readings</field>
+<field name="keywords">Economics</field>
+<field name="year">1966</field>
+<field name="date">1966</field>
+<field name="edition">Rev.</field>
+<field name="publisher">Allied Education Council Distribution Center</field>
+<field name="pub_place">Galien, MI</field>
+<field name="pages">64</field>
+<field name="call_number">330 .E19e v. 5</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Rader, William</field>
+<field name="author">Kyes, Frances</field>
+<field name="author">Nesbitt, Susan</field>
+<field name="author">Lynch, Valerie</field>
+<field name="corp_author">University of Chicago. Industrial Relations Center. Elementary Economics
+Project</field>
+<field name="title">Elementary-school economics 2: teacher's guide</field>
+<field name="keywords">Economics</field>
+<field name="year">1964</field>
+<field name="date">1964</field>
+<field name="publisher">Allied Educational Council</field>
+<field name="pub_place">Galien, MI</field>
+<field name="edition">Rev. ed.</field>
+<field name="pages">110</field>
+<field name="language">English</field>
+<field name="call_number">330 .E19e v. 6</field>
+<field name="state_country">Michigan</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Morgan, Edmund Sears</field>
+<field name="title">The emergence of the American</field>
+<field name="series_title">Educational Services Incorporated. Social Studies Curriculum Program.
+Occasional paper</field>
+<field name="keywords">United States history</field>
+<field name="keywords">Colonial period</field>
+<field name="year">1965</field>
+<field name="date">12/1965</field>
+<field name="publisher">Educational Services</field>
+<field name="pub_place">Cambridge, MA</field>
+<field name="series_vol">6</field>
+<field name="pages">20</field>
+<field name="language">English</field>
+<field name="call_number">371.33 .S67o v. 6</field>
+<field name="notes">20 p. ; 23 cm.; Responsibility: by Edmund S. Morgan.</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">English, Oliver Spurgeon</field>
+<field name="author">Finch, Stuart M.</field>
+<field name="title">Emotional problems of growing up</field>
+<field name="series_title">Better living booklet</field>
+<field name="keywords">Child rearing</field>
+<field name="year">1951</field>
+<field name="date">1951</field>
+<field name="publisher">Science Research Associates</field>
+<field name="pub_place">Chicago, IL</field>
+<field name="pages">49</field>
+<field name="language">English</field>
+<field name="call_number">371.45 .S41b no. 1</field>
+<field name="notes">49 p. (incl. cover) illus. 22 cm.; Note(s): Bibliography: p. 49.;
+Responsibility: by O. Spurgeon English [and] Stuart M. Finch; illustrated by Kathleen Sshephard.
+</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Casiday, Harold</field>
+<field name="title">Employee's official handbook</field>
+<field name="keywords">School employees</field>
+<field name="publisher">Yuba County (California) Schools</field>
+<field name="pub_place">Marysville, CA</field>
+<field name="pages">22</field>
+<field name="call_number">370.72 .Y94e</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Doherty, Robert Emmett</field>
+<field name="title">The employer--employee relationship: what is its nature?</field>
+<field name="series_title">Grass roots guides on democracy and practical politics</field>
+<field name="keywords">Industrial relations</field>
+<field name="year">1966</field>
+<field name="date">1966</field>
+<field name="publisher">Center for Information on America</field>
+<field name="pub_place">Washington, CT</field>
+<field name="series_vol">25</field>
+<field name="pages">14</field>
+<field name="language">English</field>
+<field name="call_number">320 .C39g v. 25</field>
+<field name="notes">14 p.; Note(s): Bibliography: p. 14.; Grass roots guides on democracy and
+practical politics, ; no. 25</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Pidgeon, Mary Elizabeth</field>
+<field name="author">Mitchell, Agnes W.</field>
+<field name="title">Employment opportunities for women in beauty service</field>
+<field name="series_title">Women's Bureau bulletin</field>
+<field name="keywords">Beauty operators</field>
+<field name="keywords">Women</field>
+<field name="keywords">Vocational guidance</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="publisher">U.S. Government Printing Office</field>
+<field name="pub_place">Washington, DC</field>
+<field name="series_vol">260</field>
+<field name="pages">51</field>
+<field name="language">English</field>
+<field name="call_number">371.425 .C83u</field>
+<field name="notes">System Info: Digital master created according to Benchmark for Faithful Digital
+Reproductions of Monographs and Serials (Version 1). Digital Library Federation. December 2002.
+http://purl.oclc.org/DLF/benchrepro0212; Note(s): &quot;United States Department of Labor. Women's
+Bureau.&quot;/ &quot;Prepared ... by Mary-Elizabeth Pidgeon and Agnes W.
+Mitchell&quot;--Acknowledgments./ &quot;Selected references&quot;: p. 50-51./ Reproduction:
+Electronic reproduction./ Cambridge, Mass. :/ Harvard College Library Digital Imaging Group, / 2007.;
+General Info: No restrictions on access copy.</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">United States. Bureau of Labor Statistics</field>
+<field name="title">Employment outlook in health service occupations</field>
+<field name="series_title">United States. Bureau of Labor Statistics. Bulletin</field>
+<field name="keywords">Public health personnel</field>
+<field name="year">1957</field>
+<field name="date">1957</field>
+<field name="publisher">U. S. Department of Labor</field>
+<field name="pub_place">Washington, DC</field>
+<field name="series_vol">1215-2</field>
+<field name="language">English</field>
+<field name="call_number">371.425 .H43u</field>
+<field name="notes">p. 66-105 ill.; Note(s): Reprinted from the Occupational handbook, 1957
+edition.</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">United States. Bureau of Labor Statistics</field>
+<field name="title">Employment outlook in printing occupations</field>
+<field name="series_title">Bulletin of the United States Bureau of Labor Statistics</field>
+<field name="keywords">Printers</field>
+<field name="keywords">Printing industry</field>
+<field name="year">1953</field>
+<field name="date">1953</field>
+<field name="publisher">U.S. Government Printing Office</field>
+<field name="pub_place">Washington, DC</field>
+<field name="series_vol">1126</field>
+<field name="language">English</field>
+<field name="call_number">371.425 .P95u</field>
+<field name="notes">299-330 p. illus., map. 26 cm.; Note(s): 1947 ed. prepared by Samuel Vernoff
+and issued as the Bureau's Bulletin no. 902./ &quot;A reprint from the 1951 Occupational outlook
+handbook.&quot;; Responsibility: [prepared] in cooperation with Veterans Administration.</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Swerdloff, Sol</field>
+<field name="author">Kay, Evelyn Reis Ecker</field>
+<field name="title">Employment outlook in the industrial chemical industry</field>
+<field name="series_title">U.S. Bureau of Labor Statistics. Bulletin</field>
+<field name="keywords">Chemical industry</field>
+<field name="keywords">Chemical workers</field>
+<field name="keywords">Occupations</field>
+<field name="year">1954</field>
+<field name="date">1954</field>
+<field name="publisher">U.S. Government Printing Office</field>
+<field name="pub_place">Washington, DC</field>
+<field name="series_vol">1151</field>
+<field name="pages">37</field>
+<field name="language">English</field>
+<field name="call_number">371.425 .C51uL</field>
+<field name="notes">v; illus. 26 cm.; Note(s): &quot;Revision and enlargement of a pamphlet
+prepared in the Bureau of Labor Statistics ... and published in 1952 by the Veterans
+Administration.&quot;; Other Titles: Industrial chemical industry.; Responsibility: [by Sol
+Swerdloff and Evelyn R. Kay] in cooperation with Veterans Administration.</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Woodburn, John H.</field>
+<field name="corp_author">National Science Teachers Association</field>
+<field name="corp_author">Future Scientists of America Foundation</field>
+<field name="title">Encouraging future scientists : student projects</field>
+<field name="keywords">Awards</field>
+<field name="keywords">Experiments</field>
+<field name="keywords">Science</field>
+<field name="year">1954</field>
+<field name="date">1954</field>
+<field name="publisher">National Science Teachers Association</field>
+<field name="pub_place">Washington, DC</field>
+<field name="language">English</field>
+<field name="notes">24 p. ; 23 cm.; Note(s): Includes abstracts of student projects, which have
+been successful entries in the science achievement awards, of the Future Scientists of America
+Foundation.; Responsibility: compiled by John H. Woodburn.</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Future Scientists of America Foundation</field>
+<field name="title">Encouraging future scientists: keys to careers. 1956-1957</field>
+<field name="keywords">Science</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="publisher">Future Scientists of America</field>
+<field name="pub_place">Washington, DC</field>
+<field name="pages">36</field>
+<field name="language">English</field>
+<field name="call_number">371.425 .S41f</field>
+<field name="notes">36 p. 23 cm.; Note(s): Earlier ed. has title: Encouraging future scientists:
+materials and services available.</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Future Scientists of America Foundation</field>
+<field name="title">Encouraging future scientists: keys to careers. 1958-1959</field>
+<field name="keywords">Science</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="publisher">Future Scientists of America</field>
+<field name="pub_place">Washington, DC</field>
+<field name="pages">40</field>
+<field name="language">English</field>
+<field name="call_number">371.425 .S41f 1958-59</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Future Scientists of America Foundation</field>
+<field name="title">Encouraging future scientists: keys to careers. 1958-59</field>
+<field name="keywords">Science</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="publisher">Future Scientists of America</field>
+<field name="pub_place">Washington, DC</field>
+<field name="series_vol">(5th annual)</field>
+<field name="language">English</field>
+<field name="notes">40 p. 23 cm.; Note(s): Earlier ed. has title: Encouraging future scientists:
+materials and services available.; Responsibility: Prepared under the supervision of Orval L. Ulry.</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Future Scientists of America Foundation</field>
+<field name="title">Encouraging future scientists: student projects</field>
+<field name="keywords">Science</field>
+<field name="year">1954</field>
+<field name="date">1954</field>
+<field name="publisher">Future Scientists of America</field>
+<field name="pub_place">Washington, DC</field>
+<field name="pages">24</field>
+<field name="language">English</field>
+<field name="call_number">371.425 .S41f 1954 v. 2</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Skamser, H. P.</field>
+<field name="title">Engineering: information for counselors</field>
+<field name="keywords">Engineering</field><field name="keywords">Vocational guidance</field>
+<field name="year">1954</field>
+<field name="date">01/1954</field>
+<field name="publisher">Michigan State College</field>
+<field name="pub_place">East Lansing, MI</field>
+<field name="pages">19</field>
+<field name="call_number">371.425 .E57m</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Smith, Marguerite</field>
+<field name="title">English as a second language for Mexican Americans</field>
+<field name="series_title">Clearinghouse on Rural Education and Small Schools</field>
+<field name="keywords">English language</field>
+<field name="keywords">Mexican Americans</field>
+<field name="keywords">Language arts</field>
+<field name="year">1968</field>
+<field name="date">1968</field>
+<field name="publisher">New Mexico State University</field>
+<field name="pub_place">Las Cruces, NM</field>
+<field name="pages">22</field>
+<field name="language">English</field>
+<field name="call_number">323 .N522m v. 3</field>
+<field name="notes">19 p.; Note(s): This paper was prepared for the National Conference on
+Educational Opportunities for Mexican-Americans, Austin, Texas, April 25-26, 1968./ Microform
+reproduction. Prepared by ERIC Document Reproduction Service, 1968. - 1 fiche : 105 x 148 mm. ; in
+envelope. - (ED 016 560)./ Includes bibliographical references (p. [20]).; Responsibility: by
+Marguerite Smith.</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Milwaukee (Wisconsin) Public Schools</field>
+<field name="title">Enjoy summer safely</field>
+<field name="keywords">Children's accidents</field>
+<field name="keywords">Prevention</field>
+<field name="keywords">Safety education</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="publisher">Milwaukee (Wisconsin) Public Schools</field>
+<field name="pub_place">Milwaukee, WI</field>
+<field name="language">English</field>
+<field name="call_number">371.76 .M66e</field>
+<field name="notes">1 folded sheet ([6] p.) : ill. ; 22 cm.; Responsibility: Milwaukee Public
+Schools.</field>
+<field name="state_country">Wisconsin</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Menninger, William Claire</field>
+<field name="title">Enjoying leisure time;</field>
+<field name="series_title">Life adjustment booklet</field>
+<field name="keywords">Leisure</field>
+<field name="year">1950</field>
+<field name="date">1950</field>
+<field name="publisher">Science Research Associates</field>
+<field name="pub_place">Chicago, IL</field>
+<field name="pages">48</field>
+<field name="language">English</field>
+<field name="call_number">371.46 .S41L v. 4</field>
+<field name="notes">48 p. illus. 22 cm.; Note(s): Bibliography: p. [3] of cover.; Responsibility:
+illustrated by Alida Marsh.</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Ventura County (California) Schools</field>
+<field name="title">Enriching the curriculum for the gifted child: a handbook for teachers</field>
+<field name="keywords">Gifted children</field>
+<field name="keywords">Education</field>
+<field name="year">1954</field>
+<field name="date">09/1954</field>
+<field name="publisher">Ventura County (California) Schools</field>
+<field name="pub_place">Camarillo, CA</field>
+<field name="pages">36</field>
+<field name="call_number">371.33 .V46e</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Pettigrew, Thomas F.</field>
+<field name="title">Epitaph for Jim Crow</field>
+<field name="keywords">African Americans</field>
+<field name="keywords">Civil rights</field>
+<field name="keywords">Segregation</field>
+<field name="year">1964</field>
+<field name="date">1964</field>
+<field name="publisher">Anti-Defamation League of B'nai B'rith</field>
+<field name="pub_place">New York, NY</field>
+<field name="pages">59</field>
+<field name="language">English</field>
+<field name="call_number">323 .A62p v. 3</field>
+<field name="notes">ill. ; 23 cm.; Responsibility: by Thomas f. Pettigrew.</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Sylvania</field>
+<field name="title">Equipment guide for classroom television</field>
+<field name="keywords">Television in education</field>
+<field name="publisher">Sylvania</field>
+<field name="pub_place">New York</field>
+<field name="pages">34</field>
+<field name="language">English</field>
+<field name="call_number">371.3095 .S98e</field>
+<field name="notes">ill. ; 22 x 28 cm.; Note(s): Cover title.</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Santa Clara County (California) Schools</field>
+<field name="title">Europe, Asia, Africa, Australia ; Social sciences teacher's guide, grade seven</field>
+<field name="keywords">Europe</field>
+<field name="keywords">History</field>
+<field name="keywords">Human geography</field>
+<field name="keywords">Social sciences</field>
+<field name="year">1967</field>
+<field name="date">1967</field>
+<field name="publisher">Santa Clara County (California) Board of Education</field>
+<field name="pub_place">San Jose, CA</field>
+<field name="pages">262</field>
+<field name="language">English</field>
+<field name="call_number">371.33 .S23s</field>
+<field name="notes">[ix]; ; 22 x 29 cm.; Note(s): On cover: Social sciences, history and geography;
+Europe, Asia, Africa, Australia, European backgrounds of the United States.; Other Titles: Social
+sciences, history and geography; Social sciences teacher's guide, grade seven</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Rehrig, James Bradley</field>
+<field name="title">The European Community</field>
+<field name="keywords">Europe</field>
+<field name="year">1963</field>
+<field name="date">03/1963</field>
+<field name="publisher">Stanford University</field>
+<field name="pub_place">Stanford, CA</field>
+<field name="pages">40</field>
+<field name="call_number">327 .S78e</field>
+<field name="notes">For Education 296b.</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Denver (Colorado) Public Schools</field>
+<field name="title">Evaluating and recording the pupil personal-social development, K-12: a manual
+of instructions for teachers and counselors</field>
+<field name="keywords">Educational tests and measurements</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="publisher">Denver (Colorado) Public Schools</field>
+<field name="pub_place">Denver, CO</field>
+<field name="pages">32</field>
+<field name="call_number">371.46 .D41e</field>
+<field name="state_country">Colorado</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Board of Education of Prince George's County, Maryland</field>
+<field name="title">Evaluation guide for the social studies: part 1: an inventory of attitudes</field>
+<field name="keywords">Social sciences</field>
+<field name="year">1968</field>
+<field name="date">1968</field>
+<field name="publisher">Board of Education of Prince George's County</field>
+<field name="pub_place">Upper Marlboro, MD</field>
+<field name="pages">30</field>
+<field name="call_number">371.33 .P95e</field>
+<field name="state_country">Maryland</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Collette, Mabel</field>
+<field name="author">Landry, Thomas R.</field>
+<field name="title">Evaluation in the social studies</field>
+<field name="series_title">Elementary pamphlet</field>
+<field name="keywords">Social sciences</field>
+<field name="year">1958</field>
+<field name="date">07/1958</field>
+<field name="publisher">Louisiana State Superintendent of Education</field>
+<field name="pub_place">Baton Rouge, LA</field>
+<field name="series_vol">4</field>
+<field name="pages">27</field>
+<field name="call_number">371.33 .L88e</field>
+<field name="state_country">Louisiana</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Kremen, Benjamin G.</field>
+<field name="title">An evaluation of guidance services in the high schools of Fresno County</field>
+<field name="keywords">Counseling in secondary education</field>
+<field name="year">1951</field>
+<field name="date">1951</field>
+<field name="publisher">Fresno County (California) Schools</field>
+<field name="pub_place">Fresno, CA</field>
+<field name="pages">190</field>
+<field name="call_number">371.45 .F88e</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Clock, Charles J.</field>
+<field name="title">An evaluation of junior high asian studies</field>
+<field name="series_title">Service Bulletin</field>
+<field name="keywords">Asia</field>
+<field name="year">1970</field>
+<field name="date">03/1970</field>
+<field name="publisher">West Hartford (Connecticut) Public Schools</field>
+<field name="pub_place">West Hartford, CT</field>
+<field name="series_vol">29</field>
+<field name="call_number">371.33 .W50e</field>
+<field name="state_country">Connecticut</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Davison, Donald G.</field>
+<field name="author">Kilgore, John H.</field>
+<field name="title">An evaluation of second grade economic matherials</field>
+<field name="keywords">Economics</field>
+<field name="year">1970</field>
+<field name="date">1970?</field>
+<field name="pub_place">Des Moines, IA</field>
+<field name="pages">34</field>
+<field name="call_number">330 .I64c v. 4</field>
+<field name="state_country">Iowa</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Wilson, Herbert B.</field>
+<field name="title">Evaluation of the influence of educational programs on Mexican-Americans</field>
+<field name="series_title">Clearinghouse on Rural Education and Small Schools</field>
+<field name="keywords">Mexican Americans</field>
+<field name="year">1968</field>
+<field name="date">1968</field>
+<field name="publisher">New Mexico State University</field>
+<field name="pub_place">Las Cruces, NM</field>
+<field name="language">English</field>
+<field name="call_number">323 .N522m v. 4</field>
+<field name="notes">22, [1] . 28 cm.; Note(s): &quot;Prepared for National Conference on
+Educational Opportunities for Mexican-Americans, April 25-26, 1968, Commodore Perry Hotel, Austin, 
+Texas.&quot;/ &quot;Sponsored by ERIC Clearinghouse on Rural Education and Small Schools, New Mexico
+State University...Las Cruces, New Mexico...A unit of the Educational Resources Information Center
+of the Bureau of Research, U.S.O.E.&quot;/ Bibliography: leaf [23]./ Reproduction: Photocopy.;
+Responsibility: by Herbert B. Wilson.</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Emory University. Division of Education</field>
+<field name="title">Every elementary school can have a library. A report of the elementary school
+library work conference, Emory University, August 4-7, 1954</field>
+<field name="keywords">School libraries</field>
+<field name="year">1954</field>
+<field name="date">1954</field>
+<field name="publisher">Georgia State Department of Education</field>
+<field name="pub_place">Atlanta, GA</field>
+<field name="pages">102</field>
+<field name="language">English</field>
+<field name="call_number">027.8 .G35e</field>
+<field name="notes">102 p. illus. 28 cm.; Note(s): &quot;Book preparation chart&quot; (fold. leaf)
+in pocket./ Bibliography: p. 84-86.; Responsibility: Sponsored by Emory University: Division of
+Education [and] Division of Librarianship and others.</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Santa Barbara (California) City Schools</field>
+<field name="title">Excursion guide</field>
+<field name="keywords">School field trips</field>
+<field name="year">1952</field>
+<field name="date">1952-1953</field>
+<field name="publisher">Santa Barbara (California) City Schools</field>
+<field name="pub_place">Santa Barbara, CA</field>
+<field name="pages">58</field>
+<field name="call_number">371.3 .S228e</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Project Social Studies Curriculum Development Center</field>
+<field name="title">The executive process : resource unit</field>
+<field name="keywords">Social sciences</field>
+<field name="keywords">United States</field>
+<field name="keywords">Politics and government</field>
+<field name="year">1966</field>
+<field name="date">1966</field>
+<field name="publisher">University of Minnesota</field>
+<field name="pub_place">Minneapolis, MN</field>
+<field name="pages">155</field>
+<field name="language">English</field>
+<field name="call_number">371.33 .M661o v. 4</field>
+<field name="notes">157 p. ; 22 x 28 cm.; Note(s): &quot;These materials were developed by the
+Project Social Studies Center of the University of Minnesota under a special grant from the U.S.
+Office of Education. (Project No. HS-045).&quot;</field>
+<field name="state_country">Minnesota</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Oklahoma City Public Schools</field>
+<field name="title">Exit drill regulations</field>
+<field name="keywords">Safety education</field>
+<field name="year">1950</field>
+<field name="date">1950</field>
+<field name="publisher">Oklahoma City Public Schools</field>
+<field name="pub_place">Oklahoma City, OK</field>
+<field name="pages">14</field>
+<field name="call_number">371.76 .O41e</field>
+<field name="state_country">Oklahoma</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Sacramento (California) City Unified School District</field>
+<field name="title">Experiences in school safety</field>
+<field name="keywords">Accidents</field><field name="keywords">Prevention</field>
+<field name="keywords">Safety education</field>
+<field name="year">1954</field>
+<field name="date">05/1954</field>
+<field name="publisher">Sacramento (California) City Unified School District</field>
+<field name="pub_place">Sacramento, CA</field>
+<field name="language">English</field>
+<field name="call_number">371.76 .S12e</field>
+<field name="notes">chiefly ill. ; 28 cm.; Note(s): Title from cover.; Responsibility: Sacramento
+City Unified School District.</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Wigren, Harold E.</field>
+<field name="title">Experiencing the library in the junior high school</field>
+<field name="keywords">School libraries</field>
+<field name="year">1938</field>
+<field name="date">1938-39</field>
+<field name="publisher">Houston (Texas) Public Schools</field>
+<field name="pub_place">Houston, TX</field>
+<field name="pages">44</field>
+<field name="language">English</field>
+<field name="call_number">027.8 .H84e</field>
+<field name="state_country">Texas</field>
+<field name="grade_level_group">Middle school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Grand Island (Nebraska) Public Schools</field>
+<field name="title">An experimental guide for teaching the social studies in the elementary grades
+in the Grand Island public schools</field>
+<field name="keywords">Social sciences</field>
+<field name="year">1951</field>
+<field name="date">09/1951</field>
+<field name="publisher">Grand Island (Nebraska) Public Schools</field>
+<field name="pub_place">Grand Island, NE</field>
+<field name="pages">45</field>
+<field name="call_number">371.33 .G75e</field>
+<field name="state_country">Nebraska</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Merced County (California) Schools</field>
+<field name="title">Experimental program on attitudes toward minority groups</field>
+<field name="keywords">Minorities</field>
+<field name="keywords">Multicultural education</field>
+<field name="year">1960</field>
+<field name="date">Spring 1960</field>
+<field name="publisher">Merced County (California) Schools Office</field>
+<field name="pub_place">Merced, CA</field>
+<field name="call_number">323 M55e</field>
+<field name="notes">&quot;A cooperative study by Merced County Schools Office and Gustine Union
+Elementary School District. Bill Stockard, Consultant.</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Haley, Bernard Francis</field>
+<field name="title">Experiments in the teaching of basic economics</field>
+<field name="keywords">Economics</field>
+<field name="year">1966</field>
+<field name="date">1966</field>
+<field name="publisher">Joint Council on Economic Education</field>
+<field name="pub_place">New York, NY</field>
+<field name="pages">36</field>
+<field name="language">English</field>
+<field name="call_number">330 .J74ex</field>
+<field name="notes">36 p. 23 cm.; Note(s): &quot;A short version of this paper was presented at the
+79th annual meeting of the American Economic Association, San Francisco, California, December 29, 
+1966.&quot;/ Bibliography: p. 31-32.; Responsibility: by Bernard F. Haley.</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Cornell, Francis G.</field>
+<field name="author">Lindvall, Carl M.</field>
+<field name="author">Saupe, Joe L.</field>
+<field name="title">An exploratory measurement of individualities of school and classrooms</field>
+<field name="keywords">School buildings</field>
+<field name="keywords">School management and organization</field>
+<field name="year">1953</field>
+<field name="date">07/1953</field>
+<field name="publisher">University of Illinois</field>
+<field name="pub_place">Urbana, IL</field>
+<field name="pages">71</field>
+<field name="call_number">370.7 .I27ex</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Ohio State University. Department of Education</field>
+<field name="title">An exploratory study of the preparation of core teachers for secondary schools</field>
+<field name="keywords">Teachers</field>
+<field name="year">1949</field>
+<field name="date">1949</field>
+<field name="publisher">Department of Education, Ohio State University</field>
+<field name="pub_place">Columbus, OH</field>
+<field name="pages">46</field>
+<field name="language">English</field>
+<field name="call_number">370.7 .O37e</field>
+<field name="notes">46 l. tables. 28 cm.; Note(s): Bibliography: leaves 44-46.; Responsibility:
+Prepared by a graduate seminar in secondary education.</field>
+<field name="state_country">Ohio</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Sprague, Hall T.</field>
+<field name="author">Shirts, R. Garry</field>
+<field name="title">Exploring classroom uses of simulations</field>
+<field name="keywords">Simulation methods</field>
+<field name="keywords">Social sciences</field>
+<field name="year">1966</field>
+<field name="date">10/1966</field>
+<field name="publisher">Western Behavioral Sciences Institute</field>
+<field name="pub_place">La Jolla, CA</field>
+<field name="pages">21</field>
+<field name="language">English</field>
+<field name="call_number">371.33 .W52e</field>
+<field name="notes">22 leaves ; 28 cm.; Note(s): Cover title./ &quot;Project SIMILE.&quot;;
+Responsibility: Hall T. Sprague and R. Garry Shirts.</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Chwalek, Henryka</field>
+<field name="title">Exploring vocations</field>
+<field name="series_title">Milwaukee (Wisconsin) Public Schools. Curriculum bulletin</field>
+<field name="keywords">Vocational guidance</field>
+<field name="year">1953</field>
+<field name="date">1953</field>
+<field name="publisher">Milwaukee (Wisconsin) Public Schools</field>
+<field name="pub_place">Milwaukee, WI</field>
+<field name="series_vol">10</field>
+<field name="pages">147</field>
+<field name="language">English</field>
+<field name="issue">4</field>
+<field name="call_number">371.41 M66e</field>
+<field name="notes">147 leaves ; 28 cm.; Note(s): Bibliography: leaves 71-147.; Responsibility: by
+Henryka Chwalek : a resource unit for the guidance of teachers in pre-planning teaching units for a
+study of vocations.</field>
+<field name="state_country">Wisconsin</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Osborne, Ernest Glenn</field>
+<field name="author">Harper, Frances R.</field>
+<field name="title">Exploring your community</field>
+<field name="series_title">Junior life adjustment booklet</field>
+<field name="keywords">Cities and towns</field>
+<field name="keywords">Community life</field>
+<field name="year">1954</field>
+<field name="date">1954</field>
+<field name="publisher">Science Research Associates</field>
+<field name="pub_place">Chicago, IL</field>
+<field name="pages">40</field>
+<field name="language">English</field>
+<field name="call_number">371.46 .S41j v. 3</field>
+<field name="notes">ill. ; 22 cm.; Responsibility: by Ernest G. Osborne and Frances R. Harper ;
+sketches by Winnie Fitch.</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of California at Los Angeles</field>
+<field name="corp_author">Mount St. Mary's College</field>
+<field name="title">Extending the frontiers of the social studies</field>
+<field name="keywords">Social sciences</field>
+<field name="year">1957</field>
+<field name="date">08/1957</field>
+<field name="publisher">University of California at Los Angeles</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="pages">54</field>
+<field name="call_number">371.33 .C153w v. 2</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Grams, Armin</field>
+<field name="title">Facilitating learning and individual development toward a theory for elementary
+guidance</field>
+<field name="series_title">Minnesota guidance series</field>
+<field name="keywords">Counseling in elementary education</field>
+<field name="keywords">Psychology of learning</field>
+<field name="year">1966</field>
+<field name="date">1966</field>
+<field name="publisher">Minnesota State Department of Education</field>
+<field name="pub_place">St. Paul, MN</field>
+<field name="pages">224</field>
+<field name="language">English</field>
+<field name="call_number">371.45 .M66f</field>
+<field name="notes">224 p. 23 cm.; Note(s): Elementary guidance series./ Includes bibliographies
+and index.</field>
+<field name="state_country">Minnesota</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">McCarthy, Raymond Gerald</field>
+<field name="title">Facts about alcohol;</field>
+<field name="series_title">Life adjustment booklet</field>
+<field name="keywords">Alcoholism</field>
+<field name="year">1951</field>
+<field name="date">1951</field>
+<field name="publisher">Science Research Associates</field>
+<field name="pub_place">Chicago, IL</field>
+<field name="pages">48</field>
+<field name="language">English</field>
+<field name="notes">48 p. illus. 22 cm.; Note(s): ----- -------Instructor's guide. [Chicago, 
+Science Research Associates, 1951]./ 7 p. 22 cm./ Bibliography: p. [3] of cover./ Bibliography: p.
+7.; Responsibility: illustrated by Seymour Fleishman.</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Vogel, Victor H.</field>
+<field name="author">Vogel, Virginia E.</field>
+<field name="title">Facts about narcotics</field>
+<field name="series_title">Life adjustment booklet</field>
+<field name="keywords">Adolescent</field>
+<field name="keywords">Drug addiction</field>
+<field name="keywords">Narcotics</field>
+<field name="keywords">Opioid-related disorders</field>
+<field name="year">1951</field>
+<field name="date">1951</field>
+<field name="publisher">Science Research Associates</field>
+<field name="pub_place">Chicago, IL</field>
+<field name="pages">48</field>
+<field name="language">English</field>
+<field name="call_number">371.46 .S41L v. 26</field>
+<field name="notes">ill. ; 22 cm.; Note(s): Also issued online.; Responsibility: by Victor H. Vogel
+and Virginia E. Vogel ; illustrated by Seymour Fleishman.</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Manhasset (New York) Public Schools</field>
+<field name="title">Facts about the Manhasset Public Schools</field>
+<field name="keywords">Public schools</field>
+<field name="publisher">Manhasset (New York) Public Schools</field>
+<field name="pub_place">Manhasset, NY</field>
+<field name="pages">12</field>
+<field name="call_number">370.21 .M27f</field>
+<field name="state_country">New York</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Choun, Okhi</field>
+<field name="corp_author">San Francisco (California) Unified School District</field>
+<field name="title">The fallen egg : a portrayal of the Korean experience</field>
+<field name="keywords">Koreans</field>
+<field name="year">1974</field>
+<field name="date">06/1974</field>
+<field name="publisher">San Francisco (California) Unified School District</field>
+<field name="pub_place">San Francisco, CA</field>
+<field name="pages">85</field>
+<field name="language">English</field>
+<field name="call_number">323 .S195m #6</field>
+<field name="notes">ill. ; 28 cm.; Note(s): Includes bibliographical references (p. 84-85).</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Project Social Studies Curriculum Development Center</field>
+<field name="title">The family : selected readings for unit III</field>
+<field name="keywords">Social sciences</field>
+<field name="keywords">Sociology</field>
+<field name="year">1968</field>
+<field name="date">1968</field>
+<field name="publisher">University of Minnesota</field>
+<field name="pub_place">Minneapolis, MN</field>
+<field name="pages">80</field>
+<field name="language">English</field>
+<field name="call_number">371.33 .M661m v. 5</field>
+<field name="notes">57 p. ; 28 cm.; Note(s): &quot;These materials were developed by the Project
+Social Studies Center of the University of Minnesota under a special grant from the U.S. Office of
+Education. (Project No. HS-045). All publication rights reserved.&quot;</field>
+<field name="state_country">Minnesota</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Madison, Louise H.</field>
+<field name="author">Brown, Barbara</field>
+<field name="author">Harris, Rachel J.</field>
+<field name="title">Family finance grades I-VI : a tentative elementary school curriculum guide for
+the Robert Gatewood Elementary School, Norfolk, Virginia</field>
+<field name="keywords">Finance</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="publisher">Robert Gatewood Elementary School</field>
+<field name="pub_place">Norfolk, VA</field>
+<field name="pages">150</field>
+<field name="language">English</field>
+<field name="call_number">339.4 .N83f</field>
+<field name="notes">vii; ; 22 x 29 cm.; Responsibility: prepared by Louise H. Madison, Barbara
+Brown, Rachel J. Harris.</field>
+<field name="state_country">Virginia</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">West, Edith</field>
+<field name="title">The family of man : a social studies program : the rationale and overview</field>
+<field name="keywords">Social sciences</field>
+<field name="year">1971</field>
+<field name="date">1971</field>
+<field name="publisher">Selective Educational Equipment</field>
+<field name="pub_place">Newton, MA</field>
+<field name="pages">38</field>
+<field name="language">English</field>
+<field name="call_number">371.33 .M661f</field>
+<field name="notes">38 p. ; 28 cm.; Other Titles: Rationale and overview; Responsibility: by Edith
+West.</field>
+<field name="state_country">Minnesota</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">United States. Bureau of Labor Statistics</field>
+<field name="title">Federal white-collar workers: their occupations and salaries, June, 1951</field>
+<field name="series_title">Bulletin of the U.S. Bureau of Labor Statistics</field>
+<field name="keywords">White-collar workers</field>
+<field name="keywords">Civil service positions</field>
+<field name="year">1953</field>
+<field name="date">1953</field>
+<field name="publisher">U.S. Government Printing Office</field>
+<field name="pub_place">Washington, DC</field>
+<field name="series_vol">1117</field>
+<field name="pages">43</field>
+<field name="language">English</field>
+<field name="call_number">371.425 .G72u</field>
+<field name="notes">43 p. ; 23 cm.; Responsibility: [by Cora E. Taylor].</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Dent, Charles Herger</field>
+<field name="author">Tiemann, Ernest F.</field>
+<field name="title">Felt boards for teaching</field>
+<field name="series_title">Bridges for ideas</field>
+<field name="keywords">Bulletin boards</field>
+<field name="keywords">Flannel boards</field>
+<field name="year">1957</field>
+<field name="date">1957</field>
+<field name="publisher">Visual Instruction Bureau, Division of Extension, University of Texas</field>
+<field name="pub_place">Austin, TX</field>
+<field name="series_vol">3</field>
+<field name="pages">28</field>
+<field name="language">English</field>
+<field name="call_number">371.3095 .T36b no. 3</field>
+<field name="notes">ill. ; 23 cm.; Note(s): Bibliography: p. 26-28.; Responsibility: by Charles H.
+Dent and Ernest F. Tiemann ; designed by Nancy M. Holland.</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">County of San Joaquin (California) Superintendent of Schools</field>
+<field name="title">Ferns and allies</field>
+<field name="keywords">Outdoor education</field>
+<field name="year">1967</field>
+<field name="date">1967</field>
+<field name="publisher">San Joaquin (California) County Schools</field>
+<field name="pub_place">Stockton, CA</field>
+<field name="pages">8</field>
+<field name="call_number">371.84 .S195o v. 2 no. 1</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Ventura (California) City Elementary Schools</field>
+<field name="title">Field trip guide</field>
+<field name="keywords">School field trips</field>
+<field name="publisher">Ventura (California) City Elementary Schools</field>
+<field name="pub_place">Ventura, CA</field>
+<field name="call_number">371.3 .V46f</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Herberg, Theodore</field>
+<field name="author">McMahon, Joseph R.</field>
+<field name="title">Field trip manual</field>
+<field name="keywords">School field trips</field>
+<field name="year">1957</field>
+<field name="date">1957</field>
+<field name="publisher">Pittsfield (Massachusetts) Public Schools</field>
+<field name="pub_place">Pittsfield, MA</field>
+<field name="pages">23</field>
+<field name="call_number">371.3 .P69f</field>
+<field name="state_country">Massachusetts</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">San Francisco (California) Unified School District, Community Relations</field>
+<field name="title">Field trips</field>
+<field name="keywords">Multicultural education</field>
+<field name="publisher">San Francisco (California) Unified School District</field>
+<field name="pub_place">San Francisco, CA</field>
+<field name="pages">5</field>
+<field name="call_number">323 .S195m no. 7</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Charlesworth, Stanley</field>
+<field name="author">Baird, George</field>
+<field name="author">Bolin, Mayme</field>
+<field name="author">Lindstrom, Herbert</field>
+<field name="author">McCormic, Drucilla</field>
+<field name="title">Field trips</field>
+<field name="keywords">School field trips</field>
+<field name="year">1954</field>
+<field name="date">1954</field>
+<field name="publisher">Rock Island (Illinois) Public Schools</field>
+<field name="pub_place">Rock Island, IL</field>
+<field name="pages">10</field>
+<field name="language">English</field>
+<field name="call_number">371.3 .R68f</field>
+<field name="notes">111 leaves ; cm</field>
+<field name="state_country">Illinois</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Francis, Harold C.</field>
+<field name="title">Field trips</field>
+<field name="keywords">School field trips</field>
+<field name="year">1950</field>
+<field name="date">1950</field>
+<field name="publisher">Stanislaus (California) County Schools</field>
+<field name="pub_place">Modesto, CA</field>
+<field name="call_number">371.3 .S78f</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Flint (Michigan) Public Schools</field>
+<field name="title">Field trips - social studies, Elementary grades</field>
+<field name="keywords">School field trips</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="publisher">Flint (Michigan) Public Schools</field>
+<field name="pub_place">Flint, MI</field>
+<field name="pages">32</field>
+<field name="call_number">371.3 .F62f</field>
+<field name="state_country">Michigan</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Louisville (Kentucky) Public Schools. Division of Curriculum</field>
+<field name="title">Field trips: a handbook of community resources for elementary schools</field>
+<field name="keywords">School field trips</field>
+<field name="year">1966</field>
+<field name="date">09/1966</field>
+<field name="publisher">Louisville (Kentucky) Public Schools</field>
+<field name="pub_place">Louisville, KY</field>
+<field name="pages">165</field>
+<field name="call_number">371.3 .L88f</field>
+<field name="state_country">Kentucky</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Materials of Instruction Committee</field>
+<field name="title">Field trips: planning for them, carrying them out, and profiting from them</field>
+<field name="keywords">School field trips</field>
+<field name="year">1956</field>
+<field name="date">03/1956</field>
+<field name="publisher">National Aviation Education Council</field>
+<field name="pub_place">Overland Park, KS</field>
+<field name="pages">14</field>
+<field name="call_number">371.3 .N271f</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of Missouri--Columbia</field>
+<field name="title">Film catalog</field>
+<field name="keywords">Educational films</field>
+<field name="year">1964</field>
+<field name="date">1964-1966</field>
+<field name="publisher">University of Missouri</field>
+<field name="pub_place">Columbia, MO</field>
+<field name="series_vol">65</field>
+<field name="pages">203</field>
+<field name="language">English</field>
+<field name="issue">33a</field>
+<field name="call_number">371.3095 .M671f</field>
+<field name="notes">v. : ill. ; 28 cm; Responsibility: University of Missouri-Columbia.</field>
+<field name="state_country">Missouri</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Ventura (California) County Schools</field>
+<field name="title">Film catalog</field>
+<field name="keywords">Motion pictures in education</field>
+<field name="year">1952</field>
+<field name="date">1952-1953</field>
+<field name="publisher">Ventura (California) County Schools</field>
+<field name="pub_place">Camarillo, CA</field>
+<field name="pages">94</field>
+<field name="call_number">371.3095 .V46f v. 1</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Santa Clara County (California) Schools</field>
+<field name="title">Film catalogue</field>
+<field name="keywords">Audio-visual materials</field>
+<field name="keywords">Catalogs</field>
+<field name="publisher">Santa Clara County (California) Schools</field>
+<field name="pub_place">San Jose, CA</field>
+<field name="pages">77</field>
+<field name="call_number">371.3095 .S229f</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Audio-Visual Service. Imperial County (California) Schools</field>
+<field name="title">Film index</field>
+<field name="keywords">Audio-visual materials</field>
+<field name="publisher">Imperial County (California) Schools</field>
+<field name="call_number">371.3095 .I34f</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles County (California) Schools</field>
+<field name="title">Film study guides</field>
+<field name="keywords">Educational films</field>
+<field name="year">1948</field>
+<field name="date">1948</field>
+<field name="publisher">Los Angeles County (California) Schools</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="call_number">371.3095 .L87fs</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Rachford, Helen</field>
+<field name="corp_author">Los Angeles County (California) Office of Superintendent of Schools</field>
+<field name="title">Film units for the study of intergroup relationships : introductory units for
+three series on intergroup relationships, using films as major teaching materials</field>
+<field name="keywords">Motion pictures in education</field>
+<field name="keywords">Race relations</field>
+<field name="year">1948</field>
+<field name="date">03/1948</field>
+<field name="publisher">Division of Audio-Visual Education, Los Angeles County</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="pages">36</field>
+<field name="language">English</field>
+<field name="call_number">323 .L87f</field>
+<field name="notes">28 leaves ; 28 cm.; Responsibility: prepared by Helen Rachford ... [et al.].</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Rachford, Helen</field>
+<field name="title">Films for secondary schools and colleges</field>
+<field name="keywords">Audio-visual materials</field>
+<field name="year">1953</field>
+<field name="date">09/1953</field>
+<field name="publisher">Los Angeles County Schools</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="pages">113</field>
+<field name="call_number">371.3095 .L87f</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Indiana University, Audio-Visual Center</field>
+<field name="title">Films for teacher education</field>
+<field name="keywords">Audio-visual materials</field>
+<field name="keywords">Teachers</field>
+<field name="year">1960</field>
+<field name="date">1960</field>
+<field name="edition">Second edition</field>
+<field name="publisher">Indiana University</field>
+<field name="pub_place">Bloomington, IN</field>
+<field name="pages">117</field>
+<field name="state_country">Indiana</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Keeslar, Oreon</field>
+<field name="title">Financial aids for students entering college; a catalog of scholarships and
+entrance requirements</field>
+<field name="keywords">Scholarships</field>
+<field name="keywords">Universities and colleges</field>
+<field name="keywords">Entrance requirements</field>
+<field name="year">1961</field>
+<field name="date">09/1961</field>
+<field name="edition">4th</field>
+<field name="publisher">Santa Clara County (California) Office of Education</field>
+<field name="pub_place">San Jose, CA</field>
+<field name="pages">313</field>
+<field name="language">English</field>
+<field name="call_number">371.45 .S23f</field>
+<field name="notes">xxiii; 28 cm.; Note(s): Published in 1958 under title: Catalog of scholarships
+and college entrance requirements for high school graduates./ Bibliography: p. xxi-xxiii.;
+Responsibility: A guidance project sponsored by the Bureau of Pupil Personnel Services, California
+State Dept. of Education.</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">New York State Education Department</field>
+<field name="title">Fire prevention education</field>
+<field name="keywords">Safety education</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="publisher">New York State Education Department</field>
+<field name="pub_place">Albany, NY</field>
+<field name="pages">63</field>
+<field name="language">English</field>
+<field name="call_number">371.76 .N53f</field>
+<field name="state_country">New York</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Cotten, Clay</field>
+<field name="author">Meadows, Charles</field>
+<field name="title">Fire prevention handbook for Texas schools</field>
+<field name="keywords">Fire prevention</field>
+<field name="year">1968</field>
+<field name="date">1968</field>
+<field name="publisher">State Board of Insurance</field>
+<field name="pub_place">Austin, TX</field>
+<field name="pages">58</field>
+<field name="language">English</field>
+<field name="call_number">371.76 .T352f</field>
+<field name="state_country">Texas</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Rohrer, Marye</field>
+<field name="title">Fire safety</field>
+<field name="keywords">Fire prevention</field>
+<field name="publisher">Marye Rohrer</field>
+<field name="pub_place">Vallejo, CA</field>
+<field name="pages">44</field>
+<field name="call_number">371.76 .V18f</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles County (California) Board of Education</field>
+<field name="title">Fire safety education</field>
+<field name="keywords">Fire prevention</field>
+<field name="year">1955</field>
+<field name="date">1955</field>
+<field name="publisher">Los Angeles County (California) Board of Education</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="pages">72</field>
+<field name="call_number">371.76 .L879f</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Durkin, Mary</field>
+<field name="author">Duvall, Alice</field>
+<field name="author">McMaster, Alice</field>
+<field name="corp_author">Contra Costa County (California) Schools</field>
+<field name="title">First Grade Social Studies</field>
+<field name="keywords">Social sciences</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="publisher">Sontra Costa County (California) Schools</field>
+<field name="pub_place">Pleasant Hill, CA</field>
+<field name="series_vol">Rev.</field>
+<field name="pages">46</field>
+<field name="language">English</field>
+<field name="call_number">371.33 .A318s v. 1</field>
+<field name="notes">v. : illus. ; 22 x 28 cm.!+! Teacher handbook. [guide]; Note(s): These guides
+have been developed in a pilot study project.</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">1st grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">National Council of Teachers of English</field>
+<field name="title">Five more years of work on the preparation and certification of teachers of
+English</field>
+<field name="keywords">Teachers</field>
+<field name="year">1959</field>
+<field name="date">1959</field>
+<field name="publisher">National Council of Teachers of English</field>
+<field name="pub_place">Champaign, IL</field>
+<field name="pages">41</field>
+<field name="call_number">370.7 .N28f</field>
+<field name="notes">&quot;A bibliography of studies for 1957-1961 reprinted from College
+English.&quot;</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Hetfield, Joanne</field>
+<field name="author">Pezo, Kathryn</field>
+<field name="author">Porter, Joyce</field>
+<field name="author">Mathios, Marie</field>
+<field name="corp_author">San Francisco (California) Unified School District</field>
+<field name="title">Folklore opens doors to folkways</field>
+<field name="keywords">Folk literature</field>
+<field name="keywords">Folklore</field>
+<field name="keywords">Multicultural education</field>
+<field name="year">1969</field>
+<field name="date">1969-1970</field>
+<field name="publisher">San Francisco (California) Unified School District</field>
+<field name="pub_place">San Francisco, CA</field>
+<field name="pages">167</field>
+<field name="language">English</field>
+<field name="abstract">Teaching materials including games, school projects, and recipes.</field>
+<field name="call_number">323 .S195m no. 8</field>
+<field name="notes">[4], viii; ill. ; 28 cm.; Note(s): &quot;*Experimental materials. *Subject to
+revision. *Not for publication.&quot;/ Includes bibliography: (p.142-165).</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Massachusetts Institute of Technology</field>
+<field name="title">For today and tomorrow biology at M.I.T.</field>
+<field name="keywords">Biology</field>
+<field name="keywords">Vocational guidance</field>
+<field name="publisher">Massachusetts Institute of Technology</field>
+<field name="pub_place">Cambridge, MA</field>
+<field name="call_number">371.425 .S41m</field>
+<field name="grade_level_group">Postsecondary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Modern Language Association of America</field>
+<field name="title">Foreign language training curricula: a conference report</field>
+<field name="keywords">Language teachers</field>
+<field name="year">1960</field>
+<field name="date">05/1960</field>
+<field name="publisher">Modern Language Association of America</field>
+<field name="pub_place">New York, NY</field>
+<field name="pages">6</field>
+<field name="call_number">370.7 .M69f</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Foreign Policy Association. School Services Dept</field>
+<field name="title">Foreign news and world views; interpreting the newspaper in the classroom</field>
+<field name="series_title">New Dimensions</field>
+<field name="keywords">Journalism and education</field>
+<field name="keywords">Newspapers</field>
+<field name="year">1968</field>
+<field name="date">1968</field>
+<field name="publisher">Foreign Policy Association</field>
+<field name="pub_place">New York, NY</field>
+<field name="series_vol">one no. 2</field>
+<field name="language">English</field>
+<field name="call_number">371.33 .N49n v. 2</field>
+<field name="notes">80 p. illus. 22 cm.; Note(s): Cover title./ Bibliography: p. 71-80.</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Hernandez, Luis F.</field>
+<field name="title">A forgotten American: a resource unit for teachers on the Mexican American</field>
+<field name="keywords">Mexican Americans</field>
+<field name="year">1969</field>
+<field name="date">1969</field>
+<field name="publisher">Anti-Defamation League of B'nai B'rith</field>
+<field name="pub_place">New York, NY</field>
+<field name="language">English</field>
+<field name="call_number">323 .A62fa</field>
+<field name="notes">56 p. 23 cm.; Note(s): Bibliography: p. 54-55. Introduction by Robert Finch.
+</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Chula Vista (California) City School District</field>
+<field name="title">Foundations for freedom</field>
+<field name="keywords">Citizenship</field>
+<field name="year">1961</field>
+<field name="date">07/1961</field>
+<field name="publisher">Chula Vista (California) City School District</field>
+<field name="pub_place">Chula Vista, CA</field>
+<field name="pages">32</field>
+<field name="call_number">371.33 .C55f</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Texas Education Agency. Division of Crime Prevention and Drug Education</field>
+<field name="title">A framework for crime prevention and drug education in Texas: desirable student
+outcomes</field>
+<field name="keywords">Crime prevention</field>
+<field name="keywords">Drug abuse</field>
+<field name="keywords">Education and crime</field>
+<field name="year">1973</field>
+<field name="date">05/1973</field>
+<field name="publisher">Texas Education Agency</field>
+<field name="pub_place">Austin, TX</field>
+<field name="pages">43</field>
+<field name="language">English</field>
+<field name="call_number">371.46 .T35f</field>
+<field name="notes">vi; 23 cm.; Note(s): Bibliography: p. 43.</field>
+<field name="state_country">Texas</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Hansen, W. Lee</field>
+<field name="author">Bach, George Leland</field>
+<field name="author">Calderwood, James D.</field>
+<field name="author">Saunders, Phillip</field>
+<field name="title">A Framework for teaching economics : basic concepts</field>
+<field name="series_title">Master curriculum guide in economics for the nation's schools ;; pt. 1</field>
+<field name="keywords">Economics</field>
+<field name="year">1977</field>
+<field name="date">1977</field>
+<field name="publisher">Joint Council on Economic Education</field>
+<field name="pub_place">New York, NY</field>
+<field name="pages">52</field>
+<field name="language">English</field>
+<field name="call_number">330 .J5846f</field>
+<field name="notes">v; ill. ; 28 cm.; Note(s): Includes bibliographical references.;
+Responsibility: W. Lee Hansen, chairman ; G. L. Bach, James D. Calderwood, Phillip Saunders.
+</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Texas Education Agency</field>
+<field name="title">Framework for the social studies : grades K-12</field>
+<field name="keywords">Social sciences</field>
+<field name="year">1970</field>
+<field name="date">1970</field>
+<field name="publisher">Texas Education Agency</field>
+<field name="pub_place">Austin, TX</field>
+<field name="pages">31</field>
+<field name="language">English</field>
+<field name="call_number">371.33 .T35f</field>
+<field name="notes">31 p. ; 26 cm.; Responsibility: Texas Education Agency.</field>
+<field name="state_country">Texas</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Wyoming State Department of Education. Social Studies Planning Committee</field>
+<field name="title">Framework for the social studies in Wyoming, grades K-12; a guide for
+curriculum development</field>
+<field name="keywords">Social sciences</field>
+<field name="year">1969</field>
+<field name="date">1969</field>
+<field name="publisher">Wyoming State Department of Education</field>
+<field name="pub_place">Cheyenne, WY</field>
+<field name="pages">74</field>
+<field name="language">English</field>
+<field name="call_number">371.33 .W98f</field>
+<field name="notes">v; 22 x 29 cm.; Note(s): &quot;Revision and up-dating of the 1965 Wyoming
+curriculum guide for social studies.&quot;</field>
+<field name="state_country">Wyoming</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Wyoming State Department of Education</field>
+<field name="title">A framework for the social studies, grades K-12, in Wyoming schools</field>
+<field name="keywords">Social sciences</field>
+<field name="year">1964</field>
+<field name="date">1964</field>
+<field name="publisher">Wyoming State Department of Education</field>
+<field name="pub_place">Cheyenne, WY</field>
+<field name="pages">50</field>
+<field name="language">English</field>
+<field name="call_number">371.33 .W98c</field>
+<field name="notes">50 p. ; 28 cm.; Note(s): &quot;The report of the curriculum workshop held on
+the campus of the University of Wyoming under the auspices of the Wyoming Council for the Social
+Studies, the College of Education, and the Wyoming State Dept. of Education.&quot;/ Cover title:
+Curriculum guide for social studies.; Other Titles: Curriculum guide for social studies.;
+Responsibility: Wyoming State Dept. of Education.</field>
+<field name="state_country">Wyoming</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Hoyt, Elizabeth E.</field>
+<field name="title">Freedom from want : a world goal</field>
+<field name="series_title">Public affairs pamphlets</field>
+<field name="keywords">Food</field>
+<field name="keywords">Public health</field>
+<field name="year">1943</field>
+<field name="date">1943</field>
+<field name="publisher">Public Affairs Committee</field>
+<field name="pub_place">New York, NY</field>
+<field name="series_vol">80</field>
+<field name="pages">31</field>
+<field name="language">English</field>
+<field name="call_number">331 .P976f</field>
+<field name="notes">illus. (map) diagrs. ; 22 cm.; Note(s): &quot;First edition, May, 1943.&quot;/
+&quot;For further reading&quot;: p. 31.; Responsibility: by Elizabeth E. Hoyt.</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Denver (Colorado) Public Schools</field>
+<field name="title">Freedom under law</field>
+<field name="keywords">Law</field>
+<field name="year">1975</field>
+<field name="date">1975</field>
+<field name="publisher">Denver (Colorado) Public Schools</field>
+<field name="pub_place">Denver, CO</field>
+<field name="pages">37</field>
+<field name="language">English</field>
+<field name="call_number">340 .D41f</field>
+<field name="notes">ill. ; 22 cm.; Note(s): &quot;Produced through the mutual efforts of the Denver
+Public Schools, the Denver District Attorney's Office, and the Denver Police Department.&quot;</field>
+<field name="state_country">Colorado</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Grossmont (California) Union High School District</field>
+<field name="title">Freshman seminar in basic issues of American democracy</field>
+<field name="keywords">Democracy</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="publisher">Grossmont (California) Union High School District</field>
+<field name="pub_place">Grossmont, CA</field>
+<field name="pages">33</field>
+<field name="call_number">371.33 .G87f</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">9th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Barth, Alan</field>
+<field name="title">The fundamentals of freedom: what are they?</field>
+<field name="series_title">Grass roots guides on democracy and practical politics</field>
+<field name="keywords">Liberty</field>
+<field name="year">1962</field>
+<field name="date">1962</field>
+<field name="publisher">Center for Information on America</field>
+<field name="pub_place">Washington, CT</field>
+<field name="series_vol">9</field>
+<field name="pages">15</field>
+<field name="language">English</field>
+<field name="call_number">320 .C39g v. 9</field>
+<field name="notes">15 p.; Note(s): Bibliography: p. 14.; Grass roots guides on democracy and
+practical politics, ; no. 9</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Texas Education Agency. Division of Curriculum Development</field>
+<field name="title">Fundamentals of the free enterprise system, course guide</field>
+<field name="year">1975</field>
+<field name="date">06/1975</field>
+<field name="publisher">Texas Education Agency</field>
+<field name="pub_place">Austin, TX</field>
+<field name="pages">62</field>
+<field name="call_number">330 .T35f 1975</field>
+<field name="state_country">Texas</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Texas Education Agency. Division of Curriculum Development</field>
+<field name="title">Fundamentals of the free enterprise system, course guide, pilot draft for
+school year 1974-75</field>
+<field name="keywords">Economics</field>
+<field name="year">1974</field>
+<field name="date">08/1974</field>
+<field name="publisher">Texas Education Agency</field>
+<field name="pub_place">Austin, TX</field>
+<field name="pages">37</field>
+<field name="call_number">330 .T35f 1974</field>
+<field name="state_country">Texas</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Educational Research Council of Greater Cleveland (Ohio)</field>
+<field name="title">GCSSP : Greater Cleveland Social Science Program; handbook for social science
+teachers</field>
+<field name="keywords">Social sciences</field>
+<field name="year">1965</field>
+<field name="date">1965</field>
+<field name="edition">1st ed.</field>
+<field name="publisher">Educational Research Council of Greater Cleveland (Ohio)</field>
+<field name="pub_place">Cleveland, OH</field>
+<field name="pages">84</field>
+<field name="language">English</field>
+<field name="call_number">371.33 .G78h</field>
+<field name="notes">84 p.; Other Titles: Handbook for social science teachers.</field>
+<field name="state_country">Ohio</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Liebhart, Paul</field>
+<field name="title">General catalog instructional materials</field>
+<field name="keywords">Audio-visual materials</field>
+<field name="keywords">Catalogs</field>
+<field name="year">1953</field>
+<field name="date">1953-1954</field>
+<field name="publisher">Alamedia (California) Public Schools</field>
+<field name="pub_place">Alameda, CA</field>
+<field name="pages">35</field>
+<field name="call_number">371.3095 .A3g</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Hallberg, Wallace M.</field>
+<field name="title">General catalog of elementary audio-visual materials</field>
+<field name="keywords">Audio-visual materials</field>
+<field name="keywords">Catalogs</field>
+<field name="year">1952</field>
+<field name="date">09/1952</field>
+<field name="publisher">Fresno City (California) Unified School District</field>
+<field name="pub_place">Fresno, CA</field>
+<field name="pages">42</field>
+<field name="call_number">371.3095 .F87g</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Battle Creek (Michigan) Public Schools</field>
+<field name="title">A general course outline for seventh grade social studies, eighth grade social
+studies, ninth grade civics</field>
+<field name="keywords">Civics</field>
+<field name="keywords">Social sciences</field>
+<field name="year">1963</field>
+<field name="date">09/1963</field>
+<field name="publisher">Battle Creek (Michigan) Public Schools</field>
+<field name="pub_place">Battle Creek, MI</field>
+<field name="call_number">371.33 .B33s</field>
+<field name="state_country">Michigan</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">County of San Joaquin (California) Superintendent of Schools</field>
+<field name="title">General guide for star study</field>
+<field name="keywords">Outdoor education</field>
+<field name="publisher">San Joaquin County (California) Schools</field>
+<field name="pub_place">Stockton, CA</field>
+<field name="call_number">371.84 .S195o v. 2 no. 6</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Georgia. Tape Recording Service</field>
+<field name="title">Georgia tapes for teaching; catalog</field>
+<field name="keywords">Audiotapes</field>
+<field name="keywords">Catalogs</field>
+<field name="year">1955</field>
+<field name="date">01/1955</field>
+<field name="publisher">Georgia State Department of Education</field>
+<field name="pub_place">Atlanta, GA</field>
+<field name="pages">127</field>
+<field name="language">English</field>
+<field name="call_number">371.3095 .G35t</field>
+<field name="notes">no. 1- Jan. 1955-; v. 28 cm</field>
+<field name="state_country">Georgia</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Tufts Civic Education Center</field>
+<field name="title">Get into the game! ..</field>
+<field name="series_title">Living democracy series</field>
+<field name="keywords">Citizenship</field>
+<field name="keywords">Politics</field>
+<field name="year">1955</field>
+<field name="date">1955</field>
+<field name="publisher">Tufts University</field>
+<field name="pub_place">Medford, MA</field>
+<field name="series_vol">12</field>
+<field name="pages">62</field>
+<field name="language">English</field>
+<field name="call_number">371.33 .L78L no. 12</field>
+<field name="notes">62 p. illus.; Responsibility: by Olive and Wyman Holmes</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Ullmann, Frances</field>
+<field name="title">Getting along with brothers and sisters</field>
+<field name="series_title">Life Adjustment Booklet</field>
+<field name="keywords">Brothers and sisters</field>
+<field name="year">1950</field>
+<field name="date">1950</field>
+<field name="publisher">Science Research Associates</field>
+<field name="pub_place">Chicago, IL</field>
+<field name="pages">48</field>
+<field name="call_number">371.46 .S41L v. 5</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Shacter, Helen Seidman</field>
+<field name="title">Getting along with others</field>
+<field name="series_title">Life adjustment booklet</field>
+<field name="keywords">Applied psychology</field>
+<field name="keywords">Youth</field>
+<field name="year">1949</field>
+<field name="date">1949</field>
+<field name="publisher">Science Research Associates</field>
+<field name="pub_place">Chicago, IL</field>
+<field name="pages">48</field>
+<field name="language">English</field>
+<field name="call_number">371.46 .S41L v. 6</field>
+<field name="notes">ill. ; 22 cm.; Note(s): &quot;For more information&quot;: p. [3] of cover.;
+Responsibility: Helen Seidman Shacter.</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Christensen, Thomas E.</field>
+<field name="title">Getting job experience</field>
+<field name="series_title">Life adjustment booklet</field>
+<field name="keywords">Vocational education</field>
+<field name="year">1949</field>
+<field name="date">1949</field>
+<field name="publisher">Science Research Associates</field>
+<field name="pub_place">Chicago, IL</field>
+<field name="pages">48</field>
+<field name="language">English</field>
+<field name="call_number">371.46 .S41L v. 7</field>
+<field name="notes">48 p. illus. 22 cm.; Note(s): &quot;Originally published as Work experience;
+preparation for your career.&quot;/ Bibliography: p. [3] of cover.</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">San Francisco (California) Unified School District</field>
+<field name="title">Glossary of English-Tagalog terms useful in desegregated school settings</field>
+<field name="keywords">English language</field>
+<field name="keywords">Tagalog</field>
+<field name="year">1972</field>
+<field name="date">09/1972</field>
+<field name="publisher">San Francisco (California) Unified School District</field>
+<field name="pub_place">San Francisco, CA</field>
+<field name="pages">26</field>
+<field name="call_number">323 .S195m #9</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Cincinnati (Ohio) Public Schools District</field>
+<field name="title">Going to first grade in Cincinnati</field>
+<field name="keywords">Elementary education</field>
+<field name="year">1954</field>
+<field name="date">01/1954</field>
+<field name="publisher">Cincinnati (Ohio) Public Schools</field>
+<field name="pub_place">Cincinnati, OH</field>
+<field name="pages">31</field>
+<field name="call_number">370.21 .C57g v. 2</field>
+<field name="state_country">Ohio</field>
+<field name="grade_level_number">1st grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Cincinnati (Ohio) Public Schools</field>
+<field name="title">Going to kindergarten in Cincinnati Public Schools</field>
+<field name="keywords">Kindergarten</field>
+<field name="year">1954</field>
+<field name="date">01/1954</field>
+<field name="publisher">Cincinnati (Ohio) Public Schools</field>
+<field name="pub_place">Cincinnati, OH</field>
+<field name="pages">23</field>
+<field name="call_number">370.21 .C57g v. 1</field>
+<field name="state_country">Ohio</field>
+<field name="grade_level_number">Kindergarten</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Long Beach (California) Public Schools</field>
+<field name="title">Good citizens</field>
+<field name="year">1938</field>
+<field name="date">1938</field>
+<field name="publisher">Long Beach (California) Public Schools</field>
+<field name="pub_place">Long Beach, CA</field>
+<field name="pages">31</field>
+<field name="call_number">320 .L84g</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Tuscaloosa (Alabama) City Schools</field>
+<field name="title">Good citizens: citizenship education in the elementary school</field>
+<field name="keywords">Civics</field>
+<field name="year">1953</field>
+<field name="date">1953</field>
+<field name="publisher">Tuscaloosa (Alabama) City Schools</field>
+<field name="pub_place">Tuscaloosa, AL</field>
+<field name="pages">6</field>
+<field name="call_number">371.33 .T96g</field>
+<field name="state_country">Alabama</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Dayton (Ohio) Public Schools</field>
+<field name="title">A good start in the first grade in the Dayton Public Schools</field>
+<field name="keywords">First grade (Education)</field>
+<field name="date">[n.d.]</field>
+<field name="publisher">Dayton (Ohio) Public Schools</field>
+<field name="pub_place">Dayton, OH</field>
+<field name="pages">8</field>
+<field name="call_number">370.21 .D27g</field>
+<field name="state_country">Ohio</field>
+<field name="grade_level_number">1st grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Wauwatosa (Wisconsin) Public Schools</field>
+<field name="title">Good study habits</field>
+<field name="keywords">Study skills</field>
+<field name="publisher">Wauwatosa (Wisconsin) Public Schools</field>
+<field name="pub_place">Wauwatosa, WI</field>
+<field name="call_number">371.46 .W355i v. 3</field>
+<field name="state_country">Wisconsin</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">St. Paul (Minnesota) Public Schools</field>
+<field name="title">Government in our community: a curriculum guide for teachers (ninth grade
+common learnings)</field>
+<field name="keywords">Government</field>
+<field name="year">1949</field>
+<field name="date">1949</field>
+<field name="publisher">St. Paul (Minnesota) Public Schools</field>
+<field name="pub_place">St. Paul, MN</field>
+<field name="pages">9</field>
+<field name="call_number">323 .S14g</field>
+<field name="state_country">Minnesota</field>
+<field name="grade_level_number">9th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Portland (Oregon) Public Schools</field>
+<field name="title">Government in our democracy</field>
+<field name="keywords">Democracy</field>
+<field name="keywords">Government</field>
+<field name="year">1957</field>
+<field name="date">1957</field>
+<field name="publisher">Portland (Oregon) Public Schools, School District No. 1</field>
+<field name="pub_place">Portland, OR</field>
+<field name="pages">33</field>
+<field name="language">English</field>
+<field name="call_number">320 .P85g</field>
+<field name="state_country">Oregon</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Blaisdell, Donald C.</field>
+<field name="title">Government under pressure</field>
+<field name="series_title">Public affairs pamphlets</field>
+<field name="keywords">Lobbying</field>
+<field name="keywords">United States history</field>
+<field name="keywords">World War II</field>
+<field name="year">1942</field>
+<field name="date">04/1942</field>
+<field name="publisher">Public Affairs Committee, Inc.</field>
+<field name="pub_place">New York, NY</field>
+<field name="series_vol">67</field>
+<field name="pages">31</field>
+<field name="language">English</field>
+<field name="call_number">320 .P976g</field>
+<field name="notes">ill. ; 22 cm.; Responsibility: by Donald C. Blaisdell.</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Ransberger, Marguerite</field>
+<field name="title">Government unit: grade eight</field>
+<field name="keywords">Government</field>
+<field name="year">1950</field>
+<field name="date">04/1950</field>
+<field name="publisher">Yolo County (California) Superintendent of Schools</field>
+<field name="pub_place">Yolo County, CA</field>
+<field name="pages">36</field>
+<field name="call_number">320 .Y54g</field>
+<field name="notes">&quot;Tentative draft&quot; &quot;For use in Yolo, Sacramento and Place
+Counties&quot; Adapted from a unit developed by teachers in a workshop held in Santa Barbara during
+the summer of 1944.</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">8th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Texas Education Agency</field>
+<field name="title">The grand jury in action</field>
+<field name="series_title">Bulletin (Texas Education Agency)</field>
+<field name="keywords">Grand jury</field>
+<field name="year">1954</field>
+<field name="date">1954</field>
+<field name="publisher">Texas Education Agency</field>
+<field name="pub_place">Austin, TX</field>
+<field name="series_vol">28</field>
+<field name="pages">557</field>
+<field name="language">English</field>
+<field name="call_number">340 .T35g</field>
+<field name="notes">vi; ; 23 cm.; Note(s): Tx Doc no.: E500.7, B936, 554-565/ With: Bulletin (Texas
+Education Agency)</field>
+<field name="state_country">Texas</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Educational Research Council of Greater Cleveland (Ohio)</field>
+<field name="title">Greater Cleveland social science program: student booklet grade three</field>
+<field name="keywords">Social sciences</field>
+<field name="year">1962</field>
+<field name="date">1962-63</field>
+<field name="publisher">Educational Research Council of Greater Cleveland (Ohio)</field>
+<field name="pub_place">Cleveland, OH</field>
+<field name="pages">75</field>
+<field name="language">English</field>
+<field name="abstract">Handbook for social science teachers -- Globe &amp; map skills.</field>
+<field name="call_number">371.33 .G78g v. 5</field>
+<field name="notes">v. : ill. ; 28 cm.; Responsibility: a social science program of the Educational
+Research Council of Greater Cleveland.</field>
+<field name="state_country">Ohio</field>
+<field name="grade_level_number">3rd grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Educational Research Council of Greater Cleveland (Ohio)</field>
+<field name="title">Greater Cleveland social science program: teachers' guide grade two</field>
+<field name="keywords">Social sciences</field>
+<field name="year">1962</field>
+<field name="date">1962-63</field>
+<field name="publisher">Educational Research Council of Greater Cleveland (Ohio)</field>
+<field name="pub_place">Cleveland, OH</field>
+<field name="pages">69</field>
+<field name="language">English</field>
+<field name="abstract">Handbook for social science teachers -- Globe &amp; map skills.</field>
+<field name="call_number">371.33 .G78g</field>
+<field name="notes">v. : ill. ; 28 cm.; Responsibility: a social science program of the Educational
+Research Council of Greater Cleveland. Includes supplement.</field>
+<field name="state_country">Ohio</field>
+<field name="grade_level_number">2nd grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Educational Research Council of Greater Cleveland (Ohio)</field>
+<field name="title">Greater Cleveland social science program: teachers' guide kindergarten</field>
+<field name="keywords">Social sciences</field>
+<field name="year">1962</field>
+<field name="date">1962-63</field>
+<field name="publisher">Educational Research Council of Greater Cleveland</field>
+<field name="pub_place">Cleveland, OH</field>
+<field name="language">English</field>
+<field name="abstract">Handbook for social science teachers -- Globe &amp; map skills.</field>
+<field name="call_number">371.33 .G78g v. 1-2</field>
+<field name="notes">v. : ill. ; 28 cm.; Responsibility: a social science program of the Educational
+Research Council of Greater Cleveland.</field>
+<field name="state_country">Ohio</field>
+<field name="grade_level_number">Kindergarten</field>
+</doc>
+</add>
