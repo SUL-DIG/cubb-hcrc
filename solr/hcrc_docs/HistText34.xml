@@ -218,7 +218,7 @@ flexible elementary school curriculum, a third report</field>
 
 
 <doc>
-<field name="type">Book ID - 15383</field>
+<field name="type">Book</field>
 <field name="author">Chicago Public Schools. Department of Elementary Education</field>
 <field name="title">Arithmetic teaching techniques; an in-service survey and study conducted by a
 Committee on Arithmetic Teaching Techniques, with the cooperation of the district superintendents,
@@ -230,11 +230,11 @@ principals and teachers in the Chicago public elementary schools</field>
 Johnson [and] Don C. Rogers, Chairman.; Entry: 19760501; Update: 20130607</field>
 <field name="publisher">Board of Education</field>
 <field name="pub_place">Chicago SN - LCCN: 49-3142</field>
-<field name="notes">LC: QA135; Dewey: 372.7 M1 - Book, Whole </field>
+<field name="call_number">QA135</field>
 </doc>
 
 <doc>
-<field name="type">Book ID - 15384</field>
+<field name="type">Book</field>
 <field name="author">Chula Vista City School District</field>
 <field name="title">Mathematics in the kindergarten</field>
 <field name="year">1964</field>
@@ -243,11 +243,10 @@ Johnson [and] Don C. Rogers, Chairman.; Entry: 19760501; Update: 20130607</field
 School District.; Entry: 19800314; Update: 20111213</field>
 <field name="publisher">The District</field>
 <field name="pub_place">Chula Vista, Calif</field>
-<field name="notes">Dewey: 510 M1 - Book, Whole </field>
 </doc>
 
 <doc>
-<field name="type">Book ID - 15381</field>
+<field name="type">Book</field>
 <field name="author">Clark County School District (Nev.)</field>
 <field name="title">Elementary mathematics curriculum guide</field>
 <field name="year">1967</field>
@@ -258,7 +257,7 @@ District.; Entry: 19781206; Update: 20111213</field>
 </doc>
 
 <doc>
-<field name="type">Book ID - 15382</field>
+<field name="type">Book</field>
 <field name="author">Cleveland. Public Schools</field>
 <field name="title">Course of study in arithmetic, Primary Division, 1947</field>
 <field name="year">1947</field>
@@ -267,6 +266,6 @@ District.; Entry: 19781206; Update: 20111213</field>
 Entry: 19980811; Update: 20130513</field>
 <field name="publisher">Board of Education</field>
 <field name="pub_place">Cleveland SN - LCCN: 47-8075</field>
-<field name="notes">LC: QA135; Dewey: 372.7 M1 - Book, Whole </field>
+<field name="call_number">QA135</field>
 </doc>
 </add>
