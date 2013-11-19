@@ -17,7 +17,7 @@
 <field name="pub_place">Champaign, IL</field>
 <field name="language">English</field>
 <field name="call_number">428.4.N27w</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -36,7 +36,7 @@ of Education."; Responsibility: by Helen Lundblad [and] Carl B. Smith.</field>
 <field name="pub_place">Washington, DC</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .N275t</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -51,7 +51,7 @@ Chicago.; Responsibility: by Marion Monroe.</field>
 <field name="publisher">Illinois State Department of Public Welfare</field>
 <field name="pub_place">Chicago, IL</field>
 <field name="language">English</field>
-<field name="call_number">428.4 .I29s </field>
+<field name="call_number">428.4 .I29s</field>
 </doc>
 
 <doc>
@@ -70,7 +70,7 @@ school</field>
 <field name="pub_place">Washington, DC</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .N277s</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -92,7 +92,7 @@ New England States.</field>
 <field name="state_country">Vermont</field>
 <field name="state_country">Massachusetts</field>
 <field name="state_country">Connecticut</field>
-<field name="state_country">Rhode Island </field>
+<field name="state_country">Rhode Island</field>
 </doc>
 
 <doc>
@@ -178,7 +178,7 @@ Marcella Draper and Louise Schwietert.</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .N53ir v. 1</field>
 <field name="state_country">New York</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -226,7 +226,7 @@ ser.</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .N53ir v. 2</field>
 <field name="state_country">New York</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -246,7 +246,7 @@ ser.</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .N53ir v. 3</field>
 <field name="state_country">New York</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -265,7 +265,7 @@ ser.</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .N53ir v. 4</field>
 <field name="state_country">New York</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -281,7 +281,7 @@ ser.</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .N53ir v. 5</field>
 <field name="state_country">New York</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -298,7 +298,7 @@ supplement</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .N53ir v. 5 supp.</field>
 <field name="state_country">New York</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -315,7 +315,7 @@ supplement</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .N53ir v. 6</field>
 <field name="state_country">New York</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -335,7 +335,7 @@ supplement</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .N53ir v. 7</field>
 <field name="state_country">New York</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -353,7 +353,7 @@ Development</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .N532f</field>
 <field name="state_country">New York</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -390,7 +390,7 @@ Marcella Draper and Louise Schwietert.</field>
 <field name="pages">90</field>
 <field name="keywords">Reading</field>
 <field name="keywords">Language arts</field>
-<field name="notes">90 p.; </field>
+<field name="notes">90 p.;</field>
 <field name="series_title">New York (New York).; Board of Education.; Curriculum bulletin, 1956-57
 series</field>
 <field name="series_vol">7</field>
@@ -423,7 +423,7 @@ Research.; Curriculum research report.</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .N53re</field>
 <field name="state_country">New York</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -441,7 +441,7 @@ Development</field>
 <field name="pub_place">Albany, NY</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .N532p</field>
-<field name="state_country">New York </field>
+<field name="state_country">New York</field>
 </doc>
 
 <doc>
@@ -459,7 +459,7 @@ based on the summary of conference-clinics for the readjustment of high school e
 <field name="language">English</field>
 <field name="call_number">428.4 .N532r</field>
 <field name="state_country">New York</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -478,7 +478,7 @@ Development</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .N532t</field>
 <field name="state_country">New York</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -492,7 +492,7 @@ Education</field>
 <field name="pub_place">Oakland, CA</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .O11c</field>
-<field name="state_country">California </field>
+<field name="state_country">California</field>
 </doc>
 
 <doc>
@@ -508,7 +508,7 @@ Education</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .O11t</field>
 <field name="state_country">California</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -527,7 +527,7 @@ reading</field>
 <field name="pub_place">Salem, OR</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .O65a</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -546,7 +546,7 @@ reading</field>
 <field name="publisher">Oregon Association for Supervision and Curriculum Development</field>
 <field name="pub_place">Salem, OR</field>
 <field name="language">English</field>
-<field name="call_number">428.4 .O65g </field>
+<field name="call_number">428.4 .O65g</field>
 </doc>
 
 <doc>
@@ -563,7 +563,7 @@ reading</field>
 <field name="publisher">Oregon Association for Supervision and Curriculum Development</field>
 <field name="pub_place">Salem, OR</field>
 <field name="language">English</field>
-<field name="call_number">428.4 .O65i </field>
+<field name="call_number">428.4 .O65i</field>
 </doc>
 
 <doc>
@@ -583,7 +583,7 @@ Responsibility: editor, Hugh B. Wood.</field>
 <field name="pub_place">Eugene, OR</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .O66re</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -604,7 +604,7 @@ Bentall.</field>
 <field name="publisher">Oregon Association for Curriculum Development</field>
 <field name="pub_place">Salem, OR</field>
 <field name="language">English</field>
-<field name="call_number">428.4 .O65r </field>
+<field name="call_number">428.4 .O65r</field>
 </doc>
 
 <doc>
@@ -623,7 +623,7 @@ Bentall.</field>
 <field name="publisher">Oregon Association for Curriculum Development</field>
 <field name="pub_place">Salem, OR</field>
 <field name="language">English</field>
-<field name="call_number">428.4 .O66c </field>
+<field name="call_number">428.4 .O66c</field>
 </doc>
 
 <doc>
@@ -640,7 +640,7 @@ Bentall.</field>
 <field name="publisher">Oregon Association for Curriculum Development</field>
 <field name="pub_place">Salem, OR</field>
 <field name="language">English</field>
-<field name="call_number">428.4 .O66i </field>
+<field name="call_number">428.4 .O66i</field>
 </doc>
 
 <doc>
@@ -660,7 +660,7 @@ Bentall.</field>
 <field name="publisher">University of Oregon, School of Education</field>
 <field name="pub_place">Eugene, OR</field>
 <field name="language">English</field>
-<field name="call_number">428.4 .O66r </field>
+<field name="call_number">428.4 .O66r</field>
 </doc>
 
 <doc>
@@ -682,7 +682,7 @@ and Ruth Bosma.</field>
 <field name="pub_place">Eugene. OR</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .O66ih</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -698,7 +698,7 @@ and Ruth Bosma.</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .P18e</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">Kindergarten </field>
+<field name="grade_level_number">Kindergarten</field>
 </doc>
 
 <doc>
@@ -714,7 +714,7 @@ and Ruth Bosma.</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .P18p</field>
 <field name="state_country">California</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -730,7 +730,7 @@ and Ruth Bosma.</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .P18p</field>
 <field name="state_country">California</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -746,7 +746,7 @@ and Ruth Bosma.</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .P18s</field>
 <field name="state_country">California</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -764,7 +764,7 @@ developmental reading program in the elementary school</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .P54s v. 3</field>
 <field name="state_country">Pennsylvania</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -782,7 +782,7 @@ recognition, sight vocabulary, phonics, structural analysis</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .P54s v. 2</field>
 <field name="state_country">Pennsylvania</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -800,7 +800,7 @@ informal reading inventory</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .P54s v. 4</field>
 <field name="state_country">Pennsylvania</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -817,7 +817,7 @@ informal reading inventory</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .P54s v. 1</field>
 <field name="state_country">Pennsylvania</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -833,7 +833,7 @@ informal reading inventory</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .P54s v. 1a</field>
 <field name="state_country">Pennsylvania</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -847,7 +847,7 @@ teaching of beginning reading</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .P54s v. 1b</field>
 <field name="state_country">Pennsylvania</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -862,7 +862,7 @@ teaching of beginning reading</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .P57rc</field>
 <field name="state_country">Arizona</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -879,7 +879,7 @@ program</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .P57t</field>
 <field name="state_country">Arizona</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -897,7 +897,7 @@ techniques</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .P85r</field>
 <field name="state_country">Oregon</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -1119,7 +1119,7 @@ techniques</field>
 <field name="pub_place">Royal Oak, MI</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .R88u</field>
-<field name="state_country">Michigan </field>
+<field name="state_country">Michigan</field>
 </doc>
 
 <doc>
@@ -1238,7 +1238,7 @@ Board of Education</field>
 <field name="pub_place">San Luis Obispo, CA</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .S195c</field>
-<field name="state_country">California </field>
+<field name="state_country">California</field>
 </doc>
 
 <doc>
@@ -1253,7 +1253,7 @@ Board of Education</field>
 <field name="pub_place">San Luis Obispo, CA</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .S195f v. 1</field>
-<field name="state_country">California </field>
+<field name="state_country">California</field>
 </doc>
 
 <doc>
@@ -1268,7 +1268,7 @@ Constance M. McCullough</field>
 <field name="pub_place">San Luis Obispo, CA</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .S195f v. 2</field>
-<field name="state_country">California </field>
+<field name="state_country">California</field>
 </doc>
 
 <doc>
@@ -1283,7 +1283,7 @@ Halvorsen</field>
 <field name="pub_place">San Luis Obispo, CA</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .S195f v. 3</field>
-<field name="state_country">California </field>
+<field name="state_country">California</field>
 </doc>
 
 <doc>
@@ -1300,7 +1300,7 @@ Halvorsen</field>
 <field name="publisher">Ginn and Company</field>
 <field name="pub_place">Palo Alto, CA</field>
 <field name="language">English</field>
-<field name="call_number">428.4 .S195f v. 3 </field>
+<field name="call_number">428.4 .S195f v. 3</field>
 </doc>
 
 <doc>
@@ -1316,7 +1316,7 @@ Halvorsen</field>
 <field name="publisher">Ginn and Company</field>
 <field name="pub_place">Palo Alto, CA</field>
 <field name="language">English</field>
-<field name="call_number">428.4 .S195f v. 2 </field>
+<field name="call_number">428.4 .S195f v. 2</field>
 </doc>
 
 <doc>
@@ -1331,7 +1331,7 @@ lists"</field>
 <field name="pub_place">San Luis Obispo, CA</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .S195f v. 4</field>
-<field name="state_country">California </field>
+<field name="state_country">California</field>
 </doc>
 
 <doc>
@@ -1348,7 +1348,7 @@ machines and programed reading instruction"</field>
 <field name="pub_place">San Luis Obispo, CA</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .S195f v. 5</field>
-<field name="state_country">California </field>
+<field name="state_country">California</field>
 </doc>
 
 <doc>
@@ -1362,7 +1362,7 @@ machines and programed reading instruction"</field>
 <field name="notes">"An address presented by P. Kenneth Komoski, President, The Center for Programed
 Instruction, New York, at the 25th Annual Reading Conference, University of Chicago"</field>
 <field name="language">English</field>
-<field name="call_number">428.4 .S195f v. 5 </field>
+<field name="call_number">428.4 .S195f v. 5</field>
 </doc>
 
 <doc>
@@ -1380,7 +1380,7 @@ Instruction, New York, at the 25th Annual Reading Conference, University of Chic
 <field name="pub_place">San Luis Obispo, CA</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .S195f v. 5</field>
-<field name="state_country">California </field>
+<field name="state_country">California</field>
 </doc>
 
 <doc>
@@ -1400,7 +1400,7 @@ Testing Service." "An excerpt from The schoolman's guide to programed instructio
 <field name="publisher">Educational Testing Service</field>
 <field name="pub_place">Princeton, NJ</field>
 <field name="language">English</field>
-<field name="call_number">428.4 .S195f v. 5 </field>
+<field name="call_number">428.4 .S195f v. 5</field>
 </doc>
 
 <doc>
@@ -1417,7 +1417,7 @@ Testing Service." "An excerpt from The schoolman's guide to programed instructio
 <field name="pub_place">San Jose, CA</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .S195g</field>
-<field name="state_country">California </field>
+<field name="state_country">California</field>
 </doc>
 
 <doc>
@@ -1452,7 +1452,7 @@ monograph</field>
 <field name="publisher">Santa Clara County (California) Office of Education</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .S23i</field>
-<field name="state_country">California </field>
+<field name="state_country">California</field>
 </doc>
 
 <doc>
@@ -1468,7 +1468,7 @@ monograph</field>
 <field name="pub_place">Redding, CA</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .S53g</field>
-<field name="state_country">California </field>
+<field name="state_country">California</field>
 </doc>
 
 <doc>
@@ -1484,7 +1484,7 @@ monograph</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .S539e</field>
 <field name="state_country">Wisconsin</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -1501,7 +1501,7 @@ monograph</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .S55p</field>
 <field name="state_country">Washington</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -1521,7 +1521,7 @@ Responsibility: [edited by Toni Child ; designed by John Conyers].</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .S71t</field>
 <field name="state_country">South Carolina</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -1537,7 +1537,7 @@ Responsibility: [edited by Toni Child ; designed by John Conyers].</field>
 <field name="pub_place">Miranda, CA</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .S73s</field>
-<field name="state_country">California </field>
+<field name="state_country">California</field>
 </doc>
 
 <doc>
@@ -1552,7 +1552,7 @@ Responsibility: [edited by Toni Child ; designed by John Conyers].</field>
 <field name="pub_place">Stoneham, MA</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .S87r</field>
-<field name="state_country">Massachusetts </field>
+<field name="state_country">Massachusetts</field>
 </doc>
 
 <doc>
@@ -1566,7 +1566,7 @@ Responsibility: [edited by Toni Child ; designed by John Conyers].</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .S559r v. 1</field>
 <field name="state_country">Wisconsin</field>
-<field name="grade_level_number">Kindergarten </field>
+<field name="grade_level_number">Kindergarten</field>
 </doc>
 
 <doc>
@@ -1581,7 +1581,7 @@ Responsibility: [edited by Toni Child ; designed by John Conyers].</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .S559r v. 2</field>
 <field name="state_country">Wisconsin</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -1618,7 +1618,7 @@ Responsibility: [edited by Toni Child ; designed by John Conyers].</field>
 <field name="call_number">428.4 .S559r v. 4</field>
 <field name="state_country">Wisconsin</field>
 <field name="grade_level_group">Middle school</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -1663,7 +1663,7 @@ Responsibility: [edited by Toni Child ; designed by John Conyers].</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .T35e</field>
 <field name="state_country">Texas</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -1682,7 +1682,7 @@ Responsibility: [edited by Toni Child ; designed by John Conyers].</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .T35i</field>
 <field name="state_country">Texas</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -1702,7 +1702,7 @@ Responsibility: Robert D. Thornton.</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .T355d</field>
 <field name="state_country">Texas</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -1715,7 +1715,7 @@ Responsibility: Robert D. Thornton.</field>
 <field name="publisher">Syracuse University</field>
 <field name="pub_place">Syracuse, NY</field>
 <field name="language">English</field>
-<field name="call_number">428.4 .S99s </field>
+<field name="call_number">428.4 .S99s</field>
 </doc>
 
 <doc>
@@ -1729,7 +1729,7 @@ Responsibility: Robert D. Thornton.</field>
 <field name="pub_place">Tillamook, OR</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .T57r</field>
-<field name="state_country">Oregon </field>
+<field name="state_country">Oregon</field>
 </doc>
 
 <doc>
@@ -1745,7 +1745,7 @@ Responsibility: Robert D. Thornton.</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .T91r v. 1</field>
 <field name="state_country">California</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -1762,7 +1762,7 @@ Responsibility: Robert D. Thornton.</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .T91r v. 2</field>
 <field name="state_country">California</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -1780,7 +1780,7 @@ Responsibility: Robert D. Thornton.</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .T91r v. 3</field>
 <field name="state_country">California</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -1820,7 +1820,7 @@ Jeannette Veatch ; pictures by Warren Goodrich.</field>
 <field name="pub_place">New York, NY</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .V39h</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -1835,7 +1835,7 @@ Jeannette Veatch ; pictures by Warren Goodrich.</field>
 <field name="pub_place">Ventura, CA</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .V46e</field>
-<field name="state_country">California </field>
+<field name="state_country">California</field>
 </doc>
 
 <doc>
@@ -1875,7 +1875,7 @@ Committee of the Western New York School Study Council.</field>
 <field name="pub_place">Buffalo, NY</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .W52t</field>
-<field name="state_country">New York </field>
+<field name="state_country">New York</field>
 </doc>
 
 <doc>
@@ -1890,7 +1890,7 @@ Committee of the Western New York School Study Council.</field>
 <field name="pub_place">Buffalo, NY</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .W52t</field>
-<field name="state_country">New York </field>
+<field name="state_country">New York</field>
 </doc>
 
 <doc>
@@ -1910,7 +1910,7 @@ Department</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .W63s</field>
 <field name="state_country">Kansas</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>

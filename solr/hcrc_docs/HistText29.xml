@@ -12,7 +12,7 @@
 <field name="language">English</field>
 <field name="call_number">428.4 .G24d v. 1</field>
 <field name="state_country">Indiana</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -28,7 +28,7 @@
 <field name="language">English</field>
 <field name="call_number">428.4 .G24d 1967/68 v. 1</field>
 <field name="state_country">Indiana</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -45,7 +45,7 @@
 <field name="pub_place">Gary, IN</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .G24d v. 2</field>
-<field name="state_country">Indiana </field>
+<field name="state_country">Indiana</field>
 </doc>
 
 <doc>
@@ -62,7 +62,7 @@
 <field name="pub_place">Gary, IN</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .G24d 1967/68 v. 2</field>
-<field name="state_country">Indiana </field>
+<field name="state_country">Indiana</field>
 </doc>
 
 <doc>
@@ -78,7 +78,7 @@
 <field name="pub_place">La Puente, CA</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .H88i</field>
-<field name="state_country">California </field>
+<field name="state_country">California</field>
 </doc>
 
 <doc>
@@ -93,7 +93,7 @@
 <field name="pub_place">La Puente, CA</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .H88s</field>
-<field name="state_country">California </field>
+<field name="state_country">California</field>
 </doc>
 
 <doc>
@@ -115,7 +115,7 @@ Individualizing your reading program -- Keep it rewarding.</field>
 <field name="pub_place">Dansville, NY</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .I59r</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -142,7 +142,7 @@ Bulletin</field>
 <field name="pub_place">Springfield, IL</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .I29d</field>
-<field name="state_country">Illinois </field>
+<field name="state_country">Illinois</field>
 </doc>
 
 <doc>
@@ -183,7 +183,7 @@ Responsibility: by Marjorie Seddon Johnson and Roy A. Kress.</field>
 <field name="pub_place">Newark, DE</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .I61r v. 2</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -201,7 +201,7 @@ Responsibility: by Marjorie Seddon Johnson and Roy A. Kress.</field>
 <field name="pub_place">Newark, DE</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .I61r v. 4</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -221,7 +221,7 @@ Viox.</field>
 <field name="pub_place">Newark, DE</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .I61r v. 5</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -241,7 +241,7 @@ Black.</field>
 <field name="publisher">International Reading Association</field>
 <field name="pub_place">Newark, DE</field>
 <field name="language">English</field>
-<field name="call_number">428.4 .I61r v. 3 </field>
+<field name="call_number">428.4 .I61r v. 3</field>
 </doc>
 
 <doc>
@@ -259,7 +259,7 @@ Black.</field>
 <field name="publisher">International Reading Association</field>
 <field name="pub_place">Newark, DE</field>
 <field name="language">English</field>
-<field name="call_number">428.4 .I61r v. 8 </field>
+<field name="call_number">428.4 .I61r v. 8</field>
 </doc>
 
 <doc>
@@ -279,7 +279,7 @@ Responsibility: [by] Eileen E. Sargent, Helen Huus [and] Oliver Andresen.</field
 <field name="publisher">International Reading Association</field>
 <field name="pub_place">Newark, DE</field>
 <field name="language">English</field>
-<field name="call_number">428.4 .I61r v. 9 </field>
+<field name="call_number">428.4 .I61r v. 9</field>
 </doc>
 
 <doc>
@@ -298,7 +298,7 @@ by Russell G. Stauffer and Ronald Cramer.</field>
 <field name="publisher">International Reading Association</field>
 <field name="pub_place">Newark, DE</field>
 <field name="language">English</field>
-<field name="call_number">428.4 .I61r v. 6 </field>
+<field name="call_number">428.4 .I61r v. 6</field>
 </doc>
 
 <doc>
@@ -317,7 +317,7 @@ Strang.</field>
 <field name="publisher">International Reading Association</field>
 <field name="pub_place">Newark, DE</field>
 <field name="language">English</field>
-<field name="call_number">428.4 .I61r v. 7 </field>
+<field name="call_number">428.4 .I61r v. 7</field>
 </doc>
 
 <doc>
@@ -338,7 +338,7 @@ editors.</field>
 <field name="pub_place">Newark, DE</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .I61r v. 11</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -356,7 +356,7 @@ B. Cheyney.</field>
 <field name="publisher">International Reading Association</field>
 <field name="pub_place">Newark, DE</field>
 <field name="language">English</field>
-<field name="call_number">428.4 .I61r v. 10 </field>
+<field name="call_number">428.4 .I61r v. 10</field>
 </doc>
 
 <doc>
@@ -375,7 +375,7 @@ B. Cheyney.</field>
 <field name="publisher">International Reading Association</field>
 <field name="pub_place">Newark, DE</field>
 <field name="language">English</field>
-<field name="call_number">428.4 .I61r v. 13 </field>
+<field name="call_number">428.4 .I61r v. 13</field>
 </doc>
 
 <doc>
@@ -394,7 +394,7 @@ B. Cheyney.</field>
 <field name="publisher">International Reading Association</field>
 <field name="pub_place">Newark, DE</field>
 <field name="language">English</field>
-<field name="call_number">428.4 .I61r v. 12 </field>
+<field name="call_number">428.4 .I61r v. 12</field>
 </doc>
 
 <doc>
@@ -410,7 +410,7 @@ B. Cheyney.</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .J13d</field>
 <field name="state_country">Michigan</field>
-<field name="grade_level_group">Middle school </field>
+<field name="grade_level_group">Middle school</field>
 </doc>
 
 <doc>
@@ -464,7 +464,7 @@ readers in class library periods</field>
 <field name="pub_place">Nairobi, Kenya</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .K37c</field>
-<field name="state_country">Kenya </field>
+<field name="state_country">Kenya</field>
 </doc>
 
 <doc>
@@ -481,7 +481,7 @@ readers in class library periods</field>
 <field name="call_number">428.4 .K39r</field>
 <field name="state_country">California</field>
 <field name="grade_level_group">Middle school</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -498,7 +498,7 @@ readers in class library periods</field>
 <field name="call_number">428.4 .K39t</field>
 <field name="state_country">California</field>
 <field name="grade_level_group">Middle school</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -556,7 +556,7 @@ readers in class library periods</field>
 <field name="pub_place">Las Vegas</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .L33r</field>
-<field name="state_country">New Mexico </field>
+<field name="state_country">New Mexico</field>
 </doc>
 
 <doc>
@@ -575,7 +575,7 @@ Instruction.</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .L84gt</field>
 <field name="state_country">California</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -589,7 +589,7 @@ Instruction.</field>
 <field name="pub_place">Long Beach, CA</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .L84d</field>
-<field name="state_country">California </field>
+<field name="state_country">California</field>
 </doc>
 
 <doc>
@@ -604,7 +604,7 @@ Instruction.</field>
 <field name="pub_place">Long Beach, CA</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .L84gu</field>
-<field name="state_country">California </field>
+<field name="state_country">California</field>
 </doc>
 
 <doc>
@@ -627,7 +627,7 @@ Mason, Arlene Beman, June Mentzer.</field>
 <field name="pub_place">Licking County, OH</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .L71r</field>
-<field name="state_country">Ohio </field>
+<field name="state_country">Ohio</field>
 </doc>
 
 <doc>
@@ -645,7 +645,7 @@ grades</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .L84s</field>
 <field name="state_country">California</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -660,7 +660,7 @@ grades</field>
 <field name="pub_place">Longview, WA</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .L85r</field>
-<field name="state_country">Washington </field>
+<field name="state_country">Washington</field>
 </doc>
 
 <doc>
@@ -681,7 +681,7 @@ bulletin</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .L869t v. 1</field>
 <field name="state_country">California</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -703,7 +703,7 @@ Services, Curriculum Branch</field>
 <field name="pub_place">Los Angeles, CA</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .L869a</field>
-<field name="state_country">California </field>
+<field name="state_country">California</field>
 </doc>
 
 <doc>
@@ -748,7 +748,7 @@ Unified School District.</field>
 <field name="pub_place">Los Angeles, CA</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .L869t v. 2-3</field>
-<field name="state_country">California </field>
+<field name="state_country">California</field>
 </doc>
 
 <doc>
@@ -767,7 +767,7 @@ bulletin</field>
 <field name="pub_place">Los Angeles, CA</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .L869te</field>
-<field name="state_country">California </field>
+<field name="state_country">California</field>
 </doc>
 
 <doc>
@@ -786,7 +786,7 @@ bulletin</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .L869u</field>
 <field name="state_country">California</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -809,7 +809,7 @@ arts</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .L87g</field>
 <field name="state_country">California</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -844,7 +844,7 @@ arts</field>
 <field name="pub_place">Augusta, ME</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .M22L</field>
-<field name="state_country">Maine </field>
+<field name="state_country">Maine</field>
 </doc>
 
 <doc>
@@ -860,7 +860,7 @@ Secondary Education</field>
 <field name="pub_place">Boston, MA</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .M41p</field>
-<field name="state_country">Massachusetts </field>
+<field name="state_country">Massachusetts</field>
 </doc>
 
 <doc>
@@ -877,7 +877,7 @@ for elementary teachers</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .M64q</field>
 <field name="state_country">Wisconsin</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -893,7 +893,7 @@ areas, kindergarten-junior college</field>
 <field name="pub_place">Modesto, CA</field>
 <field name="language">English</field>
 <field name="call_number">428.4 .M69w</field>
-<field name="state_country">California </field>
+<field name="state_country">California</field>
 </doc>
 
 <doc>
@@ -908,6 +908,6 @@ areas, kindergarten-junior college</field>
 <field name="publisher">Eastern Montana College of Education</field>
 <field name="pub_place">Billings, MT</field>
 <field name="language">English</field>
-<field name="call_number">428.4 .M76s </field>
+<field name="call_number">428.4 .M76s</field>
 </doc>
 </add>
