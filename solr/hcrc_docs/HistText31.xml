@@ -90,7 +90,7 @@ Board of Education ...</field>
 <field name="publisher">Association for Childhood Education International</field>
 <field name="pub_place">Washington, DC</field>
 <field name="language">English</field>
-<field name="call_number">428.5 .A84b 1971 </field>
+<field name="call_number">428.5 .A84b 1971</field>
 </doc>
 
 <doc>
@@ -108,7 +108,7 @@ Board of Education ...</field>
 <field name="pub_place">Beverly Hills, CA</field>
 <field name="language">English</field>
 <field name="call_number">428.5 .B57w</field>
-<field name="state_country">California </field>
+<field name="state_country">California</field>
 </doc>
 
 <doc>
@@ -122,9 +122,9 @@ having little interest in reading</field>
 <field name="keywords">Children's literature</field>
 <field name="publisher">California Library Association</field>
 <field name="pub_place">Berkeley, CA</field>
-<field name="language">England</field>
+<field name="language">English</field>
 <field name="call_number">428.5 .C151c</field>
-<field name="state_country">California </field>
+<field name="state_country">California</field>
 </doc>
 
 <doc>
@@ -140,7 +140,7 @@ having little interest in reading</field>
 <field name="pub_place">Cincinnati, OH</field>
 <field name="language">English</field>
 <field name="call_number">428.5 .C57s</field>
-<field name="state_country">Ohio </field>
+<field name="state_country">Ohio</field>
 </doc>
 
 <doc>
@@ -172,7 +172,7 @@ having little interest in reading</field>
 <field name="publisher">Comics Magazine Association of America, Inc.</field>
 <field name="pub_place">New York, NY</field>
 <field name="language">English</field>
-<field name="call_number">428.5 .C732f </field>
+<field name="call_number">428.5 .C732f</field>
 </doc>
 
 <doc>
@@ -214,7 +214,7 @@ White Mills.</field>
 <field name="publisher">Atlanta University, School of Library Service</field>
 <field name="pub_place">Atlanta, GA</field>
 <field name="language">English</field>
-<field name="call_number">428.5 .A88b </field>
+<field name="call_number">428.5 .A88b</field>
 </doc>
 
 <doc>
@@ -234,7 +234,7 @@ White Mills.</field>
 <field name="language">English</field>
 <field name="call_number">428.5 .D12b v. 2</field>
 <field name="state_country">Florida</field>
-<field name="grade_level_number">High school </field>
+<field name="grade_level_number">High school</field>
 </doc>
 
 <doc>
@@ -254,7 +254,7 @@ White Mills.</field>
 <field name="language">English</field>
 <field name="call_number">428.5 .D12b v. 1</field>
 <field name="state_country">Florida</field>
-<field name="grade_level_group">Middle school </field>
+<field name="grade_level_group">Middle school</field>
 </doc>
 
 <doc>
@@ -272,7 +272,7 @@ White Mills.</field>
 <field name="publisher">Association for Childhood Education International</field>
 <field name="pub_place">Washington, DC</field>
 <field name="language">English</field>
-<field name="call_number">428.5 .A84b 1962 </field>
+<field name="call_number">428.5 .A84b 1962</field>
 </doc>
 
 <doc>
@@ -290,7 +290,7 @@ Children's Services Division, American Library Association</field>
 <field name="publisher">American Library Association</field>
 <field name="pub_place">Chicago, IL</field>
 <field name="language">English</field>
-<field name="call_number">428.5 .A51L </field>
+<field name="call_number">428.5 .A51L</field>
 </doc>
 
 <doc>
@@ -303,7 +303,7 @@ Children's Services Division, American Library Association</field>
 <field name="publisher">Association for Childhood Education International</field>
 <field name="pub_place">Washington, DC</field>
 <field name="language">English</field>
-<field name="call_number">428.5 .A84a </field>
+<field name="call_number">428.5 .A84a</field>
 </doc>
 
 <doc>
@@ -319,7 +319,7 @@ Stewart H. Benedict.</field>
 <field name="publisher">Dell Publishing Co.</field>
 <field name="pub_place">New York, NY</field>
 <field name="language">English</field>
-<field name="call_number">428.5 .D33t v. 3 </field>
+<field name="call_number">428.5 .D33t v. 3</field>
 </doc>
 
 <doc>
@@ -337,7 +337,7 @@ Senior high school literature.; Responsibility: compiled by Stewart H. Benedict.
 <field name="publisher">Dell Publishing Co.</field>
 <field name="pub_place">New York, NY</field>
 <field name="language">English</field>
-<field name="call_number">428.5 .D33t v. 2 </field>
+<field name="call_number">428.5 .D33t v. 2</field>
 </doc>
 
 <doc>
@@ -356,7 +356,7 @@ school</field>
 <field name="language">English</field>
 <field name="call_number">428.5 .D14L v. 1</field>
 <field name="state_country">Texas</field>
-<field name="grade_level_group">Middle school </field>
+<field name="grade_level_group">Middle school</field>
 </doc>
 
 <doc>
@@ -374,7 +374,7 @@ Responsibility: Denver Public Schools.</field>
 <field name="language">English</field>
 <field name="call_number">428.5 .D41L</field>
 <field name="state_country">Colorado</field>
-<field name="grade_level_group">Middle school </field>
+<field name="grade_level_group">Middle school</field>
 </doc>
 
 <doc>
@@ -392,7 +392,7 @@ Responsibility: Denver Public Schools.</field>
 <field name="pub_place">Detroit, MI</field>
 <field name="language">English</field>
 <field name="call_number">428.5 .D48t</field>
-<field name="state_country">Michigan </field>
+<field name="state_country">Michigan</field>
 </doc>
 
 <doc>
@@ -408,7 +408,7 @@ Responsibility: Denver Public Schools.</field>
 <field name="language">English</field>
 <field name="call_number">428.5 .F52f</field>
 <field name="state_country">Michigan</field>
-<field name="grade_level_number">Kindergarten </field>
+<field name="grade_level_number">Kindergarten</field>
 </doc>
 
 <doc>
@@ -429,7 +429,7 @@ Responsibility: Denver Public Schools.</field>
 <field name="language">English</field>
 <field name="call_number">428.5 .G87w</field>
 <field name="state_country">California</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -439,7 +439,7 @@ Responsibility: Denver Public Schools.</field>
 <field name="year">1968</field>
 <field name="pages">30</field>
 <field name="keywords">Literature</field>
-<field name="series_title">Houston Independent School District.; Curriculum bulletin </field>
+<field name="series_title">Houston Independent School District.; Curriculum bulletin</field>
 <field name="series_vol">68CBM12</field>
 <field name="publisher">Houston (Texas) Independent School District</field>
 <field name="pub_place">Houston, TX</field>
@@ -465,7 +465,7 @@ Laboratory School and Ball State Teachers College</field>
 <field name="pub_place">Muncie, IN</field>
 <field name="language">English</field>
 <field name="call_number">428.5 .I39b</field>
-<field name="state_country">Indiana </field>
+<field name="state_country">Indiana</field>
 </doc>
 
 <doc>
@@ -478,7 +478,7 @@ Laboratory School and Ball State Teachers College</field>
 <field name="pub_place">Newton, MA</field>
 <field name="language">English</field>
 <field name="call_number">428.5 .H17r v. 1</field>
-<field name="state_country">Massachusetts </field>
+<field name="state_country">Massachusetts</field>
 </doc>
 
 <doc>
@@ -492,7 +492,7 @@ Laboratory School and Ball State Teachers College</field>
 <field name="pub_place">Newton, MA</field>
 <field name="language">English</field>
 <field name="call_number">428.5 .H17r v. 2</field>
-<field name="state_country">Massachusetts </field>
+<field name="state_country">Massachusetts</field>
 </doc>
 
 <doc>
@@ -506,7 +506,7 @@ Laboratory School and Ball State Teachers College</field>
 <field name="language">English</field>
 <field name="call_number">428.5 .H17r v. 3</field>
 <field name="state_country">Massachusetts</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -520,7 +520,7 @@ fun</field>
 <field name="pub_place">Newton, MA</field>
 <field name="language">English</field>
 <field name="call_number">428.5 .H17r v. 4</field>
-<field name="state_country">Massachusetts </field>
+<field name="state_country">Massachusetts</field>
 </doc>
 
 <doc>
@@ -541,7 +541,7 @@ India and Pakistan, Ireland, Italy, Poland, Turkey, the West Indies</field>
 <field name="pub_place">London, UK</field>
 <field name="language">English</field>
 <field name="call_number">428.5 .I59b</field>
-<field name="state_country">United Kingdom </field>
+<field name="state_country">United Kingdom</field>
 </doc>
 
 <doc>
@@ -610,7 +610,7 @@ six</field>
 <field name="publisher">Lexington Public Schools</field>
 <field name="language">English</field>
 <field name="call_number">428.5 .L67o</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -647,7 +647,7 @@ schools</field>
 <field name="pub_place">Los Angeles, CA</field>
 <field name="language">English</field>
 <field name="call_number">428.5 .L87b</field>
-<field name="state_country">California </field>
+<field name="state_country">California</field>
 </doc>
 
 <doc>
@@ -684,7 +684,7 @@ Instructional Aids and Services Branch. Publication</field>
 <field name="language">English</field>
 <field name="call_number">428.5 .L879b 1958</field>
 <field name="state_country">California</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -704,7 +704,7 @@ Instructional Aids and Services Branch. Publication</field>
 <field name="pub_place">Los Angeles, CA</field>
 <field name="language">English</field>
 <field name="call_number">428.5 .L879b 1961</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -724,7 +724,7 @@ online.; Responsibility: [compilers, Joseph Rubinstein and Earl Farley].</field>
 <field name="pub_place">Lawrence, KS</field>
 <field name="language">English</field>
 <field name="call_number">428.5 .K17h</field>
-<field name="state_country">Kansas </field>
+<field name="state_country">Kansas</field>
 </doc>
 
 <doc>
@@ -746,7 +746,7 @@ Publication</field>
 <field name="pub_place">Los Angeles, CA</field>
 <field name="language">English</field>
 <field name="call_number">428.5 .L879f</field>
-<field name="state_country">California </field>
+<field name="state_country">California</field>
 </doc>
 
 <doc>
@@ -766,7 +766,7 @@ part IV</field>
 <field name="language">English</field>
 <field name="call_number">428.5 .L879r v. 4</field>
 <field name="state_country">California</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -786,7 +786,7 @@ part V</field>
 <field name="language">English</field>
 <field name="call_number">428.5 .L879r v. 5</field>
 <field name="state_country">California</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -800,14 +800,14 @@ Part I: appreciating the contributions of one author</field>
 <field name="keywords">Reading</field>
 <field name="keywords">Gifted children</field>
 <field name="keywords">Children's literature</field>
-<field name="series_title">Los Angeles (California) City School District. Instructional bulletin no. </field>
+<field name="series_title">Los Angeles (California) City School District. Instructional bulletin no.</field>
 <field name="series_vol">EC-112</field>
 <field name="publisher">Los Angeles (California) City School District</field>
 <field name="pub_place">Los Angeles, CA</field>
 <field name="language">English</field>
 <field name="call_number">428.5 .L879r v. 1</field>
 <field name="state_country">California</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -826,7 +826,7 @@ Division, Los Angeles City Schools.</field>
 <field name="pub_place">Los Angeles, CA</field>
 <field name="language">English</field>
 <field name="call_number">428.5 .L879rp</field>
-<field name="state_country">California </field>
+<field name="state_country">California</field>
 </doc>
 
 <doc>
@@ -846,7 +846,7 @@ superintendent.</field>
 <field name="pub_place">Baton Rouge, LA</field>
 <field name="language">English</field>
 <field name="call_number">428.5 .L88b 1957/1958</field>
-<field name="state_country">Louisiana </field>
+<field name="state_country">Louisiana</field>
 </doc>
 
 <doc>
@@ -866,7 +866,7 @@ superintendent.</field>
 <field name="pub_place">Baton Rouge, LA</field>
 <field name="language">English</field>
 <field name="call_number">428.5 .L88b 1955/1956</field>
-<field name="state_country">Louisiana </field>
+<field name="state_country">Louisiana</field>
 </doc>
 
 <doc>
@@ -886,7 +886,7 @@ superintendent.</field>
 <field name="pub_place">Baton Rouge, LA</field>
 <field name="language">English</field>
 <field name="call_number">428.5 .L88b 1953</field>
-<field name="state_country">Louisiana </field>
+<field name="state_country">Louisiana</field>
 </doc>
 
 <doc>
@@ -906,7 +906,7 @@ superintendent.</field>
 <field name="pub_place">Baton Rouge, LA</field>
 <field name="language">English</field>
 <field name="call_number">428.5 .L88b 1952</field>
-<field name="state_country">Louisiana </field>
+<field name="state_country">Louisiana</field>
 </doc>
 
 <doc>
@@ -923,7 +923,7 @@ school</field>
 <field name="call_number">428.5 .M18b v. 1</field>
 <field name="state_country">Wisconsin</field>
 <field name="grade_level_group">Elementary</field>
-<field name="grade_level_group">Middle school </field>
+<field name="grade_level_group">Middle school</field>
 </doc>
 
 <doc>
@@ -939,7 +939,7 @@ school</field>
 <field name="call_number">428.5 .M18b v. 2</field>
 <field name="state_country">Wisconsin</field>
 <field name="grade_level_group">Elementary</field>
-<field name="grade_level_group">Middle school </field>
+<field name="grade_level_group">Middle school</field>
 </doc>
 
 <doc>
@@ -955,7 +955,7 @@ school</field>
 <field name="call_number">428.5 .M18b v. 3</field>
 <field name="state_country">Wisconsin</field>
 <field name="grade_level_group">Elementary</field>
-<field name="grade_level_group">Middle school </field>
+<field name="grade_level_group">Middle school</field>
 </doc>
 
 <doc>
@@ -971,7 +971,7 @@ school</field>
 <field name="call_number">428.5 .M18b v. 4</field>
 <field name="state_country">Wisconsin</field>
 <field name="grade_level_group">Elementary</field>
-<field name="grade_level_group">Middle school </field>
+<field name="grade_level_group">Middle school</field>
 </doc>
 
 <doc>
@@ -987,7 +987,7 @@ school</field>
 <field name="call_number">428.5 .M18b v. 5</field>
 <field name="state_country">Wisconsin</field>
 <field name="grade_level_group">Elementary</field>
-<field name="grade_level_group">Middle school </field>
+<field name="grade_level_group">Middle school</field>
 </doc>
 
 <doc>
@@ -1003,7 +1003,7 @@ school</field>
 <field name="call_number">428.5 .M18b v. 6</field>
 <field name="state_country">Wisconsin</field>
 <field name="grade_level_group">Elementary</field>
-<field name="grade_level_group">Middle school </field>
+<field name="grade_level_group">Middle school</field>
 </doc>
 
 <doc>
@@ -1016,7 +1016,7 @@ school</field>
 <field name="keywords">Literature</field>
 <field name="publisher">Metropolitan School Study Council English Committee</field>
 <field name="language">English</field>
-<field name="call_number">428.5 .M59u </field>
+<field name="call_number">428.5 .M59u</field>
 </doc>
 
 <doc>
@@ -1031,7 +1031,7 @@ school</field>
 <field name="pub_place">Milton, MA</field>
 <field name="language">English</field>
 <field name="call_number">428.5 .M66c</field>
-<field name="state_country">Massachusetts </field>
+<field name="state_country">Massachusetts</field>
 </doc>
 
 <doc>
@@ -1064,7 +1064,7 @@ school</field>
 <field name="language">English</field>
 <field name="call_number">428.5 .M69m v. 1</field>
 <field name="state_country">California</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -1080,7 +1080,7 @@ school</field>
 <field name="language">English</field>
 <field name="call_number">428.5 .M69m v. 2</field>
 <field name="state_country">California</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -1101,7 +1101,7 @@ Schools</field>
 <field name="language">English</field>
 <field name="call_number">428.5 .M69e v.1</field>
 <field name="state_country">California</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -1114,14 +1114,14 @@ Reading instruction.</field>
 <field name="keywords">Reading</field>
 <field name="notes">162 p. illus. 28 cm.; Jointly sponsored by Secondary School Administrators in
 Stanislaus County, Stanilaus County Schools [and] Modesto City Schools; Other Titles: Reading
-instruction. </field>
+instruction.</field>
 <field name="publisher">Stanislaus County (California) Office of the Superintendent of
 Schools</field>
 <field name="pub_place">Modesto, CA</field>
 <field name="language">English</field>
 <field name="call_number">428.5 .M69e v.2</field>
 <field name="state_country">California</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -1169,7 +1169,7 @@ Curriculum Department</field>
 <field name="language">English</field>
 <field name="call_number">428.5 .M69m</field>
 <field name="state_country">California</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -1186,13 +1186,13 @@ Curriculum Department</field>
 <field name="keywords">High school libraries</field>
 <field name="notes">viii; ; 18 cm.; Note(s): "Sixth edition."/ Includes indexes./ Also issued
 online.; Responsibility: prepared by Kenneth L. Donelson, editorial chairman, and the Committee on
-the Senior High School Booklist of the National Council of Teachers of English. </field>
+the Senior High School Booklist of the National Council of Teachers of English.</field>
 <field name="edition">New</field>
 <field name="publisher">National Council of Teachers of English</field>
 <field name="pub_place">Urbana, IL</field>
 <field name="language">English</field>
 <field name="call_number">428.5 .N27br</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -1210,7 +1210,7 @@ title.</field>
 <field name="publisher">National Council of Teachers of English</field>
 <field name="pub_place">Champaign, IL</field>
 <field name="language">English</field>
-<field name="call_number">428.5 .N27b </field>
+<field name="call_number">428.5 .N27b</field>
 </doc>
 
 <doc>
@@ -1231,7 +1231,7 @@ selected by Audrey M. Sprague.</field>
 <field name="pub_place">London, UK</field>
 <field name="language">English</field>
 <field name="call_number">428.5 .N268f</field>
-<field name="state_country">United Kingdom </field>
+<field name="state_country">United Kingdom</field>
 </doc>
 
 <doc>
@@ -1250,7 +1250,7 @@ junior and senior high school students</field>
 <field name="language">English</field>
 <field name="call_number">428.5 .N27i</field>
 <field name="grade_level_group">Middle school</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -1266,7 +1266,7 @@ junior and senior high school students</field>
 <field name="pub_place">Urbana, IL</field>
 <field name="language">English</field>
 <field name="call_number">428.5 .N27n</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -1282,7 +1282,7 @@ junior and senior high school students</field>
 <field name="pub_place">Urbana, IL</field>
 <field name="language">English</field>
 <field name="call_number">428.5 .N27r 1960 v. 1</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -1299,7 +1299,7 @@ junior and senior high school students</field>
 <field name="language">English</field>
 <field name="call_number">428.5 .N27r 1973 v. 1</field>
 <field name="grade_level_group">Elementary</field>
-<field name="grade_level_group">Middle school </field>
+<field name="grade_level_group">Middle school</field>
 </doc>
 
 <doc>
@@ -1315,7 +1315,7 @@ schools</field>
 <field name="pub_place">Urbana, IL</field>
 <field name="language">English</field>
 <field name="call_number">428.5 .N27r 1956 v. 3</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -1341,7 +1341,7 @@ Mental Health</field>
 <field name="pub_place">Rockville, MD</field>
 <field name="language">English</field>
 <field name="call_number">428.5 .N276m</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -1361,7 +1361,7 @@ references.</field>
 <field name="publisher">National Council of Teachers of English</field>
 <field name="pub_place">Champaign, IL</field>
 <field name="language">English</field>
-<field name="call_number">428.5 .N27w </field>
+<field name="call_number">428.5 .N27w</field>
 </doc>
 
 <doc>
@@ -1377,7 +1377,7 @@ references.</field>
 <field name="language">English</field>
 <field name="call_number">428.5 .N51L</field>
 <field name="state_country">New Jersey</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -1425,7 +1425,7 @@ Responsibility: issued by the State Department of Public Instruction.</field>
 <field name="language">English</field>
 <field name="call_number">428.5 .N86L</field>
 <field name="state_country">North Dakota</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -1446,7 +1446,7 @@ Development</field>
 <field name="language">English</field>
 <field name="call_number">428.5 .N532b v. 1</field>
 <field name="state_country">New York</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -1464,7 +1464,7 @@ Development</field>
 <field name="language">English</field>
 <field name="call_number">428.5 .N532b v. 2</field>
 <field name="state_country">New York</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -1482,7 +1482,7 @@ Secondary Curriculum Development</field>
 <field name="language">English</field>
 <field name="call_number">428.5 .N532f</field>
 <field name="state_country">New York</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -1502,7 +1502,7 @@ Secondary Curriculum Development</field>
 Panamericana</field>
 <field name="pub_place">Washington, DC</field>
 <field name="language">Spanish</field>
-<field name="call_number">428.5 .P18s v. 2 </field>
+<field name="call_number">428.5 .P18s v. 2</field>
 </doc>
 
 <doc>
@@ -1522,7 +1522,7 @@ Panamericana</field>
 <field name="publisher">University of Oregon. School of Education</field>
 <field name="pub_place">Eugene, OR</field>
 <field name="language">English</field>
-<field name="call_number">428.5 .O66b </field>
+<field name="call_number">428.5 .O66b</field>
 </doc>
 
 <doc>
@@ -1540,7 +1540,7 @@ Panamericana</field>
 <field name="pub_place">Kent, OH</field>
 <field name="language">English</field>
 <field name="call_number">428.5 .O37a</field>
-<field name="state_country">Ohio </field>
+<field name="state_country">Ohio</field>
 </doc>
 
 <doc>
@@ -1554,7 +1554,7 @@ Panamericana</field>
 <field name="pub_place">Salem, OR</field>
 <field name="language">English</field>
 <field name="call_number">428.5 .O65b</field>
-<field name="state_country">Oregon </field>
+<field name="state_country">Oregon</field>
 </doc>
 
 <doc>
@@ -1570,7 +1570,7 @@ Panamericana</field>
 <field name="pub_place">Salem, OR</field>
 <field name="language">English</field>
 <field name="call_number">428.5 .O65b</field>
-<field name="state_country">Oregon </field>
+<field name="state_country">Oregon</field>
 </doc>
 
 <doc>
@@ -1585,7 +1585,7 @@ Panamericana</field>
 <field name="pub_place">Salem, OR</field>
 <field name="language">English</field>
 <field name="call_number">428.5 .O65b</field>
-<field name="state_country">Oregon </field>
+<field name="state_country">Oregon</field>
 </doc>
 
 <doc>
@@ -1600,7 +1600,7 @@ Panamericana</field>
 <field name="pub_place">Salem, OR</field>
 <field name="language">English</field>
 <field name="call_number">428.5 .O65b</field>
-<field name="state_country">Oregon </field>
+<field name="state_country">Oregon</field>
 </doc>
 
 <doc>
@@ -1615,7 +1615,7 @@ Panamericana</field>
 <field name="pub_place">Salem, OR</field>
 <field name="language">English</field>
 <field name="call_number">428.5 .O65b</field>
-<field name="state_country">Oregon </field>
+<field name="state_country">Oregon</field>
 </doc>
 
 <doc>
@@ -1646,7 +1646,7 @@ Panamericana</field>
 <field name="language">English</field>
 <field name="call_number">428.5 .O11t</field>
 <field name="state_country">California</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -1666,7 +1666,7 @@ Panamericana</field>
 Panamericana</field>
 <field name="pub_place">Washington, DC</field>
 <field name="language">Spanish</field>
-<field name="call_number">428.5 .P18s v. 1 </field>
+<field name="call_number">428.5 .P18s v. 1</field>
 </doc>
 
 <doc>
@@ -1817,7 +1817,7 @@ teacher's guide</field>
 <field name="language">English</field>
 <field name="call_number">428.5 .P84f</field>
 <field name="state_country">Michigan</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -1833,7 +1833,7 @@ teacher's guide</field>
 <field name="language">English</field>
 <field name="call_number">428.5 .P85pi</field>
 <field name="state_country">Oregon</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -1848,7 +1848,7 @@ teacher's guide</field>
 <field name="pub_place">Portland, OR</field>
 <field name="language">English</field>
 <field name="call_number">428.5 .P85pi</field>
-<field name="state_country">Oregon </field>
+<field name="state_country">Oregon</field>
 </doc>
 
 <doc>
@@ -1863,7 +1863,7 @@ teacher's guide</field>
 <field name="pub_place">Portland, OR</field>
 <field name="language">English</field>
 <field name="call_number">428.5 .P85pi</field>
-<field name="state_country">Oregon </field>
+<field name="state_country">Oregon</field>
 </doc>
 
 <doc>
@@ -1878,7 +1878,7 @@ teacher's guide</field>
 <field name="pub_place">Portland, OR</field>
 <field name="language">English</field>
 <field name="call_number">428.5 .P85pi</field>
-<field name="state_country">Oregon </field>
+<field name="state_country">Oregon</field>
 </doc>
 
 <doc>
@@ -1949,7 +1949,7 @@ prepared by Florence I. Eaton.</field>
 <field name="language">English</field>
 <field name="call_number">428.5 .S19g</field>
 <field name="state_country">California</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -1986,7 +1986,7 @@ essay, drama</field>
 <field name="language">English</field>
 <field name="call_number">428.5 .S196m v. 1</field>
 <field name="state_country">California</field>
-<field name="grade_level_group">Middle school </field>
+<field name="grade_level_group">Middle school</field>
 </doc>
 
 <doc>
@@ -2006,7 +2006,7 @@ story, novel, biography</field>
 <field name="language">English</field>
 <field name="call_number">428.5 .S196m v. 2</field>
 <field name="state_country">California</field>
-<field name="grade_level_group">Middle school </field>
+<field name="grade_level_group">Middle school</field>
 </doc>
 
 <doc>
@@ -2021,7 +2021,7 @@ story, novel, biography</field>
 <field name="language">English</field>
 <field name="call_number">428.5 .S23b v. 1</field>
 <field name="state_country">California</field>
-<field name="grade_level_group">Middle school </field>
+<field name="grade_level_group">Middle school</field>
 </doc>
 
 <doc>
@@ -2057,7 +2057,7 @@ pocket.</field>
 <field name="publisher">Storybooks International</field>
 <field name="pub_place">Locust Valley, NY</field>
 <field name="language">English</field>
-<field name="call_number">428.5 .S88t </field>
+<field name="call_number">428.5 .S88t</field>
 </doc>
 
 <doc>
@@ -2075,7 +2075,7 @@ pocket.</field>
 <field name="pub_place">Austin, TX</field>
 <field name="language">English</field>
 <field name="call_number">428.5 .T35b</field>
-<field name="state_country">Texas </field>
+<field name="state_country">Texas</field>
 </doc>
 
 <doc>
@@ -2094,7 +2094,7 @@ pocket.</field>
 <field name="pub_place">Austin, TX</field>
 <field name="language">English</field>
 <field name="call_number">428.5 .T355p</field>
-<field name="state_country">Texas </field>
+<field name="state_country">Texas</field>
 </doc>
 
 <doc>
@@ -2110,7 +2110,7 @@ January 1, 1953</field>
 <field name="publisher">Library of Congress</field>
 <field name="pub_place">Washington, DC</field>
 <field name="language">English</field>
-<field name="call_number">428.5 .U59t </field>
+<field name="call_number">428.5 .U59t</field>
 </doc>
 
 <doc>
@@ -2210,7 +2210,7 @@ Wichita Public Schools.</field>
 <field name="language">English</field>
 <field name="call_number">428.5 .W63L v. 1</field>
 <field name="state_country">Kansas</field>
-<field name="grade_level_number">Kindergarten </field>
+<field name="grade_level_number">Kindergarten</field>
 </doc>
 
 <doc>
