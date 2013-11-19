@@ -1,0 +1,1802 @@
+
+
+
+
+TY  - BOOK
+A1  - Gunn, Mary Agnella
+A1  - Early, Margaret J.
+A1  - McCullough, Constance J.
+A1  - De Boer, John J.
+A1  - Hanlon, Helen J.
+T1  - What we know about high school reading
+Y1  - 1957
+D1  - 1957-1958
+SP  - 52
+KW  - Reading
+N1  - illus. ; 24 cm.; Note(s): "Reprinted from the English Journal".; Responsibility: [Articles by] M. Agnella Gunn [and others].
+PB  - National Council of Teachers of English
+CY  - Champaign, IL
+LA  - English
+CN  - 428.4.N27w
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Lundblad, Helen
+A1  - Smith, Carl Bernard
+T1  - Tutor trainers handbook
+Y1  - 1972
+D1  - 1972
+SP  - 63
+KW  - Reading
+KW  - Tutors and tutoring
+N1  - 63 p. ; 26 cm.; Note(s): "Presented ... pursuant to a grant from the U.S. Office of Education."; Responsibility: by Helen Lundblad [and] Carl B. Smith.
+PB  - National Reading Center
+CY  - Washington, DC
+LA  - English
+CN  - 428.4 .N275t
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Monroe,Marion
+T1  - Suggestions for remedial instruction in reading
+SP  - 12
+KW  - Reading
+KW  - Educational psychology
+N1  - 12 p. ; 27 cm.; Note(s): At head of title: Institute for Juvenile Research, Chicago.; Responsibility: by Marion Monroe.
+PB  - Illinois State Department of Public Welfare
+CY  - Chicago, IL
+LA  - English
+CN  - 428.4 .I29s
+ER  - 
+
+TY  - BOOK
+A2  - National Education Association of the United States. Department of Elementary School Principals
+A2  - National School Public Relations Association
+T1  - Sailing into reading; how your child learns to read in the elementary school
+Y1  - 1956
+D1  - 1956
+SP  - 40
+KW  - Reading
+N1  - 40 pages illustrations 22 cm
+PB  - National School Public Relations Association
+CY  - Washington, DC
+LA  - English
+CN  - 428.4 .N277s
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - New England Educational Assessment Project
+T1  - Reading instruction in New England's public schools
+Y1  - 1969
+D1  - 02/1969
+SP  - 32
+KW  - Reading
+N1  - 32 p. charts, graphs. 28 cm.; Note(s): A cooperative regional project of the six New England States.
+PB  - New England Educational Assessment Project
+CY  - Providence, RI
+LA  - English
+CN  - 428.4 .N50r
+SC  - Maine
+SC  - New Hampshire
+SC  - Vermont
+SC  - Massachusetts
+SC  - Connecticut
+SC  - Rhode Island
+ER  - 
+
+TY  - BOOK
+A2  - New York (New York) Board of Education
+T1  - A guide for beginning teachers of reading : grades 5-8
+Y1  - 1968
+D1  - 1968
+SP  - 106
+KW  - Reading
+N1  - x; ; 22 cm.; Note(s): Bibliographies: p. 100-106.
+T2  - Curriculum Bulletin ;; 1967-68 ser.
+V1  - 6
+PB  - New York (New York). Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 428.4 . N53g v. 2
+SC  - New York
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - New York (New York) Board of Education
+T1  - A guide for beginning teachers of reading : grades 1-4
+Y1  - 1967
+D1  - 1967
+SP  - 106
+KW  - Reading
+N1  - xi; ; 22 cm.; Note(s): Includes bibliographical references (p. 99-101).
+PB  - New York (New York). Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 428.4 .N53g v. 1
+SC  - New York
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - New York (New York) Bureau of Curriculum Development
+T1  - A guide for beginning teachers of reading: grades 9-12
+Y1  - 1968
+D1  - 1968
+SP  - 97
+KW  - Reading
+KW  - Curricula
+N1  - 97 p.; Note(s): Bibliography: p. 96-97.
+T2  - New York (New York). Board of Education. Curriculum bulletin,; 1967-68 ser.
+V1  - 7
+PB  - New York (New York). Bureau of Curriculum Development
+CY  - New York, NY
+LA  - English
+CN  - 428.4 .N53g v. 3
+SC  - New York
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A1  - Draper, Marcella K.
+A1  - Lazar, May
+A1  - Schwietert, Louise
+A2  - New York (New York) Bureau of Educational Research
+T1  - Individualized reading : interim report ; survey in selected schools, 1956-57.
+Y1  - 1957
+D1  - 06/1957
+SP  - 30
+KW  - Reading
+N1  - 30 p. ; 25 cm.; Responsibility: prepared under the supervision of May Lazar by Marcella Draper and Louise Schwietert.
+LA  - English
+CN  - 428.4 .N53ir v. 1
+SC  - New York
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - New York (New York) Bureau of Curriculum Development
+T1  - Handbook for English language arts, grades 5-12: reading and literature
+Y1  - 1968
+D1  - 1968
+SP  - 324
+KW  - Language arts
+KW  - Curricula
+T2  - New York (New York). Board of Education. Curriculum bulletin,; 1967-68 ser.
+V1  - 10
+PB  - New York (New York). Bureau of Curriculum Development
+CY  - New York, NY
+LA  - English
+CN  - 428.4 .N53h
+SC  - New York
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A1  - Draper, Marcella K.
+A1  - Lazar, May
+A1  - Schwietert, Louise
+A2  - New York (New York) Bureau of Educational Research
+T1  - Individualized reading and the reading skills
+Y1  - 1958
+D1  - 01/1958
+SP  - 22
+KW  - Reading
+KW  - Individualized instruction
+N1  - 22 p. 28 cm.
+PB  - New York (New York). Bureau of Educational Research
+CY  - New York, NY
+LA  - English
+CN  - 428.4 .N53ir v. 2
+SC  - New York
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Draper, Marcella K.
+A1  - Lazar, May
+A1  - Schwietert, Louise
+A2  - New York (New York) Bureau of Educational Research
+T1  - Effective classroom practices in individualized reading
+Y1  - 1958
+D1  - 05/1958
+SP  - 61
+KW  - Reading
+KW  - Individualized instruction
+PB  - New York (New York). Bureau of Educational Research
+CY  - New York, NY
+LA  - English
+CN  - 428.4 .N53ir v. 3
+SC  - New York
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Draper, Marcella K.
+A1  - Lazar, May
+A2  - New York (New York) Bureau of Educational Research
+T1  - Thinking about individualized reading
+Y1  - 1956
+D1  - 04/1956
+SP  - 23
+KW  - Reading
+KW  - Individualized instruction
+PB  - New York (New York). Bureau of Educational Research
+CY  - New York, NY
+LA  - English
+CN  - 428.4 .N53ir v. 4
+SC  - New York
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - New York (New York) Bureau of Educational Research
+T1  - Books for children to read (individualized reading - book lists)
+Y1  - 1957
+D1  - 10/1957
+KW  - Reading
+KW  - Individualized instruction
+PB  - New York (New York). Bureau of Educational Research
+CY  - New York, NY
+LA  - English
+CN  - 428.4 .N53ir v. 5
+SC  - New York
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - New York (New York) Bureau of Educational Research
+T1  - Books for children to read (individualized reading - book lists), first supplement
+Y1  - 1958
+D1  - 08/1958
+KW  - Reading
+KW  - Individualized instruction
+PB  - New York (New York). Bureau of Educational Research
+CY  - New York, NY
+LA  - English
+CN  - 428.4 .N53ir v. 5 supp.
+SC  - New York
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Lazar, May
+A2  - New York (New York) Bureau of Educational Research
+T1  - Individualized reading: a program of seeking, self-selection and pacing
+Y1  - 1957
+D1  - 1957
+KW  - Reading
+KW  - Individualized instruction
+PB  - New York (New York). Bureau of Educational Research
+CY  - New York, NY
+LA  - English
+CN  - 428.4 .N53ir v. 6
+SC  - New York
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Draper, Marcella K.
+A1  - Lazar, May
+A1  - Schwietert, Louise
+A2  - New York (New York) Bureau of Educational Research
+T1  - Problems in individualized reading
+Y1  - 1958
+D1  - 08/1958
+SP  - 36
+KW  - Reading
+KW  - Individualized instruction
+PB  - New York (New York). Bureau of Educational Research
+CY  - New York, NY
+LA  - English
+CN  - 428.4 .N53ir v. 7
+SC  - New York
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Cooke, Dorothy Elizabeth
+T1  - The first "R" : reading
+Y1  - 1957
+D1  - 1957
+SP  - 40
+KW  - Reading
+N1  - ill.; Responsibility: [prepared by Dorothy E. Cooke].
+PB  - University of the State of New York. Bureau of Elementary Curriculum Development
+CY  - Albany, NY
+LA  - English
+CN  - 428.4 .N532f
+SC  - New York
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Draper, Marcella K.
+A1  - Lazar, May
+A1  - Schwietert, Louise
+A2  - New York (New York) Bureau of Educational Research
+T1  - Vocabulary study : a study of the vocabulary content of preprimers through third-grade readers in eleven basic reading series.
+Y1  - 1957
+D1  - 01/1957
+SP  - 62
+KW  - Reading
+N1  - 62 p. ; 25 cm.; Responsibility: prepared under the supervision of May Lazar by Marcella Draper and Louise Schwietert.
+PB  - New York (New York) Bureau of Educational Research
+CY  - New York
+LA  - English
+CN  - 428.4 .N53v
+SC  - New York
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - New York (New York) Board of Education
+T1  - Reading and literature in the language arts: grades 1-6
+Y1  - 1957
+D1  - 1957
+SP  - 90
+KW  - Reading
+KW  - Language arts
+N1  - 90 p.; 
+T2  - New York (New York).; Board of Education.; Curriculum bulletin, 1956-57 series
+V1  - 7
+PB  - New York (New York) Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 428.4 .N53rL
+SC  - New York
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - New York (New York) Bureau of Curriculum Research
+T1  - Reading in the secondary schools
+Y1  - 1961
+D1  - 1961
+SP  - 61
+KW  - Reading
+N1  - 61 p. ; 23 cm.; Note(s): Includes bibliographical references.
+T2  - New York (New York).; Board of Education.; Bureau of Curriculum Research.; Curriculum research report.
+PB  - New York (New York) Bureau of Curriculum Research
+CY  - New York, NY
+LA  - English
+CN  - 428.4 .N53re
+SC  - New York
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New York State Education Department. Bureau of Elementary Curriculum Development
+T1  - Phonics and the abc's
+Y1  - 1961
+D1  - 1961
+SP  - 6
+KW  - Reading
+KW  - Phonetics
+N1  - "Revision of 'Shall We Teach Phonics?' 1946"
+PB  - New York State Education Department
+CY  - Albany, NY
+LA  - English
+CN  - 428.4 .N532p
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - New York State Education Department. Bureau of Secondary Curriculum Development
+T1  - The road to better reading: promising practices in reading for a k-12 program based on the summary of conference-clinics for the readjustment of high school education
+Y1  - 1953
+D1  - 1953
+SP  - 112
+KW  - Reading
+PB  - New York State Education Department
+CY  - Albany, NY
+LA  - English
+CN  - 428.4 .N532r
+SC  - New York
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New York State Education Department. Bureau of Secondary Curriculum Development
+T1  - That all may learn to read: elementary school aids to teaching
+Y1  - 1949
+D1  - 1949
+SP  - 28
+KW  - Reading
+T2  - New York State Education Department. Language Arts Leaflet
+V1  - 3
+PB  - New York State Education Department
+CY  - Albany, NY
+LA  - English
+CN  - 428.4 .N532t
+SC  - New York
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Oakland (California) Unified School District. Compensatory Education
+T1  - Comprehensive skills crt for individual placement, levels a-1
+SP  - 176
+KW  - Reading
+PB  - Oakland (California) Unified School District
+CY  - Oakland, CA
+LA  - English
+CN  - 428.4 .O11c
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Oakland (California) Unified School District
+T1  - Tentative guide for English workshop classes in secondary schools
+Y1  - 1955
+D1  - 08/1955
+SP  - 62
+KW  - English language
+PB  - Oakland (California) Unified School District
+CY  - Oakland, CA
+LA  - English
+CN  - 428.4 .O11t
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - University of Oregon. Oregon College of Education
+T1  - Annotated bibliography of secondary school materials for the remediation of reading
+Y1  - 1973
+D1  - 04/1973
+KW  - Reading
+KW  - Remedial teaching
+T2  - Oregon ASCD Curriculum Bulletin
+V1  - 27
+IS  - 316
+PB  - Oregon Association for Supervision and Curriculum Development
+CY  - Salem, OR
+LA  - English
+CN  - 428.4 .O65a
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Starr, John W.
+A1  - Brown, Don
+T1  - Games and strategies for teaching reading
+Y1  - 1975
+D1  - 11/1975
+SP  - 32
+KW  - Reading
+KW  - Reading games
+T2  - Oregon ASCD Curriculum Bulletin
+V1  - 29
+IS  - 329
+PB  - Oregon Association for Supervision and Curriculum Development
+CY  - Salem, OR
+LA  - English
+CN  - 428.4 .O65g
+ER  - 
+
+TY  - BOOK
+A1  - Gengler, Charles
+T1  - An inventory of reading skills
+Y1  - 1972
+D1  - 07/1972
+SP  - 16
+KW  - Reading
+T2  - Oregon ASCD Curriculum Bulletin
+V1  - 26
+IS  - 312
+PB  - Oregon Association for Supervision and Curriculum Development
+CY  - Salem, OR
+LA  - English
+CN  - 428.4 .O65i
+ER  - 
+
+TY  - BOOK
+A1  - Bateman, Barbara
+T1  - Reading: a controversial view; research and rationale
+Y1  - 1967
+D1  - 05/1967
+SP  - 14
+KW  - Reading
+N1  - 14 p. ill. 28 cm.; Note(s): Cover title./ Includes bibliographical references.; Responsibility: editor, Hugh B. Wood.
+T2  - University of Oregon. Curriculum Laboratory. Curriculum bulletin
+V1  - 23
+IS  - 278
+PB  - University of Oregon. School of Education
+CY  - Eugene, OR
+LA  - English
+CN  - 428.4 .O66re
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Bentall, Grace
+T1  - Remedial reading : case studies
+Y1  - 1972
+D1  - 01/1972
+SP  - 18
+KW  - Reading
+KW  - Remedial teaching
+KW  - Case studies
+N1  - 18 p. ; 28 cm.; Note(s): Cover title.; Responsibility: prepared by Grace Bentall.
+T2  - Oregon ASCD curriculum bulletin
+V1  - 26
+IS  - 310
+PB  - Oregon Association for Curriculum Development
+CY  - Salem, OR
+LA  - English
+CN  - 428.4 .O65r
+ER  - 
+
+TY  - BOOK
+A1  - Utsey, Jordan
+A1  - Gifford, Grant
+A1  - Sheridan, Jack
+T1  - A concise summary of the content of word attack skills
+Y1  - 1964
+D1  - 06/1964
+SP  - 11
+KW  - Reading
+T2  - Oregon ASCD curriculum bulletin
+V1  - 20
+IS  - 245
+PB  - Oregon Association for Curriculum Development
+CY  - Salem, OR
+LA  - English
+CN  - 428.4 .O66c
+ER  - 
+
+TY  - BOOK
+A1  - McLain, John
+T1  - Individualization of instruction
+Y1  - 1963
+D1  - 10/1963
+SP  - 23
+KW  - Individualized instruction
+T2  - Oregon ASCD curriculum bulletin
+V1  - 19
+IS  - 237
+PB  - Oregon Association for Curriculum Development
+CY  - Salem, OR
+LA  - English
+CN  - 428.4 .O66i
+ER  - 
+
+TY  - BOOK
+A1  - Brown, Don
+T1  - Remedial reading activities : an idea book
+Y1  - 1967
+D1  - 02/1967
+SP  - 20
+KW  - Reading
+KW  - Remedial teaching
+N1  - ill. ; 28 cm.; Note(s): Cover title./ Includes bibliographical references (p. 20).; Responsibility: prepared by Don Brown.
+T2  - University of Oregon. Curriculum Laboratory. Curriculum bulletin
+V1  - 23
+IS  - 275
+PB  - University of Oregon, School of Education
+CY  - Eugene, OR
+LA  - English
+CN  - 428.4 .O66r
+ER  - 
+
+TY  - BOOK
+A1  - Farrow, Vern, L.
+A1  - Bosma, Ruth L.
+T1  - I/t/a the hard way; a research report
+Y1  - 1966
+D1  - 11/1966
+SP  - 12
+KW  - Initial teaching alphabet
+KW  - Reading
+N1  - 12 p. 28 cm.; Note(s): Bibliography: p. 11-12.; Responsibility: by Vern Farrow and Ruth Bosma.
+T2  - University of Oregon. Curriculum Laboratory. Curriculum bulletin
+V1  - 22
+IS  - 272
+PB  - University of Oregon School of Education
+CY  - Eugene. OR
+LA  - English
+CN  - 428.4 .O66ih
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Anastasiow, Nicholas
+T1  - Evaluation of an experimental kindergarten reading program
+Y1  - 1964
+D1  - 1964?
+SP  - 12
+KW  - Reading
+PB  - Palo Alto (California) Unified School District
+CY  - Palo Alto, CA
+LA  - English
+CN  - 428.4 .P18e
+SC  - California
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A1  - Anastasiow, Nicholas
+T1  - Progress report: evaluation of the story reading program
+Y1  - 1965
+D1  - 09/1965
+SP  - 6
+KW  - Reading
+PB  - Palo Alto (California) Unified School District
+CY  - Palo Alto, CA
+LA  - English
+CN  - 428.4 .P18p
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Anastasiow, Nicholas
+T1  - Progress report #2: evaluation of the story reading program
+Y1  - 1966
+D1  - 07/1966
+SP  - 6
+KW  - Reading
+PB  - Palo Alto (California) Unified School District
+CY  - Palo Alto, CA
+LA  - English
+CN  - 428.4 .P18p
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Scobie, Mary Margaret
+T1  - Suggested areas for independent activities
+Y1  - 1952
+D1  - 10/1952
+SP  - 23
+KW  - Individualized instruction
+PB  - Palo Alto (California) Unified School District
+CY  - Palo Alto, CA
+LA  - English
+CN  - 428.4 .P18s
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Board of Public Education
+T1  - Language arts supplement to Suggestions for the teaching of reading : the developmental reading program in the elementary school
+Y1  - 1960
+D1  - 1960
+SP  - 33
+KW  - Language arts
+KW  - Reading
+PB  - Philadelphia (Pennsylvania) Board of Public Education
+CY  - Philadelphia, PA
+LA  - English
+CN  - 428.4 .P54s v. 3
+SC  - Pennsylvania
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Board of Public Education
+T1  - Language arts supplement to Suggestions for the teaching of reading : word recognition, sight vocabulary, phonics, structural analysis
+Y1  - 1962
+D1  - 1962
+SP  - 29
+KW  - Language arts
+KW  - Reading
+PB  - Philadelphia (Pennsylvania) Board of Public Education
+CY  - Philadelphia, PA
+LA  - English
+CN  - 428.4 .P54s v. 2
+SC  - Pennsylvania
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Board of Public Education
+T1  - Language arts supplement to Suggestions for the teaching of reading: group informal reading inventory
+Y1  - 1963
+D1  - 1963
+SP  - 6
+KW  - Reading
+KW  - Language arts
+PB  - Philadelphia (Pennsylvania) Board of Public Education
+CY  - Philadelphia, PA
+LA  - English
+CN  - 428.4 .P54s v. 4
+SC  - Pennsylvania
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Board of Public Education
+T1  - Suggestions for the teaching of reading in the elementary school
+Y1  - 1949
+D1  - 1959
+SP  - 91
+KW  - Reading
+N1  - xi; illus., tables, diagr. ; 28 cm.; Note(s): Includes bibliographies.
+PB  - Philadelphia (Pennsylvania) Board of Public Education
+CY  - Philadelphia, PA
+LA  - English
+CN  - 428.4 .P54s v. 1
+SC  - Pennsylvania
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Board of Public Education
+T1  - Instruction in reading skills: scope and sequence (tentative)
+Y1  - 1961
+D1  - 1961
+KW  - Reading
+N1  - table
+PB  - Philadelphia (Pennsylvania) Board of Public Education
+CY  - Philadelphia, PA
+LA  - English
+CN  - 428.4 .P54s v. 1a
+SC  - Pennsylvania
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Board of Public Education
+T1  - Supplement suggestions for the teaching of reading in the elementary school: the teaching of beginning reading
+KW  - Reading
+PB  - Philadelphia (Pennsylvania) Board of Public Education
+CY  - Philadelphia, PA
+LA  - English
+CN  - 428.4 .P54s v. 1b
+SC  - Pennsylvania
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Hinze, Richard H.
+T1  - Reading curriculum development
+Y1  - 1957
+D1  - 09/1957
+KW  - Reading
+PB  - Phoenix (Arizona) Elementary Schools
+CY  - Phoenix, AZ
+LA  - English
+CN  - 428.4 .P57rc
+SC  - Arizona
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Phoenix (Arizona) Elementary Schools
+T1  - Teachers' guide for the teaching of reading : reading curriculum development program
+Y1  - 1959
+D1  - 1959
+KW  - Reading
+N1  - 1 v. (various pagings) : 30 cm.
+PB  - Phoenix (Arizona) Elementary Schools
+CY  - Phoenix, AZ
+LA  - English
+CN  - 428.4 .P57t
+SC  - Arizona
+G1  - Elementary
+ER  - 
+
+TY - BOOK
+A2  - Portland (Oregon) Public Schools
+T1  - Reading as a developmental process in the high school and some remedial techniques
+SP  - 14
+KW  - Reading
+KW  - Remedial teaching
+T2  - Portland (Oregon) Public Schools. Curriculum publication
+V1  - LA-SS-49
+PB  - Portland (Oregon) Public Schools
+CY  - Portland, OR
+LA  - English
+CN  - 428.4 .P85r
+SC  - Oregon
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Starnes, Howard F.
+A1  - Wright, W. Neal
+A1  - Payne, William
+T1  - A reading guide for first grade
+Y1  - 1957
+D1  - 1957
+SP  - 25
+KW  - Reading
+PB  - Ranchito School District
+CY  - Pico, CA
+LA  - English
+CN  - 428.4 .R18r v. 1
+SC  - California
+G2  - 1st
+ER  - 
+
+TY  - BOOK
+A1  - Starnes, Howard F.
+A1  - Wright, W. Neal
+A1  - Payne, William
+T1  - A reading guide for second grade
+Y1  - 1957
+D1  - 1957
+SP  - 21
+KW  - Reading
+PB  - Ranchito School District
+CY  - Pico, CA
+LA  - English
+CN  - 428.4 .R18r v. 2
+SC  - California
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A1  - Starnes, Howard F.
+A1  - Wright, W. Neal
+A1  - Payne, William
+T1  - A reading guide for third grade
+Y1  - 1957
+D1  - 1957
+SP  - 16
+KW  - Reading
+PB  - Ranchito School District
+CY  - Pico, CA
+LA  - English
+CN  - 428.4 .R18r v. 3
+SC  - California
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A1  - Starnes, Howard F.
+A1  - Wright, W. Neal
+A1  - Payne, William
+T1  - A reading guide for fourth grade
+Y1  - 1957
+D1  - 1957
+SP  - 15
+KW  - Reading
+PB  - Ranchito School District
+CY  - Pico, CA
+LA  - English
+CN  - 428.4 .R18r v. 4
+SC  - California
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A1  - Matranga, James M.
+A1  - Moore, John E.
+A1  - Knight, Vick
+T1  - A fifth grade reading guide
+Y1  - 1957
+D1  - 1957
+SP  - 13
+KW  - Reading
+PB  - Ranchito School District
+CY  - Pico, CA
+LA  - English
+CN  - 428.4 .R18r v. 5
+SC  - California
+G2  - 5th
+ER  - 
+
+TY  - BOOK
+A1  - Matranga, James M.
+A1  - Moore, John E.
+A1  - Knight, Vick
+T1  - A sixth grade reading guide
+Y1  - 1957
+D1  - 1957
+SP  - 13
+KW  - Reading
+PB  - Ranchito School District
+CY  - Pico, CA
+LA  - English
+CN  - 428.4 .R18r v. 6
+SC  - California
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A1  - Matranga, James M.
+A1  - Moore, John E.
+A1  - Knight, Vick
+T1  - A seventh grade reading guide
+Y1  - 1957
+D1  - 1957
+SP  - 15
+KW  - Reading
+PB  - Ranchito School District
+CY  - Pico, CA
+LA  - English
+CN  - 428.4 .R18r v. 7
+SC  - California
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A1  - Matranga, James M.
+A1  - Moore, John E.
+A1  - Knight, Vick
+T1  - A eighth grade reading guide
+Y1  - 1957
+D1  - 1957
+SP  - 15
+KW  - Reading
+PB  - Ranchito School District
+CY  - Pico, CA
+LA  - English
+CN  - 428.4 .R18r v. 8
+SC  - California
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A1  - Lee, Robert B.
+T1  - Reading course of study: first grade
+Y1  - 1963
+D1  - 1963?
+SP  - 75
+KW  - Reading
+PB  - Rawlins (Wyoming) School District Number Three
+CY  - Rawlins, WY
+LA  - English
+CN  - 428.4 .R25r v. 1
+SC  - Wyoming
+G2  - 1st
+ER  - 
+
+TY  - BOOK
+A1  - Lee, Robert B.
+T1  - Reading course of study: second grade
+Y1  - 1963
+D1  - 1963?
+SP  - 111
+KW  - Reading
+PB  - Rawlins (Wyoming) School District Number Three
+CY  - Rawlins, WY
+LA  - English
+CN  - 428.4 .R25r v. 2
+SC  - Wyoming
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A1  - Lee, Robert B.
+T1  - Reading course of study: third grade
+Y1  - 1963
+D1  - 1963?
+SP  - 104
+KW  - Reading
+PB  - Rawlins (Wyoming) School District Number Three
+CY  - Rawlins, WY
+LA  - English
+CN  - 428.4 .R25r v. 3
+SC  - Wyoming
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A1  - Lee, Robert B.
+T1  - Reading course of study: fourth grade
+Y1  - 1963
+D1  - 1963?
+SP  - 62
+KW  - Reading
+PB  - Rawlins (Wyoming) School District Number Three
+CY  - Rawlins, WY
+LA  - English
+CN  - 428.4 .R25r v. 4
+SC  - Wyoming
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Royal Oak (Michigan) Public Schools
+T1  - Unlocking unfamiliar words
+Y1  - 1957
+D1  - 1957
+KW  - Reading
+PB  - Royal Oak (Michigan) Public Schools
+CY  - Royal Oak, MI
+LA  - English
+CN  - 428.4 .R88u
+SC  - Michigan
+ER  - 
+
+TY  - BOOK
+A1  - Cameron, Mildred M.
+T1  - Reading: grade one
+Y1  - 1961
+D1  - 1961
+SP  - 85
+KW  - Reading
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 428.4 .S194r v. 1
+SC  - California
+G2  - 1st
+ER  - 
+
+TY  - BOOK
+A1  - Cameron, Mildred M.
+T1  - Reading: grade two
+Y1  - 1961
+D1  - 1961
+SP  - 81
+KW  - Reading
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 428.4 .S194r v. 2
+SC  - California
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A1  - Cameron, Mildred M.
+T1  - Reading: grade three
+Y1  - 1961
+D1  - 1961
+SP  - 110
+KW  - Reading
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 428.4 .S194r v. 3
+SC  - California
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A1  - Cameron, Mildred M.
+T1  - Reading: grade four
+Y1  - 1961
+D1  - 1961
+SP  - 102
+KW  - Reading
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 428.4 .S194r v. 4
+SC  - California
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A1  - Cameron, Mildred M.
+T1  - Reading: grade five
+Y1  - 1961
+D1  - 1961
+SP  - 100
+KW  - Reading
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 428.4 .S194r v. 5
+SC  - California
+G2  - 5th
+ER  - 
+
+TY  - BOOK
+A2  - San Diego County (California) Schools
+T1  - Reading, grades one through eight : course of study adopted by San Diego County Board of Education
+Y1  - 1956
+D1  - 11/1956
+SP  - 41
+KW  - Reading
+PB  - San Diego (California) County Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 428.4 .S1941r
+SC  - California
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A1  - Nubling, Lois
+T1  - Corrective reading in the classroom: a handbook for classroom teachers
+Y1  - 1966
+D1  - 1966
+SP  - 80
+KW  - Reading
+PB  - San Luis Obispo County (California) Office of Education
+CY  - San Luis Obispo, CA
+LA  - English
+CN  - 428.4 .S195c
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - San Luis Obispo County (California) Schools
+T1  - Four paths to reading
+Y1  - 1965
+D1  - 1965
+SP  - 82
+KW  - Reading
+PB  - San Luis Obispo County (California) Schools
+CY  - San Luis Obispo, CA
+LA  - English
+CN  - 428.4 .S195f v. 1
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - San Luis Obispo County (California) Schools
+T1  - Four paths to reading: kit: basic reading
+KW  - Reading
+AB  - "Suggested weekly schedule for basic textbooks" - "Suggestions on how to find a child's reading level" - "Individual reading record" - "Independent reading activities" by Constance M. McCullough
+PB  - San Luis Obispo County (California) Schools
+CY  - San Luis Obispo, CA
+LA  - English
+CN  - 428.4 .S195f v. 2
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - San Luis Obispo County (California) Schools
+T1  - Four paths to reading: kit: language experience reading
+KW  - Reading
+AB  - "A sample week in the 'reading block' for language experience approach" - "The language-experience approach to reading instruction" by R. Van Allen and Gladys C. Halvorsen
+PB  - San Luis Obispo County (California) Schools
+CY  - San Luis Obispo, CA
+LA  - English
+CN  - 428.4 .S195f v. 3
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Van Allen, R.
+A1  - Halvorsen, Gladys C.
+T1  - The language-experience approach to reading instruction
+Y1  - 1964
+D1  - 1964
+SP  - 6
+KW  - Reading
+T2  - Ginn and company contributions in reading
+V1  - 27
+PB  - Ginn and Company
+CY  - Palo Alto, CA
+LA  - English
+CN  - 428.4 .S195f v. 3
+ER  - 
+
+TY  - BOOK
+A1  - McCullough, Constance M.
+T1  - Independent reading activities
+Y1  - 1965
+D1  - 1965
+SP  - 11
+KW  - Reading
+T2  - Ginn and company contributions in reading
+V1  - 10
+PB  - Ginn and Company
+CY  - Palo Alto, CA
+LA  - English
+CN  - 428.4 .S195f v. 2
+ER  - 
+
+TY  - BOOK
+A2  - San Luis Obispo County (California) Schools
+T1  - Four paths to reading: kit: self-selection reading
+KW  - Reading
+AB  - "Idea file: book reports" - "Idea file: sample records" - "Suggested weekly schedule--for self-selection program" - "Developmental tasks in dictionary mastery" - "Word lists"
+PB  - San Luis Obispo County (California) Schools
+CY  - San Luis Obispo, CA
+LA  - English
+CN  - 428.4 .S195f v. 4
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - San Luis Obispo County (California) Schools
+T1  - Four paths to reading: kit: self-selection reading
+KW  - Reading
+AB  - "Check list for evaluating a program" by Milton H. Maier, Lawrence M. Stolurow, and Paul I. Jacobs - National Conference on the Selection and Use of Programed Instruction: "Programed reading kit" - "Some concerns of educators with reference to programed instruction" - Television and Programed Learning Materials" "Programed reading kit" - "Teaching machines and programed reading instruction"
+PB  - San Luis Obispo County (California) Schools
+CY  - San Luis Obispo, CA
+LA  - English
+CN  - 428.4 .S195f v. 5
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Komoski, P. Kenneth
+T1  - Teaching machines and programed reading instruction
+SP  - 14
+KW  - Reading
+KW  - Teaching machines
+KW  - Programmed instruction
+N1  - "An address presented by P. Kenneth Komoski, President, The Center for Programed Instruction, New York, at the 25th Annual Reading Conference, University of Chicago"
+LA  - English
+CN  - 428.4 .S195f v. 5
+ER  - 
+
+TY  - BOOK
+A1  - Carpenter, C. R.
+T1  - Television and programed learning materials: programed reading kit
+Y1  - 1963
+D1  - 06/1963
+SP  - 5
+KW  - Reading
+KW  - Programmed instruction
+N1  - "Prepared for Nat'l Conf. on Sel'ctn & Use of Prog. Instr., June 27, 1963"
+PB  - San Luis Obispo County (California) Schools
+CY  - San Luis Obispo, CA
+LA  - English
+CN  - 428.4 .S195f v. 5
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Maier, Milton H.
+A1  - Stolurow, Lawrence M.
+A1  - Jacobs, Paul I.
+T1  - Check list for evaluating a program
+Y1  - 1963
+D1  - 03/1963
+SP  - 6
+KW  - Evaluation
+KW  - Reading
+KW  - Programmed instruction
+N1  - "Prepared under a grant from the Carnegie Corporation of New York to Educational Testing Service." "An excerpt from The schoolman's guide to programed instruction."
+PB  - Educational Testing Service
+CY  - Princeton, NJ
+LA  - English
+CN  - 428.4 .S195f v. 5
+ER  - 
+
+TY  - BOOK
+A2  - San Jose (California) Unified School District
+T1  - A guide for the teaching of reading
+Y1  - 1950
+D1  - 1949-1950
+SP  - 93
+KW  - Reading
+T2  - San Jose (California) Unified School District. Reading monograph
+V1  - V30
+PB  - San Jose (California) Unified School District
+CY  - San Jose, CA
+LA  - English
+CN  - 428.4 .S195g
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - San Jose (California) Unified School District
+T1  - Reading level lists, grades vii-viii
+Y1  - 1952
+D1  - 1952
+SP  - 9
+KW  - Reading
+T2  - San Jose (California) Unified School District. Curriculum monograph
+V1  - 91
+PB  - San Jose (California) Unified School District
+CY  - San Jose, CA
+LA  - English
+CN  - 428.4 .S195r
+SC  - California
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Santa Clara County (California) Office of Education
+T1  - Informal reading inventory keyed to Harper-Row
+Y1  - 1970
+D1  - 06/1970
+SP  - 59
+KW  - Reading
+T2  - California reading series
+PB  - Santa Clara County (California) Office of Education
+LA  - English
+CN  - 428.4 .S23i
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Shasta County (California) Superintendent of Schools
+T1  - Guide to individualized reading
+Y1  - 1958
+D1  - 01/1958
+SP  - 27
+KW  - Reading
+KW  - Individualized instruction
+PB  - Shasta County (California) Superintendent of Schools
+CY  - Redding, CA
+LA  - English
+CN  - 428.4 .S53g
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Sheboygan (Wisconsin) Public Schools
+T1  - Elementary reading
+Y1  - 1962
+D1  - 1962
+SP  - 51
+KW  - Reading
+PB  - Sheboygan (Wisconsin) Public Schools
+CY  - Sheboygan, WI
+LA  - English
+CN  - 428.4 .S539e
+SC  - Wisconsin
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Shoreline School District No. 412 (Seattle, Washington)
+T1  - Phonics: a resource bulletin for the elementary grades
+Y1  - 1955
+D1  - 1955
+SP  - 86
+KW  - Phonetics
+KW  - Reading
+PB  - Shoreline School District No. 412
+CY  - Seattle, WA
+LA  - English
+CN  - 428.4 .S55p
+SC  - Washington
+G1  - Elementary
+ER  -   
+
+TY  - BOOK
+A2  - South Carolina State Department of Education
+T1  - Teaching reading in South Carolina secondary schools : curriculum planning guide
+Y1  - 1969
+D1  - 1969
+SP  - 132
+KW  - Reading
+KW  - Curricula
+N1  - iv; ges : illustrations ; 28 cm; Note(s): Includes bibliographical references.; Responsibility: [edited by Toni Child ; designed by John Conyers].
+PB  - South Carolina State Department of Education
+CY  - Columbia, SC
+LA  - English
+CN  - 428.4 .S71t
+SC  - South Carolina
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Southern Humboldt (California) Unified School District
+T1  - Southern Humboldt achievement reading plan
+Y1  - 1960
+D1  - 1960
+SP  - 62
+KW  - Reading
+N1  - 62 p. 28 cm.
+PB  - Southern Humboldt (California) Unified School District
+CY  - Miranda, CA
+LA  - English
+CN  - 428.4 .S73s
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Stoneham (Massachusetts) Public Schools
+T1  - Stoneham reading for pleasure program
+Y1  - 1967
+D1  - 1967
+SP  - 112
+KW  - Reading
+PB  - Stoneham (Massachusetts) Public Schools
+CY  - Stoneham, MA
+LA  - English
+CN  - 428.4 .S87r
+SC  - Massachusetts
+ER  - 
+
+TY  - BOOK
+A2  - Shorewood (Wisconsin) Public Schools
+T1  - Kindergarten education and the reading program
+SP  - 73
+KW  - Reading
+PB  - Shorewood (Wisconsin) Public Schools
+CY  - Shorewood, WI
+LA  - English
+CN  - 428.4 .S559r v. 1
+SC  - Wisconsin
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - Shorewood (Wisconsin) Public Schools
+T1  - A reading guide for primary teachers
+Y1  - 1958
+D1  - 1958
+KW  - Reading
+PB  - Shorewood (Wisconsin) Public Schools
+CY  - Shorewood, WI
+LA  - English
+CN  - 428.4 .S559r v. 2
+SC  - Wisconsin
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Shorewood (Wisconsin) Public Schools
+T1  - A reading guide for intermediate teachers
+Y1  - 1958
+D1  - 09/1958
+KW  - Reading
+T2  - Shorewood (Wisconsin) Public Schools. Bulletin.
+V1  - 16
+PB  - Shorewood (Wisconsin) Public Schools
+CY  - Shorewood, WI
+LA  - English
+CN  - 428.4 .S559r v. 3
+SC  - Wisconsin
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Shorewood (Wisconsin) Public Schools
+T1  - A reading guide for junior and senior high teachers
+Y1  - 1958
+D1  - 06/1958
+KW  - Reading
+T2  - Shorewood (Wisconsin) Public Schools. Bulletin.
+V1  - 15
+PB  - Shorewood (Wisconsin) Public Schools
+CY  - Shorewood, WI
+LA  - English
+CN  - 428.4 .S559r v. 4
+SC  - Wisconsin
+G1  - Middle school
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Dobson, Patricia
+A1  - Leonard, Emily
+A1  - Stacy, Gertrude
+A1  - Tenneson, Deloris
+T1  - Reading skills, first through eighth grade
+Y1  - 1958
+D1  - 1958-1959
+SP  - 30
+KW  - Reading
+PB  - Sunnyvale (California) School District
+CY  - Sunnyvale, CA
+LA  - English
+CN  - 428.4 .S94r
+SC  - California
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - The Elementary reading program
+Y1  - 1975
+D1  - 1975
+SP  - 60
+KW  - Reading
+N1  - vi; ill. ; 28 cm.; Note(s): Bibliography: p. 58-60.
+T2  - Texas Education Agency. Bulletin
+V1  - 745
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 428.4 .T35e
+SC  - Texas
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - The improvement of reading in the secondary school
+Y1  - 1974
+D1  - 1973
+SP  - 79
+KW  - Reading
+N1  - vii; 25 cm.; Note(s): Bibliography: p. 69-71.
+T2  - Texas Education Agency. Bulletin
+V1  - 719
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 428.4 .T35i
+SC  - Texas
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Thornton, Robert D.
+T1  - Developmental reading in Texas secondary schools, January, 1957
+Y1  - 1957
+D1  - 06/1957
+SP  - 29
+KW  - Reading
+N1  - 28 p. ; 23 cm.; Note(s): Includes bibliographical references (p. 27-28).; Responsibility: Robert D. Thornton.
+T2  - Research study (Texas Study of Secondary Education)
+V1  - 23
+PB  - Texas Study of Secondary Education
+CY  - Austin, TX
+LA  - English
+CN  - 428.4 .T355d
+SC  - Texas
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Scobey, Mary-Margaret
+T1  - Suggestions for independent activities
+SP  - 37
+KW  - Reading
+KW  - Individualized instruction
+PB  - Syracuse University
+CY  - Syracuse, NY
+LA  - English
+CN  - 428.4 .S99s
+ER  - 
+
+TY  - BOOK
+A2  - Tillamook (Oregon) School District No. 9
+T1  - Reading - scope and sequence, grades one through twelve
+Y1  - 1955
+D1  - 1955-1956
+KW  - Reading
+PB  - Tillamook (Oregon) School District No. 9
+CY  - Tillamook, OR
+LA  - English
+CN  - 428.4 .T57r
+SC  - Oregon
+ER  - 
+
+TY  - BOOK
+A2  - Tulare County (California) Schools
+T1  - Reading readiness in the primary grades
+D1  - 1960s
+KW  - Reading
+T2  - Reading, listening, speaking, writing
+T2  - Tulare County (California) Schools. Language arts bulletin
+V1  - 1
+PB  - Tulare County (California) Schools
+CY  - Visalia, CA
+LA  - English
+CN  - 428.4 .T91r v. 1
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Tulare County (California) Schools
+T1  - Experiences charts
+D1  - 1960s
+SP  - 6
+KW  - Reading
+T2  - Reading, listening, speaking, writing
+T2  - Tulare County (California) Schools. Language arts bulletin
+V1  - 2
+PB  - Tulare County (California) Schools
+CY  - Visalia, CA
+LA  - English
+CN  - 428.4 .T91r v. 2
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Tulare County (California) Schools
+T1  - Phonics in the elementary schools
+D1  - 1960s
+SP  - 11
+KW  - Reading
+KW  - Phonetics
+T2  - Reading, listening, speaking, writing
+T2  - Tulare County (California) Schools. Language arts bulletin
+V1  - 3
+PB  - Tulare County (California) Schools
+CY  - Visalia, CA
+LA  - English
+CN  - 428.4 .T91r v. 3
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Vallejo (California) Unified School District
+T1  - Course of study in reading, kindergarten through sixth grade
+Y1  - 1962
+D1  - 06/1962
+SP  - 30
+KW  - Reading
+PB  - Vallejo (California) Unified School District
+CY  - Vallejo, CA
+LA  - English
+CN  - 428.4 .V18c
+SC  - California
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A1  - Veatch, Jeannette
+A1  - Goodrich, Warren
+T1  - How to teach reading with children's books
+Y1  - 1964
+D1  - 1964
+KW  - Reading
+KW  - Children's literature
+N1  - ill. : 22x23 cm.; Note(s): Bibliography: p. [29]; Responsibility: words by Jeannette Veatch ; pictures by Warren Goodrich.
+PB  - Teachers College, Bureau of Publications
+CY  - New York, NY
+LA  - English
+CN  - 428.4 .V39h
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Ventura County (California) Board of Education
+T1  - Enriching the curriculum in reading
+Y1  - 1956
+D1  - 08/1956
+SP  - 29
+KW  - Reading
+PB  - Ventura County (California) Board of Education
+CY  - Ventura, CA
+LA  - English
+CN  - 428.4 .V46e
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Wayne (Michigan) Community School District
+T1  - Our secondary schools teach reading: a curriculum guide for secondary teachers, grades 7-12
+Y1  - 1959
+D1  - 10/1959
+SP  - 103
+KW  - Reading
+PB  - Wayne (Michigan) Community School District
+CY  - Wayne, MI
+LA  - English
+CN  - 428.4 .W35o
+SC  - Michigan
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Western New York School Study Council
+T1  - Teachers and the reading problem
+Y1  - 1955
+D1  - 1955
+SP  - 73
+KW  - Reading
+N1  - ill. ; 27 cm.; Note(s): "A checklist of reading instructional practices": 15 p. inserted./ Includes bibliographical references (p. 55-73).; Responsibility: prepared by the Reading Committee of the Western New York School Study Council.
+PB  - University of Buffalo
+CY  - Buffalo, NY
+LA  - English
+CN  - 428.4 .W52t
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - Western New York School Study Council
+T1  - A check-list of reading instructional practices
+Y1  - 1955
+D1  - 1955
+SP  - 15
+KW  - Reading
+PB  - University of Buffalo
+CY  - Buffalo, NY
+LA  - English
+CN  - 428.4 .W52t
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - Wichita (Kansas) Public Schools. Curriculum Services Division. Reading Department
+T1  - Secondary reading handbook
+Y1  - 1969
+D1  - 1969
+SP  - 73
+KW  - Reading
+N1  - pages ; cm.; Note(s): "Wichita Unified District"--Cover.
+T2  - Wichita Public Schools. Publication
+V1  - 259
+PB  - Wichita (Kansas) Public Schools
+CY  - Wichita, KS
+LA  - English
+CN  - 428.4 .W63s
+SC  - Kansas
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Ord, John
+A2  - Yolo County (California) Schools
+T1  - Developmental reading program, grades 1-8
+Y1  - 1954
+D1  - 07/1954
+KW  - Reading
+PB  - Yolo County (California) Schools
+LA  - English
+CN  - 428.4 .Y54d 1954
+SC  - California
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A1  - Ord, John
+A1  - Amos, Vanna Mae
+A2  - Yolo County (California) Schools
+T1  - Developmental reading program, grades 1-8
+Y1  - 1955
+D1  - 07/1955
+KW  - Reading
+PB  - Yolo County (California) Schools
+LA  - English
+CN  - 428.4 .Y54d 1955
+SC  - California
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  - 
+

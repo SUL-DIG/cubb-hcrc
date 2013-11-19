@@ -1,0 +1,2039 @@
+
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Literature, curriculum guide for teaching gifted children literature in grades one through three
+Y1  - 1970
+D1  - 1970
+SP  - 43
+KW  - Literature
+KW  - Gifted children
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 371.9 .C15tgL 1970 v. 1
+SC  - California
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Literature, curriculum guide for teaching gifted children literature in grades nine through twelve
+Y1  - 1970
+D1  - 1970
+SP  - 40
+KW  - Literature
+KW  - Gifted children
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 371.9 .C15tgL 1970 v. 4a
+SC  - California
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Alameda County (California) Schools
+T1  - Find time for poetry; grades five and six;
+Y1  - 1966
+D1  - 1966
+SP  - 35
+KW  - Poetry
+N1  - 35 p. illus. (some col.) 28 cm.; Note(s): Includes bibliographical references.; Responsibility: developed by the Oakland Unified Scfhool District ... approved by the Alameda County Board of Education ...
+PB  - Alameda County (California) Schools
+CY  - Hayward, CA
+LA  - English
+CN  - 428.5 .A31f v. 3
+SC  - California
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A1  - Mulera, Bernadette
+T1  - Teachers' guide for literature study - seventh grade
+Y1  - 1963
+D1  - 09/1963
+KW  - Literature
+PB  - Albany (California) City Schools
+CY  - Albany, CA
+LA  - English
+CN  - 428.5 .A32t
+SC  - California
+G2  - 7th
+ER  -
+
+TY  - BOOK
+A2  - Association for Childhood Education International
+T1  - Bibliography of books for children
+Y1  - 1971
+D1  - 1971
+SP  - 130
+KW  - Children's literature
+KW  - Bibliography
+N1  - 130 p. ; 23 cm.; Other Titles: Books for children.
+T2  - Association for Childhood Education International.; Bulletin 1970-71.
+PB  - Association for Childhood Education International
+CY  - Washington, DC
+LA  - English
+CN  - 428.5 .A84b 1971
+ER  - 
+
+TY  - BOOK
+A2  - Beverly Hills (California) Unified School District
+T1  - The world of books
+Y1  - 1962
+D1  - 1962
+KW  - Children's literature
+KW  - Bibliography
+KW  - Libraries
+N1  - 3 pts. in 1 v. 28 cm.; Note(s): Cover title./ "Library bulletins."
+ED  - Rev
+PB  - Beverly Hills (California) Unified School District
+CY  - Beverly Hills, CA
+LA  - English
+CN  - 428.5 .B57w
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California Library Association
+T1  - Choosing the right book: a list for teachers and librarians to use with children having little interest in reading
+Y1  - 1966
+D1  - 1966
+SP  - 10
+KW  - Children's literature
+PB  - California Library Association
+CY  - Berkeley, CA
+LA  - England
+CN  - 428.5 .C151c
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Cincinnati (Ohio) Public Schools
+T1  - Supplementary books list, kindergarten - grade 12
+Y1  - 1955
+D1  - 1955
+SP  - 197
+KW  - Literature
+KW  - Bibliography
+PB  - Cincinnati (Ohio) Public Schools
+CY  - Cincinnati, OH
+LA  - English
+CN  - 428.5 .C57s
+SC  - Ohio
+ER  - 
+
+TY  - BOOK
+A2  - Cleveland Heights (Ohio) Public Schools
+T1  - A guide for the teaching of reading and literature in grades iv, v, & vi
+Y1  - 1957
+D1  - 09/1957
+SP  - 30
+KW  - Reading
+KW  - Literature
+PB  - Cleveland Heights (Ohio) Public Schools
+CY  - Cleveland Heights, OH
+LA  - English
+CN  - 428.5 .C63g
+SC  - Ohio
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOKs
+A2  - Comics Magazine Association of America, Inc.
+T1  - Facts about code-approved comics magazines
+SP  - 32
+KW  - Comic books, strips, etc.
+PB  - Comics Magazine Association of America, Inc.
+CY  - New York, NY
+LA  - English
+CN  - 428.5 .C732f
+ER  - 
+
+TY  - BOOKS
+A2  - Cranford (New Jersey) Public Schools
+T1  - Guide to the study of literature, grades 7-12
+Y1  - 1966
+D1  - 03/1966
+SP  - 14
+KW  - Literature
+PB  - Cranford (New Jersey) Public Schools
+CY  - Cranford, NJ
+LA  - English
+CN  - 428.5 .C89g
+SC  - New Jersey
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A1  - Mills, Joyce White
+T1  - The Black world in literature for children : a bibliography of print and non-print materials
+Y1  - 1975
+D1  - 1975
+SP  - 42
+KW  - African Americans
+KW  - Juvenile literature
+KW  - Bibliography
+KW  - Blacks
+KW  - Africa
+N1  - iii; ill. ; 23 cm.; Note(s): Includes index.; Responsibility: edited by Joyce White Mills.
+PB  - Atlanta University, School of Library Service
+CY  - Atlanta, GA
+LA  - English
+CN  - 428.5 .A88b
+ER  - 
+
+TY  - BOOK
+A2  - Dade County (Florida) Public Schools
+T1  - Black literature for the senior high school : supplement to curriculum bulletin 6D
+Y1  - 1970
+D1  - 1970
+SP  - 38
+KW  - American literature
+KW  - African American authors
+KW  - African Americans
+N1  - 38 p. ; 28 cm.; Note(s): Includes bibliographical references.
+PB  - Dade County (Florida) School Board
+CY  - Miami, FL
+LA  - English
+CN  - 428.5 .D12b v. 2
+SC  - Florida
+G2  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Dade County (Florida) Public Schools
+T1  - Black literature for the junior high school : supplement to curriculum bulletin 6J
+Y1  - 1970
+D1  - 1970
+SP  - 26
+KW  - American literature
+KW  - African American authors
+KW  - African Americans
+N1  - 26 p. ; 28 cm.; Note(s): Includes bibliographical references.
+PB  - Dade County (Florida) School Board
+CY  - Miami, FL
+LA  - English
+CN  - 428.5 .D12b v. 1
+SC  - Florida
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Association for Childhood Education International
+T1  - Bibliography of books for children
+Y1  - 1962
+D1  - 1962
+SP  - 131
+KW  - Children's literature
+KW  - Bibliography
+N1  - 131 p. 23 cm.
+T2  - Association for Childhood Education International. Bulletin
+V1  - 37
+PB  - Association for Childhood Education International
+CY  - Washington, DC
+LA  - English
+CN  - 428.5 .A84b 1962
+ER  - 
+
+TY  - BOOK
+A2  - Special Committee on the National Congress of Parents and Teachers and the Children's Services Division, American Library Association
+T1  - Let's read together; books for family enjoyment
+Y1  - 1964
+D1  - 1964
+SP  - 91
+KW  - Children's literature
+KW  - Bibliography
+N1  - ix; illus. 22 cm.
+ED  - 2d
+PB  - American Library Association
+CY  - Chicago, IL
+LA  - English
+CN  - 428.5 .A51L
+ER  - 
+
+TY  - BOOK
+A2  - Association for Childhood Education International
+T1  - Adventuring in literature with children
+Y1  - 1953
+D1  - 1953-1954
+KW  - Children's literature
+PB  - Association for Childhood Education International
+CY  - Washington, DC
+LA  - English
+CN  - 428.5 .A84a
+ER  - 
+
+TY  - BOOK
+A1  - Benedict, Stewart H.
+T1  - A teacher's guide to modern drama
+Y1  - 1967
+D1  - 11/1967
+SP  - 268
+KW  - Drama in education
+N1  - 268 p. ; 18 cm.; Note(s): Also issued online.; Responsibility: compiled by Stewart H. Benedict.
+PB  - Dell Publishing Co.
+CY  - New York, NY
+LA  - English
+CN  - 428.5 .D33t v. 3
+ER  - 
+
+TY  - BOOK
+A1  - Benedict, Stewart H.
+T1  - A teacher's guide to senior high school literature
+Y1  - 1966
+D1  - 12/1966
+SP  - 315
+KW  - American literature
+KW  - English literature
+N1  - 315 p. 18 cm.; Note(s): Includes bibliographical references.; Other Titles: Senior high school literature.; Responsibility: compiled by Stewart H. Benedict.
+T2  - Laurel-leaf library
+PB  - Dell Publishing Co.
+CY  - New York, NY
+LA  - English
+CN  - 428.5 .D33t v. 2
+ER  - 
+
+TY  - BOOK
+A2  - Dallas (Texas) Independent School District
+T1  - Language arts for secondary schools: reading list for the junior high school
+Y1  - 1957
+D1  - 1957
+SP  - 63
+KW  - Children's literature
+KW  - Bibliography
+N1  - v. 21 cm; Responsibility: Authorized by the Board of Education.
+PB  - Dallas (Texas) Independent School District
+CY  - Dallas, TX
+LA  - English
+CN  - 428.5 .D14L v. 1
+SC  - Texas
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Denver (Colorado) Public Schools
+T1  - Literature guide for use in junior high schools : (tentative form)
+Y1  - 1951
+D1  - 1951
+SP  - 135
+KW  - Literature
+N1  - viii; ; 23 cm.; Note(s): Cover title./ Includes bibliographical references.; Responsibility: Denver Public Schools.
+PB  - Denver (Colorado) Public Schools
+CY  - Denver, CO
+LA  - English
+CN  - 428.5 .D41L
+SC  - Colorado
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Detroit (Michigan) Public Schools
+T1  - Teacher's guide for American Negro poetry
+Y1  - 1968
+D1  - 1968
+SP  - 60
+KW  - American poetry
+KW  - African American authors
+KW  - Poetry
+N1  - 60 p. ; 28 cm.
+PB  - Detroit (Michigan) Public Schools
+CY  - Detroit, MI
+LA  - English
+CN  - 428.5 .D48t
+SC  - Michigan
+ER  - 
+
+TY  - BOOK
+A2  - Flint (Michigan) Public Schools
+T1  - Finger plays for kindergarten children
+Y1  - 1956
+D1  - 1956
+SP  - 9
+KW  - Drama in education
+PB  - Flint (Michigan) Public Schools
+CY  - Flint, MI
+LA  - English
+CN  - 428.5 .F52f
+SC  - Michigan
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A1  - Tremaine, Claire
+A2  - Grossmont (California) Union High School District
+T1  - World history and world literature for the gifted student
+Y1  - 1962
+D1  - 1962?
+SP  - 73
+KW  - Gifted children
+KW  - History
+KW  - Curricula
+KW  - Literature
+N1  - 73 l. 29 cm.; Responsibility: [Prepared by Claire Tremaine.
+PB  - Grossmont (California) Union High School District
+CY  - Grossmont, CA
+LA  - English
+CN  - 428.5 .G87w
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Houston (Texas) Independent School District
+T1  - The Study of literature in grade six
+Y1  - 1968
+SP  - 30
+KW  - Literature
+T2  - Houston Independent School District.; Curriculum bulletin 
+V1  - 68CBM12
+PB  - Houston (Texas) Independent School District
+CY  - Houston, TX
+LA  - English
+CN  - 428.5 .H84s
+SC  - Texas
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A1  - MacVean, Donald S.
+T1  - Books of high interest and low vocabulary levels in the libraries of Burris Laboratory School and Ball State Teachers College
+Y1  - 1956
+D1  - 09/1956
+SP  - 39
+KW  - High interest-low vocabulary books
+KW  - Bibliography
+T2  - Ball State Teaching College Library. Bibliography
+V1  - 15
+PB  - Ball State Teaching College Library
+CY  - Muncie, IN
+LA  - English
+CN  - 428.5 .I39b
+SC  - Indiana
+ER  - 
+
+TY  - BOOK
+A1  - Hall, Elvajean
+T1  - Personal problems of children
+KW  - Bibliography
+KW  - Children's literature
+PB  - Newton (Massachusetts) Public Schools
+CY  - Newton, MA
+LA  - English
+CN  - 428.5 .H17r v. 1
+SC  - Massachusetts
+ER  - 
+
+TY  - BOOK
+A1  - Hall, Elvajean
+T1  - At home in the universe
+KW  - Science
+KW  - Bibliography
+KW  - Children's literature
+PB  - Newton (Massachusetts) Public Schools
+CY  - Newton, MA
+LA  - English
+CN  - 428.5 .H17r v. 2
+SC  - Massachusetts
+ER  - 
+
+TY  - BOOK
+A1  - Hall, Elvajean
+T1  - Picture books and easy reading
+KW  - Bibliography
+KW  - Children's literature
+PB  - Newton (Massachusetts) Public Schools
+CY  - Newton, MA
+LA  - English
+CN  - 428.5 .H17r v. 3
+SC  - Massachusetts
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Hall, Elvajean
+T1  - Let's read together: a selected list of read-aloud books for group and family fun
+KW  - Bibliography
+KW  - Children's literature
+PB  - Newton (Massachusetts) Public Schools
+CY  - Newton, MA
+LA  - English
+CN  - 428.5 .H17r v. 4
+SC  - Massachusetts
+ER  - 
+
+TY  - BOOK
+A1  - Hill, Janet
+T1  - Books for children: the homelands of immigrants in Britain: Africa, Cyprus, India and Pakistan, Ireland, Italy, Poland, Turkey, the West Indies
+Y1  - 1971
+D1  - 1971
+SP  - 85
+KW  - Children's literature
+KW  - Bibliography
+KW  - Ethnology
+KW  - Children of immigrants
+N1  - 85 p. 21 cm.
+T2  - Institute of Race Relations. Special series
+PB  - Institute of Race Relations
+CY  - London, UK
+LA  - English
+CN  - 428.5 .I59b
+SC  - United Kingdom
+ER  - 
+
+TY  - BOOK
+A2  - Lakewood (Ohio) Public Schools
+T1  - A program in literature appreciation for the upper elementary grades: grade four
+Y1  - 1956
+D1  - Fall, 1956
+KW  - Literature
+ED  - Rev.
+PB  - Lakewood (Ohio) Public Schools
+CY  - Lakewood, OH
+LA  - English
+CN  - 428.5 .L19p v. 1
+SC  - Ohio
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Lakewood (Ohio) Public Schools
+T1  - A program in literature appreciation for the upper elementary grades: grade five
+Y1  - 1956
+D1  - Fall, 1956
+KW  - Literature
+ED  - Rev.
+PB  - Lakewood (Ohio) Public Schools
+CY  - Lakewood, OH
+LA  - English
+CN  - 428.5 .L19p v. 2
+SC  - Ohio
+G2  - 5th
+ER  - 
+
+TY  - BOOK
+A2  - Lakewood (Ohio) Public Schools
+T1  - A program in literature appreciation for the upper elementary grades: grade six
+Y1  - 1956
+D1  - Fall, 1956
+KW  - Literature
+ED  - Rev.
+PB  - Lakewood (Ohio) Public Schools
+CY  - Lakewood, OH
+LA  - English
+CN  - 428.5 .L19p v. 3
+SC  - Ohio
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A1  - Anderson, Jo Ann
+A1  - Bush, Clara A.
+A1  - Taylor, Mary G.
+A1  - Spencer, Princess
+A1  - Wilson, Ella B.
+T1  - Outline for primary literature
+Y1  - 1956
+D1  - 1956
+SP  - 43
+KW  - Literature
+PB  - Lexington Public Schools
+LA  - English
+CN  - 428.5 .L67o
+G1  - Elementary
+ER  -
+
+TY  - BOOK
+A1  - Dodson, Mary G.
+A1  - Hill, Juanita
+A1  - Mathews, Virginia H.
+A1  - White, Joan L.
+T1  - Guide to the sixth grade literature program
+Y1  - 1961
+D1  - 1961
+SP  - 79
+KW  - Literature
+N1  - 79 p. ; 28 cm.; Note(s): Includes bibliographical references.; Responsibility: prepared by Mary G. Dodson ... [et al.].
+PB  - Long Beach (California) Unified School District
+CY  - Long Beach, CA
+LA  - English
+CN  - 428.5 .L84g
+SC  - California
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles County (California) Superintendent of Schools
+T1  - Books authorized by the Board of Education for use in Los Angeles County schools
+Y1  - 1953
+D1  - 02/1953
+SP  - 15
+KW  - Literature
+PB  - Los Angeles County (California) Superintendent of Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 428.5 .L87b
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Long Beach (California) Unified School District
+T1  - Guide to the fifth grade literature program. Part 1, The program
+Y1  - 1966
+D1  - 1966
+SP  - 57
+KW  - Literature
+PB  - Long Beach (California) Unified School District
+CY  - Long Beach, CA
+LA  - English
+CN  - 428.5 .L84f
+SC  - California
+G2  - 5th
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District. Library Section
+T1  - Books to enjoy in the elementary school
+Y1  - 1958
+D1  - 1958
+SP  - 58
+KW  - Children's literature
+KW  - Bibliography
+KW  - Elementary school libraries
+T2  - Los Angeles City Schools. Division of Instructional Services. Instructional Aids and Services Branch. Publication
+V1  - 458
+PB  - Los Angeles (California) City Schools, Library Section
+CY  - Los Angeles, CA
+LA  - English
+CN  - 428.5 .L879b 1958
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District. Library Section
+T1  - Books to enjoy in the elementary school
+Y1  - 1961
+D1  - 1961
+SP  - 158
+KW  - Children's literature
+KW  - Bibliography
+KW  - Elementary school libraries
+T2  - Los Angeles City Schools. Division of Instructional Services. Instructional Aids and Services Branch. Publication
+V1  - 458
+VL  - Rev.
+PB  - Los Angeles (California) City Schools, Library Section
+CY  - Los Angeles, CA
+LA  - English
+CN  - 428.5 .L879b 1961
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Rubinstein, Joseph
+A1  - Farley, Earl
+A2  - University of Kansas Libraries
+T1  - He who destroyes a good booke, kills reason it selfe : an exhibition of books which have survived fire, the sword and the censors
+Y1  - 1955
+D1  - 1955
+SP  - 27
+KW  - Prohibited books
+N1  - ill. ; 23 cm.; Note(s): Includes bibliographical references./ Also issued online.; Responsibility: [compilers, Joseph Rubinstein and Earl Farley].
+PB  - University of Kansas Libraries
+CY  - Lawrence, KS
+LA  - English
+CN  - 428.5 .K17h
+SC  - Kansas
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District
+T1  - Far out : some approaches to teaching the speculative literature of science fiction and the supernatural
+Y1  - 1974
+D1  - 1974
+SP  - 120
+KW  - Science fiction
+KW  - Supernatural in literature
+N1  - iv; ; 21 cm.; Note(s): Cover title./ Includes bibliographical references.; Responsibility: Los Angeles School District, Instructional Planning Division.
+T2  - Los Angeles City School District.; Instructional Planning Division.; Publication
+V1  - SC-723.
+PB  - Los Angeles (California) City School District
+CY  - Los Angeles, CA
+LA  - English
+CN  - 428.5 .L879f
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District
+T1  - Reading for the gifted: guided extension of reading skills through literature, part IV
+Y1  - 1969
+D1  - 1969
+SP  - 110
+KW  - Reading
+KW  - Gifted children
+T2  - Los Angeles (California) City School District. Publication
+V1  - EC-132
+PB  - Los Angeles (California) City School District
+CY  - Los Angeles, CA
+LA  - English
+CN  - 428.5 .L879r v. 4
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District
+T1  - Reading for the gifted: guided extension of reading skills through literature, part V
+Y1  - 1969
+D1  - 1969
+SP  - 84
+KW  - Reading
+KW  - Gifted children
+N1  - Los Angeles (California) City School District. Publication
+V1  - EC-133
+PB  - Los Angeles (California) City School District
+CY  - Los Angeles, CA
+LA  - English
+CN  - 428.5 .L879r v. 5
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District
+T1  - Reading for the gifted: guided extension of reading skills through literature. Part I: appreciating the contributions of one author
+Y1  - 1966
+D1  - 1966
+SP  - 104
+KW  - Reading
+KW  - Gifted children
+KW  - Children's literature
+T2  - Los Angeles (California) City School District. Instructional bulletin no. 
+V1  - EC-112
+PB  - Los Angeles (California) City School District
+CY  - Los Angeles, CA
+LA  - English
+CN  - 428.5 .L879r v. 1
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) Unified School District
+T1  - Rx for instant poets
+Y1  - 1974
+D1  - 1974
+SP  - 10
+KW  - Poetry
+N1  - ill. ; 25 cm.; Note(s): Cover title.; Responsibility: Instructional Planning Division, Los Angeles City Schools.
+T2  - Los Angeles (California) City Schools. Publication
+V1  - GC-22
+PB  - Los Angeles (California) City Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 428.5 .L879rp
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Louisiana State Department of Education
+T1  - Books suitable for use in schools : grades 1-12
+Y1  - 1957
+D1  - 1957-1958
+SP  - 72
+KW  - Children's literature
+KW  - Bibliography
+N1  - 72 pages ; 28 cm.; Responsibility: issued by Shelby M. Jackson, superintendent.
+T2  - Louisiana Dept. of Education. Bulletin
+V1  - 849
+PB  - Louisiana State Department of Education
+CY  - Baton Rouge, LA
+LA  - English
+CN  - 428.5 .L88b 1957/1958
+SC  - Louisiana
+ER  - 
+
+TY  - BOOK
+A2  - Louisiana State Department of Education
+T1  - Books suitable for use in schools : grades 1-12
+Y1  - 1955
+D1  - 1955-1956
+SP  - 54
+KW  - Children's literature
+KW  - Bibliography
+N1  - 54 pages ; 28 cm.; Responsibility: issued by Shelby M. Jackson, superintendent.
+T2  - Louisiana Dept. of Education. Bulletin
+V1  - 811
+PB  - Louisiana State Department of Education
+CY  - Baton Rouge, LA
+LA  - English
+CN  - 428.5 .L88b 1955/1956
+SC  - Louisiana
+ER  - 
+
+TY  - BOOK
+A2  - Louisiana State Department of Education
+T1  - Books suitable for use in schools : grades 1-12
+Y1  - 1953
+D1  - 11/1953
+SP  - 44
+KW  - Children's literature
+KW  - Bibliography
+N1  - 44 pages ; 28 cm.; Responsibility: issued by Shelby M. Jackson, superintendent.
+T2  - Louisiana Dept. of Education. Bulletin
+V1  - 776
+PB  - Louisiana State Department of Education
+CY  - Baton Rouge, LA
+LA  - English
+CN  - 428.5 .L88b 1953
+SC  - Louisiana
+ER  - 
+
+TY  - BOOK
+A2  - Louisiana State Department of Education
+T1  - Books suitable for use in schools : grades 1-12
+Y1  - 1952
+D1  - 11/1952
+SP  - 73
+KW  - Children's literature
+KW  - Bibliography
+N1  - 73 pages ; 28 cm.; Responsibility: issued by Shelby M. Jackson, superintendent.
+T2  - Louisiana Dept. of Education. Bulletin
+V1  - 756
+PB  - Louisiana State Department of Education
+CY  - Baton Rouge, LA
+LA  - English
+CN  - 428.5 .L88b 1952
+SC  - Louisiana
+ER  - 
+
+TY  - BOOK
+A2  - Madison (Wisconsin) Public Schools. The Children's Books Committee
+T1  - Four feet and a tail: animal stories for elementary grades and junior high school
+Y1  - 1953
+D1  - 1953
+KW  - Children's literature
+PB  - Madison (Wisconsin) Public Schools
+CY  - Madison, WI
+LA  - English
+CN  - 428.5 .M18b v. 1
+SC  - Wisconsin
+G1  - Elementary
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Madison (Wisconsin) Public Schools. The Children's Books Committee
+T1  - Lots of things to make and do: books for hobby-riders
+Y1  - 1950
+D1  - 1950
+KW  - Children's literature
+PB  - Madison (Wisconsin) Public Schools
+CY  - Madison, WI
+LA  - English
+CN  - 428.5 .M18b v. 2
+SC  - Wisconsin
+G1  - Elementary
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Madison (Wisconsin) Public Schools. The Children's Books Committee
+T1  - Around about us: out-of-door books for boys and girls
+Y1  - 1943
+D1  - 1943
+KW  - Children's literature
+PB  - Madison (Wisconsin) Public Schools
+CY  - Madison, WI
+LA  - English
+CN  - 428.5 .M18b v. 3
+SC  - Wisconsin
+G1  - Elementary
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Madison (Wisconsin) Public Schools. The Children's Books Committee
+T1  - For you who love heroic deeds: a book list
+Y1  - 1945
+D1  - 1945
+KW  - Children's literature
+PB  - Madison (Wisconsin) Public Schools
+CY  - Madison, WI
+LA  - English
+CN  - 428.5 .M18b v. 4
+SC  - Wisconsin
+G1  - Elementary
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Madison (Wisconsin) Public Schools. The Children's Books Committee
+T1  - V-cations days: good times in books for boys and girls
+Y1  - 1944
+D1  - 1944
+KW  - Children's literature
+PB  - Madison (Wisconsin) Public Schools
+CY  - Madison, WI
+LA  - English
+CN  - 428.5 .M18b v. 5
+SC  - Wisconsin
+G1  - Elementary
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Madison (Wisconsin) Public Schools. The Children's Books Committee
+T1  - "My country, 'tis of thee": patriotic books for boys and girls
+Y1  - 1943
+D1  - 02/1943
+KW  - Children's literature
+PB  - Madison (Wisconsin) Public Schools
+CY  - Madison, WI
+LA  - English
+CN  - 428.5 .M18b v. 6
+SC  - Wisconsin
+G1  - Elementary
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Metropolitan School Study Council English Committee
+T1  - Using the essay to teach reading, writing, thinking
+Y1  - 1957
+D1  - 1957
+SP  - 32
+KW  - Literature
+PB  - Metropolitan School Study Council English Committee
+LA  - English
+CN  - 428.5 .M59u
+ER  - 
+
+TY  - BOOK
+A2  - Milton (Massachusetts) Secondary Education Board
+T1  - Current books: junior booklist of the Secondary Education Board
+Y1  - 1955
+D1  - 03/1955
+SP  - 39
+KW  - Literature
+PB  - Milton (Massachusetts) Secondary Education Board
+CY  - Milton, MA
+LA  - English
+CN  - 428.5 .M66c
+SC  - Massachusetts
+ER  - 
+
+TY  - BOOK
+A1  - Streed, John
+T1  - The river western: a background to ninth grade literature
+Y1  - 1968
+D1  - 1968-1969
+SP  - 69
+KW  - Literature
+PB  - Minnetonka (Minnesota) School District #276
+CY  - Excelsior, MN
+LA  - English
+CN  - 428.5 .M66r
+SC  - Minnesota
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Modesto (California) City Schools. Secondary School Division
+T1  - Masterpieces of literature, I, II. (H, X)
+Y1  - 1963
+D1  - 1963-1964
+SP  - 17
+KW  - English literature
+N1  - 17 leaves, 29 cm.
+PB  - Modesto (California) City Schools
+CY  - Modesto, CA
+LA  - English
+CN  - 428.5 .M69m v. 1
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Modesto (California) City Schools. Secondary School Division
+T1  - Modern literature, I, II. (X, Y, Z)
+Y1  - 1963
+D1  - 1963-1964
+SP  - 11
+KW  - Literature
+PB  - Modesto (California) City Schools
+CY  - Modesto, CA
+LA  - English
+CN  - 428.5 .M69m v. 2
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Stanislaus County (California) Office of the Superintendent of Schools
+T1  - The English language arts secondary school guide: the reading program--part one, literature
+Y1  - 1957
+D1  - 06/1957
+SP  - 241
+KW  - Literature
+N1  - Jointly sponsored by Secondary School Administrators in Stanislaus County, Stanilaus County Schools [and] Modesto City Schools
+PB  - Stanislaus County (California) Office of the Superintendent of Schools
+CY  - Modesto, CA
+LA  - English
+CN  - 428.5 .M69e v.1
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Stanislaus County (California) Office of the Superintendent of Schools
+T1  - The English language arts secondary school guide: the reading program--part two, Reading instruction.
+SP  - 162
+KW  - Reading
+N1  - 162 p. illus. 28 cm.; Jointly sponsored by Secondary School Administrators in Stanislaus County, Stanilaus County Schools [and] Modesto City Schools; Other Titles: Reading instruction. 
+PB  - Stanislaus County (California) Office of the Superintendent of Schools
+CY  - Modesto, CA
+LA  - English
+CN  - 428.5 .M69e v.2
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Modesto (California) Public Schools. Secondary Schools Division. Curriculum Department
+T1  - English department course of study, eleventh year: American literature
+Y1  - 1951
+D1  - 1951-1952
+KW  - American literature
+PB  - Modesto (California) Public Schools
+CY  - Modesto, CA
+LA  - English
+CN  - 428.5 .M69Li v. 1
+SC  - California
+G2  - 11th
+ER  - 
+
+TY  - BOOK
+A2  - Modesto (California) Public Schools. Secondary Schools Division. Curriculum Department
+T1  - English department course of study, eleventh year: modern literature
+Y1  - 1951
+D1  - 1951
+KW  - Literature
+PB  - Modesto (California) Public Schools
+CY  - Modesto, CA
+LA  - English
+CN  - 428.5 .M69Li v. 2
+SC  - California
+G2  - 11th
+ER  - 
+
+TY  - BOOK
+A2  - Modesto (California) City Schools. Secondary Schools
+T1  - Masterpieces of literature
+Y1  - 1959
+D1  - 06/1959
+SP  - 37
+KW  - Literature
+PB  - Modesto (California) City Schools
+CY  - Modesto, CA
+LA  - English
+CN  - 428.5 .M69m
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Donelson, Kenneth L.
+A2  - National Council of Teachers of English
+T1  - Books for you : a booklist for senior high students
+Y1  - 1976
+SP  - 482
+EP  - 482
+KW  - Young adult literature
+KW  - Bibliography
+KW  - Youth
+KW  - Books and reading
+KW  - High school libraries
+N1  - viii; ; 18 cm.; Note(s): "Sixth edition."/ Includes indexes./ Also issued online.; Responsibility: prepared by Kenneth L. Donelson, editorial chairman, and the Committee on the Senior High School Booklist of the National Council of Teachers of English. 
+ED  - New
+PB  - National Council of Teachers of English
+CY  - Urbana, IL
+LA  - English
+CN  - 428.5 .N27br
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Mountz, Louise Smith
+T1  - Biographies for junior high; a list of biographies and correlated audio-visual aids
+SP  - 52
+KW  - Biography
+KW  - Juvenile literature
+KW  - Bibliography
+KW  - Audio-visual aids
+N1  - 52 p.; Note(s): Reprinted from the Illinois English bulletin./ Cover title.
+PB  - National Council of Teachers of English
+CY  - Champaign, IL
+LA  - English
+CN  - 428.5 .N27b
+ER  - 
+
+TY  - BOOK
+A1  - Sprague, Audrey M.
+A1  - Merritt, John
+A2  - National Book League
+T1  - Fiction for the slow reader : Help in reading, supplement 1: an annotated list
+Y1  - 1970
+D1  - 1970
+SP  - 21
+KW  - Learning disabled children
+KW  - Books and reading
+N1  - 21 p. ; 22 cm.; Other Titles: Help in reading, supplement 1.; Responsibility: selected by Audrey M. Sprague.
+PB  - National Book League
+CY  - London, UK
+LA  - English
+CN  - 428.5 .N268f
+SC  - United Kingdom
+ER  - 
+
+TY  - BOOK
+A1  - Stensland, Anna Lee
+T1  - Literature by and about the American Indian; an annotated bibliography for junior and senior high school students
+Y1  - 1973
+D1  - 1973
+SP  - 208
+KW  - Indians of North America
+KW  - Juvenile literature
+KW  - Bibliography
+PB  - National Council of Teachers of English
+CY  - Urbana, IL
+LA  - English
+CN  - 428.5 .N27i
+G1  - Middle school
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Dodds, Barbara
+T1  - Negro literature for high school students
+Y1  - 1968
+D1  - 1968
+SP  - 157
+KW  - African American authors
+N1  - IX, 157 S; Responsibility: Barbara Dodds
+PB  - National Council of Teachers of English
+CY  - Urbana, IL
+LA  - English
+CN  - 428.5 .N27n
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Crosby, Muriel
+A1  - Hurley, Beatrice Davis
+T1  - Adventuring with books: a reading list for the elementary grades
+Y1  - 1960
+D1  - 1960
+SP  - 189
+KW  - Children's literature
+PB  - National Council of Teachers of English
+CY  - Urbana, IL
+LA  - English
+CN  - 428.5 .N27r 1960 v. 1
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Root, Shelton L.
+T1  - Adventuring with books: 2,400 titles for pre-K-grade 8
+Y1  - 1973
+D1  - 1973
+SP  - 395
+KW  - Children's literature
+ED  - Second
+PB  - National Council of Teachers of English
+CY  - Urbana, IL
+LA  - English
+CN  - 428.5 .N27r 1973 v. 1
+G1  - Elementary
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - National Council of Teachers of English
+T1  - Books for you: a list for leisure reading for use by students in senior high schools
+Y1  - 1956
+D1  - 1956
+SP  - 152
+KW  - Children's literature
+PB  - National Council of Teachers of English
+CY  - Urbana, IL
+LA  - English
+CN  - 428.5 .N27r 1956 v. 3
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Lightfoot, Jean H.
+T1  - Multi-ethnic literature in the high school : a mental health tool
+Y1  - 1973
+D1  - 1973
+SP  - 43
+KW  - American literature
+KW  - Minorities
+KW  - Bibliography
+KW  - Ethnic groups
+KW  - Literature
+KW  - Mental health services
+KW  - School health services
+N1  - vii; ; 27 cm.; Note(s): Bibliography: p. 14-38.; Responsibility: [by] Jean H. Lightfoot.
+T2  - DHEW publication
+V1  - (HSM) 73-9079
+PB  - National Institute of Mental Health, Center for Studies of Child and Family Mental Health
+CY  - Rockville, MD
+LA  - English
+CN  - 428.5 .N276m
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Tyler, Priscilla
+A2  - National Council of Teachers of English
+T1  - Writers the other side of the horizon; a guide to developing literatures of the world
+Y1  - 1964
+SP  - 58
+KW  - English literature
+KW  - Literature
+KW  - Developing countries
+N1  - vii; 25 cm.; Note(s): "With one exception, these papers were given at the 1963 San Francisco convention of the National Council of Teachers of English."/ Includes bibliographical references.
+PB  - National Council of Teachers of English
+CY  - Champaign, IL
+LA  - English
+CN  - 428.5 .N27w
+ER  - 
+
+TY  - BOOK
+A1  - Foster, Florence P
+T1  - Literature and the young child
+Y1  - 1967
+D1  - 03/1967
+SP  - 11
+KW  - Children's literature
+PB  - New Jersey State Department of Education
+CY  - Trenton, NJ
+LA  - English
+CN  - 428.5 .N51L
+SC  - New Jersey
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - New York (New York) Board of Education
+T1  - Materials for the literature program, grades 1-6
+Y1  - 1958
+D1  - 1958
+SP  - 131
+KW  - English literature
+KW  - Bibliography
+N1  - 131 p. 23 cm.; Note(s): Prepared to assist teachers in the selection and use of books and other materials for the teaching of literature.
+T2  - New York (New York) Board of Education. Curriculum bulletin,; 1956-57 ser.
+V1  - 7
+PB  - New York (New York) Board of Education
+CY  - Brooklyn, NY
+LA  - English
+CN  - 428.5 .N53m
+SC  - New York
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - North Dakota State Department of Public Instruction
+T1  - A Literature handbook : for the elementary schools of North Dakota
+Y1  - 1945
+D1  - 1945
+SP  - 160
+KW  - Children's literature
+KW  - English literature
+KW  - Curricula
+KW  - Poetry
+N1  - 160 pages ; 23 cm; Note(s): Cover title./ Reprint of 1945 ed./ Includes index.; Responsibility: issued by the State Department of Public Instruction.
+PB  - North Dakota State Department of Public Instruction
+CY  - Bismarck, ND
+LA  - English
+CN  - 428.5 .N86L
+SC  - North Dakota
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Elementary Curriculum Development
+T1  - Books for beginners; 300 titles every child should know
+Y1  - 1956
+D1  - 03/1956
+SP  - 18
+KW  - Children's literature
+KW  - Bibliography
+KW  - Elementary school libraries
+N1  - 19 p. 22 x 10 cm.
+ED  - Rev.
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 428.5 .N532b v. 1
+SC  - New York
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Elementary Curriculum Development
+T1  - Recent books for boys and girls
+Y1  - 1956
+D1  - 03/1956
+SP  - 23
+KW  - Children's literature
+KW  - Bibliography
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 428.5 .N532b v. 2
+SC  - New York
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Secondary Curriculum Development
+T1  - Fiction for high school students of superior ability
+Y1  - 1958
+D1  - 1958
+SP  - 11
+KW  - Literature
+PB  - University of the State of New York, State Education Department, Bureau of Secondary Curriculum Development
+CY  - Albany, NY
+LA  - English
+CN  - 428.5 .N532f
+SC  - New York
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Abreu Gómez, Ermilo
+A2  - Pan American Union. Division of Education
+T1  - Poesías selectas
+Y1  - 1955
+D1  - 1955
+SP  - 96
+KW  - Spanish poetry
+KW  - Latin American poetry
+N1  - 96 p. ; 18 cm.; Note(s): Compiled by Ermilo Abreu Gómez.
+T2  - Biblioteca panamericana del maestro
+V1  - 6
+PB  - División de Educación, Departamento de Asuntos Culturales, Unión Panamericana
+CY  - Washington, DC
+LA  - Spanish
+CN  - 428.5 .P18s v. 2
+ER  - 
+
+TY  - BOOK
+A1  - Farrow, Vern L.
+A2  - University of Oregon. School of Education
+T1  - Bibliotherapy; an annotated bibliography
+Y1  - 1963
+D1  - 05/1963
+SP  - 33
+KW  - Bibliotherapy
+KW  - Bibliography
+N1  - 33 p.; Responsibility: prepared by Vern L. Farrow.
+T2  - University of Oregon. School of Education. Curriculum bulletin
+V1  - 19
+IS  - 234
+PB  - University of Oregon. School of Education
+CY  - Eugene, OR
+LA  - English
+CN  - 428.5 .O66b
+ER  - 
+
+TY  - BOOK
+A1  - Portteus, Elnora M.
+A2  - Kent State University. Department of Library Science
+T1  - Awards in the field of children's books
+Y1  - 1959
+D1  - Fall, 1959
+SP  - 43
+KW  - Children's literature
+T2  - Aspects of librarianship
+V1  - 21
+PB  - Department of Library Science, Kent State University
+CY  - Kent, OH
+LA  - English
+CN  - 428.5 .O37a
+SC  - Ohio
+ER  - 
+
+TY  - BOOK
+A2  - Oregon State Library
+T1  - Pleasure reading, 1956-57 titles
+Y1  - 1957
+D1  - 06/1957
+KW  - Reading
+PB  - Oregon State Library
+CY  - Salem, OR
+LA  - English
+CN  - 428.5 .O65b
+SC  - Oregon
+ER  - 
+
+TY  - BOOK
+A2  - Oregon State Library
+T1  - Adventure in Reading: high interest - low interest
+Y1  - 1957
+D1  - 07/1957
+KW  - Reading
+KW  - High interest-low vocabulary books
+KW  - Bibliography
+PB  - Oregon State Library
+CY  - Salem, OR
+LA  - English
+CN  - 428.5 .O65b
+SC  - Oregon
+ER  - 
+
+TY  - BOOK
+A2  - Oregon State Library
+T1  - Dog stories
+Y1  - 1957
+D1  - 08/1957
+KW  - Reading
+KW  - Bibliography
+PB  - Oregon State Library
+CY  - Salem, OR
+LA  - English
+CN  - 428.5 .O65b
+SC  - Oregon
+ER  - 
+
+TY  - BOOK
+A2  - Oregon State Library
+T1  - Horse stories
+Y1  - 1957
+D1  - 07/1957
+KW  - Reading
+KW  - Bibliography
+PB  - Oregon State Library
+CY  - Salem, OR
+LA  - English
+CN  - 428.5 .O65b
+SC  - Oregon
+ER  - 
+
+TY  - BOOK
+A2  - Oregon State Library
+T1  - Hot rods
+Y1  - 1957
+D1  - 08/1957
+KW  - Reading
+KW  - Bibliography
+PB  - Oregon State Library
+CY  - Salem, OR
+LA  - English
+CN  - 428.5 .O65b
+SC  - Oregon
+ER  - 
+
+TY  - BOOK
+A2  - Oakland (California) Public Schools
+T1  - English IV, world literature
+Y1  - 1964
+D1  - 07/1964
+KW  - Literature
+PB  - Oakland (California) Public Schools
+CY  - Oakland, CA
+LA  - English
+CN  - 428.5 .O11e
+SC  - California
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Oakland (California) Public Schools
+T1  - Tentative guide for directed reading classes: first progress report
+Y1  - 1959
+D1  - 06/1959
+SP  - 25
+KW  - Reading
+PB  - Oakland (California) Public Schools
+CY  - Oakland, CA
+LA  - English
+CN  - 428.5 .O11t
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Pan American Union. Division of Education
+T1  - Prosas selectas
+Y1  - 1955
+D1  - 1955
+SP  - 82
+KW  - Spanish language
+KW  - Readers
+KW  - Spanish prose literature
+N1  - 82 p. ; 18 cm.
+T2  - Biblioteca panamericana del maestro
+V1  - 5
+PB  - Division de Educación, Departamento de Asuntos Culturales, Unión Panamericana
+CY  - Washington, DC
+LA  - Spanish
+CN  - 428.5 .P18s v. 1
+ER  - 
+
+TY  - BOOK
+A1  - Harris, Leonard A.
+T1  - Literature grades 7 to 12: a curriculum guide for secondary literature
+Y1  - 1959
+D1  - 1959
+SP  - 136
+KW  - Literature
+KW  - Curricula
+PB  - Paramount (California) Unified School District
+CY  - Paramount, CA
+LA  - English
+CN  - 428.5 .P22L
+SC  - California
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Pasadena (California) City Schools. Division of Instructional Service
+T1  - Children's literature : a resource guide for enriching the study of literature, grades 4-6
+Y1  - 1964
+D1  - 1964
+SP  - 134
+KW  - Literature
+KW  - Reading
+N1  - ill. ; 28 cm.; Note(s): Includes bibliographical references (p. 133-134).; Responsibility: Pasadena City Schools, Division of Instructional Service.
+PB  - Pasadena (California) City Schools
+CY  - Pasadena, CA
+LA  - English
+CN  - 428.5 .P27c
+SC  - California
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Portland (Oregon) Public Schools
+T1  - Hints on teaching literature : or a hundred and more ideas that have worked well, language arts, K-8
+Y1  - 1964
+D1  - 1964-1965
+SP  - 29
+KW  - Literature
+KW  - Language arts
+N1  - 29 p. ; 28 cm.; Note(s): Cover title.; Responsibility: Portland Public Schools.
+T2  - Curriculum publications - Portland Public Schools
+V1  - LA 70
+PB  - Portland (Oregon) Public Schools
+CY  - Portland, OR
+LA  - English
+CN  - 428.5 .P85h
+SC  - Oregon
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Portland (Oregon) Public Schools. Curriculum Division
+T1  - Ninth grade literature for the combined English-social studies classes; teacher's guide
+Y1  - 1955
+D1  - 1955
+SP  - 34
+KW  - Literature
+N1  - 34 leaves. 28 cm.
+T2  - Portland (Oregon) Public Schools. Curriculum publication
+V1  - LA-SS-46
+PB  - Portland (Oregon) Public Schools
+CY  - Portland, OR
+LA  - English
+CN  - 428.5 .P85n
+SC  - Oregon
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools. Curriculum Office
+T1  - A guide to the teaching of literature in grades 7 through 12
+Y1  - 1960
+D1  - 1960
+SP  - 72
+KW  - Literature
+N1  - xiv; ; 28 cm.; Responsibility: Philadelphia Public Schools.
+PB  - Philadelphia (Pennsylvania) Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 428.5 .P54g
+SC  - Pennsylvania
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools. Curriculum Office
+T1  - Sample lesson plans for literature: grades 7, 8, and 9
+Y1  - 1960
+D1  - 1960
+SP  - 12
+KW  - Literature
+PB  - Philadelphia (Pennsylvania) Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 428.5 .P54g
+SC  - Pennsylvania
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Portage (Michigan) Township Schools
+T1  - Finger plays
+Y1  - 1962
+D1  - 01/1962
+SP  - 35
+KW  - Drama in education
+PB  - Portage (Michigan) Township Schools
+CY  - Portage, MI
+LA  - English
+CN  - 428.5 .P84f
+SC  - Michigan
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Portland (Oregon) Office of the Superintendent of Schools
+T1  - Picture-story books for young children
+Y1  - 1947
+D1  - 06/1947
+SP  - 6
+KW  - Children's literature
+PB  - Portland (Oregon) Office of the Superintendent of Schools
+CY  - Portland, OR
+LA  - English
+CN  - 428.5 .P85pi
+SC  - Oregon
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Portland (Oregon) Office of the Superintendent of Schools
+T1  - Recommended poetry books for classroom use
+Y1  - 1949
+D1  - 03/1949
+SP  - 10
+KW  - Poetry
+PB  - Portland (Oregon) Office of the Superintendent of Schools
+CY  - Portland, OR
+LA  - English
+CN  - 428.5 .P85pi
+SC  - Oregon
+ER  - 
+
+TY  - BOOK
+A2  - Portland (Oregon) Office of the Superintendent of Schools
+T1  - Poetry for children
+Y1  - 1947
+D1  - 09/1947
+SP  - 6
+KW  - Poetry
+PB  - Portland (Oregon) Office of the Superintendent of Schools
+CY  - Portland, OR
+LA  - English
+CN  - 428.5 .P85pi
+SC  - Oregon
+ER  - 
+
+TY  - BOOK
+A2  - Portland (Oregon) Office of the Superintendent of Schools
+T1  - Books of poetry
+Y1  - 1948
+D1  - Fall, 1948
+SP  - 6
+KW  - Poetry
+PB  - Portland (Oregon) Office of the Superintendent of Schools
+CY  - Portland, OR
+LA  - English
+CN  - 428.5 .P85pi
+SC  - Oregon
+ER  - 
+
+TY  - BOOK
+A2  - Portland (Oregon) Office of the Superintendent of Schools
+T1  - Upper grading reading materials for theme development
+Y1  - 1947
+D1  - 05/1947
+SP  - 8
+KW  - Reading
+PB  - Portland (Oregon) Office of the Superintendent of Schools
+CY  - Portland, OR
+LA  - English
+CN  - 428.5 .P85u
+SC  - Oregon
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Ramapo Central School District No. 2 (Spring Valley, New York)
+T1  - Teaching literature and reading simultaneously: ninth grade English
+Y1  - 1964
+D1  - 1964
+KW  - Literature
+KW  - Reading
+PB  - Ramapo Central School District No. 2
+CY  - Spring Valley, NY
+LA  - English
+CN  - 428.5 .R16t v. 1
+SC  - New York
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Ramapo Central School District No. 2 (Spring Valley, New York)
+T1  - Teaching literature and reading simultaneously: eleventh grade English (regents)
+Y1  - 1964
+D1  - 1964
+KW  - Literature
+KW  - Reading
+PB  - Ramapo Central School District No. 2
+CY  - Spring Valley, NY
+LA  - English
+CN  - 428.5 .R16t v. 1
+SC  - New York
+G2  - 11th
+ER  - 
+
+TY  - BOOK
+A1  - Eaton, Florence I.
+A2  - San Diego (California) City Schools
+T1  - A guide for teaching English literature 1-2 : (including references from world literature)
+Y1  - 1969
+D1  - 1969
+SP  - 38
+KW  - English literature
+N1  - 38 p. ; 28 cm.; Note(s): Includes bibliographical references.; Responsibility: prepared by Florence I. Eaton.
+ED  - Updated
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 428.5 .S19g
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - San Jose (California) Unified School District
+T1  - Black literature for the 11th grade English program
+Y1  - 1968
+D1  - 1968
+KW  - American literature
+KW  - African American authors
+N1  - 1 v. (unpaged)
+PB  - San Jose (California) Unified School District
+CY  - San Jose, CA
+LA  - English
+CN  - 428.5 .S196b
+SC  - California
+G2  - 11th
+ER  - 
+
+TY  - BOOK
+A2  - San Jose (California) Unified School District
+T1  - Mexican and Mexican-American literature for the junior high school : poetry, essay, drama
+Y1  - 1970
+D1  - 1970
+SP  - 57
+KW  - American literature
+KW  - Mexican authors
+KW  - Mexican American authors
+KW  - Curriculum planning
+PB  - San Jose (California) Unified School District
+CY  - San Jose, CA
+LA  - English
+CN  - 428.5 .S196m v. 1
+SC  - California
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - San Jose (California) Unified School District
+T1  - Mexican and Mexican-American literature for the junior high school : short story, novel, biography
+Y1  - 1970
+D1  - 1970
+SP  - 86
+KW  - American literature
+KW  - Mexican authors
+KW  - Mexican American authors
+KW  - Curriculum planning
+PB  - San Jose (California) Unified School District
+CY  - San Jose, CA
+LA  - English
+CN  - 428.5 .S196m v. 2
+SC  - California
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A1  - Loban, Walter
+T1  - Books for the junior high school literature program
+Y1  - 1964
+D1  - 10/1964
+SP  - 7
+KW  - Literature
+PB  - Santa Clara County (California) Office of Education
+LA  - English
+CN  - 428.5 .S23b v. 1
+SC  - California
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A1  - Lane, Kenneth
+A1  - Ruth, Leo
+T1  - A checklist of paperback books for young readers in grades 7-9
+Y1  - 1965
+D1  - 11/1965
+SP  - 28
+KW  - Literature
+PB  - Santa Clara County (California) Office of Education
+LA  - English
+CN  - 428.5 .S23b v. 2
+SC  - California
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Storybooks International
+T1  - Translated children's books offered by publishers in the U.S.A
+Y1  - 1963
+D1  - 1963
+SP  - 43
+KW  - Children's literature
+KW  - Bibliography
+KW  - Books and reading
+N1  - 43 p. 22 cm.; Note(s): Cover title./ "Supplement July 1963" (3 leaves) folded in pocket.
+PB  - Storybooks International
+CY  - Locust Valley, NY
+LA  - English
+CN  - 428.5 .S88t
+ER  - 
+
+TY  - BOOK
+A1  - Wier, John Rex
+T1  - Bibliography and guide to poetry interpretation
+Y1  - 1966
+D1  - 10/1966
+SP  - 44
+KW  - Poetry
+KW  - Bibliography
+T2  - University of Texas. Publication
+V1  - 6620
+PB  - University of Texas
+CY  - Austin, TX
+LA  - English
+CN  - 428.5 .T35b
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - University of Texas
+T1  - Prose and poetry bibliography
+Y1  - 1954
+D1  - 10/1954
+SP  - 14
+KW  - Literature
+KW  - Poetry
+KW  - Bibliography
+T2  - University of Texas. Publication
+V1  - 5421
+PB  - University of Texas
+CY  - Austin, TX
+LA  - English
+CN  - 428.5 .T355p
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - Library of Congress. Division for the Blind
+T1  - Talking books for juvenile readers: a cumulative list of titles issued since January 1, 1953
+Y1  - 1959
+D1  - 1959
+SP  - 35
+KW  - Talking books for children
+N1  - 35 p. 24 cm.
+PB  - Library of Congress
+CY  - Washington, DC
+LA  - English
+CN  - 428.5 .U59t
+ER  - 
+
+TY  - BOOK
+A2  - Warren (Ohio) City Schools
+T1  - A fifth grade project on books
+Y1  - 1957
+D1  - 01/1957
+KW  - Books and reading
+PB  - Warren (Ohio) City Schools
+CY  - Warren, OH
+LA  - English
+CN  - 428.5 .W29f
+SC  - Ohio
+G2  - 5th
+ER  - 
+
+TY  - BOOK
+A2  - Wichita (Kansas) Public Schools
+T1  - Literature guide : grade 1
+Y1  - 1965
+D1  - 1965
+SP  - 49
+KW  - Literature
+KW  - Curriculum planning
+PB  - Wichita (Kansas) Public Schools
+CY  - Wichita, KS
+LA  - English
+CN  - 428.5 .W63L v. 2
+SC  - Kansas
+G2  - 1st
+ER  - 
+
+TY  - BOOK
+A2  - Wichita (Kansas) Public Schools
+T1  - Literature guide : grade 3
+Y1  - 1965
+D1  - 1965
+SP  - 52
+KW  - Literature
+KW  - Curricula
+KW  - Curriculum planning
+PB  - Wichita (Kansas) Public Schools
+CY  - Wichita, KS
+LA  - English
+CN  - 428.5 .W63L v. 4
+SC  - Kansas
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - Wichita (Kansas) Public Schools
+T1  - Literature guide; grade 5
+Y1  - 1965
+D1  - 1965
+KW  - Literature
+PB  - Wichita (Kansas) Public Schools
+CY  - Wichita, KS
+LA  - English
+CN  - 428.5 .W63L v. 6
+SC  - Kansas
+G2  - 5th
+ER  - 
+
+TY  - BOOK
+A2  - Wichita (Kansas) Public Schools
+T1  - Literature guide : grade 4
+Y1  - 1965
+D1  - 1965
+SP  - 46
+KW  - Literature
+KW  - Language arts
+PB  - Wichita (Kansas) Public Schools
+CY  - Wichita, KS
+LA  - English
+CN  - 428.5 .W63L v. 5
+SC  - Kansas
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Wichita (Kansas) Public Schools
+T1  - Literature guide, kindergarten
+Y1  - 1965
+D1  - 1965
+SP  - 45
+KW  - Literature
+N1  - 48 leaves ; 28 cm.; Responsibility: Curriculum Division, Board of Education, Wichita Public Schools.
+PB  - Wichita (Kansas) Public Schools
+CY  - Wichita, KS
+LA  - English
+CN  - 428.5 .W63L v. 1
+SC  - Kansas
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - Wichita (Kansas) Public Schools
+T1  - Literature guide : grade 2
+Y1  - 1965
+D1  - 1965
+SP  - 40
+KW  - Literature
+KW  - Language arts
+PB  - Wichita (Kansas) Public Schools
+CY  - Wichita, KS
+LA  - English
+CN  - 428.5 .W63L v. 3
+SC  - Kansas
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A2  - Wichita (Kansas) Public Schools
+T1  - Literature guide; grade 6
+Y1  - 1965
+D1  - 1965
+SP  - 51
+KW  - Literature
+PB  - Wichita (Kansas) Public Schools
+CY  - Wichita, KS
+LA  - English
+CN  - 428.5 .W63L v. 7
+SC  - Kansas
+G2  - 6th
+ER  - 
+

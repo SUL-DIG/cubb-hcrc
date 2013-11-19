@@ -1,0 +1,670 @@
+
+
+
+
+TY  - BOOK
+A2  - Denver (Colorado) Public Schools. Department of Instructional Services. Division of Education
+T1  - Infinite riches : a booklet of creative writing by pupils in elementary schools of Denver
+Y1  - 1969
+D1  - 1969
+SP  - 61
+KW  - Children's writings
+N1  - 61 pages : illustrations ; 21 x 28 cm; Responsibility: prepared and produced in the Dept. of Instructional Services, Division of Education.
+PB  - Denver (Colorado) Public Schools
+CY  - Denver, CO
+LA  - English
+CN  - 428.23 .D41i
+SC  - Colorado
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Kersey, Vierling
+T1  - Young poets in wartime : a book of student verse 
+Y1  - 1944
+D1  - 1944
+SP  - 82
+KW  - War poetry
+KW  - Children's writings
+KW  - School verse
+N1  - 82 p. ; 22 cm.
+T2  - Los Angeles City Schools. Office of the Superintendent. Publication
+V1  - 401
+PB  - Los Angeles (California) City Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 428.23 .L86y
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) Public Schools
+T1  - Creative writing cookbook : a collection of instructional strategies that have encouraged students to write
+Y1  - 1975
+D1  - 1975
+SP  - 168
+KW  - Creative writing
+N1  - x; ; 23 cm.; Responsibility: Los Angeles Unified School District, 1975.
+T2  - Los Angeles (California).; Public Schools.; Publication
+V1  - SC-729.
+PB  - Los Angeles (California) Public Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 428.23 .L87c
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District
+T1  - Morning dew, a book of student verse
+Y1  - 1947
+D1  - 1947
+SP  - 128
+KW  - School verse
+N1  - 128 p. 23 cm.
+T2  - School publication (Los Angeles City School District : numbered series)
+V1  - 442
+PB  - Los Angeles (California) City School District
+CY  - Los Angeles, CA
+LA  - English
+CN  - 428.23 .L87m
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Kinnick, B. Jo
+A2  - National Council of Teachers of English. Committee on Literary Magazines
+T1  - The school literary magazine
+Y1  - 1966
+D1  - 1966
+SP  - 77
+KW  - College publications
+KW  - College student newspapers and periodicals
+KW  - Student newspapers and periodicals
+KW  - Student publications
+N1  - v; 23 cm.; Note(s): Bibliography: p. 48-52.; Responsibility: B. Jo Kinnick, editor.
+PB  - National Council of Teachers of English
+CY  - Champaign, IL
+LA  - English
+CN  - 428.23 .N27s
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District
+T1  - Out of print : grade nine English
+Y1  - 1969
+D1  - 1969
+SP  - 121
+KW  - Children's writings
+KW  - School prose
+KW  - School verse
+AB  - An anthology of poetry and prose written by Los Angeles mid-city junior high school students. Prepared for use in ninth-grade English classes.
+N1  - xii; ill. ; 22 cm.
+T2  - Publication - English Curriculum Development Center, Washington High School
+V1  - SC-666
+PB  - Los Angeles (California) City Schools, Division of Instructional Planning and Services, Instructional Planning Branch
+CY  - Los Angeles, CA
+LA  - English
+CN  - 428.23 .L87o
+SC  - California
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Missouri Association of Teachers of English
+T1  - 1956 Missouri youth writes: representative written work of students in Missouri high schools
+Y1  - 1956
+D1  - Spring, 1956
+SP  - 24
+KW  - Youths' writings
+N1  - Frequency: Annual.; v. : ill. ; 28 cm; Responsibility: Missouri Association of Teachers of English.
+PB  - Missouri Association of Teachers of English
+CY  - Columbia, MO
+LA  - English
+CN  - 428.23 .M67m
+SC  - Missouri
+ER  - 
+
+TY  - BOOK
+A2  - Modesto (California) City Schools
+T1  - Mosaics: creative work of very able students
+Y1  - 1955
+D1  - 10/1955
+SP  - 87
+KW  - School prose
+KW  - School verse
+PB  - Modesto (California) City Schools
+CY  - Modesto, CA
+LA  - English
+CN  - 428.23 .M69m
+SC  - California
+ER  - 
+
+
+TY  - BOOK
+A1  - Trillingham, C. C.
+A2  - Los Angeles County (California) Schools
+T1  - Children's writing: a collection from the pens of boys and girls in Los Angeles County
+Y1  - 1959
+D1  - 06/1959
+SP  - 191
+KW  - Children's writings
+N1  - VII, 191 S. Ill., graph.; Responsibility: Los Angeles County Superintendent of Schools Office [C. C.Trillingham County Superintendent of Schools]
+T2  - Curriculum supplement - Languague Arts ;; 6.; Laco ;; 13.
+PB  - Los Angeles (California) County Superintendent of Schools Office
+CY  - Los Angeles, CA
+LA  - English
+CN  - 428.23 .L871c
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - JOUR
+A2  - San Diego (California) City Schools
+T1  - Creative writing
+D1  - 1950s-1960s
+KW  - School verse
+N1  - v. 10, 11, 13, 15, 16, 17, 20, 24 cm.; Responsibility: Written by pupils in the elementary grades of the San Diego City Schools 
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 428.23 .s18c
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - C.K. McClatchy Senior High School (Sacramento, California)
+T1  - The beginnings of drama in Sacramento, 1849 and 1949;
+Y1  - 1955
+D1  - 1955
+SP  - 25
+KW  - Theater
+N1  - 25 p. illus. 24 cm.; Note(s): Bibliography: p. 22-23.; Responsibility: compiled and written by students of C.K. McClatchy Senior High School.
+PB  - Nugget Press
+CY  - Sacramento, CA
+LA  - English
+CN  - 428.23 .S12b
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - JOUR
+A2  - San Diego (California) City Schools
+T1  - Impressions; creative writing
+D1  - 1960s
+KW  - Child authors
+KW  - Child artists
+N1  - vol. 21, 23; v. illus. 21 x 28 cm; Note(s): "Written and illustrated by pupils in the elementary grades of the San Diego City Schools."
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 428.23 .S18i
+G1  - Elementary
+ER  - 
+
+TY  - JOUR
+A2  - San Diego (California) City Schools
+T1  - Quest; selected writings from San Diego city schools, Grades 7-12
+D1  - 1960s
+KW  - American literature
+KW  - Painting
+N1  - 1963, 1965, 1967, 1967-68 : ill. ; 28 cm
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 428.23 .S18q
+SC  - California
+G1  - Middle school
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Witter, Janet
+T1  - Writing is the funnest thing : teaching creative writing
+Y1  - 1973
+D1  - 08/1973
+SP  - 39
+KW  - Authorship
+KW  - Creative writing
+KW  - Literature
+N1  - 39 p.; Other Titles: Teaching creative writing; Responsibility: Janet Witter and Don Emberlin. 
+PB  - Oregon Association for Supervision and Curriculum Development
+CY  - Salem, OR
+LA  - English
+CN  - 428.23 .O65w
+ER  - 
+
+TY  - BOOK
+A2  - Alpine School (San Diego, California)
+T1  - And so we learn in the second grade
+Y1  - 1949
+D1  - 1949
+SP  - 39
+KW  - Child authors
+KW  - Child artists
+PB  - San Diego (California) County Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 428.23 .S19a
+SC  - California
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+T1  - How to plan and publish a mimeographed school newspaper
+Y1  - 1950
+D1  - 05/1950
+KW  - Student newspapers and periodicals
+N1  - ill. ; 29 cm.; Note(s): Cover title.
+PB  - A.B. Dick
+CY  - Chicago, IL
+LA  - English
+CN  - 428.24 .D54h
+ER  - 
+
+TY  - BOOK
+A1  - Buchanan, William
+T1  - Handbook for the mimeographed high school newspaper
+Y1  - 1950
+D1  - 1950
+SP  - 10
+KW  - Student newspapers and periodicals
+PB  - Southern Interscholastic Press Association
+CY  - Lexington, VA
+LA  - English
+CN  - 428.24 .D54ha
+ER  - 
+
+TY  - BOOK
+T1  - How to report: an interview or press conference
+SP  - 20
+KW  - Student newspapers and periodicals
+PB  - A.B. Dick, Student Department
+CY  - Chicago, IL
+LA  - English
+CN  - 428.24 .D54ho
+ER  - 
+
+TY  - BOOK
+A2  - Grand Rapids (Michigan) Public Schools
+T1  - School scoops
+KW  - Student newspapers and periodicals
+PB  - Grand Rapids (Michigan) Public Schools
+CY  - Grand Rapids, MI
+LA  - English
+CN  - 428.24 .G75s
+SC  - Michigan
+ER  - 
+
+TY  - BOOK
+A2  - Granite School District (Salt Lake City, Utah)
+T1  - A guide to teaching the use of the newspaper in the classroom (elementary school summer program)
+Y1  - 1963
+D1  - Spring, 1963
+SP  - 26
+KW  - Journalism
+PB  - Granite School District (Salt Lake City, Utah)
+CY  - Salt Lake City, UT
+LA  - English
+CN  - 428.24 .G75u
+SC  - Utah
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Western Illinois University
+T1  - School publications
+Y1  - 1952
+D1  - 10/1952
+SP  - 153
+KW  - College student newspapers and periodicals
+N1  - ill. ; 23 cm.
+T2  - The Western Illinois State College bulletin
+V1  - 32
+IS  - 2
+PB  - Western Illinois University
+CY  - Macomb, IL
+LA  - English
+CN  - 428.24 .I29s
+ER  - 
+
+TY  - BOOK
+A2  - Western Illinois University
+T1  - The Business management of college and secondary-school newspapers
+Y1  - 1948
+D1  - 09/1948
+SP  - 43
+KW  - Student newspapers and periodicals
+KW  - Journalism
+KW  - Newspaper advertising
+N1  - ill. ; 23 cm.; Note(s): "September 1948."/ With: The advertising department of college and secondary school newspapers.; Other Titles: Advertising department of college and secondary-school newspapers; Responsibility: prepared by students specializing in journalism under the sponsorship of Dr. Kent Pease and is published under the direction of the Committee on Research, Statistics, and Publications.
+T2  - Bulletin (Western Illinois State College)
+V1  - 28
+IS  - 2
+PB  - Western Illinois State College
+CY  - Macomb, IL
+LA  - English
+CN  - 428.24 .I29w
+ER  - 
+
+TY  - BOOK
+A2  - Chicago (Illinois) Board of Education
+T1  - A tentative program in journalism for the secondary schools
+Y1  - 1958
+D1  - 1958
+SP  - 45
+KW  - Journalism
+N1  - 45 p. 29 cm.; Note(s): Bibliography: p. 36-45.
+PB  - Chicago (Illinois) Board of Education
+CY  - Chicago, IL
+LA  - English
+CN  - 428.24 .C53t
+SC  - Illinois
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Cincinnati (Ohio) Public Schools
+T1  - Curriculum bulletin for newswriting, grade 9
+Y1  - 1957
+D1  - 1957
+SP  - 63
+KW  - School journalism
+KW  - Student newspapers and periodicals
+N1  - vi; ill. ; 28 cm.; Note(s): Cover title: Newswriting, junior high school, grade 9./ Includes bibliographical references.; Responsibility: Cincinnati Public Schools.
+T2  - Curriculum bulletin
+V1  - 241
+PB  - Cincinnati (Ohio) Public Schools
+CY  - Cincinnati, OH
+LA  - English
+CN  - 428.24 .C57n
+SC  - Ohio
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Cleveland Heights (Ohio) Public Schools
+T1  - Senior high school tentative course of study outline: English: news I & II
+Y1  - 1949
+D1  - 09/1949
+SP  - 8
+KW  - Journalism
+KW  - Curricula
+PB  - Cleveland Heights (Ohio) Public Schools
+CY  - Cleveland Heights, OH
+LA  - English
+CN  - 428.24 .C63n
+SC  - Ohio
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Indiana State Department of Public Instruction
+T1  - Teacher's guide to high school journalism
+Y1  - 1965
+D1  - 1965
+SP  - 334
+KW  - School journalism
+N1  - xiv; illus. 23 cm.; Note(s): Includes bibliographies.
+T2  - Indiana. Department of Public Instruction. Bulletin
+V1  - 502
+PB  - Indiana State Department of Public Instruction
+CY  - Indianapolis, IN
+LA  - English
+CN  - 428.24 .I39t
+SC  - Indiana
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Kern County (California) Schools
+T1  - Newspaper idea book for upper grades
+Y1  - 1966
+D1  - 11/1966
+SP  - 52
+KW  - Journalism
+KW  - Student newspapers and periodicals
+PB  - Kern County (California) Schools
+CY  - Bakersfield, CA
+LA  - English
+CN  - 428.24 .K39n
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Long Beach (California) Unified School District
+T1  - Guide for teaching journalism 1-2
+Y1  - 1969
+D1  - 1969
+SP  - 146
+KW  - Journalism
+N1  - p. ; cm.; Responsibility: prepared by Richard G. Van Der Laan, Kathleen S. Fenberg, Kenneth Jensen.
+PB  - Long Beach (California) Unified School District
+CY  - Long Beach, CA
+LA  - English
+CN  - 428.24 .L84g
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City Schools. Division of Planning and Research. Instructional Planning Branch
+T1  - Senior high schools journalism 2 and 3 : an instructional guide
+Y1  - 1970
+D1  - 1970
+SP  - 89
+KW  - Journalism
+KW  - Curricula
+T2  - Los Angeles (California) City Schools. Publication
+V1  - X-94.
+PB  - Los Angeles (California) City Schools. Division of Planning and Research, Instructional Planning Branch
+CY  - Los Angeles, CA
+LA  - English
+CN  - 428.24 .L87j v. 2
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Modesto (California) City Schools
+T1  - Journalism I, II, III, IV: course of study
+Y1  - 1957
+D1  - 1957-1958
+SP  - 26
+KW  - Journalism
+KW  - Curricula
+PB  - Modesto (California) City Schools
+CY  - Modesto, CA
+LA  - English
+CN  - 428.24 .M69j
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Oakland (California) Public Schools
+T1  - Tentative guide for news classes: senior high school
+Y1  - 1955
+D1  - 07/1955
+SP  - 21
+KW  - Journalism
+KW  - Student newspapers and periodicals
+KW  - Curricula
+PB  - Oakland (California) Public Schools
+CY  - Oakland, CA
+LA  - English
+CN  - 428.24 .O11t
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Oakland (California) Public Schools
+T1  - Tentative guide for yearbook classes: senior high school
+Y1  - 1955
+D1  - 07/1955
+SP  - 20
+KW  - School yearbooks
+KW  - Curricula
+PB  - Oakland (California) Public Schools
+CY  - Oakland, CA
+LA  - English
+CN  - 428.24 .O11y
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Martin, Dick
+T1  - A profile of the Oregon high school publications adviser
+Y1  - 1963
+D1  - 01/1963
+SP  - 27
+KW  - Journalism
+KW  - Student newspapers and periodicals
+PB  - University of Oregon. School of Education
+CY  - Eugene, OR
+LA  - English
+CN  - 428.24 .O66p
+SC  - Oregon
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Edgar, Patricia
+A1  - Jacobsen, Robert
+T1  - School newspapers - a guide
+Y1  - 1962
+D1  - 11/1962
+SP  - 12
+KW  - Journalism
+KW  - Student newspapers and periodicals
+PB  - University of Oregon. School of Education
+CY  - Eugene, OR
+LA  - English
+CN  - 428.24 .O66s
+SC  - Oregon
+ER  - 
+
+TY  - BOOK
+A1  - Rieker,J. William
+A2  - San Diego (California) City Schools
+T1  - A guide for teaching journalism 1-2, 3-4, 5-6
+Y1  - 1965
+D1  - 1965
+SP  - 131
+KW  - Journalism
+N1  - 131 p. (1 v.) 28 cm.; Note(s): Cover title./ Unedited./ Includes bibliographical references.; Responsibility: prepared by J. William Rieker.
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 428.24 .S19g
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Sun-Telegram
+T1  - The Sun-Telegram: a living textbook
+KW  - Journalism
+PB  - Sun-Telegram
+CY  - San Bernadino, CA
+LA  - English
+CN  - 428.24 .S191s
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Sequoia Union High School District (Redwood City, California)
+T1  - Journalism: a guide for teachers
+Y1  - 1961
+D1  - 09/1961
+SP  - 37
+KW  - Journalism
+PB  - Sequoia Union High School District
+CY  - Redwood City, CA
+LA  - English
+CN  - 428.24 .S47j
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Foss, Geneva E.
+T1  - Your friend--the press
+Y1  - 1959
+D1  - 1959
+SP  - 6
+KW  - Journalism
+PB  - Spokane (Washington) Public Schools
+CY  - Spokane, WA
+LA  - English
+CN  - 428.24 .S75y
+SC  - Washington
+ER  - 
+
+TY  - BOOK
+A1  - Holiday, Lanita
+T1  - Do you have the 'knows' for news
+Y1  - 1957
+D1  - Autumn, 1957
+SP  - 44
+KW  - Journalism
+KW  - Student newspapers and periodicals
+PB  - Stanford University
+CY  - Stanford, CA
+LA  - English
+CN  - 428.24 .S78d
+ER  - 
+
+TY  - BOOK
+A1  - Scott, Alan
+T1  - Secondary school journalism; current practices and trends in Texas high schools
+Y1  - 1955
+D1  - 10/1955
+SP  - 48
+KW  - Student newspapers and periodicals
+KW  - Journalism
+N1  - 48 p. 24 cm.; Note(s): Bibliography: p. 47-48.
+T2  - Texas Study of Secondary Education.; Research study
+V1  - 19
+PB  - University of Texas
+CY  - Austin, TX
+LA  - English
+CN  - 428.24 .T35s
+SC  - Texas
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Sweetwater Union High School District (Chula Vista, California)
+T1  - Course notes and suggestions for senior high school journalism I and advanced journalism
+Y1  - 1964
+D1  - 1964
+SP  - 49
+KW  - Student newspapers and periodicals
+KW  - Journalism
+PB  - Sweetwater Union High School District
+CY  - Chula Vista, CA
+LA  - English
+CN  - 428.24 .S97j v. 2
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Freeman, Don L.
+A2  - Sweetwater Union High School District (Chula Vista, California)
+T1  - Course notes and suggestions for junior high school journalism 8 and journalism 9
+Y1  - 1964
+D1  - 1964
+SP  - 50
+KW  - Journalism
+KW  - Student newspapers and periodicals
+PB  - Sweetwater Union High School District
+CY  - Chula Vista, CA
+LA  - English
+CN  - 428.24 .S97j v. 1
+SC  - California
+G1  - Middle school
+ER  - 
+
