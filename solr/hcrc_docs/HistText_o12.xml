@@ -1,0 +1,69 @@
+<add>
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Canfield, Albert A.</field>
+        <field name="author">Stack, Conrad</field>
+        <field name="title">An instructional systems approach</field>
+        <field name="series_title">An ESD Modular Program--Educational Systems Development</field>
+        <field name="keywords">Experimental methods</field>
+        <field name="year">1967</field>
+        <field name="date">1967</field>
+        <field name="edition">1st</field>
+        <field name="publisher">Howard and Smith</field>
+        <field name="pub_place">Royal Oak, MI</field>
+        <field name="pages">24</field>
+        <field name="language">English</field>
+        <field name="call_number">371.3095 .E26i</field>
+        <field name="notes">vi; ; 28 cm.; Responsibility: subject matter specifications, Albert A.
+            Canfield; programing, Conrad Stack.</field>
+    </doc>
+    
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Educational Televison Department, Division of Curriculum and
+            Instruction</field>
+        <field name="title">Instructional television for the fourth grade</field>
+        <field name="keywords">Television in education</field>
+        <field name="year">1961</field>
+        <field name="date">Fall, 1961</field>
+        <field name="publisher">Milwaukee (Wisconsin) Public Schools</field>
+        <field name="pub_place">Milwaukee, WI</field>
+        <field name="pages">59</field>
+        <field name="call_number">371.3095 .M65i</field>
+        <field name="state_country">Wisconsin</field>
+        <field name="grade_level_number">4th grade</field>
+    </doc>
+    
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Romero, Fernando</field>
+        <field name="title">Inter-American cooperation in vocational education</field>
+        <field name="series_title">Pan American Union. Division of Education. Ser. M on vocational
+            education</field>
+        <field name="keywords">Vocational education</field>
+        <field name="year">1950</field>
+        <field name="date">1950</field>
+        <field name="publisher">Pan American Union</field>
+        <field name="pub_place">Washington, DC</field>
+        <field name="series_vol">7</field>
+        <field name="pages">188</field>
+        <field name="language">English</field>
+        <field name="call_number">371.401 .P18i</field>
+        <field name="notes">xvi, 188 p.</field>
+    </doc>
+    
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Palo Alto (California) Unified School District</field>
+        <field name="title">Intercultural education project: a research proposal submitted to the
+            Ford Foundation</field>
+        <field name="keywords">Multiculturalism</field>
+        <field name="year">1962</field>
+        <field name="date">01/1962</field>
+        <field name="publisher">Palo Alto (California) Unified School District</field>
+        <field name="pub_place">Palo Alto, CA</field>
+        <field name="pages">25</field>
+        <field name="call_number">323 .P18i</field>
+        <field name="state_country">California</field>
+    </doc>
+</add>
