@@ -141,7 +141,7 @@ bibliographical references (pages 74-75).</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">California State Department of Education. Mathematics Education Task
+<field name="corp_author">California State Department of Education. Mathematics Education Task
 Force</field>
 <field name="title">Inservice guide to teaching measurement, kindergarten through grade eight; an
 introduction through grade eight; an introduction to the SI metric system</field>
@@ -219,7 +219,7 @@ flexible elementary school curriculum, a third report</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Chicago Public Schools. Department of Elementary Education</field>
+<field name="corp_author">Chicago Public Schools. Department of Elementary Education</field>
 <field name="title">Arithmetic teaching techniques; an in-service survey and study conducted by a
 Committee on Arithmetic Teaching Techniques, with the cooperation of the district superintendents,
 principals and teachers in the Chicago public elementary schools</field>
@@ -235,7 +235,7 @@ Johnson [and] Don C. Rogers, Chairman.; Entry: 19760501; Update: 20130607</field
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Chula Vista City School District</field>
+<field name="corp_author">Chula Vista City School District</field>
 <field name="title">Mathematics in the kindergarten</field>
 <field name="year">1964</field>
 <field name="pages">117 EP - 117</field>
@@ -247,7 +247,7 @@ School District.; Entry: 19800314; Update: 20111213</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Clark County School District (Nev.)</field>
+<field name="corp_author">Clark County School District (Nev.)</field>
 <field name="title">Elementary mathematics curriculum guide</field>
 <field name="year">1967</field>
 <field name="notes">ill. ; 23 x 28 cm.; Note(s): Cover title.; Responsibility: Clark County School
@@ -258,7 +258,7 @@ District.; Entry: 19781206; Update: 20111213</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Cleveland. Public Schools</field>
+<field name="corp_author">Cleveland Public Schools</field>
 <field name="title">Course of study in arithmetic, Primary Division, 1947</field>
 <field name="year">1947</field>
 <field name="keywords">Arithmetic -- Study and teaching</field>
