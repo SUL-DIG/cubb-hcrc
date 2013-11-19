@@ -46,7 +46,7 @@ $constraint_border_active_color: #FFD27A !default;
     }
 
 /*Modifying Map Display */
-#googft-mapCanvas {
+html, body, #googft-mapCanvas {
   height: 600px;
   margin: 0;
   padding: 0;
