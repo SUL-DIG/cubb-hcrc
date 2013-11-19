@@ -23,7 +23,7 @@
         <field name="corp_author">Berkeley (California) Unified School District</field>
         <field name="title">Intergroup in-service guide</field>
         <field name="keywords">Minorities</field>
-        <field>Race relations</field>
+        <field name="keywords">Race relations</field>
         <field name="keywords">Multicultural education</field>
         <field name="year">1967</field>
         <field name="date">09/1967</field>
