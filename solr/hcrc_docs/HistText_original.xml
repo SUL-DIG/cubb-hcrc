@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <add>
-
 <doc>
 <field name="type">Book</field>
 <field name="author">Markiewicz, Jane</field>
