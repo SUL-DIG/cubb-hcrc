@@ -10,6 +10,9 @@ class ApplicationController < ActionController::Base
   layout "hcrc"
   
   helper_method :on_report_pages
+   def request_path
+    Rails.application.routes.recognize_path(request.path)
+  end
   def on_report_pages
     request_path[:controller] == 'report' 
   end
