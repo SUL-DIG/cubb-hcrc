@@ -49,8 +49,8 @@
       zoom: 3,
       mapTypeId: google.maps.MapTypeId.ROADMAP
     });
-    map.controls[google.maps.ControlPosition.RIGHT_TOP].push(document.getElementById('googft-legend-open'));
-    map.controls[google.maps.ControlPosition.RIGHT_TOP].push(document.getElementById('googft-legend'));
+    map.controls[google.maps.ControlPosition.LEFT_BOTTOM].push(document.getElementById('googft-legend-open'));
+    map.controls[google.maps.ControlPosition.LEFT_BOTTOM].push(document.getElementById('googft-legend'));
 
     layer = new google.maps.FusionTablesLayer({
       map: map,
