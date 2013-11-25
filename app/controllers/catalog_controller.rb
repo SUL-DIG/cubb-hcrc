@@ -99,7 +99,7 @@ class CatalogController < ApplicationController
     config.add_index_field 'corp_author', :label => 'Corporate Author:' 
     config.add_index_field 'date', :label => 'Date:' 
     config.add_index_field 'state_country', :label => 'State/Country:' 
-    config.add_index_field 'grade_leve_group', :label => 'Grade Level:'
+    config.add_index_field 'grade_level_group', :label => 'Grade Level:'
     config.add_index_field 'keywords', :label => 'Subjects:'
 
     # solr fields to be displayed in the show (single result) view
