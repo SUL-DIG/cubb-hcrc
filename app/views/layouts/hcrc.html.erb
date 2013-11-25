@@ -42,27 +42,27 @@
       viewport.setAttribute('content', 'initial-scale=1.0, user-scalable=no');
     }
     var mapDiv = document.getElementById('googft-mapCanvas');
-    mapDiv.style.width = isMobile ? '100%' : '800px';
-    mapDiv.style.height = isMobile ? '100%' : '600px';
+    mapDiv.style.width = isMobile ? '100%' : '500px';
+    mapDiv.style.height = isMobile ? '100%' : '300px';
     var map = new google.maps.Map(mapDiv, {
-      center: new google.maps.LatLng(40.65177624827299, -48.29493750000006),
-      zoom: 2,
+      center: new google.maps.LatLng(39.3030653771316, -63.62304925918579),
+      zoom: 3,
       mapTypeId: google.maps.MapTypeId.ROADMAP
     });
-    map.controls[google.maps.ControlPosition.RIGHT_TOP].push(document.getElementById('googft-legend-open'));
-    map.controls[google.maps.ControlPosition.RIGHT_TOP].push(document.getElementById('googft-legend'));
+    map.controls[google.maps.ControlPosition.LEFT_BOTTOM].push(document.getElementById('googft-legend-open'));
+    map.controls[google.maps.ControlPosition.LEFT_BOTTOM].push(document.getElementById('googft-legend'));
 
     layer = new google.maps.FusionTablesLayer({
       map: map,
       heatmap: { enabled: false },
       query: {
-        select: "col0",
-        from: "1gctmVOM9o0YoEOcEnucVUEMzLyBtzeWkQkZHKOs",
+        select: "col0\x3e\x3e0",
+        from: "1ttW25qmm7Uf_aEtjKg2LPn-uYSxkkBwWaJLIDH0",
         where: ""
       },
       options: {
-        styleId: 3,
-        templateId: 4
+        styleId: 2,
+        templateId: 2
       }
     });
 
