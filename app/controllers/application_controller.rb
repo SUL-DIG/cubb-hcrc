@@ -8,4 +8,9 @@ class ApplicationController < ActionController::Base
 
   protect_from_forgery
   layout "hcrc"
+  
+  helper_method :on_report_pages
+  def on_report_pages
+    request_path[:controller] == 'report' 
+  end
 end
