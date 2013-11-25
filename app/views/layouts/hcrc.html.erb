@@ -47,6 +47,9 @@
       center: new google.maps.LatLng(42.933033978822884, -50.04405274999999),
       zoom: 2,
       zoomControl: true,
+      zoomControlOptions: {
+    style: google.maps.ZoomControlStyle.LARGE
+  }
       mapTypeId: google.maps.MapTypeId.ROADMAP
     });
     map.controls[google.maps.ControlPosition.RIGHT_BOTTOM].push(document.getElementById('googft-legend-open'));
