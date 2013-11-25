@@ -9,9 +9,22 @@ class ApplicationController < ActionController::Base
   protect_from_forgery
   layout "hcrc"
   
-  helper_method :on_report_pages
-   def request_path
+  helper_method :on_home_page, :on_show_page, :on_search_page, :request_path, :on_report_pages
+  
+
+  
+  def request_path
     Rails.application.routes.recognize_path(request.path)
+  end
+  def on_home_page
+    request_path[:controller] == 'catalog' && request_path[:action] == 'index' && params[:f].blank? && params[:q].blank?
+  end
+  def on_show_page
+    request_path[:controller] == 'catalog' && request_path[:action] == 'show'
+  end
+
+  def on_search_page
+    request_path[:controller] == 'catalog' && request_path[:action] == 'index' && !on_home_page
   end
   def on_report_pages
     request_path[:controller] == 'report' 
