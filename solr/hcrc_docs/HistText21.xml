@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="type">Book</field>
 <field name="corp_author">El Paso (Texas) Board of Education</field>
@@ -480,7 +480,7 @@ Education, State of Hawaii.; Other Titles: Secondary language arts guide</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Reeves, Ruth</field>
+<field name="author">Reeves, Ruth</field><field name="author_nat">Ruth Reeves</field>
 <field name="corp_author">Houston (Texas) Independent School District</field>
 <field name="title">Grammar and composition: grades 10, 11, and 12</field>
 <field name="year">1957</field>
@@ -1192,7 +1192,7 @@ Curriculum Branch</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Robertson, Andrew Beaumont</field>
+<field name="author">Robertson, Andrew Beaumont</field><field name="author_nat">Andrew Beaumont Robertson</field>
 <field name="corp_author">Los Angeles (California) City School District. Division of Instructional
 Services</field>
 <field name="title">Instructional guide for the course in senior composition, grade 12</field>

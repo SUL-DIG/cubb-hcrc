@@ -1,7 +1,7 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="type">Book</field>
-<field name="author">Cooksey, Oscilee Loftin</field>
+<field name="author">Cooksey, Oscilee Loftin</field><field name="author_nat">Oscilee Loftin Cooksey</field>
 <field name="title">A teaching manual for sensory stimulation of the bedfast multiply-handicapped
 retardate</field>
 <field name="year">1970</field>
@@ -20,9 +20,9 @@ manual.; Other Titles: Sensory stimulation.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Scheer, Ralph M.</field>
-<field name="author">Hawke, Sharryl</field>
-<field name="author">Rice, Norman G.</field>
+<field name="author">Scheer, Ralph M.</field><field name="author_nat">Ralph M. Scheer</field>
+<field name="author">Hawke, Sharryl</field><field name="author_nat">Sharryl Hawke</field>
+<field name="author">Rice, Norman G.</field><field name="author_nat">Norman G. Rice</field>
 <field name="title">Community preparedness for retardates</field>
 <field name="year">1969</field>
 <field name="pages">103</field>
@@ -42,8 +42,8 @@ Norman G. Rice.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Talkington, Larry W.</field>
-<field name="author">Hall, Sylvia M.</field>
+<field name="author">Talkington, Larry W.</field><field name="author_nat">Larry W. Talkington</field>
+<field name="author">Hall, Sylvia M.</field><field name="author_nat">Sylvia M. Hall</field>
 <field name="title">A manual communication system for deaf retarded</field>
 <field name="year">1971</field>
 <field name="pages">108</field>
@@ -61,9 +61,9 @@ information; Entry: 19720630; Update: 20121117</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Helwig, G. Alfred</field>
-<field name="author">Earhart, Quentin L.</field>
-<field name="author">Klier, Katherine M.</field>
+<field name="author">Helwig, G. Alfred</field><field name="author_nat">G. Alfred Helwig</field>
+<field name="author">Earhart, Quentin L.</field><field name="author_nat">Quentin L. Earhart</field>
+<field name="author">Klier, Katherine M.</field><field name="author_nat">Katherine M. Klier</field>
 <field name="title">Recommendations for the education of the slow learner</field>
 <field name="year">1963</field>
 <field name="pages">45</field>
@@ -78,9 +78,9 @@ information; Entry: 19720630; Update: 20121117</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Helwig, G. Alfred</field>
-<field name="author">Earhart, Quentin L.</field>
-<field name="author">Klier, Katherine M.</field>
+<field name="author">Helwig, G. Alfred</field><field name="author_nat">G. Alfred Helwig</field>
+<field name="author">Earhart, Quentin L.</field><field name="author_nat">Quentin L. Earhart</field>
+<field name="author">Klier, Katherine M.</field><field name="author_nat">Katherine M. Klier</field>
 <field name="title">Curriculum recommendations for basic education</field>
 <field name="year">1964</field>
 <field name="pages">101</field>
@@ -325,7 +325,7 @@ of the California State Legislature</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Hill, Mary Broderick</field>
+<field name="author">Hill, Mary Broderick</field><field name="author_nat">Mary Broderick Hill</field>
 <field name="title">Enrichment programs for intellectually gifted pupils</field>
 <field name="year">1969</field>
 <field name="pages">187</field>
@@ -343,7 +343,7 @@ Responsibility: prepared by Mary Broderick Hill.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Lynndelle, Vivian</field>
+<field name="author">Lynndelle, Vivian</field><field name="author_nat">Vivian Lynndelle</field>
 <field name="title">Education of the aurally handicapped</field>
 <field name="year">1953</field>
 <field name="pages">31</field>
@@ -365,8 +365,8 @@ subsequent to publication./ Includes bibliographical references (pages 24-26).</
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Misbach, Dorothy L.</field>
-<field name="author">Sweeney, Joan</field>
+<field name="author">Misbach, Dorothy L.</field><field name="author_nat">Dorothy L. Misbach</field>
+<field name="author">Sweeney, Joan</field><field name="author_nat">Joan Sweeney</field>
 <field name="title">Education of the visually handicapped in California public schools</field>
 <field name="year">1970</field>
 <field name="pages">88</field>
@@ -420,7 +420,7 @@ Committee on School Health."; Other Titles: Hearing testing of school children</
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Lambert, Nadine M.</field>
+<field name="author">Lambert, Nadine M.</field><field name="author_nat">Nadine M. Lambert</field>
 <field name="corp_author">California. State Department of Education</field>
 <field name="title">The emotionally handicapped child and the school: a research program in the
 prevention of personality and behavior disorders in children</field>
@@ -440,7 +440,7 @@ Lambert [and others.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Watson, Charles W.</field>
+<field name="author">Watson, Charles W.</field><field name="author_nat">Charles W. Watson</field>
 <field name="corp_author">California. Bureau of Special Education</field>
 <field name="title">A guide to the education of the deaf in the public schools of California</field>
 <field name="year">1955</field>
@@ -502,8 +502,8 @@ Board of Education, January 10, 1974</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Hanson, Fred M.</field>
-<field name="author">Shryock, Clifton</field>
+<field name="author">Hanson, Fred M.</field><field name="author_nat">Fred M. Hanson</field>
+<field name="author">Shryock, Clifton</field><field name="author_nat">Clifton Shryock</field>
 <field name="title">Programs for the educable mentally retarded in California public
 schools.</field>
 <field name="year">1974</field>
@@ -520,7 +520,7 @@ schools.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Mackie, Romaine Prior</field>
+<field name="author">Mackie, Romaine Prior</field><field name="author_nat">Romaine Prior Mackie</field>
 <field name="title">Information for parents of cerebral palsied children</field>
 <field name="year">1948</field>
 <field name="pages">20</field>
@@ -538,7 +538,7 @@ program for children with cerebral palsy (July 1948)</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Gore, Beatrice S.</field>
+<field name="author">Gore, Beatrice S.</field><field name="author_nat">Beatrice S. Gore</field>
 <field name="corp_author">California. Bureau of Special Education</field>
 <field name="title">Teaching the cerebral palsied child; a handbook for teachers</field>
 <field name="year">1954</field>
@@ -559,9 +559,9 @@ Stoddard.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Hanson, Fred M.</field>
-<field name="author">Daly, Flora M.</field>
-<field name="author">Campbell, L. Wayne</field>
+<field name="author">Hanson, Fred M.</field><field name="author_nat">Fred M. Hanson</field>
+<field name="author">Daly, Flora M.</field><field name="author_nat">Flora M. Daly</field>
+<field name="author">Campbell, L. Wayne</field><field name="author_nat">L. Wayne Campbell</field>
 <field name="title">Programs for the trainable mentally retarded in California public
 schools</field>
 <field name="year">1966</field>
@@ -578,8 +578,8 @@ M. Hanson, Flora M. Daly [and] L. Wayne Campbell.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Jensen, Carol M.</field>
-<field name="author">Mackie, Romaine Prior</field>
+<field name="author">Jensen, Carol M.</field><field name="author_nat">Carol M. Jensen</field>
+<field name="author">Mackie, Romaine Prior</field><field name="author_nat">Romaine Prior Mackie</field>
 <field name="title">Twenty questions on the cerebral palsied child in California</field>
 <field name="year">1948</field>
 <field name="date">06/1948</field>
@@ -600,7 +600,7 @@ Responsibility: [by] Carol M. Jensen and Romaine P. Mackie.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Lord, Francis Everette</field>
+<field name="author">Lord, Francis Everette</field><field name="author_nat">Francis Everette Lord</field>
 <field name="corp_author">California State College, Los Angeles</field>
 <field name="title">Work education for educable retarded youth; report on institutes</field>
 <field name="year">1964</field>
@@ -620,7 +620,7 @@ educable retarded youth./ The institutes, held on Feb. 6 and June 26, 1964./ Bib
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Goldsmith, John</field>
+<field name="author">Goldsmith, John</field><field name="author_nat">John Goldsmith</field>
 <field name="corp_author">San Jose State College</field>
 <field name="title">Annotated bibliography concerning the more able student</field>
 <field name="year">1962</field>
@@ -637,7 +637,7 @@ Goldsmith, instructor</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Goldsmith, John</field>
+<field name="author">Goldsmith, John</field><field name="author_nat">John Goldsmith</field>
 <field name="corp_author">San Jose State College</field>
 <field name="title">Activities for the more able student</field>
 <field name="year">1960</field>
@@ -654,7 +654,7 @@ Goldsmith, instructor</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Goldsmith, John</field>
+<field name="author">Goldsmith, John</field><field name="author_nat">John Goldsmith</field>
 <field name="corp_author">San Jose State College</field>
 <field name="title">Activities for the more able student</field>
 <field name="year">1961</field>
@@ -671,7 +671,7 @@ Goldsmith, instructor</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Goldsmith, John</field>
+<field name="author">Goldsmith, John</field><field name="author_nat">John Goldsmith</field>
 <field name="corp_author">San Jose State College</field>
 <field name="title">A survey of school programs for the more able student</field>
 <field name="year">1962</field>
@@ -688,8 +688,8 @@ Goldsmith, instructor</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Bouchard, Ruth A.</field>
-<field name="author">Mackler, Bernard</field>
+<field name="author">Bouchard, Ruth A.</field><field name="author_nat">Ruth A. Bouchard</field>
+<field name="author">Mackler, Bernard</field><field name="author_nat">Bernard Mackler</field>
 <field name="corp_author">Center for Urban Education</field>
 <field name="title">A prekindergarten program for four-year-olds, with a review of the literature on
 preschool education</field>
@@ -708,7 +708,7 @@ Bouchard and Bernard Mackler.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Gross, Morris B.</field>
+<field name="author">Gross, Morris B.</field><field name="author_nat">Morris B. Gross</field>
 <field name="title">Learning readiness in two Jewish groups; a study in "cultural
 deprivation"</field>
 <field name="year">1967</field>
@@ -726,7 +726,7 @@ Seeley.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Randolph, H. Helen</field>
+<field name="author">Randolph, H. Helen</field><field name="author_nat">H. Helen Randolph</field>
 <field name="corp_author">Hunter College, New York. Project TRUE</field>
 <field name="title">Urban education bibliography: an annotated listing</field>
 <field name="year">1968</field>
@@ -744,12 +744,12 @@ Responsibility: by H. Helen Randolph.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Karnes, Merle B.</field>
-<field name="author">McCoy, George F.</field>
-<field name="author">Zehrbach, Richard Reid</field>
-<field name="author">Wollersheim, Janet P.</field>
-<field name="author">Costin, Lela</field>
-<field name="author">Stanley, Lola S.</field>
+<field name="author">Karnes, Merle B.</field><field name="author_nat">Merle B. Karnes</field>
+<field name="author">McCoy, George F.</field><field name="author_nat">George F. McCoy</field>
+<field name="author">Zehrbach, Richard Reid</field><field name="author_nat">Richard Reid Zehrbach</field>
+<field name="author">Wollersheim, Janet P.</field><field name="author_nat">Janet P. Wollersheim</field>
+<field name="author">Costin, Lela</field><field name="author_nat">Lela Costin</field>
+<field name="author">Stanley, Lola S.</field><field name="author_nat">Lola S. Stanley</field>
 <field name="title">Factors associated with underachievement and overachievement of intellectually
 gifted children</field>
 <field name="year">1961</field>
@@ -802,8 +802,8 @@ Bureau of Special Education, California State Department of Education.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Dyce, Elsie</field>
-<field name="author">Crane, L. D.</field>
+<field name="author">Dyce, Elsie</field><field name="author_nat">Elsie Dyce</field>
+<field name="author">Crane, L. D.</field><field name="author_nat">L. D. Crane</field>
 <field name="title">The gifted child program, elementary</field>
 <field name="year">1957</field>
 <field name="date">1957</field>
@@ -855,7 +855,7 @@ Willis, General Superintendent of Schools.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Willis, Benjamin C.</field>
+<field name="author">Willis, Benjamin C.</field><field name="author_nat">Benjamin C. Willis</field>
 <field name="title">Report on the program for the gifted pupil to the Chicago Board of
 Education</field>
 <field name="year">1957</field>
@@ -871,7 +871,7 @@ Education</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Barbe, Walter Burke</field>
+<field name="author">Barbe, Walter Burke</field><field name="author_nat">Walter Burke Barbe</field>
 <field name="corp_author">Cleveland (Ohio) Public Schools</field>
 <field name="title">Thirty years after</field>
 <field name="year">1960</field>
@@ -908,7 +908,7 @@ study of graduates of special classes for gifted children.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Potts, Alfred M.</field>
+<field name="author">Potts, Alfred M.</field><field name="author_nat">Alfred M. Potts</field>
 <field name="corp_author">Colorado. State Department of Education. Section on Education of Migrant
 Children</field>
 <field name="title">The Colorado program for the education of migrant children, a guide to
@@ -929,8 +929,8 @@ Prepared by Alfred M. Potts, 2d, head. Approved by Colorado State Board of Educa
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Potts, Alfred M.</field>
-<field name="author">Redbird, Helen Marie</field>
+<field name="author">Potts, Alfred M.</field><field name="author_nat">Alfred M. Potts</field>
+<field name="author">Redbird, Helen Marie</field><field name="author_nat">Helen Marie Redbird</field>
 <field name="corp_author">Colorado. Migrant Education Research Project</field>
 <field name="title">Providing education for migrant children</field>
 <field name="year">1961</field>
@@ -953,13 +953,13 @@ Chapter VI by Helen Marie Redbird. Hand illus.: Verna Katona. Photos: Myron Wood
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Collings, Margaret</field>
-<field name="author">Fryburg, Mary Louise</field>
-<field name="author">Hurwitz, Muriel</field>
-<field name="author">Koel, Elaine</field>
-<field name="author">Spencer, Rosalie</field>
-<field name="author">Williams, Viola</field>
-<field name="author">Benes, Barbara</field>
+<field name="author">Collings, Margaret</field><field name="author_nat">Margaret Collings</field>
+<field name="author">Fryburg, Mary Louise</field><field name="author_nat">Mary Louise Fryburg</field>
+<field name="author">Hurwitz, Muriel</field><field name="author_nat">Muriel Hurwitz</field>
+<field name="author">Koel, Elaine</field><field name="author_nat">Elaine Koel</field>
+<field name="author">Spencer, Rosalie</field><field name="author_nat">Rosalie Spencer</field>
+<field name="author">Williams, Viola</field><field name="author_nat">Viola Williams</field>
+<field name="author">Benes, Barbara</field><field name="author_nat">Barbara Benes</field>
 <field name="title">Let's grow with good speech</field>
 <field name="year">1953</field>
 <field name="date">1953</field>
@@ -1008,7 +1008,7 @@ administrative procedures</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Nolan, William J.</field>
+<field name="author">Nolan, William J.</field><field name="author_nat">William J. Nolan</field>
 <field name="corp_author">Connecticut State Department of Education</field>
 <field name="title">Building a community's curriculum for the mentally handicapped</field>
 <field name="year">1953</field>
@@ -1032,8 +1032,8 @@ administrative procedures</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Sherman, Neil W.</field>
-<field name="author">Potts, Alfred M.</field>
+<field name="author">Sherman, Neil W.</field><field name="author_nat">Neil W. Sherman</field>
+<field name="author">Potts, Alfred M.</field><field name="author_nat">Alfred M. Potts</field>
 <field name="title">Learning on the move; a guide for migrant education</field>
 <field name="year">1960</field>
 <field name="date">1960</field>
@@ -1051,7 +1051,7 @@ Edited by Neil W. Sherman and Alfred M. Potts, 2d. Illus. by Elizabeth Martin.</
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Vest, H. Grant</field>
+<field name="author">Vest, H. Grant</field><field name="author_nat">H. Grant Vest</field>
 <field name="title">The emotional bases of learning</field>
 <field name="year">1958</field>
 <field name="date">1958</field>
@@ -1149,7 +1149,7 @@ Services. Bulletin</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Garrison, Geraldine</field>
+<field name="author">Garrison, Geraldine</field><field name="author_nat">Geraldine Garrison</field>
 <field name="title">Stuttering</field>
 <field name="year">1954</field>
 <field name="date">1954</field>
@@ -1170,7 +1170,7 @@ Special Education"--Cover./ Includes bibliographical references (p. [1]).; Respo
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Stoughton, Robert W.</field>
+<field name="author">Stoughton, Robert W.</field><field name="author_nat">Robert W. Stoughton</field>
 <field name="corp_author">Connecticut State Department of Education</field>
 <field name="title">Current practices in Connecticut secondary schools : provisions for the
 "gifted"</field>
@@ -1250,7 +1250,7 @@ aptitudes in academic areas</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Karnes, Merle B.</field>
+<field name="author">Karnes, Merle B.</field><field name="author_nat">Merle B. Karnes</field>
 <field name="title">Helping young children develop language skills; a book of activities</field>
 <field name="year">1968</field>
 <field name="date">1968</field>
@@ -1285,11 +1285,11 @@ preschool students.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Bradshaw, James A.</field>
-<field name="author">Leman, George D.</field>
-<field name="author">McCartney, Louise D.</field>
-<field name="author">Murray, Aneta B.</field>
-<field name="author">White, Theodore R.</field>
+<field name="author">Bradshaw, James A.</field><field name="author_nat">James A. Bradshaw</field>
+<field name="author">Leman, George D.</field><field name="author_nat">George D. Leman</field>
+<field name="author">McCartney, Louise D.</field><field name="author_nat">Louise D. McCartney</field>
+<field name="author">Murray, Aneta B.</field><field name="author_nat">Aneta B. Murray</field>
+<field name="author">White, Theodore R.</field><field name="author_nat">Theodore R. White</field>
 <field name="title">Developmental education : a basic instructional guide in reading and other
 language arts, arithmetic, social and occupational living, level IV</field>
 <field name="year">1961</field>
@@ -1310,11 +1310,11 @@ Services, [Denver Public Schools].</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Bradshaw, James A.</field>
-<field name="author">Leman, George D.</field>
-<field name="author">McCartney, Louise D.</field>
-<field name="author">Murray, Aneta B.</field>
-<field name="author">White, Theodore R.</field>
+<field name="author">Bradshaw, James A.</field><field name="author_nat">James A. Bradshaw</field>
+<field name="author">Leman, George D.</field><field name="author_nat">George D. Leman</field>
+<field name="author">McCartney, Louise D.</field><field name="author_nat">Louise D. McCartney</field>
+<field name="author">Murray, Aneta B.</field><field name="author_nat">Aneta B. Murray</field>
+<field name="author">White, Theodore R.</field><field name="author_nat">Theodore R. White</field>
 <field name="title">Developmental education : a basic instructional guide in reading and other
 language arts, arithmetic, social and occupational living, level I</field>
 <field name="year">1961</field>
@@ -1334,11 +1334,11 @@ Services, [Denver Public Schools].</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Bradshaw, James A.</field>
-<field name="author">Leman, George D.</field>
-<field name="author">McCartney, Louise D.</field>
-<field name="author">Murray, Aneta B.</field>
-<field name="author">White, Theodore R.</field>
+<field name="author">Bradshaw, James A.</field><field name="author_nat">James A. Bradshaw</field>
+<field name="author">Leman, George D.</field><field name="author_nat">George D. Leman</field>
+<field name="author">McCartney, Louise D.</field><field name="author_nat">Louise D. McCartney</field>
+<field name="author">Murray, Aneta B.</field><field name="author_nat">Aneta B. Murray</field>
+<field name="author">White, Theodore R.</field><field name="author_nat">Theodore R. White</field>
 <field name="title">Developmental education : a basic instructional guide in reading and other
 language arts, arithmetic, social and occupational living, level V</field>
 <field name="year">1961</field>
@@ -1359,11 +1359,11 @@ Services, [Denver Public Schools].</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Bradshaw, James A.</field>
-<field name="author">Leman, George D.</field>
-<field name="author">McCartney, Louise D.</field>
-<field name="author">Murray, Aneta B.</field>
-<field name="author">White, Theodore R.</field>
+<field name="author">Bradshaw, James A.</field><field name="author_nat">James A. Bradshaw</field>
+<field name="author">Leman, George D.</field><field name="author_nat">George D. Leman</field>
+<field name="author">McCartney, Louise D.</field><field name="author_nat">Louise D. McCartney</field>
+<field name="author">Murray, Aneta B.</field><field name="author_nat">Aneta B. Murray</field>
+<field name="author">White, Theodore R.</field><field name="author_nat">Theodore R. White</field>
 <field name="title">Developmental education : a basic instructional guide in reading and other
 language arts, arithmetic, social and occupational living, level III</field>
 <field name="year">1961</field>
@@ -1383,11 +1383,11 @@ Services, [Denver Public Schools].</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Bradshaw, James A.</field>
-<field name="author">Leman, George D.</field>
-<field name="author">McCartney, Louise D.</field>
-<field name="author">Murray, Aneta B.</field>
-<field name="author">White, Theodore R.</field>
+<field name="author">Bradshaw, James A.</field><field name="author_nat">James A. Bradshaw</field>
+<field name="author">Leman, George D.</field><field name="author_nat">George D. Leman</field>
+<field name="author">McCartney, Louise D.</field><field name="author_nat">Louise D. McCartney</field>
+<field name="author">Murray, Aneta B.</field><field name="author_nat">Aneta B. Murray</field>
+<field name="author">White, Theodore R.</field><field name="author_nat">Theodore R. White</field>
 <field name="title">Developmental education : a basic instructional guide in reading and other
 language arts, arithmetic, social and occupational living, level II</field>
 <field name="year">1961</field>
@@ -1447,7 +1447,7 @@ grade twelve</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Jones, Lloid B.</field>
+<field name="author">Jones, Lloid B.</field><field name="author_nat">Lloid B. Jones</field>
 <field name="title">Identification of able and ambitious pupils including the gifted</field>
 <field name="year">1959</field>
 <field name="date">1959</field>
@@ -1478,9 +1478,9 @@ developmental. John Evans Elementary School</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Olson, Arthyr R.</field>
-<field name="author">Ehrenkrook, Wymond J.</field>
-<field name="author">Britton, Russell K.</field>
+<field name="author">Olson, Arthyr R.</field><field name="author_nat">Arthyr R. Olson</field>
+<field name="author">Ehrenkrook, Wymond J.</field><field name="author_nat">Wymond J. Ehrenkrook</field>
+<field name="author">Britton, Russell K.</field><field name="author_nat">Russell K. Britton</field>
 <field name="title">Guide for speech therapists</field>
 <field name="year">1959</field>
 <field name="date">1959</field>
@@ -1527,9 +1527,9 @@ schools</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">MacNair, C. R.</field>
-<field name="author">Hinds, Hazel</field>
-<field name="author">Crecelius, Charles</field>
+<field name="author">MacNair, C. R.</field><field name="author_nat">C. R. MacNair</field>
+<field name="author">Hinds, Hazel</field><field name="author_nat">Hazel Hinds</field>
+<field name="author">Crecelius, Charles</field><field name="author_nat">Charles Crecelius</field>
 <field name="title">The gifted program in Duarte Schools</field>
 <field name="year">1958</field>
 <field name="date">07/1958</field>
@@ -1684,9 +1684,9 @@ Start Information Services Department, ERIC Clearinghouse on Early Childhood Edu
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Miles, Oma</field>
-<field name="author">Anderson, Ruth</field>
-<field name="author">Merk, Dorothy</field>
+<field name="author">Miles, Oma</field><field name="author_nat">Oma Miles</field>
+<field name="author">Anderson, Ruth</field><field name="author_nat">Ruth Anderson</field>
+<field name="author">Merk, Dorothy</field><field name="author_nat">Dorothy Merk</field>
 <field name="title">We learn to talk</field>
 <field name="pages">32</field>
 <field name="keywords">Speech therapy</field>
@@ -1699,9 +1699,9 @@ Start Information Services Department, ERIC Clearinghouse on Early Childhood Edu
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Miles, Oma</field>
-<field name="author">Anderson, Ruth</field>
-<field name="author">Merk, Dorothy</field>
+<field name="author">Miles, Oma</field><field name="author_nat">Oma Miles</field>
+<field name="author">Anderson, Ruth</field><field name="author_nat">Ruth Anderson</field>
+<field name="author">Merk, Dorothy</field><field name="author_nat">Dorothy Merk</field>
 <field name="title">Stuttering: a guide for parents</field>
 <field name="pages">18</field>
 <field name="keywords">Speech therapy</field>
@@ -1736,7 +1736,7 @@ grades 1-6</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Marshall, Wayne P.</field>
+<field name="author">Marshall, Wayne P.</field><field name="author_nat">Wayne P. Marshall</field>
 <field name="title">The mentally gifted child in your classroom: some suggestions for recognizing
 and challenging them in Grand Island public schools</field>
 <field name="year">1955</field>
@@ -1823,7 +1823,7 @@ Services</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Gallagher, James John</field>
+<field name="author">Gallagher, James John</field><field name="author_nat">James John Gallagher</field>
 <field name="corp_author">Illinois. Office of the Superintendent of Public Instruction</field>
 <field name="title">Analysis of research on the education of gifted children</field>
 <field name="year">1960</field>
@@ -1843,8 +1843,8 @@ Instruction</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Goldstein, Herbert</field>
-<field name="author">Seigle, Dorothy M.</field>
+<field name="author">Goldstein, Herbert</field><field name="author_nat">Herbert Goldstein</field>
+<field name="author">Seigle, Dorothy M.</field><field name="author_nat">Dorothy M. Seigle</field>
 <field name="title">The Illinois plan for special education of exceptional children : a curriculum
 guide for teachers of the educable mentally handicapped</field>
 <field name="year">1964</field>
@@ -1880,8 +1880,8 @@ M. Seigle.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Nunn, Nita R.</field>
-<field name="author">Jones, Charles Ray</field>
+<field name="author">Nunn, Nita R.</field><field name="author_nat">Nita R. Nunn</field>
+<field name="author">Jones, Charles Ray</field><field name="author_nat">Charles Ray Jones</field>
 <field name="title">The learning pyramid: potential through perception</field>
 <field name="year">1972</field>
 <field name="date">1972</field>
@@ -1982,7 +1982,7 @@ Responsibility: Illinois Gifted Program Evaluation.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Hayes, Dorothy T.</field>
+<field name="author">Hayes, Dorothy T.</field><field name="author_nat">Dorothy T. Hayes</field>
 <field name="title">Normative growth and development</field>
 <field name="series_title">Selected references</field>
 <field name="series_vol">1</field>
@@ -1998,7 +1998,7 @@ Responsibility: Illinois Gifted Program Evaluation.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Wilson, Frank T</field>
+<field name="author">Wilson, Frank T</field><field name="author_nat">Frank T Wilson</field>
 <field name="title">Gifted child</field>
 <field name="series_title">Selected references</field>
 <field name="series_vol">3</field>
@@ -2014,7 +2014,7 @@ Responsibility: Illinois Gifted Program Evaluation.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Harnett, Mary</field>
+<field name="author">Harnett, Mary</field><field name="author_nat">Mary Harnett</field>
 <field name="title">Child with retarded mental development</field>
 <field name="series_title">Selected references</field>
 <field name="series_vol">4</field>
@@ -2030,7 +2030,7 @@ Responsibility: Illinois Gifted Program Evaluation.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Abel, Georgie Lee</field>
+<field name="author">Abel, Georgie Lee</field><field name="author_nat">Georgie Lee Abel</field>
 <field name="title">Blind child</field>
 <field name="series_title">Selected references</field>
 <field name="series_vol">5</field>
@@ -2046,7 +2046,7 @@ Responsibility: Illinois Gifted Program Evaluation.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Cohoe, Edith</field>
+<field name="author">Cohoe, Edith</field><field name="author_nat">Edith Cohoe</field>
 <field name="title">Partially seeing child</field>
 <field name="series_title">Selected references</field>
 <field name="series_vol">6</field>
@@ -2062,7 +2062,7 @@ Responsibility: Illinois Gifted Program Evaluation.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Strong, Alice</field>
+<field name="author">Strong, Alice</field><field name="author_nat">Alice Strong</field>
 <field name="title">Deaf child</field>
 <field name="series_title">Selected references</field>
 <field name="series_vol">7</field>
@@ -2078,8 +2078,8 @@ Responsibility: Illinois Gifted Program Evaluation.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">King, Kathryn V.</field>
-<field name="author">Lynndelle, Vivian</field>
+<field name="author">King, Kathryn V.</field><field name="author_nat">Kathryn V. King</field>
+<field name="author">Lynndelle, Vivian</field><field name="author_nat">Vivian Lynndelle</field>
 <field name="title">Hard of hearing child</field>
 <field name="series_title">Selected references</field>
 <field name="series_vol">8</field>
@@ -2095,7 +2095,7 @@ Responsibility: Illinois Gifted Program Evaluation.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Carpenter, Geraldine H.</field>
+<field name="author">Carpenter, Geraldine H.</field><field name="author_nat">Geraldine H. Carpenter</field>
 <field name="title">Child with cardiac disturbances</field>
 <field name="series_title">Selected references</field>
 <field name="series_vol">10</field>
@@ -2111,7 +2111,7 @@ Responsibility: Illinois Gifted Program Evaluation.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Dolphin, Jane E.</field>
+<field name="author">Dolphin, Jane E.</field><field name="author_nat">Jane E. Dolphin</field>
 <field name="title">Multiple handicapped child</field>
 <field name="series_title">Selected references</field>
 <field name="series_vol">12</field>
@@ -2127,7 +2127,7 @@ Responsibility: Illinois Gifted Program Evaluation.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Cherry, Betty S.</field>
+<field name="author">Cherry, Betty S.</field><field name="author_nat">Betty S. Cherry</field>
 <field name="title">Crippled children</field>
 <field name="series_title">Selected references</field>
 <field name="series_vol">13</field>
@@ -2143,7 +2143,7 @@ Responsibility: Illinois Gifted Program Evaluation.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Harper, Hazel C.</field>
+<field name="author">Harper, Hazel C.</field><field name="author_nat">Hazel C. Harper</field>
 <field name="title">Epileptic children</field>
 <field name="series_title">Selected references</field>
 <field name="series_vol">14</field>
@@ -2342,7 +2342,7 @@ Kentucky.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Motley, Dena</field>
+<field name="author">Motley, Dena</field><field name="author_nat">Dena Motley</field>
 <field name="corp_author">University of Kansas. Bureau of Child Research</field>
 <field name="title">Our visually handicapped children</field>
 <field name="year">1960</field>
@@ -2363,7 +2363,7 @@ series</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Schiefelbusch, Richard L.</field>
+<field name="author">Schiefelbusch, Richard L.</field><field name="author_nat">Richard L. Schiefelbusch</field>
 <field name="title">Our gifted children</field>
 <field name="year">1958</field>
 <field name="date">06/1958</field>

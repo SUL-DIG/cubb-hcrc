@@ -50,7 +50,7 @@ Service</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Holmes, Wyman</field>
+<field name="author">Holmes, Wyman</field><field name="author_nat">Wyman Holmes</field>
 <field name="title">The isms and you; how two big isms threaten our democracy, and what can be done
 about it</field>
 <field name="series_title">Living democracy series</field>
@@ -119,7 +119,7 @@ Relations Association, and National Congress of Parents and Teachers</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Binns, Ruth</field>
+<field name="author">Binns, Ruth</field><field name="author_nat">Ruth Binns</field>
 <field name="corp_author">Long Beach (California) Unified School District</field>
 <field name="title">It's your library : library service in the elementary schools : a handbook for
 administrators, teachers, and librarians</field>
@@ -140,7 +140,8 @@ Instruction</field>
 <doc>
 <field name="type">Book</field>
 <field name="author">Sanders, Maureen</field>
-<field name="author">Mitsakos, Charles L.</field>
+<field name="author">Mitsakos, Charles L.</field><field name="author_nat">Maureen Sanders</field>
+<field name="author_nat">Charles L. Mitsakos</field>
 <field name="title">The Japanese family : teacher's resource unit</field>
 <field name="series_title">Families around the world</field>
 <field name="keywords">Family</field>
@@ -195,7 +196,7 @@ and colleges in San Mateo County</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Wood, Hugh B.</field>
+<field name="author">Wood, Hugh B.</field><field name="author_nat">Hugh B. Wood</field>
 <field name="title">Job corps innovations: what educators can learn from our job corps
 experience</field>
 <field name="keywords">Aims and objectives</field>
@@ -281,7 +282,7 @@ Research Division of the United States Office of Education, effective prior to J
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Fooks, Virginia</field>
+<field name="author">Fooks, Virginia</field><field name="author_nat">Virginia Fooks</field>
 <field name="corp_author">Providence (Rhode Island) Public Schools. Department of Curriculum
 Research</field>
 <field name="title">The junior high school library : a guide for teachers</field>

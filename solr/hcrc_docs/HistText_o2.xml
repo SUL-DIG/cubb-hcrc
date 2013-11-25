@@ -55,7 +55,7 @@
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Miller, Lilian</field>
+<field name="author">Miller, Lilian</field><field name="author_nat">Lilian Miller</field>
 <field name="title">Elementary school course of study: Social studies in gr. IV-VI. Supplement IV:
 safety</field>
 <field name="keywords">Safety education</field>
@@ -95,7 +95,7 @@ chairman of the Committee./ Contains bibliographies.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Perry, Harold T.</field>
+<field name="author">Perry, Harold T.</field><field name="author_nat">Harold T. Perry</field>
 <field name="title">Elementary school guidance: a survey of purposes and practices in elementary
 school guidance as seen from the view of authorities in the field, principals, and teachers</field>
 <field name="keywords">Counseling in elementary education</field>
@@ -111,8 +111,8 @@ school guidance as seen from the view of authorities in the field, principals, a
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Foster, Mary Elizabeth</field>
-<field name="author">Purcell, Helen</field>
+<field name="author">Foster, Mary Elizabeth</field><field name="author_nat">Mary Elizabeth Foster</field>
+<field name="author">Purcell, Helen</field><field name="author_nat">Purcell, Helen</field>
 <field name="title">Elementary school libraries : standards for organization, school library list.</field>
 <field name="series_title">Pennsylvania. Dept. of public instruction. Bulletin</field>
 <field name="keywords">Reading</field>
@@ -173,7 +173,8 @@ Development</field>
 <doc>
 <field name="type">Book</field>
 <field name="author">Finley, Irene</field>
-<field name="author">Cheatwood, Ramona</field>
+<field name="author">Cheatwood, Ramona</field><field name="author_nat">Irene Finley</field>
+<field name="author_nat">Ramona Cheatwood</field>
 <field name="title">The elementary school library: grades I-VI</field>
 <field name="keywords">Library instruction</field>
 <field name="year">1936</field>
@@ -192,7 +193,8 @@ Development</field>
 <doc>
 <field name="type">Book</field>
 <field name="author">Hohl, George W.</field>
-<field name="author">Merkley, Elaine</field>
+<field name="author">Merkley, Elaine</field><field name="author_nat">George W. Hohl</field>
+<field name="author_nat">Elaine Merkley</field>
 <field name="title">Elementary school trips</field>
 <field name="keywords">School field trips</field>
 <field name="year">1956</field>
@@ -207,7 +209,7 @@ Development</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Digneo, Ellen Hartnett</field>
+<field name="author">Digneo, Ellen Hartnett</field><field name="author_nat">Ellen Hartnett Digneo</field>
 <field name="title">Elementary social studies (tentative guide) grades 1-6</field>
 <field name="keywords">Social sciences</field>
 <field name="keywords">Curricula</field>
@@ -329,7 +331,11 @@ Angeles City Schools</field>
 <field name="author">Kyes, Frances</field>
 <field name="author">Nesbitt, Susan</field>
 <field name="author">Lynch, Valerie</field>
-<field name="author">White, Clyde</field>
+<field name="author">White, Clyde</field><field name="author_nat">William Rader</field>
+<field name="author_nat">Frances Kyes</field>
+<field name="author_nat">Susan Nesbitt</field>
+<field name="author_nat">Valerie Lynch</field>
+<field name="author_nat">Clyde White</field>
 <field name="corp_author">University of Chicago. Industrial Relations Center. Elementary Economics
 Project</field>
 <field name="title">Elementary-school economics 1: projects</field>
@@ -354,7 +360,13 @@ Project</field>
 <field name="author">Lee, Robert</field>
 <field name="author">Lynch, Valerie</field>
 <field name="author">Mason, William</field>
-<field name="author">Nesbitt, Susan</field>
+<field name="author">Nesbitt, Susan</field><field name="author_nat">Jeremiah German</field>
+<field name="author_nat">Willis Giese</field>
+<field name="author_nat">Frances Kyes</field>
+<field name="author_nat">Robert Lee</field>
+<field name="author_nat">Valerie Lynch</field>
+<field name="author_nat">William Mason</field>
+<field name="author_nat">Susan Nesbitt</field>
 <field name="corp_author">University of Chicago. Industrial Relations Center. Elementary Economics
 Project</field>
 <field name="title">Elementary-school economics 1: readings</field>

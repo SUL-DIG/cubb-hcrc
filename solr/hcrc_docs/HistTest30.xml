@@ -1,11 +1,11 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="type">Book</field>
-<field name="author">Gunn, Mary Agnella</field>
-<field name="author">Early, Margaret J.</field>
-<field name="author">McCullough, Constance J.</field>
-<field name="author">De Boer, John J.</field>
-<field name="author">Hanlon, Helen J.</field>
+<field name="author">Gunn, Mary Agnella</field><field name="author_nat">Mary Agnella Gunn</field>
+<field name="author">Early, Margaret J.</field><field name="author_nat">Margaret J. Early</field>
+<field name="author">McCullough, Constance J.</field><field name="author_nat">Constance J. McCullough</field>
+<field name="author">De Boer, John J.</field><field name="author_nat">John J. De Boer</field>
+<field name="author">Hanlon, Helen J.</field><field name="author_nat">Helen J. Hanlon</field>
 <field name="title">What we know about high school reading</field>
 <field name="year">1957</field>
 <field name="date">1957-1958</field>
@@ -22,8 +22,8 @@
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Lundblad, Helen</field>
-<field name="author">Smith, Carl Bernard</field>
+<field name="author">Lundblad, Helen</field><field name="author_nat">Helen Lundblad</field>
+<field name="author">Smith, Carl Bernard</field><field name="author_nat">Carl Bernard Smith</field>
 <field name="title">Tutor trainers handbook</field>
 <field name="year">1972</field>
 <field name="date">1972</field>
@@ -41,7 +41,7 @@ of Education."; Responsibility: by Helen Lundblad [and] Carl B. Smith.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Monroe,Marion</field>
+<field name="author">Monroe,Marion</field><field name="author_nat"/>
 <field name="title">Suggestions for remedial instruction in reading</field>
 <field name="pages">12</field>
 <field name="keywords">Reading</field>
@@ -163,9 +163,9 @@ ser.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Draper, Marcella K.</field>
-<field name="author">Lazar, May</field>
-<field name="author">Schwietert, Louise</field>
+<field name="author">Draper, Marcella K.</field><field name="author_nat">Marcella K. Draper</field>
+<field name="author">Lazar, May</field><field name="author_nat">May Lazar</field>
+<field name="author">Schwietert, Louise</field><field name="author_nat">Louise Schwietert</field>
 <field name="corp_author">New York (New York) Bureau of Educational Research</field>
 <field name="title">Individualized reading : interim report ; survey in selected schools,
 1956-57.</field>
@@ -210,9 +210,9 @@ ser.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Draper, Marcella K.</field>
-<field name="author">Lazar, May</field>
-<field name="author">Schwietert, Louise</field>
+<field name="author">Draper, Marcella K.</field><field name="author_nat">Marcella K. Draper</field>
+<field name="author">Lazar, May</field><field name="author_nat">May Lazar</field>
+<field name="author">Schwietert, Louise</field><field name="author_nat">Louise Schwietert</field>
 <field name="corp_author">New York (New York) Bureau of Educational Research</field>
 <field name="title">Individualized reading and the reading skills</field>
 <field name="year">1958</field>
@@ -231,9 +231,9 @@ ser.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Draper, Marcella K.</field>
-<field name="author">Lazar, May</field>
-<field name="author">Schwietert, Louise</field>
+<field name="author">Draper, Marcella K.</field><field name="author_nat">Marcella K. Draper</field>
+<field name="author">Lazar, May</field><field name="author_nat">May Lazar</field>
+<field name="author">Schwietert, Louise</field><field name="author_nat">Louise Schwietert</field>
 <field name="corp_author">New York (New York) Bureau of Educational Research</field>
 <field name="title">Effective classroom practices in individualized reading</field>
 <field name="year">1958</field>
@@ -251,8 +251,8 @@ ser.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Draper, Marcella K.</field>
-<field name="author">Lazar, May</field>
+<field name="author">Draper, Marcella K.</field><field name="author_nat">Marcella K. Draper</field>
+<field name="author">Lazar, May</field><field name="author_nat">May Lazar</field>
 <field name="corp_author">New York (New York) Bureau of Educational Research</field>
 <field name="title">Thinking about individualized reading</field>
 <field name="year">1956</field>
@@ -303,7 +303,7 @@ supplement</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Lazar, May</field>
+<field name="author">Lazar, May</field><field name="author_nat">May Lazar</field>
 <field name="corp_author">New York (New York) Bureau of Educational Research</field>
 <field name="title">Individualized reading: a program of seeking, self-selection and pacing</field>
 <field name="year">1957</field>
@@ -320,9 +320,9 @@ supplement</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Draper, Marcella K.</field>
-<field name="author">Lazar, May</field>
-<field name="author">Schwietert, Louise</field>
+<field name="author">Draper, Marcella K.</field><field name="author_nat">Marcella K. Draper</field>
+<field name="author">Lazar, May</field><field name="author_nat">May Lazar</field>
+<field name="author">Schwietert, Louise</field><field name="author_nat">Louise Schwietert</field>
 <field name="corp_author">New York (New York) Bureau of Educational Research</field>
 <field name="title">Problems in individualized reading</field>
 <field name="year">1958</field>
@@ -340,7 +340,7 @@ supplement</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Cooke, Dorothy Elizabeth</field>
+<field name="author">Cooke, Dorothy Elizabeth</field><field name="author_nat">Dorothy Elizabeth Cooke</field>
 <field name="title">The first "R" : reading</field>
 <field name="year">1957</field>
 <field name="date">1957</field>
@@ -358,9 +358,9 @@ Development</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Draper, Marcella K.</field>
-<field name="author">Lazar, May</field>
-<field name="author">Schwietert, Louise</field>
+<field name="author">Draper, Marcella K.</field><field name="author_nat">Marcella K. Draper</field>
+<field name="author">Lazar, May</field><field name="author_nat">May Lazar</field>
+<field name="author">Schwietert, Louise</field><field name="author_nat">Louise Schwietert</field>
 <field name="corp_author">New York (New York) Bureau of Educational Research</field>
 <field name="title">Vocabulary study : a study of the vocabulary content of preprimers through
 third-grade readers in eleven basic reading series.</field>
@@ -532,8 +532,8 @@ reading</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Starr, John W.</field>
-<field name="author">Brown, Don</field>
+<field name="author">Starr, John W.</field><field name="author_nat">John W. Starr</field>
+<field name="author">Brown, Don</field><field name="author_nat">Don Brown</field>
 <field name="title">Games and strategies for teaching reading</field>
 <field name="year">1975</field>
 <field name="date">11/1975</field>
@@ -551,7 +551,7 @@ reading</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Gengler, Charles</field>
+<field name="author">Gengler, Charles</field><field name="author_nat">Charles Gengler</field>
 <field name="title">An inventory of reading skills</field>
 <field name="year">1972</field>
 <field name="date">07/1972</field>
@@ -568,7 +568,7 @@ reading</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Bateman, Barbara</field>
+<field name="author">Bateman, Barbara</field><field name="author_nat">Barbara Bateman</field>
 <field name="title">Reading: a controversial view; research and rationale</field>
 <field name="year">1967</field>
 <field name="date">05/1967</field>
@@ -588,7 +588,7 @@ Responsibility: editor, Hugh B. Wood.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Bentall, Grace</field>
+<field name="author">Bentall, Grace</field><field name="author_nat">Grace Bentall</field>
 <field name="title">Remedial reading : case studies</field>
 <field name="year">1972</field>
 <field name="date">01/1972</field>
@@ -609,9 +609,9 @@ Bentall.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Utsey, Jordan</field>
-<field name="author">Gifford, Grant</field>
-<field name="author">Sheridan, Jack</field>
+<field name="author">Utsey, Jordan</field><field name="author_nat">Jordan Utsey</field>
+<field name="author">Gifford, Grant</field><field name="author_nat">Grant Gifford</field>
+<field name="author">Sheridan, Jack</field><field name="author_nat">Jack Sheridan</field>
 <field name="title">A concise summary of the content of word attack skills</field>
 <field name="year">1964</field>
 <field name="date">06/1964</field>
@@ -628,7 +628,7 @@ Bentall.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">McLain, John</field>
+<field name="author">McLain, John</field><field name="author_nat">John McLain</field>
 <field name="title">Individualization of instruction</field>
 <field name="year">1963</field>
 <field name="date">10/1963</field>
@@ -645,7 +645,7 @@ Bentall.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Brown, Don</field>
+<field name="author">Brown, Don</field><field name="author_nat">Don Brown</field>
 <field name="title">Remedial reading activities : an idea book</field>
 <field name="year">1967</field>
 <field name="date">02/1967</field>
@@ -665,8 +665,8 @@ Bentall.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Farrow, Vern, L.</field>
-<field name="author">Bosma, Ruth L.</field>
+<field name="author">Farrow, Vern, L.</field><field name="author_nat">L. Farrow, Vern</field>
+<field name="author">Bosma, Ruth L.</field><field name="author_nat">Ruth L. Bosma</field>
 <field name="title">I/t/a the hard way; a research report</field>
 <field name="year">1966</field>
 <field name="date">11/1966</field>
@@ -687,7 +687,7 @@ and Ruth Bosma.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Anastasiow, Nicholas</field>
+<field name="author">Anastasiow, Nicholas</field><field name="author_nat">Nicholas Anastasiow</field>
 <field name="title">Evaluation of an experimental kindergarten reading program</field>
 <field name="year">1964</field>
 <field name="date">1964?</field>
@@ -703,7 +703,7 @@ and Ruth Bosma.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Anastasiow, Nicholas</field>
+<field name="author">Anastasiow, Nicholas</field><field name="author_nat">Nicholas Anastasiow</field>
 <field name="title">Progress report: evaluation of the story reading program</field>
 <field name="year">1965</field>
 <field name="date">09/1965</field>
@@ -719,7 +719,7 @@ and Ruth Bosma.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Anastasiow, Nicholas</field>
+<field name="author">Anastasiow, Nicholas</field><field name="author_nat">Nicholas Anastasiow</field>
 <field name="title">Progress report #2: evaluation of the story reading program</field>
 <field name="year">1966</field>
 <field name="date">07/1966</field>
@@ -735,7 +735,7 @@ and Ruth Bosma.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Scobie, Mary Margaret</field>
+<field name="author">Scobie, Mary Margaret</field><field name="author_nat">Mary Margaret Scobie</field>
 <field name="title">Suggested areas for independent activities</field>
 <field name="year">1952</field>
 <field name="date">10/1952</field>
@@ -852,7 +852,7 @@ teaching of beginning reading</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Hinze, Richard H.</field>
+<field name="author">Hinze, Richard H.</field><field name="author_nat">Richard H. Hinze</field>
 <field name="title">Reading curriculum development</field>
 <field name="year">1957</field>
 <field name="date">09/1957</field>
@@ -902,9 +902,9 @@ techniques</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Starnes, Howard F.</field>
-<field name="author">Wright, W. Neal</field>
-<field name="author">Payne, William</field>
+<field name="author">Starnes, Howard F.</field><field name="author_nat">Howard F. Starnes</field>
+<field name="author">Wright, W. Neal</field><field name="author_nat">W. Neal Wright</field>
+<field name="author">Payne, William</field><field name="author_nat">William Payne</field>
 <field name="title">A reading guide for first grade</field>
 <field name="year">1957</field>
 <field name="date">1957</field>
@@ -920,9 +920,9 @@ techniques</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Starnes, Howard F.</field>
-<field name="author">Wright, W. Neal</field>
-<field name="author">Payne, William</field>
+<field name="author">Starnes, Howard F.</field><field name="author_nat">Howard F. Starnes</field>
+<field name="author">Wright, W. Neal</field><field name="author_nat">W. Neal Wright</field>
+<field name="author">Payne, William</field><field name="author_nat">William Payne</field>
 <field name="title">A reading guide for second grade</field>
 <field name="year">1957</field>
 <field name="date">1957</field>
@@ -938,9 +938,9 @@ techniques</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Starnes, Howard F.</field>
-<field name="author">Wright, W. Neal</field>
-<field name="author">Payne, William</field>
+<field name="author">Starnes, Howard F.</field><field name="author_nat">Howard F. Starnes</field>
+<field name="author">Wright, W. Neal</field><field name="author_nat">W. Neal Wright</field>
+<field name="author">Payne, William</field><field name="author_nat">William Payne</field>
 <field name="title">A reading guide for third grade</field>
 <field name="year">1957</field>
 <field name="date">1957</field>
@@ -956,9 +956,9 @@ techniques</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Starnes, Howard F.</field>
-<field name="author">Wright, W. Neal</field>
-<field name="author">Payne, William</field>
+<field name="author">Starnes, Howard F.</field><field name="author_nat">Howard F. Starnes</field>
+<field name="author">Wright, W. Neal</field><field name="author_nat">W. Neal Wright</field>
+<field name="author">Payne, William</field><field name="author_nat">William Payne</field>
 <field name="title">A reading guide for fourth grade</field>
 <field name="year">1957</field>
 <field name="date">1957</field>
@@ -974,9 +974,9 @@ techniques</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Matranga, James M.</field>
-<field name="author">Moore, John E.</field>
-<field name="author">Knight, Vick</field>
+<field name="author">Matranga, James M.</field><field name="author_nat">James M. Matranga</field>
+<field name="author">Moore, John E.</field><field name="author_nat">John E. Moore</field>
+<field name="author">Knight, Vick</field><field name="author_nat">Vick Knight</field>
 <field name="title">A fifth grade reading guide</field>
 <field name="year">1957</field>
 <field name="date">1957</field>
@@ -992,9 +992,9 @@ techniques</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Matranga, James M.</field>
-<field name="author">Moore, John E.</field>
-<field name="author">Knight, Vick</field>
+<field name="author">Matranga, James M.</field><field name="author_nat">James M. Matranga</field>
+<field name="author">Moore, John E.</field><field name="author_nat">John E. Moore</field>
+<field name="author">Knight, Vick</field><field name="author_nat">Vick Knight</field>
 <field name="title">A sixth grade reading guide</field>
 <field name="year">1957</field>
 <field name="date">1957</field>
@@ -1010,9 +1010,9 @@ techniques</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Matranga, James M.</field>
-<field name="author">Moore, John E.</field>
-<field name="author">Knight, Vick</field>
+<field name="author">Matranga, James M.</field><field name="author_nat">James M. Matranga</field>
+<field name="author">Moore, John E.</field><field name="author_nat">John E. Moore</field>
+<field name="author">Knight, Vick</field><field name="author_nat">Vick Knight</field>
 <field name="title">A seventh grade reading guide</field>
 <field name="year">1957</field>
 <field name="date">1957</field>
@@ -1028,9 +1028,9 @@ techniques</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Matranga, James M.</field>
-<field name="author">Moore, John E.</field>
-<field name="author">Knight, Vick</field>
+<field name="author">Matranga, James M.</field><field name="author_nat">James M. Matranga</field>
+<field name="author">Moore, John E.</field><field name="author_nat">John E. Moore</field>
+<field name="author">Knight, Vick</field><field name="author_nat">Vick Knight</field>
 <field name="title">A eighth grade reading guide</field>
 <field name="year">1957</field>
 <field name="date">1957</field>
@@ -1046,7 +1046,7 @@ techniques</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Lee, Robert B.</field>
+<field name="author">Lee, Robert B.</field><field name="author_nat">Robert B. Lee</field>
 <field name="title">Reading course of study: first grade</field>
 <field name="year">1963</field>
 <field name="date">1963?</field>
@@ -1062,7 +1062,7 @@ techniques</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Lee, Robert B.</field>
+<field name="author">Lee, Robert B.</field><field name="author_nat">Robert B. Lee</field>
 <field name="title">Reading course of study: second grade</field>
 <field name="year">1963</field>
 <field name="date">1963?</field>
@@ -1078,7 +1078,7 @@ techniques</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Lee, Robert B.</field>
+<field name="author">Lee, Robert B.</field><field name="author_nat">Robert B. Lee</field>
 <field name="title">Reading course of study: third grade</field>
 <field name="year">1963</field>
 <field name="date">1963?</field>
@@ -1094,7 +1094,7 @@ techniques</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Lee, Robert B.</field>
+<field name="author">Lee, Robert B.</field><field name="author_nat">Robert B. Lee</field>
 <field name="title">Reading course of study: fourth grade</field>
 <field name="year">1963</field>
 <field name="date">1963?</field>
@@ -1124,7 +1124,7 @@ techniques</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Cameron, Mildred M.</field>
+<field name="author">Cameron, Mildred M.</field><field name="author_nat">Mildred M. Cameron</field>
 <field name="title">Reading: grade one</field>
 <field name="year">1961</field>
 <field name="date">1961</field>
@@ -1140,7 +1140,7 @@ techniques</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Cameron, Mildred M.</field>
+<field name="author">Cameron, Mildred M.</field><field name="author_nat">Mildred M. Cameron</field>
 <field name="title">Reading: grade two</field>
 <field name="year">1961</field>
 <field name="date">1961</field>
@@ -1156,7 +1156,7 @@ techniques</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Cameron, Mildred M.</field>
+<field name="author">Cameron, Mildred M.</field><field name="author_nat">Mildred M. Cameron</field>
 <field name="title">Reading: grade three</field>
 <field name="year">1961</field>
 <field name="date">1961</field>
@@ -1172,7 +1172,7 @@ techniques</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Cameron, Mildred M.</field>
+<field name="author">Cameron, Mildred M.</field><field name="author_nat">Mildred M. Cameron</field>
 <field name="title">Reading: grade four</field>
 <field name="year">1961</field>
 <field name="date">1961</field>
@@ -1188,7 +1188,7 @@ techniques</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Cameron, Mildred M.</field>
+<field name="author">Cameron, Mildred M.</field><field name="author_nat">Mildred M. Cameron</field>
 <field name="title">Reading: grade five</field>
 <field name="year">1961</field>
 <field name="date">1961</field>
@@ -1228,7 +1228,7 @@ Board of Education</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Nubling, Lois</field>
+<field name="author">Nubling, Lois</field><field name="author_nat">Lois Nubling</field>
 <field name="title">Corrective reading in the classroom: a handbook for classroom teachers</field>
 <field name="year">1966</field>
 <field name="date">1966</field>
@@ -1288,8 +1288,8 @@ Halvorsen</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Van Allen, R.</field>
-<field name="author">Halvorsen, Gladys C.</field>
+<field name="author">Van Allen, R.</field><field name="author_nat">R. Van Allen</field>
+<field name="author">Halvorsen, Gladys C.</field><field name="author_nat">Gladys C. Halvorsen</field>
 <field name="title">The language-experience approach to reading instruction</field>
 <field name="year">1964</field>
 <field name="date">1964</field>
@@ -1305,7 +1305,7 @@ Halvorsen</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">McCullough, Constance M.</field>
+<field name="author">McCullough, Constance M.</field><field name="author_nat">Constance M. McCullough</field>
 <field name="title">Independent reading activities</field>
 <field name="year">1965</field>
 <field name="date">1965</field>
@@ -1353,7 +1353,7 @@ machines and programed reading instruction"</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Komoski, P. Kenneth</field>
+<field name="author">Komoski, P. Kenneth</field><field name="author_nat">P. Kenneth Komoski</field>
 <field name="title">Teaching machines and programed reading instruction</field>
 <field name="pages">14</field>
 <field name="keywords">Reading</field>
@@ -1367,7 +1367,7 @@ Instruction, New York, at the 25th Annual Reading Conference, University of Chic
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Carpenter, C. R.</field>
+<field name="author">Carpenter, C. R.</field><field name="author_nat">C. R. Carpenter</field>
 <field name="title">Television and programed learning materials: programed reading kit</field>
 <field name="year">1963</field>
 <field name="date">06/1963</field>
@@ -1385,9 +1385,9 @@ Instruction, New York, at the 25th Annual Reading Conference, University of Chic
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Maier, Milton H.</field>
-<field name="author">Stolurow, Lawrence M.</field>
-<field name="author">Jacobs, Paul I.</field>
+<field name="author">Maier, Milton H.</field><field name="author_nat">Milton H. Maier</field>
+<field name="author">Stolurow, Lawrence M.</field><field name="author_nat">Lawrence M. Stolurow</field>
+<field name="author">Jacobs, Paul I.</field><field name="author_nat">Paul I. Jacobs</field>
 <field name="title">Check list for evaluating a program</field>
 <field name="year">1963</field>
 <field name="date">03/1963</field>
@@ -1623,10 +1623,10 @@ Responsibility: [edited by Toni Child ; designed by John Conyers].</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Dobson, Patricia</field>
-<field name="author">Leonard, Emily</field>
-<field name="author">Stacy, Gertrude</field>
-<field name="author">Tenneson, Deloris</field>
+<field name="author">Dobson, Patricia</field><field name="author_nat">Patricia Dobson</field>
+<field name="author">Leonard, Emily</field><field name="author_nat">Emily Leonard</field>
+<field name="author">Stacy, Gertrude</field><field name="author_nat">Gertrude Stacy</field>
+<field name="author">Tenneson, Deloris</field><field name="author_nat">Deloris Tenneson</field>
 <field name="title">Reading skills, first through eighth grade</field>
 <field name="year">1958</field>
 <field name="date">1958-1959</field>
@@ -1687,7 +1687,7 @@ Responsibility: [edited by Toni Child ; designed by John Conyers].</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Thornton, Robert D.</field>
+<field name="author">Thornton, Robert D.</field><field name="author_nat">Robert D. Thornton</field>
 <field name="title">Developmental reading in Texas secondary schools, January, 1957</field>
 <field name="year">1957</field>
 <field name="date">06/1957</field>
@@ -1707,7 +1707,7 @@ Responsibility: Robert D. Thornton.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Scobey, Mary-Margaret</field>
+<field name="author">Scobey, Mary-Margaret</field><field name="author_nat">Mary-Margaret Scobey</field>
 <field name="title">Suggestions for independent activities</field>
 <field name="pages">37</field>
 <field name="keywords">Reading</field>
@@ -1807,8 +1807,8 @@ Responsibility: Robert D. Thornton.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Veatch, Jeannette</field>
-<field name="author">Goodrich, Warren</field>
+<field name="author">Veatch, Jeannette</field><field name="author_nat">Jeannette Veatch</field>
+<field name="author">Goodrich, Warren</field><field name="author_nat">Warren Goodrich</field>
 <field name="title">How to teach reading with children's books</field>
 <field name="year">1964</field>
 <field name="date">1964</field>
@@ -1915,7 +1915,7 @@ Department</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Ord, John</field>
+<field name="author">Ord, John</field><field name="author_nat">John Ord</field>
 <field name="corp_author">Yolo County (California) Schools</field>
 <field name="title">Developmental reading program, grades 1-8</field>
 <field name="year">1954</field>
@@ -1937,8 +1937,8 @@ Department</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Ord, John</field>
-<field name="author">Amos, Vanna Mae</field>
+<field name="author">Ord, John</field><field name="author_nat">John Ord</field>
+<field name="author">Amos, Vanna Mae</field><field name="author_nat">Vanna Mae Amos</field>
 <field name="corp_author">Yolo County (California) Schools</field>
 <field name="title">Developmental reading program, grades 1-8</field>
 <field name="year">1955</field>

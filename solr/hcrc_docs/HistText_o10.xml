@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 
     
     <doc>
@@ -14,10 +14,10 @@
         <field name="pages">143</field>
         <field name="language">English</field>
         <field name="call_number">371.33 .M661m v. 7</field>
-        <field name="notes">143 p. ; 22 x 28 cm.; Note(s): &quot;These materials were developed by the
+        <field name="notes">143 p. ; 22 x 28 cm.; Note(s): "These materials were developed by the
             Project Social Studies Curriculum Center of the University of Minnesota under a special contract
             with the Cooperative Reserarch Division of the United States Office of Education, effective prior to
-            July 14, 1965 (Project HS-045).&quot;</field>
+            July 14, 1965 (Project HS-045)."</field>
         <field name="state_country">Minnesota</field>
     </doc>
     
@@ -58,7 +58,7 @@
     
     <doc>
         <field name="type">Book</field>
-        <field name="author">Morehouse, Ward</field>
+        <field name="author">Morehouse, Ward</field><field name="author_nat">Ward Morehouse</field>
         <field name="title">The international dimensions of education in New York State : guidelines for the
             development of foreign area studies in New York schools and colleges and for strEnglishthening the
             role in international education of the State Education department</field>
@@ -71,7 +71,7 @@
         <field name="pages">48</field>
         <field name="language">English</field>
         <field name="call_number">327 .N532f v. 1</field>
-        <field name="notes">vii; ill. ; 22 cm.; Note(s): &quot;May 1, 1963&quot;--Letter of transmittal./
+        <field name="notes">vii; ill. ; 22 cm.; Note(s): "May 1, 1963"--Letter of transmittal./
             Includes bibliographical references.; General Info: Continued in 1963 by: The challEnglishe of a
             revolutionary world (University of the State of New York).; Responsibility: by Ward
             Morehouse.</field>

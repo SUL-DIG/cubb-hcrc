@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="type">Book</field>
 <field name="corp_author">Gary (Indiana) Public Schools</field>
@@ -98,8 +98,8 @@
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Gould, Annabelle</field>
-<field name="author">Schollaert, Warren</field>
+<field name="author">Gould, Annabelle</field><field name="author_nat">Annabelle Gould</field>
+<field name="author">Schollaert, Warren</field><field name="author_nat">Warren Schollaert</field>
 <field name="title">Reading activities for primary and intermediate grades</field>
 <field name="year">1967</field>
 <field name="date">1967</field>
@@ -120,13 +120,13 @@ Individualizing your reading program -- Keep it rewarding.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Grant, Eugene Benjamin</field>
-<field name="author">Karlin, Robert</field>
-<field name="author">Burnett, Richard</field>
-<field name="author">Fishback, Woodson W.</field>
-<field name="author">Littlehale, Robert</field>
-<field name="author">Frueh, Myrtle</field>
-<field name="author">McCann, Ann</field>
+<field name="author">Grant, Eugene Benjamin</field><field name="author_nat">Eugene Benjamin Grant</field>
+<field name="author">Karlin, Robert</field><field name="author_nat">Robert Karlin</field>
+<field name="author">Burnett, Richard</field><field name="author_nat">Richard Burnett</field>
+<field name="author">Fishback, Woodson W.</field><field name="author_nat">Woodson W. Fishback</field>
+<field name="author">Littlehale, Robert</field><field name="author_nat">Robert Littlehale</field>
+<field name="author">Frueh, Myrtle</field><field name="author_nat">Myrtle Frueh</field>
+<field name="author">McCann, Ann</field><field name="author_nat">Ann McCann</field>
 <field name="corp_author">Illinois Curriculum Program</field>
 <field name="title">Developmental reading</field>
 <field name="year">1964</field>
@@ -147,7 +147,7 @@ Bulletin</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Sunderland, Harold</field>
+<field name="author">Sunderland, Harold</field><field name="author_nat">Harold Sunderland</field>
 <field name="title">Phonics in the elementary schools, grades one to six</field>
 <field name="pages">27</field>
 <field name="keywords">Reading</field>
@@ -168,8 +168,8 @@ Bulletin</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Johnson, Marjorie Seddon</field>
-<field name="author">Kress, Roy A.</field>
+<field name="author">Johnson, Marjorie Seddon</field><field name="author_nat">Marjorie Seddon Johnson</field>
+<field name="author">Kress, Roy A.</field><field name="author_nat">Roy A. Kress</field>
 <field name="corp_author">International Reading Association</field>
 <field name="title">Informal reading inventories</field>
 <field name="year">1965</field>
@@ -188,9 +188,9 @@ Responsibility: by Marjorie Seddon Johnson and Roy A. Kress.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Lee, Dorris May Potter</field>
-<field name="author">Woelfel, Sue</field>
-<field name="author">Bingham, Alma</field>
+<field name="author">Lee, Dorris May Potter</field><field name="author_nat">Dorris May Potter Lee</field>
+<field name="author">Woelfel, Sue</field><field name="author_nat">Sue Woelfel</field>
+<field name="author">Bingham, Alma</field><field name="author_nat">Alma Bingham</field>
 <field name="title">Critical reading develops early</field>
 <field name="year">1968</field>
 <field name="date">1968</field>
@@ -206,7 +206,7 @@ Responsibility: by Marjorie Seddon Johnson and Roy A. Kress.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Viox, Ruth G.</field>
+<field name="author">Viox, Ruth G.</field><field name="author_nat">Ruth G. Viox</field>
 <field name="title">Evaluating reading and study skills in the secondary classroom; a guide for
 content teachers</field>
 <field name="year">1968</field>
@@ -226,8 +226,8 @@ Viox.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Whipple, Gertrude</field>
-<field name="author">Black, Millard H.</field>
+<field name="author">Whipple, Gertrude</field><field name="author_nat">Gertrude Whipple</field>
+<field name="author">Black, Millard H.</field><field name="author_nat">Millard H. Black</field>
 <field name="title">Reading for children without : our disadvantaged youth</field>
 <field name="year">1966</field>
 <field name="date">1966</field>
@@ -246,8 +246,8 @@ Black.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Farr, Roger C.</field>
-<field name="author">Anastasiow, Nicholas J.</field>
+<field name="author">Farr, Roger C.</field><field name="author_nat">Roger C. Farr</field>
+<field name="author">Anastasiow, Nicholas J.</field><field name="author_nat">Nicholas J. Anastasiow</field>
 <field name="title">Tests of reading readiness and achievement; a review and evaluation</field>
 <field name="year">1969</field>
 <field name="date">1969</field>
@@ -264,9 +264,9 @@ Black.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Sargent, Eileen E.</field>
-<field name="author">Huus, Helen</field>
-<field name="author">Andresen, Oliver</field>
+<field name="author">Sargent, Eileen E.</field><field name="author_nat">Eileen E. Sargent</field>
+<field name="author">Huus, Helen</field><field name="author_nat">Helen Huus</field>
+<field name="author">Andresen, Oliver</field><field name="author_nat">Oliver Andresen</field>
 <field name="title">How to read a book</field>
 <field name="year">1970</field>
 <field name="date">1970</field>
@@ -284,8 +284,8 @@ Responsibility: [by] Eileen E. Sargent, Helen Huus [and] Oliver Andresen.</field
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Stauffer, Russell G.</field>
-<field name="author">Cramer, Ronald L.</field>
+<field name="author">Stauffer, Russell G.</field><field name="author_nat">Russell G. Stauffer</field>
+<field name="author">Cramer, Ronald L.</field><field name="author_nat">Ronald L. Cramer</field>
 <field name="corp_author">International Reading Association</field>
 <field name="title">Teaching critical reading at the primary level</field>
 <field name="year">1968</field>
@@ -303,7 +303,7 @@ by Russell G. Stauffer and Ronald Cramer.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Strang, Ruth May</field>
+<field name="author">Strang, Ruth May</field><field name="author_nat">Ruth May Strang</field>
 <field name="corp_author">International Reading Association</field>
 <field name="title">Guidance and the teaching of reading</field>
 <field name="year">1969</field>
@@ -322,9 +322,9 @@ Strang.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Blanton, William E.</field>
-<field name="author">Farr, Roger C.</field>
-<field name="author">Tuinman, J. Jaap</field>
+<field name="author">Blanton, William E.</field><field name="author_nat">William E. Blanton</field>
+<field name="author">Farr, Roger C.</field><field name="author_nat">Roger C. Farr</field>
+<field name="author">Tuinman, J. Jaap</field><field name="author_nat">J. Jaap Tuinman</field>
 <field name="title">Reading tests for the secondary grades: a review and evaluation</field>
 <field name="year">1972</field>
 <field name="date">1972</field>
@@ -343,7 +343,7 @@ editors.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Cheyney, Arnold B.</field>
+<field name="author">Cheyney, Arnold B.</field><field name="author_nat">Arnold B. Cheyney</field>
 <field name="title">Teaching reading skills through the newspaper</field>
 <field name="year">1971</field>
 <field name="date">1971</field>
@@ -361,7 +361,7 @@ B. Cheyney.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Kaufman, Maurice</field>
+<field name="author">Kaufman, Maurice</field><field name="author_nat">Maurice Kaufman</field>
 <field name="title">Perceptual and language readiness programs; critical reviews</field>
 <field name="year">1973</field>
 <field name="date">1973</field>
@@ -380,8 +380,8 @@ B. Cheyney.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Otto, Wayne</field>
-<field name="author">Erickson, Lawrence G.</field>
+<field name="author">Otto, Wayne</field><field name="author_nat">Wayne Otto</field>
+<field name="author">Erickson, Lawrence G.</field><field name="author_nat">Lawrence G. Erickson</field>
 <field name="title">Inservice education to improve reading instruction</field>
 <field name="year">1973</field>
 <field name="date">1973</field>
@@ -469,7 +469,7 @@ readers in class library periods</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Trewet, John</field>
+<field name="author">Trewet, John</field><field name="author_nat">John Trewet</field>
 <field name="title">Reading in social studies for jr. and sr. high schools</field>
 <field name="year">1960</field>
 <field name="date">08/1960</field>
@@ -486,7 +486,7 @@ readers in class library periods</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Trewet, John</field>
+<field name="author">Trewet, John</field><field name="author_nat">John Trewet</field>
 <field name="title">Teaching reading in the content subjects</field>
 <field name="year">1960</field>
 <field name="date">08/1960</field>
@@ -609,9 +609,9 @@ Instruction.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Mason, Antoinette</field>
-<field name="author">Beman, Arlene</field>
-<field name="author">Mentzer, June</field>
+<field name="author">Mason, Antoinette</field><field name="author_nat">Antoinette Mason</field>
+<field name="author">Beman, Arlene</field><field name="author_nat">Arlene Beman</field>
+<field name="author">Mentzer, June</field><field name="author_nat">June Mentzer</field>
 <field name="corp_author">Licking County (Ohio) Department of Education</field>
 <field name="title">A remedial reading guide: prepared for Licking County Teachers</field>
 <field name="year">1967</field>
@@ -832,7 +832,7 @@ arts</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Knudson, Richard L.</field>
+<field name="author">Knudson, Richard L.</field><field name="author_nat">Richard L. Knudson</field>
 <field name="title">A look at book reports</field>
 <field name="year">1967</field>
 <field name="date">02/1967</field>
@@ -898,7 +898,7 @@ areas, kindergarten-junior college</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Reese, Dora J.</field>
+<field name="author">Reese, Dora J.</field><field name="author_nat">Dora J. Reese</field>
 <field name="title">A survey of corrective and remedial reading materials</field>
 <field name="pages">24</field>
 <field name="keywords">Reading</field>

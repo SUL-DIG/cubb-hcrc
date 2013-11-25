@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
     <doc>
 <field name="type">Book</field>
 <field name="corp_author">Board of Superintendents of the Public Schools of the City of New
@@ -32,7 +32,7 @@ York</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Stewart, Maxwell S.</field>
+<field name="author">Stewart, Maxwell S.</field><field name="author_nat">Maxwell S. Stewart</field>
 <field name="title">Income and economic progress</field>
 <field name="series_title">Public affairs pamphlets</field>
 <field name="keywords">Income</field>
@@ -42,15 +42,15 @@ York</field>
 <field name="series_vol">1</field>
 <field name="language">English</field>
 <field name="call_number">330 .P876i</field>
-<field name="notes">32 p. diagrs. 22 cm.; Note(s): Cover title./ &quot;Prepared by Maxwell S.
+<field name="notes">32 p. diagrs. 22 cm.; Note(s): Cover title./ "Prepared by Maxwell S.
 Stewart on the basis of a four-volume study by the Brookings Institution into the effect of income
-distribution on economic progress.&quot;--P. 1.</field>
+distribution on economic progress."--P. 1.</field>
 </doc>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Castillo, Lydia R.</field>
-<field name="author">Ponce, Corazon Alafriz</field>
+<field name="author">Castillo, Lydia R.</field><field name="author_nat">Lydia R. Castillo</field>
+<field name="author">Ponce, Corazon Alafriz</field><field name="author_nat">Corazon Alafriz Ponce</field>
 <field name="corp_author">San Francisco (California) Unified School District</field>
 <field name="title">Increasing compatibility between educational practices and the educational needs
 of pupils who are Asian : with emphasis on their language and cultural needs</field>
@@ -70,7 +70,7 @@ of pupils who are Asian : with emphasis on their language and cultural needs</fi
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Vizzini, Charles T.</field>
+<field name="author">Vizzini, Charles T.</field><field name="author_nat">Charles T. Vizzini</field>
 <field name="title">Independence outdoor laboratory</field>
 <field name="keywords">Outdoor education</field>
 <field name="date">1970?</field>
@@ -82,7 +82,7 @@ of pupils who are Asian : with emphasis on their language and cultural needs</fi
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Freeman, Eleanor</field>
+<field name="author">Freeman, Eleanor</field><field name="author_nat">Eleanor Freeman</field>
 <field name="title">Indian life: a social studies unit of work, grades 3-4</field>
 <field name="keywords">Native Americans</field>
 <field name="keywords">Social sciences</field>
@@ -92,8 +92,8 @@ of pupils who are Asian : with emphasis on their language and cultural needs</fi
 <field name="pub_place">San Mateo, CA</field>
 <field name="pages">90</field>
 <field name="call_number">371.33 .S197i</field>
-<field name="notes">&quot;This unit of work has been prepared for all the elementary schools of San
-Mateo County.&quot;</field>
+<field name="notes">"This unit of work has been prepared for all the elementary schools of San
+Mateo County."</field>
 <field name="state_country">California</field>
 <field name="grade_level_number">3rd grade</field>
 <field name="grade_level_number">4th grade</field>
@@ -101,7 +101,7 @@ Mateo County.&quot;</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Westbrook, May</field>
+<field name="author">Westbrook, May</field><field name="author_nat">May Westbrook</field>
 <field name="title">Indication of Maturity and Immaturity</field>
 <field name="keywords">Maturation (Psychology)</field>
 <field name="publisher">Northen Illinois University</field>
@@ -112,7 +112,7 @@ Mateo County.&quot;</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Lazar, May</field>
+<field name="author">Lazar, May</field><field name="author_nat">May Lazar</field>
 <field name="title">Individualization of instruction in reading</field>
 <field name="series_title">Educational research bulletin / Bureau of Reference, Research and
 Statistics</field>
@@ -171,7 +171,7 @@ Minnesota State Council on Economic Education.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Doney, Russell</field>
+<field name="author">Doney, Russell</field><field name="author_nat">Russell Doney</field>
 <field name="title">Information about job opportunities in architectural, designing, drafting and
 engineering occupations</field>
 <field name="keywords">Occupations</field>
@@ -186,7 +186,7 @@ engineering occupations</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Pecoraro, Joseph</field>
+<field name="author">Pecoraro, Joseph</field><field name="author_nat">Joseph Pecoraro</field>
 <field name="title">Innovative ideas from teachers in Maine</field>
 <field name="keywords">Social sciences</field>
 <field name="year">1970</field>
@@ -196,14 +196,14 @@ engineering occupations</field>
 <field name="pages">30</field>
 <field name="language">English</field>
 <field name="call_number">371.33 .M22i</field>
-<field name="notes">30 p. ; 28 cm.; Note(s): Cover title./ &quot;Joseph Pecoraro, State Consultant,
-Social Studies.&quot;</field>
+<field name="notes">30 p. ; 28 cm.; Note(s): Cover title./ "Joseph Pecoraro, State Consultant,
+Social Studies."</field>
 <field name="state_country">Maine</field>
 </doc>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Eaton, Frank F.</field>
+<field name="author">Eaton, Frank F.</field><field name="author_nat">Frank F. Eaton</field>
 <field name="corp_author">Modern Language Association of America. Oregon Committee for the Foreign
 Language Program</field>
 <field name="title">An inquiry into the training of foreign language teachers for elementary
@@ -235,7 +235,7 @@ schools; Responsibility: Submitted by Frank F. Eaton; June 1, 1957.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Levene, Sanford M.</field>
+<field name="author">Levene, Sanford M.</field><field name="author_nat">Sanford M. Levene</field>
 <field name="title">Instant TV; a television production guide</field>
 <field name="series_title">Instructional materials series</field>
 <field name="keywords">Television in education</field>
@@ -327,8 +327,8 @@ high school</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Cline, Don</field>
-<field name="author">Brown, Elsie</field>
+<field name="author">Cline, Don</field><field name="author_nat">Don Cline</field>
+<field name="author">Brown, Elsie</field><field name="author_nat">Elsie Brown</field>
 <field name="title">Instructional guide: A7 social studies</field>
 <field name="series_title">Publication; no. SC-558</field>
 <field name="keywords">Education</field>
@@ -365,7 +365,7 @@ Other Titles: A7 social studies.; Responsibility: prepared by Don Cline.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Spears, William R.</field>
+<field name="author">Spears, William R.</field><field name="author_nat">William R. Spears</field>
 <field name="title">Instructional materials and resources for the junior high school social studies
 program</field>
 <field name="keywords">Social sciences</field>
@@ -385,7 +385,7 @@ Curriculum Services.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Fetz, John E.</field>
+<field name="author">Fetz, John E.</field><field name="author_nat">John E. Fetz</field>
 <field name="title">Instructional materials catalogue</field>
 <field name="keywords">Instructional materials</field>
 <field name="year">1950</field>
@@ -398,9 +398,9 @@ Curriculum Services.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Jacoby, Harry</field>
-<field name="author">Crain, Roy</field>
-<field name="author">Bailey, Charles</field>
+<field name="author">Jacoby, Harry</field><field name="author_nat">Harry Jacoby</field>
+<field name="author">Crain, Roy</field><field name="author_nat">Roy Crain</field>
+<field name="author">Bailey, Charles</field><field name="author_nat">Charles Bailey</field>
 <field name="corp_author">Roseburg (Oregon) Public School District No. 4</field>
 <field name="title">Instructional materials center: a proposal for Roseburg school district</field>
 <field name="keywords">School libraries</field>
@@ -433,9 +433,9 @@ Schools.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Hornback, Jack</field>
-<field name="author">Tang, Grace</field>
-<field name="author">del Rosso, Joseph J.</field>
+<field name="author">Hornback, Jack</field><field name="author_nat">Jack Hornback</field>
+<field name="author">Tang, Grace</field><field name="author_nat">Grace Tang</field>
+<field name="author">del Rosso, Joseph J.</field><field name="author_nat">Joseph J. del Rosso</field>
 <field name="title">Instructional materials for education 241 and 241a</field>
 <field name="keywords">Instructional materials</field>
 <field name="year">1961</field>
@@ -470,14 +470,14 @@ Schools.</field>
 <field name="pub_place">Shreveport, La</field>
 <field name="language">English</field>
 <field name="call_number">016 .C12i</field>
-<field name="notes">no.1- ; 1957-; Bulletin No. 7: &quot;Instructional Materials in the Program of
-Education&quot; 1958</field>
+<field name="notes">no.1- ; 1957-; Bulletin No. 7: "Instructional Materials in the Program of
+Education" 1958</field>
 <field name="state_country">Louisiana</field>
 </doc>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Cochran, John R.</field>
+<field name="author">Cochran, John R.</field><field name="author_nat">John R. Cochran</field>
 <field name="title">Instructional materials list for kindergarten teachers</field>
 <field name="keywords">Audio-visual materials</field>
 <field name="year">1956</field>
