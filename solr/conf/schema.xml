@@ -221,6 +221,7 @@ or to add multiple fields to the same field for easier/faster searching. -->
   
   <copyField source="type" dest="type_facet"/>
   <copyField source="author" dest="author_facet"/>
+  <copyField source="author_nat" dest="author_nat_facet"/>
   <copyField source="corp_author" dest="corp_author_facet"/>
   <copyField source="year" dest="year_facet"/>
   <copyField source="keywords" dest="keywords_facet"/>
