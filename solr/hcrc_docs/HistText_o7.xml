@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
     <doc>
 <field name="type">Book</field>
 <field name="corp_author">United Nations. Department of Public Information</field>
@@ -17,8 +17,8 @@ agencies</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Stewart, Maxwell S.</field>
-<field name="author">Pigou, A. C.</field>
+<field name="author">Stewart, Maxwell S.</field><field name="author_nat">Maxwell S. Stewart</field>
+<field name="author">Pigou, A. C.</field><field name="author_nat">A. C. Pigou</field>
 <field name="title">How shall we pay for defense?</field>
 <field name="series_title">Public affairs pamphlets</field>
 <field name="keywords">Defenses</field>
@@ -72,7 +72,7 @@ Division of Curriculum Development, Board of Education, City of New York.</field
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Dreese, Mitchell</field>
+<field name="author">Dreese, Mitchell</field><field name="author_nat">Mitchell Dreese</field>
 <field name="title">How to get the job</field>
 <field name="series_title">Life adjustment booklet</field>
 <field name="keywords">Applications for positions</field>
@@ -89,7 +89,7 @@ Division of Curriculum Development, Board of Education, City of New York.</field
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Bear, Robert Murray</field>
+<field name="author">Bear, Robert Murray</field><field name="author_nat">Robert Murray Bear</field>
 <field name="title">How to get the most out of your textbooks</field>
 <field name="keywords">Study skills</field>
 <field name="keywords">Textbooks</field>
@@ -105,7 +105,7 @@ Division of Curriculum Development, Board of Education, City of New York.</field
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Murphy, Ann</field>
+<field name="author">Murphy, Ann</field><field name="author_nat">Ann Murphy</field>
 <field name="title">How to interpret and use the Ohio economic education scope and sequence
 chart</field>
 <field name="keywords">Economics</field>
@@ -120,8 +120,8 @@ chart</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Jenkins, Gladys Gardner</field>
-<field name="author">Newman, Joy</field>
+<field name="author">Jenkins, Gladys Gardner</field><field name="author_nat">Gladys Gardner Jenkins</field>
+<field name="author">Newman, Joy</field><field name="author_nat">Joy Newman</field>
 <field name="title">How to live with parents</field>
 <field name="series_title">Life adjustment booklet</field>
 <field name="keywords">Families</field>
@@ -133,16 +133,16 @@ chart</field>
 <field name="pages">48</field>
 <field name="language">English</field>
 <field name="call_number">371.46 .S41L v. 10</field>
-<field name="notes">48 p. illus. 23 cm.; Note(s): &quot;For more information&quot;: p. [3] of
+<field name="notes">48 p. illus. 23 cm.; Note(s): "For more information": p. [3] of
 cover.; Responsibility: by Gladys Gardner Jenkins and Joy Neuman; illus. by Jessie O. McKerrow.
 </field>
 </doc>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Mattison, Dorothy</field>
-<field name="author">MacDonald, Arthur</field>
-<field name="author">Mickelson, John M.</field>
+<field name="author">Mattison, Dorothy</field><field name="author_nat">Dorothy Mattison</field>
+<field name="author">MacDonald, Arthur</field><field name="author_nat">Arthur MacDonald</field>
+<field name="author">Mickelson, John M.</field><field name="author_nat">John M. Mickelson</field>
 <field name="title">How to make lantern slides</field>
 <field name="keywords">Lantern slides</field>
 <field name="year">1954</field>
@@ -155,8 +155,8 @@ cover.; Responsibility: by Gladys Gardner Jenkins and Joy Neuman; illus. by Jess
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Stensland, Per Gustaf</field>
-<field name="author">Dennis, Lawrence Edward</field>
+<field name="author">Stensland, Per Gustaf</field><field name="author_nat">Per Gustaf Stensland</field>
+<field name="author">Dennis, Lawrence Edward</field><field name="author_nat">Lawrence Edward Dennis</field>
 <field name="title">How to read the news</field>
 <field name="series_title">Junior life adjustment booklet</field>
 <field name="keywords">Newspaper reading</field>
@@ -167,14 +167,14 @@ cover.; Responsibility: by Gladys Gardner Jenkins and Joy Neuman; illus. by Jess
 <field name="pages">40</field>
 <field name="language">English</field>
 <field name="call_number">371.46 .S41j v. 6</field>
-<field name="notes">40 p. illus. 22 cm.; Note(s): Supplemented by: &quot;Teacher's guide, by Per G.
-Stensland and Larry Dennis.&quot; (7 p. illus. 22 cm.) published: [Chicago, Science Research
+<field name="notes">40 p. illus. 22 cm.; Note(s): Supplemented by: "Teacher's guide, by Per G.
+Stensland and Larry Dennis." (7 p. illus. 22 cm.) published: [Chicago, Science Research
 Associates, 1954]; Responsibility: by Per G. Stensland and Larry Dennis.</field>
 </doc>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Munson, Harold L.</field>
+<field name="author">Munson, Harold L.</field><field name="author_nat">Harold L. Munson</field>
 <field name="title">How to set up a guidance unit</field>
 <field name="series_title">Practical ideas in education series</field>
 <field name="keywords">Educational counseling</field>
@@ -191,8 +191,8 @@ Harold L. Munson.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Seashore, Robert H.</field>
-<field name="author">Van Dusen, Albert C.</field>
+<field name="author">Seashore, Robert H.</field><field name="author_nat">Robert H. Seashore</field>
+<field name="author">Van Dusen, Albert C.</field><field name="author_nat">Albert C. Van Dusen</field>
 <field name="title">How to solve your problems</field>
 <field name="series_title">Life adjustment booklet</field>
 <field name="keywords">Counseling</field>
@@ -235,8 +235,8 @@ Robert H. Seashore and A.C. Van Dusen; illustrated by Marge Mills.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">LeCount, Samuel N.</field>
-<field name="author">Hardy, Lois Lynn</field>
+<field name="author">LeCount, Samuel N.</field><field name="author_nat">Samuel N. LeCount</field>
+<field name="author">Hardy, Lois Lynn</field><field name="author_nat">Lois Lynn Hardy</field>
 <field name="title">How to study in high school: a manual and workbook</field>
 <field name="keywords">Study skills</field>
 <field name="year">1952</field>
@@ -250,7 +250,7 @@ Robert H. Seashore and A.C. Van Dusen; illustrated by Marge Mills.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Silverman, Robert E.</field>
+<field name="author">Silverman, Robert E.</field><field name="author_nat">Robert E. Silverman</field>
 <field name="title">How to use programmed instruction in the classroom</field>
 <field name="keywords">Programmed instruction</field>
 <field name="year">1967</field>
@@ -263,7 +263,7 @@ Robert H. Seashore and A.C. Van Dusen; illustrated by Marge Mills.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Goldenson, Robert M.</field>
+<field name="author">Goldenson, Robert M.</field><field name="author_nat">Robert M. Goldenson</field>
 <field name="title">How to use television</field>
 <field name="keywords">Television and children</field>
 <field name="keywords">Television and families</field>
@@ -296,7 +296,7 @@ Responsibility: by Department for Girls and Boys, Carnegie Library, Atlanta, Geo
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Dallas, Helen</field>
+<field name="author">Dallas, Helen</field><field name="author_nat">Helen Dallas</field>
 <field name="title">How to win on the home front</field>
 <field name="series_title">Public affairs pamphlet</field>
 <field name="keywords">Consumer education</field>
@@ -316,7 +316,7 @@ Responsibility: by Department for Girls and Boys, Carnegie Library, Atlanta, Geo
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Piers, Maria</field>
+<field name="author">Piers, Maria</field><field name="author_nat">Maria Piers</field>
 <field name="title">How to work with parents</field>
 <field name="series_title">Practical ideas in education series</field>
 <field name="keywords">Home and school</field>
@@ -333,7 +333,7 @@ Responsibility: by Department for Girls and Boys, Carnegie Library, Atlanta, Geo
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Stewart, Maxwell S.</field>
+<field name="author">Stewart, Maxwell S.</field><field name="author_nat">Maxwell S. Stewart</field>
 <field name="title">How we spend our money</field>
 <field name="series_title">Public affairs pamphlets</field>
 <field name="keywords">Cost and standard of living</field>
@@ -345,9 +345,9 @@ Responsibility: by Department for Girls and Boys, Carnegie Library, Atlanta, Geo
 <field name="pages">32</field>
 <field name="language">English</field>
 <field name="call_number">331 .P976h</field>
-<field name="notes">32 p. illus., diagrs. 22 cm.; Note(s): Cover title./ &quot;This pamphlet is
+<field name="notes">32 p. illus., diagrs. 22 cm.; Note(s): Cover title./ "This pamphlet is
 based on an investigation of money disbursements of wage earners and clerical workers carried out by
-the Bureau of labor statistics.&quot; -p. 1.</field>
+the Bureau of labor statistics." -p. 1.</field>
 </doc>
 
 <doc>
@@ -377,17 +377,17 @@ the Bureau of labor statistics.&quot; -p. 1.</field>
 <field name="pub_place">Los Angeles, CA</field>
 <field name="pages">121</field>
 <field name="call_number">330 .L87h</field>
-<field name="notes">&quot;This publication, Human Relations in American Economic Life, is an
+<field name="notes">"This publication, Human Relations in American Economic Life, is an
 instructional program and guide to be included as part of the curriculum for the Los Angeles City
-and County secondary schools.&quot;</field>
+and County secondary schools."</field>
 <field name="state_country">California</field>
 </doc>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Bullis, Harold Edmund</field>
-<field name="author">O'Malley, Emily E.</field>
-<field name="author">Jastak, Joseph Florian</field>
+<field name="author">Bullis, Harold Edmund</field><field name="author_nat">Harold Edmund Bullis</field>
+<field name="author">O'Malley, Emily E.</field><field name="author_nat">Emily E. O'Malley</field>
+<field name="author">Jastak, Joseph Florian</field><field name="author_nat">Joseph Florian Jastak</field>
 <field name="title">Human relations in the classroom (kindergarten-twelfth grade)</field>
 <field name="keywords">Character</field>
 <field name="keywords">Moral education</field>
@@ -398,8 +398,8 @@ and County secondary schools.&quot;</field>
 <field name="pages">155</field>
 <field name="language">English</field>
 <field name="call_number">371.46 .D34h</field>
-<field name="notes">5 p. leaves, 3-155, [1] p. ill. 23 cm.; Note(s): &quot;Suggested bibliography
-for further reading&quot;: p. 8./ Also issued online.; Responsibility: originated and compiled by
+<field name="notes">5 p. leaves, 3-155, [1] p. ill. 23 cm.; Note(s): "Suggested bibliography
+for further reading": p. 8./ Also issued online.; Responsibility: originated and compiled by
 Colonel H. Edmund Bullis, assisted by Emily O'Malley, M.A. Section on study in social acceptability
 by Joseph Jastak.</field>
 <field name="state_country">Delaware</field>
@@ -407,7 +407,7 @@ by Joseph Jastak.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Roberts, Julian</field>
+<field name="author">Roberts, Julian</field><field name="author_nat">Julian Roberts</field>
 <field name="title">Human relations training and its effect on the teaching-learning process in the
 social studies</field>
 <field name="keywords">Intergroup relations</field>
@@ -418,7 +418,7 @@ social studies</field>
 Research</field>
 <field name="pub_place">Albany, NY</field>
 <field name="call_number">323 .N531hu v. 1-2</field>
-<field name="notes">&quot;The work upon which this report is based was supported jointly by the
+<field name="notes">"The work upon which this report is based was supported jointly by the
 Union Free School District #2 and Yeshiva University Ferkauf Graduate School of Humanities and
 Social Sciences, and the New York State</field>
 <field name="state_country">New York</field>
@@ -427,7 +427,7 @@ Social Sciences, and the New York State</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Ahlborn, Janet M.</field>
+<field name="author">Ahlborn, Janet M.</field><field name="author_nat">Janet M. Ahlborn</field>
 <field name="title">The human struggle within 19th century industrialization: Business vs labor:
 1865 through the turn of the century</field>
 <field name="keywords">Industrial relations</field>
@@ -441,8 +441,8 @@ Social Sciences, and the New York State</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Leeper, Robert Rosborough</field>
-<field name="author">O'Neill, Mary Albert</field>
+<field name="author">Leeper, Robert Rosborough</field><field name="author_nat">Robert Rosborough Leeper</field>
+<field name="author">O'Neill, Mary Albert</field><field name="author_nat">Mary Albert O'Neill</field>
 <field name="title">Hunters Point redeveloped; a sixth-grade venture. A tape transcription of sixth
 graders discussing their plan for redeveloping a depressed area in San Francisco</field>
 <field name="keywords">Social sciences</field>
@@ -496,7 +496,7 @@ Public Instruction and the schools of Illinois.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Killingsworth, Olive</field>
+<field name="author">Killingsworth, Olive</field><field name="author_nat">Olive Killingsworth</field>
 <field name="title">Identifying the emotional needs of primary grade children</field>
 <field name="keywords">Child analysis</field>
 <field name="year">1956</field>
@@ -509,7 +509,7 @@ Public Instruction and the schools of Illinois.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Hill, George Edward</field>
+<field name="author">Hill, George Edward</field><field name="author_nat">George Edward Hill</field>
 <field name="title">Identifying the school's guidance resources</field>
 <field name="series_title">Ohio University. Athen. Center for Educational Service. Pupil services
 series</field>
@@ -523,15 +523,15 @@ University</field>
 <field name="pages">18</field>
 <field name="language">English</field>
 <field name="call_number">371.45 .O37i</field>
-<field name="notes">18 p.; Note(s): &quot;Report of a study supported by the Division of Guidance
+<field name="notes">18 p.; Note(s): "Report of a study supported by the Division of Guidance
 and Testing, State Department of Education, Columbus, Ohio, under the National Defense Education
-Act.&quot;</field>
+Act."</field>
 <field name="state_country">Ohio</field>
 </doc>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Patterson, Franklin</field>
+<field name="author">Patterson, Franklin</field><field name="author_nat">Franklin Patterson</field>
 <field name="corp_author">Tufts University. Workshop on Basic Issues in Citizenship</field>
 <field name="title">Ideology and world affairs; a resource unit for teachers</field>
 <field name="series_title">Basic issues in citizenship</field>
@@ -568,8 +568,8 @@ Tufts University. Teacher's resource unit no. 1./ Includes bibliographies.</fiel
 <field name="pages">68</field>
 <field name="language">English</field>
 <field name="call_number">371.41 .N83i v. 1</field>
-<field name="notes">viii, 68 l. 29 cm.; Note(s): &quot;Prepared under the auspices of a Title III.
-ESEA grant.&quot;; Responsibility: [Prepared by the] Department of Guidance.</field>
+<field name="notes">viii, 68 l. 29 cm.; Note(s): "Prepared under the auspices of a Title III.
+ESEA grant."; Responsibility: [Prepared by the] Department of Guidance.</field>
 <field name="state_country">Virginia</field>
 </doc>
 
@@ -589,8 +589,8 @@ ESEA grant.&quot;; Responsibility: [Prepared by the] Department of Guidance.</fi
 <field name="pages">85</field>
 <field name="language">English</field>
 <field name="call_number">371.41 .N83i v. 2</field>
-<field name="notes">viii, 68 l. 29 cm.; Note(s): &quot;Prepared under the auspices of a Title III.
-ESEA grant.&quot;; Responsibility: [Prepared by the] Department of Guidance.</field>
+<field name="notes">viii, 68 l. 29 cm.; Note(s): "Prepared under the auspices of a Title III.
+ESEA grant."; Responsibility: [Prepared by the] Department of Guidance.</field>
 <field name="state_country">Virginia</field>
 </doc>
 
@@ -606,16 +606,16 @@ Materials</field>
 <field name="pages">18</field>
 <field name="language">English</field>
 <field name="call_number">371.3095 .L87i</field>
-<field name="notes">18 p. illus. 15 x 23 cm.; Note(s): &quot;A Publication of the Office of the Los
+<field name="notes">18 p. illus. 15 x 23 cm.; Note(s): "A Publication of the Office of the Los
 Angeles County Superintendent of Schools, Division of Secondary Education, Division of Elementary
-Education.&quot;</field>
+Education."</field>
 <field name="state_country">California</field>
 </doc>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Oliver, Donald W.</field>
-<field name="author">Newmann, Fred M.</field>
+<field name="author">Oliver, Donald W.</field><field name="author_nat">Donald W. Oliver</field>
+<field name="author">Newmann, Fred M.</field><field name="author_nat">Fred M. Newmann</field>
 <field name="title">The immigrant's experience : cultural variety and the melting pot</field>
 <field name="series_title">AEP public issues series</field>
 <field name="keywords">Immigrants</field>
@@ -628,14 +628,14 @@ Education.&quot;</field>
 <field name="pages">63</field>
 <field name="language">English</field>
 <field name="call_number">371.33 .H33p v. 5</field>
-<field name="notes">63 p. : ill.; rts. ; 21 cm.; Note(s): &quot;American Education Publications unit
-book.&quot;/ Cover title./ Bibliography: p. 63.; Responsibility: adapted from the Harvard Social
+<field name="notes">63 p. : ill.; rts. ; 21 cm.; Note(s): "American Education Publications unit
+book."/ Cover title./ Bibliography: p. 63.; Responsibility: adapted from the Harvard Social
 Studies Project under the direction of Donald W. Oliver and Fred M. Newmann.</field>
 </doc>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Rubin, Louis J.</field>
+<field name="author">Rubin, Louis J.</field><field name="author_nat">Louis J. Rubin</field>
 <field name="corp_author">Office of the Ventura County (California) Superintendent of
 Schools</field>
 <field name="title">Important concepts about democracy and communism for the classroom</field>
@@ -654,7 +654,7 @@ Schools</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Rivlin, Harry N.</field>
+<field name="author">Rivlin, Harry N.</field><field name="author_nat">Harry N. Rivlin</field>
 <field name="title">Improve your learning ability</field>
 <field name="series_title">Life adjustment booklet</field>
 <field name="keywords">Learning ability</field>
@@ -673,7 +673,7 @@ illus. by Larry Klein.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Rios, Edwin T.</field>
+<field name="author">Rios, Edwin T.</field><field name="author_nat">Edwin T. Rios</field>
 <field name="corp_author">Santa Clara County (California) Office of Education</field>
 <field name="title">Improving ethnic balance and intergroup relations; a report to the Santa Clara
 County Board of Education</field>
@@ -708,8 +708,8 @@ vocational ; the readjustment of high school education</field>
 <field name="pages">15</field>
 <field name="language">English</field>
 <field name="call_number">371.45 .N53i</field>
-<field name="notes">ill. ; 22 cm.; Note(s): Cover title./ &quot;H404-N53-10,
-000(36223)*&quot;</field>
+<field name="notes">ill. ; 22 cm.; Note(s): Cover title./ "H404-N53-10,
+000(36223)*"</field>
 <field name="state_country">New York</field>
 </doc>
 
@@ -728,8 +728,8 @@ vocational ; the readjustment of high school education</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Gillard, June V.</field>
-<field name="author">Webb, Harold</field>
+<field name="author">Gillard, June V.</field><field name="author_nat">June V. Gillard</field>
+<field name="author">Webb, Harold</field><field name="author_nat">Harold Webb</field>
 <field name="title">Improving human relations in the desegregated school</field>
 <field name="keywords">Interpersonal relations</field>
 <field name="keywords">School integration</field>
@@ -744,7 +744,7 @@ vocational ; the readjustment of high school education</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Rugg, K. C.</field>
+<field name="author">Rugg, K. C.</field><field name="author_nat">K. C. Rugg</field>
 <field name="title">Improving instruction, budgeting your audio-visual program</field>
 <field name="keywords">Audio-visual education</field>
 <field name="keywords">Finance</field>
@@ -763,7 +763,7 @@ Information.;</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Ostwald, Venice V.</field>
+<field name="author">Ostwald, Venice V.</field><field name="author_nat">Venice V. Ostwald</field>
 <field name="title">Improving school library usage</field>
 <field name="series_title">Curriculum bulletin</field>
 <field name="keywords">School libraries</field>
@@ -796,8 +796,8 @@ Information.;</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Randall, Dean E.</field>
-<field name="author">Christner, Georgia</field>
+<field name="author">Randall, Dean E.</field><field name="author_nat">Dean E. Randall</field>
+<field name="author">Christner, Georgia</field><field name="author_nat">Georgia Christner</field>
 <field name="title">Improving study habits in the junior high school</field>
 <field name="keywords">Study skills</field>
 <field name="year">1958</field>
@@ -811,7 +811,7 @@ Information.;</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Schreiber, Robert E.</field>
+<field name="author">Schreiber, Robert E.</field><field name="author_nat">Robert E. Schreiber</field>
 <field name="title">Improving the school's audio-visual program: a handbook for teachers and
 administrators</field>
 <field name="series_title">Educational Bulletin Service</field>
@@ -824,8 +824,8 @@ administrators</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Long, Harold M.</field>
-<field name="author">King, Robert N.</field>
+<field name="author">Long, Harold M.</field><field name="author_nat">Harold M. Long</field>
+<field name="author">King, Robert N.</field><field name="author_nat">Robert N. King</field>
 <field name="title">Improving the teaching of world affairs; the Glens Falls story</field>
 <field name="series_title">National Council for the Social Studies. Bulletin</field>
 <field name="keywords">International education</field>

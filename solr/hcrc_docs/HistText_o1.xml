@@ -1,9 +1,9 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="type">Book</field>
-<field name="author">Markiewicz, Jane</field>
-<field name="author">McCrady, Claire</field>
-<field name="author">Simonson, Patricia</field>
+<field name="author">Markiewicz, Jane</field><field name="author_nat">Jane Markiewicz</field>
+<field name="author">McCrady, Claire</field><field name="author_nat">Claire McCrady</field>
+<field name="author">Simonson, Patricia</field><field name="author_nat">Patricia Simonson</field>
 <field name="title">The kibbutz family of Israel : teacher's resource unit</field>
 <field name="series_title">Families around the world</field>
 <field name="keywords">Kibbutzim</field>
@@ -19,7 +19,7 @@
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Sheldon, Kenneth</field>
+<field name="author">Sheldon, Kenneth</field><field name="author_nat">Kenneth Sheldon</field>
 <field name="title">The 'X' goes here ...</field>
 <field name="series_title">Living democracy series</field>
 <field name="keywords">Politics</field>
@@ -67,7 +67,7 @@ school papers, or bulletin boards</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Cundiff, Ruby Ethel</field>
+<field name="author">Cundiff, Ruby Ethel</field><field name="author_nat">Ruby Ethel Cundiff</field>
 <field name="title">101 plus magazines for schools, grades 1-12</field>
 <field name="keywords">Children's periodicals</field>
 <field name="keywords">Periodicals</field>
@@ -120,8 +120,8 @@ school papers, or bulletin boards</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Oliver, Donald W.</field>
-<field name="author">Newmann, Fred M.</field>
+<field name="author">Oliver, Donald W.</field><field name="author_nat">Donald W. Oliver</field>
+<field name="author">Newmann, Fred M.</field><field name="author_nat">Fred M. Newmann</field>
 <field name="title">20th century Russia : agents of the revolution</field>
 <field name="series_title">AEP public issues series</field>
 <field name="keywords">Soviet Union history</field>
@@ -132,15 +132,15 @@ school papers, or bulletin boards</field>
 <field name="pages">63</field>
 <field name="language">English</field>
 <field name="call_number">371.33 .H33P V. 15</field>
-<field name="notes">ill. ; 21 cm.; Note(s): &quot;An American Education Publications unit
-book.&quot;/ Cover title./ Caption title: 20th century Russia, agents of revolution./ Includes
+<field name="notes">ill. ; 21 cm.; Note(s): "An American Education Publications unit
+book."/ Cover title./ Caption title: 20th century Russia, agents of revolution./ Includes
 bibliographical references (p. 63).; Responsibility: adapted from the Harvard Social Studies Project
 under the direction of Donald W. Oliver and Fred M. Newmann.</field>
 </doc>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Toscano, James V.</field>
+<field name="author">Toscano, James V.</field><field name="author_nat">James V. Toscano</field>
 <field name="title">The 89th Congress and its committees</field>
 <field name="series_title">Grass roots guides on democracy and practical politics</field>
 <field name="keywords">United States Congress</field>
@@ -153,8 +153,8 @@ under the direction of Donald W. Oliver and Fred M. Newmann.</field>
 <field name="language">English</field>
 <field name="call_number">320 .C39g v. 19</field>
 <field name="notes">Grass roots guides on democracy and practical politics ;; no. 19;
-&quot;Includes a roster of the Congress, a directory of its Committees and their areas of
-interest...&quot;</field>
+"Includes a roster of the Congress, a directory of its Committees and their areas of
+interest..."</field>
 </doc>
 
 <doc>
@@ -189,9 +189,9 @@ interest...&quot;</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Hollis, Ernest V.</field>
-<field name="author">Davis, Alice Taylor</field>
-<field name="author">Hollis, Ernest V.</field>
+<field name="author">Hollis, Ernest V.</field><field name="author_nat">Ernest V. Hollis</field>
+<field name="author">Davis, Alice Taylor</field><field name="author_nat">Alice Taylor Davis</field>
+<field name="author">Hollis, Ernest V.</field><field name="author_nat">Ernest V. Hollis</field>
 <field name="title">Abridgment of Social work education in the United States : the report of a
 study made for the National Council on Social Work Education</field>
 <field name="keywords">Social work education</field>
@@ -223,8 +223,8 @@ published in 1951 by Columbia University Press.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Purl, Mabel C.</field>
-<field name="author">Dawson, Judith A.</field>
+<field name="author">Purl, Mabel C.</field><field name="author_nat">Mabel C. Purl</field>
+<field name="author">Dawson, Judith A.</field><field name="author_nat">Judith A. Dawson</field>
 <field name="title">The achievement of pupils in desegregated schools</field>
 <field name="keywords">Segregation in education</field>
 <field name="year">1971</field>
@@ -238,8 +238,8 @@ published in 1951 by Columbia University Press.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Purl, Mabel C.</field>
-<field name="author">Dawson, Judith A.</field>
+<field name="author">Purl, Mabel C.</field><field name="author_nat">Mabel C. Purl</field>
+<field name="author">Dawson, Judith A.</field><field name="author_nat">Judith A. Dawson</field>
 <field name="title">The achievement of students in primary grades after seven years of
 desegregation</field>
 <field name="series_title">Riverside School Study Progress report</field>
@@ -282,7 +282,7 @@ desegregation</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Parker, Dorothy</field>
+<field name="author">Parker, Dorothy</field><field name="author_nat">Dorothy Parker</field>
 <field name="corp_author">Vallejo (California) Unified School District</field>
 <field name="title">Administration of elementary school libraries</field>
 <field name="keywords">School libraries</field>
@@ -298,7 +298,7 @@ desegregation</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Conmy, Peter Thomas</field>
+<field name="author">Conmy, Peter Thomas</field><field name="author_nat">Peter Thomas Conmy</field>
 <field name="title">The administration of public school--public library relationships with special
 reference to Oakland, California</field>
 <field name="keywords">Library administration and management</field>
@@ -332,7 +332,7 @@ reference to Oakland, California</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Becker, Gerald Lester</field>
+<field name="author">Becker, Gerald Lester</field><field name="author_nat">Gerald Lester Becker</field>
 <field name="title">The administrator-staff relationship and its effect upon the self-concept of
 children</field>
 <field name="series_title">University of Oregon. Curriculum Laboratory. Curriculum bulletin</field>
@@ -354,7 +354,7 @@ editor, Hugh B. Wood.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Hanshaw, Evelyn A.</field>
+<field name="author">Hanshaw, Evelyn A.</field><field name="author_nat">Evelyn A. Hanshaw</field>
 <field name="title">Adviser's guide</field>
 <field name="keywords">Educational counseling</field>
 <field name="year">1964</field>
@@ -414,7 +414,7 @@ editor, Hugh B. Wood.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Stewart, Maxwell S.</field>
+<field name="author">Stewart, Maxwell S.</field><field name="author_nat">Maxwell S. Stewart</field>
 <field name="title">After the war?</field>
 <field name="series_title">Public affairs pamphlets,</field>
 <field name="keywords">Reconstruction (1939-1951)</field>
@@ -427,14 +427,14 @@ editor, Hugh B. Wood.</field>
 <field name="pages">32</field>
 <field name="language">English</field>
 <field name="call_number">330 .P976a</field>
-<field name="notes">cover-title; illus., diagrs. 22 cm.; Note(s): &quot;First edition, November, 
-1942.&quot;/ &quot;For further reading&quot;: p. 32.; Responsibility: By Maxwell S. Stewart</field>
+<field name="notes">cover-title; illus., diagrs. 22 cm.; Note(s): "First edition, November, 
+1942."/ "For further reading": p. 32.; Responsibility: By Maxwell S. Stewart</field>
 </doc>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Vinarskai, Eugene T.</field>
-<field name="author">Laird, Nicola R.</field>
+<field name="author">Vinarskai, Eugene T.</field><field name="author_nat">Eugene T. Vinarskai</field>
+<field name="author">Laird, Nicola R.</field><field name="author_nat">Nicola R. Laird</field>
 <field name="title">Aids to integrating career education into the educational program</field>
 <field name="series_title">Oregon ASCD curriculum bulletin</field>
 <field name="keywords">Vocational education</field>
@@ -487,7 +487,7 @@ States Air Force</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Mitsakos, Charles L.</field>
+<field name="author">Mitsakos, Charles L.</field><field name="author_nat">Charles L. Mitsakos</field>
 <field name="title">The Algonquin family of New England : teacher's resource unit</field>
 <field name="series_title">Families around the world</field>
 <field name="keywords">Algonquin Indians</field>
@@ -518,8 +518,8 @@ level.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Stewart, Maxwell S.</field>
-<field name="author">Fabricant, Solomon</field>
+<field name="author">Stewart, Maxwell S.</field><field name="author_nat">Maxwell S. Stewart</field>
+<field name="author">Fabricant, Solomon</field><field name="author_nat">Solomon Fabricant</field>
 <field name="title">America's factories</field>
 <field name="series_title">Public affairs pamphlets</field>
 <field name="keywords">Factories</field>
@@ -531,8 +531,8 @@ level.</field>
 <field name="series_vol">55</field>
 <field name="pages">31</field>
 <field name="call_number">338 .P976a</field>
-<field name="notes">&quot;This pamphlet is based on The Output of Manufacturing Industries, 
-1899-1937, by Solomon Fabricant, published by the National Bureau of Economic Research...&quot;
+<field name="notes">"This pamphlet is based on The Output of Manufacturing Industries, 
+1899-1937, by Solomon Fabricant, published by the National Bureau of Economic Research..."
 </field>
 </doc>
 
@@ -560,7 +560,7 @@ The science teaching improvement program (STIP)</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Haller, Elizabeth S.</field>
+<field name="author">Haller, Elizabeth S.</field><field name="author_nat">Elizabeth S. Haller</field>
 <field name="corp_author">Pennsylvania. Bureau of Curriculum Services</field>
 <field name="title">American diversity : a bibliography of resources on racial and ethnic
 minorities for Pennsylvania schools</field>
@@ -591,8 +591,8 @@ minorities for Pennsylvania schools</field>
 <field name="pages">32</field>
 <field name="language">English</field>
 <field name="call_number">327 .N532f v. 4</field>
-<field name="notes">vii; 22 cm.; Note(s): &quot;Co-sponsored by the New York State Education
-Department and the U. S. National Commission for UNESCO.&quot;; Responsibility: Report of a
+<field name="notes">vii; 22 cm.; Note(s): "Co-sponsored by the New York State Education
+Department and the U. S. National Commission for UNESCO."; Responsibility: Report of a
 conference on the study of other peoples and cultures in the schools and teacher education with
 particular reference to the role of the States in strEnglishthening such study, Gould House, April
 22-24, 1964.</field>
@@ -651,9 +651,9 @@ metropolitan schools, Nashville - Davidson Co., Tenn</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Bolmeier, Ora</field>
-<field name="author">Dailey, Benton</field>
-<field name="author">Roth, Ron</field>
+<field name="author">Bolmeier, Ora</field><field name="author_nat">Ora Bolmeier</field>
+<field name="author">Dailey, Benton</field><field name="author_nat">Benton Dailey</field>
+<field name="author">Roth, Ron</field><field name="author_nat">Ron Roth</field>
 <field name="title">American history study lessons</field>
 <field name="keywords">Curriculum planning</field>
 <field name="year">1968</field>
@@ -826,7 +826,7 @@ in the Milwaukee Public Schools./ Accompanied by Teacher's guide and Readings.</
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Merriam, Elizabeth</field>
+<field name="author">Merriam, Elizabeth</field><field name="author_nat">Elizabeth Merriam</field>
 <field name="title">Analysis of American history: historical development of the U.S.</field>
 <field name="keywords">Curriculum planning</field>
 <field name="year">1968</field>
@@ -839,10 +839,10 @@ in the Milwaukee Public Schools./ Accompanied by Teacher's guide and Readings.</
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Alba, Donald</field>
-<field name="author">De Stefanis, Anthony</field>
-<field name="title">Analysis of anthropology curriculum project grade 5 &quot;The development of
-man and his culture: old world prehistory&quot;</field>
+<field name="author">Alba, Donald</field><field name="author_nat">Donald Alba</field>
+<field name="author">De Stefanis, Anthony</field><field name="author_nat">Anthony De Stefanis</field>
+<field name="title">Analysis of anthropology curriculum project grade 5 "The development of
+man and his culture: old world prehistory"</field>
 <field name="keywords">Curriculum planning</field>
 <field name="year">1969</field>
 <field name="date">05/1969</field>
@@ -854,7 +854,7 @@ man and his culture: old world prehistory&quot;</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Janke, Robert</field>
+<field name="author">Janke, Robert</field><field name="author_nat">Robert Janke</field>
 <field name="title">Analysis of anthropology curriculum study project</field>
 <field name="keywords">Curriculum planning</field>
 <field name="year">1968</field>
@@ -867,9 +867,9 @@ man and his culture: old world prehistory&quot;</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Bolmeier, Ora</field>
-<field name="author">Dailey, Benton</field>
-<field name="author">Roth, Ron</field>
+<field name="author">Bolmeier, Ora</field><field name="author_nat">Ora Bolmeier</field>
+<field name="author">Dailey, Benton</field><field name="author_nat">Benton Dailey</field>
+<field name="author">Roth, Ron</field><field name="author_nat">Ron Roth</field>
 <field name="title">Analysis of anthropology curriculum study project</field>
 <field name="keywords">Curriculum planning</field>
 <field name="year">1968</field>
@@ -882,9 +882,9 @@ man and his culture: old world prehistory&quot;</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Stainbrook, Gary</field>
-<field name="author">Hillman, Aubrey</field>
-<field name="author">De Stefanis, Anthony</field>
+<field name="author">Stainbrook, Gary</field><field name="author_nat">Gary Stainbrook</field>
+<field name="author">Hillman, Aubrey</field><field name="author_nat">Aubrey Hillman</field>
+<field name="author">De Stefanis, Anthony</field><field name="author_nat">Anthony De Stefanis</field>
 <field name="title">Analysis of anthropology curriculum study project, readings, grades 9 and 10</field>
 <field name="keywords">Curriculum planning</field>
 <field name="year">1968</field>
@@ -899,9 +899,9 @@ man and his culture: old world prehistory&quot;</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Clawson, Elmer</field>
-<field name="author">Lowrie, Jane</field>
-<field name="author">Macey, Joan</field>
+<field name="author">Clawson, Elmer</field><field name="author_nat">Elmer Clawson</field>
+<field name="author">Lowrie, Jane</field><field name="author_nat">Jane Lowrie</field>
+<field name="author">Macey, Joan</field><field name="author_nat">Joan Macey</field>
 <field name="title">Analysis of anthropology curriculum study project, the development of man and
 his culture, grade 1-7</field>
 <field name="keywords">Curriculum planning</field>
@@ -922,14 +922,14 @@ his culture, grade 1-7</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Benjamin, Florence</field>
-<field name="author">Cannon, Michael</field>
-<field name="author">Carlin, Peter</field>
-<field name="author">Gault, James D.</field>
-<field name="author">Kilgore, John</field>
-<field name="author">Rubin, Leonard</field>
-<field name="author">Tattersall, Barbara J.</field>
-<field name="author">Zeronian, Joseph</field>
+<field name="author">Benjamin, Florence</field><field name="author_nat">Florence Benjamin</field>
+<field name="author">Cannon, Michael</field><field name="author_nat">Michael Cannon</field>
+<field name="author">Carlin, Peter</field><field name="author_nat">Peter Carlin</field>
+<field name="author">Gault, James D.</field><field name="author_nat">James D. Gault</field>
+<field name="author">Kilgore, John</field><field name="author_nat">John Kilgore</field>
+<field name="author">Rubin, Leonard</field><field name="author_nat">Leonard Rubin</field>
+<field name="author">Tattersall, Barbara J.</field><field name="author_nat">Barbara J. Tattersall</field>
+<field name="author">Zeronian, Joseph</field><field name="author_nat">Joseph Zeronian</field>
 <field name="title">Analysis of Carnegie-Mellon social studies curriculum project</field>
 <field name="keywords">Curriculum planning</field>
 <field name="year">1968</field>
@@ -942,9 +942,9 @@ his culture, grade 1-7</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Hillman, Aubrey</field>
-<field name="author">Goldstein, Eleanor</field>
-<field name="author">Pratt, Bob</field>
+<field name="author">Hillman, Aubrey</field><field name="author_nat">Aubrey Hillman</field>
+<field name="author">Goldstein, Eleanor</field><field name="author_nat">Eleanor Goldstein</field>
+<field name="author">Pratt, Bob</field><field name="author_nat">Bob Pratt</field>
 <field name="title">Analysis of Carnegie-Mellon social studies curriculum project: comparative
 political systems: an inquiry approach, grade 9</field>
 <field name="keywords">Curriculum planning</field>
@@ -959,9 +959,9 @@ political systems: an inquiry approach, grade 9</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Alba, Donald</field>
-<field name="author">Hawkins, Raybon</field>
-<field name="author">Schott, James</field>
+<field name="author">Alba, Donald</field><field name="author_nat">Donald Alba</field>
+<field name="author">Hawkins, Raybon</field><field name="author_nat">Raybon Hawkins</field>
+<field name="author">Schott, James</field><field name="author_nat">James Schott</field>
 <field name="title">Analysis of Carnegie-Mellon social studies curriculum project: the shaping of
 western society, grade 10</field>
 <field name="keywords">Curriculum planning</field>
@@ -976,9 +976,9 @@ western society, grade 10</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Ostrom, Ray</field>
-<field name="author">Trujillo, John</field>
-<field name="author">Masters, Terry</field>
+<field name="author">Ostrom, Ray</field><field name="author_nat">Ray Ostrom</field>
+<field name="author">Trujillo, John</field><field name="author_nat">John Trujillo</field>
+<field name="author">Masters, Terry</field><field name="author_nat">Terry Masters</field>
 <field name="title">Analysis of comparative economic systems: an inquiry approach</field>
 <field name="keywords">Curriculum planning</field>
 <field name="year">1969</field>
@@ -991,9 +991,9 @@ western society, grade 10</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Bowman, Clair</field>
-<field name="author">Crowl, Lydia</field>
-<field name="author">Lowrie, Jane</field>
+<field name="author">Bowman, Clair</field><field name="author_nat">Clair Bowman</field>
+<field name="author">Crowl, Lydia</field><field name="author_nat">Lydia Crowl</field>
+<field name="author">Lowrie, Jane</field><field name="author_nat">Jane Lowrie</field>
 <field name="title">Analysis of comparative economic systems: an inquiry approach</field>
 <field name="keywords">Curriculum planning</field>
 <field name="year">1968</field>
@@ -1006,11 +1006,11 @@ western society, grade 10</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Arnoldsen, Larry M.</field>
-<field name="author">Deffenbaugh, George C.</field>
-<field name="author">Duff, Nick</field>
-<field name="author">Park, Flora C.</field>
-<field name="author">Strickland, Larry M.</field>
+<field name="author">Arnoldsen, Larry M.</field><field name="author_nat">Larry M. Arnoldsen</field>
+<field name="author">Deffenbaugh, George C.</field><field name="author_nat">George C. Deffenbaugh</field>
+<field name="author">Duff, Nick</field><field name="author_nat">Nick Duff</field>
+<field name="author">Park, Flora C.</field><field name="author_nat">Flora C. Park</field>
+<field name="author">Strickland, Larry M.</field><field name="author_nat">Larry M. Strickland</field>
 <field name="title">Analysis of development of a model for the Saint Louis Metropolitan Social
 Studies Center</field>
 <field name="keywords">Curriculum planning</field>
@@ -1024,7 +1024,7 @@ Studies Center</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Fetsko, William J.</field>
+<field name="author">Fetsko, William J.</field><field name="author_nat">William J. Fetsko</field>
 <field name="title">Analysis of development of economics curricular materials for secondary schools</field>
 <field name="keywords">Curriculum planning</field>
 <field name="year">1968</field>
@@ -1038,12 +1038,12 @@ Studies Center</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Bowman, Clair M.</field>
-<field name="author">Charpentier, Donald</field>
-<field name="author">Crowl, Lydia</field>
-<field name="author">Doucette, Kenneth</field>
-<field name="author">Ristad, Adam</field>
-<field name="author">Watkins, Judy</field>
+<field name="author">Bowman, Clair M.</field><field name="author_nat">Clair M. Bowman</field>
+<field name="author">Charpentier, Donald</field><field name="author_nat">Donald Charpentier</field>
+<field name="author">Crowl, Lydia</field><field name="author_nat">Lydia Crowl</field>
+<field name="author">Doucette, Kenneth</field><field name="author_nat">Kenneth Doucette</field>
+<field name="author">Ristad, Adam</field><field name="author_nat">Adam Ristad</field>
+<field name="author">Watkins, Judy</field><field name="author_nat">Judy Watkins</field>
 <field name="title">Analysis of econ 12</field>
 <field name="keywords">Curriculum planning</field>
 <field name="year">1969</field>
@@ -1057,11 +1057,11 @@ Studies Center</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Adkins, Ray</field>
-<field name="author">Boucher, Roanld L.</field>
-<field name="author">Fitzgerald, George Agnes, Sister</field>
-<field name="author">Morley, Frank P.</field>
-<field name="author">Rumpf, Arthur H.</field>
+<field name="author">Adkins, Ray</field><field name="author_nat">Ray Adkins</field>
+<field name="author">Boucher, Roanld L.</field><field name="author_nat">Roanld L. Boucher</field>
+<field name="author">Fitzgerald, George Agnes, Sister</field><field name="author_nat">Sister Fitzgerald, George Agnes</field>
+<field name="author">Morley, Frank P.</field><field name="author_nat">Frank P. Morley</field>
+<field name="author">Rumpf, Arthur H.</field><field name="author_nat">Arthur H. Rumpf</field>
 <field name="title">Analysis of education development center</field>
 <field name="keywords">Curriculum planning</field>
 <field name="year">1968</field>
@@ -1074,8 +1074,8 @@ Studies Center</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Alba, Donald</field>
-<field name="author">De Stefanis, Anthony</field>
+<field name="author">Alba, Donald</field><field name="author_nat">Donald Alba</field>
+<field name="author">De Stefanis, Anthony</field><field name="author_nat">Anthony De Stefanis</field>
 <field name="title">Analysis of elementary school economics program, grade 6</field>
 <field name="keywords">Curriculum planning</field>
 <field name="year">1969</field>
@@ -1089,9 +1089,9 @@ Studies Center</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Wilson, J. Fred</field>
-<field name="author">Smith, Marion H.</field>
-<field name="author">Prescott, Carol S.</field>
+<field name="author">Wilson, J. Fred</field><field name="author_nat">J. Fred Wilson</field>
+<field name="author">Smith, Marion H.</field><field name="author_nat">Marion H. Smith</field>
+<field name="author">Prescott, Carol S.</field><field name="author_nat">Carol S. Prescott</field>
 <field name="title">Analysis of Fideler social studies program</field>
 <field name="keywords">Curriculum planning</field>
 <field name="year">1968</field>
@@ -1104,9 +1104,9 @@ Studies Center</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Alberg, Dorothy</field>
-<field name="author">Hanson, Marilyn</field>
-<field name="author">Ross, Evelyn</field>
+<field name="author">Alberg, Dorothy</field><field name="author_nat">Dorothy Alberg</field>
+<field name="author">Hanson, Marilyn</field><field name="author_nat">Marilyn Hanson</field>
+<field name="author">Ross, Evelyn</field><field name="author_nat">Evelyn Ross</field>
 <field name="title">Analysis of Greater Cleveland social science program</field>
 <field name="keywords">Curriculum planning</field>
 <field name="year">1968</field>
@@ -1119,8 +1119,8 @@ Studies Center</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Enters, James</field>
-<field name="author">Harms, Arden</field>
+<field name="author">Enters, James</field><field name="author_nat">James Enters</field>
+<field name="author">Harms, Arden</field><field name="author_nat">Arden Harms</field>
 <field name="title">Analysis of Greater Cleveland social science program, four world views, unit
 ii, grade 5</field>
 <field name="keywords">Curriculum planning</field>
@@ -1135,9 +1135,9 @@ ii, grade 5</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Goldstein, Eleanor</field>
-<field name="author">Harms, Arden</field>
-<field name="author">Weipert, Lou</field>
+<field name="author">Goldstein, Eleanor</field><field name="author_nat">Eleanor Goldstein</field>
+<field name="author">Harms, Arden</field><field name="author_nat">Arden Harms</field>
+<field name="author">Weipert, Lou</field><field name="author_nat">Lou Weipert</field>
 <field name="title">Analysis of Harvard social studies project</field>
 <field name="keywords">Curriculum planning</field>
 <field name="year">1968</field>
@@ -1149,9 +1149,9 @@ ii, grade 5</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Crowl, Lydia</field>
-<field name="author">Ristad, Adam</field>
-<field name="author">Watkins, Judy</field>
+<field name="author">Crowl, Lydia</field><field name="author_nat">Lydia Crowl</field>
+<field name="author">Ristad, Adam</field><field name="author_nat">Adam Ristad</field>
+<field name="author">Watkins, Judy</field><field name="author_nat">Judy Watkins</field>
 <field name="title">Analysis of Harvard social studies project</field>
 <field name="keywords">Curriculum planning</field>
 <field name="year">1969</field>
@@ -1164,13 +1164,13 @@ ii, grade 5</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Ahrens, Robert W.</field>
-<field name="author">Hamilton, Beryl</field>
-<field name="author">Mills, Harold</field>
-<field name="author">McGeever, Jack</field>
-<field name="author">Peterson, Frank</field>
-<field name="author">Simpson, James</field>
-<field name="author">Snyder, Laura</field>
+<field name="author">Ahrens, Robert W.</field><field name="author_nat">Robert W. Ahrens</field>
+<field name="author">Hamilton, Beryl</field><field name="author_nat">Beryl Hamilton</field>
+<field name="author">Mills, Harold</field><field name="author_nat">Harold Mills</field>
+<field name="author">McGeever, Jack</field><field name="author_nat">Jack McGeever</field>
+<field name="author">Peterson, Frank</field><field name="author_nat">Frank Peterson</field>
+<field name="author">Simpson, James</field><field name="author_nat">James Simpson</field>
+<field name="author">Snyder, Laura</field><field name="author_nat">Laura Snyder</field>
 <field name="title">Analysis of high school geography project</field>
 <field name="keywords">Curriculum planning</field>
 <field name="year">1968</field>
@@ -1183,9 +1183,9 @@ ii, grade 5</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Trujillo, John</field>
-<field name="author">Ostrom, Ray</field>
-<field name="author">Masters, Terry</field>
+<field name="author">Trujillo, John</field><field name="author_nat">John Trujillo</field>
+<field name="author">Ostrom, Ray</field><field name="author_nat">Ray Ostrom</field>
+<field name="author">Masters, Terry</field><field name="author_nat">Terry Masters</field>
 <field name="title">Analysis of high school geography project, geography in an urban age, grade 10</field>
 <field name="keywords">Curriculum planning</field>
 <field name="year">1969</field>
@@ -1199,9 +1199,9 @@ ii, grade 5</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Randall, Verna</field>
-<field name="author">Hopkins, Evelyn</field>
-<field name="author">Cook, Teddy</field>
+<field name="author">Randall, Verna</field><field name="author_nat">Verna Randall</field>
+<field name="author">Hopkins, Evelyn</field><field name="author_nat">Evelyn Hopkins</field>
+<field name="author">Cook, Teddy</field><field name="author_nat">Teddy Cook</field>
 <field name="title">Analysis of man in action series</field>
 <field name="keywords">Curriculum planning</field>
 <field name="year">1968</field>
@@ -1214,9 +1214,9 @@ ii, grade 5</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Stainbrook, Gary</field>
-<field name="author">Schott, James</field>
-<field name="author">Hawkins, Raybon</field>
+<field name="author">Stainbrook, Gary</field><field name="author_nat">Gary Stainbrook</field>
+<field name="author">Schott, James</field><field name="author_nat">James Schott</field>
+<field name="author">Hawkins, Raybon</field><field name="author_nat">Raybon Hawkins</field>
 <field name="title">Analysis of manpower and economic education opportunities in American economic
 life, grades 8-9</field>
 <field name="keywords">Curriculum planning</field>
@@ -1231,11 +1231,11 @@ life, grades 8-9</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Davis, George</field>
-<field name="author">Hermansen, Benard</field>
-<field name="author">Knott, Carl</field>
-<field name="author">Fox, Boyd</field>
-<field name="author">Johnson, Leslie</field>
+<field name="author">Davis, George</field><field name="author_nat">George Davis</field>
+<field name="author">Hermansen, Benard</field><field name="author_nat">Benard Hermansen</field>
+<field name="author">Knott, Carl</field><field name="author_nat">Carl Knott</field>
+<field name="author">Fox, Boyd</field><field name="author_nat">Boyd Fox</field>
+<field name="author">Johnson, Leslie</field><field name="author_nat">Leslie Johnson</field>
 <field name="title">Analysis of Ohio State economic curriculum materials for secondary schools, 
 grade 9</field>
 <field name="keywords">Curriculum planning</field>
@@ -1250,9 +1250,9 @@ grade 9</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Clawson, Elmer</field>
-<field name="author">Lowrie, Jane</field>
-<field name="author">Macey, Joan</field>
+<field name="author">Clawson, Elmer</field><field name="author_nat">Elmer Clawson</field>
+<field name="author">Lowrie, Jane</field><field name="author_nat">Jane Lowrie</field>
+<field name="author">Macey, Joan</field><field name="author_nat">Joan Macey</field>
 <field name="title">Analysis of our working world</field>
 <field name="keywords">Curriculum planning</field>
 <field name="year">1969</field>
@@ -1265,9 +1265,9 @@ grade 9</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Alberg, Dorothy</field>
-<field name="author">Hanson, Marilyn</field>
-<field name="author">Ross, Evelyn</field>
+<field name="author">Alberg, Dorothy</field><field name="author_nat">Dorothy Alberg</field>
+<field name="author">Hanson, Marilyn</field><field name="author_nat">Marilyn Hanson</field>
+<field name="author">Ross, Evelyn</field><field name="author_nat">Evelyn Ross</field>
 <field name="title">Analysis of our working world: families at work</field>
 <field name="keywords">Curriculum planning</field>
 <field name="year">1968</field>
@@ -1280,8 +1280,8 @@ grade 9</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Donnelly, Mary Andrew, Sister</field>
-<field name="author">Drews, Pearl A.</field>
+<field name="author">Donnelly, Mary Andrew, Sister</field><field name="author_nat">Sister Donnelly, Mary Andrew</field>
+<field name="author">Drews, Pearl A.</field><field name="author_nat">Pearl A. Drews</field>
 <field name="title">Analysis of social change: the case of rural china</field>
 <field name="keywords">Curriculum planning</field>
 <field name="year">1968</field>
@@ -1293,9 +1293,9 @@ grade 9</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Bowman, Clair</field>
-<field name="author">Crowl, Lydia</field>
-<field name="author">Lowrie, Jane</field>
+<field name="author">Bowman, Clair</field><field name="author_nat">Clair Bowman</field>
+<field name="author">Crowl, Lydia</field><field name="author_nat">Lydia Crowl</field>
+<field name="author">Lowrie, Jane</field><field name="author_nat">Jane Lowrie</field>
 <field name="title">Analysis of social science laboratory units, grades 4, 5, and 6</field>
 <field name="keywords">Curriculum planning</field>
 <field name="year">1968</field>
@@ -1311,9 +1311,9 @@ grade 9</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Bowman, Clair</field>
-<field name="author">Charpentier, Donald</field>
-<field name="author">Doucette, Kenneth</field>
+<field name="author">Bowman, Clair</field><field name="author_nat">Clair Bowman</field>
+<field name="author">Charpentier, Donald</field><field name="author_nat">Donald Charpentier</field>
+<field name="author">Doucette, Kenneth</field><field name="author_nat">Kenneth Doucette</field>
 <field name="title">Analysis of social studies curriculum project: the American experience, grade
 11</field>
 <field name="keywords">Curriculum planning</field>
@@ -1328,9 +1328,9 @@ grade 9</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Hawkins, Raybon</field>
-<field name="author">Schott, James</field>
-<field name="author">Stainbrook, Gary</field>
+<field name="author">Hawkins, Raybon</field><field name="author_nat">Raybon Hawkins</field>
+<field name="author">Schott, James</field><field name="author_nat">James Schott</field>
+<field name="author">Stainbrook, Gary</field><field name="author_nat">Gary Stainbrook</field>
 <field name="title">Analysis of sociological resources for the social studies</field>
 <field name="keywords">Curriculum planning</field>
 <field name="year">1968</field>
@@ -1343,9 +1343,9 @@ grade 9</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Charpentier, Donald J.</field>
-<field name="author">Masters, John T.</field>
-<field name="author">Pratt, Robert B.</field>
+<field name="author">Charpentier, Donald J.</field><field name="author_nat">Donald J. Charpentier</field>
+<field name="author">Masters, John T.</field><field name="author_nat">John T. Masters</field>
+<field name="author">Pratt, Robert B.</field><field name="author_nat">Robert B. Pratt</field>
 <field name="title">Analysis of taba curriculum</field>
 <field name="keywords">Curriculum planning</field>
 <field name="year">1968</field>
@@ -1357,10 +1357,10 @@ grade 9</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Ballantyne, Raymond</field>
-<field name="author">Barrett, Maude</field>
-<field name="author">Christensen, Ardis</field>
-<field name="author">Estes, Hayden</field>
+<field name="author">Ballantyne, Raymond</field><field name="author_nat">Raymond Ballantyne</field>
+<field name="author">Barrett, Maude</field><field name="author_nat">Maude Barrett</field>
+<field name="author">Christensen, Ardis</field><field name="author_nat">Ardis Christensen</field>
+<field name="author">Estes, Hayden</field><field name="author_nat">Hayden Estes</field>
 <field name="title">Analysis of taba curriculum development project</field>
 <field name="keywords">Curriculum planning</field>
 <field name="year">1968</field>
@@ -1373,9 +1373,9 @@ grade 9</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Stainbrook, Gary</field>
-<field name="author">Hillman, Aubrey</field>
-<field name="author">De Stefanis, Anthony</field>
+<field name="author">Stainbrook, Gary</field><field name="author_nat">Gary Stainbrook</field>
+<field name="author">Hillman, Aubrey</field><field name="author_nat">Aubrey Hillman</field>
+<field name="author">De Stefanis, Anthony</field><field name="author_nat">Anthony De Stefanis</field>
 <field name="title">Analysis of taba curriculum development project</field>
 <field name="keywords">Curriculum planning</field>
 <field name="year">1968</field>
@@ -1388,10 +1388,10 @@ grade 9</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Dwigans, Pat</field>
-<field name="author">Petery, Shirley</field>
-<field name="author">Thompson, Roger</field>
-<field name="author">Witzel, Ronald</field>
+<field name="author">Dwigans, Pat</field><field name="author_nat">Pat Dwigans</field>
+<field name="author">Petery, Shirley</field><field name="author_nat">Shirley Petery</field>
+<field name="author">Thompson, Roger</field><field name="author_nat">Roger Thompson</field>
+<field name="author">Witzel, Ronald</field><field name="author_nat">Ronald Witzel</field>
 <field name="title">Analysis of the Asian project</field>
 <field name="keywords">Curriculum planning</field>
 <field name="year">1968</field>
@@ -1404,8 +1404,8 @@ grade 9</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Wandt, Edwin</field>
-<field name="author">Aikman, Louis P.</field>
+<field name="author">Wandt, Edwin</field><field name="author_nat">Edwin Wandt</field>
+<field name="author">Aikman, Louis P.</field><field name="author_nat">Louis P. Aikman</field>
 <field name="title">Analysis of the idealized teaching positions desired by student teachers</field>
 <field name="series_title">College of the City of New York. Division of Teacher Education. Office
 of Research and Evaluation. Publication 23</field>
@@ -1421,9 +1421,9 @@ of Research and Evaluation. Publication 23</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Czarra, Fred</field>
-<field name="author">Schwarz, Paula</field>
-<field name="author">Shannon, Howard</field>
+<field name="author">Czarra, Fred</field><field name="author_nat">Fred Czarra</field>
+<field name="author">Schwarz, Paula</field><field name="author_nat">Paula Schwarz</field>
+<field name="author">Shannon, Howard</field><field name="author_nat">Howard Shannon</field>
 <field name="title">Analysis of the incidence and effects of poverty in the United States</field>
 <field name="keywords">Curriculum planning</field>
 <field name="year">1968</field>
@@ -1435,9 +1435,9 @@ of Research and Evaluation. Publication 23</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Jordan, Richard</field>
-<field name="author">Weipert, Lou</field>
-<field name="author">Williams, Roger</field>
+<field name="author">Jordan, Richard</field><field name="author_nat">Richard Jordan</field>
+<field name="author">Weipert, Lou</field><field name="author_nat">Lou Weipert</field>
+<field name="author">Williams, Roger</field><field name="author_nat">Roger Williams</field>
 <field name="title">Analysis of the shaping of western society: an inquiry approach, grade 10</field>
 <field name="keywords">Curriculum planning</field>
 <field name="year">1969</field>
@@ -1450,8 +1450,8 @@ of Research and Evaluation. Publication 23</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Harms, Arden</field>
-<field name="author">Enters, James</field>
+<field name="author">Harms, Arden</field><field name="author_nat">Arden Harms</field>
+<field name="author">Enters, James</field><field name="author_nat">James Enters</field>
 <field name="title">Analysis of William D. Rader's elementary school economics ii</field>
 <field name="keywords">Curriculum planning</field>
 <field name="year">1969</field>
@@ -1523,7 +1523,7 @@ the fiscal year ending June 30, 1952</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Cutler, Charles</field>
+<field name="author">Cutler, Charles</field><field name="author_nat">Charles Cutler</field>
 <field name="title">Anthropology in today's world; case studies of people and cultures</field>
 <field name="series_title">American Education Publications unit book</field>
 <field name="keywords">Anthropology</field>
@@ -1568,8 +1568,8 @@ statistics</field>
 <field name="pages">42</field>
 <field name="language">English</field>
 <field name="call_number">371.3428 .N57 no. 2</field>
-<field name="notes">42 p. 23 cm.; Note(s): &quot;Annotated bibliography of selected reading
-tests&quot;: p. 37-42.; Responsibility: Prepared by Division of tests and measurement, J. Wayne
+<field name="notes">42 p. 23 cm.; Note(s): "Annotated bibliography of selected reading
+tests": p. 37-42.; Responsibility: Prepared by Division of tests and measurement, J. Wayne
 Wrightstone, assistant director. Eugene A. Nifenecker, director of reference, research and
 statistics.</field>
 <field name="state_country">New York</field>
@@ -1577,7 +1577,7 @@ statistics.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Adams, Frances Hall</field>
+<field name="author">Adams, Frances Hall</field><field name="author_nat">Frances Hall Adams</field>
 <field name="title">Appreciating democracy, a sequence of materials recommended for use in eleventh
 of twelfth grade social studies classes</field>
 <field name="series_title">Los Angeles County (California) Office of Superintendent of Schools. Social
@@ -1600,8 +1600,8 @@ studies curriculum monograph:</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Trillingham, Clinton Conroy</field>
-<field name="author">Moore, Leland P.</field>
+<field name="author">Trillingham, Clinton Conroy</field><field name="author_nat">Clinton Conroy Trillingham</field>
+<field name="author">Moore, Leland P.</field><field name="author_nat">Leland P. Moore</field>
 <field name="title">Appreciating democracy; a unit of learning for supplementing courses of
 American history, government or social problems in the high school</field>
 <field name="keywords">Democracy</field>
@@ -1625,7 +1625,7 @@ Prepared by C.C. Trillingham ... and Leland P. Moore ... March 1937 (Rev. ed.) (
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Tom, Alan</field>
+<field name="author">Tom, Alan</field><field name="author_nat">Alan Tom</field>
 <field name="title">An approach to selecting among social studies curricula: an occasional paper of
 the Metropolitan St. Louis Social Center</field>
 <field name="keywords">Social sciences</field>
@@ -1639,7 +1639,7 @@ the Metropolitan St. Louis Social Center</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Wilson, Edgar Wllen</field>
+<field name="author">Wilson, Edgar Wllen</field><field name="author_nat">Edgar Wllen Wilson</field>
 <field name="title">Approved library books for elementary grades</field>
 <field name="series_title">Texas State Dept. of Education Bulletin</field>
 <field name="keywords">School libraries</field>
@@ -1686,7 +1686,7 @@ the Metropolitan St. Louis Social Center</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Murdock, John R.</field>
+<field name="author">Murdock, John R.</field><field name="author_nat">John R. Murdock</field>
 <field name="title">Arizona supplement to Dunn's The community and the citizen</field>
 <field name="keywords">United States</field>
 <field name="keywords">Politics and government</field>
@@ -1701,9 +1701,9 @@ the Metropolitan St. Louis Social Center</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">McDowell, Kyle</field>
-<field name="author">Pelfrey, Clara</field>
-<field name="author">Baymor, Lahoma</field>
+<field name="author">McDowell, Kyle</field><field name="author_nat">Kyle McDowell</field>
+<field name="author">Pelfrey, Clara</field><field name="author_nat">Clara Pelfrey</field>
+<field name="author">Baymor, Lahoma</field><field name="author_nat">Lahoma Baymor</field>
 <field name="title">Army travelers meet interesting neighbors at home and abroad</field>
 <field name="keywords">Children of military personnel</field>
 <field name="keywords">Community life</field>
@@ -1817,7 +1817,7 @@ slides, and exhibits</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Stager, Waive</field>
+<field name="author">Stager, Waive</field><field name="author_nat">Waive Stager</field>
 <field name="title">Audio visual instructional materials</field>
 <field name="keywords">Audio-visual materials</field>
 <field name="year">1952</field>
@@ -1940,7 +1940,7 @@ slides, and exhibits</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Miller, Murray Lincoln</field>
+<field name="author">Miller, Murray Lincoln</field><field name="author_nat">Murray Lincoln Miller</field>
 <field name="title">Audio-visual and other educational materials for instruction and community
 understanding</field>
 <field name="series_title">Teacher Education</field>
@@ -1969,7 +1969,7 @@ understanding</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Nichols, H. Lester</field>
+<field name="author">Nichols, H. Lester</field><field name="author_nat">H. Lester Nichols</field>
 <field name="title">Audio-visual catalog</field>
 <field name="keywords">Audio-visual materials</field>
 <field name="year">1951</field>
@@ -1983,7 +1983,7 @@ understanding</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Crumb, Meyer L.</field>
+<field name="author">Crumb, Meyer L.</field><field name="author_nat">Meyer L. Crumb</field>
 <field name="title">Audio-visual catalog</field>
 <field name="series_title">Curriculum monograph, Series D</field>
 <field name="keywords">Audio-visual materials</field>
@@ -2130,7 +2130,7 @@ understanding</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Fisher, Paul</field>
+<field name="author">Fisher, Paul</field><field name="author_nat">Paul Fisher</field>
 <field name="title">Audio-visual catalogue for Siskiyou County</field>
 <field name="keywords">Audio-visual materials</field>
 <field name="year">1953</field>
@@ -2144,7 +2144,7 @@ understanding</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Patton, H. Barret</field>
+<field name="author">Patton, H. Barret</field><field name="author_nat">H. Barret Patton</field>
 <field name="corp_author">Santa Clara County (California) Schools</field>
 <field name="title">Audio-visual catalogue, primary grades: films, filmstrips, study prints, art
 prints, slides, record filmstrips</field>
@@ -2161,7 +2161,7 @@ prints, slides, record filmstrips</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Patton, H. Barret</field>
+<field name="author">Patton, H. Barret</field><field name="author_nat">H. Barret Patton</field>
 <field name="corp_author">Santa Clara County (California) Schools</field>
 <field name="title">Audio-visual catalogue, upper elementary grades: films, filmstrips, study
 prints, art prints, slides, record filmstrips</field>
@@ -2178,8 +2178,8 @@ prints, art prints, slides, record filmstrips</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Tormey, James R.</field>
-<field name="author">Miller, Loren F.</field>
+<field name="author">Tormey, James R.</field><field name="author_nat">James R. Tormey</field>
+<field name="author">Miller, Loren F.</field><field name="author_nat">Loren F. Miller</field>
 <field name="title">Audio-visual education: let's look, listen, learn</field>
 <field name="keywords">Audio-visual education</field>
 <field name="keywords">Audio-visual materials</field>
@@ -2194,7 +2194,7 @@ prints, art prints, slides, record filmstrips</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Fulton, William Ray</field>
+<field name="author">Fulton, William Ray</field><field name="author_nat">William Ray Fulton</field>
 <field name="title">Audio-visual handbook</field>
 <field name="keywords">Audio-visual materials</field>
 <field name="year">1950</field>
@@ -2273,7 +2273,7 @@ resource materials.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Conner, J. Carl</field>
+<field name="author">Conner, J. Carl</field><field name="author_nat">J. Carl Conner</field>
 <field name="title">Audio-visual instructional materials for Solano County Schools</field>
 <field name="keywords">Audio-visual materials</field>
 <field name="year">1951</field>
@@ -2547,7 +2547,7 @@ States history &amp; geography</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Seeger, Ruth</field>
+<field name="author">Seeger, Ruth</field><field name="author_nat">Ruth Seeger</field>
 <field name="title">Audio-visual materials in the teaching of reading: a bibliography</field>
 <field name="keywords">Audio-visual education</field>
 <field name="keywords">Bibliography</field>
@@ -2560,8 +2560,8 @@ States history &amp; geography</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Rachford, Helen</field>
-<field name="author">Adams, Frances Hall</field>
+<field name="author">Rachford, Helen</field><field name="author_nat">Helen Rachford</field>
+<field name="author">Adams, Frances Hall</field><field name="author_nat">Frances Hall Adams</field>
 <field name="title">Audio-visual materials on American democracy for secondary schools</field>
 <field name="keywords">Audio-visual materials</field>
 <field name="keywords">Democracy</field>
@@ -2571,8 +2571,8 @@ States history &amp; geography</field>
 <field name="pub_place">Los Angeles, CA</field>
 <field name="pages">31</field>
 <field name="call_number">320 .L87a</field>
-<field name="notes">&quot;A Joint Publication of the Divisions of Audio-Visual Education and
-Secondary Education.&quot;</field>
+<field name="notes">"A Joint Publication of the Divisions of Audio-Visual Education and
+Secondary Education."</field>
 <field name="state_country">California</field>
 <field name="grade_level_group">High school</field>
 </doc>
@@ -2590,7 +2590,7 @@ Secondary Education.&quot;</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Triggs, Dean E.</field>
+<field name="author">Triggs, Dean E.</field><field name="author_nat">Dean E. Triggs</field>
 <field name="title">Audio-visual materials. General catalog</field>
 <field name="keywords">Audio-visual materials</field>
 <field name="year">1951</field>
@@ -2603,7 +2603,7 @@ Secondary Education.&quot;</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Triggs, Dean E.</field>
+<field name="author">Triggs, Dean E.</field><field name="author_nat">Dean E. Triggs</field>
 <field name="title">Audio-visual materials. General catalog</field>
 <field name="keywords">Audio-visual materials</field>
 <field name="year">1953</field>
@@ -2616,7 +2616,7 @@ Secondary Education.&quot;</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Swaim, Eugene E.</field>
+<field name="author">Swaim, Eugene E.</field><field name="author_nat">Eugene E. Swaim</field>
 <field name="title">B. F. Skinner and Carl R. Rogers on behavior and education</field>
 <field name="series_title">Oregon ASCD curriculum bulletin ;; no. 324; Variation: Oregon ASCD
 curriculum bulletin ;; no. 324.</field>
@@ -2641,8 +2641,8 @@ Includes bibliographical references.; Responsibility: by Eugene E. Swaim.</field
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Cline, Don</field>
-<field name="author">Brown, Elsie</field>
+<field name="author">Cline, Don</field><field name="author_nat">Don Cline</field>
+<field name="author">Brown, Elsie</field><field name="author_nat">Elsie Brown</field>
 <field name="title">B8 social studies, an instructional guide</field>
 <field name="series_title">Los Angeles (California) City Schools. Publication</field>
 <field name="series_vol">SC-571</field>
@@ -2662,7 +2662,7 @@ Brown, and others.; Responsibility: [prepared by Don Cline.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Allison, Leroy</field>
+<field name="author">Allison, Leroy</field><field name="author_nat">Leroy Allison</field>
 <field name="title">Background material for the PTA workshop in the instructional aids</field>
 <field name="keywords">Instructional materials</field>
 <field name="year">1951</field>
@@ -2688,15 +2688,15 @@ Brown, and others.; Responsibility: [prepared by Don Cline.</field>
 III. Constitutional rights and responsibilities.--Unit IV. Alienation.--Unit V. Ecology.--Unit VI.
 Consumer education.</field>
 <field name="call_number">371.33 .H38b</field>
-<field name="notes">iii, 162 p.; Note(s): &quot;Unofficial.&quot;/ &quot;Correlat[es] with Level
-III, Theme II of the Secondary social studies program guide, 1971.&quot;/ Includes bibliographical
+<field name="notes">iii, 162 p.; Note(s): "Unofficial."/ "Correlat[es] with Level
+III, Theme II of the Secondary social studies program guide, 1971."/ Includes bibliographical
 references.</field>
 </doc>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Shores, Louis</field>
-<field name="author">Reed, Sarah Rebecca</field>
+<field name="author">Shores, Louis</field><field name="author_nat">Louis Shores</field>
+<field name="author">Reed, Sarah Rebecca</field><field name="author_nat">Sarah Rebecca Reed</field>
 <field name="corp_author">Florida State University. Library School</field>
 <field name="title">Basic materials for Florida junior college libraries</field>
 <field name="series_title">Florida State University. Library School. Materials bulletin.</field>
@@ -2734,7 +2734,7 @@ Florida Junior college libraries.; Responsibility: Louis Shores and Sarah Reed, 
 
 <doc>
 <field name="type">Book</field>
-<field name="author">De Rycke, Laurence</field>
+<field name="author">De Rycke, Laurence</field><field name="author_nat">Laurence De Rycke</field>
 <field name="title">Beginning readings in economics</field>
 <field name="series_title">Study on economic education</field>
 <field name="keywords">Economics</field>
@@ -2751,8 +2751,8 @@ Florida Junior college libraries.; Responsibility: Louis Shores and Sarah Reed, 
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Patterson, E. Gene</field>
-<field name="author">Overbeck, Dan B.</field>
+<field name="author">Patterson, E. Gene</field><field name="author_nat">E. Gene Patterson</field>
+<field name="author">Overbeck, Dan B.</field><field name="author_nat">Dan B. Overbeck</field>
 <field name="title">Behavior shaping</field>
 <field name="keywords">Children with mental disabilities</field>
 <field name="year">1968</field>
@@ -2768,8 +2768,8 @@ Florida Junior college libraries.; Responsibility: Louis Shores and Sarah Reed, 
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Patterson, E. Gene</field>
-<field name="author">Overbeck, Dan B.</field>
+<field name="author">Patterson, E. Gene</field><field name="author_nat">E. Gene Patterson</field>
+<field name="author">Overbeck, Dan B.</field><field name="author_nat">Dan B. Overbeck</field>
 <field name="title">Behavior shaping</field>
 <field name="keywords">Children with mental disabilities</field>
 <field name="year">1970</field>
@@ -2803,20 +2803,20 @@ Tri-University Project in Elementary Education.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Morton, Nell</field>
+<field name="author">Morton, Nell</field><field name="author_nat">Nell Morton</field>
 <field name="title">Besides the textbook: a bibliography for junior high school core classes with
 some suggestions for use</field>
 <field name="keywords">Social sciences</field>
 <field name="year">1959</field>
 <field name="date">1959</field>
 <field name="call_number">371.33 .S782so v. 1-5</field>
-<field name="notes">&quot;Prepared for: Dr. R.E. Gross, Stanford University E. 296 Curriculum and
-Instruction Secondary Social Studies&quot;</field>
+<field name="notes">"Prepared for: Dr. R.E. Gross, Stanford University E. 296 Curriculum and
+Instruction Secondary Social Studies"</field>
 </doc>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Lockridge, J. Preston</field>
+<field name="author">Lockridge, J. Preston</field><field name="author_nat">J. Preston Lockridge</field>
 <field name="title">Better bulletin board displays</field>
 <field name="series_title">Bridges for ideas</field>
 <field name="keywords">Bulletin boards</field>
@@ -2828,8 +2828,8 @@ Instruction Secondary Social Studies&quot;</field>
 <field name="pages">62</field>
 <field name="language">English</field>
 <field name="call_number">371.3095 .T36b no. 11</field>
-<field name="notes">illus. ; 26 cm.; Note(s): &quot;Replaces Bulletin boards for teaching' [no.
-2]&quot;; Responsibility: Designed and illus. by Gerda G. McMurry.</field>
+<field name="notes">illus. ; 26 cm.; Note(s): "Replaces Bulletin boards for teaching' [no.
+2]"; Responsibility: Designed and illus. by Gerda G. McMurry.</field>
 </doc>
 
 <doc>
@@ -2850,8 +2850,8 @@ serving blind persons</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Wheeler, E. G.</field>
-<field name="author">Showalter, D. F.</field>
+<field name="author">Wheeler, E. G.</field><field name="author_nat">E. G. Wheeler</field>
+<field name="author">Showalter, D. F.</field><field name="author_nat">D. F. Showalter</field>
 <field name="title">Better teaching and better learning in the social studies: a report of the
 Kansas study of education for citizenship</field>
 <field name="keywords">Social sciences</field>
@@ -2882,8 +2882,8 @@ Kansas study of education for citizenship</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Chiddell, Philip R.</field>
-<field name="author">Brown, Modena A.</field>
+<field name="author">Chiddell, Philip R.</field><field name="author_nat">Philip R. Chiddell</field>
+<field name="author">Brown, Modena A.</field><field name="author_nat">Modena A. Brown</field>
 <field name="title">A bibliography of bibliographies of free and inexpensive learning aids</field>
 <field name="series_title">Curriculum bulletin</field>
 <field name="keywords">Teaching aids</field>
@@ -2901,7 +2901,7 @@ Kansas study of education for citizenship</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Fitzgerald, Bonnie</field>
+<field name="author">Fitzgerald, Bonnie</field><field name="author_nat">Bonnie Fitzgerald</field>
 <field name="title">Bibliography of literature and cross-culture values</field>
 <field name="keywords">Children's literature</field>
 <field name="keywords">Minorities</field>
@@ -2919,7 +2919,7 @@ spring conference by Bonnie Fitzgerald.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Wood, Hugh B.</field>
+<field name="author">Wood, Hugh B.</field><field name="author_nat">Hugh B. Wood</field>
 <field name="title">Bibliography of materials for international understanding Oregon A.S.C.D.
 transcultural project</field>
 <field name="series_title">Curriculum Bulletin</field>
@@ -2938,7 +2938,7 @@ transcultural project</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Fedder, Ruth</field>
+<field name="author">Fedder, Ruth</field><field name="author_nat">Ruth Fedder</field>
 <field name="title">Bibliography on guidance: professional workshop, Oklahoma City Schools, August
 28-31, 1950</field>
 <field name="keywords">Educational counseling</field>
@@ -2952,8 +2952,8 @@ transcultural project</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Leavitt, Jerome E.</field>
-<field name="author">Elmquist, Myrtle C.</field>
+<field name="author">Leavitt, Jerome E.</field><field name="author_nat">Jerome E. Leavitt</field>
+<field name="author">Elmquist, Myrtle C.</field><field name="author_nat">Myrtle C. Elmquist</field>
 <field name="title">Bibliography on teaching machines and programed materials</field>
 <field name="series_title">Curriculum bulletin</field>
 <field name="keywords">Programmed instruction</field>
@@ -3001,9 +3001,9 @@ Services</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Gennette, Robert J.</field>
-<field name="author">Graham, Crandallyn A.</field>
-<field name="author">Muchenje, Frank</field>
+<field name="author">Gennette, Robert J.</field><field name="author_nat">Robert J. Gennette</field>
+<field name="author">Graham, Crandallyn A.</field><field name="author_nat">Crandallyn A. Graham</field>
+<field name="author">Muchenje, Frank</field><field name="author_nat">Frank Muchenje</field>
 <field name="corp_author">San Diego (California) City Schools</field>
 <field name="title">Black studies one and two : (ninth or tenth grade)</field>
 <field name="keywords">African Americans</field>
@@ -3025,9 +3025,9 @@ Graham, Frank Muchenje.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Gennette, Robert J.</field>
-<field name="author">Graham, Crandallyn A.</field>
-<field name="author">Muchenje, Frank</field>
+<field name="author">Gennette, Robert J.</field><field name="author_nat">Robert J. Gennette</field>
+<field name="author">Graham, Crandallyn A.</field><field name="author_nat">Crandallyn A. Graham</field>
+<field name="author">Muchenje, Frank</field><field name="author_nat">Frank Muchenje</field>
 <field name="title">Black studies one and two : (ninth or tenth grade)</field>
 <field name="keywords">African Americans</field>
 <field name="keywords">Interdisciplinary approach in education</field>
@@ -3048,7 +3048,7 @@ Graham, Frank Muchenje.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Bakewell, Dennis</field>
+<field name="author">Bakewell, Dennis</field><field name="author_nat">Dennis Bakewell</field>
 <field name="title">Black, brown bibliography</field>
 <field name="keywords">African Americans</field>
 <field name="keywords">Mexican Americans</field>
@@ -3060,15 +3060,15 @@ Graham, Frank Muchenje.</field>
 <field name="pages">86</field>
 <field name="language">English</field>
 <field name="call_number">323 .C149b</field>
-<field name="notes">86 p. 28 cm.; Note(s): Cover title./ &quot;Bibliography of significant material
+<field name="notes">86 p. 28 cm.; Note(s): Cover title./ "Bibliography of significant material
 on the black and brown peoples contained in the San Fernando Valley State College Library, Fall, 
-1968; most entries compiled by Dennis Bakewell.&quot;;</field>
+1968; most entries compiled by Dennis Bakewell.";</field>
 <field name="state_country">California</field>
 </doc>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Landin, Leslie</field>
+<field name="author">Landin, Leslie</field><field name="author_nat">Leslie Landin</field>
 <field name="title">Blackboard matinee; a handbook of blackboard cartooning, games and ideas for
 teachers</field>
 <field name="keywords">Blackboard drawing</field>
@@ -3114,8 +3114,8 @@ education</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Carnine, Helen Wilson</field>
-<field name="author">Kilzer, Louis R.</field>
+<field name="author">Carnine, Helen Wilson</field><field name="author_nat">Helen Wilson Carnine</field>
+<field name="author">Kilzer, Louis R.</field><field name="author_nat">Louis R. Kilzer</field>
 <field name="title">A book and magazine list suitable for small high-school libraries</field>
 <field name="series_title">Bureau of Educational Research and Service Bulletin</field>
 <field name="keywords">Best books</field>
@@ -3130,7 +3130,7 @@ and Service</field>
 <field name="language">English</field>
 <field name="issue">4</field>
 <field name="call_number">027.8 .W99b</field>
-<field name="notes">ill. ; 23 cm.; Note(s): &quot;v. 7, no. 4.&quot;/ Includes bibliographical
+<field name="notes">ill. ; 23 cm.; Note(s): "v. 7, no. 4."/ Includes bibliographical
 references (p. 52).; Responsibility: by Helen Wilson Carnine and Louis R. Kilzer.</field>
 </doc>
 
@@ -3193,9 +3193,9 @@ Subcommittee on De Facto School Segregation ... 89-2, August 23-24, 30-31; Septe
 <field name="pub_place">Baton Rouge, LA</field>
 <field name="language">English</field>
 <field name="call_number">016 .L88b</field>
-<field name="notes">59 p. ; 28 cm.; &quot;This list of books may be considered as, in a measure, 
+<field name="notes">59 p. ; 28 cm.; "This list of books may be considered as, in a measure, 
 bringing up to date the 1947 supplement to Bulletin 574, Louisiana List of Books for School
-Libraries.&quot;</field>
+Libraries."</field>
 <field name="state_country">Louisiana</field>
 </doc>
 
@@ -3277,7 +3277,7 @@ progress report</field>
 <doc>
 <field name="type">Book</field>
 <field name="corp_author">San Francisco (Calfornia) Unified School District</field>
-<field name="title">Building for world understanding:&quot; to live in peace with one another&quot;</field>
+<field name="title">Building for world understanding:" to live in peace with one another"</field>
 <field name="keywords">International education</field>
 <field name="keywords">Multicultural education</field>
 <field name="year">1945</field>
@@ -3314,7 +3314,7 @@ schools' report on planned study in intercultural education, 1944-1945.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Twombly, John J.</field>
+<field name="author">Twombly, John J.</field><field name="author_nat">John J. Twombly</field>
 <field name="title">The bulletin board as an aid in the social studies classroom</field>
 <field name="series_title">Educational Bulletin Service</field>
 <field name="keywords">Bulletin boards</field>
@@ -3328,8 +3328,8 @@ schools' report on planned study in intercultural education, 1944-1945.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Dent, Charles Herger</field>
-<field name="author">Tiemann, Ernest F.</field>
+<field name="author">Dent, Charles Herger</field><field name="author_nat">Charles Herger Dent</field>
+<field name="author">Tiemann, Ernest F.</field><field name="author_nat">Ernest F. Tiemann</field>
 <field name="title">Bulletin boards for teaching</field>
 <field name="series_title">Bridges for ideas</field>
 <field name="keywords">Bulletin boards</field>
@@ -3348,7 +3348,7 @@ Dent and Ernest F. Tiemann; designed by Nancy M. Holland.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Miller, Ray</field>
+<field name="author">Miller, Ray</field><field name="author_nat">Ray Miller</field>
 <field name="title">Bulletin boards: high, wide and handsome</field>
 <field name="keywords">Bulletin boards</field>
 <field name="year">1957</field>
@@ -3361,7 +3361,7 @@ Dent and Ernest F. Tiemann; designed by Nancy M. Holland.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">De Rycke, Laurence</field>
+<field name="author">De Rycke, Laurence</field><field name="author_nat">Laurence De Rycke</field>
 <field name="title">Business enterprise in the American economy</field>
 <field name="series_title">C.A.S.E. economic literacy series</field>
 <field name="keywords">Economics</field>
@@ -3478,7 +3478,7 @@ go</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Harrod, James</field>
+<field name="author">Harrod, James</field><field name="author_nat">James Harrod</field>
 <field name="title">Career awareness through Afro-American literature</field>
 <field name="keywords">American fiction</field>
 <field name="keywords">African Americans</field>
@@ -3522,8 +3522,8 @@ go</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Hartzog, Ernest E.</field>
-<field name="author">Laughlin, Will A.</field>
+<field name="author">Hartzog, Ernest E.</field><field name="author_nat">Ernest E. Hartzog</field>
+<field name="author">Laughlin, Will A.</field><field name="author_nat">Will A. Laughlin</field>
 <field name="title">Career Development Services Department, San Diego City Schools</field>
 <field name="keywords">Vocational education</field>
 <field name="year">1969</field>
@@ -3534,14 +3534,14 @@ go</field>
 <field name="pages">82</field>
 <field name="language">English</field>
 <field name="call_number">371.401 .S19c</field>
-<field name="notes">vi; ill. ; 28 cm.; Note(s): &quot;Unedited.&quot;; Responsibility: prepared by
+<field name="notes">vi; ill. ; 28 cm.; Note(s): "Unedited."; Responsibility: prepared by
 Ernest E. Hartzog and the Career Development Services Department staff.</field>
 <field name="state_country">California</field>
 </doc>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Dunn, James A.</field>
+<field name="author">Dunn, James A.</field><field name="author_nat">James A. Dunn</field>
 <field name="title">Career education curriculum development: grades k-9</field>
 <field name="keywords">Career education</field>
 <field name="year">1974</field>
@@ -3564,7 +3564,7 @@ Ernest E. Hartzog and the Career Development Services Department staff.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Young, Jim</field>
+<field name="author">Young, Jim</field><field name="author_nat">Jim Young</field>
 <field name="title">Career education handbook</field>
 <field name="keywords">Career education</field>
 <field name="year">1974</field>
@@ -3592,7 +3592,7 @@ Ernest E. Hartzog and the Career Development Services Department staff.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Robison, Helen J.</field>
+<field name="author">Robison, Helen J.</field><field name="author_nat">Helen J. Robison</field>
 <field name="title">Careers for women in the Armed Forces</field>
 <field name="keywords">United States Armed Forces</field>
 <field name="keywords">Women</field>
@@ -3640,8 +3640,8 @@ Professional Standards</field>
 <field name="pages">22</field>
 <field name="language">English</field>
 <field name="call_number">371.425 .F71u</field>
-<field name="notes">ill. ; 24 cm.; Note(s): Cover title./ &quot;Revision of and supersedes
-'Forestry as a profession', an unnumbered publication issued in 1927&quot;--Foot-note, p. 1.;
+<field name="notes">ill. ; 24 cm.; Note(s): Cover title./ "Revision of and supersedes
+'Forestry as a profession', an unnumbered publication issued in 1927"--Foot-note, p. 1.;
 Responsibility: prepared by the Forest Service.</field>
 </doc>
 
@@ -3652,12 +3652,12 @@ Responsibility: prepared by the Forest Service.</field>
 <field name="keywords">Vocational guidance</field>
 <field name="publisher">Committee on Careers in Nursing</field>
 <field name="call_number">371.425 .N97co</field>
-<field name="notes">A collections of pamphlets: &quot;Public health nursing, &quot; &quot;Careers
-for men in nursing, &quot; &quot;There is an exciting future for you in public health
-nursing, &quot;&quot;To help you get more nurses, &quot; &quot;Nursing and college, &quot;
-&quot;Nursing has a future for you, &quot; &quot;Books on careers in nursing, &quot; &quot;Nursing
-offers you a career, &quot; &quot;What is the difference between professional and practical
-nursing, &quot; &quot;Practical nursing.&quot;</field>
+<field name="notes">A collections of pamphlets: "Public health nursing, " "Careers
+for men in nursing, " "There is an exciting future for you in public health
+nursing, ""To help you get more nurses, " "Nursing and college, "
+"Nursing has a future for you, " "Books on careers in nursing, " "Nursing
+offers you a career, " "What is the difference between professional and practical
+nursing, " "Practical nursing."</field>
 </doc>
 
 <doc>
@@ -3676,18 +3676,18 @@ of industrial education teachers, counselors, and advisers</field>
 <field name="series_vol">260</field>
 <field name="language">English</field>
 <field name="call_number">371.41 .L879c</field>
-<field name="notes">ca. 150 p. ; 28 cm.; Note(s): &quot;No. 260.&quot;; Responsibility: Los Angeles
+<field name="notes">ca. 150 p. ; 28 cm.; Note(s): "No. 260."; Responsibility: Los Angeles
 City Schools ; Prepared by Evaluation and Research Section.</field>
 <field name="state_country">California</field>
 </doc>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">G. Sparks, David</field>
-<field name="author">Marchak, John</field>
-<field name="author">Newmann, Fred M.</field>
-<field name="author">Oliver, Donald W.</field>
-<field name="author">Pearson, Craig</field>
+<field name="author">G. Sparks, David</field><field name="author_nat">David G. Sparks</field>
+<field name="author">Marchak, John</field><field name="author_nat">John Marchak</field>
+<field name="author">Newmann, Fred M.</field><field name="author_nat">Fred M. Newmann</field>
+<field name="author">Oliver, Donald W.</field><field name="author_nat">Donald W. Oliver</field>
+<field name="author">Pearson, Craig</field><field name="author_nat">Craig Pearson</field>
 <field name="title">Cases and controversy : guide to teaching the Public issues series/Harvard
 Social Studies Project</field>
 <field name="series_title">AEP unit books; Public issues series/Harvard Social Studies Project</field>
@@ -3771,7 +3771,7 @@ Newmann. AEP ed.: Craig Pearson; John Marchak; David G. Sparks.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Francis, Harold C.</field>
+<field name="author">Francis, Harold C.</field><field name="author_nat">Harold C. Francis</field>
 <field name="title">A catalog of audio-visual instructional materials</field>
 <field name="keywords">Audio-visual materials</field>
 <field name="keywords">Catalogs</field>
@@ -3801,7 +3801,7 @@ Newmann. AEP ed.: Craig Pearson; John Marchak; David G. Sparks.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Brown, Gertha</field>
+<field name="author">Brown, Gertha</field><field name="author_nat">Gertha Brown</field>
 <field name="title">Catalog of audio-visual materials</field>
 <field name="keywords">Audio-visual materials</field>
 <field name="keywords">Catalogs</field>
@@ -3876,7 +3876,7 @@ schools</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Eckman, O. L.</field>
+<field name="author">Eckman, O. L.</field><field name="author_nat">O. L. Eckman</field>
 <field name="title">Catalog of audio-visual materials, Monterey County schools, catalog II</field>
 <field name="keywords">Audio-visual materials</field>
 <field name="keywords">Catalogs</field>
@@ -4032,8 +4032,8 @@ schools</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Thompson, Glenn R.</field>
-<field name="author">Hill, Jimmie O.</field>
+<field name="author">Thompson, Glenn R.</field><field name="author_nat">Glenn R. Thompson</field>
+<field name="author">Hill, Jimmie O.</field><field name="author_nat">Jimmie O. Hill</field>
 <field name="corp_author">Instructional Materials Department</field>
 <field name="title">Catalog of instructional materials available from Audio-Visual Education
 Department. Lassen County Schools</field>
@@ -4101,7 +4101,7 @@ handicapped, Master Tape Library.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Miller, Loren F.</field>
+<field name="author">Miller, Loren F.</field><field name="author_nat">Loren F. Miller</field>
 <field name="title">Catalogue of audio-visual materials: a guide for the secondary and junior
 college teachers of San Mateo County</field>
 <field name="keywords">Audio-visual materials</field>
@@ -4111,9 +4111,9 @@ college teachers of San Mateo County</field>
 <field name="pub_place">Redwood City, CA</field>
 <field name="pages">27</field>
 <field name="call_number">371.3095 .S196c</field>
-<field name="notes">&quot;This catalogue of audio-visual aids is presented to the teachers of San
+<field name="notes">"This catalogue of audio-visual aids is presented to the teachers of San
 Mateo County to acquaint them with the materials available in the Office of the County
-Superintendent of Schools.&quot;</field>
+Superintendent of Schools."</field>
 <field name="state_country">California</field>
 <field name="grade_level_group">Postsecondary</field>
 <field name="grade_level_group">High school</field>
@@ -4156,9 +4156,9 @@ international dimensions of education in New York State: Progress report</field>
 <field name="pages">32</field>
 <field name="language">English</field>
 <field name="call_number">327 .N532f v. 2</field>
-<field name="notes">32 p. ; 22 cm.; Note(s): &quot;Prepared as a sequel to The international
-dimensions of education in New York State.&quot;/ &quot;Publications by and about the State
-Education Department's programs in foreign area studies&quot;: p. 31-32.</field>
+<field name="notes">32 p. ; 22 cm.; Note(s): "Prepared as a sequel to The international
+dimensions of education in New York State."/ "Publications by and about the State
+Education Department's programs in foreign area studies": p. 31-32.</field>
 <field name="state_country">New York</field>
 </doc>
 
@@ -4184,7 +4184,7 @@ Library archives only; material does not circulate.; Responsibility: Akron Publi
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Nelson, Murry</field>
+<field name="author">Nelson, Murry</field><field name="author_nat">Murry Nelson</field>
 <field name="title">Change in the junior high social studies curriculum, 1900-1972</field>
 <field name="keywords">Social sciences</field>
 <field name="date">1970s</field>
@@ -4195,7 +4195,7 @@ Library archives only; material does not circulate.; Responsibility: Akron Publi
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Jones, Vernon A.</field>
+<field name="author">Jones, Vernon A.</field><field name="author_nat">Vernon A. Jones</field>
 <field name="title">Character and citizenship education; a syllabus for use in teacher training</field>
 <field name="keywords">Civics</field>
 <field name="year">1950</field>
@@ -4225,7 +4225,7 @@ Palmer Foundation, Texarkana, Ark.-Tex</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Stevenson, Earl P.</field>
+<field name="author">Stevenson, Earl P.</field><field name="author_nat">Earl P. Stevenson</field>
 <field name="title">The chemical industry and the future</field>
 <field name="keywords">Chemical industry</field>
 <field name="keywords">Chemical workers</field>
@@ -4233,8 +4233,8 @@ Palmer Foundation, Texarkana, Ark.-Tex</field>
 <field name="date">05/1953</field>
 <field name="pages">10</field>
 <field name="call_number">371.425 .C51i</field>
-<field name="notes">&quot;A paper presented at the conference of the Industrial Council held at
-Rensselaer Polytechnic Institute, May 1953.&quot;</field>
+<field name="notes">"A paper presented at the conference of the Industrial Council held at
+Rensselaer Polytechnic Institute, May 1953."</field>
 </doc>
 
 <doc>
@@ -4252,7 +4252,7 @@ Technical education program series</field>
 <field name="pages">119</field>
 <field name="language">English</field>
 <field name="call_number">371.401 .U58t no. 5</field>
-<field name="notes">vii; ill. ; 26 cm.; Note(s): &quot;OE-80031.&quot;/ Includes bibliographical
+<field name="notes">vii; ill. ; 26 cm.; Note(s): "OE-80031."/ Includes bibliographical
 references.; Responsibility: U.S. Office of Education, Division of Vocational and Technical
 Education.</field>
 <field name="grade_level_group">Postsecondary</field>
@@ -4260,7 +4260,7 @@ Education.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Dunn, Lynn P.</field>
+<field name="author">Dunn, Lynn P.</field><field name="author_nat">Lynn P. Dunn</field>
 <field name="title">Chicanos : a study guide and sourcebook</field>
 <field name="keywords">Mexican Americans</field>
 <field name="year">1975</field>
@@ -4271,8 +4271,8 @@ Education.</field>
 <field name="language">English</field>
 <field name="call_number">323 .C59c</field>
 <field name="notes">vi; ; 28 cm.; Note(s): Includes bibliographical references (p. 111-122).;
-&quot;This book is one of a four volume series on American minorities (one volume each on Blacks, 
-Chicanos, Native Americans, and Asian Americans.&quot;</field>
+"This book is one of a four volume series on American minorities (one volume each on Blacks, 
+Chicanos, Native Americans, and Asian Americans."</field>
 </doc>
 
 <doc>
@@ -4291,8 +4291,8 @@ Chicanos, Native Americans, and Asian Americans.&quot;</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Davison, Donald G.</field>
-<field name="author">Kilgore, John H.</field>
+<field name="author">Davison, Donald G.</field><field name="author_nat">Donald G. Davison</field>
+<field name="author">Kilgore, John H.</field><field name="author_nat">John H. Kilgore</field>
 <field name="title">The child's world of choices</field>
 <field name="keywords">Economics</field>
 <field name="year">1968</field>
@@ -4303,8 +4303,8 @@ Administration, University of Iowa</field>
 <field name="pages">186</field>
 <field name="language">English</field>
 <field name="call_number">330 .I64c v. 1</field>
-<field name="notes">ix; illus. 28 cm.; Note(s): Supplemented by: &quot;Teacher's guide to Student
-Activity book. Preliminary draft.&quot; (1 v. illus. 23 x 28 cm.) published: Iowa City, Iowa Council
+<field name="notes">ix; illus. 28 cm.; Note(s): Supplemented by: "Teacher's guide to Student
+Activity book. Preliminary draft." (1 v. illus. 23 x 28 cm.) published: Iowa City, Iowa Council
 on Economic Education, Bureau of Business and Economic Research, University of Iowa, 1970-  Teacher's Guide; Responsibility: by Donald G. Davison and John H. Kilgore.</field>
 <field name="state_country">Iowa</field>
 </doc>
@@ -4362,7 +4362,7 @@ Development</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Lew, Helene</field>
+<field name="author">Lew, Helene</field><field name="author_nat">Helene Lew</field>
 <field name="corp_author">San Francisco (California) Unified School District</field>
 <field name="title">Chinese new year resource material</field>
 <field name="keywords">China</field>
@@ -4392,7 +4392,7 @@ Development</field>
 <field name="call_number">371.425 .J86a</field>
 <field name="notes">32 p. ill. 16 x 23 cm.; Note(s): Cover title. Attached: Programs in Journalism
 accredited by the American Council on Education for Journalism upon recommendation of its
-accrediting committee&quot; 1956 (12p.)</field>
+accrediting committee" 1956 (12p.)</field>
 </doc>
 
 <doc>
@@ -4411,7 +4411,7 @@ accrediting committee&quot; 1956 (12p.)</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Humphreys, Joseph Anthony</field>
+<field name="author">Humphreys, Joseph Anthony</field><field name="author_nat">Joseph Anthony Humphreys</field>
 <field name="title">Choosing your career</field>
 <field name="series_title">Life adjustment booklet</field>
 <field name="keywords">Vocational guidance</field>
@@ -4422,14 +4422,14 @@ accrediting committee&quot; 1956 (12p.)</field>
 <field name="pages">48</field>
 <field name="language">English</field>
 <field name="call_number">371.46 .S41L v. 1</field>
-<field name="notes">48 p. illus. 22 cm.; Note(s): &quot;Formerly published as Occupational
-monograph number 7 of the American job series, under the title, How to choose a career.&quot;/
+<field name="notes">48 p. illus. 22 cm.; Note(s): "Formerly published as Occupational
+monograph number 7 of the American job series, under the title, How to choose a career."/
 Bibliography: p. [3] of cover.</field>
 </doc>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Fenner, Mildred Sandison</field>
+<field name="author">Fenner, Mildred Sandison</field><field name="author_nat">Mildred Sandison Fenner</field>
 <field name="title">Circus!</field>
 <field name="series_title">Oregon ASCD curriculum bulletin</field>
 <field name="keywords">Circus</field>
@@ -4441,14 +4441,14 @@ Bibliography: p. [3] of cover.</field>
 <field name="pages">24</field>
 <field name="language">English</field>
 <field name="call_number">371.33 .O65c</field>
-<field name="notes">ill. ; 28 cm.; Note(s): Cover title./ &quot;Recordings of circus music&quot;:
+<field name="notes">ill. ; 28 cm.; Note(s): Cover title./ "Recordings of circus music":
 p. 21-22./ Includes bibliographical references (p. 17-21).; Responsibility: prepared by Mildred S.
 Fenner.</field>
 </doc>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Herzberg, Donald G.</field>
+<field name="author">Herzberg, Donald G.</field><field name="author_nat">Donald G. Herzberg</field>
 <field name="title">The citizen and political parties: what is their function? should you belong?</field>
 <field name="series_title">Grass roots guides on democracy and practical politics</field>
 <field name="keywords">Political parties</field>
@@ -4465,7 +4465,7 @@ Fenner.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Beetle, David Harold</field>
+<field name="author">Beetle, David Harold</field><field name="author_nat">David Harold Beetle</field>
 <field name="title">The citizen and politics</field>
 <field name="keywords">Political parties</field>
 <field name="year">1966</field>
@@ -4482,8 +4482,8 @@ Secondary Curriculum Development</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Leppert, Ella C.</field>
-<field name="author">Weir, Edward C.</field>
+<field name="author">Leppert, Ella C.</field><field name="author_nat">Ella C. Leppert</field>
+<field name="author">Weir, Edward C.</field><field name="author_nat">Edward C. Weir</field>
 <field name="title">Citizens today : young citizens in action in Illinois schools : a report of the
 Illinois Curriculum Program--Citizenshp Education Project</field>
 <field name="series_title">Illinois.; Office of the Superintendent of Public Instruction.; Circular series A
@@ -4582,7 +4582,7 @@ Development</field>
 <field name="pub_place">Albany, NY</field>
 <field name="pages">61</field>
 <field name="language">English</field>
-<field name="notes">ill. ; 23 cm.; Note(s): &quot;H634r-Ap56-25, 000.&quot;</field>
+<field name="notes">ill. ; 23 cm.; Note(s): "H634r-Ap56-25, 000."</field>
 <field name="state_country">New York</field>
 <field name="grade_level_group">High school</field>
 </doc>
@@ -4624,8 +4624,8 @@ Development</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Gonzalez, Lilia A.</field>
-<field name="author">Root, Barbara</field>
+<field name="author">Gonzalez, Lilia A.</field><field name="author_nat">Lilia A. Gonzalez</field>
+<field name="author">Root, Barbara</field><field name="author_nat">Barbara Root</field>
 <field name="title">Citizenship: grades 4-6</field>
 <field name="keywords">Citizenship</field>
 <field name="year">1962</field>
@@ -4634,8 +4634,8 @@ Development</field>
 <field name="pub_place">San Diego, CA</field>
 <field name="pages">46</field>
 <field name="call_number">371.33 .S19c</field>
-<field name="notes">&quot;Prepared by Lilia A. Gonzalez and Barbara Root at the request of the
-Upper Elementary Curriculum Planning Committee and the Instructional Council.&quot;</field>
+<field name="notes">"Prepared by Lilia A. Gonzalez and Barbara Root at the request of the
+Upper Elementary Curriculum Planning Committee and the Instructional Council."</field>
 <field name="state_country">California</field>
 <field name="grade_level_number">4th grade</field>
 <field name="grade_level_number">5th grade</field>
@@ -4644,8 +4644,8 @@ Upper Elementary Curriculum Planning Committee and the Instructional Council.&qu
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Shaw, Helen F.</field>
-<field name="author">Waskow, Henry B.</field>
+<field name="author">Shaw, Helen F.</field><field name="author_nat">Helen F. Shaw</field>
+<field name="author">Waskow, Henry B.</field><field name="author_nat">Henry B. Waskow</field>
 <field name="title">Civic participation: Baltimore plan</field>
 <field name="keywords">Civics</field>
 <field name="year">1953</field>
@@ -4718,8 +4718,8 @@ of New York.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Patterson, Frederick M.</field>
-<field name="author">Holmes, Kenneth P.</field>
+<field name="author">Patterson, Frederick M.</field><field name="author_nat">Frederick M. Patterson</field>
+<field name="author">Holmes, Kenneth P.</field><field name="author_nat">Kenneth P. Holmes</field>
 <field name="title">Civics: local laboratory in democracy</field>
 <field name="keywords">Civics</field>
 <field name="year">1967</field>
@@ -4729,8 +4729,8 @@ of New York.</field>
 <field name="pages">47</field>
 <field name="language">English</field>
 <field name="call_number">371.33 .I29ch</field>
-<field name="notes">47 p. ; 29 cm.; Note(s): &quot;The present handbook used as its base the
-1965-1966 publication Handbook for History and Civics Workshops.&quot;/ Bibliography: p. 45-47.;
+<field name="notes">47 p. ; 29 cm.; Note(s): "The present handbook used as its base the
+1965-1966 publication Handbook for History and Civics Workshops."/ Bibliography: p. 45-47.;
 Responsibility: Frederick M. Patterson, Kenneth P. Holmes and Erna Murphy.</field>
 <field name="state_country">Illinois</field>
 </doc>
@@ -4752,7 +4752,7 @@ Responsibility: Frederick M. Patterson, Kenneth P. Holmes and Erna Murphy.</fiel
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Johnson, Richard</field>
+<field name="author">Johnson, Richard</field><field name="author_nat">Richard Johnson</field>
 <field name="title">Civil and human rights (8th grade)</field>
 <field name="keywords">Civil rights</field>
 <field name="keywords">Human rights</field>
@@ -4766,7 +4766,7 @@ Responsibility: Frederick M. Patterson, Kenneth P. Holmes and Erna Murphy.</fiel
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Stratemeyer, Clara G.</field>
+<field name="author">Stratemeyer, Clara G.</field><field name="author_nat">Clara G. Stratemeyer</field>
 <field name="title">Civil defense education thru elementary and secondary schools</field>
 <field name="keywords">Civil defense</field>
 <field name="keywords">School management and organization</field>
@@ -4778,8 +4778,8 @@ Responsibility: Frederick M. Patterson, Kenneth P. Holmes and Erna Murphy.</fiel
 <field name="language">English</field>
 <field name="notes">36 p. 23 cm.; Note(s): Includes bibliographical references.; Responsibility:
 Project writer, Clara G. Stratemeyer. Produced by Commission on Safety Education, National Education
-Attached: &quot;You and civil defense: a guide for teachers, administrators, and school board
-members&quot; (April 1964)</field>
+Attached: "You and civil defense: a guide for teachers, administrators, and school board
+members" (April 1964)</field>
 </doc>
 
 <doc>
@@ -4866,8 +4866,8 @@ service</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Oliver, Donald W.</field>
-<field name="author">Newmann, Fred M.</field>
+<field name="author">Oliver, Donald W.</field><field name="author_nat">Donald W. Oliver</field>
+<field name="author">Newmann, Fred M.</field><field name="author_nat">Fred M. Newmann</field>
 <field name="title">The Civil War : crisis in federalism</field>
 <field name="series_title">AEP public issues series</field>
 <field name="keywords">Slavery</field>
@@ -4880,8 +4880,8 @@ service</field>
 <field name="pages">63</field>
 <field name="language">English</field>
 <field name="call_number">371.33 .H33p v. 19</field>
-<field name="notes">ill. ; 21 cm.; Note(s): &quot;An American Education Publications unit
-book.&quot;/ Cover title./ Includes bibliographical references (p. 63).; Responsibility: adapted
+<field name="notes">ill. ; 21 cm.; Note(s): "An American Education Publications unit
+book."/ Cover title./ Includes bibliographical references (p. 63).; Responsibility: adapted
 from the Harvard Social Studies Project under the direction of Donald W. Oliver and Fred M. Newmann.
 </field>
 </doc>
@@ -4992,7 +4992,7 @@ program</field>
 <field name="pub_place">Redwood City, CA</field>
 <field name="pages">72</field>
 <field name="call_number">371.33 .S196s v. 1</field>
-<field name="notes">&quot;A Social Studies Resource Guide For Grade 1&quot;</field>
+<field name="notes">"A Social Studies Resource Guide For Grade 1"</field>
 <field name="state_country">California</field>
 <field name="grade_level_number">1st grade</field>
 </doc>
@@ -5017,7 +5017,7 @@ eight</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Baker, Virgil L.</field>
+<field name="author">Baker, Virgil L.</field><field name="author_nat">Virgil L. Baker</field>
 <field name="title">Close-circuit television as a means of in-school instruction: a survey of
 findings from visitation, conference and research</field>
 <field name="keywords">Television in education</field>
@@ -5046,7 +5046,7 @@ findings from visitation, conference and research</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Gorth, William P.</field>
+<field name="author">Gorth, William P.</field><field name="author_nat">William P. Gorth</field>
 <field name="title">The co-op : the objectives and items co-op</field>
 <field name="keywords">Educational tests and measurements</field>
 <field name="year">1976</field>
@@ -5191,8 +5191,8 @@ the Dept. of General Curriculum Services by Allen B. Miller].</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Oliver, Donald W.</field>
-<field name="author">Newmann, Fred M.</field>
+<field name="author">Oliver, Donald W.</field><field name="author_nat">Donald W. Oliver</field>
+<field name="author">Newmann, Fred M.</field><field name="author_nat">Fred M. Newmann</field>
 <field name="title">Colonial Africa : the Kenya experience</field>
 <field name="series_title">AEP public issues series</field>
 <field name="keywords">Kenya</field>
@@ -5204,17 +5204,17 @@ the Dept. of General Curriculum Services by Allen B. Miller].</field>
 <field name="pages">63</field>
 <field name="language">English</field>
 <field name="call_number">371.33 .H33p v. 17</field>
-<field name="notes">ill. ; 21 cm.; Note(s): &quot;An American Education Publications unit
-book.&quot;/ Cover title./ First issued under title: Colonial Kenya, cultures in conflict./ Includes
+<field name="notes">ill. ; 21 cm.; Note(s): "An American Education Publications unit
+book."/ Cover title./ First issued under title: Colonial Kenya, cultures in conflict./ Includes
 bibliographical references (p. 63).; Responsibility: adapted from the Harvard Social Studies Project
 under the dierection of Donald W. Oliver and Fred M. Newmann.</field>
 </doc>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Mitsakos, Charles L.</field>
-<field name="author">Markiewicz, Jane</field>
-<field name="author">McCrady, Claire</field>
+<field name="author">Mitsakos, Charles L.</field><field name="author_nat">Charles L. Mitsakos</field>
+<field name="author">Markiewicz, Jane</field><field name="author_nat">Jane Markiewicz</field>
+<field name="author">McCrady, Claire</field><field name="author_nat">Claire McCrady</field>
 <field name="title">Colonial family of Boston : teacher's resource unit</field>
 <field name="series_title">Families around the world.</field>
 <field name="keywords">United States history</field>
@@ -5233,7 +5233,7 @@ McCrady, Charles L. Mitsakos.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Stewart, Maxwell S.</field>
+<field name="author">Stewart, Maxwell S.</field><field name="author_nat">Maxwell S. Stewart</field>
 <field name="title">Colonies, trade and prosperity ..</field>
 <field name="series_title">Public affairs pamphlet</field>
 <field name="keywords">Colonies</field>
@@ -5251,7 +5251,7 @@ McCrady, Charles L. Mitsakos.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">White, George L.</field>
+<field name="author">White, George L.</field><field name="author_nat">George L. White</field>
 <field name="title">Colusa charts a course</field>
 <field name="keywords">Social sciences</field>
 <field name="publisher">Colusa County (California) Schools</field>
@@ -5263,7 +5263,7 @@ McCrady, Charles L. Mitsakos.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Allen, Charles Moore</field>
+<field name="author">Allen, Charles Moore</field><field name="author_nat">Charles Moore Allen</field>
 <field name="title">Combating the dropout problem</field>
 <field name="series_title">Practical ideas in education</field>
 <field name="keywords">Dropouts</field>
@@ -5327,8 +5327,8 @@ Minnesota State Council on Economic Education.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Oliver, Donald W.</field>
-<field name="author">Newmann, Fred M.</field>
+<field name="author">Oliver, Donald W.</field><field name="author_nat">Donald W. Oliver</field>
+<field name="author">Newmann, Fred M.</field><field name="author_nat">Fred M. Newmann</field>
 <field name="title">Communist China : communal progress and individual freedom</field>
 <field name="series_title">AEP public issues series</field>
 <field name="keywords">China</field>
@@ -5340,15 +5340,15 @@ Minnesota State Council on Economic Education.</field>
 <field name="pages">63</field>
 <field name="language">English</field>
 <field name="call_number">371.33 .H33p v. 16</field>
-<field name="notes">ill. ; 21 cm.; Note(s): &quot;An American Education Publications unit
-book.&quot;/ Cover title./ Includes bibliographical references (p. 63).; Responsibility: adapted
+<field name="notes">ill. ; 21 cm.; Note(s): "An American Education Publications unit
+book."/ Cover title./ Includes bibliographical references (p. 63).; Responsibility: adapted
 from the Harvard Social Studies Project under the direction of Donald W. Oliver and Fred M. Newmann.
 </field>
 </doc>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Haslam, Lois</field>
+<field name="author">Haslam, Lois</field><field name="author_nat">Lois Haslam</field>
 <field name="title">Communities around the world : contrasting communities : teacher's resource
 unit</field>
 <field name="keywords">Social sciences</field>
@@ -5365,9 +5365,9 @@ studies coordinator.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Hitchcock, Jane</field>
-<field name="author">Theroux, Margaret</field>
-<field name="author">Mitsakos, Charles L.</field>
+<field name="author">Hitchcock, Jane</field><field name="author_nat">Jane Hitchcock</field>
+<field name="author">Theroux, Margaret</field><field name="author_nat">Margaret Theroux</field>
+<field name="author">Mitsakos, Charles L.</field><field name="author_nat">Charles L. Mitsakos</field>
 <field name="title">Communities around the world : early California mining camp : teacher's
 resource unit</field>
 <field name="keywords">History</field>
@@ -5383,8 +5383,8 @@ L. Mitsakos, social studies coordinator.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Hitchcock, Jane</field>
-<field name="author">Theroux, Margaret</field>
+<field name="author">Hitchcock, Jane</field><field name="author_nat">Jane Hitchcock</field>
+<field name="author">Theroux, Margaret</field><field name="author_nat">Margaret Theroux</field>
 <field name="title">Communities around the world Parisian community</field>
 <field name="keywords">Social life and customs</field>
 <field name="year">1968</field>
@@ -5398,7 +5398,7 @@ L. Mitsakos, social studies coordinator.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Smith, Lee L.</field>
+<field name="author">Smith, Lee L.</field><field name="author_nat">Lee L. Smith</field>
 <field name="corp_author">American Heritage Foundation</field>
 <field name="title">Community action: how to get it successfully</field>
 <field name="series_title">Grass roots guides on democracy and practical politics</field>
@@ -5433,9 +5433,9 @@ handbook.; Responsibility: Division of Instruction, Battle Creek Public Schools]
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Thompson, M. E.</field>
-<field name="author">Morrow, Paul R.</field>
-<field name="author">McCall, Celia C.</field>
+<field name="author">Thompson, M. E.</field><field name="author_nat">M. E. Thompson</field>
+<field name="author">Morrow, Paul R.</field><field name="author_nat">Paul R. Morrow</field>
+<field name="author">McCall, Celia C.</field><field name="author_nat">Celia C. McCall</field>
 <field name="title">The community as a source of materials of instruction ... A report of the
 Committee on procedures</field>
 <field name="series_title">Georgia program for the improvement of instruction in the public schools</field>
@@ -5451,14 +5451,14 @@ Committee on procedures</field>
 <field name="pages">80</field>
 <field name="language">English</field>
 <field name="call_number">371.3 .G35c</field>
-<field name="notes">80 p. 23cm.; Note(s): &quot;Bibliography, &quot; p. 70-80.</field>
+<field name="notes">80 p. 23cm.; Note(s): "Bibliography, " p. 70-80.</field>
 <field name="state_country">Georgia</field>
 </doc>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Oliver, Donald W.</field>
-<field name="author">Newmann, Fred M.</field>
+<field name="author">Oliver, Donald W.</field><field name="author_nat">Donald W. Oliver</field>
+<field name="author">Newmann, Fred M.</field><field name="author_nat">Fred M. Newmann</field>
 <field name="title">Community change : law, politics and social attitudes</field>
 <field name="series_title">AEP public issues series</field>
 <field name="keywords">Community development</field>
@@ -5469,8 +5469,8 @@ Committee on procedures</field>
 <field name="pages">47</field>
 <field name="language">English</field>
 <field name="call_number">371.33 .H33p v. 13</field>
-<field name="notes">ill. ; 21 cm.; Note(s): &quot;An American Education Publications unit
-book.&quot;/ Cover title.; Responsibility: by the Harvard Social Studies Project under the direction
+<field name="notes">ill. ; 21 cm.; Note(s): "An American Education Publications unit
+book."/ Cover title.; Responsibility: by the Harvard Social Studies Project under the direction
 of Donald W. Oliver and Fred M. Newmann.</field>
 </doc>
 
@@ -5598,8 +5598,8 @@ Public Schools.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Miller, Barbara</field>
-<field name="author">Johnson, Jacqueline</field>
+<field name="author">Miller, Barbara</field><field name="author_nat">Barbara Miller</field>
+<field name="author">Johnson, Jacqueline</field><field name="author_nat">Jacqueline Johnson</field>
 <field name="title">A comparative view of the roles of women : an experimental unit</field>
 <field name="keywords">Sex roles</field>
 <field name="keywords">Social conditions</field>
@@ -5613,13 +5613,13 @@ Public Schools.</field>
 <field name="language">English</field>
 <field name="call_number">371.33 .C391c</field>
 <field name="notes">iv; ill. ; 28 cm.; Note(s): Partially supported by the U.S. Office of
-Education./ &quot;Film resources - a bibliography&quot;: p. 103-l04.; Responsibility: prepared by
+Education./ "Film resources - a bibliography": p. 103-l04.; Responsibility: prepared by
 Barbara Miller, Jacquelyn Johnson for the Center for Teaching International Relations.</field>
 </doc>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Hart, Laurance H.</field>
+<field name="author">Hart, Laurance H.</field><field name="author_nat">Laurance H. Hart</field>
 <field name="title">Comparison of encyclopedias : the Hart chart</field>
 <field name="keywords">Encyclopedias</field>
 <field name="year">1963</field>
@@ -5629,13 +5629,13 @@ Barbara Miller, Jacquelyn Johnson for the Center for Teaching International Rela
 <field name="pages">3</field>
 <field name="language">English</field>
 <field name="call_number">027.8 .H32c</field>
-<field name="notes">3 sheets.; &quot;Comparison of encyclopedias, &quot; &quot;Comparison of
-dictionaries, &quot; &quot;Comparison of atlases&quot;</field>
+<field name="notes">3 sheets.; "Comparison of encyclopedias, " "Comparison of
+dictionaries, " "Comparison of atlases"</field>
 </doc>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Phillips, Linda</field>
+<field name="author">Phillips, Linda</field><field name="author_nat">Linda Phillips</field>
 <field name="title">A comparison of the vocational maturity of sixth grade students from a Black
 urban school and a Caucasian suburban school</field>
 <field name="keywords">Educational counseling</field>
@@ -5706,7 +5706,7 @@ Responsibility: Division of Curriculum Development.</field>
 <doc>
 
 <field name="type">Book</field>
-<field name="author">Mallan, John T.</field>
+<field name="author">Mallan, John T.</field><field name="author_nat">John T. Mallan</field>
 <field name="title">Conceptual frameworks for social science education</field>
 <field name="series_title">Cooperative Center for Social Science Education. Monographs</field>
 <field name="keywords">Social sciences</field>
@@ -5723,7 +5723,7 @@ University</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Rhodes, James E.</field>
+<field name="author">Rhodes, James E.</field><field name="author_nat">James E. Rhodes</field>
 <field name="title">Connecticut and the federal constitution</field>
 <field name="series_title">Curriculum laboratory bulletin</field>
 <field name="keywords">Constitutional history</field>
@@ -5735,7 +5735,7 @@ University</field>
 <field name="series_vol">14</field>
 <field name="language">English</field>
 <field name="call_number">340 .C75c</field>
-<field name="notes">34 p. ; 22 cm.; Note(s): &quot;July 1945.&quot;/ Includes bibliographical
+<field name="notes">34 p. ; 22 cm.; Note(s): "July 1945."/ Includes bibliographical
 references (p. 33-34).; Responsibility: by James E. Rhodes, 2d.</field>
 <field name="state_country">Connecticut</field>
 </doc>
@@ -5772,7 +5772,7 @@ Services</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Winters, T. Howard</field>
+<field name="author">Winters, T. Howard</field><field name="author_nat">T. Howard Winters</field>
 <field name="title">The constitutions of the United States and of Ohio : with introductory and
 explanatory matter and with questions on the federal Constitution</field>
 <field name="series_title">Course of study series</field>
@@ -5814,7 +5814,7 @@ grades 9-12 social studies : instructional bulletin</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Gromatzky, Irene</field>
+<field name="author">Gromatzky, Irene</field><field name="author_nat">Irene Gromatzky</field>
 <field name="title">Consumer education for Mexican-Americans</field>
 <field name="series_title">Clearinghouse on Rural Education and Small Schools</field>
 <field name="keywords">Consumer education</field>
@@ -5828,8 +5828,8 @@ University</field>
 <field name="pages">18</field>
 <field name="language">English</field>
 <field name="call_number">323 .N522m v. 1</field>
-<field name="notes">18 .; Note(s): &quot;Prepared for: National Conference on Educational
-Opportunities for Mexican-Americans, April 25-26, 1968, Commodore Perry Hotel, Austin, Texas.&quot;/
+<field name="notes">18 .; Note(s): "Prepared for: National Conference on Educational
+Opportunities for Mexican-Americans, April 25-26, 1968, Commodore Perry Hotel, Austin, Texas."/
 Bibliography: leaf 18.</field>
 </doc>
 
@@ -5854,10 +5854,10 @@ guide</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Eisenberger, Erwin E.</field>
-<field name="author">Hoar, Jack N.</field>
-<field name="author">Orr, Robert G.</field>
-<field name="author">Steenbergen, Neil Van</field>
+<field name="author">Eisenberger, Erwin E.</field><field name="author_nat">Erwin E. Eisenberger</field>
+<field name="author">Hoar, Jack N.</field><field name="author_nat">Jack N. Hoar</field>
+<field name="author">Orr, Robert G.</field><field name="author_nat">Robert G. Orr</field>
+<field name="author">Steenbergen, Neil Van</field><field name="author_nat">Neil Van Steenbergen</field>
 <field name="title">Contemporary world problems : social studies 3-4, part 1</field>
 <field name="keywords">Government</field>
 <field name="keywords">Social sciences</field>
@@ -5879,10 +5879,10 @@ al.].</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Eisenberger, Erwin E.</field>
-<field name="author">Hoar, Jack N.</field>
-<field name="author">Orr, Robert G.</field>
-<field name="author">Steenbergen, Neil Van</field>
+<field name="author">Eisenberger, Erwin E.</field><field name="author_nat">Erwin E. Eisenberger</field>
+<field name="author">Hoar, Jack N.</field><field name="author_nat">Jack N. Hoar</field>
+<field name="author">Orr, Robert G.</field><field name="author_nat">Robert G. Orr</field>
+<field name="author">Steenbergen, Neil Van</field><field name="author_nat">Neil Van Steenbergen</field>
 <field name="title">Contemporary world problems : social studies 3-4, part 2</field>
 <field name="keywords">Democracy</field>
 <field name="keywords">Social sciences</field>
@@ -5903,10 +5903,10 @@ prepared by Erwin E. Eisenberger ... [et al.].</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Eisenberger, Erwin E.</field>
-<field name="author">Hoar, Jack N.</field>
-<field name="author">Orr, Robert G.</field>
-<field name="author">Steenbergen, Neil Van</field>
+<field name="author">Eisenberger, Erwin E.</field><field name="author_nat">Erwin E. Eisenberger</field>
+<field name="author">Hoar, Jack N.</field><field name="author_nat">Jack N. Hoar</field>
+<field name="author">Orr, Robert G.</field><field name="author_nat">Robert G. Orr</field>
+<field name="author">Steenbergen, Neil Van</field><field name="author_nat">Neil Van Steenbergen</field>
 <field name="title">Contemporary world problems : social studies, 3-4, part 3</field>
 <field name="keywords">History</field>
 <field name="keywords">Social sciences</field>
@@ -5917,7 +5917,7 @@ prepared by Erwin E. Eisenberger ... [et al.].</field>
 <field name="pages">105</field>
 <field name="language">English</field>
 <field name="call_number">320 .L84c v. 3</field>
-<field name="notes">ill. ; 28 cm.; on cover: &quot;Cooperation Among Nations&quot;</field>
+<field name="notes">ill. ; 28 cm.; on cover: "Cooperation Among Nations"</field>
 <field name="state_country">California</field>
 <field name="grade_level_number">3rd grade</field>
 <field name="grade_level_number">4th grade</field>
@@ -6017,7 +6017,7 @@ nineteen fifty nine - nineteen sixty</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Paré, Christine W.</field>
+<field name="author">Paré, Christine W.</field><field name="author_nat">Christine W. Paré</field>
 <field name="title">Counseling centers : their place in the total school program</field>
 <field name="keywords">Counseling</field>
 <field name="year">1976</field>
@@ -6036,7 +6036,7 @@ Fran Petterson, Carolyn Morris.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Gervers, Jane</field>
+<field name="author">Gervers, Jane</field><field name="author_nat">Jane Gervers</field>
 <field name="title">The counselor in the elementary school</field>
 <field name="series_title">Curriculum bulletin</field>
 <field name="keywords">Counseling in elementary education</field>
@@ -6073,7 +6073,7 @@ guidance bulletin</field>
 <field name="issue">2nd rev</field>
 <field name="call_number">371.41 .C15c</field>
 <field name="notes">18 p.; Note(s): [Prepared] in cooperation with Bureau of Industrial Education./
-[Some earlier numbers' (also?) issued with series' &quot;other&quot; title: Occupational information
+[Some earlier numbers' (also?) issued with series' "other" title: Occupational information
 bulletin.]./; Bibliography: p. 18.; Other Titles: Apprenticeable occupations in California, 
 counselor's guide.</field>
 <field name="state_country">California</field>
@@ -6145,7 +6145,7 @@ Information and Guidance.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Fox, Denver C.</field>
+<field name="author">Fox, Denver C.</field><field name="author_nat">Denver C. Fox</field>
 <field name="title">Counselors guide to school camping a guide to the instruction program at the
 elementary school camps</field>
 <field name="keywords">Outdoor education</field>
@@ -6193,8 +6193,8 @@ elementary school camps</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Hart, Anna Marie</field>
-<field name="author">White, Ruth</field>
+<field name="author">Hart, Anna Marie</field><field name="author_nat">Anna Marie Hart</field>
+<field name="author">White, Ruth</field><field name="author_nat">Ruth White</field>
 <field name="title">County government bulletin as developed by Trinity County School supervisors to
 be used in the elementary schools of Trinity County</field>
 <field name="keywords">Government</field>
@@ -6442,7 +6442,7 @@ approach</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Addazio, Louis C.</field>
+<field name="author">Addazio, Louis C.</field><field name="author_nat">Louis C. Addazio</field>
 <field name="corp_author">Secondary Social Studies Program. West Hartford, Connecticut</field>
 <field name="title">Course of study: Civics, grade 9</field>
 <field name="keywords">Civics</field>
@@ -6488,7 +6488,7 @@ how agricultural television can capture viewers</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Foster, LeBaron Russell</field>
+<field name="author">Foster, LeBaron Russell</field><field name="author_nat">LeBaron Russell Foster</field>
 <field name="title">Credit for consumers</field>
 <field name="series_title">Public affairs pamphlets</field>
 <field name="keywords">Credit</field>
@@ -6503,12 +6503,12 @@ how agricultural television can capture viewers</field>
 <field name="pages">31</field>
 <field name="language">English</field>
 <field name="call_number">332 .P976c</field>
-<field name="notes">31, [1] p. diagrs. 22 cm.; Note(s): Cover title./ &quot;This pamphlet was
+<field name="notes">31, [1] p. diagrs. 22 cm.; Note(s): Cover title./ "This pamphlet was
 written by LeBaron R. Foster, in cooperation with the Public affairs committee, on the basis of
 reports by Indiana, Wisconsin, and Massachusetts investigating commissions, the Report of the
 Massachusetts committee on consumer credit, and studies by the Russell Sage foundation, the
-Twentieth century fund and other agencies.&quot;--P. 1./ &quot;First edition, August, 1936 ... third
-edition, January, 1939.&quot;/ &quot;Suggested readings&quot;: p. 30-31.</field>
+Twentieth century fund and other agencies."--P. 1./ "First edition, August, 1936 ... third
+edition, January, 1939."/ "Suggested readings": p. 30-31.</field>
 </doc>
 
 <doc>
@@ -6530,7 +6530,7 @@ States</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Clark, Rheta A.</field>
+<field name="author">Clark, Rheta A.</field><field name="author_nat">Rheta A. Clark</field>
 <field name="title">Criteria for school libraries; service, personnel, rooms, budget and book
 selection</field>
 <field name="keywords">School libraries</field>
@@ -6540,7 +6540,7 @@ selection</field>
 <field name="series_vol">5th printing</field>
 <field name="language">English</field>
 <field name="call_number">027.8 .C75s v. 2</field>
-<field name="notes">40 p. 22 cm.; &quot;Bulletin 89&quot;</field>
+<field name="notes">40 p. 22 cm.; "Bulletin 89"</field>
 </doc>
 
 <doc>
@@ -6579,7 +6579,7 @@ with the NEA National Commission on Safety Education</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Watson, Fletcher G.</field>
+<field name="author">Watson, Fletcher G.</field><field name="author_nat">Fletcher G. Watson</field>
 <field name="title">Critical years ahead in science teaching : report of Conference on nationwide
 Problems of science teaching in the secondary schools held at Harvard University, Cambridge, 
 Massachusetts, July 15 to August 12, 1953. Report edited by Fletcher Watson [and others]</field>
@@ -6624,8 +6624,8 @@ Massachusetts, July 15 to August 12, 1953. Report edited by Fletcher Watson [and
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Asturias, Carlota</field>
-<field name="author">Fernandez, Adelina</field>
+<field name="author">Asturias, Carlota</field><field name="author_nat">Carlota Asturias</field>
+<field name="author">Fernandez, Adelina</field><field name="author_nat">Adelina Fernandez</field>
 <field name="title">Cultural conflicts and linguistic differences of Spanish-Speaking students</field>
 <field name="year">1972</field>
 <field name="date">09/1972</field>
@@ -6638,7 +6638,7 @@ Massachusetts, July 15 to August 12, 1953. Report edited by Fletcher Watson [and
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Reynolds, Alice M.</field>
+<field name="author">Reynolds, Alice M.</field><field name="author_nat">Alice M. Reynolds</field>
 <field name="title">Cultural enrichment handbook for secondary schools</field>
 <field name="keywords">School field trips</field>
 <field name="year">1967</field>
@@ -6682,7 +6682,7 @@ Massachusetts, July 15 to August 12, 1953. Report edited by Fletcher Watson [and
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Noar, Gertrude</field>
+<field name="author">Noar, Gertrude</field><field name="author_nat">Gertrude Noar</field>
 <field name="title">Current problems and issues in human relations education; proceedings of the
 National Conference on Human Relations Education, Commodore Hotel, New York City, April 29-30, 1955</field>
 <field name="keywords">Interpersonal relations</field>
@@ -6880,12 +6880,12 @@ by D.D. Creech.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Sorenson, Lloyd R.</field>
-<field name="author">Carlin, Herbert D.</field>
-<field name="author">Dart, John O.</field>
-<field name="author">Dehner, Albert H.</field>
-<field name="author">Gustafson, C. V.</field>
-<field name="author">Vloyantes, John P.</field>
+<field name="author">Sorenson, Lloyd R.</field><field name="author_nat">Lloyd R. Sorenson</field>
+<field name="author">Carlin, Herbert D.</field><field name="author_nat">Herbert D. Carlin</field>
+<field name="author">Dart, John O.</field><field name="author_nat">John O. Dart</field>
+<field name="author">Dehner, Albert H.</field><field name="author_nat">Albert H. Dehner</field>
+<field name="author">Gustafson, C. V.</field><field name="author_nat">C. V. Gustafson</field>
+<field name="author">Vloyantes, John P.</field><field name="author_nat">John P. Vloyantes</field>
 <field name="title">The curriculum in history and social studies</field>
 <field name="series_title">The Portland High School curriculum study</field>
 <field name="keywords">Social sciences</field>
@@ -6942,8 +6942,8 @@ by D.D. Creech.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Kirkendall, Lester Allen</field>
-<field name="author">Osborne, Ruth Farnham</field>
+<field name="author">Kirkendall, Lester Allen</field><field name="author_nat">Lester Allen Kirkendall</field>
+<field name="author">Osborne, Ruth Farnham</field><field name="author_nat">Ruth Farnham Osborne</field>
 <field name="title">Dating days</field>
 <field name="series_title">Life adjustment booklet</field>
 <field name="keywords">Ethics</field>
@@ -6975,7 +6975,7 @@ by Lester A. Kirkendall and Ruth Farnham Osborne.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Merwin, William C.</field>
+<field name="author">Merwin, William C.</field><field name="author_nat">William C. Merwin</field>
 <field name="title">A decade of inquiry: tempest in a teacup?</field>
 <field name="keywords">Social sciences</field>
 <field name="year">1970</field>
@@ -7026,15 +7026,15 @@ by Lester A. Kirkendall and Ruth Farnham Osborne.</field>
 <field name="pub_place">Minneapolis, MN</field>
 <field name="language">English</field>
 <field name="call_number">371.33 .M661o v. 7</field>
-<field name="notes">16 p., [8] p. ; 22 x 28 cm.; Note(s): &quot;These materials were developed by
+<field name="notes">16 p., [8] p. ; 22 x 28 cm.; Note(s): "These materials were developed by
 the Project Social Studies Curriculum Center of the University of Minnesota under a special grant
-from the U.S. Office of Education (Project HS-045).&quot;</field>
+from the U.S. Office of Education (Project HS-045)."</field>
 <field name="state_country">Minnesota</field>
 </doc>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Bohlman, Mary Edna McCaull</field>
+<field name="author">Bohlman, Mary Edna McCaull</field><field name="author_nat">Mary Edna McCaull Bohlman</field>
 <field name="title">Democracy and its competitors</field>
 <field name="keywords">Communism</field>
 <field name="keywords">Democracy</field>
@@ -7075,8 +7075,8 @@ participation in Michigan secondary schools</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">May, Robert E.</field>
-<field name="author">Teagle, Raphiel</field>
+<field name="author">May, Robert E.</field><field name="author_nat">Robert E. May</field>
+<field name="author">Teagle, Raphiel</field><field name="author_nat">Raphiel Teagle</field>
 <field name="title">Democracy's greatest documents: the Declaration of Independence, the
 Constitution of the United States</field>
 <field name="series_title">Louisiana State Depratment of Education. Bulletin.</field>
@@ -7093,7 +7093,7 @@ Constitution of the United States</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Hillson, Henry T.</field>
+<field name="author">Hillson, Henry T.</field><field name="author_nat">Henry T. Hillson</field>
 <field name="title">The demonstration guidance project, 1957-1962; pilot program for higher
 horizons</field>
 <field name="keywords">Counseling in secondary education</field>
@@ -7150,7 +7150,7 @@ statistics</field>
 <field name="pages">49</field>
 <field name="language">English</field>
 <field name="call_number">371.3428 .N57 no. 6</field>
-<field name="notes">49 p. 23 cm.; Note(s): &quot;Annotated bibliography of tests and scales&quot;:
+<field name="notes">49 p. 23 cm.; Note(s): "Annotated bibliography of tests and scales":
 46-49.; Responsibility: Prepared by Division of tests and measurement. J. Wayne Wrightstone, 
 assistant director. Eugene A. Nifenecker, director of reference, research and statistics.</field>
 <field name="state_country">New York</field>
@@ -7187,8 +7187,8 @@ American heritage</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Dimond, Stanley E.</field>
-<field name="author">Beck, Elsie M.</field>
+<field name="author">Dimond, Stanley E.</field><field name="author_nat">Stanley E. Dimond</field>
+<field name="author">Beck, Elsie M.</field><field name="author_nat">Elsie M. Beck</field>
 <field name="title">Developing civic responsibility : a pupil manual and study guide in social
 studies</field>
 <field name="series_title">Detroit (Michigan) Public Schools. Publication</field>
@@ -7210,7 +7210,7 @@ Beck.; Printed 1954</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Juchem, Marguerite R.</field>
+<field name="author">Juchem, Marguerite R.</field><field name="author_nat">Marguerite R. Juchem</field>
 <field name="title">Developing responsible drivers : a manual on driver education</field>
 <field name="keywords">Automobile driver education</field>
 <field name="year">1962</field>
@@ -7228,7 +7228,7 @@ Marguerite R. Juchem.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Wheeler, Eldon G.</field>
+<field name="author">Wheeler, Eldon G.</field><field name="author_nat">Eldon G. Wheeler</field>
 <field name="title">Developing the social studies curriculum for citizenship education: a manual
 for secondary school social studies teachers: a report of the Kansas study of education for
 citizenship</field>
@@ -7262,7 +7262,7 @@ to employment program.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Olsen, Arthur R.</field>
+<field name="author">Olsen, Arthur R.</field><field name="author_nat">Arthur R. Olsen</field>
 <field name="title">Development in economic education : manual for teachers participating in NDEA
 Title III Economic Workshops</field>
 <field name="keywords">Economics</field>
@@ -7280,8 +7280,8 @@ teachers./ Includes bibliographies.; Responsibility: Arthur Robert Olsen.</field
 
 <doc>
 <field name="type">Book</field>
-<field name="author">de Sola Pool, Ithiel</field>
-<field name="author">Angell, George W.</field>
+<field name="author">de Sola Pool, Ithiel</field><field name="author_nat">Ithiel de Sola Pool</field>
+<field name="author">Angell, George W.</field><field name="author_nat">George W. Angell</field>
 <field name="title">The development of a basic social science course for undergraduate students in
 the natural sciences and engineering</field>
 <field name="keywords">Social sciences</field>
@@ -7295,8 +7295,8 @@ the natural sciences and engineering</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Aikman, Louis P.</field>
-<field name="author">Ostreicher, Leonard M.</field>
+<field name="author">Aikman, Louis P.</field><field name="author_nat">Louis P. Aikman</field>
+<field name="author">Ostreicher, Leonard M.</field><field name="author_nat">Leonard M. Ostreicher</field>
 <field name="title">Development of an inventory for measuring satisfication with student teaching</field>
 <field name="series_title">College of the City of New York. Division of Teacher Education. Office
 of Research and Evaluation. Publication 22</field>
@@ -7358,7 +7358,7 @@ statistics</field>
 <field name="series_vol">3-4</field>
 <field name="language">English</field>
 <field name="call_number">371.3428 .N57 nos. 3-4</field>
-<field name="notes">25; 24 cm.; Note(s): &quot;Selected references&quot;, p. II, p. 32.;
+<field name="notes">25; 24 cm.; Note(s): "Selected references", p. II, p. 32.;
 Responsibility: Prepared by Division of instructional research. May Lazar, research assistant in
 charge.</field>
 <field name="state_country">New York</field>
@@ -7399,7 +7399,7 @@ charge.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Jacobsen, Joseph Melvin</field>
+<field name="author">Jacobsen, Joseph Melvin</field><field name="author_nat">Joseph Melvin Jacobsen</field>
 <field name="title">A directory of occupation-centered curriculums in California junior colleges
 and schools for adults</field>
 <field name="keywords">Vocational education</field>
@@ -7419,7 +7419,7 @@ College of San Francisco.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Jacobsen, Joseph Melvin</field>
+<field name="author">Jacobsen, Joseph Melvin</field><field name="author_nat">Joseph Melvin Jacobsen</field>
 <field name="title">A directory of occupation-centered curriculums in California junior colleges
 and schools for adults</field>
 <field name="keywords">Vocational education</field>
@@ -7438,7 +7438,7 @@ College of San Francisco.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Lamers, William M.</field>
+<field name="author">Lamers, William M.</field><field name="author_nat">William M. Lamers</field>
 <field name="title">Disaster protection handbook for school administrators</field>
 <field name="keywords">Civil defense</field>
 <field name="keywords">Community and school</field>
@@ -7454,7 +7454,7 @@ College of San Francisco.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Herrick, Mary J.</field>
+<field name="author">Herrick, Mary J.</field><field name="author_nat">Mary J. Herrick</field>
 <field name="title">Discipline : what for and how?</field>
 <field name="keywords">School discipline</field>
 <field name="year">1957</field>
@@ -7471,8 +7471,8 @@ Responsibility: by Mary Herrick.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Kuder, George Frederic</field>
-<field name="author">Paulson, Blanche Buhlig</field>
+<field name="author">Kuder, George Frederic</field><field name="author_nat">George Frederic Kuder</field>
+<field name="author">Paulson, Blanche Buhlig</field><field name="author_nat">Blanche Buhlig Paulson</field>
 <field name="title">Discovering your real interests</field>
 <field name="series_title">Life adjustment booklet.</field>
 <field name="keywords">Vocational guidance</field>
@@ -7728,9 +7728,9 @@ supervision of Ina O. Lundh, Asst. Director, Curriculum and Instruction (Health 
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Lockhart, Ellen</field>
-<field name="author">Patton, Sally</field>
-<field name="title">&quot;E pluribus unum&quot;: a resource guide for teachers of junior high
+<field name="author">Lockhart, Ellen</field><field name="author_nat">Ellen Lockhart</field>
+<field name="author">Patton, Sally</field><field name="author_nat">Sally Patton</field>
+<field name="title">"E pluribus unum": a resource guide for teachers of junior high
 social studies</field>
 <field name="keywords">Citizenship</field>
 <field name="year">1973</field>
@@ -7805,8 +7805,8 @@ magazine.; Other Titles: Councilor.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Clark, Jere Walton</field>
-<field name="author">Guyton, Percy L.</field>
+<field name="author">Clark, Jere Walton</field><field name="author_nat">Jere Walton Clark</field>
+<field name="author">Guyton, Percy L.</field><field name="author_nat">Percy L. Guyton</field>
 <field name="title">Economic education experiences of enterprising teachers</field>
 <field name="keywords">Economics</field>
 <field name="year">1966</field>
@@ -7815,14 +7815,14 @@ magazine.; Other Titles: Councilor.</field>
 <field name="pub_place">New York, NY</field>
 <field name="language">English</field>
 <field name="call_number">330 .K29e v. 3</field>
-<field name="notes">v. [1]- 1962-; v. ill. 23 cm; Note(s): &quot;A report developed from the
-1964-65 entries in the Kazanjian Foundation awards program for the teaching of economics, &quot;
+<field name="notes">v. [1]- 1962-; v. ill. 23 cm; Note(s): "A report developed from the
+1964-65 entries in the Kazanjian Foundation awards program for the teaching of economics, "
 \Editors: 1962- J.W. Clark and P.L. Guyton.</field>
 </doc>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Dawson, George G.</field>
+<field name="author">Dawson, George G.</field><field name="author_nat">George G. Dawson</field>
 <field name="title">Economic education experiences of enterprising teachers</field>
 <field name="keywords">Economics</field>
 <field name="year">1970</field>
@@ -7836,8 +7836,8 @@ magazine.; Other Titles: Councilor.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Caldwell, Harold</field>
-<field name="author">Pringle, Robena</field>
+<field name="author">Caldwell, Harold</field><field name="author_nat">Harold Caldwell</field>
+<field name="author">Pringle, Robena</field><field name="author_nat">Robena Pringle</field>
 <field name="corp_author">Kansas Economic Resources Center</field>
 <field name="title">Economic education for the elementary school--a bibliography</field>
 <field name="series_title">Bibliography series</field>
@@ -7849,8 +7849,8 @@ magazine.; Other Titles: Councilor.</field>
 <field name="series_vol">4</field>
 <field name="pages">52</field>
 <field name="call_number">330 .K14e</field>
-<field name="notes">&quot;Teacher References, Supplementary References for Students, and
-Audiovisual Materials.&quot;</field>
+<field name="notes">"Teacher References, Supplementary References for Students, and
+Audiovisual Materials."</field>
 <field name="state_country">Kansas</field>
 </doc>
 
@@ -7870,8 +7870,8 @@ Audiovisual Materials.&quot;</field>
 <field name="pages">72</field>
 <field name="language">English</field>
 <field name="call_number">330 .S19e</field>
-<field name="notes">72 p. illus. 25 cm.; Note(s): &quot;067-114.&quot;/ &quot;A Charles F.
-Kettering Foundation report.&quot;/ Reproduction: Microfiche. [n.p.] Curriculum Materials Research
+<field name="notes">72 p. illus. 25 cm.; Note(s): "067-114."/ "A Charles F.
+Kettering Foundation report."/ Reproduction: Microfiche. [n.p.] Curriculum Materials Research
 Center, I/D/E/A Research and Development Division, / 1967. 2 sheets, 10.5 x 15 cm.</field>
 <field name="state_country">California</field>
 </doc>
@@ -7888,8 +7888,8 @@ Center, I/D/E/A Research and Development Division, / 1967. 2 sheets, 10.5 x 15 c
 <field name="pages">28</field>
 <field name="language">English</field>
 <field name="call_number">330 .M65e v. 5</field>
-<field name="notes">28 p. 28 cm.; Note(s): &quot;Produced in association with ... the Joint Council
-on Economic Education ... and the Minnesota State Council on Economic Education.&quot;</field>
+<field name="notes">28 p. 28 cm.; Note(s): "Produced in association with ... the Joint Council
+on Economic Education ... and the Minnesota State Council on Economic Education."</field>
 <field name="state_country">Minnesota</field>
 <field name="grade_level_group">High school</field>
 </doc>
@@ -7979,7 +7979,7 @@ and nature of economics (an introduction to the subject)</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">O'Neill, James B.</field>
+<field name="author">O'Neill, James B.</field><field name="author_nat">James B. O'Neill</field>
 <field name="title">Economics in social studies textbooks : an evaluation of the economics and the
 teaching strategies in 11th and 12th grade U.S. and world history textbooks</field>
 <field name="keywords">Economics</field>
@@ -8000,9 +8000,9 @@ O'Neill.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Davison, Donald G.</field>
-<field name="author">Sgontz, Larry G.</field>
-<field name="author">Kilgore, John</field>
+<field name="author">Davison, Donald G.</field><field name="author_nat">Donald G. Davison</field>
+<field name="author">Sgontz, Larry G.</field><field name="author_nat">Larry G. Sgontz</field>
+<field name="author">Kilgore, John</field><field name="author_nat">John Kilgore</field>
 <field name="title">Economics in social studies textbooks : an evaluation of the economics and the
 teaching strategies in social studies textbooks, elementary grades 1-6</field>
 <field name="series_title">Report - Bureau of Business and Economic Research, University of Iowa ;;
@@ -8027,10 +8027,10 @@ Business and Economic Research, University of Iowa</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Weidenaar, Dennis J.</field>
-<field name="author">Harrington, Peter V.</field>
-<field name="author">Horton, Robert V.</field>
-<field name="author">Shermis, S. Samuel</field>
+<field name="author">Weidenaar, Dennis J.</field><field name="author_nat">Dennis J. Weidenaar</field>
+<field name="author">Harrington, Peter V.</field><field name="author_nat">Peter V. Harrington</field>
+<field name="author">Horton, Robert V.</field><field name="author_nat">Robert V. Horton</field>
+<field name="author">Shermis, S. Samuel</field><field name="author_nat">S. Samuel Shermis</field>
 <field name="title">Economics in social studies textbooks : an evaluation of the economics and the
 teaching strategies in social studies textbooks, high school (grades 10-12)</field>
 <field name="keywords">Economics</field>
@@ -8051,11 +8051,11 @@ teaching strategies in social studies textbooks, high school (grades 10-12)</fie
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Watson, George G. Jr.</field>
-<field name="author">Askari, Hossein</field>
-<field name="author">Campbell, Philip E.</field>
-<field name="author">Milliken, May E.</field>
-<field name="author">Ounjian, Daniel</field>
+<field name="author">Watson, George G. Jr.</field><field name="author_nat">George G. Jr. Watson</field>
+<field name="author">Askari, Hossein</field><field name="author_nat">Hossein Askari</field>
+<field name="author">Campbell, Philip E.</field><field name="author_nat">Philip E. Campbell</field>
+<field name="author">Milliken, May E.</field><field name="author_nat">May E. Milliken</field>
+<field name="author">Ounjian, Daniel</field><field name="author_nat">Daniel Ounjian</field>
 <field name="title">Economics in social studies textbooks : an evaluation of the economics and the
 teaching strategies in social studies textbooks, junior high school (grades 7-9)</field>
 <field name="keywords">Economics</field>
@@ -8076,7 +8076,7 @@ Watson, Jr. ... [et al.].</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">West, Roscoe L.</field>
+<field name="author">West, Roscoe L.</field><field name="author_nat">Roscoe L. West</field>
 <field name="title">Economics in teacher education and secondary schools</field>
 <field name="keywords">Economics</field>
 <field name="keywords">Teachers</field>
@@ -8094,7 +8094,7 @@ Wood, chairman, National Schools Committee.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Daughtery, Marion Roberts</field>
+<field name="author">Daughtery, Marion Roberts</field><field name="author_nat">Marion Roberts Daughtery</field>
 <field name="title">Economics in the school curriculum; a primer of basic understandings</field>
 <field name="keywords">Economics</field>
 <field name="year">1959</field>
@@ -8196,7 +8196,7 @@ Educación Vocacional (Técnica).</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Leavitt, Jerome</field>
+<field name="author">Leavitt, Jerome</field><field name="author_nat">Jerome Leavitt</field>
 <field name="title">Education and your child</field>
 <field name="series_title">Oregon ASCD curriculum bulletin</field>
 <field name="keywords">Parent and child</field>
@@ -8230,8 +8230,8 @@ Education</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Candlin, Christopher N.</field>
-<field name="author">Derrick, June</field>
+<field name="author">Candlin, Christopher N.</field><field name="author_nat">Christopher N. Candlin</field>
+<field name="author">Derrick, June</field><field name="author_nat">June Derrick</field>
 <field name="corp_author">Great Britain. Community Relations Commission. Advisory Committee on
 Education</field>
 <field name="title">Education for a multi-cultural society. 2, Language</field>
@@ -8252,7 +8252,7 @@ Relations Commission [Advisory Committee on Education] ; [by Christopher Candlin
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Woodward, Peter</field>
+<field name="author">Woodward, Peter</field><field name="author_nat">Peter Woodward</field>
 <field name="corp_author">Great Britain. Community Relations Commission. Advisory Committee on
 Education</field>
 <field name="title">Education for a multi-cultural society. 3, World religions, aids for teachers</field>
@@ -8366,8 +8366,8 @@ New York State</field>
 <field name="pub_place">Albany, NY</field>
 <field name="pages">23</field>
 <field name="call_number">323 .N531e</field>
-<field name="notes">&quot;Guidelines for New York Schools, Colleges, and Universities and for the
-State Education Department in Meeting the Challenges of a Revolutionary World.&quot;</field>
+<field name="notes">"Guidelines for New York Schools, Colleges, and Universities and for the
+State Education Department in Meeting the Challenges of a Revolutionary World."</field>
 <field name="state_country">New York</field>
 </doc>
 
@@ -8382,9 +8382,9 @@ State Education Department in Meeting the Challenges of a Revolutionary World.&q
 <field name="pub_place">Hartford, CT</field>
 <field name="language">English</field>
 <field name="call_number">370.21 .C75e</field>
-<field name="notes">chiefly ill. ; 22 x 28 cm.; Note(s): Title from cover./ &quot;A bulletin of the
+<field name="notes">chiefly ill. ; 22 x 28 cm.; Note(s): Title from cover./ "A bulletin of the
 Connecticut State Department of Education published for the Connecticut Conference on Education, 
-December 1954&quot; -- on cover.</field>
+December 1954" -- on cover.</field>
 <field name="state_country">Connecticut</field>
 </doc>
 
@@ -8402,7 +8402,7 @@ December 1954&quot; -- on cover.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Romney, Miles C.</field>
+<field name="author">Romney, Miles C.</field><field name="author_nat">Miles C. Romney</field>
 <field name="title">The education of American teachers: application of Conant's recommendations to
 the Oregon program</field>
 <field name="series_title">Oregon ASCD curriculum bulletin</field>
@@ -8433,13 +8433,13 @@ the Oregon program</field>
 <field name="pages">46</field>
 <field name="language">English</field>
 <field name="call_number">370.7 .N271e</field>
-<field name="notes">&quot;A guide for follow-up studies of the Kansas TEPS Conference&quot;
+<field name="notes">"A guide for follow-up studies of the Kansas TEPS Conference"
 </field>
 </doc>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Forbes, Jack D.</field>
+<field name="author">Forbes, Jack D.</field><field name="author_nat">Jack D. Forbes</field>
 <field name="title">The education of the culturally different: a multi-cultural approach, a
 handbook for educators</field>
 <field name="keywords">Multicultural education</field>
@@ -8593,7 +8593,7 @@ Texas</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Ulibarri, Horacio</field>
+<field name="author">Ulibarri, Horacio</field><field name="author_nat">Horacio Ulibarri</field>
 <field name="corp_author">ERIC Clearinghouse on Rural Education and Small Schools</field>
 <field name="title">Educational needs of the Mexican-American</field>
 <field name="series_title">National Conference on Educational Opportunities for Mexican-Americans ;
@@ -8605,10 +8605,10 @@ Texas</field>
 <field name="pub_place">Las Cruces, NM</field>
 <field name="language">English</field>
 <field name="call_number">323 .N522m v. 2</field>
-<field name="notes">17, [2] leaves ; 28 cm.; Note(s): &quot;ED 016 538.&quot;/ &quot;RC 001
-648.&quot;/ On cover: ERIC reports./ Prepared for National Conference on Educational Opportunities
-for Mexican Americans, April 25-26, 1968, Austin, Texas./ &quot;Prepared by ERIC Document
-Reproduction Service ... Bethesda, Maryland.&quot;/ Includes bibliographical references.; Other
+<field name="notes">17, [2] leaves ; 28 cm.; Note(s): "ED 016 538."/ "RC 001
+648."/ On cover: ERIC reports./ Prepared for National Conference on Educational Opportunities
+for Mexican Americans, April 25-26, 1968, Austin, Texas./ "Prepared by ERIC Document
+Reproduction Service ... Bethesda, Maryland."/ Includes bibliographical references.; Other
 Titles: ERIC reports.; Responsibility: by Horacio Ulibarri.</field>
 </doc>
 
@@ -8725,7 +8725,7 @@ Sociologists.; Statisticians.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Schten, Edward V.</field>
+<field name="author">Schten, Edward V.</field><field name="author_nat">Edward V. Schten</field>
 <field name="title">Educational Television for Kentucky</field>
 <field name="series_title">Research report</field>
 <field name="keywords">Television in education</field>
@@ -8814,7 +8814,7 @@ prepared by Edward V. Schten.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Murphy, Gerard</field>
+<field name="author">Murphy, Gerard</field><field name="author_nat">Gerard Murphy</field>
 <field name="title">The effect of the study hall and study center on student achievement</field>
 <field name="series_title">Curriculum bulletin</field>
 <field name="keywords">Supervised study</field>
@@ -8848,8 +8848,8 @@ prepared by Edward V. Schten.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Heffernan, Helen</field>
-<field name="author">Potter, Gladys L.</field>
+<field name="author">Heffernan, Helen</field><field name="author_nat">Helen Heffernan</field>
+<field name="author">Potter, Gladys L.</field><field name="author_nat">Gladys L. Potter</field>
 <field name="title">Effective use of library facilities in rural schools</field>
 <field name="series_title">Department of education bulletin</field>
 <field name="keywords">Libraries</field>
@@ -8863,10 +8863,10 @@ prepared by Edward V. Schten.</field>
 <field name="pages">61</field>
 <field name="language">English</field>
 <field name="call_number">016 .C15e</field>
-<field name="notes">x, 61 p. incl. illus.; an, form. 23 cm.; Note(s): &quot;The bulletin was
+<field name="notes">x, 61 p. incl. illus.; an, form. 23 cm.; Note(s): "The bulletin was
 planned and its preparation directed by Helen Heffernan and Gladys L. Potter of the Division of
-elementary education and rural schools.&quot;--Foreword, p. iii./ &quot;The development of
-libraries&quot;: p. 53-56./ Bibliography: p. 16, 57-61.</field>
+elementary education and rural schools."--Foreword, p. iii./ "The development of
+libraries": p. 53-56./ Bibliography: p. 16, 57-61.</field>
 <field name="state_country">California</field>
 </doc>
 
@@ -8886,7 +8886,7 @@ libraries&quot;: p. 53-56./ Bibliography: p. 16, 57-61.</field>
 <field name="pages">26</field>
 <field name="language">English</field>
 <field name="call_number">371.46 .R67e</field>
-<field name="notes">2; ill. ; 28 cm.; Note(s): &quot;Project BEACON is a cooperative program
+<field name="notes">2; ill. ; 28 cm.; Note(s): "Project BEACON is a cooperative program
 between the City School District of Rochester and Project ABLE, Division of Pupil Personnel
 Services, New York State Education Department.; Responsibility: developed by Project BEACON staff.</field>
 <field name="state_country">New York</field>
@@ -8895,8 +8895,8 @@ Services, New York State Education Department.; Responsibility: developed by Pro
 
 <doc>
 <field name="type">Book</field>
-<field name="author">McNassor, Donald</field>
-<field name="author">Tallman, Frank F.</field>
+<field name="author">McNassor, Donald</field><field name="author_nat">Donald McNassor</field>
+<field name="author">Tallman, Frank F.</field><field name="author_nat">Frank F. Tallman</field>
 <field name="title">Ego development in school children who are afraid to learn; an investigation of
 the effects of participation in school small activity groups on classroom learning in the Montebello
 Unified School District</field>
@@ -8915,8 +8915,8 @@ Unified School District</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Eisenstein, Virginia</field>
-<field name="author">Eisenstein, James</field>
+<field name="author">Eisenstein, Virginia</field><field name="author_nat">Virginia Eisenstein</field>
+<field name="author">Eisenstein, James</field><field name="author_nat">James Eisenstein</field>
 <field name="title">The electoral college: how does it work? should the system be changed?</field>
 <field name="series_title">Grass roots guides on democracy and practical politics</field>
 <field name="keywords">Elections</field>
@@ -8967,8 +8967,8 @@ education program series</field>
 <field name="pages">97</field>
 <field name="language">English</field>
 <field name="call_number">371.401 .U58t #2</field>
-<field name="notes">vii; ill. ; 26 cm.; Note(s): &quot;Companion publication, 'Electrical
-technology'&quot;--Foreword./ Includes bibliographies.;</field>
+<field name="notes">vii; ill. ; 26 cm.; Note(s): "Companion publication, 'Electrical
+technology'"--Foreword./ Includes bibliographies.;</field>
 </doc>
 
 <doc>

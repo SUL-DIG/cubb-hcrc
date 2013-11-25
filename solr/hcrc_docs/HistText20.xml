@@ -1,7 +1,7 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="type">Book</field>
-<field name="author">Lodge, Evan</field>
+<field name="author">Lodge, Evan</field><field name="author_nat">Evan Lodge</field>
 <field name="title">English activity outlines for grades 7, 8, 9</field>
 <field name="year">1953</field>
 <field name="date">06/1953</field>
@@ -78,7 +78,7 @@ senior high school course guide</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Wolf, Leonard</field>
+<field name="author">Wolf, Leonard</field><field name="author_nat">Leonard Wolf</field>
 <field name="title">Teaching a poem</field>
 <field name="year">1965</field>
 <field name="date">1965</field>
@@ -96,7 +96,7 @@ senior high school course guide</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Carr, Arthur J.</field>
+<field name="author">Carr, Arthur J.</field><field name="author_nat">Arthur J. Carr</field>
 <field name="title">A student writing assignment based on "Fire walking in Ceylon"</field>
 <field name="year">1965</field>
 <field name="date">1965</field>
@@ -113,7 +113,7 @@ senior high school course guide</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Coleman, Alice C.</field>
+<field name="author">Coleman, Alice C.</field><field name="author_nat">Alice C. Coleman</field>
 <field name="title">A class study of Theodore Roethke's "The waking"</field>
 <field name="year">1965</field>
 <field name="date">1965</field>
@@ -130,7 +130,7 @@ senior high school course guide</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Curwen, Henry Darcy</field>
+<field name="author">Curwen, Henry Darcy</field><field name="author_nat">Henry Darcy Curwen</field>
 <field name="title">Teaching biography in the secondary school</field>
 <field name="year">1965</field>
 <field name="date">1965</field>
@@ -146,7 +146,7 @@ senior high school course guide</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Smith, Hallett D.</field>
+<field name="author">Smith, Hallett D.</field><field name="author_nat">Hallett D. Smith</field>
 <field name="title">Teaching Shakespeare's Henry IV, Part 1</field>
 <field name="year">1965</field>
 <field name="date">1965</field>
@@ -163,7 +163,7 @@ senior high school course guide</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Teeter, Karl V.</field>
+<field name="author">Teeter, Karl V.</field><field name="author_nat">Karl V. Teeter</field>
 <field name="title">Grammar and generative grammar</field>
 <field name="year">1965</field>
 <field name="date">1965</field>
@@ -179,7 +179,7 @@ senior high school course guide</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Gibson, Walker</field>
+<field name="author">Gibson, Walker</field><field name="author_nat">Walker Gibson</field>
 <field name="title">The "Speaking voice" and the teaching of composition</field>
 <field name="year">1965</field>
 <field name="date">1965</field>
@@ -196,7 +196,7 @@ senior high school course guide</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Elledge, Scott B.</field>
+<field name="author">Elledge, Scott B.</field><field name="author_nat">Scott B. Elledge</field>
 <field name="title">Invention and topics: or, where to look for something to say</field>
 <field name="year">1965</field>
 <field name="date">1965</field>
@@ -213,7 +213,7 @@ senior high school course guide</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Martin, Terence</field>
+<field name="author">Martin, Terence</field><field name="author_nat">Terence Martin</field>
 <field name="title">Teaching a novel: Moby Dick in the classroom</field>
 <field name="year">1965</field>
 <field name="date">1965</field>
@@ -230,7 +230,7 @@ senior high school course guide</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Williams, George</field>
+<field name="author">Williams, George</field><field name="author_nat">George Williams</field>
 <field name="title">Organization--rhetorical and artistic</field>
 <field name="year">1965</field>
 <field name="date">1965</field>
@@ -247,7 +247,7 @@ senior high school course guide</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Youngblood, Sarah</field>
+<field name="author">Youngblood, Sarah</field><field name="author_nat">Sarah Youngblood</field>
 <field name="title">Teaching a short story: Faulkner's "Barn burning"</field>
 <field name="year">1965</field>
 <field name="date">1965</field>
@@ -264,7 +264,7 @@ senior high school course guide</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Kinder, Robert Farrar</field>
+<field name="author">Kinder, Robert Farrar</field><field name="author_nat">Robert Farrar Kinder</field>
 <field name="title">Challenges to meet : guidelines for building English language arts curriculum,
 K-12</field>
 <field name="year">1969</field>
@@ -286,7 +286,7 @@ Education</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Joll, Leonard W.</field>
+<field name="author">Joll, Leonard W.</field><field name="author_nat">Leonard W. Joll</field>
 <field name="title">English, grades 7-12</field>
 <field name="year">1959</field>
 <field name="date">09/1959</field>
@@ -324,7 +324,7 @@ series</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Cooper, Georgia</field>
+<field name="author">Cooper, Georgia</field><field name="author_nat">Georgia Cooper</field>
 <field name="corp_author">Contra Costa County (California) Department of Education</field>
 <field name="title">Wings emerging; language opportunities and the pre-school child</field>
 <field name="year">1966</field>

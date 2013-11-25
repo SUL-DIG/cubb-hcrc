@@ -1,8 +1,8 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
     <doc>
         <field name="type">Book</field>
-        <field name="author">Canfield, Albert A.</field>
-        <field name="author">Stack, Conrad</field>
+        <field name="author">Canfield, Albert A.</field><field name="author_nat">Albert A. Canfield</field>
+        <field name="author">Stack, Conrad</field><field name="author_nat">Conrad Stack</field>
         <field name="title">An instructional systems approach</field>
         <field name="series_title">An ESD Modular Program--Educational Systems Development</field>
         <field name="keywords">Experimental methods</field>
@@ -36,7 +36,7 @@
     
     <doc>
         <field name="type">Book</field>
-        <field name="author">Romero, Fernando</field>
+        <field name="author">Romero, Fernando</field><field name="author_nat">Fernando Romero</field>
         <field name="title">Inter-American cooperation in vocational education</field>
         <field name="series_title">Pan American Union. Division of Education. Ser. M on vocational
             education</field>

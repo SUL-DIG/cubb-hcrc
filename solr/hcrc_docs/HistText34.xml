@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="type">Book</field>
 <field name="corp_author">Alameda (California) Unified School District</field>
@@ -116,7 +116,7 @@ bulletin.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Beatty, Leslie</field>
+<field name="author">Beatty, Leslie</field><field name="author_nat">Leslie Beatty</field>
 <field name="title">Guide to the teaching of arithmetic in kindergarten and grades one and
 two</field>
 <field name="year">1949</field>

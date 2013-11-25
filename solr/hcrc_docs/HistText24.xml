@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="type">Book</field>
 <field name="corp_author">Sacramento (California) City Unified School District</field>
@@ -47,9 +47,9 @@ compositions)</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Karzen, Stuart E.</field>
-<field name="author">Kirkland, Josephine M.</field>
-<field name="author">Wittgow, Kathleen B.</field>
+<field name="author">Karzen, Stuart E.</field><field name="author_nat">Stuart E. Karzen</field>
+<field name="author">Kirkland, Josephine M.</field><field name="author_nat">Josephine M. Kirkland</field>
+<field name="author">Wittgow, Kathleen B.</field><field name="author_nat">Kathleen B. Wittgow</field>
 <field name="corp_author">San Diego (California) City Schools</field>
 <field name="title">Language and spelling : grade three : section of the curriculum guide</field>
 <field name="year">1968</field>
@@ -90,8 +90,8 @@ Stuart E. Karzen, Josephine M. Kirkland, Kathleen B. Wittgow.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Hanline, Clara Jean</field>
-<field name="author">Kirkland, Josephine M.</field>
+<field name="author">Hanline, Clara Jean</field><field name="author_nat">Clara Jean Hanline</field>
+<field name="author">Kirkland, Josephine M.</field><field name="author_nat">Josephine M. Kirkland</field>
 <field name="corp_author">San Diego (California) City Schools</field>
 <field name="title">Language and spelling, grade one</field>
 <field name="year">1968</field>
@@ -128,8 +128,8 @@ Stuart E. Karzen, Josephine M. Kirkland, Kathleen B. Wittgow.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Gumm, Anna Mae</field>
-<field name="author">Ross, Lena R.</field>
+<field name="author">Gumm, Anna Mae</field><field name="author_nat">Anna Mae Gumm</field>
+<field name="author">Ross, Lena R.</field><field name="author_nat">Lena R. Ross</field>
 <field name="corp_author">San Diego (California) City Schools</field>
 <field name="title">Language, spelling, handwriting: grade one</field>
 <field name="year">1961</field>
@@ -147,8 +147,8 @@ Stuart E. Karzen, Josephine M. Kirkland, Kathleen B. Wittgow.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Gumm, Anna Mae</field>
-<field name="author">Ross, Lena R.</field>
+<field name="author">Gumm, Anna Mae</field><field name="author_nat">Anna Mae Gumm</field>
+<field name="author">Ross, Lena R.</field><field name="author_nat">Lena R. Ross</field>
 <field name="corp_author">San Diego (California) City Schools</field>
 <field name="title">Language, spelling, handwriting: grade two</field>
 <field name="year">1961</field>
@@ -166,8 +166,8 @@ Stuart E. Karzen, Josephine M. Kirkland, Kathleen B. Wittgow.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Gumm, Anna Mae</field>
-<field name="author">Ross, Lena R.</field>
+<field name="author">Gumm, Anna Mae</field><field name="author_nat">Anna Mae Gumm</field>
+<field name="author">Ross, Lena R.</field><field name="author_nat">Lena R. Ross</field>
 <field name="corp_author">San Diego (California) City Schools</field>
 <field name="title">Language, spelling, handwriting: grade three</field>
 <field name="year">1961</field>
@@ -185,8 +185,8 @@ Stuart E. Karzen, Josephine M. Kirkland, Kathleen B. Wittgow.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Kirkland, Josephine M</field>
-<field name="author">Layton, Lillian G.</field>
+<field name="author">Kirkland, Josephine M</field><field name="author_nat">Josephine M Kirkland</field>
+<field name="author">Layton, Lillian G.</field><field name="author_nat">Lillian G. Layton</field>
 <field name="corp_author">San Diego (California) City Schools</field>
 <field name="title">Language, spelling, handwriting: grade four</field>
 <field name="year">1961</field>
@@ -204,8 +204,8 @@ Stuart E. Karzen, Josephine M. Kirkland, Kathleen B. Wittgow.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Kirkland, Josephine M</field>
-<field name="author">Layton, Lillian G.</field>
+<field name="author">Kirkland, Josephine M</field><field name="author_nat">Josephine M Kirkland</field>
+<field name="author">Layton, Lillian G.</field><field name="author_nat">Lillian G. Layton</field>
 <field name="corp_author">San Diego (California) City Schools</field>
 <field name="title">Language, spelling, handwriting: grade six</field>
 <field name="year">1961</field>
@@ -223,7 +223,7 @@ Stuart E. Karzen, Josephine M. Kirkland, Kathleen B. Wittgow.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Stocker, Elizabeth</field>
+<field name="author">Stocker, Elizabeth</field><field name="author_nat">Elizabeth Stocker</field>
 <field name="corp_author">San Diego (California) City Schools</field>
 <field name="title">Oral and written language guide for grade iii</field>
 <field name="year">1957</field>
@@ -395,11 +395,11 @@ Office of Education.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Backhus, Patricia</field>
-<field name="author">Goldman, Milton</field>
-<field name="author">Harshman, Sylvia</field>
-<field name="author">Newman, Lloyd</field>
-<field name="author">Price, William</field>
+<field name="author">Backhus, Patricia</field><field name="author_nat">Patricia Backhus</field>
+<field name="author">Goldman, Milton</field><field name="author_nat">Milton Goldman</field>
+<field name="author">Harshman, Sylvia</field><field name="author_nat">Sylvia Harshman</field>
+<field name="author">Newman, Lloyd</field><field name="author_nat">Lloyd Newman</field>
+<field name="author">Price, William</field><field name="author_nat">William Price</field>
 <field name="corp_author">Sequoia Union High School District (Redwood City, California)</field>
 <field name="title">English program, grades 9, 10, 11</field>
 <field name="year">1960</field>
@@ -583,7 +583,7 @@ al.].</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Love, Larry John</field>
+<field name="author">Love, Larry John</field><field name="author_nat">Larry John Love</field>
 <field name="title">Language arts instructional guide: seventh grade, volume ii</field>
 <field name="year">1960</field>
 <field name="date">07/1960</field>
@@ -852,7 +852,7 @@ schools</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Pratt, Miriam L.</field>
+<field name="author">Pratt, Miriam L.</field><field name="author_nat">Miriam L. Pratt</field>
 <field name="corp_author">Stanislaus County (California) Schools</field>
 <field name="title">Guide for phonics and dictionary skills</field>
 <field name="pages">42</field>
@@ -868,8 +868,8 @@ schools</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Beyer, Fred C.</field>
-<field name="author">Ray, Herndon C.</field>
+<field name="author">Beyer, Fred C.</field><field name="author_nat">Fred C. Beyer</field>
+<field name="author">Ray, Herndon C.</field><field name="author_nat">Herndon C. Ray</field>
 <field name="corp_author">Stanislaus County (California) Schools</field>
 <field name="title">Language arts guide; grades seven and eight</field>
 <field name="pages">42</field>
@@ -913,7 +913,7 @@ schools</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Putnam, Mildred</field>
+<field name="author">Putnam, Mildred</field><field name="author_nat">Mildred Putnam</field>
 <field name="title">Working with word patterns</field>
 <field name="year">1967</field>
 <field name="date">1967</field>

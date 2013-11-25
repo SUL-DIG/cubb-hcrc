@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="type">Book</field>
 <field name="corp_author">Arlington Heights (Illinois) Public Schools</field>
@@ -42,8 +42,8 @@ staff.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Burt, Marina K.</field>
-<field name="author">Kiparsky, Carol</field>
+<field name="author">Burt, Marina K.</field><field name="author_nat">Marina K. Burt</field>
+<field name="author">Kiparsky, Carol</field><field name="author_nat">Carol Kiparsky</field>
 <field name="title">The gooficon: a repair manual for English</field>
 <field name="year">1972</field>
 <field name="date">1972</field>
@@ -106,7 +106,7 @@ staff.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Jacobs, Charles C.</field>
+<field name="author">Jacobs, Charles C.</field><field name="author_nat">Charles C. Jacobs</field>
 <field name="title">An approach to migrant bilingual education</field>
 <field name="year">1969</field>
 <field name="date">1969</field>
@@ -562,14 +562,14 @@ Environments</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Soriano, Jesse M.</field>
-<field name="author">Alvarez, Concepcion</field>
-<field name="author">Armelin, Maria Elba</field>
-<field name="author">Maley, Carmen</field>
-<field name="author">Miranda, Consuelo</field>
-<field name="author">Unger, Susana</field>
-<field name="author">Wilson, Cecilia</field>
-<field name="author">Kiddle, Lawrence R.</field>
+<field name="author">Soriano, Jesse M.</field><field name="author_nat">Jesse M. Soriano</field>
+<field name="author">Alvarez, Concepcion</field><field name="author_nat">Concepcion Alvarez</field>
+<field name="author">Armelin, Maria Elba</field><field name="author_nat">Maria Elba Armelin</field>
+<field name="author">Maley, Carmen</field><field name="author_nat">Carmen Maley</field>
+<field name="author">Miranda, Consuelo</field><field name="author_nat">Consuelo Miranda</field>
+<field name="author">Unger, Susana</field><field name="author_nat">Susana Unger</field>
+<field name="author">Wilson, Cecilia</field><field name="author_nat">Cecilia Wilson</field>
+<field name="author">Kiddle, Lawrence R.</field><field name="author_nat">Lawrence R. Kiddle</field>
 <field name="title">Spanish guide: kindergarten; standard Spanish as a second dialect or second
 language</field>
 <field name="year">1969</field>
@@ -709,7 +709,7 @@ stage</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Dillon, Paul L.</field>
+<field name="author">Dillon, Paul L.</field><field name="author_nat">Paul L. Dillon</field>
 <field name="corp_author">San Francisco (California) Unified School District</field>
 <field name="title">San Francisco bilingual-bicultural education project for Spanish/English
 speaking children : 1970-1971 final evaluation report</field>
@@ -730,7 +730,7 @@ by Paul L. Dillon, Jr.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Kleitsch, Russell V.</field>
+<field name="author">Kleitsch, Russell V.</field><field name="author_nat">Russell V. Kleitsch</field>
 <field name="title">Teaching English as a second language; grades 7-12</field>
 <field name="year">1968</field>
 <field name="date">1968</field>
@@ -771,7 +771,7 @@ by Paul L. Dillon, Jr.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Richards, Regina G.</field>
+<field name="author">Richards, Regina G.</field><field name="author_nat">Regina G. Richards</field>
 <field name="title">Programmed phonemics; phonemic transcription using a modified international
 phonetic alphabet</field>
 <field name="year">1972</field>
@@ -834,8 +834,8 @@ phonetic alphabet</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Bargiachi, Marguerite</field>
-<field name="author">Gonzales, Mollie</field>
+<field name="author">Bargiachi, Marguerite</field><field name="author_nat">Marguerite Bargiachi</field>
+<field name="author">Gonzales, Mollie</field><field name="author_nat">Mollie Gonzales</field>
 <field name="title">A model curriculum for teaching the culture and history of Mexico for a
 bilingual bicultural program on second grade level : project</field>
 <field name="year">1972</field>
@@ -854,8 +854,8 @@ Responsibility: Marguerite Bargiachi and Mollie Gonzales.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Ohannessian, Sirarpi</field>
-<field name="author">Gage, William W.</field>
+<field name="author">Ohannessian, Sirarpi</field><field name="author_nat">Sirarpi Ohannessian</field>
+<field name="author">Gage, William W.</field><field name="author_nat">William W. Gage</field>
 <field name="corp_author">Center for Applied Linguistics</field>
 <field name="corp_author">United States Bureau of Indian Affairs. Division of Education</field>
 <field name="title">Teaching English to speakers of Choctaw, Navajo, and Papago : a contrastive
@@ -904,7 +904,7 @@ Affairs</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Ulibarri, Horacio</field>
+<field name="author">Ulibarri, Horacio</field><field name="author_nat">Horacio Ulibarri</field>
 <field name="title">Bilingual education: a handbook for educators</field>
 <field name="year">1970</field>
 <field name="date">1970</field>
@@ -919,7 +919,7 @@ Affairs</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Yao Shen</field>
+<field name="author">Yao Shen</field><field name="author_nat"/>
 <field name="title">The teaching of English in China</field>
 <field name="year">1955</field>
 <field name="date">1955</field>
@@ -936,7 +936,7 @@ Affairs</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Valencia, Atilano A.</field>
+<field name="author">Valencia, Atilano A.</field><field name="author_nat">Atilano A. Valencia</field>
 <field name="title">Bilingual-bicultural education for the Spanish-English bilingual</field>
 <field name="year">1972</field>
 <field name="date">10/1972</field>
