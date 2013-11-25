@@ -107,7 +107,7 @@ class CatalogController < ApplicationController
     config.add_show_field 'title', :label => 'Title:' 
     config.add_show_field 'series_title', :label => 'Series Title:' 
     config.add_show_field 'type', :label => 'Type:' 
-    config.add_show_field 'author_nat', :label => 'Author(s):' 
+    #config.add_show_field 'author_nat', :label => 'Author(s):' 
     config.add_show_field 'corp_author', :label => 'Corporate Author:' 
     config.add_show_field 'date', :label => 'Date:' 
     config.add_show_field 'publisher', :label => 'Publisher:' 
