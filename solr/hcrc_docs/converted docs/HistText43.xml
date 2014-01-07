@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="type">Book</field>
 <field name="corp_author">Palo Alto (California) Unified School District</field>
@@ -425,7 +425,7 @@ Education, Pennsylvania Department of Education.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Preston, Ralph Clausius</field>
+<field name="author">Preston, Ralph Clausius</field><field name="author_nat">Ralph Clausius<space/>Preston</field>
 <field name="title">Science : an approach in the elementary school</field>
 <field name="year">1945</field>
 <field name="date">1945</field>
@@ -684,7 +684,7 @@ Central School District No. 2.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Gentry, Adrian N.</field>
+<field name="author">Gentry, Adrian N.</field><field name="author_nat">Adrian N.<space/>Gentry</field>
 <field name="corp_author">Riverside (California) County Schools</field>
 <field name="title">Planning a continuous science program for all junior high school youth:
 guidelines for designing and implementing contemporary science curricula for grades 7-9</field>
@@ -725,8 +725,8 @@ Council of California Science Teacher Organizations</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Schwartz, Warren</field>
-<field name="author">Crain, Roy E.</field>
+<field name="author">Schwartz, Warren</field><field name="author_nat">Warren<space/>Schwartz</field>
+<field name="author">Crain, Roy E.</field><field name="author_nat">Roy E.<space/>Crain</field>
 <field name="corp_author">Roseburg (Oregon) Public Schools</field>
 <field name="title">Science scope &amp;sequence, grade 1</field>
 <field name="year">1963</field>
@@ -744,8 +744,8 @@ Council of California Science Teacher Organizations</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Schwartz, Warren</field>
-<field name="author">Crain, Roy E.</field>
+<field name="author">Schwartz, Warren</field><field name="author_nat">Warren<space/>Schwartz</field>
+<field name="author">Crain, Roy E.</field><field name="author_nat">Roy E.<space/>Crain</field>
 <field name="corp_author">Roseburg (Oregon) Public Schools</field>
 <field name="title">Science scope &amp;sequence, grade 2</field>
 <field name="year">1963</field>
@@ -763,8 +763,8 @@ Council of California Science Teacher Organizations</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Schwartz, Warren</field>
-<field name="author">Crain, Roy E.</field>
+<field name="author">Schwartz, Warren</field><field name="author_nat">Warren<space/>Schwartz</field>
+<field name="author">Crain, Roy E.</field><field name="author_nat">Roy E.<space/>Crain</field>
 <field name="corp_author">Roseburg (Oregon) Public Schools</field>
 <field name="title">Science scope &amp;sequence, grade 3</field>
 <field name="year">1963</field>
@@ -782,8 +782,8 @@ Council of California Science Teacher Organizations</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Schwartz, Warren</field>
-<field name="author">Crain, Roy E.</field>
+<field name="author">Schwartz, Warren</field><field name="author_nat">Warren<space/>Schwartz</field>
+<field name="author">Crain, Roy E.</field><field name="author_nat">Roy E.<space/>Crain</field>
 <field name="corp_author">Roseburg (Oregon) Public Schools</field>
 <field name="title">Science scope &amp;sequence, grade 4</field>
 <field name="year">1963</field>
@@ -801,8 +801,8 @@ Council of California Science Teacher Organizations</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Schwartz, Warren</field>
-<field name="author">Crain, Roy E.</field>
+<field name="author">Schwartz, Warren</field><field name="author_nat">Warren<space/>Schwartz</field>
+<field name="author">Crain, Roy E.</field><field name="author_nat">Roy E.<space/>Crain</field>
 <field name="corp_author">Roseburg (Oregon) Public Schools</field>
 <field name="title">Science scope &amp;sequence, grade 5</field>
 <field name="year">1963</field>
@@ -820,8 +820,8 @@ Council of California Science Teacher Organizations</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Schwartz, Warren</field>
-<field name="author">Crain, Roy E.</field>
+<field name="author">Schwartz, Warren</field><field name="author_nat">Warren<space/>Schwartz</field>
+<field name="author">Crain, Roy E.</field><field name="author_nat">Roy E.<space/>Crain</field>
 <field name="corp_author">Roseburg (Oregon) Public Schools</field>
 <field name="title">Science scope &amp;sequence, grade 6</field>
 <field name="year">1963</field>
@@ -839,8 +839,8 @@ Council of California Science Teacher Organizations</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Schwartz, Warren</field>
-<field name="author">Crain, Roy E.</field>
+<field name="author">Schwartz, Warren</field><field name="author_nat">Warren<space/>Schwartz</field>
+<field name="author">Crain, Roy E.</field><field name="author_nat">Roy E.<space/>Crain</field>
 <field name="corp_author">Roseburg (Oregon) Public Schools</field>
 <field name="title">Science scope &amp;sequence, grade 7</field>
 <field name="year">1963</field>
@@ -858,8 +858,8 @@ Council of California Science Teacher Organizations</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Schwartz, Warren</field>
-<field name="author">Crain, Roy E.</field>
+<field name="author">Schwartz, Warren</field><field name="author_nat">Warren<space/>Schwartz</field>
+<field name="author">Crain, Roy E.</field><field name="author_nat">Roy E.<space/>Crain</field>
 <field name="corp_author">Roseburg (Oregon) Public Schools</field>
 <field name="title">Science scope &amp;sequence, grade 8</field>
 <field name="year">1963</field>
@@ -877,8 +877,8 @@ Council of California Science Teacher Organizations</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Schwartz, Warren</field>
-<field name="author">Crain, Roy E.</field>
+<field name="author">Schwartz, Warren</field><field name="author_nat">Warren<space/>Schwartz</field>
+<field name="author">Crain, Roy E.</field><field name="author_nat">Roy E.<space/>Crain</field>
 <field name="corp_author">Roseburg (Oregon) Public Schools</field>
 <field name="title">Science scope &amp;sequence, grade 9</field>
 <field name="year">1963</field>

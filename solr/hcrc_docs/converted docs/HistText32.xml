@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="type">Book</field>
 <field name="corp_author">Alameda County (California) Superintendent of Schools</field>
@@ -54,7 +54,7 @@ level</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Willis, Benjamin C.</field>
+<field name="author">Willis, Benjamin C.</field><field name="author_nat">Benjamin C.<space/>Willis</field>
 <field name="corp_author">Chicago (Illinois) Board of Education</field>
 <field name="title">A tentative program in speech for the secondary schools</field>
 <field name="year">1958</field>
@@ -127,7 +127,7 @@ Speech Correction.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Garrison, Geraldine</field>
+<field name="author">Garrison, Geraldine</field><field name="author_nat">Geraldine<space/>Garrison</field>
 <field name="corp_author">Connecticut State Department of Education</field>
 <field name="title">What about speech!</field>
 <field name="year">1954</field>
@@ -187,7 +187,7 @@ Curriculum Study Center./ Includes bibliographies.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Williams, Esther</field>
+<field name="author">Williams, Esther</field><field name="author_nat">Esther<space/>Williams</field>
 <field name="title">Choral reading: some suggestions for its use in your classrooms</field>
 <field name="pages">6</field>
 <field name="keywords">Choral speaking</field>
@@ -278,7 +278,7 @@ Instructional Services.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Austin, Ruth R.</field>
+<field name="author">Austin, Ruth R.</field><field name="author_nat">Ruth R.<space/>Austin</field>
 <field name="title">Speech education in the Norfolk County schools</field>
 <field name="year">1956</field>
 <field name="date">1956?</field>
@@ -293,12 +293,12 @@ Instructional Services.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Bennett, Robert A.</field>
-<field name="author">Corbin, Richard</field>
-<field name="author">Lamar, Wilmer</field>
-<field name="author">Majerrison, Mary</field>
-<field name="author">Reeves, Ruth</field>
-<field name="author">Scheerer, Lorietta</field>
+<field name="author">Bennett, Robert A.</field><field name="author_nat">Robert A.<space/>Bennett</field>
+<field name="author">Corbin, Richard</field><field name="author_nat">Richard<space/>Corbin</field>
+<field name="author">Lamar, Wilmer</field><field name="author_nat">Wilmer<space/>Lamar</field>
+<field name="author">Majerrison, Mary</field><field name="author_nat">Mary<space/>Majerrison</field>
+<field name="author">Reeves, Ruth</field><field name="author_nat">Ruth<space/>Reeves</field>
+<field name="author">Scheerer, Lorietta</field><field name="author_nat">Lorietta<space/>Scheerer</field>
 <field name="title">Speech in the English classroom : a portfolio</field>
 <field name="year">1961</field>
 <field name="date">1961</field>
@@ -369,13 +369,13 @@ secondary school</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Carroll, Anne Welch</field>
-<field name="author">Bliler, Robert</field>
-<field name="author">Mosher, Donna</field>
-<field name="author">Pals, Marjorie</field>
-<field name="author">Stone, Carole Rapp</field>
-<field name="author">Van Tine, Ruth</field>
-<field name="author">Yoder, Dave</field>
+<field name="author">Carroll, Anne Welch</field><field name="author_nat">Anne Welch<space/>Carroll</field>
+<field name="author">Bliler, Robert</field><field name="author_nat">Robert<space/>Bliler</field>
+<field name="author">Mosher, Donna</field><field name="author_nat">Donna<space/>Mosher</field>
+<field name="author">Pals, Marjorie</field><field name="author_nat">Marjorie<space/>Pals</field>
+<field name="author">Stone, Carole Rapp</field><field name="author_nat">Carole Rapp<space/>Stone</field>
+<field name="author">Van Tine, Ruth</field><field name="author_nat">Ruth<space/>Van Tine</field>
+<field name="author">Yoder, Dave</field><field name="author_nat">Dave<space/>Yoder</field>
 <field name="title">Guidelines for oral language development</field>
 <field name="year">1966</field>
 <field name="date">04/1966</field>
@@ -546,10 +546,10 @@ Carroll.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Alberico, John</field>
-<field name="author">Johnson, Lowell</field>
-<field name="author">McBade, Jack</field>
-<field name="author">McMenamin, Milton</field>
+<field name="author">Alberico, John</field><field name="author_nat">John<space/>Alberico</field>
+<field name="author">Johnson, Lowell</field><field name="author_nat">Lowell<space/>Johnson</field>
+<field name="author">McBade, Jack</field><field name="author_nat">Jack<space/>McBade</field>
+<field name="author">McMenamin, Milton</field><field name="author_nat">Milton<space/>McMenamin</field>
 <field name="title">A guide to teaching dramatics 1-2 in senior high school</field>
 <field name="year">1968</field>
 <field name="date">1968</field>
@@ -600,7 +600,7 @@ Dramatics 1-2; Responsibility: prepared by John Alberico ... [et al.].</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Fenderson, Julia K.</field>
+<field name="author">Fenderson, Julia K.</field><field name="author_nat">Julia K.<space/>Fenderson</field>
 <field name="title">Let's visit a movie lot</field>
 <field name="year">1956</field>
 <field name="date">1956</field>
@@ -639,11 +639,11 @@ references.; Responsibility: Tulsa Public Schools.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Bruton, Wanda</field>
-<field name="author">Burkhalter, Edward M.</field>
-<field name="author">Haynes, Bennie</field>
-<field name="author">Oliver, George N.</field>
-<field name="author">Parker, Cordell</field>
+<field name="author">Bruton, Wanda</field><field name="author_nat">Wanda<space/>Bruton</field>
+<field name="author">Burkhalter, Edward M.</field><field name="author_nat">Edward M.<space/>Burkhalter</field>
+<field name="author">Haynes, Bennie</field><field name="author_nat">Bennie<space/>Haynes</field>
+<field name="author">Oliver, George N.</field><field name="author_nat">George N.<space/>Oliver</field>
+<field name="author">Parker, Cordell</field><field name="author_nat">Cordell<space/>Parker</field>
 <field name="title">Curriculum guide for speech and dramatics, grades 9-12</field>
 <field name="year">1964</field>
 <field name="date">08/1964</field>
@@ -724,7 +724,7 @@ school</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Iron, William Z.</field>
+<field name="author">Iron, William Z.</field><field name="author_nat">William Z.<space/>Iron</field>
 <field name="title">The high school multi-purpose theatre: a critical study</field>
 <field name="year">1961</field>
 <field name="date">12/1961</field>
@@ -1012,8 +1012,8 @@ Extension.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Feldman, David Morris</field>
-<field name="author">Kline, Walter D.</field>
+<field name="author">Feldman, David Morris</field><field name="author_nat">David Morris<space/>Feldman</field>
+<field name="author">Kline, Walter D.</field><field name="author_nat">Walter D.<space/>Kline</field>
 <field name="title">German: contemporary methodology. A series of inservice study guides for modern
 foreign language teachers</field>
 <field name="year">1967</field>
@@ -1033,11 +1033,11 @@ Walter D. Kline; under the direction of Dorothy D. Duhan.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Koski, Tauno</field>
-<field name="author">McCammon, Marilyn</field>
-<field name="author">McFall, Paula</field>
-<field name="author">McLennan, Robert</field>
-<field name="author">Silins, Brigita</field>
+<field name="author">Koski, Tauno</field><field name="author_nat">Tauno<space/>Koski</field>
+<field name="author">McCammon, Marilyn</field><field name="author_nat">Marilyn<space/>McCammon</field>
+<field name="author">McFall, Paula</field><field name="author_nat">Paula<space/>McFall</field>
+<field name="author">McLennan, Robert</field><field name="author_nat">Robert<space/>McLennan</field>
+<field name="author">Silins, Brigita</field><field name="author_nat">Brigita<space/>Silins</field>
 <field name="title">A practical guide to teaching German (levels I-V)</field>
 <field name="year">1967</field>
 <field name="date">1967?</field>
@@ -1273,7 +1273,7 @@ instruction</field>
 <field name="language">English</field>
 <field name="language">French</field>
 <field name="call_number">440 .D41g v. 1</field>
-<field name="call_number">Colorado</field>
+<field name="state_country">Colorado</field>
 <field name="grade_level_group">Elementary </field>
 </doc>
 
@@ -1296,8 +1296,8 @@ Department of General Curriculum Services</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Feldman, David Morris</field>
-<field name="author">Kline, Walter D.</field>
+<field name="author">Feldman, David Morris</field><field name="author_nat">David Morris<space/>Feldman</field>
+<field name="author">Kline, Walter D.</field><field name="author_nat">Walter D.<space/>Kline</field>
 <field name="title">French: contemporary methodology. A series of inservice study guides for modern
 foreign language teachers</field>
 <field name="year">1967</field>
@@ -1371,7 +1371,7 @@ children</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Rowlands, David</field>
+<field name="author">Rowlands, David</field><field name="author_nat">David<space/>Rowlands</field>
 <field name="title">A puppet theatre for language teaching</field>
 <field name="year">1965</field>
 <field name="date">05/1965</field>

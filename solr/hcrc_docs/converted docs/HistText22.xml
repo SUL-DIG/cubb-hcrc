@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="type">Book</field>
 <field name="corp_author">Manitoba Minister of Education</field>
@@ -74,8 +74,8 @@ through grade twelve</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Hughes, Theone</field>
-<field name="author">Malmstrom, Jean</field>
+<field name="author">Hughes, Theone</field><field name="author_nat">Theone<space/>Hughes</field>
+<field name="author">Malmstrom, Jean</field><field name="author_nat">Jean<space/>Malmstrom</field>
 <field name="title">Who's afraid of linguistics? A manual for elementary school and middle school
 teachers</field>
 <field name="year">1968</field>
@@ -306,8 +306,8 @@ report</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Spelts, Edna M.</field>
-<field name="author">Ritter, Mary S.</field>
+<field name="author">Spelts, Edna M.</field><field name="author_nat">Edna M.<space/>Spelts</field>
+<field name="author">Ritter, Mary S.</field><field name="author_nat">Mary S.<space/>Ritter</field>
 <field name="title">Tentative outline experimental course, English iii</field>
 <field name="year">1955</field>
 <field name="date">1955-56</field>
@@ -422,11 +422,11 @@ County Public Schools.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Burrows, Alvina Treut</field>
-<field name="author">Chase, Naomi</field>
-<field name="author">Crosby, Muriel</field>
-<field name="author">McCullough, Constance</field>
-<field name="author">Wilt, Miriam E.</field>
+<field name="author">Burrows, Alvina Treut</field><field name="author_nat">Alvina Treut<space/>Burrows</field>
+<field name="author">Chase, Naomi</field><field name="author_nat">Naomi<space/>Chase</field>
+<field name="author">Crosby, Muriel</field><field name="author_nat">Muriel<space/>Crosby</field>
+<field name="author">McCullough, Constance</field><field name="author_nat">Constance<space/>McCullough</field>
+<field name="author">Wilt, Miriam E.</field><field name="author_nat">Miriam E.<space/>Wilt</field>
 <field name="corp_author">National Council of Teachers of English. Elementary Section
 Committee</field>
 <field name="title">Creative ways in teaching the language arts. A portfolio of elementary classroom
@@ -446,7 +446,7 @@ procedures</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Carruthers, Robert B.</field>
+<field name="author">Carruthers, Robert B.</field><field name="author_nat">Robert B.<space/>Carruthers</field>
 <field name="corp_author">National Council of Teachers of English</field>
 <field name="title">Building better English tests ; a guide for teachers of English in the secondary
 school.</field>
@@ -485,7 +485,7 @@ Committee on Classroom Practices, 1969/1970-</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Evertts, Eldonna L.</field>
+<field name="author">Evertts, Eldonna L.</field><field name="author_nat">Eldonna L.<space/>Evertts</field>
 <field name="corp_author">National Council of Teachers of English</field>
 <field name="title">Dimensions of dialect</field>
 <field name="year">1967</field>
@@ -504,7 +504,7 @@ L. Evertts, editor.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Haugh, Oscar M.</field>
+<field name="author">Haugh, Oscar M.</field><field name="author_nat">Oscar M.<space/>Haugh</field>
 <field name="corp_author">National Council of Teachers of English. Committee on Methods of Working
 with the Public</field>
 <field name="title">Informing the public about the English language arts</field>
@@ -564,7 +564,7 @@ Responsibility: prepared by the Committee on High School-College Articulation.</
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Gerbrandt, Gary L.</field>
+<field name="author">Gerbrandt, Gary L.</field><field name="author_nat">Gary L.<space/>Gerbrandt</field>
 <field name="title">An idea book for acting out and writing language, K-8</field>
 <field name="year">1974</field>
 <field name="date">1974</field>
@@ -614,8 +614,8 @@ for secondary schools prepared by the NCTE staff."</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Ohmann, Richard M.</field>
-<field name="author">Coley, W. B.</field>
+<field name="author">Ohmann, Richard M.</field><field name="author_nat">Richard M.<space/>Ohmann</field>
+<field name="author">Coley, W. B.</field><field name="author_nat">W. B.<space/>Coley</field>
 <field name="corp_author">National Council of Teachers of English</field>
 <field name="title">Ideas for English 101 : teaching writing in college</field>
 <field name="year">1975</field>
@@ -636,7 +636,7 @@ English.; Responsibility: edited by Richard Ohmann and W.B. Coley.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Stryker, David</field>
+<field name="author">Stryker, David</field><field name="author_nat">David<space/>Stryker</field>
 <field name="corp_author">National Council of Teachers of English</field>
 <field name="title">Method in the teaching of English : selected addresses delivered at the 5th
 Conference on English Education, University of Georgia, March 30-April l, 1967</field>
@@ -657,7 +657,7 @@ Fifth Conference on English Education, March 30-April 1, 1967. Selected addresse
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Elgin, Suzette Haden</field>
+<field name="author">Elgin, Suzette Haden</field><field name="author_nat">Suzette Haden<space/>Elgin</field>
 <field name="title">A primer of transformational grammar for rank beginners</field>
 <field name="year">1975</field>
 <field name="date">1975</field>
@@ -710,9 +710,9 @@ references.; Other Titles: English institutes for elementary teachers.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Staiger, Ralph C.</field>
-<field name="author">Strom, Ingrid M.</field>
-<field name="author">Petty, Walter T.</field>
+<field name="author">Staiger, Ralph C.</field><field name="author_nat">Ralph C.<space/>Staiger</field>
+<field name="author">Strom, Ingrid M.</field><field name="author_nat">Ingrid M.<space/>Strom</field>
+<field name="author">Petty, Walter T.</field><field name="author_nat">Walter T.<space/>Petty</field>
 <field name="corp_author">National Council of Teachers of English</field>
 <field name="title">A summary of research in the English language arts - elementary and secondary
 1961-1962</field>
@@ -835,9 +835,9 @@ sentence</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Pike, Kenneth L.</field>
-<field name="author">English, Hubert M.</field>
-<field name="author">Howes, Alan B.</field>
+<field name="author">Pike, Kenneth L.</field><field name="author_nat">Kenneth L.<space/>Pike</field>
+<field name="author">English, Hubert M.</field><field name="author_nat">Hubert M.<space/>English</field>
+<field name="author">Howes, Alan B.</field><field name="author_nat">Alan B.<space/>Howes</field>
 <field name="corp_author">National Council of Teachers of English</field>
 <field name="title">Tagmemics; the study of units beyond the sentence</field>
 <field name="year">1964</field>
@@ -1158,7 +1158,7 @@ Development</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Corbin, Richard K.</field>
+<field name="author">Corbin, Richard K.</field><field name="author_nat">Richard K.<space/>Corbin</field>
 <field name="title">Research paper project : a series of worksheets for use in the senior high
 school</field>
 <field name="year">1961</field>
@@ -1180,7 +1180,7 @@ school</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">DeLancey, Robert W.</field>
+<field name="author">DeLancey, Robert W.</field><field name="author_nat">Robert W.<space/>DeLancey</field>
 <field name="title">Linguistics and teaching; a manual of classroom practices</field>
 <field name="year">1965</field>
 <field name="date">1965</field>
@@ -1201,7 +1201,7 @@ Responsibility: [by] Robert W. DeLancey.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Moffat, John L.</field>
+<field name="author">Moffat, John L.</field><field name="author_nat">John L.<space/>Moffat</field>
 <field name="title">A guide to study : a bulletin for schools</field>
 <field name="year">1971</field>
 <field name="date">1971</field>
@@ -1217,7 +1217,7 @@ Responsibility: [by] Robert W. DeLancey.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Wade, Durlyn E.</field>
+<field name="author">Wade, Durlyn E.</field><field name="author_nat">Durlyn E.<space/>Wade</field>
 <field name="title">Class size and teacher load in high school English : research project</field>
 <field name="year">1964</field>
 <field name="date">1964</field>

@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="type">Book</field>
 <field name="corp_author">Ann Arbor (Michigan) Public Schools</field>
@@ -305,11 +305,11 @@ preparatory mathematics</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Hoffman, Ruth Irene</field>
-<field name="author">Mansfield, Rodney F.</field>
-<field name="author">Poage, Melvin L.</field>
-<field name="author">Struthers, Joseph A.</field>
-<field name="author">Dubois, Andrew</field>
+<field name="author">Hoffman, Ruth Irene</field><field name="author_nat">Ruth Irene<space/>Hoffman</field>
+<field name="author">Mansfield, Rodney F.</field><field name="author_nat">Rodney F.<space/>Mansfield</field>
+<field name="author">Poage, Melvin L.</field><field name="author_nat">Melvin L.<space/>Poage</field>
+<field name="author">Struthers, Joseph A.</field><field name="author_nat">Joseph A.<space/>Struthers</field>
+<field name="author">Dubois, Andrew</field><field name="author_nat">Andrew<space/>Dubois</field>
 <field name="title">Revitalizing the mathematics program in Colorado schools</field>
 <field name="year">1962</field>
 <field name="date">1962</field>
@@ -548,9 +548,9 @@ Board of Education.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Sparks, Jack N.</field>
-<field name="author">Taylor, Kenneth I.</field>
-<field name="author">Redman, David</field>
+<field name="author">Sparks, Jack N.</field><field name="author_nat">Jack N.<space/>Sparks</field>
+<field name="author">Taylor, Kenneth I.</field><field name="author_nat">Kenneth I.<space/>Taylor</field>
+<field name="author">Redman, David</field><field name="author_nat">David<space/>Redman</field>
 <field name="title">A collection of supplementary books in mathematics for the secondary
 school</field>
 <field name="year">1957</field>
@@ -1066,7 +1066,7 @@ kindergarten, grades one and two, an instructional bulletin</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Zartman, Muriel Jane</field>
+<field name="author">Zartman, Muriel Jane</field><field name="author_nat">Muriel Jane<space/>Zartman</field>
 <field name="corp_author">Los Angeles (California) City School District. Division of Instructional
 Services</field>
 <field name="title">Instructional guide for industrial mathematics 1</field>

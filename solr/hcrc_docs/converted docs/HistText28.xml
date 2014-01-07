@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="type">Book</field>
 <field name="corp_author">San Leandro (California) Unified School District</field>
@@ -287,8 +287,8 @@ references.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Bamman, Henry A.</field>
-<field name="author">Dawson, Mildred A.</field>
+<field name="author">Bamman, Henry A.</field><field name="author_nat">Henry A.<space/>Bamman</field>
+<field name="author">Dawson, Mildred A.</field><field name="author_nat">Mildred A.<space/>Dawson</field>
 <field name="title">Teaching reading : a guide to aids, materials, and activities</field>
 <field name="year">1958</field>
 <field name="date">1958</field>
@@ -305,8 +305,8 @@ illustrated by Robert A. Else ; consulting editor Morton S. Malter.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Campbell, Bonnie</field>
-<field name="author">Quinn, Goldie</field>
+<field name="author">Campbell, Bonnie</field><field name="author_nat">Bonnie<space/>Campbell</field>
+<field name="author">Quinn, Goldie</field><field name="author_nat">Goldie<space/>Quinn</field>
 <field name="title">Phonetic analysis of words in grades 3 and 4</field>
 <field name="year">1965</field>
 <field name="date">06/1965</field>
@@ -324,7 +324,7 @@ illustrated by Robert A. Else ; consulting editor Morton S. Malter.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">McCollum, John A.</field>
+<field name="author">McCollum, John A.</field><field name="author_nat">John A.<space/>McCollum</field>
 <field name="title">An evaluation of the Carden reading program</field>
 <field name="year">1961</field>
 <field name="date">06/1961</field>
@@ -501,7 +501,7 @@ Francisco State College at San Lorenzo, California, Edendale School, Summer 1955
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Keene, Teresa</field>
+<field name="author">Keene, Teresa</field><field name="author_nat">Teresa<space/>Keene</field>
 <field name="title">Tips for tutors; a manual for reading improvement</field>
 <field name="year">1970</field>
 <field name="date">1970</field>
@@ -519,7 +519,7 @@ Committee: Eloise Jordan, Katherine Freshley [and] Philomence Martin.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Ott, Helen Keating</field>
+<field name="author">Ott, Helen Keating</field><field name="author_nat">Helen Keating<space/>Ott</field>
 <field name="title">Helping children through books; a selected booklist for the seventies</field>
 <field name="year">1974</field>
 <field name="date">1974</field>
@@ -571,9 +571,9 @@ teachers</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Briggs, Daniel A.</field>
-<field name="author">Shaw, Luther G.</field>
-<field name="author">Gumaer, Harry T.</field>
+<field name="author">Briggs, Daniel A.</field><field name="author_nat">Daniel A.<space/>Briggs</field>
+<field name="author">Shaw, Luther G.</field><field name="author_nat">Luther G.<space/>Shaw</field>
+<field name="author">Gumaer, Harry T.</field><field name="author_nat">Harry T.<space/>Gumaer</field>
 <field name="title">Reading in grades 7-12 : a handbook for teachers and administrators</field>
 <field name="year">1964</field>
 <field name="date">1964</field>
@@ -753,7 +753,7 @@ Services</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Latting, Lucile H.</field>
+<field name="author">Latting, Lucile H.</field><field name="author_nat">Lucile H.<space/>Latting</field>
 <field name="corp_author">Colorado State Department of Education</field>
 <field name="title">The program in word analysis</field>
 <field name="year">1950</field>
@@ -1126,7 +1126,7 @@ Education</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Roberts, Helen Mary</field>
+<field name="author">Roberts, Helen Mary</field><field name="author_nat">Helen Mary<space/>Roberts</field>
 <field name="corp_author">Denver (Colorado) Public Schools. Department of Instruction</field>
 <field name="title">Toward better reading, an instructional guide for use in the junior and senior
 high schools of Denver</field>
@@ -1164,7 +1164,7 @@ Denver Public Schools. cf. 2d prelim. leaf./ Includes bibliographical references
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Haas, Leonta R.</field>
+<field name="author">Haas, Leonta R.</field><field name="author_nat">Leonta R.<space/>Haas</field>
 <field name="title">Selected bibliography for the reading improvement program in Downey secondary
 schools</field>
 <field name="year">1955</field>
@@ -1195,8 +1195,8 @@ Responsibility: prepared by the Elementary Reading Committee.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Cody, Isabel</field>
-<field name="author">Sanderson, Alice</field>
+<field name="author">Cody, Isabel</field><field name="author_nat">Isabel<space/>Cody</field>
+<field name="author">Sanderson, Alice</field><field name="author_nat">Alice<space/>Sanderson</field>
 <field name="title">Reading readiness handbook</field>
 <field name="year">1958</field>
 <field name="date">07/1958</field>
@@ -1319,7 +1319,7 @@ accepted by the Board of Education</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Spache, George Daniel</field>
+<field name="author">Spache, George Daniel</field><field name="author_nat">George Daniel<space/>Spache</field>
 <field name="title">Are we teaching reading?</field>
 <field name="year">1956</field>
 <field name="date">1956</field>

@@ -1,4 +1,4 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="type">Book</field>
 <field name="corp_author">Madera County (California) Schools</field>
@@ -265,17 +265,17 @@ elementary school teachers</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Gilbertson, Ruth</field>
-<field name="author">Berg, Ryder</field>
-<field name="author">Johnston, James</field>
-<field name="author">Bevis, Vincent</field>
-<field name="author">Ellis, Gilbert</field>
-<field name="author">Kounz, Monte</field>
-<field name="author">Silver, Kathleen</field>
-<field name="author">Bundock, Stella</field>
-<field name="author">Gilbertson, Roy</field>
-<field name="author">Davis, Georgia</field>
-<field name="author">Cox, Delphie</field>
+<field name="author">Gilbertson, Ruth</field><field name="author_nat">Ruth<space/>Gilbertson</field>
+<field name="author">Berg, Ryder</field><field name="author_nat">Ryder<space/>Berg</field>
+<field name="author">Johnston, James</field><field name="author_nat">James<space/>Johnston</field>
+<field name="author">Bevis, Vincent</field><field name="author_nat">Vincent<space/>Bevis</field>
+<field name="author">Ellis, Gilbert</field><field name="author_nat">Gilbert<space/>Ellis</field>
+<field name="author">Kounz, Monte</field><field name="author_nat">Monte<space/>Kounz</field>
+<field name="author">Silver, Kathleen</field><field name="author_nat">Kathleen<space/>Silver</field>
+<field name="author">Bundock, Stella</field><field name="author_nat">Stella<space/>Bundock</field>
+<field name="author">Gilbertson, Roy</field><field name="author_nat">Roy<space/>Gilbertson</field>
+<field name="author">Davis, Georgia</field><field name="author_nat">Georgia<space/>Davis</field>
+<field name="author">Cox, Delphie</field><field name="author_nat">Delphie<space/>Cox</field>
 <field name="title">Science: a revised course of study: grade 1</field>
 <field name="year">1958</field>
 <field name="date">1958</field>
@@ -291,17 +291,17 @@ elementary school teachers</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Gilbertson, Ruth</field>
-<field name="author">Berg, Ryder</field>
-<field name="author">Johnston, James</field>
-<field name="author">Bevis, Vincent</field>
-<field name="author">Ellis, Gilbert</field>
-<field name="author">Kounz, Monte</field>
-<field name="author">Silver, Kathleen</field>
-<field name="author">Bundock, Stella</field>
-<field name="author">Gilbertson, Roy</field>
-<field name="author">Davis, Georgia</field>
-<field name="author">Cox, Delphie</field>
+<field name="author">Gilbertson, Ruth</field><field name="author_nat">Ruth<space/>Gilbertson</field>
+<field name="author">Berg, Ryder</field><field name="author_nat">Ryder<space/>Berg</field>
+<field name="author">Johnston, James</field><field name="author_nat">James<space/>Johnston</field>
+<field name="author">Bevis, Vincent</field><field name="author_nat">Vincent<space/>Bevis</field>
+<field name="author">Ellis, Gilbert</field><field name="author_nat">Gilbert<space/>Ellis</field>
+<field name="author">Kounz, Monte</field><field name="author_nat">Monte<space/>Kounz</field>
+<field name="author">Silver, Kathleen</field><field name="author_nat">Kathleen<space/>Silver</field>
+<field name="author">Bundock, Stella</field><field name="author_nat">Stella<space/>Bundock</field>
+<field name="author">Gilbertson, Roy</field><field name="author_nat">Roy<space/>Gilbertson</field>
+<field name="author">Davis, Georgia</field><field name="author_nat">Georgia<space/>Davis</field>
+<field name="author">Cox, Delphie</field><field name="author_nat">Delphie<space/>Cox</field>
 <field name="title">Science: a revised course of study: grade 2</field>
 <field name="year">1958</field>
 <field name="date">1958</field>
@@ -317,17 +317,17 @@ elementary school teachers</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Gilbertson, Ruth</field>
-<field name="author">Berg, Ryder</field>
-<field name="author">Johnston, James</field>
-<field name="author">Bevis, Vincent</field>
-<field name="author">Ellis, Gilbert</field>
-<field name="author">Kounz, Monte</field>
-<field name="author">Silver, Kathleen</field>
-<field name="author">Bundock, Stella</field>
-<field name="author">Gilbertson, Roy</field>
-<field name="author">Davis, Georgia</field>
-<field name="author">Cox, Delphie</field>
+<field name="author">Gilbertson, Ruth</field><field name="author_nat">Ruth<space/>Gilbertson</field>
+<field name="author">Berg, Ryder</field><field name="author_nat">Ryder<space/>Berg</field>
+<field name="author">Johnston, James</field><field name="author_nat">James<space/>Johnston</field>
+<field name="author">Bevis, Vincent</field><field name="author_nat">Vincent<space/>Bevis</field>
+<field name="author">Ellis, Gilbert</field><field name="author_nat">Gilbert<space/>Ellis</field>
+<field name="author">Kounz, Monte</field><field name="author_nat">Monte<space/>Kounz</field>
+<field name="author">Silver, Kathleen</field><field name="author_nat">Kathleen<space/>Silver</field>
+<field name="author">Bundock, Stella</field><field name="author_nat">Stella<space/>Bundock</field>
+<field name="author">Gilbertson, Roy</field><field name="author_nat">Roy<space/>Gilbertson</field>
+<field name="author">Davis, Georgia</field><field name="author_nat">Georgia<space/>Davis</field>
+<field name="author">Cox, Delphie</field><field name="author_nat">Delphie<space/>Cox</field>
 <field name="title">Science: a revised course of study: grade 3</field>
 <field name="year">1958</field>
 <field name="date">1958</field>
@@ -343,22 +343,22 @@ elementary school teachers</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Silver, Kathleen</field>
-<field name="author">Richardson, Marlene</field>
-<field name="author">De Korte, Dena</field>
-<field name="author">Bohrer, Lillian</field>
-<field name="author">Lynch, Alice</field>
-<field name="author">Gilbertson, Ruth</field>
-<field name="author">Berg, Ryder</field>
-<field name="author">Johnston, James</field>
-<field name="author">Bevis, Vincent</field>
-<field name="author">Ellis, Gilbert</field>
-<field name="author">Kounz, Monte</field>
-<field name="author">Silver, Kathleen</field>
-<field name="author">Bundock, Stella</field>
-<field name="author">Gilbertson, Roy</field>
-<field name="author">Davis, Georgia</field>
-<field name="author">Cox, Delphie</field>
+<field name="author">Silver, Kathleen</field><field name="author_nat">Kathleen<space/>Silver</field>
+<field name="author">Richardson, Marlene</field><field name="author_nat">Marlene<space/>Richardson</field>
+<field name="author">De Korte, Dena</field><field name="author_nat">Dena<space/>De Korte</field>
+<field name="author">Bohrer, Lillian</field><field name="author_nat">Lillian<space/>Bohrer</field>
+<field name="author">Lynch, Alice</field><field name="author_nat">Alice<space/>Lynch</field>
+<field name="author">Gilbertson, Ruth</field><field name="author_nat">Ruth<space/>Gilbertson</field>
+<field name="author">Berg, Ryder</field><field name="author_nat">Ryder<space/>Berg</field>
+<field name="author">Johnston, James</field><field name="author_nat">James<space/>Johnston</field>
+<field name="author">Bevis, Vincent</field><field name="author_nat">Vincent<space/>Bevis</field>
+<field name="author">Ellis, Gilbert</field><field name="author_nat">Gilbert<space/>Ellis</field>
+<field name="author">Kounz, Monte</field><field name="author_nat">Monte<space/>Kounz</field>
+<field name="author">Silver, Kathleen</field><field name="author_nat">Kathleen<space/>Silver</field>
+<field name="author">Bundock, Stella</field><field name="author_nat">Stella<space/>Bundock</field>
+<field name="author">Gilbertson, Roy</field><field name="author_nat">Roy<space/>Gilbertson</field>
+<field name="author">Davis, Georgia</field><field name="author_nat">Georgia<space/>Davis</field>
+<field name="author">Cox, Delphie</field><field name="author_nat">Delphie<space/>Cox</field>
 <field name="title">Science: a tentative course of study: grade 4</field>
 <field name="year">1957</field>
 <field name="date">1957</field>
@@ -374,17 +374,17 @@ elementary school teachers</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Gilbertson, Ruth</field>
-<field name="author">Berg, Ryder</field>
-<field name="author">Johnston, James</field>
-<field name="author">Bevis, Vincent</field>
-<field name="author">Ellis, Gilbert</field>
-<field name="author">Kounz, Monte</field>
-<field name="author">Silver, Kathleen</field>
-<field name="author">Bundock, Stella</field>
-<field name="author">Gilbertson, Roy</field>
-<field name="author">Davis, Georgia</field>
-<field name="author">Cox, Delphie</field>
+<field name="author">Gilbertson, Ruth</field><field name="author_nat">Ruth<space/>Gilbertson</field>
+<field name="author">Berg, Ryder</field><field name="author_nat">Ryder<space/>Berg</field>
+<field name="author">Johnston, James</field><field name="author_nat">James<space/>Johnston</field>
+<field name="author">Bevis, Vincent</field><field name="author_nat">Vincent<space/>Bevis</field>
+<field name="author">Ellis, Gilbert</field><field name="author_nat">Gilbert<space/>Ellis</field>
+<field name="author">Kounz, Monte</field><field name="author_nat">Monte<space/>Kounz</field>
+<field name="author">Silver, Kathleen</field><field name="author_nat">Kathleen<space/>Silver</field>
+<field name="author">Bundock, Stella</field><field name="author_nat">Stella<space/>Bundock</field>
+<field name="author">Gilbertson, Roy</field><field name="author_nat">Roy<space/>Gilbertson</field>
+<field name="author">Davis, Georgia</field><field name="author_nat">Georgia<space/>Davis</field>
+<field name="author">Cox, Delphie</field><field name="author_nat">Delphie<space/>Cox</field>
 <field name="title">Science: a revised course of study: grade 5</field>
 <field name="year">1958</field>
 <field name="date">1958</field>
@@ -400,17 +400,17 @@ elementary school teachers</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Gilbertson, Ruth</field>
-<field name="author">Berg, Ryder</field>
-<field name="author">Johnston, James</field>
-<field name="author">Bevis, Vincent</field>
-<field name="author">Ellis, Gilbert</field>
-<field name="author">Kounz, Monte</field>
-<field name="author">Silver, Kathleen</field>
-<field name="author">Bundock, Stella</field>
-<field name="author">Gilbertson, Roy</field>
-<field name="author">Davis, Georgia</field>
-<field name="author">Cox, Delphie</field>
+<field name="author">Gilbertson, Ruth</field><field name="author_nat">Ruth<space/>Gilbertson</field>
+<field name="author">Berg, Ryder</field><field name="author_nat">Ryder<space/>Berg</field>
+<field name="author">Johnston, James</field><field name="author_nat">James<space/>Johnston</field>
+<field name="author">Bevis, Vincent</field><field name="author_nat">Vincent<space/>Bevis</field>
+<field name="author">Ellis, Gilbert</field><field name="author_nat">Gilbert<space/>Ellis</field>
+<field name="author">Kounz, Monte</field><field name="author_nat">Monte<space/>Kounz</field>
+<field name="author">Silver, Kathleen</field><field name="author_nat">Kathleen<space/>Silver</field>
+<field name="author">Bundock, Stella</field><field name="author_nat">Stella<space/>Bundock</field>
+<field name="author">Gilbertson, Roy</field><field name="author_nat">Roy<space/>Gilbertson</field>
+<field name="author">Davis, Georgia</field><field name="author_nat">Georgia<space/>Davis</field>
+<field name="author">Cox, Delphie</field><field name="author_nat">Delphie<space/>Cox</field>
 <field name="title">Science: a revised course of study: grade 6</field>
 <field name="year">1958</field>
 <field name="date">1958</field>
@@ -606,12 +606,12 @@ grades</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Clearman, Clara Gene</field>
-<field name="author">Etheridge, Robert</field>
-<field name="author">Hopkins, Donnie</field>
-<field name="author">Horton, Lucille</field>
-<field name="author">Merrill, Wallace</field>
-<field name="author">Sorenson, Rita</field>
+<field name="author">Clearman, Clara Gene</field><field name="author_nat">Clara Gene<space/>Clearman</field>
+<field name="author">Etheridge, Robert</field><field name="author_nat">Robert<space/>Etheridge</field>
+<field name="author">Hopkins, Donnie</field><field name="author_nat">Donnie<space/>Hopkins</field>
+<field name="author">Horton, Lucille</field><field name="author_nat">Lucille<space/>Horton</field>
+<field name="author">Merrill, Wallace</field><field name="author_nat">Wallace<space/>Merrill</field>
+<field name="author">Sorenson, Rita</field><field name="author_nat">Rita<space/>Sorenson</field>
 <field name="corp_author">Meridian (Mississippi) Public Schools</field>
 <field name="title">A tentative course of study for science, grades 7 - 9</field>
 <field name="year">1961</field>
@@ -630,7 +630,7 @@ grades</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Besse, Hilda</field>
+<field name="author">Besse, Hilda</field><field name="author_nat">Hilda<space/>Besse</field>
 <field name="corp_author">Mesa County Valley (Colorado) School District #51</field>
 <field name="title">Third grade science and social studies</field>
 <field name="year">1959</field>
@@ -648,7 +648,7 @@ grades</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Mallinson, George G.</field>
+<field name="author">Mallinson, George G.</field><field name="author_nat">George G.<space/>Mallinson</field>
 <field name="title">Sponsoring the science club</field>
 <field name="year">1950</field>
 <field name="date">04/1950</field>
@@ -668,7 +668,7 @@ contributions ;; ser. II</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Mallinson, George G.</field>
+<field name="author">Mallinson, George G.</field><field name="author_nat">George G.<space/>Mallinson</field>
 <field name="title">The use of films in elementary science</field>
 <field name="year">1950</field>
 <field name="date">06/1950</field>
@@ -810,7 +810,7 @@ Carroll R. Reed, superintendent of schools./ Includes bibliographical references
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Torrance, E. Paul</field>
+<field name="author">Torrance, E. Paul</field><field name="author_nat">E. Paul<space/>Torrance</field>
 <field name="title">Minnesota secondary school administrators look at their mathematics and science
 programs</field>
 <field name="year">1958</field>
@@ -902,13 +902,13 @@ guide</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Keeler, William</field>
-<field name="author">Nelson, Warren</field>
-<field name="author">Collins, Robert</field>
-<field name="author">Almquist, Russell</field>
-<field name="author">Haga, Curtis</field>
-<field name="author">Hilling, Donald</field>
-<field name="author">Fellger, Merill</field>
+<field name="author">Keeler, William</field><field name="author_nat">William<space/>Keeler</field>
+<field name="author">Nelson, Warren</field><field name="author_nat">Warren<space/>Nelson</field>
+<field name="author">Collins, Robert</field><field name="author_nat">Robert<space/>Collins</field>
+<field name="author">Almquist, Russell</field><field name="author_nat">Russell<space/>Almquist</field>
+<field name="author">Haga, Curtis</field><field name="author_nat">Curtis<space/>Haga</field>
+<field name="author">Hilling, Donald</field><field name="author_nat">Donald<space/>Hilling</field>
+<field name="author">Fellger, Merill</field><field name="author_nat">Merill<space/>Fellger</field>
 <field name="title">Junior high school science laboratory activities</field>
 <field name="year">1964</field>
 <field name="date">1964</field>
@@ -943,9 +943,9 @@ guide</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Campbell, Paul</field>
-<field name="author">Lawson, Russell</field>
-<field name="author">Grillos, Steve</field>
+<field name="author">Campbell, Paul</field><field name="author_nat">Paul<space/>Campbell</field>
+<field name="author">Lawson, Russell</field><field name="author_nat">Russell<space/>Lawson</field>
+<field name="author">Grillos, Steve</field><field name="author_nat">Steve<space/>Grillos</field>
 <field name="title">Applied science: course of study</field>
 <field name="year">1957</field>
 <field name="date">1957-1958</field>
@@ -976,12 +976,12 @@ guide</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Pennock, Julia</field>
-<field name="author">Downs, Ronald</field>
-<field name="author">Sherman, Belva</field>
-<field name="author">Clark, Richard</field>
-<field name="author">King, Sam</field>
-<field name="author">Shelton, George</field>
+<field name="author">Pennock, Julia</field><field name="author_nat">Julia<space/>Pennock</field>
+<field name="author">Downs, Ronald</field><field name="author_nat">Ronald<space/>Downs</field>
+<field name="author">Sherman, Belva</field><field name="author_nat">Belva<space/>Sherman</field>
+<field name="author">Clark, Richard</field><field name="author_nat">Richard<space/>Clark</field>
+<field name="author">King, Sam</field><field name="author_nat">Sam<space/>King</field>
+<field name="author">Shelton, George</field><field name="author_nat">George<space/>Shelton</field>
 <field name="corp_author">Modesto (California) Secondary Schools</field>
 <field name="title">Science: course of study: seventh grade</field>
 <field name="year">1957</field>

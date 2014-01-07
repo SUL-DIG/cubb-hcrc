@@ -1,10 +1,10 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="type">Book</field>
-<field name="author">Cash, Rowley Vincent</field>
-<field name="author">Coburn, Harold</field>
-<field name="author">Kuhnly, Lucille E.</field>
-<field name="author">Hall, Philip A.</field>
+<field name="author">Cash, Rowley Vincent</field><field name="author_nat">Rowley Vincent<space/>Cash</field>
+<field name="author">Coburn, Harold</field><field name="author_nat">Harold<space/>Coburn</field>
+<field name="author">Kuhnly, Lucille E.</field><field name="author_nat">Lucille E.<space/>Kuhnly</field>
+<field name="author">Hall, Philip A.</field><field name="author_nat">Philip A.<space/>Hall</field>
 <field name="title">Selected science books for secondary schools, a bibliography</field>
 <field name="year">1958</field>
 <field name="date">1958</field>
@@ -22,7 +22,7 @@
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Keirstead, Ralph</field>
+<field name="author">Keirstead, Ralph</field><field name="author_nat">Ralph<space/>Keirstead</field>
 <field name="corp_author">Connecticut State Department of Education</field>
 <field name="title">Science education, grades 7-12</field>
 <field name="year">1958</field>
@@ -47,9 +47,9 @@
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Stolberg, Robert</field>
-<field name="author">Durkin, Mary C.</field>
-<field name="author">Zumwalt, Gladys K.</field>
+<field name="author">Stolberg, Robert</field><field name="author_nat">Robert<space/>Stolberg</field>
+<field name="author">Durkin, Mary C.</field><field name="author_nat">Mary C.<space/>Durkin</field>
+<field name="author">Zumwalt, Gladys K.</field><field name="author_nat">Gladys K.<space/>Zumwalt</field>
 <field name="corp_author">Contra Costa County (California) Schools Department</field>
 <field name="title">Elementary science; suggested materials for kindergarten</field>
 <field name="year">1951</field>
@@ -66,9 +66,9 @@
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Stolberg, Robert</field>
-<field name="author">Durkin, Mary C.</field>
-<field name="author">Zumwalt, Gladys K.</field>
+<field name="author">Stolberg, Robert</field><field name="author_nat">Robert<space/>Stolberg</field>
+<field name="author">Durkin, Mary C.</field><field name="author_nat">Mary C.<space/>Durkin</field>
+<field name="author">Zumwalt, Gladys K.</field><field name="author_nat">Gladys K.<space/>Zumwalt</field>
 <field name="corp_author">Contra Costa County (California) Schools Department</field>
 <field name="title">Elementary science; suggested materials for first grade</field>
 <field name="year">1951</field>
@@ -85,9 +85,9 @@
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Stolberg, Robert</field>
-<field name="author">Durkin, Mary C.</field>
-<field name="author">Zumwalt, Gladys K.</field>
+<field name="author">Stolberg, Robert</field><field name="author_nat">Robert<space/>Stolberg</field>
+<field name="author">Durkin, Mary C.</field><field name="author_nat">Mary C.<space/>Durkin</field>
+<field name="author">Zumwalt, Gladys K.</field><field name="author_nat">Gladys K.<space/>Zumwalt</field>
 <field name="corp_author">Contra Costa County (California) Schools Department</field>
 <field name="title">Elementary science; suggested materials for second grade</field>
 <field name="year">1951</field>
@@ -104,9 +104,9 @@
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Stolberg, Robert</field>
-<field name="author">Durkin, Mary C.</field>
-<field name="author">Zumwalt, Gladys K.</field>
+<field name="author">Stolberg, Robert</field><field name="author_nat">Robert<space/>Stolberg</field>
+<field name="author">Durkin, Mary C.</field><field name="author_nat">Mary C.<space/>Durkin</field>
+<field name="author">Zumwalt, Gladys K.</field><field name="author_nat">Gladys K.<space/>Zumwalt</field>
 <field name="corp_author">Contra Costa County (California) Schools Department</field>
 <field name="title">Elementary science; suggested materials for third grade</field>
 <field name="year">1951</field>
@@ -123,9 +123,9 @@
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Stolberg, Robert</field>
-<field name="author">Durkin, Mary C.</field>
-<field name="author">Zumwalt, Gladys K.</field>
+<field name="author">Stolberg, Robert</field><field name="author_nat">Robert<space/>Stolberg</field>
+<field name="author">Durkin, Mary C.</field><field name="author_nat">Mary C.<space/>Durkin</field>
+<field name="author">Zumwalt, Gladys K.</field><field name="author_nat">Gladys K.<space/>Zumwalt</field>
 <field name="corp_author">Contra Costa County (California) Schools Department</field>
 <field name="title">Elementary science; suggested materials for fourth grade</field>
 <field name="year">1952</field>
@@ -142,9 +142,9 @@
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Stolberg, Robert</field>
-<field name="author">Durkin, Mary C.</field>
-<field name="author">Zumwalt, Gladys K.</field>
+<field name="author">Stolberg, Robert</field><field name="author_nat">Robert<space/>Stolberg</field>
+<field name="author">Durkin, Mary C.</field><field name="author_nat">Mary C.<space/>Durkin</field>
+<field name="author">Zumwalt, Gladys K.</field><field name="author_nat">Gladys K.<space/>Zumwalt</field>
 <field name="corp_author">Contra Costa County (California) Schools Department</field>
 <field name="title">Elementary science; suggested materials for sixth grade</field>
 <field name="year">1952</field>
@@ -161,8 +161,8 @@
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Stolberg, Robert</field>
-<field name="author">McKimmey, Mark T.</field>
+<field name="author">Stolberg, Robert</field><field name="author_nat">Robert<space/>Stolberg</field>
+<field name="author">McKimmey, Mark T.</field><field name="author_nat">Mark T.<space/>McKimmey</field>
 <field name="corp_author">Contra Costa County (California) Schools Department</field>
 <field name="title">Elementary science; suggested materials for seventh grade</field>
 <field name="year">1953</field>
@@ -344,7 +344,7 @@ and School Services</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Davis, Helen Miles</field>
+<field name="author">Davis, Helen Miles</field><field name="author_nat">Helen Miles<space/>Davis</field>
 <field name="title">Science exhibits</field>
 <field name="year">1955</field>
 <field name="date">1955</field>
@@ -473,14 +473,14 @@ and School Services</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Ballou, Mildred</field>
-<field name="author">Grabau, Molie</field>
-<field name="author">Loomis, Inez</field>
-<field name="author">Morris, Nellie</field>
-<field name="author">Ramsey, Rosamond</field>
-<field name="author">Slaybaugh, Virginia</field>
-<field name="author">Storbeck, Mary</field>
-<field name="author">Merkley, Elaine</field>
+<field name="author">Ballou, Mildred</field><field name="author_nat">Mildred<space/>Ballou</field>
+<field name="author">Grabau, Molie</field><field name="author_nat">Molie<space/>Grabau</field>
+<field name="author">Loomis, Inez</field><field name="author_nat">Inez<space/>Loomis</field>
+<field name="author">Morris, Nellie</field><field name="author_nat">Nellie<space/>Morris</field>
+<field name="author">Ramsey, Rosamond</field><field name="author_nat">Rosamond<space/>Ramsey</field>
+<field name="author">Slaybaugh, Virginia</field><field name="author_nat">Virginia<space/>Slaybaugh</field>
+<field name="author">Storbeck, Mary</field><field name="author_nat">Mary<space/>Storbeck</field>
+<field name="author">Merkley, Elaine</field><field name="author_nat">Elaine<space/>Merkley</field>
 <field name="title">Course of study for primary science</field>
 <field name="year">1956</field>
 <field name="date">08/1956</field>
@@ -634,8 +634,8 @@ and School Services</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Bohn, Gerald</field>
-<field name="author">Dahlager, Richard</field>
+<field name="author">Bohn, Gerald</field><field name="author_nat">Gerald<space/>Bohn</field>
+<field name="author">Dahlager, Richard</field><field name="author_nat">Richard<space/>Dahlager</field>
 <field name="corp_author">Edina (Minnesota) Public Schools</field>
 <field name="title">Curriculum materials for junior high school science</field>
 <field name="year">1969</field>
@@ -971,14 +971,14 @@ Teachers Association.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Turchan, Norman R.</field>
-<field name="author">Wallace, William T.</field>
-<field name="author">Grigsby, George</field>
-<field name="author">James, Robert</field>
-<field name="author">Karch, Grace</field>
-<field name="author">Lewis, Olivia</field>
-<field name="author">Scott, Max</field>
-<field name="author">Warner, Rita</field>
+<field name="author">Turchan, Norman R.</field><field name="author_nat">Norman R.<space/>Turchan</field>
+<field name="author">Wallace, William T.</field><field name="author_nat">William T.<space/>Wallace</field>
+<field name="author">Grigsby, George</field><field name="author_nat">George<space/>Grigsby</field>
+<field name="author">James, Robert</field><field name="author_nat">Robert<space/>James</field>
+<field name="author">Karch, Grace</field><field name="author_nat">Grace<space/>Karch</field>
+<field name="author">Lewis, Olivia</field><field name="author_nat">Olivia<space/>Lewis</field>
+<field name="author">Scott, Max</field><field name="author_nat">Max<space/>Scott</field>
+<field name="author">Warner, Rita</field><field name="author_nat">Rita<space/>Warner</field>
 <field name="title">Curriculum and resource guide for science in the elementary school, grades
 1-6</field>
 <field name="year">1962</field>
@@ -1102,11 +1102,11 @@ schools</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Ashley, Tracy</field>
-<field name="author">Hertzberg, Alvin</field>
-<field name="author">Hickey, William</field>
-<field name="author">Saenger, Anne</field>
-<field name="author">Holmberg, Sydney</field>
+<field name="author">Ashley, Tracy</field><field name="author_nat">Tracy<space/>Ashley</field>
+<field name="author">Hertzberg, Alvin</field><field name="author_nat">Alvin<space/>Hertzberg</field>
+<field name="author">Hickey, William</field><field name="author_nat">William<space/>Hickey</field>
+<field name="author">Saenger, Anne</field><field name="author_nat">Anne<space/>Saenger</field>
+<field name="author">Holmberg, Sydney</field><field name="author_nat">Sydney<space/>Holmberg</field>
 <field name="title">Science experiences related to social studies: kindergarten - three</field>
 <field name="year">1957</field>
 <field name="date">08/1957</field>
@@ -1142,9 +1142,9 @@ and the human body -- Light and sound -- Physical and chemical changes -- Plants
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Baker, Irma</field>
-<field name="author">Doran, Martha</field>
-<field name="author">Glowa, Harry</field>
+<field name="author">Baker, Irma</field><field name="author_nat">Irma<space/>Baker</field>
+<field name="author">Doran, Martha</field><field name="author_nat">Martha<space/>Doran</field>
+<field name="author">Glowa, Harry</field><field name="author_nat">Harry<space/>Glowa</field>
 <field name="title">Elementary science, grade 4</field>
 <field name="year">1961</field>
 <field name="date">1961</field>
@@ -1160,9 +1160,9 @@ and the human body -- Light and sound -- Physical and chemical changes -- Plants
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Fuhrmann, Robert P.</field>
-<field name="author">Karalfa, Elizabeth</field>
-<field name="author">Marek, Ruth E.</field>
+<field name="author">Fuhrmann, Robert P.</field><field name="author_nat">Robert P.<space/>Fuhrmann</field>
+<field name="author">Karalfa, Elizabeth</field><field name="author_nat">Elizabeth<space/>Karalfa</field>
+<field name="author">Marek, Ruth E.</field><field name="author_nat">Ruth E.<space/>Marek</field>
 <field name="title">Elementary science, grade 5</field>
 <field name="year">1961</field>
 <field name="date">1961</field>
@@ -1178,9 +1178,9 @@ and the human body -- Light and sound -- Physical and chemical changes -- Plants
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Cassidy, Jeanne</field>
-<field name="author">Gilmor, Mary Martha</field>
-<field name="author">Matsko, Paul</field>
+<field name="author">Cassidy, Jeanne</field><field name="author_nat">Jeanne<space/>Cassidy</field>
+<field name="author">Gilmor, Mary Martha</field><field name="author_nat">Mary Martha<space/>Gilmor</field>
+<field name="author">Matsko, Paul</field><field name="author_nat">Paul<space/>Matsko</field>
 <field name="title">Science, grade 7</field>
 <field name="year">1961</field>
 <field name="date">1961</field>
@@ -1196,9 +1196,9 @@ and the human body -- Light and sound -- Physical and chemical changes -- Plants
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Cassidy, Jeanne</field>
-<field name="author">Gilmor, Mary Martha</field>
-<field name="author">Matsko, Paul</field>
+<field name="author">Cassidy, Jeanne</field><field name="author_nat">Jeanne<space/>Cassidy</field>
+<field name="author">Gilmor, Mary Martha</field><field name="author_nat">Mary Martha<space/>Gilmor</field>
+<field name="author">Matsko, Paul</field><field name="author_nat">Paul<space/>Matsko</field>
 <field name="title">Science, grade 8</field>
 <field name="year">1961</field>
 <field name="date">1961</field>

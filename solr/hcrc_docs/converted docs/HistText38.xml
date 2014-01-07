@@ -1,7 +1,7 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="type">Book</field>
-<field name="author">Morrison, Charlotte</field>
+<field name="author">Morrison, Charlotte</field><field name="author_nat">Charlotte<space/>Morrison</field>
 <field name="title">Science: curriculum guide for teaching gifted children science in grades one
 through three</field>
 <field name="year">1970</field>
@@ -23,7 +23,7 @@ Special Education, California State Department of Education, by Charlotte Morris
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Brandwein, Paul F.</field>
+<field name="author">Brandwein, Paul F.</field><field name="author_nat">Paul F.<space/>Brandwein</field>
 <field name="title">Teaching gifted children science in grades seven through twelve</field>
 <field name="year">1975</field>
 <field name="date">1975</field>
@@ -538,7 +538,7 @@ schools.; Responsibility: American Association for the Advancement of Science. <
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Drummond, Ainslie H.</field>
+<field name="author">Drummond, Ainslie H.</field><field name="author_nat">Ainslie H.<space/>Drummond</field>
 <field name="title">Atoms, crystals, molecules : modern views of chemical bonding and molecular
 geometry</field>
 <field name="year">1968</field>
@@ -556,7 +556,7 @@ Drummond, Jr.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Drummond, Ainslie H.</field>
+<field name="author">Drummond, Ainslie H.</field><field name="author_nat">Ainslie H.<space/>Drummond</field>
 <field name="title">Atoms, crystals, molecules : modern views of atomic structure and chemical
 bonding</field>
 <field name="year">1962</field>
@@ -574,7 +574,7 @@ Drummond, Jr.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Haffner, Rudolph E.</field>
+<field name="author">Haffner, Rudolph E.</field><field name="author_nat">Rudolph E.<space/>Haffner</field>
 <field name="title">Genetics, the thread of life : new biology for young students</field>
 <field name="year">1962</field>
 <field name="date">1962</field>
@@ -590,7 +590,7 @@ Drummond, Jr.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Haffner, Rudolph E.</field>
+<field name="author">Haffner, Rudolph E.</field><field name="author_nat">Rudolph E.<space/>Haffner</field>
 <field name="title">Genetics, the thread of life : new biology for young students</field>
 <field name="year">1968</field>
 <field name="date">1968</field>
@@ -606,7 +606,7 @@ Drummond, Jr.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Page, Lou Williams</field>
+<field name="author">Page, Lou Williams</field><field name="author_nat">Lou Williams<space/>Page</field>
 <field name="title">The earth and its story : geology for young scientists</field>
 <field name="year">1968</field>
 <field name="date">1968</field>
@@ -644,7 +644,7 @@ Education</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Aylesworth, Thomas G.</field>
+<field name="author">Aylesworth, Thomas G.</field><field name="author_nat">Thomas G.<space/>Aylesworth</field>
 <field name="corp_author">American Education Publications</field>
 <field name="title">Planning for effective science teaching</field>
 <field name="year">1968</field>
@@ -662,8 +662,8 @@ Houston."; Responsibility: Original content created by Thomas G. Aylesworth.</fi
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Aylesworth, Thomas G.</field>
-<field name="author">Harris, Jacqueline L.</field>
+<field name="author">Aylesworth, Thomas G.</field><field name="author_nat">Thomas G.<space/>Aylesworth</field>
+<field name="author">Harris, Jacqueline L.</field><field name="author_nat">Jacqueline L.<space/>Harris</field>
 <field name="title">Our polluted world</field>
 <field name="year">1968</field>
 <field name="date">1968</field>
@@ -680,7 +680,7 @@ Houston."; Responsibility: Original content created by Thomas G. Aylesworth.</fi
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Baker, Jeffrey J. W.</field>
+<field name="author">Baker, Jeffrey J. W.</field><field name="author_nat">Jeffrey J. W.<space/>Baker</field>
 <field name="title">In the beginning; a survey of modern embryology</field>
 <field name="year">1964</field>
 <field name="date">1964</field>
@@ -697,7 +697,7 @@ Houston."; Responsibility: Original content created by Thomas G. Aylesworth.</fi
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Phillips, Mary Viola</field>
+<field name="author">Phillips, Mary Viola</field><field name="author_nat">Mary Viola<space/>Phillips</field>
 <field name="title">Physical geography: interpreting the physical features of the earth</field>
 <field name="year">1966</field>
 <field name="date">1966</field>
@@ -711,8 +711,8 @@ Houston."; Responsibility: Original content created by Thomas G. Aylesworth.</fi
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Haffner, Rudolph E.</field>
-<field name="author">Baker, Jeffrey</field>
+<field name="author">Haffner, Rudolph E.</field><field name="author_nat">Rudolph E.<space/>Haffner</field>
+<field name="author">Baker, Jeffrey</field><field name="author_nat">Jeffrey<space/>Baker</field>
 <field name="title">The vital wheel, metabolism : an introduction to some biological
 chemistry</field>
 <field name="year">1963</field>
@@ -731,7 +731,7 @@ Responsibility: Rudolph Haffner and Jeffrey Baker.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Sonnie, Evelyn</field>
+<field name="author">Sonnie, Evelyn</field><field name="author_nat">Evelyn<space/>Sonnie</field>
 <field name="title">Science scope and sequence outline: grade iii science principles</field>
 <field name="pages">15</field>
 <field name="keywords">Science</field>
@@ -1031,10 +1031,10 @@ resources, geology, machines</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Bethke, Gertrude</field>
-<field name="author">Cass, Betty</field>
-<field name="author">Kolak, George</field>
-<field name="author">Linney, Lorraine</field>
+<field name="author">Bethke, Gertrude</field><field name="author_nat">Gertrude<space/>Bethke</field>
+<field name="author">Cass, Betty</field><field name="author_nat">Betty<space/>Cass</field>
+<field name="author">Kolak, George</field><field name="author_nat">George<space/>Kolak</field>
+<field name="author">Linney, Lorraine</field><field name="author_nat">Lorraine<space/>Linney</field>
 <field name="corp_author">Beloit (Wisconsin) Public Schools</field>
 <field name="title">Elementary science: supplement to curriculum bulletins numbers 3 and 4</field>
 <field name="year">1963</field>
@@ -1051,9 +1051,9 @@ resources, geology, machines</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Crean, Francis D.</field>
-<field name="author">Broadwell, Patrick B.</field>
-<field name="author">Robinson, F. Willard</field>
+<field name="author">Crean, Francis D.</field><field name="author_nat">Francis D.<space/>Crean</field>
+<field name="author">Broadwell, Patrick B.</field><field name="author_nat">Patrick B.<space/>Broadwell</field>
+<field name="author">Robinson, F. Willard</field><field name="author_nat">F. Willard<space/>Robinson</field>
 <field name="corp_author">Beverly Hills (California) High School</field>
 <field name="title">Survey of modern science 1-2, 1-2h (tentative course of study)</field>
 <field name="year">1964</field>
@@ -1069,10 +1069,10 @@ resources, geology, machines</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Degray, Oliver</field>
-<field name="author">Dimond, James</field>
-<field name="author">Peterson, Charles</field>
-<field name="author">Tracy, James</field>
+<field name="author">Degray, Oliver</field><field name="author_nat">Oliver<space/>Degray</field>
+<field name="author">Dimond, James</field><field name="author_nat">James<space/>Dimond</field>
+<field name="author">Peterson, Charles</field><field name="author_nat">Charles<space/>Peterson</field>
+<field name="author">Tracy, James</field><field name="author_nat">James<space/>Tracy</field>
 <field name="corp_author">Bloomington (Minnesota) Public Schools</field>
 <field name="title">The secondary science curriculum for Bloomington Public Schools</field>
 <field name="date">1960s</field>
@@ -1219,8 +1219,8 @@ resources, geology, machines</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Thaw, Richard F.</field>
-<field name="author">Morlan, John E.</field>
+<field name="author">Thaw, Richard F.</field><field name="author_nat">Richard F.<space/>Thaw</field>
+<field name="author">Morlan, John E.</field><field name="author_nat">John E.<space/>Morlan</field>
 <field name="title">Experiences and demonstrations in elementary physical science</field>
 <field name="year">1964</field>
 <field name="date">1964</field>
@@ -1286,7 +1286,7 @@ Education</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Pantuso, Raymond J.</field>
+<field name="author">Pantuso, Raymond J.</field><field name="author_nat">Raymond J.<space/>Pantuso</field>
 <field name="title">Personalizing educational prescriptions in science for elementary school
 children</field>
 <field name="year">1969</field>
@@ -1417,7 +1417,7 @@ pioneered and live now in California and the United State", grades 4 - 5</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Woodward, Robert L.</field>
+<field name="author">Woodward, Robert L.</field><field name="author_nat">Robert L.<space/>Woodward</field>
 <field name="corp_author">California State Department of Education</field>
 <field name="title">Industrial arts and science, applying scientific principles in industrial arts
 activities</field>
@@ -1543,8 +1543,8 @@ Instruction in the High Schools.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Osner, Henry J.</field>
-<field name="author">Jacobs, Mark</field>
+<field name="author">Osner, Henry J.</field><field name="author_nat">Henry J.<space/>Osner</field>
+<field name="author">Jacobs, Mark</field><field name="author_nat">Mark<space/>Jacobs</field>
 <field name="title">Final report of the junior college workshops in physical science</field>
 <field name="year">1961</field>
 <field name="date">1961</field>

@@ -1,8 +1,8 @@
-<add>
+<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="type">Book</field>
-<field name="author">Diehl, Glenna L.</field>
-<field name="author">Erwin, Mary F.</field>
+<field name="author">Diehl, Glenna L.</field><field name="author_nat">Glenna L.<space/>Diehl</field>
+<field name="author">Erwin, Mary F.</field><field name="author_nat">Mary F.<space/>Erwin</field>
 <field name="title">Guide for teaching beginning addition facts</field>
 <field name="pages">4</field>
 <field name="keywords">Arithmetic</field>
@@ -149,7 +149,7 @@ living</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Scurrah, Mark B.</field>
+<field name="author">Scurrah, Mark B.</field><field name="author_nat">Mark B.<space/>Scurrah</field>
 <field name="corp_author">University of the State of New York. Bureau of Elementary Curriculum
 Development</field>
 <field name="title">Research in arithmetic</field>
@@ -230,7 +230,7 @@ Elementary Education, New York State Education Dept.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Babcock, Ruth Evans</field>
+<field name="author">Babcock, Ruth Evans</field><field name="author_nat">Ruth Evans<space/>Babcock</field>
 <field name="title">Books that count and that help children to understand numberland</field>
 <field name="year">1961</field>
 <field name="date">1961</field>
@@ -338,7 +338,7 @@ arithmetic for grade six</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Ross, Ramon</field>
+<field name="author">Ross, Ramon</field><field name="author_nat">Ramon<space/>Ross</field>
 <field name="title">Underachievers in arithmetic</field>
 <field name="year">1964</field>
 <field name="date">11/1964</field>
@@ -534,9 +534,9 @@ Curriculum Committee</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Frankman, Margaret R.</field>
-<field name="author">Lauer, Lionel</field>
-<field name="author">Taylor, Naomi L.</field>
+<field name="author">Frankman, Margaret R.</field><field name="author_nat">Margaret R.<space/>Frankman</field>
+<field name="author">Lauer, Lionel</field><field name="author_nat">Lionel<space/>Lauer</field>
+<field name="author">Taylor, Naomi L.</field><field name="author_nat">Naomi L.<space/>Taylor</field>
 <field name="corp_author">Philadelphia (Pennsylvania) Public Schools</field>
 <field name="title">An introduction to the "new" mathematics in the elementary school</field>
 <field name="year">1963</field>
@@ -644,7 +644,7 @@ Elementary Curriculum</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Rogers, Lloyd</field>
+<field name="author">Rogers, Lloyd</field><field name="author_nat">Lloyd<space/>Rogers</field>
 <field name="title">A course of study for the mathematics enrichment program (summer
 session)</field>
 <field name="year">1962</field>
@@ -1005,7 +1005,7 @@ division (grades iv-vi)</field>
 <field name="corp_author">San Diego County (California) Schools</field>
 <field name="title">A report to the Citizens Advisory Commission of the California Legislature Joint
 Interim Committee on the Public Education System</field>
-<field name="title">Improvement of instruction in arithmetic in schools of San Diego County</field>
+<field name="series_title">Improvement of instruction in arithmetic in schools of San Diego County</field>
 <field name="year">1959</field>
 <field name="date">05/1959</field>
 <field name="pages">7</field>
@@ -1019,9 +1019,9 @@ Interim Committee on the Public Education System</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Beatty, Leslie S.</field>
-<field name="author">Madden, Richard</field>
-<field name="author">Moore, Edwena B.</field>
+<field name="author">Beatty, Leslie S.</field><field name="author_nat">Leslie S.<space/>Beatty</field>
+<field name="author">Madden, Richard</field><field name="author_nat">Richard<space/>Madden</field>
+<field name="author">Moore, Edwena B.</field><field name="author_nat">Edwena B.<space/>Moore</field>
 <field name="corp_author">San Diego County (California) Schools</field>
 <field name="title">Teacher's guide to problem solving in arithmetic: report of an action research
 project in San Diego County School Districts</field>
@@ -1076,8 +1076,8 @@ six)</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Glennon, Vincent Joseph</field>
-<field name="author">McLennan, Doris L.</field>
+<field name="author">Glennon, Vincent Joseph</field><field name="author_nat">Vincent Joseph<space/>Glennon</field>
+<field name="author">McLennan, Doris L.</field><field name="author_nat">Doris L.<space/>McLennan</field>
 <field name="title">Teaching arithmetic in the modern school, with a discussion of arithmetic and
 the exceptional child</field>
 <field name="year">1953</field>
@@ -1097,10 +1097,10 @@ teaching of arithmetic</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Hartung, Maurice L.</field>
-<field name="author">Van Engen, Henry</field>
-<field name="author">Knowles, Lois</field>
-<field name="author">Gibb, E. Glenadine</field>
+<field name="author">Hartung, Maurice L.</field><field name="author_nat">Maurice L.<space/>Hartung</field>
+<field name="author">Van Engen, Henry</field><field name="author_nat">Henry<space/>Van Engen</field>
+<field name="author">Knowles, Lois</field><field name="author_nat">Lois<space/>Knowles</field>
+<field name="author">Gibb, E. Glenadine</field><field name="author_nat">E. Glenadine<space/>Gibb</field>
 <field name="title">Charting the course for arithmetic</field>
 <field name="year">1960</field>
 <field name="date">1960</field>
@@ -1169,7 +1169,7 @@ cards</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Johnston, Aaron Montgomery</field>
+<field name="author">Johnston, Aaron Montgomery</field><field name="author_nat">Aaron Montgomery<space/>Johnston</field>
 <field name="title">Arithmetic in Tennessee, a survey of teaching practices. grades one through
 eight</field>
 <field name="year">1960</field>
@@ -1219,7 +1219,7 @@ eight</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Tully, Jean</field>
+<field name="author">Tully, Jean</field><field name="author_nat">Jean<space/>Tully</field>
 <field name="title">The seventh and eighth grade arithmetic program of the Stockton Unified School
 District (tentative)</field>
 <field name="year">1951</field>
@@ -1237,13 +1237,13 @@ District (tentative)</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Hartgraves, Joan</field>
-<field name="author">Swanson, William</field>
-<field name="author">Wanless, Robet</field>
-<field name="author">Bourns, Otis</field>
-<field name="author">Nicholls, John</field>
-<field name="author">Walters, Laraine</field>
-<field name="author">Broussard, Vernon</field>
+<field name="author">Hartgraves, Joan</field><field name="author_nat">Joan<space/>Hartgraves</field>
+<field name="author">Swanson, William</field><field name="author_nat">William<space/>Swanson</field>
+<field name="author">Wanless, Robet</field><field name="author_nat">Robet<space/>Wanless</field>
+<field name="author">Bourns, Otis</field><field name="author_nat">Otis<space/>Bourns</field>
+<field name="author">Nicholls, John</field><field name="author_nat">John<space/>Nicholls</field>
+<field name="author">Walters, Laraine</field><field name="author_nat">Laraine<space/>Walters</field>
+<field name="author">Broussard, Vernon</field><field name="author_nat">Vernon<space/>Broussard</field>
 <field name="title">Doing your own 'thing': individualized learning unit on addition of whole
 numbers, part ii</field>
 <field name="year">1969</field>
@@ -1299,9 +1299,9 @@ Division of State and Local School Systems</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Wallace, Mildred</field>
-<field name="author">Timson, Iris</field>
-<field name="author">Wisely, Edna</field>
+<field name="author">Wallace, Mildred</field><field name="author_nat">Mildred<space/>Wallace</field>
+<field name="author">Timson, Iris</field><field name="author_nat">Iris<space/>Timson</field>
+<field name="author">Wisely, Edna</field><field name="author_nat">Edna<space/>Wisely</field>
 <field name="corp_author">Ventura County (California) Schools</field>
 <field name="title">Suggestions for using Arithmetic we use, third grade</field>
 <field name="year">1948</field>
@@ -1318,7 +1318,7 @@ Division of State and Local School Systems</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Reid, Irene M.</field>
+<field name="author">Reid, Irene M.</field><field name="author_nat">Irene M.<space/>Reid</field>
 <field name="title">Lessons in arithmetic through school savings : activities, problems, and
 techniques for elementary grades</field>
 <field name="year">1949</field>
