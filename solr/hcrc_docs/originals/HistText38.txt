@@ -1,0 +1,1633 @@
+
+
+
+TY  - BOOK
+A1  - Morrison, Charlotte
+T1  - Science: curriculum guide for teaching gifted children science in grades one through three
+Y1  - 1970
+D1  - 1970
+SP  - 32
+KW  - Science
+KW  - Gifted children
+N1  - vii; ill. ; 23 cm.; Note(s): Responsibility: prepared for the Division of Special Education, California State Department of Education, by Charlotte Morrison.
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 371.9 .C15tgs 1970 v. 1
+SC  - California
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A1  - Brandwein, Paul F.
+T1  - Teaching gifted children science in grades seven through twelve
+Y1  - 1975
+D1  - 1975
+SP  - 55
+KW  - Science
+KW  - Gifted children
+N1  - vii; ill. ; 23 cm.; Note(s): Bibliography: p. 53-55.; Responsibility: prepared for the Division of Special Education, California State Department of Education, by Paul F Brandwein.
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 371.9 .C15tgs 1975 v. 3
+SC  - California
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Alabama Educational Television Network
+T1  - Junior high science; teachers' program guide 2nd semester, 1960-61
+Y1  - 1960
+D1  - 1960-1961
+SP  - 21
+KW  - Science
+N1  - 21 p. ; 22 cm.
+PB  - Alabama Educational Television Network
+CY  - Montgomery, AL
+LA  - English
+CN  - 519 .A31j
+SC  - Alabama
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Alabama State Department of Education
+T1  - Is pupil participation in science vital in junior high schools?
+Y1  - 1961
+D1  - 1961
+SP  - 74
+KW  - Science
+PB  - Alabama State Department of Education
+CY  - Montgomery, AL
+LA  - English
+CN  - 519 .A311i
+SC  - Alabama
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Alabama State Department of Education
+T1  - Science learning elementary schools
+Y1  - 1961
+D1  - 1961
+SP  - 57
+KW  - Science
+PB  - Alabama State Department of Education
+CY  - Montgomery, AL
+LA  - English
+CN  - 519 .A311s v. 1
+SC  - Alabama
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Alabama State Department of Education
+T1  - Suggested activities for use in elementary science
+Y1  - 1960
+D1  - 06/1960
+SP  - 44
+KW  - Science
+PB  - Alabama State Department of Education
+CY  - Montgomery, AL
+LA  - English
+CN  - 519 .A311s v. 2
+SC  - Alabama
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Alabama State Department of Education
+T1  - Science laboratories for learning
+Y1  - 1960
+D1  - 1960
+SP  - 50
+KW  - Science
+PB  - Alabama State Department of Education
+CY  - Montgomery, AL
+LA  - English
+CN  - 519 .A311sL
+SC  - Alabama
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Alameda (California) County School Department
+T1  - ESP: Experimental science projects for primary grades
+Y1  - 1968
+D1  - 1968
+SP  - 129
+KW  - Science
+PB  - Alameda (California) County School Department
+CY  - Hayward, CA
+LA  - English
+CN  - 519 .A32e
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Alberta Department of Education
+T1  - Science
+Y1  - 1957
+D1  - 1957
+SP  - 130
+KW  - Science
+T2  - Alberta Department of Education. Bulletin.
+V1  - 2b
+PB  - Alberta Department of Education
+CY  - Edmonton, Alberta
+LA  - English
+CN  - 519 .A33s v. 1
+SC  - Canada
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Allegany County (Maryland) Public Schools
+T1  - Teaching guide for life science, grade seven
+Y1  - 1961
+D1  - 1961
+SP  - 126
+KW  - Life sciences
+KW  - Science
+PB  - Allegany County (Maryland) Public Schools
+CY  - Cumberland, MD
+LA  - English
+CN  - 519 .A42t v. 1
+SC  - Maryland
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A2  - Allegany County (Maryland) Public Schools
+T1  - Teaching guide for physical science, grade eight
+Y1  - 1961
+D1  - 1961
+SP  - 170
+KW  - Physics
+KW  - Science
+PB  - Allegany County (Maryland) Public Schools
+CY  - Cumberland, MD
+LA  - English
+CN  - 519 .A42t v. 2
+SC  - Maryland
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Allerton House Conference on Education
+T1  - Report on the teaching of science in Illinois
+Y1  - 1957
+D1  - 1957
+SP  - 34
+KW  - Science
+N1  - xv; ill. ; 23 cm.; Note(s): Includes bibliographical references (p. 33-34).
+T2  - Allerton House Conference on Education (Physical and Biological Sciences Group)
+PB  - Southern Illinois University
+CY  - Carbondale, IL
+LA  - English
+CN  - 519 .A43t
+SC  - Illinois
+ER  - 
+
+TY  - BOOK
+A2  - Alum Rock Union Elementary School District (San Jose, California)
+T1  - Science centers of interest
+N1  - 1 v. (various pagings)
+KW  - Science
+PB  - Alum Rock Union Elementary School District
+CY  - San Jose, CA
+LA  - English
+CN  - 519 .A49s
+SC  - California
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Alum Rock Union Elementary School District (San Jose, California)
+T1  - Science centers of interest
+Y1  - 1959
+D1  - 1959-1960
+N1  - 1 v. (various pagings)
+KW  - Science
+PB  - Alum Rock Union Elementary School District
+CY  - San Jose, CA
+LA  - English
+CN  - 519 .A49s 1959-1960
+SC  - California
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - American Association for the Advancement of Science
+T1  - Science : a process approach, part one a
+Y1  - 1965
+D1  - 1965
+SP  - 72
+KW  - Science
+N1  - v. : ill. ; 28 cm.; Note(s): On cover: Prepared for testing in elementary schools.; Responsibility: American Association for the Advancement of Science. 
+T2  - AAAS miscellaneous publication
+V1  - 65-14A
+ED  - 3d experimental
+PB  - American Association for the Advancement of Science
+LA  - English
+CN  - 519 .A512s v. 1A
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - American Association for the Advancement of Science
+T1  - Science : a process approach, part one b
+Y1  - 1965
+D1  - 1965
+KW  - Science
+N1  - v. : ill. ; 28 cm.; Note(s): On cover: Prepared for testing in elementary schools.; Responsibility: American Association for the Advancement of Science. 
+T2  - AAAS miscellaneous publication
+V1  - 65-14B
+ED  - 3d experimental
+PB  - American Association for the Advancement of Science
+LA  - English
+CN  - 519 .A512s v. 1B
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - American Association for the Advancement of Science
+T1  - Science : a process approach, part two a
+Y1  - 1965
+D1  - 1965
+SP  - 99
+KW  - Science
+N1  - v. : ill. ; 28 cm.; Note(s): On cover: Prepared for testing in elementary schools.; Responsibility: American Association for the Advancement of Science. 
+T2  - AAAS miscellaneous publication
+V1  - 65-15A
+ED  - 3d experimental
+PB  - American Association for the Advancement of Science
+LA  - English
+CN  - 519 .A512s v. 2A
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - American Association for the Advancement of Science
+T1  - Science : a process approach, part two b
+Y1  - 1965
+D1  - 1965
+KW  - Science
+N1  - v. : ill. ; 28 cm.; Note(s): On cover: Prepared for testing in elementary schools.; Responsibility: American Association for the Advancement of Science. 
+T2  - AAAS miscellaneous publication
+V1  - 65-15A
+ED  - 3d experimental
+PB  - American Association for the Advancement of Science
+LA  - English
+CN  - 519 .A512s v. 2B
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - American Association for the Advancement of Science
+T1  - Science : a process approach, part three a
+Y1  - 1965
+D1  - 1965
+SP  - 99
+KW  - Science
+N1  - v. : ill. ; 28 cm.; Note(s): On cover: Prepared for testing in elementary schools.; Responsibility: American Association for the Advancement of Science. 
+T2  - AAAS miscellaneous publication
+V1  - 65-16A
+ED  - 3d experimental
+PB  - American Association for the Advancement of Science
+LA  - English
+CN  - 519 .A512s v. 3A
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - American Association for the Advancement of Science
+T1  - Science : a process approach, part three b
+Y1  - 1965
+D1  - 1965
+KW  - Science
+N1  - v. : ill. ; 28 cm.; Note(s): On cover: Prepared for testing in elementary schools.; Responsibility: American Association for the Advancement of Science. 
+T2  - AAAS miscellaneous publication
+V1  - 65-16B
+ED  - 3d experimental
+PB  - American Association for the Advancement of Science
+LA  - English
+CN  - 519 .A512s v. 3B
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - American Association for the Advancement of Science
+T1  - Science : a process approach, part four a
+Y1  - 1965
+D1  - 1965
+SP  - 101
+KW  - Science
+N1  - v. : ill. ; 28 cm.; Note(s): On cover: Prepared for testing in elementary schools.; Responsibility: American Association for the Advancement of Science. 
+T2  - AAAS miscellaneous publication
+V1  - 65-19A
+ED  - 3d experimental
+PB  - American Association for the Advancement of Science
+LA  - English
+CN  - 519 .A512s v. 4A
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - American Association for the Advancement of Science
+T1  - Science : a process approach, part four b
+Y1  - 1965
+D1  - 1965
+KW  - Science
+N1  - v. : ill. ; 28 cm.; Note(s): On cover: Prepared for testing in elementary schools.; Responsibility: American Association for the Advancement of Science. 
+T2  - AAAS miscellaneous publication
+V1  - 65-19B
+ED  - 3d experimental
+PB  - American Association for the Advancement of Science
+LA  - English
+CN  - 519 .A512s v. 4B
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - American Association for the Advancement of Science
+T1  - Science : a process approach, part five a
+Y1  - 1965
+D1  - 1965
+SP  - 101
+KW  - Science
+N1  - v. : ill. ; 28 cm.; Note(s): On cover: Prepared for testing in elementary schools.; Responsibility: American Association for the Advancement of Science. 
+T2  - AAAS miscellaneous publication
+V1  - 65-20A
+ED  - 3d experimental
+PB  - American Association for the Advancement of Science
+LA  - English
+CN  - 519 .A512s v. 5A
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - American Association for the Advancement of Science
+T1  - Science : a process approach, part five b
+Y1  - 1965
+D1  - 1965
+KW  - Science
+N1  - v. : ill. ; 28 cm.; Note(s): On cover: Prepared for testing in elementary schools.; Responsibility: American Association for the Advancement of Science. 
+T2  - AAAS miscellaneous publication
+V1  - 65-20B
+ED  - 3d experimental
+PB  - American Association for the Advancement of Science
+LA  - English
+CN  - 519 .A512s v. 5B
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - American Association for the Advancement of Science
+T1  - Science : a process approach, part six a
+Y1  - 1965
+D1  - 1965
+SP  - 99
+KW  - Science
+N1  - v. : ill. ; 28 cm.; Note(s): On cover: Prepared for testing in elementary schools.; Responsibility: American Association for the Advancement of Science. 
+T2  - AAAS miscellaneous publication
+V1  - 65-21A
+ED  - 3d experimental
+PB  - American Association for the Advancement of Science
+LA  - English
+CN  - 519 .A512s v. 6A
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - American Association for the Advancement of Science
+T1  - Science : a process approach, part six b
+Y1  - 1965
+D1  - 1965
+KW  - Science
+N1  - v. : ill. ; 28 cm.; Note(s): On cover: Prepared for testing in elementary schools.; Responsibility: American Association for the Advancement of Science. 
+T2  - AAAS miscellaneous publication
+V1  - 65-21B
+ED  - 3d experimental
+PB  - American Association for the Advancement of Science
+LA  - English
+CN  - 519 .A512s v. 6B
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - American Association for the Advancement of Science
+T1  - Science : a process approach, part seven a
+Y1  - 1965
+D1  - 1965
+SP  - 105
+KW  - Science
+N1  - v. : ill. ; 28 cm.; Note(s): On cover: Prepared for testing in elementary schools.; Responsibility: American Association for the Advancement of Science. 
+T2  - AAAS miscellaneous publication
+V1  - 65-23A
+ED  - 3d experimental
+PB  - American Association for the Advancement of Science
+LA  - English
+CN  - 519 .A512s v. 6A
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - American Association for the Advancement of Science
+T1  - Science : a process approach, part seven b
+Y1  - 1965
+D1  - 1965
+KW  - Science
+N1  - v. : ill. ; 28 cm.; Note(s): On cover: Prepared for testing in elementary schools.; Responsibility: American Association for the Advancement of Science. 
+T2  - AAAS miscellaneous publication
+V1  - 65-23B
+ED  - 3d experimental
+PB  - American Association for the Advancement of Science
+LA  - English
+CN  - 519 .A512s v. 6B
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - American Association for the Advancement of Science
+T1  - Science : a process approach, part seven
+Y1  - 1967
+D1  - 1967
+SP  - 275
+KW  - Science
+N1  - v. : ill. ; 28 cm.; Note(s): On cover: Prepared for testing in elementary schools.; Responsibility: American Association for the Advancement of Science. 
+T2  - AAAS miscellaneous publication
+V1  - 67-13
+ED  - 4th experimental
+PB  - American Association for the Advancement of Science
+LA  - English
+CN  - 519 .A512s 1967 v. 7
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Drummond, Ainslie H.
+T1  - Atoms, crystals, molecules : modern views of chemical bonding and molecular geometry
+Y1  - 1968
+D1  - 1968
+SP  - 47
+KW  - Atomic structure
+KW  - Chemical bonds
+N1  - 47 p. : ill.; rt. ; 22 cm.; Note(s): Cover title.; Responsibility: by Ainslie H. Drummond, Jr.
+PB  - American Education Publications
+CY  - Columbus, OH
+LA  - English
+CN  - 519 .A513s v. 2
+ER  - 
+
+TY  - BOOK
+A1  - Drummond, Ainslie H.
+T1  - Atoms, crystals, molecules : modern views of atomic structure and chemical bonding
+Y1  - 1962
+D1  - 1962
+SP  - 63
+KW  - Atomic structure
+KW  - Chemical bonds
+N1  - 63 p. : ill.; rt. ; 22 cm.; Note(s): Cover title.; Responsibility: by Ainslie H. Drummond, Jr.
+PB  - American Education Publications
+CY  - Columbus, OH
+LA  - English
+CN  - 519 .A513s v. 1
+ER  - 
+
+TY  - BOOK
+A1  - Haffner, Rudolph E.
+T1  - Genetics, the thread of life : new biology for young students
+Y1  - 1962
+D1  - 1962
+SP  - 63
+KW  - Genetics
+KW  - Juvenile literature
+N1  - ill. ; 22 cm.; Responsibility: Rudolph E. Haffner.
+PB  - American Education Publications
+CY  - Middletown, CT
+LA  - English
+CN  - 519 .A513s 1962 v. 4
+ER  - 
+
+TY  - BOOK
+A1  - Haffner, Rudolph E.
+T1  - Genetics, the thread of life : new biology for young students
+Y1  - 1968
+D1  - 1968
+SP  - 63
+KW  - Genetics
+KW  - Juvenile literature
+N1  - ill. ; 22 cm.; Responsibility: Rudolph E. Haffner.
+PB  - American Education Publications
+CY  - Middletown, CT
+LA  - English
+CN  - 519 .A513s 1968 v. 4
+ER  - 
+
+TY  - BOOK
+A1  - Page, Lou Williams
+T1  - The earth and its story : geology for young scientists
+Y1  - 1968
+D1  - 1968
+SP  - 47
+KW  - Geology
+KW  - Juvenile literature
+N1  - ill. (some col.) ; 29 cm.
+T2  - A Science unit book
+PB  - American Education Publications
+CY  - Middletown, CT
+LA  - English
+CN  - 519 .A513s v. 3
+ER  - 
+
+TY  - BOOK
+A2  - American Association for the Advancement of Science
+T1  - Science: a process approach; an evaluation model and its application, second report
+Y1  - 1968
+SP  - 238
+KW  - Science
+N1  - vii; , illus., form. 28 cm.; Note(s): "Second report."/ Preparation of these materials was sponsored by the Commission on Science Education, American Association for the Advancement of Science./ Bibliography: p. 183.; Responsibility: [by Henry H. Walbesser, Jr.
+T2  - American Association for the Advancement of Science.; AAAS miscellaneous publication
+V1  - 68-4
+PB  - American Association for the Advancement of Science, Commission on Science Education
+CY  - Washington, DC
+LA  - English
+CN  - 519 .A512se
+ER  - 
+
+TY  - BOOK
+A1  - Aylesworth, Thomas G.
+A2  - American Education Publications
+T1  - Planning for effective science teaching
+Y1  - 1968
+D1  - 1968
+SP  - 63
+KW  - Science
+N1  - 63 p. 22 cm.; Note(s): Cover title./ "Editor for this edition: Walter Scott Houston."; Responsibility: Original content created by Thomas G. Aylesworth.
+T2  - American Education Publications Unit books
+PB  - American Education Publications
+CY  - Columbus, OH
+LA  - English
+CN  - 519 .A513s v. 9
+ER  - 
+
+TY  - BOOK
+A1  - Aylesworth, Thomas G.
+A1  - Harris, Jacqueline L.
+T1  - Our polluted world
+Y1  - 1968
+D1  - 1968
+SP  - 47
+KW  - Pollution
+N1  - 47 [1] p. ill. 22 cm.; Note(s): "For more information": p. 47.; Responsibility: [by] Thomas G. Aylesworth. Edited by Jacqueline L. Harris.
+T2  - American Education Publications Unit Book
+PB  - American Education Publications
+CY  - Columbus, OH
+LA  - English
+CN  - 519 .A513s v. 8
+ER  - 
+
+TY  - BOOK
+A1  - Baker, Jeffrey J. W.
+T1  - In the beginning; a survey of modern embryology
+Y1  - 1964
+D1  - 1964
+SP  - 63
+KW  - Embryology
+KW  - History of science
+N1  - 63 p. ill. 22 cm.; Note(s): Cover title./ "Further readings": p. 63.
+T2  - A science unit book
+PB  - American Education Publications, Education Center
+CY  - Columbus, OH
+LA  - English
+CN  - 519 .A513s v. 5
+ER  - 
+
+TY  - BOOK
+A1  - Phillips, Mary Viola
+T1  - Physical geography: interpreting the physical features of the earth
+Y1  - 1966
+D1  - 1966
+SP  - 47
+KW  - Geography
+PB  - American Education Publications, Education Center
+CY  - Columbus, OH
+LA  - English
+CN  - 519 .A513s v. 6
+ER  - 
+
+TY  - BOOK
+A1  - Haffner, Rudolph E.
+A1  - Baker, Jeffrey
+T1  - The vital wheel, metabolism : an introduction to some biological chemistry
+Y1  - 1963
+D1  - 1963
+SP  - 47
+KW  - Metabolism
+KW  - Juvenile literature
+KW  - Biochemistry
+N1  - ill. ; 22 cm.; Note(s): Includes bibliographical references (p. 47).; Responsibility: Rudolph Haffner and Jeffrey Baker.
+PB  - American Education Publications
+CY  - Middletown, CT
+LA  - English
+CN  - 519 .A513s v. 7
+ER  -
+
+TY  - BOOK
+A1  - Sonnie, Evelyn
+T1  - Science scope and sequence outline: grade iii science principles
+SP  - 15
+KW  - Science
+PB  - Anaheim (California) City School District
+CY  - Anaheim, CA
+LA  - English
+CN  - 519 .A53s v. 1
+SC  - California
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - Anaheim (California) City School District
+T1  - Science grade 4 scope and sequence outline
+SP  - 16
+KW  - Science
+PB  - Anaheim (California) City School District
+CY  - Anaheim, CA
+LA  - English
+CN  - 519 .A53s v. 2
+SC  - California
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Anaheim (California) City School District
+T1  - Science grade 5 scope and sequence outline
+SP  - 18
+KW  - Science
+PB  - Anaheim (California) City School District
+CY  - Anaheim, CA
+LA  - English
+CN  - 519 .A53s v. 2
+SC  - California
+G2  - 5th
+ER  - 
+
+TY  - BOOK
+A2  - Anaheim (California) City School District
+T1  - Science scope and sequence outline: grade vi science principles
+SP  - 20
+KW  - Science
+PB  - Anaheim (California) City School District
+CY  - Anaheim, CA
+LA  - English
+CN  - 519 .A53s v. 4
+SC  - California
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Arizona State Board of Education
+T1  - Science guide for elementary schools of Arizona
+Y1  - 1962
+D1  - 1962
+SP  - 48
+KW  - Science
+PB  - Arizona State Board of Education
+CY  - Phoenix, AZ
+LA  - English
+CN  - 519 .A71s
+SC  - Arizona
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Arkansas State Department of Education. Elementary School Council
+T1  - Science experiences for Arkansas school children
+Y1  - 1959
+D1  - 1959
+SP  - 95
+KW  - Science
+N1  - 95 p. 23 cm.; Note(s): Includes bibliographies.; Responsibility: Prepared in cooperation with the State Dept. of Education.
+PB  - Division of Instructional Services, Arkansas State Department of Education
+CY  - Little Rock, AR
+LA  - English
+CN  - 519 .A72s
+SC  - Arkansas
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Atlanta (Georgia) Public Schools
+T1  - Handbook for resource teachers in science
+Y1  - 1957
+D1  - 06/1957
+SP  - 12
+KW  - Science
+N1  - 1 v. (various pagings)
+PB  - Atlanta (Georgia) Public Schools
+CY  - Atlanta, GA
+LA  - English
+CN  - 519 .A88h
+SC  - Georgia
+ER  - 
+
+TY  - BOOK
+A2  - Baltimore County (Maryland) Public Schools
+T1  - A course of study in general physical science
+Y1  - 1963
+D1  - 1963
+SP  - 222
+KW  - Physics
+KW  - Science
+N1  - 1 v. (various pagings)
+PB  - Baltimore County (Maryland) Public Schools
+CY  - Towson, MD
+LA  - English
+CN  - 519 .B19g
+SC  - Maryland
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Barrington (Illinois) Public Schools
+T1  - Science curriculum outline : a sequential plan for grades K-6
+Y1  - 1964
+D1  - 1964
+SP  - 32
+KW  - Science
+N1  - 32 leaves ; 29 cm.; Responsibility: Barrington Public Schools.
+PB  - Barrington (Illinois) Public Schools
+CY  - Barrington, IL
+LA  - English
+CN  - 519 .B26s v. 1
+SC  - Illinois
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Barrington (Illinois) Public Schools
+T1  - Science curriculum outline : a conceptual guide for grades 7-8
+Y1  - 1964
+D1  - 1964
+SP  - 12
+KW  - Science
+N1  - 12 leaves ; 29 cm.; Responsibility: Barrington Public Schools.
+PB  - Barrington (Illinois) Public Schools
+CY  - Barrington, IL
+LA  - English
+CN  - 519 .B26s v. 2
+SC  - Illinois
+G2  - Kindergarten
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Bay City (Michigan) Public Schools
+T1  - Science units for grade two through eight: book one: atoms and molecules, chemistry, magnetism and electricity
+Y1  - 1957
+D1  - 09/1957
+SP  - 35
+KW  - Science
+PB  - Bay City (Michigan) Public Schools
+CY  - Bay City, MI
+LA  - English
+CN  - 519 .B35s v. 1
+SC  - Michigan
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  - 
+ 
+TY  - BOOK
+A2  - Bay City (Michigan) Public Schools
+T1  - Science units for grade two through eight: book two: light, astronomy, sound
+Y1  - 1958
+D1  - 05/1958
+SP  - 151
+KW  - Science
+PB  - Bay City (Michigan) Public Schools
+CY  - Bay City, MI
+LA  - English
+CN  - 519 .B35s v. 2
+SC  - Michigan
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  - 
+ 
+TY  - BOOK
+A2  - Bay City (Michigan) Public Schools
+T1  - Science units for grade two through eight: book three: air, weather, water
+Y1  - 1958
+D1  - 01/1958
+SP  - 157
+KW  - Science
+PB  - Bay City (Michigan) Public Schools
+CY  - Bay City, MI
+LA  - English
+CN  - 519 .B35s v. 3
+SC  - Michigan
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  - 
+ 
+TY  - BOOK
+A2  - Bay City (Michigan) Public Schools
+T1  - Science units for grade two through eight: book four: conservation of natural resources, geology, machines
+Y1  - 1958
+D1  - 01/1958
+SP  - 172
+KW  - Science
+PB  - Bay City (Michigan) Public Schools
+CY  - Bay City, MI
+LA  - English
+CN  - 519 .B35s v. 4
+SC  - Michigan
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  - 
+ 
+TY  - BOOK
+A2  - Bay City (Michigan) Public Schools
+T1  - Science units for grade two through eight: book five: life of a plant, plants & animals as food, processes of the human body
+Y1  - 1958
+D1  - 01/1958
+SP  - 216
+KW  - Science
+PB  - Bay City (Michigan) Public Schools
+CY  - Bay City, MI
+LA  - English
+CN  - 519 .B35s v. 5
+SC  - Michigan
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  - 
+ 
+TY  - BOOK
+A2  - Beloit (Wisconsin) Public Schools
+T1  - Science: primary grades 1-2-3
+Y1  - 1962
+D1  - 08/1962
+SP  - 51
+KW  - Science
+PB  - Beloit (Wisconsin) Public Schools
+CY  - Beloit, WI
+LA  - English
+CN  - 519 .B45s v. 1
+SC  - Wisconsin
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A1  - Bethke, Gertrude
+A1  - Cass, Betty
+A1  - Kolak, George
+A1  - Linney, Lorraine
+A2  - Beloit (Wisconsin) Public Schools
+T1  - Elementary science: supplement to curriculum bulletins numbers 3 and 4
+Y1  - 1963
+D1  - 06/1963
+SP  - 22
+KW  - Science
+PB  - Beloit (Wisconsin) Public Schools
+CY  - Beloit, WI
+LA  - English
+CN  - 519 .B45s v. 2
+SC  - Wisconsin
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Crean, Francis D.
+A1  - Broadwell, Patrick B.
+A1  - Robinson, F. Willard
+A2  - Beverly Hills (California) High School
+T1  - Survey of modern science 1-2, 1-2h (tentative course of study)
+Y1  - 1964
+D1  - 1964-1965
+SP  - 117
+KW  - Science
+PB  - Beverly Hills (California) High School
+CY  - Beverly Hills, CA
+LA  - English
+CN  - 519 .B57s
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Degray, Oliver
+A1  - Dimond, James
+A1  - Peterson, Charles
+A1  - Tracy, James
+A2  - Bloomington (Minnesota) Public Schools
+T1  - The secondary science curriculum for Bloomington Public Schools
+D1  - 1960s
+SP  - 186
+KW  - Science
+KW  - Curricula
+PB  - Bloomington (Minnesota) Public Schools
+CY  - Bloomington, MN
+LA  - English
+CN  - 519 .B66s
+SC  - Minnesota
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Boston (Massachusetts) Public Schools. School Committee
+T1  - Course of study in general science for junior high schools
+Y1  - 1957
+D1  - 1957
+SP  - 300
+KW  - Science
+N1  - 300 p., 23 cm.
+T2  - Boston (Massachusetts) Public Schools. School document
+V1  - 11
+PB  - Boston (Massachusetts) Public Schools.
+CY  - Boston, MA
+LA  - English
+CN  - 519 .B74c v. 1
+SC  - Massachusetts
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Boston (Massachusetts) Public Schools
+T1  - Curriculum guide in high school science
+Y1  - 1957
+D1  - 1957
+SP  - 64
+KW  - Science
+T2  - Boston (Massachusetts) Public Schools. School document
+V1  - 9
+PB  - Boston (Massachusetts) Public Schools.
+CY  - Boston, MA
+LA  - English
+CN  - 519 .B74c v. 2
+SC  - Massachusetts
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Bridgeport (Connecticut) Public Secondary Schools
+T1  - Syllabi for sciences
+Y1  - 1958
+D1  - 06/1958
+KW  - Science
+N1  - 1 v. (various pagings)
+PB  - Bridgeport (Connecticut) Public Secondary Schools
+CY  - Bridgeport, CT
+LA  - English
+CN  - 519 .B85s
+SC  - Connecticut
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Bridgewater (New Jersey) Township Public Schools
+T1  - Science in our schools: science program for grades seven and eight
+Y1  - 1960
+D1  - 1960
+SP  - 47
+KW  - Science
+PB  - Bridgewater (New Jersey) Township Public Schools
+CY  - Bridgewater, NJ
+LA  - English
+CN  - 519 .B852s
+SC  - New Jersey
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Brookline (Massachusetts) Public Schools
+T1  - Course of study in science, grades 4-6
+Y1  - 1946
+D1  - 06/1946
+SP  - 102
+KW  - Science
+KW  - Curricula
+N1  - 102 p. ; 28 cm.; Note(s): Includes bibliographical references.
+PB  - Brookline (Massachusetts) Public Schools
+CY  - Brookline, MA
+LA  - English
+CN  - 519 .B87c 1946
+SC  - Massachusetts
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Brookline (Massachusetts) Public Schools
+T1  - Course of study in science, grades 7-9
+Y1  - 1955
+D1  - 1955
+SP  - 111
+KW  - Science
+KW  - Curricula
+N1  - 111 p. ; 28 cm.; Note(s): Includes bibliographical references.
+PB  - Brookline (Massachusetts) Public Schools
+CY  - Brookline, MA
+LA  - English
+CN  - 519 .B87c 1955 v. 1
+SC  - Massachusetts
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Brookline (Massachusetts) Public Schools
+T1  - Teachers' supplement to the Course of study in science, grades 7-9
+Y1  - 1955
+D1  - 1955
+SP  - 47
+KW  - Science
+KW  - Curricula
+N1  - 111 p. ; 28 cm.; Note(s): Includes bibliographical references.
+PB  - Brookline (Massachusetts) Public Schools
+CY  - Brookline, MA
+LA  - English
+CN  - 519 .B87c 1955 v. 2
+SC  - Massachusetts
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A1  - Thaw, Richard F.
+A1  - Morlan, John E.
+T1  - Experiences and demonstrations in elementary physical science
+Y1  - 1964
+D1  - 1964
+SP  - 187
+KW  - Science
+KW  - Experiments
+KW  - Juvenile literature
+N1  - 187 p.; Note(s): Includes bibliographies.
+T2  - Education series
+PB  - W.C. Brown Co
+CY  - Dubuque, IA
+LA  - English
+CN  - 519 .B88e
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Broward County (Florida) Secondary Schools
+T1  - Tentative guide for the teaching of science
+Y1  - 1957
+D1  - 1957
+KW  - Science
+N1  - 1 v. (various pagings)
+PB  - Broward County (Florida) Secondary Schools
+LA  - English
+CN  - 519 .B88t
+SC  - Florida
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Buffalo (New York) Board of Education. Division of Secondary Education
+T1  - General science for grade seven
+Y1  - 1954
+D1  - 1954
+KW  - Science
+PB  - Buffalo (New York) Board of Education
+CY  - Buffalo, NY
+LA  - English
+CN  - 519 .B92g v. 1
+SC  - New York
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A2  - Buffalo (New York) Board of Education. Division of Secondary Education
+T1  - Tentative syllabus general science grade eight
+Y1  - 1954
+D1  - 1954
+KW  - Science
+PB  - Buffalo (New York) Board of Education
+CY  - Buffalo, NY
+LA  - English
+CN  - 519 .B92g v. 2
+SC  - New York
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A1  - Pantuso, Raymond J.
+T1  - Personalizing educational prescriptions in science for elementary school children
+Y1  - 1969
+D1  - 04/1969
+KW  - Science
+N1  - 1 v. (various pagings)
+PB  - Bucks County (Pennsylvania) Public Schools
+CY  - Doylestown, PA
+LA  - English
+CN  - 519 .B92p
+SC  - Pennsylvania
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Buffalo (New York) Public Schools
+T1  - Science curriculum guide, grades k-6 (tentative)
+Y1  - 1956
+D1  - 1956
+KW  - Science
+N1  - 1 v. (various pagings)
+PB  - Buffalo (New York) Public Schools
+CY  - Buffalo, NY
+LA  - English
+CN  - 519 .B92s
+SC  - New York
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  -
+
+TY  - BOOK
+A2  - New York State Education Department
+A2  - University of the State of New York
+T1  - A technical high school exploratory course in general science: course outline and general science section
+Y1  - 1954
+D1  - 08/1954
+SP  - 116
+KW  - Science
+PB  - New York State Education Department
+CY  - Albany, NY
+LA  - English
+CN  - 519 .B92t v. 1
+SC  - New York
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New York State Education Department
+A2  - University of the State of New York
+T1  - A technical high school exploratory course in general science: chemistry section
+Y1  - 1954
+D1  - 08/1954
+SP  - 78
+KW  - Science
+PB  - New York State Education Department
+CY  - Albany, NY
+LA  - English
+CN  - 519 .B92t v. 2
+SC  - New York
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Burbank (California) Unified School District
+T1  - Working copy for science in the social studies unit of work, "The general farm", grade 1
+Y1  - 1958
+D1  - 02/1958
+KW  - Social sciences
+KW  - Science
+N1  - 1 v. (various pagings)
+PB  - Burbank (California) Unified School District
+CY  - Burbank, CA
+LA  - English
+CN  - 519 .B94e v. 1
+SC  - California
+G2  - 1st
+ER  - 
+
+TY  - BOOK
+A2  - Burbank (California) Unified School District
+T1  - Working copy for science in the social studies unit of work, "The post office", grades 2 - 3
+Y1  - 1958
+D1  - 02/1958
+KW  - Social sciences
+KW  - Science
+N1  - 1 v. (various pagings)
+PB  - Burbank (California) Unified School District
+CY  - Burbank, CA
+LA  - English
+CN  - 519 .B94e v. 2
+SC  - California
+G2  - 2nd
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - Burbank (California) Unified School District
+T1  - Working copy for science in the social studies unit of work, "How people have pioneered and live now in California and the United State", grades 4 - 5
+Y1  - 1958
+D1  - 02/1958
+KW  - Social sciences
+KW  - Science
+N1  - 1 v. (various pagings)
+PB  - Burbank (California) Unified School District
+CY  - Burbank, CA
+LA  - English
+CN  - 519 .B94e v. 3
+SC  - California
+G2  - 4th
+G2  - 5th
+ER  - 
+
+TY  - BOOK
+A1  - Woodward, Robert L.
+A2  - California State Department of Education
+T1  - Industrial arts and science, applying scientific principles in industrial arts activities
+Y1  - 1962
+D1  - 1962
+SP  - 94
+KW  - Industrial arts
+KW  - Science
+N1  - xvi; ges illustrations 28 cm; Note(s): "Project conducted under National defense education act of 1958; Public law 864 of the 85th Congress."/ Includes bibliographical references.; Responsibility: Robert L. Woodward, project coordinator, consultant.
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 519 .C15i
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California Association of County Superintendents of Schools
+T1  - Implementing the science program in California, grades K-8; series 2: science materials and equipment, grades 1-6
+Y1  - 1967
+D1  - 1967
+SP  - 51
+KW  - Science
+PB  - California Association of County Superintendents of Schools
+CY  - Hayward, CA
+LA  - English
+CN  - 519 .C151i v. 1
+SC  - California
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - California Association of County Superintendents of Schools
+T1  - Implementing the science program in California, grades K-8; series 1: science materials and equipment, grades 7-8
+Y1  - 1967
+D1  - 1967
+SP  - 51
+KW  - Science
+PB  - California Association of County Superintendents of Schools
+CY  - Hayward, CA
+LA  - English
+CN  - 519 .C151i v. 1
+SC  - California
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Bureau of Secondary Education
+T1  - Science instruction in California high schools.
+Y1  - 1955
+D1  - 07/1955
+SP  - 77
+KW  - Science
+N1  - vi; ges ; 23 cm.; Note(s): With : Californians at work / William H. McCreary. Sacramento : California State Department of Education, 1955. Bound together subsequent to publication.; Responsibility: prepared in co-operation with the Subcommittee on Science Instruction of the California Association of Secondary School Curriculum Co-ordinators.
+T2  - Bulletin of the California State Department of Education
+V1  - 24
+IS  - 3
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 519 .C15si
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. State Advisory Committee on Science Education
+T1  - Science framework for California public schools : kindergarten, grades one through twelve
+Y1  - 1970
+D1  - 1970
+SP  - 148
+KW  - Science
+N1  - xii; ill. ; 24 cm.; Note(s): Includes bibliographical references (p. 79-90).; Responsibility: prepared by the California State Advisory Committee on Science Education ; adopted by the California State Board of Education.
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 519 .C15sf
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. State Advisory Committee on Science Instruction in the High Schools
+T1  - Science curriculum development in the secondary schools : a report to the Superintendent of Public Instruction
+Y1  - 1964
+D1  - 04/1964
+SP  - 71
+KW  - Science
+KW  - Curricula
+N1  - ix; ; 28 cm.; Responsibility: by the State Advisory Committee on Science Instruction in the High Schools.
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 519 .C15s v. 2
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Osner, Henry J.
+A1  - Jacobs, Mark
+T1  - Final report of the junior college workshops in physical science
+Y1  - 1961
+D1  - 1961
+SP  - 73
+KW  - Science
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 519 .C15p
+SC  - California
+G1  - Postsecondary
+ER  - 
+
+TY  - BOOK
+A2  - California Association of County Superintendents of Schools
+T1  - Implementing the science program in California, grades K-8; series 5: science resource guide
+Y1  - 1967
+D1  - 1967
+SP  - 50
+KW  - Science
+PB  - California Association of County Superintendents of Schools
+CY  - Hayward, CA
+LA  - English
+CN  - 519 .C151i v. 3
+SC  - California
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - California Association of County Superintendents of Schools
+T1  - Implementing the science program in California, grades K-8; series 3: science library and audio-visual materials, grades K-8
+Y1  - 1967
+D1  - 1967
+SP  - 39
+KW  - Science 
+PB  - California Association of County Superintendents of Schools
+CY  - Hayward, CA
+LA  - English
+CN  - 519 .C151i v. 3
+SC  - California
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - California Association of County Superintendents of Schools
+T1  - Implementing the science program in California, grades K-8; series 4: science guidelines for implementation
+Y1  - 1967
+D1  - 1967
+SP  - 42
+KW  - Science
+PB  - California Association of County Superintendents of Schools
+CY  - Hayward, CA
+LA  - English
+CN  - 519 .C151i v. 4
+SC  - California
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Central New York School Study Council. Committee on the Integrated Science Program K-6
+T1  - Teaching elementary school science : summary of a study committee
+Y1  - 1956
+D1  - 1956
+SP  - 53
+KW  - Science
+N1  - 53 p. ; 28 cm.; Note(s): Cover title./ Includes bibliographical references.; Responsibility: Central New York School Study Council.
+PB  - Central New York School Study Council
+CY  - Syracuse, NY
+LA  - English
+CN  - 519 .C397t
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Chicago (Illinois) Board of Education
+T1  - Curriculum guide for science : general science for the secondary schools
+Y1  - 1966
+D1  - 1966
+SP  - 316
+KW  - Science
+N1  - ill. ; 22 x 28 cm.; Other Titles: General science for the secondary schools
+PB  - Chicago (Illinois) Board of Education
+CY  - Chicago, IL
+LA  - English
+CN  - 519 .C53c v. 1-2
+SC  - Illinois
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Chicago (Illinois) Board of Education
+T1  - Curriculum guide for science: kindergarten-primary 1- primary 2-3
+Y1  - 1966
+D1  - 1966
+KW  - Science
+N1  - 2 v. ill. 28 cm.; Note(s): Revision of Supplement to the Teaching guide for science./ Accompanied by: Independent learning activities for science; Suppl.; Responsibility: Benjamin C. Wills, General Superintendent of Schools.
+PB  - Chicago (Illinois) Board of Education
+CY  - Chicago, IL
+LA  - English
+CN  - 519 .C53c v. 1-2
+SC  - Illinois
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - Chicago (Illinois) Board of Education
+T1  - Independent learning activities for science
+Y1  - 1966
+D1  - 1966
+SP  - 86
+KW  - Science
+AB  - [1] Kindergarten-primary one
+N1  - vi; ill. ; 28 cm.; Note(s): To accompany Curriculum guide for science.
+PB  - Chicago (Illinois) Board of Education
+CY  - Chicago, IL
+LA  - English
+CN  - 519 .C53c v. 1a
+SC  - Illinois
+G2  - Kindergarten
+G2  - 1st
+ER  - 
+
+TY  - BOOK
+A2  - Chicago (Illinois) Board of Education
+T1  - Curriculum guide for science for grades 7 and 8
+Y1  - 1966
+D1  - 1966
+SP  - 377
+KW  - Science
+N1  - xv; ill. ; 21 x 28 cm.; Note(s): Revision of the Supplement to the teaching guide for science./ Includes bibliographical references.; Other Titles: Curriculum guide for science grades 7 and 8
+PB  - Chicago (Illinois) Board of Education
+CY  - Chicago, IL
+LA  - English
+CN  - 519 .C53c v. 4
+SC  - Illinois
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Cincinnati (Ohio) Public Schools
+T1  - General science, junior high school, grade 9
+Y1  - 1958
+D1  - 1958
+SP  - 264
+KW  - Curricula
+KW  - Science
+T2  - Cincinnati (Ohio) Public Schools. Curriculum bulletin
+V1  - 22
+PB  - Cincinnati (Ohio) Public Schools
+CY  - Cincinnati, OH
+LA  - English
+CN  - 519 .C57g
+SC  - Ohio
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Clairton (Pennsylvania) Public Schools
+T1  - Course of study, elementary education: science: 1957-58
+Y1  - 1957
+D1  - 1957-1958
+KW  - Science
+PB  - Clairton (Pennsylvania) Public Schools
+CY  - Clairton, PA
+LA  - English
+CN  - 519 .C58g v. 1
+SC  - Pennsylvania
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Clairton (Pennsylvania) Public Schools
+T1  - Course of study, secondary education: science: 1962-63
+Y1  - 1962
+D1  - 1962-1963
+SP  - 61
+KW  - Science
+PB  - Clairton (Pennsylvania) Public Schools
+CY  - Clairton, PA
+LA  - English
+CN  - 519 .C58g v. 2
+SC  - Pennsylvania
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Clark County (Nevada) School District
+T1  - Junior high school curriculum guide: science
+Y1  - 1958
+D1  - 1958
+SP  - 262
+KW  - Science
+PB  - Clark (Nevada) County School District
+CY  - Las Vegas, NV
+LA  - English
+CN  - 519 .C59j
+SC  - Nevada
+G1  - Middle school
+ER  - 

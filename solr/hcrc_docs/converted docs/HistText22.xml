@@ -1,0 +1,1311 @@
+<add>
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Manitoba Minister of Education</field>
+<field name="title">Curriculum in English for the schools of Manitoba, grades i-vi</field>
+<field name="year">1946</field>
+<field name="date">1946</field>
+<field name="keywords">English language</field>
+<field name="publisher">Manitoba Minister of Education</field>
+<field name="pub_place">Winnipeg, Manitoba</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .M27e</field>
+<field name="state_country">Canada</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Mapleton Public Schools (Denver, Colorado)</field>
+<field name="title">A program in English: a guideline for teaching the language arts, kindergarten
+through grade twelve</field>
+<field name="year">1962</field>
+<field name="date">1962</field>
+<field name="pages">176</field>
+<field name="keywords">Language arts</field>
+<field name="keywords">English language</field>
+<field name="publisher">Mapleton Public Schools</field>
+<field name="pub_place">Denver, CO</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .M29p</field>
+<field name="state_country">Colorado </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Mason City (Iowa) Public Schools. Secondary Department</field>
+<field name="title">Course of study: junior high language arts, grades 7, 8, and 9</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="pages">97</field>
+<field name="keywords">Language arts</field>
+<field name="publisher">Mason City (Iowa) Public Schools</field>
+<field name="pub_place">Mason City, IA</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .M391c v. 1</field>
+<field name="state_country">Iowa</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Mason City (Iowa) Public Schools. Secondary Department</field>
+<field name="title">Course of study: language arts for basic and adjusted classes</field>
+<field name="year">1964</field>
+<field name="date">1964</field>
+<field name="pages">10</field>
+<field name="keywords">Language arts</field>
+<field name="publisher">Mason City (Iowa) Public Schools</field>
+<field name="pub_place">Mason City, IA</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .M391c v. 2</field>
+<field name="state_country">Iowa</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Hughes, Theone</field>
+<field name="author">Malmstrom, Jean</field>
+<field name="title">Who's afraid of linguistics? A manual for elementary school and middle school
+teachers</field>
+<field name="year">1968</field>
+<field name="date">1968</field>
+<field name="pages">52</field>
+<field name="keywords">English language</field>
+<field name="keywords">Linguistics</field>
+<field name="notes">v, 52 p.; Responsibility: edited by Theone Hughes and Jean Malmstrom, under the
+auspices of the language and linguistic study committee of the Michigan Council of Teachers of
+English.</field>
+<field name="publisher">Michigan Council of Teachers of English</field>
+<field name="pub_place">Ann Arbor, MI</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .M61w</field>
+<field name="state_country">Michigan</field>
+<field name="grade_level_group">Elementary</field>
+<field name="grade_level_group">Middle school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Midland (Texas) Independent School District</field>
+<field name="title">The English language, grades 1-12</field>
+<field name="year">1962</field>
+<field name="date">1962</field>
+<field name="pages">196</field>
+<field name="keywords">English language</field>
+<field name="publisher">Midland (Texas) Independent School District</field>
+<field name="pub_place">Midland, TX</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .M63e</field>
+<field name="state_country">Texas </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Minneapolis (Minnesota) Senior High Schools</field>
+<field name="title">Language arts in the educational program</field>
+<field name="year">1954</field>
+<field name="date">1954-1956</field>
+<field name="pages">46</field>
+<field name="edition">Teacher edition</field>
+<field name="keywords">Language arts</field>
+<field name="publisher">Minneapolis (Minnesota) Senior High Schools</field>
+<field name="pub_place">Minneapolis, MN</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .M65L</field>
+<field name="state_country">Minnesota</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Minnetonka School District 276 (Excelsior, Minnesota)</field>
+<field name="title">Quarter units in English proposed for grades 10, 11, and 12</field>
+<field name="year">1968</field>
+<field name="date">06/1968</field>
+<field name="pages">137</field>
+<field name="keywords">English language</field>
+<field name="publisher">Minnetonka School District 276</field>
+<field name="pub_place">Excelsior, MN</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .M66e v. 1</field>
+<field name="state_country">Minnesota</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Minnetonka School District 276 (Excelsior, Minnesota)</field>
+<field name="title">Quarter units in English proposed for grades 10, 11, and 12</field>
+<field name="year">1969</field>
+<field name="date">01/1969</field>
+<field name="keywords">English language</field>
+<field name="publisher">Minnetonka School District 276</field>
+<field name="pub_place">Excelsior, MN</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .M66e v. 2</field>
+<field name="state_country">Minnesota</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Memphis (Tennessee) City School System</field>
+<field name="title">A suggested guide for developing the language arts - social studies program :
+grade 8</field>
+<field name="year">1969</field>
+<field name="date">1969</field>
+<field name="pages">135</field>
+<field name="keywords">Language arts</field>
+<field name="keywords">Social sciences</field>
+<field name="notes">vii; ; 22 x 28 cm.; Note(s): Includes bibliographical references.</field>
+<field name="publisher">Memphis (Tennessee) City Schools</field>
+<field name="pub_place">Memphis, TN</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .M53s</field>
+<field name="state_country">Tennessee</field>
+<field name="grade_level_number">8th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Merced (California) City Schools</field>
+<field name="title">Language arts: curriculum guide eighth grade</field>
+<field name="year">1956</field>
+<field name="date">09/1956</field>
+<field name="keywords">Language arts</field>
+<field name="keywords">Curricula</field>
+<field name="publisher">Merced (California) City Schools</field>
+<field name="pub_place">Merced, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .M55L</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">8th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Merced (California) Union High School District</field>
+<field name="title">English course of study</field>
+<field name="year">1961</field>
+<field name="date">Summer, 1961</field>
+<field name="pages">426</field>
+<field name="keywords">English language</field>
+<field name="keywords">Curricula</field>
+<field name="publisher">Merced (California) City Schools</field>
+<field name="pub_place">Merced, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .M553e</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">8th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Mississippi State Department of Education</field>
+<field name="title">Communication series, English, grades 7-12</field>
+<field name="year">1957</field>
+<field name="date">03/1957</field>
+<field name="pages">164</field>
+<field name="keywords">English language</field>
+<field name="keywords">Communication</field>
+<field name="notes">164 p. ; 23 cm.; Note(s): Includes bibliographical references.</field>
+<field name="series_title">Mississippi school bulletin</field>
+<field name="series_vol">145</field>
+<field name="publisher">Mississippi State Department of Education</field>
+<field name="pub_place">Jackson, MS</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .M67c</field>
+<field name="state_country">Mississippi</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Mississippi State Department of Education. Division of Instruction</field>
+<field name="title">English curriculum guide for Mississippi schools, grades 7-12</field>
+<field name="year">1969</field>
+<field name="date">1969</field>
+<field name="pages">141</field>
+<field name="keywords">Curricula</field>
+<field name="keywords">English language</field>
+<field name="notes">141 pages 28 cm.; Note(s): With : World history. Jackson : Mississippi. Division
+of Instruction, 1968. Bound together subsequent to publication./ Includes bibliographical references
+(pages 93-102).</field>
+<field name="series_title">Mississippi.; Department of Education.; Bulletin</field>
+<field name="series_vol">169</field>
+<field name="publisher">Mississippi State Department of Education. Division of Instruction</field>
+<field name="pub_place">Jackson, MS</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .M67e</field>
+<field name="state_country">Mississippi</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Missouri State Department of Education</field>
+<field name="title">Language arts curriculum guide : grades seven, eight and nine. 1957 tentative
+report</field>
+<field name="year">1957</field>
+<field name="date">1957</field>
+<field name="pages">124</field>
+<field name="keywords">English language</field>
+<field name="keywords">Curricula</field>
+<field name="notes">x; ges ; 28 cm.; Note(s): Includes bibliographical references and index.</field>
+<field name="series_title">Missouri State Department of Education. Publication</field>
+<field name="series_vol">108-G</field>
+<field name="publisher">Kelly Press</field>
+<field name="pub_place">Columbia, MO</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .M671g v. 1</field>
+<field name="state_country">Missouri</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Modesto (California) Public Schools</field>
+<field name="title">English course of study: ninth year</field>
+<field name="year">1951</field>
+<field name="date">1951</field>
+<field name="keywords">English language</field>
+<field name="publisher">Modesto (California) Public Schools</field>
+<field name="pub_place">Modesto, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .M69ea</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">9th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Spelts, Edna M.</field>
+<field name="author">Ritter, Mary S.</field>
+<field name="title">Tentative outline experimental course, English iii</field>
+<field name="year">1955</field>
+<field name="date">1955-56</field>
+<field name="pages">68</field>
+<field name="keywords">English language</field>
+<field name="publisher">Modesto (California) City Schools. Secondary schools</field>
+<field name="pub_place">Modesto, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .M69en</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Modesto (California) City Schools. Curriculum Department. Secondary
+Schools Division</field>
+<field name="title">English i, ii (h,x,y,z)</field>
+<field name="year">1963</field>
+<field name="date">1963-1964</field>
+<field name="pages">24</field>
+<field name="keywords">English language</field>
+<field name="publisher">Modesto (California) City Schools</field>
+<field name="pub_place">Modesto, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .M69 eng v. 1</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Modesto (California) City Schools. Curriculum Department. Secondary
+Schools Division</field>
+<field name="title">English iii, iv (h,x,y,z)</field>
+<field name="year">1963</field>
+<field name="date">1963-1964</field>
+<field name="pages">20</field>
+<field name="keywords">English language</field>
+<field name="publisher">Modesto (California) City Schools</field>
+<field name="pub_place">Modesto, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .M69 eng v. 2</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Modesto (California) City Schools. Curriculum Department. Secondary
+Schools Division</field>
+<field name="title">English v, vi (h,x,y,z)</field>
+<field name="year">1963</field>
+<field name="date">1963-1964</field>
+<field name="pages">22</field>
+<field name="keywords">English language</field>
+<field name="publisher">Modesto (California) City Schools</field>
+<field name="pub_place">Modesto, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .M69 eng v. 3</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Modesto (California) Secondary Schools</field>
+<field name="title">Language arts guidebook</field>
+<field name="year">1958</field>
+<field name="date">1958-1959</field>
+<field name="keywords">Language arts</field>
+<field name="publisher">Modesto (California) Secondary Schools</field>
+<field name="pub_place">Modesto, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .M689L</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Montgomery County (Maryland) Board of Education</field>
+<field name="title">English language arts ; course of study (secondary level)</field>
+<field name="year">1966</field>
+<field name="date">1966</field>
+<field name="keywords">Language arts</field>
+<field name="keywords">English language</field>
+<field name="notes">2 v. (loose-leaf) ; 30 cm.; Note(s): Cover title.; Responsibility: Montgomery
+County Public Schools.</field>
+<field name="publisher">Montgomery County (Maryland) Public Schools</field>
+<field name="pub_place">Rockville, MD</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .M78e v. 1-2</field>
+<field name="state_country">Maryland</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Montgomery County (Maryland) Public Schools</field>
+<field name="title">Preliminary report on curriculum in English</field>
+<field name="year">1962</field>
+<field name="date">05/1962</field>
+<field name="keywords">Curricula</field>
+<field name="keywords">English language</field>
+<field name="publisher">Montgomery County (Maryland) Public Schools</field>
+<field name="pub_place">Rockville, MD</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .M78p</field>
+<field name="state_country">Maryland </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Burrows, Alvina Treut</field>
+<field name="author">Chase, Naomi</field>
+<field name="author">Crosby, Muriel</field>
+<field name="author">McCullough, Constance</field>
+<field name="author">Wilt, Miriam E.</field>
+<field name="corp_author">National Council of Teachers of English. Elementary Section
+Committee</field>
+<field name="title">Creative ways in teaching the language arts. A portfolio of elementary classroom
+procedures</field>
+<field name="year">1957</field>
+<field name="date">1957</field>
+<field name="keywords">English language</field>
+<field name="keywords">Language arts</field>
+<field name="notes">14 leaflets (in portfolio) 26 cm.; Note(s): Articles appeared previously in
+"Elementary English."; Responsibility: [by] Alvina T. Burrows and others.</field>
+<field name="publisher">National Council of Teachers of English</field>
+<field name="pub_place">Champaign, IL</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .N277c</field>
+<field name="grade_level_group">Elementary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Carruthers, Robert B.</field>
+<field name="corp_author">National Council of Teachers of English</field>
+<field name="title">Building better English tests ; a guide for teachers of English in the secondary
+school.</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="pages">32</field>
+<field name="keywords">English language</field>
+<field name="keywords">Examinations</field>
+<field name="notes">32 p.; Other Titles: Guide for teachers of English in the Secondary school;
+Responsibility: Robert B. Carruthers.</field>
+<field name="publisher">National Council of Teachers of English</field>
+<field name="pub_place">Champaign, IL</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .N277bu</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Journal</field>
+<field name="corp_author">National Council of Teachers of English</field>
+<field name="title">Classroom practices in teaching English : a report of the NCTE Committee to
+Report Promising Practices in the Teaching of English</field>
+<field name="year">1965</field>
+<field name="date">1965-1978</field>
+<field name="keywords">English language</field>
+<field name="keywords">Language arts</field>
+<field name="notes">Frequency: Annual; 3rd (1965-66)-; Ceased with v. 32.; v. ; 23 cm; Note(s): Each
+issue also has a distinctive title, 1970/1971-/ Issued by NCTE Committee to Report Promising
+Practices in the Teaching of English, 1965/66-1968/1969; by National Council of Teachers of English,
+Committee on Classroom Practices, 1969/1970-</field>
+<field name="publisher">National Council of Teachers of English</field>
+<field name="pub_place">Champaign, Ill</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .N277cL v. 3-15 </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Evertts, Eldonna L.</field>
+<field name="corp_author">National Council of Teachers of English</field>
+<field name="title">Dimensions of dialect</field>
+<field name="year">1967</field>
+<field name="date">1967</field>
+<field name="pages">76</field>
+<field name="keywords">English language</field>
+<field name="keywords">Dialects</field>
+<field name="notes">76 p. illus. 25 cm.; Note(s): Includes bibliographies.; Responsibility: Eldonna
+L. Evertts, editor.</field>
+<field name="publisher">National Council of Teachers of English</field>
+<field name="pub_place">Champaign, IL</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .N277d</field>
+<field name="grade_level_group">Elementary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Haugh, Oscar M.</field>
+<field name="corp_author">National Council of Teachers of English. Committee on Methods of Working
+with the Public</field>
+<field name="title">Informing the public about the English language arts</field>
+<field name="year">1961</field>
+<field name="date">1961</field>
+<field name="pages">46</field>
+<field name="keywords">English language</field>
+<field name="keywords">Schools</field>
+<field name="keywords">Public relations</field>
+<field name="notes">46 p. ill. 23 cm.; Note(s): Includes bibliographical references.;
+Responsibility: A report by the Committee on Methods of Working with the Public of the National
+Council of Teachers of English. Oscar M. Haugh, Chairman.</field>
+<field name="publisher">National Council of Teachers of English</field>
+<field name="pub_place">Champaign, IL</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .N277i </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">National Council of Teachers of English. Commission on the English
+Curriculum</field>
+<field name="title">English curriculum development projects; a representative collection</field>
+<field name="year">1968</field>
+<field name="date">11/1968</field>
+<field name="pages">42</field>
+<field name="keywords">English language</field>
+<field name="keywords">Curriculum change</field>
+<field name="notes">viii; 21 cm.; Note(s): The second in a series of reports on the development of
+English programs, the 1st was issued in 1966 under title: Summary progress report of English
+curriculum study and demonstration centers.; Responsibility: reported by the NCTE Commission on the
+English Curriculum.</field>
+<field name="publisher">National Council of Teachers of English</field>
+<field name="pub_place">Champaign, IL</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .N277ec </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">National Council of Teachers of English. Committee on High School-College
+Articulation</field>
+<field name="title">High school-college articulation of English</field>
+<field name="year">1963</field>
+<field name="date">1961-1963</field>
+<field name="pages">44</field>
+<field name="keywords">English language</field>
+<field name="keywords">Composition and exercises</field>
+<field name="notes">iii; ; 24 cm; Note(s): Reprinted from the English journal and College English.;
+Responsibility: prepared by the Committee on High School-College Articulation.</field>
+<field name="publisher">National Council of Teachers of English</field>
+<field name="pub_place">Champaign, IL</field>
+<field name="language">English</field>
+<field name="call_number">428.2 N277h</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Gerbrandt, Gary L.</field>
+<field name="title">An idea book for acting out and writing language, K-8</field>
+<field name="year">1974</field>
+<field name="date">1974</field>
+<field name="pages">68</field>
+<field name="keywords">Language arts</field>
+<field name="keywords">Group work in education</field>
+<field name="keywords">English language</field>
+<field name="keywords">Composition and exercises</field>
+<field name="notes">ix; 29 cm.; Note(s): Bibliography: p. 67-68.; Responsibility: [by] Gary L.
+Gerbrandt.</field>
+<field name="publisher">National Council of Teachers of English</field>
+<field name="pub_place">Urbana, IL</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .N277ib</field>
+<field name="grade_level_number">Kindergarten</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">National Council of Teachers of English</field>
+<field name="title">NCTE guide to teaching materials for English ; grades 7-12 : Supplement</field>
+<field name="year">1975</field>
+<field name="date">1975</field>
+<field name="keywords">English language</field>
+<field name="keywords">Bibliography</field>
+<field name="notes">v. ; 23 cm.; Note(s): "An annotated listing of textbooks and related materials
+for secondary schools prepared by the NCTE staff."</field>
+<field name="publisher">National Council of Teachers of English</field>
+<field name="pub_place">Urbana, IL</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .N277n</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Ohmann, Richard M.</field>
+<field name="author">Coley, W. B.</field>
+<field name="corp_author">National Council of Teachers of English</field>
+<field name="title">Ideas for English 101 : teaching writing in college</field>
+<field name="year">1975</field>
+<field name="date">1975</field>
+<field name="pages">234</field>
+<field name="keywords">English language</field>
+<field name="keywords">Rhetoric</field>
+<field name="keywords">Report writing</field>
+<field name="notes">vi; ill. ; 25 cm.; Note(s): "The articles in this collection appeared originally
+in various issues, from March 1967 to January 1975, of College English."; Other Titles: College
+English.; Responsibility: edited by Richard Ohmann and W.B. Coley.</field>
+<field name="publisher">National Council of Teachers of English</field>
+<field name="pub_place">Urbana, IL</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .N277ie</field>
+<field name="grade_level_group">Postsecondary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Stryker, David</field>
+<field name="corp_author">National Council of Teachers of English</field>
+<field name="title">Method in the teaching of English : selected addresses delivered at the 5th
+Conference on English Education, University of Georgia, March 30-April l, 1967</field>
+<field name="year">1967</field>
+<field name="date">1967</field>
+<field name="pages">81</field>
+<field name="keywords">English teachers</field>
+<field name="keywords">English language</field>
+<field name="notes">81 p. ; 24 cm.; Note(s): Includes bibliographical references.; Responsibility:
+David Stryker, editor.</field>
+<field name="series_title">Conference on English Education (5th : 1967 : University of Georgia);
+Fifth Conference on English Education, March 30-April 1, 1967. Selected addresses.</field>
+<field name="publisher">National Council of Teachers of English</field>
+<field name="pub_place">Champaign, IL</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .N277m </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Elgin, Suzette Haden</field>
+<field name="title">A primer of transformational grammar for rank beginners</field>
+<field name="year">1975</field>
+<field name="date">1975</field>
+<field name="pages">25</field>
+<field name="keywords">Generative grammar</field>
+<field name="notes">25 p. ; 22 cm.; Note(s): Bibliography: p. 25.; Responsibility: Suzette Haden
+Elgin.</field>
+<field name="publisher">National Council of Teachers of English</field>
+<field name="pub_place">Urbana, IL</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .N277p </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">National Council of Teachers of English. Commission on Composition</field>
+<field name="title">The student's right to write and composition opinionnaire to the student's right
+to write</field>
+<field name="year">1971</field>
+<field name="date">1971?</field>
+<field name="pages">91</field>
+<field name="keywords">English language</field>
+<field name="keywords">Rhetoric</field>
+<field name="series_title">Educational Resources Information Center. Reports</field>
+<field name="publisher">National Council of Teachers of English</field>
+<field name="pub_place">Bethesda, MD</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .N277ss </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">National Council of Teachers of English</field>
+<field name="corp_author">Modern Language Association of America</field>
+<field name="title">Source book on English institutes for elementary teachers</field>
+<field name="year">1965</field>
+<field name="date">1965</field>
+<field name="pages">111</field>
+<field name="keywords">Children's literature</field>
+<field name="keywords">English language</field>
+<field name="notes">111 p. 24 cm.; Note(s): Cover title./ Distribution sponsored jointly by National
+Council of Teachers of English and Modern Language Association of America./ Includes bibliographical
+references.; Other Titles: English institutes for elementary teachers.</field>
+<field name="publisher">Modern Language Association of America</field>
+<field name="pub_place">New York, NY</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .N277so</field>
+<field name="grade_level_group">Elementary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Staiger, Ralph C.</field>
+<field name="author">Strom, Ingrid M.</field>
+<field name="author">Petty, Walter T.</field>
+<field name="corp_author">National Council of Teachers of English</field>
+<field name="title">A summary of research in the English language arts - elementary and secondary
+1961-1962</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="pages">45</field>
+<field name="keywords">English language</field>
+<field name="keywords">Language arts</field>
+<field name="notes">45 p.; Note(s): Reprinted from Elementary English, April 1963./ Cover title./
+Includes bibliographical references.; Responsibility: [by] Ralph Staiger, Ingrid Strom [and] Walter
+T. Petty.</field>
+<field name="publisher">National Council of Teachers of English</field>
+<field name="pub_place">Champaign, IL</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .N277s </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">National Council of Teachers of English. Commission on the English
+Curriculum</field>
+<field name="title">Summary progress report of English curriculum study and demonstration
+centers</field>
+<field name="year">1966</field>
+<field name="date">11/1966</field>
+<field name="pages">44</field>
+<field name="keywords">English philology</field>
+<field name="keywords">Curricula</field>
+<field name="notes">44 p. 25 cm.; Other Titles: English curriculum study and demonstration
+centers.</field>
+<field name="publisher">National Council of Teachers of English</field>
+<field name="pub_place">Champaign, IL</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .N277su</field>
+<field name="grade_level_group">Postsecondary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Nebraska Curriculum Development Center</field>
+<field name="title">A curriculum for English. Teacher packet: satiric fable: The wind in the
+willows</field>
+<field name="year">1965</field>
+<field name="date">1965</field>
+<field name="keywords">Literature</field>
+<field name="keywords">English language</field>
+<field name="publisher">University of Nebraska</field>
+<field name="pub_place">Lincoln, NE</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .N35c v. 6</field>
+<field name="grade_level_number">6th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Nebraska Curriculum Development Center</field>
+<field name="title">A Curriculum for English. Student packet. Words and their meanings</field>
+<field name="year">1965</field>
+<field name="date">1965</field>
+<field name="keywords">English language</field>
+<field name="keywords">Literature</field>
+<field name="publisher">Nebraska Curriculum Development Center</field>
+<field name="pub_place">Lincoln, NE</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .N35c v. 8</field>
+<field name="grade_level_number">8th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Nebraska Curriculum Development Center</field>
+<field name="title">A Curriculum for English. Student packet. The rhetoric of short units of the
+composition. A. The rhetoric of the sentence</field>
+<field name="year">1965</field>
+<field name="date">1965</field>
+<field name="pages">126</field>
+<field name="keywords">English language</field>
+<field name="keywords">Literature</field>
+<field name="keywords">Rhetoric</field>
+<field name="publisher">Nebraska Curriculum Development Center</field>
+<field name="pub_place">Lincoln, NE</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .N35c v. 10</field>
+<field name="grade_level_number">10th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Nebraska Curriculum Development Center</field>
+<field name="title">A Curriculum for English. Student packet. Syntax and the rhetoric of the
+sentence</field>
+<field name="year">1965</field>
+<field name="date">1965</field>
+<field name="keywords">English language</field>
+<field name="keywords">Literature</field>
+<field name="keywords">Syntax</field>
+<field name="publisher">Nebraska Curriculum Development Center</field>
+<field name="pub_place">Lincoln, NE</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .N35c v. 11a</field>
+<field name="grade_level_number">9th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Nebraska Curriculum Development Center</field>
+<field name="title">A Curriculum for English. Teacher packet. Syntax and the rhetoric of the
+sentence</field>
+<field name="year">1965</field>
+<field name="date">1965</field>
+<field name="keywords">English language</field>
+<field name="keywords">Literature</field>
+<field name="keywords">Syntax</field>
+<field name="publisher">Nebraska Curriculum Development Center</field>
+<field name="pub_place">Lincoln, NE</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .N35c v. 11b</field>
+<field name="grade_level_number">9th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Pike, Kenneth L.</field>
+<field name="author">English, Hubert M.</field>
+<field name="author">Howes, Alan B.</field>
+<field name="corp_author">National Council of Teachers of English</field>
+<field name="title">Tagmemics; the study of units beyond the sentence</field>
+<field name="year">1964</field>
+<field name="date">1964</field>
+<field name="keywords">Literary style</field>
+<field name="keywords">English language</field>
+<field name="keywords">Composition and exercises</field>
+<field name="abstract">"A linguistic contribution to composition," and "Beyond the sentence", by
+Kenneth L. Pike.--"Lingustic theory as an aid to invention.", by Hubert M. English.--"A linguistic
+analogy in literary criticism", by Alan B. Howes.</field>
+<field name="notes">24 p. 24 cm.; Note(s): "Reprinted from College Composition and Communication,
+May and October, 1964."; Responsibility: by Kenneth L. Pike, Hubert M. English [and] Alan B. Howes. </field>
+<field name="publisher">National Council of Teachers of English</field>
+<field name="pub_place">Chicago, IL</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .N277st </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Nederland (Texas) Independent School District</field>
+<field name="title">The humanities program for grades 6 &amp;7 : an approach to individualization of
+instruction in language arts and social studies for Central Junior High School and C.O. Wilson
+Junior High School</field>
+<field name="year">1966</field>
+<field name="date">08/1966</field>
+<field name="keywords">Language arts</field>
+<field name="keywords">Social sciences</field>
+<field name="keywords">Curriculum planning</field>
+<field name="keywords">Schools</field>
+<field name="keywords">Curricula</field>
+<field name="notes">1 v. (unpaged) ; 28 cm.; Note(s): Cover title./ Includes bibliographical
+references.</field>
+<field name="edition">Rev. ed., 1966</field>
+<field name="publisher">Nederland Independent School District</field>
+<field name="pub_place">Nederland, TX</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .N37L v. 2</field>
+<field name="state_country">Texas</field>
+<field name="grade_level_number">6th grade</field>
+<field name="grade_level_number">7th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Nederland (Texas) Independent School District</field>
+<field name="title">Language arts for grades 8, 9, 10, 11, &amp;12 : an approach to
+individualization of instruction in language arts at Central Junior High School, C.O. Wilson Junior
+High School, Nederland High School</field>
+<field name="year">1966</field>
+<field name="date">08/1966</field>
+<field name="keywords">Language arts</field>
+<field name="keywords">Curriculum planning</field>
+<field name="keywords">Schools</field>
+<field name="keywords">Curricula</field>
+<field name="notes">1 v. (unpaged) ; 37 cm.; Note(s): Includes bibliographical references.</field>
+<field name="edition">Rev. ed.</field>
+<field name="publisher">Nederland Independent School District</field>
+<field name="pub_place">Nederland, TX</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .N37L v. 2</field>
+<field name="state_country">Texas</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">New York (New York) Board of Education</field>
+<field name="title">Reading list for the theme center "The individual as a member of the group"
+including a list of suggested films</field>
+<field name="year">1958</field>
+<field name="date">05/1958</field>
+<field name="pages">64</field>
+<field name="keywords">Curricula</field>
+<field name="series_title">Curriculum research report</field>
+<field name="publisher">New York (New York) Board of Education</field>
+<field name="pub_place">New York, NY</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .N531L v. 2a</field>
+<field name="state_country">New York </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">New York (New York) Board of Education</field>
+<field name="title">English-speech language arts for senior high schools</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="pages">100</field>
+<field name="keywords">English language</field>
+<field name="series_title">New York (New York) Board of Education; Curriculum bulletin, 1955-56
+series</field>
+<field name="series_vol">12</field>
+<field name="publisher">New York (New York) Board of Education</field>
+<field name="pub_place">New York, NY</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .N531L v. 2</field>
+<field name="state_country">New York</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">New York (New York) Board of Education</field>
+<field name="title">Oral and written communication, grades 1-6</field>
+<field name="year">1959</field>
+<field name="date">06/1959</field>
+<field name="pages">112</field>
+<field name="keywords">English language</field>
+<field name="keywords">Oral communication</field>
+<field name="keywords">Communication</field>
+<field name="keywords">Curricula</field>
+<field name="keywords">Writing</field>
+<field name="notes">ix; ill. ; 23 cm.; Note(s): Includes bibliographical references.</field>
+<field name="series_title">Curriculum bulletin (New York (N.Y.) ;; 1958-59 ser., </field>
+<field name="series_vol">9</field>
+<field name="publisher">New York (New York) Board of Education</field>
+<field name="pub_place">New York, NY</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .N531o</field>
+<field name="state_country">New York</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of the State of New York. Bureau of Elementary Curriculum
+Development</field>
+<field name="title">Everyday writing : the language arts curriculum</field>
+<field name="year">1959</field>
+<field name="date">1959</field>
+<field name="pages">59</field>
+<field name="keywords">English language</field>
+<field name="keywords">Composition and exercises</field>
+<field name="notes">59 p. ; 23 cm.; Note(s): Includes bibliographical references (p. 58-59).</field>
+<field name="publisher">University of the State of New York, State Education Department</field>
+<field name="pub_place">Albany, NY</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .N532ew</field>
+<field name="state_country">New York </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of the State of New York. Bureau of Secondary Curriculum
+Development</field>
+<field name="title">High adventure; a resource unit for junior high school English</field>
+<field name="year">1961</field>
+<field name="date">1961</field>
+<field name="pages">72</field>
+<field name="keywords">English language</field>
+<field name="notes">72 p. 23 cm.; Note(s): Bibliography: p. 54-72.</field>
+<field name="series_title">English curriculum series</field>
+<field name="publisher">University of the State of New York. Bureau of Secondary Curriculum
+Development</field>
+<field name="pub_place">Albany, NY</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .N532h</field>
+<field name="state_country">New York</field>
+<field name="grade_level_group">Middle school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of the State of New York. Curriculum Development Center</field>
+<field name="title">English language arts: reading section k-12</field>
+<field name="year">1968</field>
+<field name="date">1968</field>
+<field name="pages">79</field>
+<field name="keywords">Language arts</field>
+<field name="keywords">English language</field>
+<field name="keywords">Curriculum planning</field>
+<field name="notes">v. 28 cm.</field>
+<field name="publisher">University of the State of New York. Curriculum Development Center</field>
+<field name="pub_place">Albany, NY</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .N532el</field>
+<field name="state_country">New York </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of the State of New York</field>
+<field name="title">The language arts; a handbook for teachers in elementary schools, Kindergarten,
+grades 1-6</field>
+<field name="year">1961</field>
+<field name="date">1961</field>
+<field name="pages">262</field>
+<field name="keywords">Language arts</field>
+<field name="keywords">Reading</field>
+<field name="keywords">Literature</field>
+<field name="notes">262 p. ill. 23 x 14 cm.</field>
+<field name="publisher">University of the State of New York</field>
+<field name="pub_place">Albany, NY</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .N532L 1961</field>
+<field name="state_country">New York</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of the State of New York. Bureau of Elementary Curriculum
+Development</field>
+<field name="title">The language arts, a handbook for teachers in elementary schools; kindergarten,
+grades 1-6</field>
+<field name="year">1950</field>
+<field name="date">01/1950</field>
+<field name="pages">271</field>
+<field name="keywords">English language</field>
+<field name="keywords">Reading</field>
+<field name="notes">271 p. illus. 23 cm.; Note(s): Issued by the bureau under its earlier name:
+Bureau of Curriculum Development, Division of Elementary Education, New York State Education Dept./
+Includes bibliographies.</field>
+<field name="series_title">New York (State) University. Bulletin</field>
+<field name="series_vol">1384</field>
+<field name="edition">Rev. ed.</field>
+<field name="publisher">University of the State of New York. Bureau of Elementary Curriculum
+Development</field>
+<field name="pub_place">Albany, NY</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .N532L</field>
+<field name="state_country">New York</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of the State of New York. Bureau of Secondary Curriculum
+Development</field>
+<field name="title">The humanities; a planning guide for teachers</field>
+<field name="year">1966</field>
+<field name="date">1966</field>
+<field name="pages">171</field>
+<field name="keywords">Humanities</field>
+<field name="keywords">High school teachers</field>
+<field name="notes">xii; illus. 28 cm.; Note(s): Includes bibliographies./ Also issued
+online.</field>
+<field name="publisher">University of the State of New York. Bureau of Secondary Curriculum
+Development</field>
+<field name="pub_place">Albany, NY</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .N532hu</field>
+<field name="state_country">New York</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of the State of New York. Bureau of Secondary Curriculum
+Development</field>
+<field name="title">Syllabus in English for secondary schools, grades 7-12</field>
+<field name="year">1957</field>
+<field name="date">1957</field>
+<field name="pages">288</field>
+<field name="keywords">English language</field>
+<field name="keywords">English literature</field>
+<field name="keywords">American literature</field>
+<field name="notes">288 p. illus. 23 cm.; Note(s): "Reprint of the syllabus originally issued in
+1935" by the University of the State of New York./ Includes bibliography.</field>
+<field name="publisher">University of the State of New York. Bureau of Secondary Curriculum
+Development</field>
+<field name="pub_place">Albany, NY</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .N532s 1957</field>
+<field name="state_country">New York</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of the State of New York. Bureau of Secondary Curriculum
+Development</field>
+<field name="title">Syllabus in English for secondary schools, grades 7-12</field>
+<field name="year">1960</field>
+<field name="date">1960</field>
+<field name="pages">219</field>
+<field name="keywords">English language</field>
+<field name="keywords">English literature</field>
+<field name="keywords">American literature</field>
+<field name="publisher">University of the State of New York. Bureau of Secondary Curriculum
+Development</field>
+<field name="pub_place">Albany, NY</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .N532s 1960</field>
+<field name="state_country">New York</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Corbin, Richard K.</field>
+<field name="title">Research paper project : a series of worksheets for use in the senior high
+school</field>
+<field name="year">1961</field>
+<field name="date">1961</field>
+<field name="pages">12</field>
+<field name="keywords">English language</field>
+<field name="keywords">Composition and exercises</field>
+<field name="notes">ill., 28 cm.</field>
+<field name="series_title">New York State English Council. Monograph</field>
+<field name="series_vol">1</field>
+<field name="edition">Rev.</field>
+<field name="publisher">New York State English Council</field>
+<field name="pub_place">Oswego, NY </field>
+<field name="language">English</field>
+<field name="call_number">428.2 .N533r</field>
+<field name="state_country">New York</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">DeLancey, Robert W.</field>
+<field name="title">Linguistics and teaching; a manual of classroom practices</field>
+<field name="year">1965</field>
+<field name="date">1965</field>
+<field name="pages">80</field>
+<field name="keywords">English language</field>
+<field name="keywords">Grammar</field>
+<field name="keywords">Linguistics</field>
+<field name="notes">80 p. ill. 22 cm.; Note(s): Includes bibliographical references.;
+Responsibility: [by] Robert W. DeLancey.</field>
+<field name="series_title">New York State English Council. Monograph</field>
+<field name="series_vol">9</field>
+<field name="publisher">New York State English Council</field>
+<field name="pub_place">Syracuse, NY</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .N533L</field>
+<field name="state_country">New York </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Moffat, John L.</field>
+<field name="title">A guide to study : a bulletin for schools</field>
+<field name="year">1971</field>
+<field name="date">1971</field>
+<field name="pages">56</field>
+<field name="keywords">Study skills</field>
+<field name="notes">ill.; Responsibility: John L. Moffat ; illustrated by Graham Percy.</field>
+<field name="publisher">Dept. of Education, Schools Publications Branch</field>
+<field name="pub_place">Wellington, NZ</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .N54g</field>
+<field name="state_country">New Zealand </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Wade, Durlyn E.</field>
+<field name="title">Class size and teacher load in high school English : research project</field>
+<field name="year">1964</field>
+<field name="date">1964</field>
+<field name="pages">51</field>
+<field name="keywords">English language</field>
+<field name="keywords">Student-teacher ratio</field>
+<field name="notes">51 p.; Responsibility: New York State English Council. Comp. and written by D.E.
+Wade.</field>
+<field name="series_title">Monograph / New York State English Council</field>
+<field name="series_vol">8</field>
+<field name="publisher">New York State English Council</field>
+<field name="pub_place">Geneseo, NY</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .N533c</field>
+<field name="state_country">New York</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Newark (Delaware) Special School District</field>
+<field name="title">Language arts curriculum guide; grades 1-12</field>
+<field name="year">1966</field>
+<field name="date">06/1966</field>
+<field name="keywords">Language arts</field>
+<field name="keywords">Curricula</field>
+<field name="notes">1 v. (various pagings) 30 cm.; Note(s): Supplement bound at end.</field>
+<field name="publisher">Newark (Delaware) Special School District</field>
+<field name="pub_place">Newark, DE</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .N55c</field>
+<field name="state_country">Delaware </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Newton (Massachusetts) Public Schools</field>
+<field name="title">Guide to the teaching of written expression: elementary grades</field>
+<field name="year">1957</field>
+<field name="date">09/1957</field>
+<field name="pages">154</field>
+<field name="keywords">Writing</field>
+<field name="series_title">Newton (Massachusetts) Public Schools. Bulletin</field>
+<field name="series_vol">4</field>
+<field name="edition">Rev.</field>
+<field name="publisher">Newton (Massachusetts) Public Schools</field>
+<field name="pub_place">Newton, MA</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .N56c v. 1</field>
+<field name="state_country">Massachusetts</field>
+<field name="grade_level_group">Elementary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Newton (Massachusetts) Public Schools</field>
+<field name="title">Guide to the teaching of written expression: junior high school level</field>
+<field name="year">1956</field>
+<field name="date">05/1956</field>
+<field name="pages">182</field>
+<field name="keywords">Writing</field>
+<field name="series_title">Newton (Massachusetts) Public Schools. Bulletin</field>
+<field name="series_vol">3</field>
+<field name="edition">Rev.</field>
+<field name="publisher">Newton (Massachusetts) Public Schools</field>
+<field name="pub_place">Newton, MA</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .N56c v. 2</field>
+<field name="state_country">Massachusetts</field>
+<field name="grade_level_group">Middle school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">North Dakota State Department of Public Instruction</field>
+<field name="title">The English language arts; verbal communication: course of study (high
+school)</field>
+<field name="year">1953</field>
+<field name="date">1953</field>
+<field name="pages">91</field>
+<field name="keywords">English language</field>
+<field name="keywords">Spoken English</field>
+<field name="notes">91 pages 30 cm; Note(s): Includes bibliographical references and index.</field>
+<field name="publisher">North Dakota State Department of Public Instruction</field>
+<field name="pub_place">Bismarck, ND</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .N86e</field>
+<field name="state_country">North Dakota</field>
+<field name="grade_level_group">High school </field>
+</doc>
+</add>

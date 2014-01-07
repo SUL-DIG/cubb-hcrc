@@ -1,0 +1,925 @@
+
+
+TY  - BOOK
+A2  - Palo Alto (California) Unified School District
+T1  - Elementary science -- kindergarten
+Y1  - 1959
+D1  - 07/1959
+SP  - 31
+KW  - Science
+PB  - Palo Alto (California) Unified School District
+CY  - Palo Alto, CA
+LA  - English
+CN  - 519 .P179e v. 1
+SC  - California
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - Palo Alto (California) Unified School District
+T1  - Elementary science -- 1st grade
+Y1  - 1959
+D1  - 07/1959
+KW  - Science
+N1  - 1 v. (various pagings)
+PB  - Palo Alto (California) Unified School District
+CY  - Palo Alto, CA
+LA  - English
+CN  - 519 .P179e v. 2
+SC  - California
+G2  - 1st
+ER  - 
+
+TY  - BOOK
+A2  - Palo Alto (California) Unified School District
+T1  - Elementary science -- 1st grade
+Y1  - 1962
+D1  - Summer, 1962
+KW  - Science
+N1  - 1 v. (various pagings)
+ED  - Revised
+PB  - Palo Alto (California) Unified School District
+CY  - Palo Alto, CA
+LA  - English
+CN  - 519 .P179e 1962 v. 2
+SC  - California
+G2  - 1st
+ER  - 
+
+TY  - BOOK
+A2  - Palo Alto (California) Unified School District
+T1  - Elementary science -- 2nd grade
+Y1  - 1959
+D1  - 07/1959
+KW  - Science
+N1  - 1 v. (various pagings)
+PB  - Palo Alto (California) Unified School District
+CY  - Palo Alto, CA
+LA  - English
+CN  - 519 .P179e v. 3
+SC  - California
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A2  - Palo Alto (California) Unified School District
+T1  - Elementary science -- 2nd-3rd combination grade
+Y1  - 1959
+D1  - 07/1959
+KW  - Science
+N1  - 1 v. (various pagings)
+PB  - Palo Alto (California) Unified School District
+CY  - Palo Alto, CA
+LA  - English
+CN  - 519 .P179e v. 4
+SC  - California
+G2  - 2nd
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - Palo Alto (California) Unified School District
+T1  - Elementary science -- 3rd grade
+Y1  - 1959
+D1  - 07/1959
+KW  - Science
+N1  - 1 v. (various pagings)
+PB  - Palo Alto (California) Unified School District
+CY  - Palo Alto, CA
+LA  - English
+CN  - 519 .P179e v. 5
+SC  - California
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - Palo Alto (California) Unified School District
+T1  - Elementary science -- 4th grade
+Y1  - 1959
+D1  - 07/1959
+KW  - Science
+N1  - 1 v. (various pagings)
+PB  - Palo Alto (California) Unified School District
+CY  - Palo Alto, CA
+LA  - English
+CN  - 519 .P179e v. 6
+SC  - California
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Palo Alto (California) Unified School District
+T1  - Elementary science -- 5th grade
+Y1  - 1959
+D1  - 07/1959
+KW  - Science
+N1  - 1 v. (various pagings)
+PB  - Palo Alto (California) Unified School District
+CY  - Palo Alto, CA
+LA  - English
+CN  - 519 .P179e v. 7
+SC  - California
+G2  - 5th
+ER  - 
+
+TY  - BOOK
+A2  - Palo Alto (California) Unified School District
+T1  - Elementary science -- 5th-6th combination grade
+Y1  - 1959
+D1  - 07/1959
+KW  - Science
+N1  - 1 v. (various pagings)
+PB  - Palo Alto (California) Unified School District
+CY  - Palo Alto, CA
+LA  - English
+CN  - 519 .P179e v. 8
+SC  - California
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Palo Alto (California) Unified School District
+T1  - Elementary science -- 6th grade
+Y1  - 1959
+D1  - 07/1959
+KW  - Science
+N1  - 1 v. (various pagings)
+PB  - Palo Alto (California) Unified School District
+CY  - Palo Alto, CA
+LA  - English
+CN  - 519 .P179e v. 9
+SC  - California
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Palo Alto (California) Unified School District
+T1  - Guide for 7th grade science
+Y1  - 1960
+D1  - 07/1960
+SP  - 172
+KW  - Science
+PB  - Palo Alto (California) Unified School District
+CY  - Palo Alto, CA
+LA  - English
+CN  - 519 .P179g
+SC  - California
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A2  - Paramount (California) Unified School District
+T1  - Living things: a curriculum guide in science: kindergarten through grade six
+Y1  - 1959
+D1  - 1959
+SP  - 109
+KW  - Science
+T2  - Paramount (California) Unified School District. Publication
+V1  - 113
+PB  - Paramount (California) Unified School District
+CY  - Paramount, CA
+LA  - English
+CN  - 519 .P22c v. 2
+SC  - California
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Pasadena (California) City Schools
+T1  - Elementary science list
+Y1  - 1953
+D1  - 09/1953
+SP  - 48
+KW  - Science
+PB  - Pasadena (California) City Schools
+CY  - Pasadena, CA
+LA  - English
+CN  - 519 .P27e
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Pasadena (California) City Schools
+T1  - Physical science materials
+Y1  - 1953
+D1  - 09/1953
+SP  - 77
+KW  - Science
+PB  - Pasadena (California) City Schools
+CY  - Pasadena, CA
+LA  - English
+CN  - 519 .P27p
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Commonwealth of Pennsylvania Department of Public Instruction
+A2  - WQED Metropolitan Pittsburgh Educational TV Station
+T1  - Exploring with science: television series in elementary science
+Y1  - 1962
+D1  - 1962-1963
+SP  - 87
+KW  - Science
+PB  - Commonwealth of Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 519 .P41e
+SC  - Pennsylvania
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Commonwealth of Pennsylvania Department of Public Instruction
+T1  - Primary concepts in science: produced for grades 3 and 4
+Y1  - 1961
+D1  - 1961-1962
+SP  - 38
+KW  - Science
+AB  - Our senses -- Insects -- Air -- How do we hear? -- Sound -- How do we see? -- Seeing the unseen -- Seeing the large and distant -- The earth's crust -- Weight and gravity -- Lift : heavier than air craft -- Thrust and propulsion -- Inclined planes -- Friction and motion -- How does the scientist work?
+N1  - 38 leaves : illustrations ; 28 cm.; Note(s): Cover title.; Responsibility: Dept. of Public Instruction, Commonwealth of Penna.
+PB  - Commonwealth of Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 519 .P41p
+SC  - Pennsylvania
+G2  - 3rd
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Pennsylvania Bureau of General and Academic Education
+T1  - Science for the seventies : Pennsylvania's guide for elementary science
+Y1  - 1970
+D1  - 1970
+SP  - 51
+KW  - Science
+N1  - vi; ; 28 cm.; Note(s): Pa. State Docs. class. no. PE 84.2:S416.; Other Titles: Pennsylvania's guide for elementary science; Responsibility: Bureau of General and Academic Education, Pennsylvania Department of Education.
+PB  - Pennsylvania State Department of Education
+CY  - Harrisburg, PA
+LA  - English
+CN  - 519 .P41s
+SC  - Pennsylvania
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Commonwealth of Pennsylvania Department of Public Instruction
+T1  - Teaching guide for the earth and space science course
+Y1  - 1959
+D1  - 09/1959
+SP  - 103
+KW  - Science
+PB  - Commonwealth of Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 519 .P41t
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools
+T1  - Elementary science: scope and sequence charts
+Y1  - 1962
+D1  - 1962
+KW  - Science
+PB  - Philadelphia (Pennsylvania) Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 519 .P54e
+SC  - Pennsylvania
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools
+T1  - General science: grades 7 and 8
+Y1  - 1963
+D1  - 1963
+SP  - 109
+KW  - Science
+PB  - Philadelphia (Pennsylvania) Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 519 .P54g
+SC  - Pennsylvania
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools
+T1  - Elementary science: primary unit
+Y1  - 1964
+D1  - 1964
+SP  - 194
+KW  - Science
+PB  - Philadelphia (Pennsylvania) Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 519 .P54sc 1964-66 v. 1
+SC  - Pennsylvania
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools
+T1  - Elementary science: intermediate grades
+Y1  - 1966
+D1  - 1966
+SP  - 295
+KW  - Science
+PB  - Philadelphia (Pennsylvania) Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 519 .P54sc 1964-66 v. 2
+SC  - Pennsylvania
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Physical Science Study Committee
+T1  - Teacher's guide to the PSSC films
+Y1  - 1963
+D1  - 1963
+KW  - Physics
+KW  - Audio-visual materials
+N1  - 1v : ill. ; 28 cm.
+PB  - Educational Services Incorporated
+CY  - Watertown, MA
+LA  - English
+CN  - 519 .P58t
+ER  - 
+
+TY  - BOOK
+A2  - Plumas (California) Unified School District
+T1  - Science: teacher's guide and course of study for grades k-vi
+Y1  - 1959
+D1  - 1959
+SP  - 304
+KW  - Science
+PB  - Plumas (California) Unified School District
+CY  - Quincy, CA
+LA  - English
+CN  - 519 .P73s
+SC  - California
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Pomona (California) Schools
+T1  - Science meeting - Nov. 28 1950
+Y1  - 1950
+D1  - 11/1950
+KW  - Science
+PB  - Pomona (California) Schools
+CY  - Pomona, CA
+LA  - English
+CN  - 519 .P78s
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Preston, Ralph Clausius
+T1  - Science : an approach in the elementary school
+Y1  - 1945
+D1  - 1945
+SP  - 39
+KW  - Science 
+N1  - ill. cm.; Note(s): At head of title: School district of Philadelphia./ "Readings in science for the elementary school teacher": p. 36-39.
+PB  - Philadelphia (Pennsylvania) Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 519 .P54s
+SC  - Philadelphia
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Port Arthur (Texas) Public Schools
+T1  - Physical science, ninth grade; a curriculum guide for teachers
+Y1  - 1961
+D1  - 1961
+SP  - 198
+KW  - Physics
+KW  - Chemistry
+KW  - Science
+PB  - Port Arthur (Texas) Public Schools
+CY  - Port Arthur, TX
+LA  - English
+CN  - 519 .P83p
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Pontiac (Michigan) Board of Education
+T1  - Elementary science: a course of study for kindergarten, grades one, two, three
+Y1  - 1955
+D1  - 1955
+SP  - 369
+KW  - Science
+PB  - Pontiac (Michigan) Board of Education
+CY  - Pontiac, MI
+LA  - English
+CN  - 519 .P81s v. 1
+SC  - Michigan
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - Pontiac (Michigan) Board of Education
+T1  - Elementary science: a course of study for grades four, five, and six
+Y1  - 1955
+D1  - 1955
+KW  - Science
+PB  - Pontiac (Michigan) Board of Education
+CY  - Pontiac, MI
+LA  - English
+CN  - 519 .P81s v. 2
+SC  - Michigan
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Pontiac (Michigan) Board of Education
+T1  - Science: a course of study for grades 7, 8, 9
+Y1  - 1957
+D1  - 1957
+KW  - Science
+N1  - 1 v. (various pagings)
+PB  - Pontiac (Michigan) Board of Education
+CY  - Pontiac, MI
+LA  - English
+CN  - 519 .P81s v. 3
+SC  - Michigan
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Portland (Oregon) Public Schools
+T1  - Applied science
+Y1  - 1961
+D1  - Spring, 1961
+KW  - Science
+N1  - 1 v. (various pagings)
+PB  - Portland (Oregon) Public Schools
+CY  - Portland, OR
+LA  - English
+CN  - 519 .P85a
+SC  - Oregon
+ER  - 
+
+TY  - BOOK
+A2  - Portland (Oregon) Public Schools
+T1  - Science classes for exceptionally endowed students in the high schools of Portland, Oregon
+Y1  - 1957
+D1  - 11/1957
+SP  - 40
+KW  - Science
+PB  - Portland (Oregon) Public Schools
+CY  - Portland, OR
+LA  - English
+CN  - 519 .P85se
+SC  - Oregon
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Portland (Oregon) Public Schools
+T1  - Science vocabulary at the ninth grade level (a guide for elementary and secondary teachers)
+Y1  - 1951
+D1  - 1951
+KW  - Science
+PB  - Portland (Oregon) Public Schools
+CY  - Portland, OR
+LA  - English
+CN  - 519 .P85sv
+SC  - Oregon
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Portsmouth (Virginia) Public Schools
+T1  - Science in elementary grades
+Y1  - 1960
+D1  - 09/1960
+SP  - 108
+KW  - Science
+PB  - Portsmouth (Virginia) Public Schools
+CY  - Portsmouth, VA
+LA  - English
+CN  - 519 .P86s v. 1
+SC  - Virginia
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Portsmouth (Virginia) Public Schools
+T1  - Science in the junior high school
+SP  - 191
+KW  - Science
+PB  - Portsmouth (Virginia) Public Schools
+CY  - Portsmouth, VA
+LA  - English
+CN  - 519 .P86s v. 2
+SC  - Virginia
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Raleigh (North Carolina) Public Schools
+T1  - Science in the elementary school, grades 1-6, a guide for teachers
+KW  - Science
+N1  - 1 v. (various pagings)
+PB  - Raleigh (North Carolina) Public Schools
+CY  - Raleigh, NC
+LA  - English
+CN  - 519 .R16s
+SC  - North Carolina
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Ramapo (New York) Central School District No. 2
+T1  - Elementary science guide for the classroom teacher : plants and animals
+Y1  - 1963
+D1  - 1963
+SP  - 151
+KW  - Science
+N1  - 151 p. ; 28 cm.; Other Titles: Plants and animals; Responsibility: Ramapo Central School District No. 2.
+PB  - Ramapo (New York) Central School District No. 2
+CY  - Spring Valley, NY
+LA  - English
+CN  - 519 .R17p
+SC  - New York
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Ramapo (New York) Central School District No. 2
+T1  - A tentative course of study: science, grade 7
+Y1  - 1964
+D1  - 1964
+SP  - 43
+KW  - Science
+PB  - Ramapo (New York) Central School District No. 2
+CY  - Spring Valley, NY
+LA  - English
+CN  - 519 .R17t v. 1
+SC  - New York
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A2  - Ramapo (New York) Central School District No. 2
+T1  - Teaching science and reading simultaneously: seventh grade science
+Y1  - 1964
+D1  - 1964
+SP  - 29
+KW  - Science
+PB  - Ramapo (New York) Central School District No. 2
+CY  - Spring Valley, NY
+LA  - English
+CN  - 519 .R17t v. 2
+SC  - New York
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A2  - Riverside County (California) Schools
+T1  - Science guide for the elementary schools of Riverside County, volume ii: grades 4-6
+Y1  - 1961
+D1  - 1961
+SP  - 186
+KW  - Science
+N1  - viii; ill. 28 cm.
+PB  - Riverside (California) County Schools
+CY  - Riverside, CA
+LA  - English
+CN  - 519 .R62s v. 2
+SC  - California
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A1  - Gentry, Adrian N.
+A2  - Riverside (California) County Schools
+T1  - Planning a continuous science program for all junior high school youth: guidelines for designing and implementing contemporary science curricula for grades 7-9
+Y1  - 1967
+D1  - 1967
+SP  - 155
+KW  - Science
+KW  - Curricula
+ED  - Revised preliminary
+N1  - Prepared under an NDEA contract with the California State Department of Education by the Office of Riverside County Superintendent of Schools with the assistance of the Council of California Science Teacher Organizations
+PB  - Riverside (California) County Schools
+CY  - Riverside, CA
+LA  - English
+CN  - 519 .R62s v. 3
+SC  - California
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Rock Island (Illinois) Public Schools
+T1  - Kindergarten science guide
+Y1  - 1958
+D1  - 1958
+SP  - 20
+KW  - Science
+PB  - Rock Island (Illinois) Public Schools
+CY  - Rock Island, IL
+LA  - English
+CN  - 519 .R68k
+SC  - Illinois
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A1  - Schwartz, Warren
+A1  - Crain, Roy E.
+A2  - Roseburg (Oregon) Public Schools
+T1  - Science scope & sequence, grade 1
+Y1  - 1963
+D1  - 1963
+KW  - Science
+N1  - 1 v. (various pagings)
+ED  - Revised
+PB  - Roseburg (Oregon) Public Schools
+CY  - Roseburg, OR
+LA  - English
+CN  - 519 .R81s v. 1
+SC  - Oregon
+G2  - 1st
+ER  - 
+
+TY  - BOOK
+A1  - Schwartz, Warren
+A1  - Crain, Roy E.
+A2  - Roseburg (Oregon) Public Schools
+T1  - Science scope & sequence, grade 2
+Y1  - 1963
+D1  - 1963
+KW  - Science
+N1  - 1 v. (various pagings)
+ED  - Revised
+PB  - Roseburg (Oregon) Public Schools
+CY  - Roseburg, OR
+LA  - English
+CN  - 519 .R81s v. 2
+SC  - Oregon
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A1  - Schwartz, Warren
+A1  - Crain, Roy E.
+A2  - Roseburg (Oregon) Public Schools
+T1  - Science scope & sequence, grade 3
+Y1  - 1963
+D1  - 1963
+KW  - Science
+N1  - 1 v. (various pagings)
+ED  - Revised
+PB  - Roseburg (Oregon) Public Schools
+CY  - Roseburg, OR
+LA  - English
+CN  - 519 .R81s v. 3
+SC  - Oregon
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A1  - Schwartz, Warren
+A1  - Crain, Roy E.
+A2  - Roseburg (Oregon) Public Schools
+T1  - Science scope & sequence, grade 4
+Y1  - 1963
+D1  - 1963
+KW  - Science
+N1  - 1 v. (various pagings)
+ED  - Revised
+PB  - Roseburg (Oregon) Public Schools
+CY  - Roseburg, OR
+LA  - English
+CN  - 519 .R81s v. 4
+SC  - Oregon
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A1  - Schwartz, Warren
+A1  - Crain, Roy E.
+A2  - Roseburg (Oregon) Public Schools
+T1  - Science scope & sequence, grade 5
+Y1  - 1963
+D1  - 1963
+KW  - Science
+N1  - 1 v. (various pagings)
+ED  - Revised
+PB  - Roseburg (Oregon) Public Schools
+CY  - Roseburg, OR
+LA  - English
+CN  - 519 .R81s v. 5
+SC  - Oregon
+G2  - 5th
+ER  - 
+
+TY  - BOOK
+A1  - Schwartz, Warren
+A1  - Crain, Roy E.
+A2  - Roseburg (Oregon) Public Schools
+T1  - Science scope & sequence, grade 6
+Y1  - 1963
+D1  - 1963
+KW  - Science
+N1  - 1 v. (various pagings)
+ED  - Revised
+PB  - Roseburg (Oregon) Public Schools
+CY  - Roseburg, OR
+LA  - English
+CN  - 519 .R81s v. 6
+SC  - Oregon
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A1  - Schwartz, Warren
+A1  - Crain, Roy E.
+A2  - Roseburg (Oregon) Public Schools
+T1  - Science scope & sequence, grade 7
+Y1  - 1963
+D1  - 1963
+KW  - Science
+N1  - 1 v. (various pagings)
+ED  - Revised
+PB  - Roseburg (Oregon) Public Schools
+CY  - Roseburg, OR
+LA  - English
+CN  - 519 .R81s v. 7
+SC  - Oregon
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A1  - Schwartz, Warren
+A1  - Crain, Roy E.
+A2  - Roseburg (Oregon) Public Schools
+T1  - Science scope & sequence, grade 8
+Y1  - 1963
+D1  - 1963
+KW  - Science
+N1  - 1 v. (various pagings)
+ED  - Revised
+PB  - Roseburg (Oregon) Public Schools
+CY  - Roseburg, OR
+LA  - English
+CN  - 519 .R81s v. 8
+SC  - Oregon
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A1  - Schwartz, Warren
+A1  - Crain, Roy E.
+A2  - Roseburg (Oregon) Public Schools
+T1  - Science scope & sequence, grade 9
+Y1  - 1963
+D1  - 1963
+KW  - Science
+N1  - 1 v. (various pagings)
+ED  - Revised
+PB  - Roseburg (Oregon) Public Schools
+CY  - Roseburg, OR
+LA  - English
+CN  - 519 .R81s v. 9
+SC  - Oregon
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Sacramento (California) City Unified School District
+T1  - Course of study in science for elementary schools
+Y1  - 1951
+D1  - 10/1951
+SP  - 92
+KW  - Science
+PB  - Sacramento (California) City Unified School District
+CY  - Sacramento, CA
+LA  - English
+CN  - 519 .S12c v. 1
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Sacramento (California) City Unified School District
+T1  - Course of study in science for junior high schools
+Y1  - 1954
+D1  - 1954
+SP  - 60
+KW  - Science
+PB  - Sacramento (California) City Unified School District
+CY  - Sacramento, CA
+LA  - English
+CN  - 519 .S12c v. 2
+SC  - California
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - San Antonio (Texas) Independent School District. Division of Junior and Senior Schools
+T1  - Course of study for science: seventh grade natural science
+Y1  - 1951
+D1  - 1951
+SP  - 113
+KW  - Science
+KW  - Natural history
+ED  - Revised
+PB  - San Antonio (Texas) Independent School District
+CY  - San Antonio, TX
+LA  - English
+CN  - 519 .S189s v. 1
+SC  - Texas
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A2  - San Antonio (Texas) Independent School District. Division of Junior and Senior Schools
+T1  - A teachers source book for 8th grade science, volume i--fall term: junior schools
+Y1  - 1951
+D1  - 07/1951
+SP  - 228
+KW  - Science
+ED  - Revised
+PB  - San Antonio (Texas) Independent School District
+CY  - San Antonio, TX
+LA  - English
+CN  - 519 .S189s v. 2
+SC  - Texas
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - San Antonio (Texas) Independent School District. Division of Junior and Senior Schools
+T1  - A teachers source book for 8th grade science, volume ii--spring term: junior schools
+Y1  - 1951
+D1  - 07/1951
+SP  - 141
+KW  - Science
+ED  - Revised
+PB  - San Antonio (Texas) Independent School District
+CY  - San Antonio, TX
+LA  - English
+CN  - 519 .S189s v. 3
+SC  - Texas
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - San Antonio (Texas) Independent School District. Division of Junior and Senior Schools
+T1  - A source book for teachers of science, grade 9B, junior schools of San Antonio, Texas
+Y1  - 1951
+D1  - 05/1951
+SP  - 158
+KW  - Science
+ED  - Revised
+PB  - San Antonio (Texas) Independent School District
+CY  - San Antonio, TX
+LA  - English
+CN  - 519 .S189s v. 4
+SC  - Texas
+G2  - 9th
+ER  - 
+

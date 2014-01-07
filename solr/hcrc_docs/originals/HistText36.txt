@@ -1,0 +1,1166 @@
+
+
+
+
+TY  - BOOK
+A2  - Ann Arbor (Michigan) Public Schools
+T1  - Mathematics course outlines in the secondary school
+Y1  - 1955
+D1  - 02/1955
+SP  - 36
+KW  - Mathematics
+PB  - Ann Arbor (Michigan) Public Schools
+CY  - Ann Arbor, MI
+LA  - English
+CN  - 511.6 .A61m
+SC  - Michigan
+G1  - High school
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Broward County (Florida) High Schools
+T1  - Tentative guide for the teaching of mathematics, grades 7-12
+Y1  - 1958
+D1  - 1958
+KW  - Mathematics
+N1  - 1 v. (various pagings)
+PB  - Broward County (Florida) Schools
+LA  - English
+CN  - 511.6 .B87t
+SC  - Florida
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER
+
+TY  - BOOK
+A2  - Bucks County (Pennsylvania) Schools
+T1  - Behavioral objectives curriculum guide mathematics, grade seven
+Y1  - 1968
+D1  - Spring, 1968
+KW  - Mathematics
+AB  - v. 1 - Above average; v. 2 - Average; v. 3 - Below average
+PB  - Bucks County (Pennsylvania) Schools
+CY  - Doylestown, PA
+LA  - English
+CN  - 511.6 .B92b v. 1-3
+SC  - Pennsylvania
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Final report of the junior college workshops in mathematics
+Y1  - 1961
+D1  - 1961
+SP  - 26
+KW  - Mathematics
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 511.6 .C15m
+SC  - California
+G1  - Postsecondary
+ER  - 
+
+TY  - BOOK
+A2  - Subcommittee on Content and Sequence of Mathematics Studies from the 9th through the 14th Grades (California)
+T1  - Report, May 3, 1957 - Submitted to California Committee for the Study of Education
+Y1  - 1957
+D1  - 05/1957
+KW  - Mathematics
+N1  - 1 v. (various pagings)
+PB  - California Committee for the Study of Education
+LA  - English
+CN  - 511.6 .C15r
+SC  - California
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+G1  - Postsecondary
+ER  - 
+
+TY  - BOOK
+A2  - California Association of Secondary School Administrators
+T1  - New developments in secondary mathematics
+Y1  - 1960
+D1  - 1960
+KW  - Mathematics
+N1  - [30] p. ; 257 cm.; Note(s): Cover title./ Includes bibliographical references (p. [27-29]).
+PB  - California Association of Secondary School Administrators
+CY  - Burlingame, CA
+LA  - English
+CN  - 511.6 .C152n
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Bureau of Elementary Education
+T1  - Looking ahead in mathematics : a report of the production seminar and Conference on the Improvement of Mathematics in the Elementary School, December 7-12, 1959
+Y1  - 1961
+D1  - 1961
+SP  - 86
+KW  - Arithmetic
+N1  - ill. ; 28 cm.; Note(s): Includes bibliographical references.
+T2  - Conference on the Improvements of Mathematics in the Elementary School ; (December 7-12, 1959 :; Sacramento, Calif.)
+PB  - California State Department of Education. Bureau of Elementary Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 511.6 .C15L
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Chicago (Illinois) Board of Education
+T1  - Basic mathematics I, for the secondary schools
+Y1  - 1961
+D1  - 1961
+SP  - 70
+KW  - Mathematics
+N1  - 124 p. illus.; Note(s): "Answers for basic mathematics I": at end
+PB  - Chicago (Illinois) Board of Education
+CY  - Chicago, IL
+LA  - English
+CN  - 511.6 .C53b v. 1
+SC  - Illinois
+G1  - High schools
+ER  - 
+
+TY  - BOOK
+A2  - Chicago (Illinois) Board of Education
+T1  - Basic mathematics II, for the secondary schools
+Y1  - 1961
+D1  - 1961
+SP  - 124
+KW  - Mathematics
+N1  - 124 p. illus.; Note(s): "Answers for basic mathematics II": at end, 20 p.
+PB  - Chicago (Illinois) Board of Education
+CY  - Chicago, IL
+LA  - English
+CN  - 511.6 .C53b v. 2
+SC  - Illinois
+G1  - High schools
+ER  - 
+
+TY  - BOOK
+A2  - Cincinnati (Ohio) Public Schools
+T1  - Mathematics. . . grades seven eight
+Y1  - 1958
+D1  - 06/1958
+SP  - 299
+KW  - Curricula
+KW  - Mathematics
+N1  - x, 299 leaves; ill. ; 28 cm; Other Titles: Mathematics. . . grades 7 and 8
+T2  - Cincinnati (Ohio) Public Schools. Curriculum bulletin
+V1  - 1
+PB  - Cincinnati (Ohio) Public Schools
+CY  - Cincinnati, OH
+LA  - English
+CN  - 511.6 .C57m
+SC  - Ohio
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Cincinnati (Ohio) Public Schools
+T1  - General mathematics, grade 9
+Y1  - 1957
+D1  - 1957
+SP  - 107
+KW  - Mathematics
+N1  - viii, 107 leaves : ill. ; 28 cm.; Note(s): Includes bibliographies.
+T2  - Cincinnati Board of Education. Curriculum bulletin
+V1  - 2
+PB  - Cincinnati (Ohio) Public Schools
+CY  - Cincinnati, OH
+LA  - English
+CN  - 511.6 .C57g
+SC  - Ohio
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Clairton (Pennsylvania) Public Schools
+T1  - Mathematics course of study : 1962-63
+Y1  - 1962
+D1  - 1962-1963
+KW  - Mathematics
+KW  - Curricula
+T2  - Course of study, secondary education
+PB  - Clairton (Pennsylvania) Public Schools
+CY  - Clairton, PA
+LA  - English
+CN  - 511.6 .C58m
+SC  - Pennsylvania
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Clark County (Nevada) School District
+T1  - Junior high school curriculum guide: mathematics
+Y1  - 1958
+D1  - 1958
+SP  - 68
+KW  - Mathematics
+PB  - Clark County (Nevada) School District
+CY  - Las Vegas, NV
+LA  - English
+CN  - 511.6 .C59j
+SC  - Nevada
+G1  - Middle school
+ER
+
+TY  - BOOK
+A2  - College Entrance Examination Board
+T1  - Modernizing the mathematics curriculum: a statement for superintendents of schools and members of school boards
+Y1  - 1958
+D1  - 1958
+SP  - 16
+KW  - Mathematics
+N1  - 16 p. ; 23 x 10 cm.
+PB  - College Entrance Examination Board
+CY  - Princeton, NJ
+LA  - English
+CN  - 511.6 .C69p v. 1
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - College Entrance Examination Board
+T1  - The introduction to algebra from the point of view of mathematical structure
+Y1  - 1958
+D1  - 1958
+SP  - 16
+KW  - Mathematics
+N1  - 16 p. ; 23 x 10 cm.
+PB  - College Entrance Examination Board
+CY  - Princeton, NJ
+LA  - English
+CN  - 511.6 .C69p v. 2
+ER  - 
+
+TY  - BOOK
+A2  - College Entrance Examination Board
+T1  - Sets, relations, and functions
+Y1  - 1958
+D1  - 1958
+SP  - 35
+KW  - Mathematics
+N1  - 35 p. ; 23 x 10 cm.
+PB  - College Entrance Examination Board
+CY  - Princeton, NJ
+LA  - English
+CN  - 511.6 .C69p v. 3
+ER  - 
+
+TY  - BOOK
+A2  - College Entrance Examination Board
+A2  - Program for college preparatory mathematics
+T1  - A Summary of the Report of the Commission on Mathematics, Program for college preparatory mathematics
+Y1  - 1959
+D1  - 1959
+SP  - 12
+KW  - Mathematics
+N1  - 12 p. ; 23 x 10 cm.
+PB  - College Entrance Examination Board
+CY  - Princeton, NJ
+LA  - English
+CN  - 511.6 .C69p v. 4
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Hoffman, Ruth Irene
+A1  - Mansfield, Rodney F.
+A1  - Poage, Melvin L.
+A1  - Struthers, Joseph A.
+A1  - Dubois, Andrew
+T1  - Revitalizing the mathematics program in Colorado schools
+Y1  - 1962
+D1  - 1962
+SP  - 75
+KW  - Mathematics
+N1  - vii; 75 p. : illustrations ; 23 cm; Note(s): Includes bibliographical references (pages 71-75).; Responsibility: prepared by Ruth Irene Hoffman [and others] ; illustrations by Andrew J. Dubois.
+PB  - Colorado State Department of Education
+CY  - Denver, CO
+LA  - English
+CN  - 511.6 .C71m v. 1
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A2  - The Mathematical Association of America. Committee on the Undergraduate Program in Mathematics
+T1  - Basic library list
+Y1  - 1963
+D1  - 02/1963
+KW  - Mathematics
+KW  - Bibliography
+PB  - The Mathematical Association of America
+CY  - Berkeley, CA
+LA  - English
+CN  - 511.6 .C73b
+G1  - Postsecondary
+ER  - 
+
+TY  - BOOK
+A2  - Conference Board of the Mathematical Sciences. National Advisory Committee on Mathematical Education
+T1  - Overview and analysis of school mathematics, grades K-12
+Y1  - 1975
+D1  - 1975
+SP  - 157
+KW  - Mathematics
+N1  - xiv; ; 26 cm.; Note(s): Includes bibliographical references.; Responsibility: Conference Board of the Mathematical Sciences, National Advisory Committee on Mathematical Education.
+PB  - Conference Board of the Mathematical Sciences
+CY  - Washington, DC
+LA  - English
+CN  - 511.6 .C74o
+ER  - 
+
+TY  - BOOK
+A2  - Dade County (Florida) Public Schools
+T1  - Experiencing mathematics
+Y1  - 1965
+D1  - 1965
+SP  - 144
+KW  - Mathematics
+T2  - Dade County (Florida) Public Schools. Bulletin
+V1  - 7F
+PB  - Dade County (Florida) Public Schools
+CY  - Miami, FL
+LA  - English
+CN  - 511.6 .D12e
+SC  - Florida
+ER  - 
+
+TY  - BOOK
+A2  - Dallas (Texas) Independent School District
+T1  - Mathematics program: content, scope, and sequence
+Y1  - 1959
+D1  - 09/1959
+SP  - 19
+KW  - Mathematics
+PB  - Dallas (Texas) Independent School District
+CY  - Dallas, TX
+LA  - English
+CN  - 511.6 .D14m
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - Denver (Colorado) Public Schools
+T1  - Computer mathematics
+Y1  - 1969
+D1  - 1969
+SP  - 164
+KW  - Computers in education
+KW  - Mathematics
+N1  - iv; ill. ; 28 cm.; Note(s): On cover: Grades 10-12.; Responsibility: developed by Denver Public Schools Teachers participating in a National Science Foundation Cooperative College-School Science Program in Computing Science Education conducted by the University of Colorado, Dept. of Civil Engineering, Denver Center.
+PB  - Denver (Colorado) Public Schools
+CY  - Denver, CO
+LA  - English
+CN  - 511.6 .D41c
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A2  - Denver (Colorado) Public Schools
+T1  - The mathematics program of the Denver public schools : kindergarten through twelfth grade
+Y1  - 1960
+D1  - 1960
+KW  - Mathematics
+AB  - v. 1. Kindergarten and grade one.--v. 2. Grades two and three.--v. 3. Grades four and five.--v. 4. Grade six.--v. 5. Grades seven and eight.--v. 6. Grades nine, ten, eleven, twelve.
+N1  - v. : ill. ; 28 cm.; Responsibility: produced by the Department of General Curriculum Services.
+PB  - Denver (Colorado) Public Schools
+CY  - Denver, CO
+LA  - English
+CN  - 511.6 .D41m v. 1-6
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A2  - Detroit (Michigan) Public Schools
+T1  - Detroit's mathematics program
+Y1  - 1961
+D1  - 1961-1962
+SP  - 18
+KW  - Mathematics
+PB  - Detroit (Michigan) Public Schools
+CY  - Detroit, MI
+LA  - English
+CN  - 511.6 .D48d
+SC  - Michigan
+ER  - 
+
+TY  - BOOK
+A2  - Flint (Michigan) Schools
+T1  - Problem of instruction in mathematics, 1953-54 to present
+Y1  - 1953
+D1  - 1954-1954
+KW  - Mathematics
+PB  - Flint (Michigan) Schools
+CY  - Flint, MI
+LA  - English
+CN  - 511.6 .F62p
+SC  - Michigan
+ER  - 
+
+TY  - BOOK
+A2  - Fresno (California) City Unified School District
+T1  - A guide for instruction in universal mathematics V & VI, eleventh year
+Y1  - 1954
+D1  - 09/1954
+KW  - Mathematics
+N1  - 1 v. (various pagings) : ill. ; 28 cm.; Note(s): Includes bibliographical references (1 leaf at end).; Other Titles: Universal mathematics; Responsibility: Accepted by the Board of Education.
+PB  - Fresno (California) City Unified School District
+CY  - Fresno, CA
+LA  - English
+CN  - 511.6 .F88u
+SC  - California
+G2  - 11th
+ER  - 
+
+TY  - BOOK
+A2  - Grand Island (Nebraska) Board of Education
+T1  - Mathematics in Grand Island Public schools: a basic guide for teachers
+Y1  - 1956
+D1  - 06/1956
+SP  - 42
+KW  - Mathematics
+PB  - Grand Island (Nebraska) Board of Education
+CY  - Grand Island, NE
+LA  - English
+CN  - 511.6 .G75m
+SC  - Nebraska
+ER  - 
+
+TY  - BOOK
+A2  - School City of Gary (Indiana)
+T1  - Mathematics curriculum guide : basic mathematics 9-12
+Y1  - 1968
+D1  - 1968
+SP  - 105
+KW  - Mathematics
+KW  - Curricula
+PB  - School City of Gary
+CY  - Gary, IN
+LA  - English
+CN  - 511.6 .G24m
+SC  - Indiana
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Glendale (California) Unified School District
+T1  - Junior high school mathematics course of study guide
+Y1  - 1960
+D1  - 09/1960
+SP  - 78
+KW  - Mathematics
+PB  - Glendale (California) Unified School District
+CY  - Glendale, CA
+LA  - English
+CN  - 511.6 .G55m v. 1
+SC  - California
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Glendale (California) Unified School District
+T1  - Senior high school mathematics course of study guide
+Y1  - 1960
+D1  - 09/1960
+SP  - 78
+KW  - Mathematics
+PB  - Glendale (California) Unified School District
+CY  - Glendale, CA
+LA  - English
+CN  - 511.6 .G55m v. 2
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Sparks, Jack N.
+A1  - Taylor, Kenneth I.
+A1  - Redman, David
+T1  - A collection of supplementary books in mathematics for the secondary school
+Y1  - 1957
+D1  - 12/1957
+KW  - Mathematics
+KW  - Bibliography
+N1  - 18 l. 28 cm.; Responsibility: [by] Jack N. Sparks [and] Kenneth I. Taylor.
+PB  - Leyden Community High School
+CY  - Franklin Park, IL
+LA  - English
+CN  - 511.6 .F81c
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Hartford (Connecticut) Public Schools
+T1  - Course of study, mathematics, grades 9-12
+Y1  - 1955
+KW  - Mathematics
+N1  - 1 v. (various pagings) : ill. ; 28 cm.; Note(s): Cover title./ Includes bibliographies.
+PB  - Hartford (Connecticut?) Public Schools
+CY  - Hartford, CT
+LA  - English
+CN  - 511.6 .H32c
+SC  - Connecticut
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Houston (Texas) Public Schools. Senior High School Department
+T1  - Mathematics handbook
+Y1  - 1955
+D1  - 1955-1956
+SP  - 64
+KW  - Mathematics
+PB  - Houston (Texas) Public Schools
+CY  - Houston, TX
+LA  - English
+CN  - 511.6 .H84m
+SC  - Texas
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - University of Illinois Committee on School Mathematics
+T1  - High school mathematics: first course: unit one: directed numbers
+Y1  - 1955
+D1  - 1955
+SP  - 75
+KW  - Mathematics
+N1  - Teachers' Edition with the 1956-57 Teachers Commentary Supplement
+PB  - University of Illinois Committee on School Mathematics
+CY  - Urbana, IL
+LA  - English
+CN  - 511.6 .I29h v. 1
+SC  - Illinois
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - University of Illinois Committee on School Mathematics
+T1  - High school mathematics: first course: unit two: numbers - numerals pronumerals
+Y1  - 1955
+D1  - 1955
+SP  - 87
+KW  - Mathematics
+N1  - Teachers' Edition with the 1956-57 Teachers Commentary Supplement
+PB  - University of Illinois Committee on School Mathematics
+CY  - Urbana, IL
+LA  - English
+CN  - 511.6 .I29h v. 2
+SC  - Illinois
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - University of Illinois Committee on School Mathematics
+T1  - High school mathematics: first course: unit three: equations
+Y1  - 1955
+D1  - 1955
+SP  - 79
+KW  - Mathematics
+N1  - Teachers' Edition with the 1956-57 Teachers Commentary Supplement
+PB  - University of Illinois Committee on School Mathematics
+CY  - Urbana, IL
+LA  - English
+CN  - 511.6 .I29h v. 3
+SC  - Illinois
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - University of Illinois Committee on School Mathematics
+T1  - High school mathematics: first course: unit four: graphs and ordered pairs
+Y1  - 1956
+D1  - 1956
+SP  - 65
+KW  - Mathematics
+N1  - Teachers' Edition with the 1956-57 Teachers Commentary Supplement
+PB  - University of Illinois Committee on School Mathematics
+CY  - Urbana, IL
+LA  - English
+CN  - 511.6 .I29h v. 4
+SC  - Illinois
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - University of Illinois Committee on School Mathematics
+T1  - High school mathematics: first course: unit five: relations and functions
+Y1  - 1956
+D1  - 1956
+SP  - 257
+KW  - Mathematics
+N1  - Teachers' Edition with the 1959-60 Teachers Commentary Supplement
+PB  - University of Illinois Committee on School Mathematics
+CY  - Urbana, IL
+LA  - English
+CN  - 511.6 .I29h v. 5
+SC  - Illinois
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - University of Illinois Committee on School Mathematics
+T1  - High school mathematics: unit 1: the arithmetic of the real numbers
+Y1  - 1959
+D1  - 1959
+SP  - 141
+KW  - Mathematics
+PB  - University of Illinois Committee on School Mathematics
+CY  - Urbana, IL
+LA  - English
+CN  - 511.6 .I29h v. 1
+SC  - Illinois
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - University of Illinois Committee on School Mathematics
+T1  - High school mathematics: unit 2: generalizations and algebraic manipulation
+Y1  - 1959
+D1  - 1959
+SP  - 158
+KW  - Mathematics
+PB  - University of Illinois Committee on School Mathematics
+CY  - Urbana, IL
+LA  - English
+CN  - 511.6 .I29h v. 2
+SC  - Illinois
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - University of Illinois Committee on School Mathematics
+T1  - High school mathematics: unit 3: equations and inequations
+Y1  - 1959
+D1  - 1959
+SP  - 158
+KW  - Mathematics
+PB  - University of Illinois Committee on School Mathematics
+CY  - Urbana, IL
+LA  - English
+CN  - 511.6 .I29h v. 3
+SC  - Illinois
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Kansas City (Missouri) Public Schools
+T1  - Curriculum guides in mathematics
+Y1  - 1959
+D1  - 07/1959
+KW  - Mathematics
+N1  - 1 v. (various pagings); "Algebra 1-2, plane geometry, algebra 3-4, solid geometry, trigonometry, special honors math 3-4, special honors math 5-6, special honors math 7-8"
+T2  - Kansas City (Missouri) Public Schools. Secondary curriculum bulletin
+V1  - 114
+PB  - Kansas City (Missouri) Public Schools
+CY  - Kansas City, MO
+LA  - English
+CN  - 511.6 .K16c
+SC  - Missouri
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Kentucky State Department of Education. Office of Curriculum Development
+T1  - Mathematics in Kentucky
+Y1  - 1969
+D1  - 1969
+SP  - 92
+KW  - Mathematics
+N1  - iv; 23 cm.; Note(s): Includes bibliographical references.
+T2  - New directions, new dimensions
+PB  - Kentucky State Department of Education. Office of Curriculum Development
+CY  - Frankfort, KS
+LA  - English
+CN  - 511.6 .K37n
+SC  - Kentucky
+ER  - 
+
+TY  - BOOK
+A2  - Kern County (California) Superintendent of Schools
+T1  - Reading in mathematics for jr. and sr. high schools
+Y1  - 1960
+D1  - 08/1960
+SP  - 5
+KW  - Mathematics
+PB  - Kern County (California) Superintendent of Schools
+CY  - Bakersfield, CA
+LA  - English
+CN  - 511.6 .K39r
+SC  - California
+G1  - Middle school
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - King County (Washington) Schools
+T1  - The changing face of mathematics teaching
+Y1  - 1963
+D1  - 1963
+SP  - 65
+KW  - Mathematics
+PB  - King County (Washington) Schools
+CY  - Seattle, WA
+LA  - English
+CN  - 511.6 .K55c
+SC  - Washington
+ER  - 
+
+TY  - BOOK
+A2  - Lindbergh (Missouri) School District
+T1  - A curriculum guide for mathematics: grade 7 - grade 12
+Y1  - 1964
+D1  - 1964
+SP  - 72
+KW  - Mathematics
+PB  - Lindbergh (Missouri) School District
+CY  - St. Louis, MO
+LA  - English
+CN  - 511.6 .L75m
+SC  - Missouri
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Long Beach (California) Unified School District
+T1  - A course of study : state demonstration project - personalizing mathematics
+Y1  - 1968
+D1  - 1968-1969
+KW  - Mathematics
+KW  - Curricula
+N1  - p. ; cm.; Responsibility: Long Beach Unified School District ; Mr. W. Odie Wright, et al.
+PB  - Long Beach (California) Unified School District
+CY  - Long Beach, CA
+LA  - English
+CN  - 511.6 .L84p
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Longview (Washington?) Public Schools
+T1  - Teaching guide: mathematics, kindergarten through junior college
+Y1  - 1954
+D1  - 1954
+SP  - 88
+KW  - Mathematics
+PB  - Longview (Washington?) Public Schools
+LA  - English
+CN  - 511.6 .L85m
+ER  - 
+
+TY  - BOOK
+A2  - Los Alamos (New Mexico) Schools
+T1  - Pueblo Junior High School curriculum guide: mathematics and science
+Y1  - 1959
+D1  - 1959
+KW  - Mathematics
+KW  - Science
+PB  - Los Alamos (New Mexico) Schools
+CY  - Los Alamos, NM
+LA  - English
+CN  - 511.6 .L86m
+SC  - New Mexico
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City Schools
+T1  - A9 mathematics (slow learners): an instructional bulletin
+Y1  - 1968
+D1  - 1968
+SP  - 9
+KW  - Mathematics
+N1  - 1 v.; Note(s): Publ. no. SC-640.
+PB  - Los Angeles (California) City Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 511.6 .L87a
+SC  - California
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City Schools
+T1  - Activities with pattern blocks
+Y1  - 1974
+D1  - 1974
+SP  - 27
+KW  - Mathematics
+N1  - 1 v.; Note(s): Publ. no. EC-390.
+PB  - Los Angeles (California) City Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 511.6 .L87ac
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District
+T1  - Instructional guide for junior high school mathematics
+Y1  - 1956
+D1  - 1956
+SP  - 115
+KW  - Mathematics
+N1  - v; ill. ; 28 cm.
+T2  - Los Angeles (California) City School District. Tentative publication
+V1  - SC-537
+PB  - Los Angeles City School Districts, Division of Instructional Services
+CY  - Los Angeles, CA
+LA  - English
+CN  - 511.6 .L87i v. 1
+SC  - California
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District
+T1  - Instructional guide for high school mathematics 1
+Y1  - 1956
+D1  - 1956
+SP  - 71
+KW  - Mathematics
+N1  - v; ill. ; 28 cm.
+T2  - Los Angeles (California) City School District. Tentative publication
+V1  - SC-548
+PB  - Los Angeles City School Districts, Division of Instructional Services
+CY  - Los Angeles, CA
+LA  - English
+CN  - 511.6 .L87i v. 2
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District
+T1  - Instructional guide for high school mathematics 2
+Y1  - 1957
+D1  - 1957
+SP  - 135
+KW  - Mathematics
+N1  - v; ill. ; 28 cm.
+T2  - Los Angeles (California) City School District. Tentative publication
+V1  - SC-556
+PB  - Los Angeles City School Districts, Division of Instructional Services
+CY  - Los Angeles, CA
+LA  - English
+CN  - 511.6 .L87i v. 3
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District
+T1  - Instructional guide for basic mathematics 1: grades 10 to 12
+Y1  - 1966
+D1  - 1966
+SP  - 32
+KW  - Mathematics
+N1  - v; ill. ; 28 cm.
+T2  - Los Angeles (California) City School District. Curriculum Branch. Publication
+V1  - X-58
+PB  - Los Angeles City School Districts, Division of Instructional Services
+CY  - Los Angeles, CA
+LA  - English
+CN  - 511.6 .L87ig
+SC  - California
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District
+T1  - Planning and evaluating learning experiences in elementary school mathematics: kindergarten, grades one and two, an instructional bulletin
+Y1  - 1968
+D1  - 1968
+SP  - 57
+KW  - Mathematics
+N1  - 1 v.; Note(s): Publ. no. EC-271.
+PB  - Los Angeles (California) City School District
+CY  - Los Angeles, CA
+LA  - English
+CN  - 511.6 .L87p
+SC  - California
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A2  - Manhasset (New York) Public Schools
+T1  - Modern mathematics in our elementary schools
+Y1  - 1962
+D1  - 09/1962
+SP  - 40
+KW  - Mathematics
+PB  - Manhasset (New York) Public Schools
+CY  - Manhasset, NY
+LA  - English
+CN  - 511.6 .M27m
+SC  - New York
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Maryland State Department of Education
+T1  - Handbook for general mathematics
+Y1  - 1967
+D1  - 1967?
+SP  - 140
+KW  - Mathematics
+N1  - iii; illus. 28 cm.; Note(s): Bibliography: p. 137-140.
+PB  - Maryland State Department of Education
+CY  - Baltimore, MD
+LA  - English
+CN  - 511.6 .M39h
+SC  - Maryland
+ER  - 
+
+TY  - BOOK
+A2  - University of Maryland
+T1  - The University of Maryland Mathematics Project: Junior High School
+Y1  - 1958
+D1  - 1958-1959
+KW  - Mathematics
+PB  - University of Maryland
+CY  - College Park, MD
+LA  - English
+CN  - 511.6 .M391u
+SC  - Maryland
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A1  - Zartman, Muriel Jane
+A2  - Los Angeles (California) City School District. Division of Instructional Services
+T1  - Instructional guide for industrial mathematics 1
+Y1  - 1959
+D1  - 1959
+SP  - 83
+KW  - Industrial arts
+KW  - Mathematics
+N1  - 83 p.; Note(s): Contains columns of page references to General mathematics at work by C.H. Ewing./ Includes bibliographical references.; Other Titles: Industrial mathematics; Responsibility: senior high school [by Muriel Jane Zartman.
+T2  - Los Angeles (California) City Schools. Division of Instructional Services. Publication
+V1  - SC-573
+PB  - Los Angeles (California) City School District
+CY  - Los Angeles, CA
+LA  - English
+CN  - 511.6 .L87im
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Midland (Texas) Independent School District
+T1  - Mathematics grades 1 - 12
+Y1  - 1962
+D1  - 1962
+SP  - 63
+KW  - Mathematics
+PB  - Midland (Texas) Independent School District
+CY  - Midland, TX
+LA  - English
+CN  - 511.6 .M63m
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - Mathematical Association
+T1  - Mathematics in secondary modern schools
+Y1  - 1959
+D1  - 1959
+SP  - 221
+KW  - Mathematics
+N1  - vi; diagrs. ; 24 cm.; Responsibility: a report prepared for the Mathematical Association for consideration by all concerned in the teaching of mathematics in secondary schools.
+PB  - G. Bell & Sons
+CY  - London, UK
+LA  - English
+CN  - 511.6 .M42m
+SC  - United Kingdom
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Michigan State Department of Public Instruction
+T1  - Frontiers in mathematics education
+Y1  - 1961
+D1  - 1961
+SP  - 22
+KW  - Mathematics
+N1  - volumes 22 pages ; 23 cm.; Note(s): " ... prepared by a sub-group of the Committee on Science Mathematics ..."/ Includes bibliographical references (pages 18-22).
+T2  - Michigan State Department of Public Instruction. Bulletin
+V1  - NDEA-310
+PB  - Michigan State Department of Public Instruction
+CY  - Lansing, MI
+LA  - English
+CN  - 511.6 .M62f
+SC  - Michigan
+ER  - 
+
+TY  - BOOK
+A2  - Minnesota State Department of Education
+T1  - Curriculum guide for instruction in mathematics (K-12)
+Y1  - 1970
+D1  - 1970
+SP  - 106
+KW  - Mathematics
+N1  - v; ges 28 cm.; Note(s): Includes bibliographical references.
+T2  - Minnesota State Department of Education. Curriculum bulletin
+V1  - 30
+PB  - Minnesota State Department of Education
+CY  - St. Paul, MN
+LA  - English
+CN  - 511.6 .M66c
+SC  - Minnesota
+ER  - 
+
+TY  - BOOK
+A2  - Minnesota State Department of Education
+T1  - Applied mathematics : secondary schools, grades 10-12
+Y1  - 1964
+D1  - 1964
+SP  - 107
+KW  - Mathematics
+N1  - 107 pages ; 22 x 29 cm; Note(s): Curriculum bulletin no. 20A (rev. 1964)./ Includes bibliographical references (pages 105-107).; Entry: 19781221; Update: 20130614
+T2  - Minnesota State Department of Education. Curriculum bulletin.
+V1  - 20A
+ED  - Rev
+PB  - Minnesota State Department of Education
+CY  - St. Paul, MN
+LA  - English
+CN  - 511.6 .M66a
+SC  - Minnesota
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Mathematical Association of America. Committee on the Undergraduate Program in Mathematics
+T1  - Basic library list
+Y1  - 1963
+D1  - 02/1963
+SP  - 26
+KW  - Mathematics
+KW  - Bibliography
+ED  - First
+PB  - Mathematical Association of America
+CY  - Berkeley, CA
+LA  - English
+CN  - 511.6 .M426b
+G1  - Postsecondary
+ER  - 
+
+TY  - BOOK
+A2  - Missouri State Department of Education
+T1  - Mathematics curriculum guide : grades ten, eleven and twelve. 1958 tentative report
+Y1  - 1958
+D1  - 1958
+SP  - 256
+KW  - Mathematics
+KW  - Curricula
+N1  - vii; ges ; 29 cm.; Note(s): Includes bibliographical references.
+T2  - Missouri State Department of Education. Publication
+V1  - 111-G
+PB  - Universal Printing
+CY  - St. Louis, MO
+LA  - English
+CN  - 511.6 .M67g v. 2
+SC  - Missouri
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Missouri State Department of Education
+T1  - Mathematics curriculum guide : grades seven, eight and nine. 1957 tentative report
+Y1  - 1957
+D1  - 1957
+SP  - 111
+KW  - Mathematics
+KW  - Curricula
+N1  - 111 pages : illustrations ; 29 cm.
+T2  - Missouri State Department of Education. Publication
+V1  - 104-G
+PB  - Von Hoffmann Press
+CY  - Jefferson City, MO
+LA  - English
+CN  - 511.6 .M67g v. 1
+SC  - Missouri
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Montgomery County (Maryland) Board of Education
+T1  - Report on curriculum in mathematics [in the] Montgomery County Public Schools
+Y1  - 1962
+D1  - 11/1962
+SP  - 65
+KW  - Mathematics
+N1  - 65 p. tables. 28 cm.
+PB  - Montgomery County (Maryland) Board of Education
+CY  - Rockville, MD
+LA  - English
+CN  - 511.6 .M78r
+SC  - Maryland
+ER  - 
+
+TY  - BOOK
+A2  - Association of Mathematics Teachers of New York State
+T1  - New York State Mathematics Teachers Journal
+Y1  - 1959
+D1  - 04/1959
+SP  - 27
+KW  - Mathematics
+V1  - 9
+IS  - 2
+PB  - Association of Mathematics Teachers of New York State
+CY  - Brooklyn, NY
+LA  - English
+CN  - 511.6 .A86n
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - Portland (Oregon) Public Schools
+T1  - English and literature classes for exceptionally endowed students in the high schools of Portland, Oregon
+Y1  - 1957
+D1  - 02/1957
+SP  - 38
+KW  - English language
+KW  - Literature
+PB  - Portland (Oregon) Public Schools
+CY  - Portland, OR
+CN  - 428.2 .P85e
+SC  - Oregon
+G1  - High school
+ER  - 

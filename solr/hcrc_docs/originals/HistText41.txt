@@ -1,0 +1,996 @@
+
+
+
+
+TY  - BOOK
+A2  - Madera County (California) Schools
+T1  - Science guide: kindergarten and first grade
+Y1  - 1962
+D1  - 1962
+KW  - Science
+PB  - Madera County (California) Schools
+CY  - Madera, CA
+LA  - English
+CN  - 519 .M17s v. 1
+SC  - California
+G2  - Kindergarten
+G2  - 1st
+ER  - 
+
+TY  - BOOK
+A2  - Madera County (California) Schools
+T1  - Science guide: second grade
+Y1  - 1962
+D1  - 1962
+KW  - Science
+PB  - Madera County (California) Schools
+CY  - Madera, CA
+LA  - English
+CN  - 519 .M17s v. 2
+SC  - California
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A2  - Madera County (California) Schools
+T1  - Science guide: third grade
+Y1  - 1962
+D1  - 1962
+KW  - Science
+PB  - Madera County (California) Schools
+CY  - Madera, CA
+LA  - English
+CN  - 519 .M17s v. 3
+SC  - California
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - Madera County (California) Schools
+T1  - Science guide: fourth grade
+Y1  - 1962
+D1  - 1962
+KW  - Science
+PB  - Madera County (California) Schools
+CY  - Madera, CA
+LA  - English
+CN  - 519 .M17s v. 4
+SC  - California
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Madera County (California) Schools
+T1  - Science guide: fifth grade
+Y1  - 1963
+D1  - 1963
+KW  - Science
+PB  - Madera County (California) Schools
+CY  - Madera, CA
+LA  - English
+CN  - 519 .M17s v. 5
+SC  - California
+G2  - 5th
+ER  - 
+
+TY  - BOOK
+A2  - Madera County (California) Schools
+T1  - Science guide: sixth grade
+Y1  - 1963
+D1  - 1963
+KW  - Science
+PB  - Madera County (California) Schools
+CY  - Madera, CA
+LA  - English
+CN  - 519 .M17s v. 6
+SC  - California
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Madera County (California) Schools
+T1  - Science guide: seventh grade
+Y1  - 1964
+D1  - 1964
+KW  - Science
+PB  - Madera County (California) Schools
+CY  - Madera, CA
+LA  - English
+CN  - 519 .M17s v. 7
+SC  - California
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A2  - Madera County (California) Schools
+T1  - Science guide: eighth grade
+Y1  - 1964
+D1  - 1964
+KW  - Science
+PB  - Madera County (California) Schools
+CY  - Madera, CA
+LA  - English
+CN  - 519 .M17s v. 8
+SC  - California
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Madison (Wisconsin) Public Schools. Department of Curriculum Development
+T1  - Science and society
+Y1  - 1969
+D1  - 1969
+KW  - Science
+N1  - 42 pages in various pagings ; 29 cm; Note(s): Cover title./ Includes bibliographical references.; Responsibility: Department of Curriculum Development, Madison Public Schools.
+PB  - Madison (Wisconsin) Public Schools
+CY  - Madison, WI
+LA  - English
+CN  - 519 .M18s
+SC  - Wisconsin
+ER  - 
+
+TY  - BOOK
+A2  - Maine State Department of Education
+T1  - Science education for Maine secondary schools
+Y1  - 1951
+D1  - 1951
+SP  - 66
+KW  - Science
+N1  - 66 pages : illustrations ; 23 cm.; Note(s): Includes bibliographical references (pages 61-65).
+T2  - Maine State Department of Education. Curriculum bulletin
+V1  - 15
+PB  - Maine State Department of Education
+CY  - Augusta, ME
+LA  - English
+CN  - 519 .M22s
+SC  - Maine
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Manufacturing Chemists' Association
+T1  - Superstition to supersonics, prepared for the use of students of general science. [Student book]
+Y1  - 1957
+D1  - 1957
+SP  - 27
+KW  - Science
+KW  - Experiments
+N1  - 26 [2] p. ill.; Note(s): Bibliography: p. [28]
+ED  - Rev.
+PB  - Manufacturing Chemists' Association
+CY  - New York, NY
+LA  - English
+CN  - 519 .M29s
+ER  - 
+
+TY  - BOOK
+A2  - Maple Dale - Indian Hill (Wisconsin) Schools
+T1  - Science scope and sequence
+Y1  - 1960
+D1  - 10/1960
+KW  - Science
+PB  - Maple Dale - Indian Hill (Wisconsin) Schools
+LA  - English
+CN  - 519 .M291s
+SC  - Wisconsin
+ER  - 
+
+TY  - BOOK
+A2  - Marinette (Wisconsin) Public Schools
+T1  - Science experiences in the elementary school: a guide for teachers: grades--kindergarten, i, ii, iii
+Y1  - 1957
+D1  - 1957
+KW  - Science
+PB  - Marinette (Wisconsin) Public Schools
+CY  - Marinette, WI
+LA  - English
+CN  - 519 .M33s v. 1
+SC  - Wisconsin
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - Marinette (Wisconsin) Public Schools
+T1  - Science experiences in the elementary school: a guide for teachers: grades--kindergarten, iv, v, vi
+Y1  - 1957
+D1  - 1957
+KW  - Science
+PB  - Marinette (Wisconsin) Public Schools
+CY  - Marinette, WI
+LA  - English
+CN  - 519 .M33s v. 2
+SC  - Wisconsin
+G2  - Kindergarten
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Marion (Ohio) City Schools
+T1  - Science in the elementary schools in Marion, Ohio, grades 1-6
+Y1  - 1956
+D1  - 1956
+SP  - 96
+KW  - Science
+PB  - Marion (Ohio) City Schools
+CY  - Marion, OH
+LA  - English
+CN  - 519 .M34s
+SC  - Ohio
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Mary Melrose Williams Science Foundation
+T1  - Organization, structure, and evaluation of summer science institute for elementary school teachers
+Y1  - 1964
+D1  - 1964
+KW  - Science
+N1  - 1 v. (various pagings)
+PB  - Mary Melrose Williams Science Foundation
+LA  - English
+CN  - 519 .M39o
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Gilbertson, Ruth
+A1  - Berg, Ryder
+A1  - Johnston, James
+A1  - Bevis, Vincent
+A1  - Ellis, Gilbert
+A1  - Kounz, Monte
+A1  - Silver, Kathleen
+A1  - Bundock, Stella
+A1  - Gilbertson, Roy
+A1  - Davis, Georgia
+A1  - Cox, Delphie
+T1  - Science: a revised course of study: grade 1
+Y1  - 1958
+D1  - 1958
+SP  - 30
+KW  - Science
+PB  - Medford (Oregon) Public Schools
+CY  - Medford, OR
+LA  - English
+CN  - 519 .M48s v. 1
+SC  - Oregon
+G2  - 1st
+ER  - 
+
+TY  - BOOK
+A1  - Gilbertson, Ruth
+A1  - Berg, Ryder
+A1  - Johnston, James
+A1  - Bevis, Vincent
+A1  - Ellis, Gilbert
+A1  - Kounz, Monte
+A1  - Silver, Kathleen
+A1  - Bundock, Stella
+A1  - Gilbertson, Roy
+A1  - Davis, Georgia
+A1  - Cox, Delphie
+T1  - Science: a revised course of study: grade 2
+Y1  - 1958
+D1  - 1958
+SP  - 22
+KW  - Science
+PB  - Medford (Oregon) Public Schools
+CY  - Medford, OR
+LA  - English
+CN  - 519 .M48s v. 2
+SC  - Oregon
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A1  - Gilbertson, Ruth
+A1  - Berg, Ryder
+A1  - Johnston, James
+A1  - Bevis, Vincent
+A1  - Ellis, Gilbert
+A1  - Kounz, Monte
+A1  - Silver, Kathleen
+A1  - Bundock, Stella
+A1  - Gilbertson, Roy
+A1  - Davis, Georgia
+A1  - Cox, Delphie
+T1  - Science: a revised course of study: grade 3
+Y1  - 1958
+D1  - 1958
+SP  - 16
+KW  - Science
+PB  - Medford (Oregon) Public Schools
+CY  - Medford, OR
+LA  - English
+CN  - 519 .M48s v. 3
+SC  - Oregon
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A1  - Silver, Kathleen
+A1  - Richardson, Marlene
+A1  - De Korte, Dena
+A1  - Bohrer, Lillian
+A1  - Lynch, Alice
+A1  - Gilbertson, Ruth
+A1  - Berg, Ryder
+A1  - Johnston, James
+A1  - Bevis, Vincent
+A1  - Ellis, Gilbert
+A1  - Kounz, Monte
+A1  - Silver, Kathleen
+A1  - Bundock, Stella
+A1  - Gilbertson, Roy
+A1  - Davis, Georgia
+A1  - Cox, Delphie
+T1  - Science: a tentative course of study: grade 4
+Y1  - 1957
+D1  - 1957
+SP  - 38
+KW  - Science
+PB  - Medford (Oregon) Public Schools
+CY  - Medford, OR
+LA  - English
+CN  - 519 .M48s v. 4
+SC  - Oregon
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A1  - Gilbertson, Ruth
+A1  - Berg, Ryder
+A1  - Johnston, James
+A1  - Bevis, Vincent
+A1  - Ellis, Gilbert
+A1  - Kounz, Monte
+A1  - Silver, Kathleen
+A1  - Bundock, Stella
+A1  - Gilbertson, Roy
+A1  - Davis, Georgia
+A1  - Cox, Delphie
+T1  - Science: a revised course of study: grade 5
+Y1  - 1958
+D1  - 1958
+SP  - 28
+KW  - Science
+PB  - Medford (Oregon) Public Schools
+CY  - Medford, OR
+LA  - English
+CN  - 519 .M48s v. 5
+SC  - Oregon
+G2  - 5th
+ER  - 
+
+TY  - BOOK
+A1  - Gilbertson, Ruth
+A1  - Berg, Ryder
+A1  - Johnston, James
+A1  - Bevis, Vincent
+A1  - Ellis, Gilbert
+A1  - Kounz, Monte
+A1  - Silver, Kathleen
+A1  - Bundock, Stella
+A1  - Gilbertson, Roy
+A1  - Davis, Georgia
+A1  - Cox, Delphie
+T1  - Science: a revised course of study: grade 6
+Y1  - 1958
+D1  - 1958
+SP  - 16
+KW  - Science
+PB  - Medford (Oregon) Public Schools
+CY  - Medford, OR
+LA  - English
+CN  - 519 .M48s v. 6
+SC  - Oregon
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Menlo Park (California) City School District
+T1  - Science: kindergarten - eighth grades
+KW  - Science
+N1  - 1 v. (various pagings)
+PB  - Menlo Park (California) City School District
+CY  - Menlo Park, CA
+LA  - English
+CN  - 519 .M53s
+SC  - California
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Menlo Park (California) City School District
+T1  - Science teaching guide for kindergarten - grade 2
+Y1  - 1965
+D1  - 1965
+SP  - 70
+KW  - Science
+PB  - Menlo Park (California) City School District
+CY  - Menlo Park, CA
+LA  - English
+CN  - 519 .M53s 1965 v. 1
+SC  - California
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A2  - Menlo Park (California) City School District
+T1  - Materials supplement to accompany Science teaching guide for kindergarten - grade 2
+Y1  - 1965
+D1  - 1965
+SP  - 24
+KW  - Science
+PB  - Menlo Park (California) City School District
+CY  - Menlo Park, CA
+LA  - English
+CN  - 519 .M53s 1965 v. 1 supp.
+SC  - California
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A2  - Menlo Park (California) City School District
+T1  - Science teaching guide for third & fourth grades
+Y1  - 1965
+D1  - 1965
+SP  - 126
+KW  - Science
+PB  - Menlo Park (California) City School District
+CY  - Menlo Park, CA
+LA  - English
+CN  - 519 .M53s 1965 v. 2
+SC  - California
+G2  - 3rd
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Menlo Park (California) City School District
+T1  - Materials supplement to accompany Science teaching guide for third & fourth grades
+Y1  - 1965
+D1  - 1965
+SP  - 18
+KW  - Science
+PB  - Menlo Park (California) City School District
+CY  - Menlo Park, CA
+LA  - English
+CN  - 519 .M53s 1965 v. 2 supp.
+SC  - California
+G2  - 3rd
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Menlo Park (California) City School District
+T1  - Science guide 5th-6th grades
+Y1  - 1965
+D1  - 1965
+SP  - 188
+KW  - Science
+PB  - Menlo Park (California) City School District
+CY  - Menlo Park, CA
+LA  - English
+CN  - 519 .M53s 1965 v. 3
+SC  - California
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Menlo Park (California) City School District
+T1  - Materials supplement to accompany Science guide 5th-6th grades
+Y1  - 1965
+D1  - 1965
+SP  - 38
+KW  - Science
+PB  - Menlo Park (California) City School District
+CY  - Menlo Park, CA
+LA  - English
+CN  - 519 .M53s 1965 v. 3 supp.
+SC  - California
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Merced County (California) Schools
+T1  - Handbook of science demonstrations for seventh grade
+Y1  - 1955
+D1  - 1955
+SP  - 72
+KW  - Science
+PB  - Merced County (California) Schools
+CY  - Merced, CA
+LA  - English
+CN  - 519 .M55s
+SC  - California
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A2  - Merced County (California) Schools
+T1  - Science guidelines for primary grades
+Y1  - 1958
+D1  - 01/1958
+SP  - 51
+KW  - Science
+PB  - Merced County (California) Schools
+CY  - Merced, CA
+LA  - English
+CN  - 519 .M55sg
+SC  - California
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - Merced County (California) Schools
+T1  - Science guidelines for primary grades
+Y1  - 1959
+D1  - 1959
+SP  - 52
+KW  - Science
+PB  - Merced County (California) Schools
+CY  - Merced, CA
+LA  - English
+CN  - 519 .M55sg 1959
+SC  - California
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A1  - Clearman, Clara Gene
+A1  - Etheridge, Robert
+A1  - Hopkins, Donnie
+A1  - Horton, Lucille
+A1  - Merrill, Wallace
+A1  - Sorenson, Rita
+A2  - Meridian (Mississippi) Public Schools
+T1  - A tentative course of study for science, grades 7 - 9
+Y1  - 1961
+D1  - 08/1961
+SP  - 124
+KW  - Science
+PB  - Meridian (Mississippi) Public Schools
+CY  - Meridian, MS
+LA  - English
+CN  - 519 .M56s
+SC  - Mississippi
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A1  - Besse, Hilda
+A2  - Mesa County Valley (Colorado) School District #51
+T1  - Third grade science and social studies
+Y1  - 1959
+D1  - 06/1959
+SP  - 60
+KW  - Science
+KW  - Social sciences
+PB  - Mesa County Valley School District #51
+CY  - Grand Junction, CO
+LA  - English
+CN  - 519 .M57s
+SC  - Colorado
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A1  - Mallinson, George G.
+T1  - Sponsoring the science club
+Y1  - 1950
+D1  - 04/1950
+SP  - 18
+KW  - Science clubs
+N1  - Note(s): Caption title./ "Appeared originally in School activities, XIX (October, November and December, 1947), 49-51, 94-6, 124-6 ..."; Responsibility: by George Griesen Mallinson.
+T2  - Western Michigan College of Education, Graduate Division. Faculty contributions ;; ser. II
+V1  - 1
+PB  - Western Michigan College of Education
+CY  - Kalamazoo, MI
+LA  - English
+CN  - 519 .M62s
+ER  - 
+
+TY  - BOOK
+A1  - Mallinson, George G.
+T1  - The use of films in elementary science
+Y1  - 1950
+D1  - 06/1950
+SP  - 23
+KW  - Motion pictures in education
+KW  - Audio-visual education
+KW  - Science
+N1  - 23 p. ; 23 cm.; Responsibility: by George Greisen Mallinson.
+T2  - Western Michigan College of Education, Graduate Division. Faculty contributions ; series II
+V1  - 2
+PB  - Graduate Division, Western Michigan College of Education
+CY  - Kalamazoo, MI
+LA  - English
+CN  - 519 .M62u
+ER  - 
+
+TY  - BOOK
+A2  - Michigan State Department of Public Instruction
+T1  - Guidelines for the K-12 science program
+Y1  - 1961
+D1  - 1961
+SP  - 25
+KW  - Science
+N1  - vi; ges : illustrations ; 28 cm.; Note(s): Includes bibliographical references (pages 24-25).
+T2  - Michigan State Department of Public Instruction. Bulletin
+V1  - NDEA-309
+PB  - Michigan State Department of Public Instruction
+CY  - Lansing, MI
+LA  - English
+CN  - 519 .M62g
+SC  - Michigan
+ER  - 
+
+TY  - BOOK
+A2  - Milwaukee (Wisconsin) Public Schools. Division of Curriculum and Instruction
+T1  - Science in the elementary school: areas of interest for kgn.-primary school: a guide for teachers
+Y1  - 1959
+D1  - 09/1959
+SP  - 33
+KW  - Science
+PB  - Milwaukee (Wisconsin) Public Schools. Division of Curriculum and Instruction
+CY  - Milwaukee, WI
+LA  - English
+CN  - 519 .M65s v. 1
+SC  - Wisconsin
+G2  - Kindergarten
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Milwaukee (Wisconsin) Public Schools. Division of Curriculum and Instruction
+T1  - Science in the elementary school: areas for major emphasis for intermediate: a guide for teachers
+Y1  - 1959
+D1  - 09/1959
+SP  - 116
+KW  - Science
+PB  - Milwaukee (Wisconsin) Public Schools. Division of Curriculum and Instruction
+CY  - Milwaukee, WI
+LA  - English
+CN  - 519 .M65s v. 2
+SC  - Wisconsin
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Milwaukee (Wisconsin) Public Schools. Division of Curriculum and Instruction
+T1  - Science in the junior high school: areas of major emphasis for grades 7 - 8: a guide for teachers
+Y1  - 1959
+D1  - 09/1959
+SP  - 84
+KW  - Science
+PB  - Milwaukee (Wisconsin) Public Schools. Division of Curriculum and Instruction
+CY  - Milwaukee, WI
+LA  - English
+CN  - 519 .M65s v. 3
+SC  - Wisconsin
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Minneapolis (Minnesota) Public Schools
+T1  - Handbook on the teaching of science. [Grades 7, 8, and 9]
+Y1  - 1941
+D1  - 09/1941
+SP  - 109
+KW  - Science
+N1  - 109 p. diagrs. 28 cm.; Note(s): At head of title: Minneapolis Public Schools./ Carroll R. Reed, superintendent of schools./ Includes bibliographical references.
+PB  - Minneapolis (Minnesota) Public Schools
+CY  - Minneapolis, MN
+LA  - English
+CN  - 519 .M665h
+SC  - Minnesota
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Minnesota State Department of Education
+T1  - A guide for instruction in science : secondary schools, grades 7-12
+Y1  - 1959
+D1  - 1959
+SP  - 343
+KW  - Science
+N1  - 343 pages ; 23 cm; Note(s): Curriculum bulletin no. 19.
+T2  - Minnesota State Department of Education. Curriculum bulletin
+V1  - 19
+PB  - Minnesota State Department of Education
+CY  - St. Paul, MN
+LA  - English
+CN  - 519 .M66gu
+SC  - Minnesota
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A1  - Torrance, E. Paul
+T1  - Minnesota secondary school administrators look at their mathematics and science programs
+Y1  - 1958
+D1  - 04/1958
+SP  - 13
+KW  - Mathematics
+KW  - Science
+N1  - vi l.; 28 cm.
+T2  - University of Minnesota.; College of Education.; Bureau of Educational Research.; Research memorandum
+V1  - BER-58-1.
+PB  - Bureau of Educational Research, College of Education, University of Minnesota
+CY  - Minneapolis, MN
+LA  - English
+CN  - 519 .M664m
+SC  - Minnesota
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Minneapolis (Minnesota) Public Schools
+T1  - Radio-television teachers' manual: fun in science
+Y1  - 1957
+D1  - 1957-1958
+SP  - 36
+KW  - Science
+PB  - Minneapolis (Minnesota) Public Schools
+CY  - Minneapolis, MN
+LA  - English
+CN  - 519 .M665f
+SC  - Minnesota
+ER  - 
+
+TY  - BOOK
+A2  - Minneapolis (Minnesota) Public Schools
+T1  - Science: a television series for early elementary grades: teacher's study guide
+Y1  - 1957
+D1  - 1957
+SP  - 10
+KW  - Science
+PB  - Minneapolis (Minnesota) Public Schools
+CY  - Minneapolis, MN
+LA  - English
+CN  - 519 .M665s v. 1
+SC  - Minnesota
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Minneapolis (Minnesota) Public Schools
+T1  - Science: a television series for seventh grades: teacher's study guide
+Y1  - 1957
+D1  - 1957
+SP  - 22
+KW  - Science
+PB  - Minneapolis (Minnesota) Public Schools
+CY  - Minneapolis, MN
+LA  - English
+CN  - 519 .M665s v. 2
+SC  - Minnesota
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A2  - Minnetonka School District #276 (Excelsior, Minnesota)
+T1  - Elementary science curriculum guide, k-6
+Y1  - 1969
+D1  - 1969-1970
+KW  - Science
+PB  - Minnetonka School District #276
+CY  - Excelsior, MN
+LA  - English
+CN  - 519 .M666e
+SC  - Minnesota
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A1  - Keeler, William
+A1  - Nelson, Warren
+A1  - Collins, Robert
+A1  - Almquist, Russell
+A1  - Haga, Curtis
+A1  - Hilling, Donald
+A1  - Fellger, Merill
+T1  - Junior high school science laboratory activities
+Y1  - 1964
+D1  - 1964
+KW  - Science
+N1  - 1 v. (various pagings)
+PB  - Minnetonka School District #276
+CY  - Excelsior, MN
+LA  - English
+CN  - 519 .M666j
+SC  - Minnesota
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Missouri State Board of Education
+T1  - Science curriculum guide : grades 10-12 : Tentative report
+Y1  - 1958
+D1  - 1958
+SP  - 272
+KW  - Science
+PB  - Missouri State Board of Education
+LA  - English
+CN  - 519 .M67g v. 2
+SC  - Missouri
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A1  - Campbell, Paul
+A1  - Lawson, Russell
+A1  - Grillos, Steve
+T1  - Applied science: course of study
+Y1  - 1957
+D1  - 1957-1958
+SP  - 79
+KW  - Science
+PB  - Modesto (California) City Schools
+CY  - Modesto, CA
+LA  - English
+CN  - 519 .M69a
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Modesto (California) City Schools
+T1  - General science: course of study
+Y1  - 1959
+D1  - 1959
+SP  - 75
+KW  - Science
+PB  - Modesto (California) City Schools
+CY  - Modesto, CA
+LA  - English
+CN  - 519 .M69g
+SC  - California
+ER  -
+ 
+TY  - BOOK
+A1  - Pennock, Julia
+A1  - Downs, Ronald
+A1  - Sherman, Belva
+A1  - Clark, Richard
+A1  - King, Sam
+A1  - Shelton, George
+A2  - Modesto (California) Secondary Schools
+T1  - Science: course of study: seventh grade
+Y1  - 1957
+D1  - 1957-1958
+SP  - 126
+KW  - Science
+PB  - Modesto (California) Secondary School
+CY  - Modesto, CA
+LA  - English
+CN  - 519 .M69s
+SC  - California
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A2  - Monterey County (California) Schools
+T1  - Science guide: grades k-3
+Y1  - 1959
+D1  - 1959
+SP  - 210
+KW  - Science
+PB  - Monterey County (California) Schools
+LA  - English
+CN  - 519 .M77s v. 1
+SC  - California
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - Monterey County (California) Schools
+T1  - Science guide: grades 4-6
+Y1  - 1960
+D1  - 1960
+SP  - 424
+KW  - Science
+PB  - Monterey County (California) Schools
+LA  - English
+CN  - 519 .M77s v. 2
+SC  - California
+G2  - Kindergarten
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Monterey County (California) Schools
+T1  - Science guide: grades 7-8
+Y1  - 1960
+D1  - 1960
+SP  - 160
+KW  - Science
+PB  - Monterey County (California) Schools
+LA  - English
+CN  - 519 .M77s v. 3
+SC  - California
+G2  - Kindergarten
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Montgomery County (Maryland) Public Schools
+T1  - Preliminary report on curriculum in science
+Y1  - 1962
+D1  - 03/1962
+KW  - Science
+PB  - Montgomery County (Maryland) Public Schools
+CY  - Rockville, MD
+LA  - English
+CN  - 519 .M78p
+SC  - Maryland
+ER  - 
+
+TY  - BOOK
+A2  - Mt. Eden School District (Hayward, California)
+T1  - Science in the Mt. Eden School District
+Y1  - 1960
+D1  - 06/1960
+KW  - Science
+N1  - 1 v. (various pagings)
+PB  - Mt. Eden School District
+CY  - Hayward, CA
+LA  - English
+CN  - 519 .M92s
+SC  - California
+ER  - 

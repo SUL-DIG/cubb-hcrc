@@ -1,0 +1,1554 @@
+<add>
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Alameda County (California) Superintendent of Schools</field>
+<field name="title">Listening habits and speech sound discrimination developed through a multiple
+sensory approach</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="pages">44</field>
+<field name="keywords">Speech</field>
+<field name="keywords">Listening</field>
+<field name="notes">44 p. 28 cm.</field>
+<field name="publisher">Alameda County (California) Superintendent of Schools</field>
+<field name="pub_place">Hayward, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.7 .A31L</field>
+<field name="state_country">California </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Austin (Texas) Public Schools</field>
+<field name="title">Guide for junior high school speech, grades seven-nine</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="pages">107</field>
+<field name="keywords">Speech</field>
+<field name="publisher">Austin (Texas) Public Schools</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">428.7 .A93g</field>
+<field name="state_country">Texas</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Boston (Massachusetts) Public Schools</field>
+<field name="title">Speech improvement: suggestions for the improvement of speech at the primary
+level</field>
+<field name="year">1951</field>
+<field name="date">09/1951</field>
+<field name="pages">11</field>
+<field name="keywords">Speech</field>
+<field name="publisher">Boston (Massachusetts) Public Schools</field>
+<field name="pub_place">Boston, MA</field>
+<field name="language">English</field>
+<field name="call_number">428.7 .B74s</field>
+<field name="state_country">Massachusetts</field>
+<field name="grade_level_group">Elementary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Willis, Benjamin C.</field>
+<field name="corp_author">Chicago (Illinois) Board of Education</field>
+<field name="title">A tentative program in speech for the secondary schools</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="pages">25</field>
+<field name="keywords">Speech</field>
+<field name="notes">25 l. 29 cm.; Responsibility: by Benjamin C. Willis.</field>
+<field name="publisher">Chicago (Illinois) Board of Education</field>
+<field name="pub_place">Chicago, IL</field>
+<field name="language">English</field>
+<field name="call_number">428.7 .C53t</field>
+<field name="state_country">Illinois</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Chicago (Illinois) Public Schools. Division of Speech Correction</field>
+<field name="title">Speech correction : techniques, materials, references</field>
+<field name="year">1952</field>
+<field name="date">1952</field>
+<field name="pages">71</field>
+<field name="keywords">Speech therapy</field>
+<field name="notes">71 leaves : ill. ; 29 cm.; Responsibility: Chicago Public Schools, Division of
+Speech Correction.</field>
+<field name="publisher">Chicago (Illinois) Public Schools. Division of Speech Correction</field>
+<field name="pub_place">Chicago, IL</field>
+<field name="language">English</field>
+<field name="call_number">428.7 .C53s</field>
+<field name="state_country">Illinois </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Cincinnati (Ohio) Public Schools</field>
+<field name="title">Course of study: speech, grades 9-12</field>
+<field name="year">1953</field>
+<field name="date">1953</field>
+<field name="pages">107</field>
+<field name="keywords">Speech</field>
+<field name="notes">iv l., 107 p.; Note(s): Mimeographed./ Bibliography: p. 87-107.</field>
+<field name="series_title">Cincinnati (Ohio) Public Schools. Curriculum bulletin</field>
+<field name="series_vol">211</field>
+<field name="publisher">Cincinnati (Ohio) Public Schools</field>
+<field name="pub_place">Cincinnati, OH</field>
+<field name="language">English</field>
+<field name="call_number">428.7 .C57c</field>
+<field name="state_country">Ohio</field>
+<field name="grade_level_number">9th grade</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Cleveland Heights (Ohio) Public Schools</field>
+<field name="title">Senior high school tentative course of study: English: speech i and ii</field>
+<field name="year">1949</field>
+<field name="date">09/1949</field>
+<field name="pages">29</field>
+<field name="keywords">Speech</field>
+<field name="publisher">Cleveland Heights (Ohio) Public Schools</field>
+<field name="pub_place">Cleveland Heights, OH</field>
+<field name="language">English</field>
+<field name="call_number">428.7 .C63s</field>
+<field name="state_country">Ohio</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Garrison, Geraldine</field>
+<field name="corp_author">Connecticut State Department of Education</field>
+<field name="title">What about speech!</field>
+<field name="year">1954</field>
+<field name="date">1954</field>
+<field name="pages">12</field>
+<field name="keywords">Speech</field>
+<field name="notes">12 pages 23 cm.; Note(s): Cover title.; Responsibility: [Prepared under the
+direction of Geraldine Garrison by the Elementary Section of the Commissioner's Committee on Speech
+Education.].</field>
+<field name="series_title">Connecticut State Department of Education. Bulletin</field>
+<field name="series_vol">62</field>
+<field name="publisher">Connecticut State Department of Education, School and Community
+Services</field>
+<field name="pub_place">Hartford, CT</field>
+<field name="language">English</field>
+<field name="call_number">428.7 .C75w</field>
+<field name="state_country">Connecticut</field>
+<field name="grade_level_group">Elementary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Glendale (California) Unified School District</field>
+<field name="title">Course of study guide: speech for the junior high school</field>
+<field name="year">1960</field>
+<field name="date">1960?</field>
+<field name="pages">151</field>
+<field name="keywords">Speech</field>
+<field name="publisher">Glendale (California) Unified School District</field>
+<field name="pub_place">Glendale, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.7 .G55s</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Middle school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Indiana State Department of Public Instruction</field>
+<field name="corp_author">Indiana University. English Curriculum Study Center</field>
+<field name="title">Teacher's guide to high school speech</field>
+<field name="year">1966</field>
+<field name="date">1966</field>
+<field name="pages">249</field>
+<field name="keywords">Public speaking</field>
+<field name="notes">x; 23 cm.; Note(s): Prepared in cooperation with the Indiana University English
+Curriculum Study Center./ Includes bibliographies.</field>
+<field name="series_title">Indiana Committee on Speech. Bulletin</field>
+<field name="series_vol">503</field>
+<field name="publisher">Indiana State Department of Public Instruction</field>
+<field name="pub_place">Indianapolis, IN</field>
+<field name="language">English</field>
+<field name="call_number">428.7 .I39t</field>
+<field name="state_country">Indiana</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Williams, Esther</field>
+<field name="title">Choral reading: some suggestions for its use in your classrooms</field>
+<field name="pages">6</field>
+<field name="keywords">Choral speaking</field>
+<field name="series_title">Northern Illinois University. Educational Bulletin Service</field>
+<field name="publisher">Northern Illinois University</field>
+<field name="pub_place">DeKalb, IL</field>
+<field name="language">English</field>
+<field name="call_number">428.7 .I29c </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Lancaster School District</field>
+<field name="title">Speech aids: nasal consonants: lessons on 'M', 'N', &amp;'NG' sounds</field>
+<field name="year">1959</field>
+<field name="date">03/1959</field>
+<field name="keywords">Speech</field>
+<field name="publisher">Lancaster School District</field>
+<field name="language">English</field>
+<field name="call_number">428.7 .L24s v. 1</field>
+<field name="grade_level_number">Kindergarten</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Lancaster School District</field>
+<field name="title">Speech aids: nasal consonants: lessons on 'M', 'N', &amp;'NG' sounds</field>
+<field name="year">1959</field>
+<field name="date">03/1959</field>
+<field name="keywords">Speech</field>
+<field name="publisher">Lancaster School District</field>
+<field name="language">English</field>
+<field name="call_number">428.7 .L24s v. 2</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Lancaster School District</field>
+<field name="title">Speech aids: lessons on 'K'and 'G' sounds</field>
+<field name="year">1959</field>
+<field name="date">04/1959</field>
+<field name="keywords">Speech</field>
+<field name="publisher">Lancaster School District</field>
+<field name="language">English</field>
+<field name="call_number">428.7 .L24s v. 3</field>
+<field name="grade_level_number">Kindergarten</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Lancaster School District</field>
+<field name="title">Speech aids: lessons on 'K'and 'G' sounds</field>
+<field name="year">1959</field>
+<field name="date">04/1959</field>
+<field name="keywords">Speech</field>
+<field name="publisher">Lancaster School District</field>
+<field name="language">English</field>
+<field name="call_number">428.7 .L24s v. 4</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City School District</field>
+<field name="title">Instructional guide for speech 1 and 2 : senior high school</field>
+<field name="year">1966</field>
+<field name="date">1966</field>
+<field name="pages">186</field>
+<field name="keywords">Speech</field>
+<field name="keywords">Oral communication</field>
+<field name="notes">xi; ; 28 cm.; Responsibility: Los Angeles City Schools, Division of
+Instructional Services.</field>
+<field name="series_title">Los Angeles (California) City School District Publication</field>
+<field name="series_vol">SC-619</field>
+<field name="publisher">Los Angeles (California) City School District</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.7 .L87i</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Austin, Ruth R.</field>
+<field name="title">Speech education in the Norfolk County schools</field>
+<field name="year">1956</field>
+<field name="date">1956?</field>
+<field name="pages">26</field>
+<field name="keywords">Speech</field>
+<field name="publisher">Norfolk County Public Schools</field>
+<field name="pub_place">Norfolk, VA</field>
+<field name="language">English</field>
+<field name="call_number">428.7 .N83s</field>
+<field name="state_country">Virginia </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Bennett, Robert A.</field>
+<field name="author">Corbin, Richard</field>
+<field name="author">Lamar, Wilmer</field>
+<field name="author">Majerrison, Mary</field>
+<field name="author">Reeves, Ruth</field>
+<field name="author">Scheerer, Lorietta</field>
+<field name="title">Speech in the English classroom : a portfolio</field>
+<field name="year">1961</field>
+<field name="date">1961</field>
+<field name="keywords">Speech</field>
+<field name="notes">1 portfolio ; 26 cm.; Note(s): "This portfolio contains twelve articles
+concerning the teaching of speech in the English class. Most of the articles originally appeared in
+the English Journal."/ Includes bibliographical references.; Responsibility: produced by the
+Secondary School Section Committee of the National Council of Teachers of English ; Robert A.
+Bennett, general editor.</field>
+<field name="publisher">National Council of Teachers of English</field>
+<field name="pub_place">Champaign, IL</field>
+<field name="language">English</field>
+<field name="call_number">428.7 .N27s </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">New York City Board of Education</field>
+<field name="title">Syllabus in remedial English, eleventh year</field>
+<field name="year">1954</field>
+<field name="date">1954</field>
+<field name="keywords">English language</field>
+<field name="publisher">New York City Board of Education</field>
+<field name="pub_place">New York, NY</field>
+<field name="language">English</field>
+<field name="call_number">428.7 .N532s</field>
+<field name="state_country">New York</field>
+<field name="grade_level_number">11th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">New York (New York) Board of Education</field>
+<field name="corp_author">Bureau for Speech Improvement</field>
+<field name="title">Our public schools. Part V, Speech improvement</field>
+<field name="year">1956</field>
+<field name="date">1955-1956</field>
+<field name="pages">24</field>
+<field name="keywords">Speech therapy</field>
+<field name="keywords">Speech disorders</field>
+<field name="series_title">Report of the Superintendent of Schools, 1955-1956</field>
+<field name="series_vol">5</field>
+<field name="publisher">Bureau for Speech Improvement, New York (New York) Board of
+Education</field>
+<field name="pub_place">New York, NY</field>
+<field name="language">English</field>
+<field name="call_number">428.7 .N532sp</field>
+<field name="state_country">New York </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">State University of New York</field>
+<field name="title">Audiovisual aids for teaching speech in English and speech classes of the
+secondary school</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="pages">32</field>
+<field name="keywords">Speech</field>
+<field name="keywords">Audio-visual materials</field>
+<field name="publisher">University of the State of New York. The State Education Dept</field>
+<field name="pub_place">Albany, NY</field>
+<field name="language">English</field>
+<field name="call_number">428.7 .N533av</field>
+<field name="state_country">New York</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Carroll, Anne Welch</field>
+<field name="author">Bliler, Robert</field>
+<field name="author">Mosher, Donna</field>
+<field name="author">Pals, Marjorie</field>
+<field name="author">Stone, Carole Rapp</field>
+<field name="author">Van Tine, Ruth</field>
+<field name="author">Yoder, Dave</field>
+<field name="title">Guidelines for oral language development</field>
+<field name="year">1966</field>
+<field name="date">04/1966</field>
+<field name="pages">92</field>
+<field name="keywords">Language arts</field>
+<field name="keywords">Speech therapy</field>
+<field name="notes">92 leaves ; 28 cm.; Note(s): Cover title.; Responsibility: prepared by the
+Committee on exceptional children of the Rocky Mountain school study council ; editor Anne Welch
+Carroll.</field>
+<field name="publisher">University of Denver</field>
+<field name="pub_place">Denver, CO</field>
+<field name="language">English</field>
+<field name="call_number">428.7 .R68f</field>
+<field name="state_country">Colorado </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Santa Clara County (California) Office of Education</field>
+<field name="title">Speech education in the elementary school</field>
+<field name="keywords">Speech therapy</field>
+<field name="publisher">Santa Clara County (California) Office of Education</field>
+<field name="pub_place">San Jose, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.7 .S23s</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Philadelphia (Pennsylvania) Public Schools</field>
+<field name="title">A guide to the teaching of speaking and listening : grades 7-12
+(tentative)</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="pages">59</field>
+<field name="keywords">Speech</field>
+<field name="keywords">Comprehension</field>
+<field name="notes">59 p. ; 28 cm.; Responsibility: Philadelphia Public Schools.</field>
+<field name="publisher">Philadelphia (Pennsylvania) Public Schools</field>
+<field name="pub_place">Philadelphia, PA</field>
+<field name="language">English</field>
+<field name="call_number">428.7 .P54s</field>
+<field name="state_country">Pennsylvania</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Pontiac (Michigan) Board of Education</field>
+<field name="title">Speech: courses of study and classroom materials for grades 7, 8, 9</field>
+<field name="year">1957</field>
+<field name="date">1957</field>
+<field name="keywords">Speech</field>
+<field name="publisher">Pontiac (Michigan) Board of Education</field>
+<field name="pub_place">Pontiac, MI</field>
+<field name="language">English</field>
+<field name="call_number">428.7 .P81s</field>
+<field name="state_country">Michigan</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Sweetwater Union High School District (Chula Vista, California)</field>
+<field name="title">Course notes and suggestions for speech arts</field>
+<field name="year">1964</field>
+<field name="date">1964</field>
+<field name="pages">27</field>
+<field name="keywords">Public speaking</field>
+<field name="publisher">Sweetwater Union High School District</field>
+<field name="pub_place">Chula Vista, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.7 .S97s v. 1</field>
+<field name="state_country">California </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Tulare County (California) Superintendent of Schools</field>
+<field name="title">Choral speaking for Christmas</field>
+<field name="pages">8</field>
+<field name="keywords">Choral speaking</field>
+<field name="series_title">Language arts bulletin</field>
+<field name="series_vol">20</field>
+<field name="publisher">Tulare County (California) Superintendent of Schools</field>
+<field name="pub_place">Visalia, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.7 .T91c v. 1</field>
+<field name="state_country">California </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Tulare County (California) Superintendent of Schools</field>
+<field name="title">Choral speaking for graduation</field>
+<field name="keywords">Choral speaking</field>
+<field name="series_title">Language arts bulletin</field>
+<field name="series_vol">21</field>
+<field name="publisher">Tulare County (California) Superintendent of Schools</field>
+<field name="pub_place">Visalia, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.7 .T91c v. 2</field>
+<field name="state_country">California </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Tulare County (California) Superintendent of Schools</field>
+<field name="title">Poems for choral speaking</field>
+<field name="keywords">Choral speaking</field>
+<field name="series_title">Language arts bulletin</field>
+<field name="series_vol">22</field>
+<field name="publisher">Tulare County (California) Superintendent of Schools</field>
+<field name="pub_place">Visalia, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.7 .T91c v. 3</field>
+<field name="state_country">California </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Tulare County (California) Superintendent of Schools</field>
+<field name="title">Selections for choral speaking</field>
+<field name="keywords">Choral speaking</field>
+<field name="series_title">Language arts bulletin</field>
+<field name="series_vol">23</field>
+<field name="publisher">Tulare County (California) Superintendent of Schools</field>
+<field name="pub_place">Visalia, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.7 .T91c v. 4</field>
+<field name="state_country">California </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Tulare County (California) Superintendent of Schools</field>
+<field name="title">Speech improvement</field>
+<field name="keywords">Speech</field>
+<field name="series_title">Bulletin</field>
+<field name="series_vol">1</field>
+<field name="publisher">Tulare County (California) Superintendent of Schools</field>
+<field name="pub_place">Visalia, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.7 .T91s v. 1-2</field>
+<field name="state_country">California </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Tulare County (California) Superintendent of Schools</field>
+<field name="title">Speech correction teacher's workshop</field>
+<field name="keywords">Speech</field>
+<field name="publisher">Tulare County (California) Superintendent of Schools</field>
+<field name="pub_place">Visalia, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.7 .T91sp</field>
+<field name="state_country">California </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Alberico, John</field>
+<field name="author">Johnson, Lowell</field>
+<field name="author">McBade, Jack</field>
+<field name="author">McMenamin, Milton</field>
+<field name="title">A guide to teaching dramatics 1-2 in senior high school</field>
+<field name="year">1968</field>
+<field name="date">1968</field>
+<field name="pages">139</field>
+<field name="keywords">Drama in education</field>
+<field name="notes">iii; ill. ; 28 cm.; Note(s): Includes bibliographical references.; Other Titles:
+Dramatics 1-2; Responsibility: prepared by John Alberico ... [et al.].</field>
+<field name="publisher">Long Beach Unified School District</field>
+<field name="pub_place">Long Beach, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.73 .L84d</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Chicago (Illinois) Board of Education</field>
+<field name="title">A tentative program in drama for the secondary schools</field>
+<field name="year">1959</field>
+<field name="date">1959</field>
+<field name="pages">74</field>
+<field name="keywords">Drama in education</field>
+<field name="publisher">Chicago (Illinois) Board of Education</field>
+<field name="pub_place">Chicago, IL</field>
+<field name="language">English</field>
+<field name="call_number">428.73 .C53t</field>
+<field name="state_country">Illinois</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Cleveland Heights (Ohio) Public Schools</field>
+<field name="title">Senior high school tentative course of study: English: dramatics i
+&amp;ii</field>
+<field name="year">1949</field>
+<field name="date">09/1949</field>
+<field name="pages">16</field>
+<field name="keywords">Drama in education</field>
+<field name="publisher">Cleveland Heights (Ohio) Public Schools</field>
+<field name="pub_place">Cleveland Heights, OH</field>
+<field name="language">English</field>
+<field name="call_number">428.73 .C63d</field>
+<field name="state_country">Ohio</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Fenderson, Julia K.</field>
+<field name="title">Let's visit a movie lot</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="pages">47</field>
+<field name="keywords">Motion pictures</field>
+<field name="keywords">Juvenile literature</field>
+<field name="notes">47 p. illus. 21 x 25 cm.</field>
+<field name="publisher">Culver City (California) Unified School District</field>
+<field name="pub_place">Culver City, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.73 .C96L</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Tulsa (Oklahoma) Public Schools</field>
+<field name="title">Curriculum guide for teachers of speech arts in the elementary school</field>
+<field name="year">1957</field>
+<field name="date">1957</field>
+<field name="pages">202</field>
+<field name="keywords">Speech therapy</field>
+<field name="keywords">Language arts</field>
+<field name="keywords">Curricula</field>
+<field name="notes">iii; ill. ; 28 cm.; Note(s): "Suggestions to teachers for guiding the
+experiences of pupils in speech arts in grades one through six."/ Includes bibliographical
+references.; Responsibility: Tulsa Public Schools.</field>
+<field name="publisher">Tulsa (Oklahoma) Public Schools</field>
+<field name="pub_place">Tulsa, OK</field>
+<field name="language">English</field>
+<field name="call_number">428.7 .T92c</field>
+<field name="state_country">Oklahoma</field>
+<field name="grade_level_group">Elementary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Bruton, Wanda</field>
+<field name="author">Burkhalter, Edward M.</field>
+<field name="author">Haynes, Bennie</field>
+<field name="author">Oliver, George N.</field>
+<field name="author">Parker, Cordell</field>
+<field name="title">Curriculum guide for speech and dramatics, grades 9-12</field>
+<field name="year">1964</field>
+<field name="date">08/1964</field>
+<field name="pages">34</field>
+<field name="keywords">Curricula</field>
+<field name="keywords">Speech</field>
+<field name="keywords">Drama in education</field>
+<field name="publisher">Tyler (Texas) Independent School District</field>
+<field name="pub_place">Tyler, TX</field>
+<field name="language">English</field>
+<field name="call_number">428.7 .T98c</field>
+<field name="state_country">Texas</field>
+<field name="grade_level_number">9th grade</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City School District</field>
+<field name="title">Senior high school drama 1, drama 2, play production : instructional
+guide</field>
+<field name="year">1967</field>
+<field name="date">1967</field>
+<field name="pages">130</field>
+<field name="keywords">Drama in education</field>
+<field name="notes">x; ill. ; 28 cm.; Note(s): Includes bibliographical references.; Other Titles:
+Drama 1, drama 2, play production.</field>
+<field name="series_title">Los Angeles (California) City Schools, Division of Instructional
+Services. Publication</field>
+<field name="series_vol">SC-623</field>
+<field name="publisher">Los Angeles (California) City Schools, Division of Instructional
+Services</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.73 .L87d</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City Schools</field>
+<field name="title">Instructional guide for stagecraft : junior high school industrial arts senior
+high school industrial education</field>
+<field name="year">1965</field>
+<field name="date">1965</field>
+<field name="keywords">Theater architecture</field>
+<field name="notes">1 v. (various pagings) : ill. ; 28 cm.; Responsibility: Los Angeles City
+Schools, Division of Instructional Services.</field>
+<field name="series_title">Los Angeles (California) City Schools. Publication</field>
+<field name="series_vol">SC-445</field>
+<field name="publisher">Los Angeles (California) City Schools</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.73 .L87i</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Oakland (California) Public Schools</field>
+<field name="title">Tentative guide for drama classes: second progress report: senior high
+school</field>
+<field name="year">1956</field>
+<field name="date">07/1956</field>
+<field name="pages">38</field>
+<field name="keywords">Drama in education</field>
+<field name="publisher">Oakland (California) Public Schools</field>
+<field name="pub_place">Oakland, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.73 .O11t</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Iron, William Z.</field>
+<field name="title">The high school multi-purpose theatre: a critical study</field>
+<field name="year">1961</field>
+<field name="date">12/1961</field>
+<field name="pages">21</field>
+<field name="keywords">Drama in education</field>
+<field name="publisher">University of Oregon. School of Education</field>
+<field name="pub_place">Eugene, OR</field>
+<field name="language">English</field>
+<field name="call_number">428.73 .O66h</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Sequoia Union High School District (Redwood City, California)</field>
+<field name="title">Drama i, ii, and iii</field>
+<field name="year">1961</field>
+<field name="date">09/1961</field>
+<field name="pages">133</field>
+<field name="keywords">Drama in education</field>
+<field name="publisher">Sequoia Union High School District</field>
+<field name="pub_place">Redwood City, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.73 .S47d</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Sweetwater Union High School District (Chula Vista, California)</field>
+<field name="title">Course notes and suggestions for dramatics</field>
+<field name="year">1964</field>
+<field name="date">1964</field>
+<field name="pages">99</field>
+<field name="keywords">English language</field>
+<field name="keywords">Drama in education</field>
+<field name="publisher">Sweetwater Union High School District</field>
+<field name="pub_place">Chula Vista, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.73 .S97d</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of Texas</field>
+<field name="corp_author">University Interscholastic League (Texas)</field>
+<field name="title">A basic list of plays : for use in the one-act play contests, the University
+Interscholastic League, 1958-1959</field>
+<field name="year">1958</field>
+<field name="date">10/1958</field>
+<field name="pages">22</field>
+<field name="keywords">Drama in education</field>
+<field name="keywords">Bibliography</field>
+<field name="keywords">One-act plays</field>
+<field name="notes">22 p. ; 23 cm.; Note(s): "October 1, 1958."; Responsibility: Bureau of Public
+School Service, Division of Extension.</field>
+<field name="series_title">University of Texas publication</field>
+<field name="series_vol">5819</field>
+<field name="publisher">University of Texas</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">428.73 .T35b</field>
+<field name="state_country">Texas </field>
+</doc>
+
+<doc>
+<field name="type">Book ID - 15278</field>
+<field name="corp_author">University of Texas</field>
+<field name="corp_author">University Interscholastic League (Texas)</field>
+<field name="title">A suggested list of plays : for use in the one-act play contests, the University
+Interscholastic League, 1956-1957</field>
+<field name="year">1956</field>
+<field name="date">10/1956</field>
+<field name="pages">27</field>
+<field name="keywords">Drama in education</field>
+<field name="keywords">Bibliography</field>
+<field name="keywords">One-act plays</field>
+<field name="notes">27 p. ; 22 cm.; Note(s): "October 1, 1956."; Responsibility: Bureau of Public
+School Service, Division of Extension.</field>
+<field name="series_title">University of Texas publication</field>
+<field name="series_vol">5619</field>
+<field name="publisher">University of Texas</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">428.73 .T35s</field>
+<field name="state_country">Texas </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of Texas</field>
+<field name="corp_author">University Interscholastic League (Texas)</field>
+<field name="title">A prescribed list of plays : for use in the one-act play contests, the
+University Interscholastic League, 1950-51</field>
+<field name="year">1950</field>
+<field name="date">11/1950</field>
+<field name="pages">20</field>
+<field name="keywords">Drama in education</field>
+<field name="keywords">Bibliography</field>
+<field name="keywords">One-act plays</field>
+<field name="notes">20 p. ; 22 cm.; Responsibility: Bureau of Public School Service, Division of
+Extension.</field>
+<field name="series_title">University of Texas publication</field>
+<field name="series_vol">5021</field>
+<field name="publisher">University of Texas</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">428.73 .T35p 1950</field>
+<field name="state_country">Texas </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of Texas</field>
+<field name="corp_author">University Interscholastic League (Texas)</field>
+<field name="title">A prescribed list of plays : for use in the one-act play contests, the
+University Interscholastic League, 1949-50</field>
+<field name="year">1949</field>
+<field name="date">11/1949</field>
+<field name="pages">20</field>
+<field name="keywords">Drama in education</field>
+<field name="keywords">Bibliography</field>
+<field name="keywords">One-act plays</field>
+<field name="notes">20 p. ; 22 cm.; Note(s): "November 1, 1949."; Responsibility: Bureau of Public
+School Service, Division of Extension.</field>
+<field name="series_title">University of Texas publication</field>
+<field name="series_vol">4921</field>
+<field name="publisher">University of Texas</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">428.73 .T35p 1949</field>
+<field name="state_country">Texas </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of Texas</field>
+<field name="corp_author">University Interscholastic League (Texas)</field>
+<field name="title">A prescribed list of plays : for use in the one-act play contests, the
+University Interscholastic League, 1948-49</field>
+<field name="year">1948</field>
+<field name="date">10/1948</field>
+<field name="pages">20</field>
+<field name="keywords">Drama in education</field>
+<field name="keywords">Bibliography</field>
+<field name="keywords">One-act plays</field>
+<field name="notes">20 p. ; 22 cm.; Responsibility: Bureau of Public School Service, Division of
+Extension.</field>
+<field name="series_title">University of Texas publication</field>
+<field name="series_vol">4820</field>
+<field name="publisher">University of Texas</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">428.73 .T35p 1948</field>
+<field name="state_country">Texas </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of Texas</field>
+<field name="corp_author">University Interscholastic League (Texas)</field>
+<field name="title">A prescribed list of plays : for use in the one-act play contests, the
+University Interscholastic League, 1947-48</field>
+<field name="year">1947</field>
+<field name="date">07/1947</field>
+<field name="pages">16</field>
+<field name="keywords">Drama in education</field>
+<field name="keywords">Bibliography</field>
+<field name="keywords">One-act plays</field>
+<field name="notes">16 p. ; 22 cm.; Responsibility: Bureau of Public School Service, Division of
+Extension.</field>
+<field name="series_title">University of Texas publication</field>
+<field name="series_vol">4725</field>
+<field name="publisher">University of Texas</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">428.73 T35p 1947</field>
+<field name="state_country">Texas </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of Texas</field>
+<field name="corp_author">University Interscholastic League (Texas)</field>
+<field name="title">A prescribed list of plays : for use in the one-act play contests, the
+University Interscholastic League, 1944-1945</field>
+<field name="year">1944</field>
+<field name="date">07/1944</field>
+<field name="pages">14</field>
+<field name="keywords">Drama in education</field>
+<field name="keywords">Bibliography</field>
+<field name="notes">14 p. ; 22 cm.; Responsibility: Bureau of Public School Service, Division of
+Extension.</field>
+<field name="series_title">University of Texas publication</field>
+<field name="series_vol">4425</field>
+<field name="publisher">University of Texas</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">428.73 .T35p 1944</field>
+<field name="state_country">Texas </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Beloit (Wisconsin) Public Schools</field>
+<field name="title">Foreign language: German 1 alm, secondary</field>
+<field name="year">1964</field>
+<field name="date">08/1964</field>
+<field name="pages">30</field>
+<field name="keywords">German language</field>
+<field name="series_title">Beloit (Wisconsin) Public Schools. Bulletin</field>
+<field name="series_vol">87</field>
+<field name="publisher">Beloit (Wisconsin) Public Schools</field>
+<field name="pub_place">Beloit, WI</field>
+<field name="language">English</field>
+<field name="call_number">430 .B45f</field>
+<field name="state_country">Wisconsin </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Brookline (Massachusetts) Public Schools</field>
+<field name="title">Course of study in German</field>
+<field name="year">1961</field>
+<field name="date">1961</field>
+<field name="pages">11</field>
+<field name="keywords">German language</field>
+<field name="publisher">Brookline (Massachusetts) Public Schools</field>
+<field name="pub_place">Brookline, MA</field>
+<field name="language">English</field>
+<field name="call_number">430 .B87c</field>
+<field name="state_country">Massachusetts </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Cincinnati (Ohio) Public Schools</field>
+<field name="title">Course of study in German : grades 9-12</field>
+<field name="year">1951</field>
+<field name="keywords">German language</field>
+<field name="keywords">Curricula</field>
+<field name="series_title">Curriculum bulletin (Cincinnati, Ohio)</field>
+<field name="series_vol">193</field>
+<field name="publisher">Cincinnati (Ohio) Public Schools</field>
+<field name="pub_place">Cincinnati, OH</field>
+<field name="language">English</field>
+<field name="call_number">430 .C57c</field>
+<field name="state_country">Ohio</field>
+<field name="grade_level_number">9th grade</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Culver City (California) Unified School District</field>
+<field name="title">German 3, 4, Level ii</field>
+<field name="year">1965</field>
+<field name="date">09/1965</field>
+<field name="pages">137</field>
+<field name="keywords">German language</field>
+<field name="publisher">Culver City (California) Unified School District</field>
+<field name="pub_place">Culver City, CA</field>
+<field name="language">English</field>
+<field name="call_number">430 .C96g v. 2 </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Culver City (California) Unified School District</field>
+<field name="title">German 7, 8, Level iv</field>
+<field name="year">1965</field>
+<field name="date">08/1965</field>
+<field name="pages">62</field>
+<field name="keywords">German language</field>
+<field name="publisher">Culver City (California) Unified School District</field>
+<field name="pub_place">Culver City, CA</field>
+<field name="language">English</field>
+<field name="call_number">430 .C96g v. 4 </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Feldman, David Morris</field>
+<field name="author">Kline, Walter D.</field>
+<field name="title">German: contemporary methodology. A series of inservice study guides for modern
+foreign language teachers</field>
+<field name="year">1967</field>
+<field name="date">09/1967</field>
+<field name="pages">86</field>
+<field name="keywords">German language</field>
+<field name="keywords">Teacher training</field>
+<field name="notes">86 p. charts.; Note(s): Cover title.; Responsibility: by David M. Feldman and
+Walter D. Kline; under the direction of Dorothy D. Duhan.</field>
+<field name="publisher">Colorado State Department of Education</field>
+<field name="pub_place">Denver, CO</field>
+<field name="language">English</field>
+<field name="call_number">430 .C71g</field>
+<field name="state_country">Colorado</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Koski, Tauno</field>
+<field name="author">McCammon, Marilyn</field>
+<field name="author">McFall, Paula</field>
+<field name="author">McLennan, Robert</field>
+<field name="author">Silins, Brigita</field>
+<field name="title">A practical guide to teaching German (levels I-V)</field>
+<field name="year">1967</field>
+<field name="date">1967?</field>
+<field name="pages">147</field>
+<field name="keywords">German language</field>
+<field name="notes">29 cm.; Responsibility: Mountain View-Los Altos Union High School
+District.</field>
+<field name="publisher">Mountain View-Los Altos Union High School District</field>
+<field name="pub_place">Mountain View, CA</field>
+<field name="language">English</field>
+<field name="call_number">430 .M92p</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Philadelphia (Pennsylvania) Public Schools</field>
+<field name="title">Guide to the teaching of German in the secondary schools of Philadelphia :
+grades 9-12</field>
+<field name="year">1961</field>
+<field name="date">1961</field>
+<field name="pages">69</field>
+<field name="keywords">German language</field>
+<field name="notes">xvii, 69; ; 28 cm.; Note(s): Includes bibliographical references.;
+Responsibility: Philadelphia Public Schools.</field>
+<field name="publisher">Philadelphia (Pennsylvania) Public Schools</field>
+<field name="pub_place">Philadelphia, PA</field>
+<field name="language">English</field>
+<field name="call_number">430 .P54t v. 1</field>
+<field name="state_country">Pennsylvania</field>
+<field name="grade_level_number">9th grade</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Philadelphia (Pennsylvania) Public Schools</field>
+<field name="title">Supplementary bibliography for the teaching of German, terms 1 through 8</field>
+<field name="year">1961</field>
+<field name="date">1961</field>
+<field name="pages">11</field>
+<field name="keywords">German language</field>
+<field name="publisher">Philadelphia (Pennsylvania) Public Schools</field>
+<field name="pub_place">Philadelphia, PA</field>
+<field name="language">English</field>
+<field name="call_number">430 .P54t v. 2</field>
+<field name="state_country">Pennsylvania</field>
+<field name="grade_level_number">9th grade</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Philadelphia (Pennsylvania) Public Schools</field>
+<field name="title">Leben und sprechen : for use in second term German</field>
+<field name="year">1954</field>
+<field name="date">1954</field>
+<field name="pages">46</field>
+<field name="keywords">German language</field>
+<field name="publisher">Philadelphia (Pennsylvania) Public Schools</field>
+<field name="pub_place">Philadelphia, PA</field>
+<field name="language">German</field>
+<field name="language">English</field>
+<field name="call_number">430 .P54t v. 4</field>
+<field name="state_country">Pennsylvania </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Philadelphia (Pennsylvania) Public Schools</field>
+<field name="title">Leben und sprechen : for use in first term German</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="pages">30</field>
+<field name="keywords">German language</field>
+<field name="publisher">Philadelphia (Pennsylvania) Public Schools</field>
+<field name="pub_place">Philadelphia, PA</field>
+<field name="language">German</field>
+<field name="language">English</field>
+<field name="call_number">430 .P54t v. 3</field>
+<field name="state_country">Pennsylvania </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Baltimore (Maryland) City Public Schools</field>
+<field name="title">Elementary French guide</field>
+<field name="pages">45</field>
+<field name="edition">Rev. ed.</field>
+<field name="keywords">French language</field>
+<field name="publisher">Baltimore (Maryland) City Public Schools</field>
+<field name="pub_place">Baltimore, MD</field>
+<field name="language">English</field>
+<field name="language">French</field>
+<field name="call_number">440 /B19e</field>
+<field name="state_country">Maryland </field>
+</doc>
+
+<doc>
+<field name="type">BOOk</field>
+<field name="corp_author">Beverly Hills (California) Unified School District</field>
+<field name="title">French: teaching and resource guide for elementary schools</field>
+<field name="year">1963</field>
+<field name="date">09/1963</field>
+<field name="pages">237</field>
+<field name="keywords">French language</field>
+<field name="publisher">Beverly Hills (California) Unified School District</field>
+<field name="pub_place">Beverly Hills, CA</field>
+<field name="language">English</field>
+<field name="language">French</field>
+<field name="call_number">440 .B57f</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Brookline (Massachusetts) Public Schools</field>
+<field name="title">Course of study in French, grades 9-12</field>
+<field name="year">1959</field>
+<field name="date">1959</field>
+<field name="pages">50</field>
+<field name="keywords">French language</field>
+<field name="publisher">Brookline (Massachusetts) Public Schools</field>
+<field name="pub_place">Brookline, MA</field>
+<field name="language">English</field>
+<field name="language">French</field>
+<field name="call_number">440 .B87c</field>
+<field name="state_country">Massachusetts</field>
+<field name="grade_level_number">9th grade</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Cincinnati (Ohio) Public Schools</field>
+<field name="title">Course of study in French : grades 9-12</field>
+<field name="year">1950</field>
+<field name="date">1950</field>
+<field name="pages">20</field>
+<field name="keywords">French language</field>
+<field name="keywords">Curricula</field>
+<field name="notes">[20] p. ; 28 cm.; Note(s): Copy has original green wrapper.; Other Titles:
+Course of study :; French, grades 9-12</field>
+<field name="series_title">Curriculum bulletin (Cincinnati, Ohio)</field>
+<field name="series_vol">147</field>
+<field name="publisher">Cincinnati (Ohio) Public Schools</field>
+<field name="pub_place">Cincinnati, OH</field>
+<field name="language">English</field>
+<field name="call_number">440 .C57c</field>
+<field name="state_country">Ohio</field>
+<field name="grade_level_number">9th grade</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Cleveland (Ohio) Public Schools</field>
+<field name="title">Course of study--juvenile French</field>
+<field name="year">1952</field>
+<field name="date">1952</field>
+<field name="keywords">French language</field>
+<field name="abstract">pt. 1. Grades 1-6. -- pt. 2. Grades 2-6.</field>
+<field name="notes">2 v. ; 29 cm.</field>
+<field name="publisher">Cleveland (Ohio) Public Schools</field>
+<field name="pub_place">Cleveland, OH</field>
+<field name="language">English</field>
+<field name="call_number">440 .C63c v. 1-2</field>
+<field name="state_country">Ohio</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Cleveland Heights (Ohio) Public Schools</field>
+<field name="title">Senior high school tentative course of study: French</field>
+<field name="year">1950</field>
+<field name="date">10/1950</field>
+<field name="pages">32</field>
+<field name="keywords">French language</field>
+<field name="publisher">Cleveland Heights (Ohio) Public Schools</field>
+<field name="pub_place">Cleveland Heights, OH</field>
+<field name="language">English</field>
+<field name="language">French</field>
+<field name="call_number">440 .C635s</field>
+<field name="state_country">Ohio</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Cleveland Heights (Ohio) Public Schools</field>
+<field name="title">Tentative elementary French course of study for the first year of
+instruction</field>
+<field name="year">1958</field>
+<field name="date">09/1958</field>
+<field name="pages">19</field>
+<field name="keywords">French language</field>
+<field name="publisher">Cleveland Heights (Ohio) Public Schools</field>
+<field name="pub_place">Cleveland Heights, OH</field>
+<field name="language">English</field>
+<field name="language">French</field>
+<field name="call_number">440 .C635t</field>
+<field name="state_country">Ohio</field>
+<field name="grade_level_group">Elementary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Denver (Colorado) Public Schools</field>
+<field name="title">A guide to teaching French FLES</field>
+<field name="year">1967</field>
+<field name="date">1967</field>
+<field name="pages">68</field>
+<field name="keywords">French language</field>
+<field name="notes">68 p. ; 28 cm.; Note(s): Includes bibliographical references.</field>
+<field name="publisher">Denver (Colorado) Public Schools</field>
+<field name="pub_place">Denver, CO</field>
+<field name="language">English</field>
+<field name="language">French</field>
+<field name="call_number">440 .D41g v. 1</field>
+<field name="call_number">Colorado</field>
+<field name="grade_level_group">Elementary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Denver (Colorado) Public Schools. Division of Instructional Services.
+Department of General Curriculum Services</field>
+<field name="title">A guide to teaching French, levels I through VI</field>
+<field name="year">1967</field>
+<field name="date">1967</field>
+<field name="pages">99</field>
+<field name="keywords">French language</field>
+<field name="publisher">Denver (Colorado) Public Schools</field>
+<field name="pub_place">Denver, CO</field>
+<field name="language">English</field>
+<field name="language">French</field>
+<field name="call_number">440 .D41g v. 2</field>
+<field name="state_country">Colorado </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Feldman, David Morris</field>
+<field name="author">Kline, Walter D.</field>
+<field name="title">French: contemporary methodology. A series of inservice study guides for modern
+foreign language teachers</field>
+<field name="year">1967</field>
+<field name="date">09/1967</field>
+<field name="pages">86</field>
+<field name="keywords">French language</field>
+<field name="keywords">Teacher training</field>
+<field name="notes">86 p. charts.; Note(s): Cover title.; Responsibility: by David M. Feldman and
+Walter D. Kline; under the direction of Dorothy D. Duhan.</field>
+<field name="publisher">Colorado State Department of Education</field>
+<field name="pub_place">Denver, CO</field>
+<field name="language">English</field>
+<field name="call_number">440 .C71f</field>
+<field name="state_country">Colorado </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Massachusetts Council for Public Schools. Foreign Language
+Committee</field>
+<field name="title">FLES ... Foreign languages elementary schools; a study of teaching foreign
+languages to young children by the oral method</field>
+<field name="year">1957</field>
+<field name="date">1957</field>
+<field name="pages">31</field>
+<field name="keywords">Modern languages</field>
+<field name="notes">31 p. 15 x 23 cm.; Other Titles: Teaching foreign languages to young
+children</field>
+<field name="publisher">Massachusetts Council for Public Schools</field>
+<field name="pub_place">Boston, MA</field>
+<field name="language">English</field>
+<field name="call_number">440 .M41f</field>
+<field name="state_country">Massachusetts</field>
+<field name="grade_level_group">Elementary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Secondary Education Board (Milton, Massachusetts)</field>
+<field name="title">A French vocabulary</field>
+<field name="year">1952</field>
+<field name="date">1952</field>
+<field name="pages">202</field>
+<field name="keywords">French language</field>
+<field name="publisher">Secondary Education Board</field>
+<field name="pub_place">Milton, MA</field>
+<field name="language">English</field>
+<field name="language">French</field>
+<field name="call_number">440 .M66f</field>
+<field name="state_country">Massachusetts </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Mount Lebanon Public Schools (Pittsburg, Pa.)</field>
+<field name="title">The curriculum guide for French for the more able</field>
+<field name="year">1961</field>
+<field name="date">1961</field>
+<field name="keywords">French language</field>
+<field name="keywords">Gifted children</field>
+<field name="keywords">Curricula</field>
+<field name="notes">[55] leaves ; 28 cm.</field>
+<field name="publisher">Mount Lebanon Public Schools</field>
+<field name="pub_place">Pittsburg, PA</field>
+<field name="language">English</field>
+<field name="language">French</field>
+<field name="call_number">440 .M92c</field>
+<field name="state_country">Pennsylvania</field>
+<field name="grade_level_group">Elementary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Rowlands, David</field>
+<field name="title">A puppet theatre for language teaching</field>
+<field name="year">1965</field>
+<field name="date">05/1965</field>
+<field name="pages">36</field>
+<field name="keywords">Puppet theater in education</field>
+<field name="keywords">Languages</field>
+<field name="notes">ill. ; 33 cm.; Responsibility: by David Rowlands ; illus. by Andrew Wright and
+Marie-France Cauvin.</field>
+<field name="publisher">Nuffield Foundation</field>
+<field name="pub_place">London, UK</field>
+<field name="language">English</field>
+<field name="language">French CN - 440 .N96n v. 2</field>
+<field name="state_country">United Kingdom </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of the State of New York. Bureau of Elementary Curriculum
+Development</field>
+<field name="title">French for elementary schools, a teaching guide</field>
+<field name="year">1966</field>
+<field name="date">1966</field>
+<field name="pages">44</field>
+<field name="keywords">French language</field>
+<field name="notes">v; 22 cm.; Note(s): Bibliography: p. 37-41.</field>
+<field name="publisher">University of the State of New York</field>
+<field name="pub_place">Albany, NY</field>
+<field name="language">English</field>
+<field name="language">French</field>
+<field name="call_number">440 .N52fe</field>
+<field name="state_country">New York</field>
+<field name="grade_level_group">Elementary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Nuffield Foreign Languages Teaching Materials Project</field>
+<field name="title">Nuffield introductory French course, primary state 1, part a, units 1-20</field>
+<field name="year">1965</field>
+<field name="date">1965</field>
+<field name="keywords">French language</field>
+<field name="notes">1 v. various paging</field>
+<field name="publisher">Nuffield Foundation</field>
+<field name="pub_place">Leeds, UK</field>
+<field name="language">English</field>
+<field name="language">French</field>
+<field name="call_number">440 .N96n v. 1</field>
+<field name="state_country">United Kingdom </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Oakland (California) Public Schools</field>
+<field name="title">Guide for teaching French: French i to iv</field>
+<field name="year">1958</field>
+<field name="date">06/1958</field>
+<field name="pages">50</field>
+<field name="keywords">French language</field>
+<field name="publisher">Oakland (California) Public Schools</field>
+<field name="pub_place">Oakland, CA</field>
+<field name="language">English</field>
+<field name="call_number">440 .O11g</field>
+<field name="state_country">California </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Philadelphia (Pennsylvania) Public Schools. Curriculum Office</field>
+<field name="title">Vivre et parler : for use in second term French</field>
+<field name="year">1960</field>
+<field name="date">1960</field>
+<field name="pages">40</field>
+<field name="keywords">French language</field>
+<field name="notes">ix; ; 21 cm.; Responsibility: [Secondary School Foreign Language Curriculum
+Committee].</field>
+<field name="publisher">Philadelphia (Pennsylvania) Public Schools</field>
+<field name="pub_place">Philadelphia, PA</field>
+<field name="language">English</field>
+<field name="language">French</field>
+<field name="call_number">440 .P54t supp. 2</field>
+<field name="state_country">Pennsylvania</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Philadelphia (Pennsylvania) Public Schools. Curriculum Office</field>
+<field name="title">Supplementary bibliography for the teaching of French, terms 1 through 8</field>
+<field name="year">1961</field>
+<field name="date">1961</field>
+<field name="pages">18</field>
+<field name="keywords">French language</field>
+<field name="notes">ix; ; 21 cm.; Responsibility: [Secondary School Foreign Language Curriculum
+Committee].</field>
+<field name="publisher">Philadelphia (Pennsylvania) Public Schools</field>
+<field name="pub_place">Philadelphia, PA</field>
+<field name="language">English</field>
+<field name="language">French</field>
+<field name="call_number">440 .P54t supp. 3</field>
+<field name="state_country">Pennsylvania</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Philadelphia (Pennsylvania) Public Schools. Curriculum Office</field>
+<field name="title">Vivre et parler : for use in first term French</field>
+<field name="year">1960</field>
+<field name="date">1960</field>
+<field name="pages">27</field>
+<field name="keywords">French language</field>
+<field name="notes">ix; ; 21 cm.; Responsibility: Secondary School Foreign Language Curriculum
+Committee].</field>
+<field name="edition">Rev</field>
+<field name="publisher">Philadelphia (Pennsylvania) Public Schools</field>
+<field name="pub_place">Philadelphia, PA</field>
+<field name="language">English</field>
+<field name="language">French</field>
+<field name="call_number">440 .P54t supp. 1</field>
+<field name="state_country">Pennsylvania</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Philadelphia (Pennsylvania) Public Schools</field>
+<field name="title">Guide to the teaching of French in the secondary schools of Philadelphia, grades
+9-12</field>
+<field name="year">1961</field>
+<field name="date">1961</field>
+<field name="keywords">French language</field>
+<field name="notes">54 p.; Note(s): Includes bibliography./ Also issued online.</field>
+<field name="publisher">Philadelphia (Pennsylvania) Public Schools</field>
+<field name="pub_place">Philadelphia, PA</field>
+<field name="language">English</field>
+<field name="call_number">440 .P54t</field>
+<field name="state_country">Pennsylvania</field>
+<field name="grade_level_number">9th grade</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Sacramento (California) City Unified School District</field>
+<field name="title">Course of study in French 1 and 2, junior-senior high schools</field>
+<field name="year">1955</field>
+<field name="date">02/1955</field>
+<field name="pages">109</field>
+<field name="keywords">French language</field>
+<field name="publisher">Sacramento (California) City Unified School District</field>
+<field name="pub_place">Sacramento, CA</field>
+<field name="language">English</field>
+<field name="language">French</field>
+<field name="call_number">440 .S12c v. 1</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Middle school</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Sacramento (California) City Unified School District</field>
+<field name="title">Course of study in French 3 and 4, junior-senior high schools</field>
+<field name="year">1955</field>
+<field name="date">07/1955</field>
+<field name="pages">54</field>
+<field name="keywords">French language</field>
+<field name="publisher">Sacramento (California) City Unified School District</field>
+<field name="pub_place">Sacramento, CA</field>
+<field name="language">English</field>
+<field name="language">French</field>
+<field name="call_number">440 .S12c v. 2</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Middle school</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+</add>

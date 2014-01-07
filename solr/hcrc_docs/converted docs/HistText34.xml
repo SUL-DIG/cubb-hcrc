@@ -1,0 +1,272 @@
+<add>
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Alameda (California) Unified School District</field>
+<field name="title">Arithmetic activities, grade 1</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="pages">110</field>
+<field name="keywords">Arithmetic</field>
+<field name="publisher">Alameda (California) Unified School District</field>
+<field name="pub_place">Alameda, CA</field>
+<field name="language">English</field>
+<field name="call_number">511.2 .A31a v. 1</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">1st grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Alameda (California) Unified School District</field>
+<field name="title">Arithmetic activities, grade 2</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="pages">80</field>
+<field name="keywords">Arithmetic</field>
+<field name="publisher">Alameda (California) Unified School District</field>
+<field name="pub_place">Alameda, CA</field>
+<field name="language">English</field>
+<field name="call_number">511.2 .A31a v. 2</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">2nd grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Arlington (Virginia) County Public Schools</field>
+<field name="title">Elementary arithmetic, grades one through six</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="pages">165</field>
+<field name="keywords">Arithmetic</field>
+<field name="publisher">Arlington (Virginia) County Public Schools</field>
+<field name="pub_place">Arlington, VA</field>
+<field name="language">English</field>
+<field name="call_number">511.2 .A72e</field>
+<field name="state_country">Virginia</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Atlanta (Georgia) Community High School</field>
+<field name="title">Supplement to mathematics in the Atlanta Community High School, arithmetic 1 and
+2</field>
+<field name="year">1948</field>
+<field name="date">1948</field>
+<field name="keywords">Arithmetic</field>
+<field name="publisher">Atlanta (Georgia) Community High School</field>
+<field name="pub_place">Atlanta, GA</field>
+<field name="language">English</field>
+<field name="call_number">511.2 .A88s</field>
+<field name="state_country">Georgia</field>
+<field name="grade_level_number">8th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Beverly Hills (California) Unified School District</field>
+<field name="title">Mathematics: tentative course of study 3-8</field>
+<field name="year">1962</field>
+<field name="date">10/1962</field>
+<field name="pages">145</field>
+<field name="keywords">Arithmetic</field>
+<field name="series_title">Beverly Hills (California) Unified School District. Curriculum
+bulletin.</field>
+<field name="series_vol">12</field>
+<field name="publisher">Beverly Hills (California) Unified School District</field>
+<field name="pub_place">Beverly Hills, CA</field>
+<field name="language">English</field>
+<field name="call_number">511.2 .B57c</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Buffalo (New York) Public Schools</field>
+<field name="title">Mathematics: curriculum guide, grades K-6 (tentative)</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="keywords">Mathematics</field>
+<field name="notes">1 v, various pagings</field>
+<field name="publisher">Buffalo (New York) Public Schools</field>
+<field name="pub_place">Buffalo, NY</field>
+<field name="language">English</field>
+<field name="call_number">511.2 .B92m</field>
+<field name="state_country">New York</field>
+<field name="grade_level_number">Kindergarten</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Beatty, Leslie</field>
+<field name="title">Guide to the teaching of arithmetic in kindergarten and grades one and
+two</field>
+<field name="year">1949</field>
+<field name="date">11/1949</field>
+<field name="pages">75</field>
+<field name="keywords">Arithmetic</field>
+<field name="notes">vii; ges illustrations 23 cm.; Note(s): Cover title./ L124.B62 vol. 18, no. 8
+with : Home and school work together for young children / Ralph G. Eckert. Sacramento : California
+State Department of Education, 1949. Bound together subsequent to publication./ Includes
+bibliographical references (pages 74-75).</field>
+<field name="series_title">Bulletin of the California State Dept. of Education</field>
+<field name="series_vol">18</field>
+<field name="issue">8</field>
+<field name="publisher">California State Department of Education</field>
+<field name="pub_place">Sacramento, CA</field>
+<field name="language">English</field>
+<field name="call_number">511.2 .C15g</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">California State Department of Education. Mathematics Education Task
+Force</field>
+<field name="title">Inservice guide to teaching measurement, kindergarten through grade eight; an
+introduction through grade eight; an introduction to the SI metric system</field>
+<field name="year">1975</field>
+<field name="date">1975</field>
+<field name="pages">48</field>
+<field name="keywords">Metric system</field>
+<field name="notes">ill. ; 23 cm.; Note(s): Includes bibliographical references (p. 47-48).; Other
+Titles: Inservice guide for teaching measurement.; SI metric system.; Responsibility: prepared by
+the Mathematics Education Task Force.</field>
+<field name="publisher">California State Department of Education</field>
+<field name="pub_place">Sacramento, CA</field>
+<field name="language">English</field>
+<field name="call_number">511.2 .C15i</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">Kindergarten</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">California State Department of Education. State Curriculum Commission.
+Advisory Committee on Mathematics</field>
+<field name="title">Mathematics framework for California public schools; Kindergarten through grade
+eight</field>
+<field name="year">1972</field>
+<field name="date">1972</field>
+<field name="pages">118</field>
+<field name="keywords">Mathematics</field>
+<field name="notes">ix; ill. 24 cm.; Other Titles: Strands report; Responsibility: Prepared for the
+California State Board of Education and the California State Curriculum Commission by the Statewide
+Mathematics Advisory Committee. The second Strands report.</field>
+<field name="publisher">California State Department of Education</field>
+<field name="pub_place">Sacramento, CA</field>
+<field name="language">English</field>
+<field name="call_number">511.2 .C15m</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">Kindergarten</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Central New York School Study Council. Committee on Flexibility</field>
+<field name="title">Developing meaningful practices in arithmetic; another step toward a more
+flexible elementary school curriculum, a third report</field>
+<field name="year">1951</field>
+<field name="date">06/1951</field>
+<field name="pages">123</field>
+<field name="keywords">Arithmetic</field>
+<field name="notes">123 p. illus. 22 cm.</field>
+<field name="publisher">Central New York School Study Council</field>
+<field name="pub_place">Syracuse, NY</field>
+<field name="language">English</field>
+<field name="call_number">511.2 .C39d</field>
+<field name="grade_level_group">Elementary </field>
+</doc>
+
+
+
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Chicago Public Schools. Department of Elementary Education</field>
+<field name="title">Arithmetic teaching techniques; an in-service survey and study conducted by a
+Committee on Arithmetic Teaching Techniques, with the cooperation of the district superintendents,
+principals and teachers in the Chicago public elementary schools</field>
+<field name="year">1956</field>
+<field name="pages">347</field>
+<field name="keywords">Arithmetic -- Study and teaching</field>
+<field name="notes">x; ges illustrations 26 cm; Responsibility: Committee: Joseph J. Urbancek, J.T.
+Johnson [and] Don C. Rogers, Chairman.; Entry: 19760501; Update: 20130607</field>
+<field name="publisher">Board of Education</field>
+<field name="pub_place">Chicago</field>
+<field name="notes">LC: QA135; Dewey: 372.7</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Chula Vista City School District</field>
+<field name="title">Mathematics in the kindergarten</field>
+<field name="year">1964</field>
+<field name="pages">117</field>
+<field name="notes">ill. ; 22 x 28 cm.; Note(s): Cover title.; Responsibility: Chula Vista City
+School District.; Entry: 19800314; Update: 20111213</field>
+<field name="publisher">The District</field>
+<field name="pub_place">Chula Vista, Calif</field>
+<field name="notes">Dewey: 510</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Clark County School District (Nev.)</field>
+<field name="title">Elementary mathematics curriculum guide</field>
+<field name="year">1967</field>
+<field name="notes">ill. ; 23 x 28 cm.; Note(s): Cover title.; Responsibility: Clark County School
+District.; Entry: 19781206; Update: 20111213</field>
+<field name="publisher">The District</field>
+<field name="pub_place">Las Vegas</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Cleveland. Public Schools</field>
+<field name="title">Course of study in arithmetic, Primary Division, 1947</field>
+<field name="year">1947</field>
+<field name="keywords">Arithmetic -- Study and teaching</field>
+<field name="notes">200 p. ill., diagrs. 31 cm.; Note(s): Includes bibliographical references.;
+Entry: 19980811; Update: 20130513</field>
+<field name="publisher">Board of Education</field>
+<field name="pub_place">Cleveland</field>
+<field name="notes">LC: QA135; Dewey: 372.7</field>
+</doc>
+</add>

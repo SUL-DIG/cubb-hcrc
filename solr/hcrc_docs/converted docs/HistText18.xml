@@ -1,0 +1,2753 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Foreign Language Study Group</field>
+<field name="title">Foreign language teaching in Illinois; report</field>
+<field name="year">1957</field>
+<field name="date">1957</field>
+<field name="pages">76</field>
+<field name="keywords">Modern languages</field>
+<field name="series_title">Allerton House Conference on Education (Study Group on Foreign
+Language)</field>
+<field name="publisher">Southern Illinois University</field>
+<field name="pub_place">Carbondale, IL</field>
+<field name="language">English</field>
+<field name="call_number">400 .A43f</field>
+<field name="state_country">Illinois</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Ampex Corporation</field>
+<field name="title">Survey of language teaching with recommendations on standards</field>
+<field name="pages">39</field>
+<field name="keywords">Languages</field>
+<field name="publisher">Ampex Corporation</field>
+<field name="pub_place">Sunnyvale, CA</field>
+<field name="language">English</field>
+<field name="call_number">400 .A52s</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Bloomfield (New Jersey) Senior High School</field>
+<field name="title">Language arts department: foreign languages: course of instruction guides and
+related materials, grades 10-11-12</field>
+<field name="year">1955</field>
+<field name="date">1955</field>
+<field name="pages">97</field>
+<field name="keywords">Modern languages</field>
+<field name="keywords">Latin language</field>
+<field name="edition">Rev.</field>
+<field name="publisher">Bloomfield (New Jersey) Senior High School</field>
+<field name="pub_place">Bloomfield, NJ</field>
+<field name="language">English</field>
+<field name="call_number">400 .B65f</field>
+<field name="state_country">New Jersey</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Bloomfield (New Jersey) Public Schools</field>
+<field name="title">Sequential foreign language guide, grades 7 - 12</field>
+<field name="year">1963</field>
+<field name="date">09/1963</field>
+<field name="pages">40</field>
+<field name="keywords">Modern languages</field>
+<field name="publisher">Bloomfield (New Jersey) Public Schools</field>
+<field name="pub_place">Bloomfield, NJ</field>
+<field name="language">English</field>
+<field name="call_number">400 .B65s</field>
+<field name="state_country">New Jersey</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Broward County (Florida) Secondary Schools</field>
+<field name="title">Tentative guide for the teaching of foreign languages</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="keywords">Modern languages</field>
+<field name="keywords">Latin language</field>
+<field name="publisher">Broward County (Florida) Secondary Schools</field>
+<field name="language">English</field>
+<field name="call_number">400 .B87t</field>
+<field name="state_country">Florida</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">California Bureau of Audio-Visual and School Library Education</field>
+<field name="title">A guide for the development of language laboratory facilities</field>
+<field name="year">1960</field>
+<field name="date">10/1960</field>
+<field name="pages">37</field>
+<field name="keywords">Modern languages</field>
+<field name="keywords">Audio-visual materials</field>
+<field name="notes">vii; ges illustrations 23 cm.; Note(s): "Useful references for developing
+language laboratory facilities": pages 36-37.; Responsibility: Prepared in co-operation with the
+Bureau of National Defense Education Act Administration.</field>
+<field name="series_title">Bulletin of the California State Department of Education</field>
+<field name="series_vol">29</field>
+<field name="issue">10</field>
+<field name="publisher">California Bureau of Audio-Visual and School Library Education</field>
+<field name="pub_place">Sacramento, CA</field>
+<field name="language">English</field>
+<field name="call_number">400 .C15g</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">California State Department of Education</field>
+<field name="title">Languages in the high school curriculum</field>
+<field name="year">1960</field>
+<field name="date">06/1960</field>
+<field name="pages">53</field>
+<field name="keywords">Modern languages</field>
+<field name="publisher">California State Department of Education</field>
+<field name="pub_place">Sacramento, CA</field>
+<field name="language">English</field>
+<field name="call_number">400 .C15L</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Mathieu, Gustave</field><field name="author_nat">Gustave Mathieu</field>
+<field name="author">Holton, James S.</field><field name="author_nat">James S. Holton</field>
+<field name="author">O'Rourke, Everett V.</field><field name="author_nat">Everett V. O'Rourke</field>
+<field name="title">Suggestions for teaching foreign languages by the audio-lingual method, a manual
+for teachers</field>
+<field name="year">1960</field>
+<field name="date">07/1960</field>
+<field name="pages">26</field>
+<field name="keywords">Modern languages</field>
+<field name="keywords">Audio-visual materials</field>
+<field name="notes">26 pages 23 cm.; Note(s): With : Career guidance for girls / Laurence L.
+Belanger. Sacramento : California State Department of Education, 1960. Bound together subsequent to
+publication.; Responsibility: prepared by Gustave Mathieu and James S. Holton under the direction of
+Everett V. O'Rourke.</field>
+<field name="series_title">Bulletin of the California State Dept. of Education</field>
+<field name="series_vol">29</field>
+<field name="issue">7</field>
+<field name="publisher">California State Department of Education</field>
+<field name="pub_place">Sacramento, CA</field>
+<field name="language">English</field>
+<field name="call_number">400 .C15s</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">California State Department of Education</field>
+<field name="title">Brochure of special information: foreign language workshop, University of
+California, Santa Barbara Goleta June 29-July 2, 1959</field>
+<field name="year">1959</field>
+<field name="date">1959</field>
+<field name="pages">19</field>
+<field name="keywords">Modern languages</field>
+<field name="publisher">California State Department of Education</field>
+<field name="pub_place">Sacramento, CA</field>
+<field name="language">English</field>
+<field name="call_number">400 .C15w v. 1</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">California State Department of Education</field>
+<field name="title">Program for planning and effecting modern methods and techniques in foreign
+language instruction</field>
+<field name="year">1959</field>
+<field name="date">1959</field>
+<field name="pages">10</field>
+<field name="keywords">Modern languages</field>
+<field name="publisher">California State Department of Education</field>
+<field name="pub_place">Sacramento, CA</field>
+<field name="language">English</field>
+<field name="call_number">400 .C15w v. 1</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">California State Department of Education</field>
+<field name="title">Proceedings of workshop for planning and effecting modern methods and techniques
+in foreign language instruction : for administrative and supervisory personnel ... University of
+California, Santa Barbara ... June 29-July 2, 1959</field>
+<field name="year">1959</field>
+<field name="date">1959</field>
+<field name="pages">38</field>
+<field name="keywords">Modern languages</field>
+<field name="notes">38 p.; Responsibility: Bureaus of Secondary Education and National Defense
+Education Act Administration.</field>
+<field name="publisher">California State Department of Education</field>
+<field name="pub_place">Sacramento, CA</field>
+<field name="language">English</field>
+<field name="call_number">400 .C15w v. 2</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Clairton (Pennsylvania) Public Schools</field>
+<field name="title">Languages : course of study for secondary education</field>
+<field name="year">1962</field>
+<field name="date">1962-1963</field>
+<field name="keywords">Modern languages</field>
+<field name="keywords">Latin language</field>
+<field name="notes">1 v. ; cm</field>
+<field name="publisher">Clairton (Pennsylvania) Public Schools</field>
+<field name="pub_place">Clairton, PA</field>
+<field name="language">English</field>
+<field name="call_number">400 .C58L</field>
+<field name="state_country">Pennsylvania</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Connecticut State Department of Education</field>
+<field name="title">Foreign languages, grades 7-12</field>
+<field name="year">1958</field>
+<field name="date">09/1958</field>
+<field name="pages">61</field>
+<field name="keywords">Modern languages</field>
+<field name="keywords">Latin language</field>
+<field name="notes">61 pages 22 cm.; Note(s): Includes bibliographical references.</field>
+<field name="series_title">Connecticut.; State Department of Education.; Curriculum bulletin
+series</field>
+<field name="series_vol">5</field>
+<field name="edition">Tentative</field>
+<field name="publisher">Connecticut State Department of Education</field>
+<field name="pub_place">Hartford, CT</field>
+<field name="language">English</field>
+<field name="call_number">400 .C75f v. 1</field>
+<field name="state_country">Connecticut</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Connecticut State Department of Education</field>
+<field name="title">The status of foreign language study in Connecticut public secondary schools as
+of January 15, 1954</field>
+<field name="year">1954</field>
+<field name="date">11/1954</field>
+<field name="pages">7</field>
+<field name="keywords">Modern languages</field>
+<field name="publisher">Connecticut State Department of Education</field>
+<field name="pub_place">Hartford, CT</field>
+<field name="language">English</field>
+<field name="call_number">400 .C75f v. 2</field>
+<field name="state_country">Connecticut</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Dallas (Texas) Independent School District</field>
+<field name="title">Foreign languages for secondary schools : curriculum guide</field>
+<field name="year">1954</field>
+<field name="keywords">Latin language</field>
+<field name="keywords">Modern languages</field>
+<field name="keywords">Curricula</field>
+<field name="pages">95</field>
+<field name="notes">95 p. ; 26 cm.; Note(s): Includes bibliographical references.</field>
+<field name="publisher">Dallas (Texas) Independent School District</field>
+<field name="pub_place">Dallas, TX</field>
+<field name="language">English</field>
+<field name="call_number">400 .D14f</field>
+<field name="state_country">Texas</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Dallas (Texas) Independent School District</field>
+<field name="title">Foreign language program: content, scope, and sequence</field>
+<field name="year">1959</field>
+<field name="date">09/1959</field>
+<field name="pages">12</field>
+<field name="keywords">Latin language</field>
+<field name="keywords">Modern languages</field>
+<field name="publisher">Dallas (Texas) Independent School District</field>
+<field name="pub_place">Dallas, TX</field>
+<field name="language">English</field>
+<field name="call_number">400 .D14fc</field>
+<field name="state_country">Texas</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Galas, Evangeline</field><field name="author_nat">Evangeline Galas</field>
+<field name="author">Peloro, Filomena</field><field name="author_nat">Filomena Peloro</field>
+<field name="author">Eddy, Frederick D.</field><field name="author_nat">Frederick D. Eddy</field>
+<field name="title">HRS manual for teachers and parents</field>
+<field name="year">1960</field>
+<field name="date">1960</field>
+<field name="pages">61</field>
+<field name="keywords">Modern languages</field>
+<field name="publisher">Ottenheimer Publishers</field>
+<field name="pub_place">Baltimore, MD</field>
+<field name="language">English</field>
+<field name="call_number">400 .E21h</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of Illinois</field>
+<field name="title">Language arts and foreign languages</field>
+<field name="year">1959</field>
+<field name="date">1959</field>
+<field name="pages">39</field>
+<field name="keywords">Audio-visual materials</field>
+<field name="publisher">University of Illinois</field>
+<field name="pub_place">Champaign, IL</field>
+<field name="language">English</field>
+<field name="call_number">400 .I29L</field>
+<field name="state_country">Illinois</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Iowa Department of Public Instruction</field>
+<field name="title">Modern foreign languages for Iowa schools</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="pages">59</field>
+<field name="keywords">Modern languages</field>
+<field name="notes">x; ges : illustrations ; 28 cm; Note(s): Includes bibliographical references.;
+Responsibility: Iowa Cooperative Curriculum Development Program.</field>
+<field name="publisher">Iowa Department of Public Instruction</field>
+<field name="pub_place">Des Moines, IA</field>
+<field name="language">English</field>
+<field name="call_number">400 .I64m</field>
+<field name="state_country">Iowa</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Iowa Department of Public Instruction</field>
+<field name="title">Foreign languages: secondary schools</field>
+<field name="year">1950</field>
+<field name="date">1950</field>
+<field name="pages">319</field>
+<field name="keywords">Modern languages</field>
+<field name="keywords">Latin language</field>
+<field name="notes">319 pages ; 22 cm.; Responsibility: issued by the Department of Public
+Instruction.</field>
+<field name="series_title">Iowa secondary school cooperative curriculum program</field>
+<field name="series_vol">20</field>
+<field name="publisher">Iowa Department of Public Instruction</field>
+<field name="pub_place">Des Moines, IA</field>
+<field name="language">English</field>
+<field name="call_number">400 .I64f</field>
+<field name="state_country">Iowa</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Kansas City (Missouri) Public Schools</field>
+<field name="title">Curriculum guide in French: eighth grade, Spanish: eighth grade</field>
+<field name="year">1959</field>
+<field name="date">07/1959</field>
+<field name="pages">30</field>
+<field name="keywords">Modern languages</field>
+<field name="publisher">Kansas City (Missouri) Public Schools</field>
+<field name="pub_place">Kansas City, MO</field>
+<field name="language">English</field>
+<field name="call_number">400 .K15c</field>
+<field name="state_country">Kansas</field>
+<field name="grade_level_number">8th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Michigan State Department of Education</field>
+<field name="title">Recommended standards of foreign language instruction</field>
+<field name="year">1968</field>
+<field name="date">1968?</field>
+<field name="pages">11</field>
+<field name="keywords">Modern languages</field>
+<field name="notes">11 p. ; 21 cm.; Note(s): Cover title./ Caption title: Recommended standards of
+foreign language instruction : kindergarten through higher education by representatives of the
+foreign language profession in the State of Michigan.</field>
+<field name="publisher">Michigan State Department of Education</field>
+<field name="pub_place">Lansing, MI</field>
+<field name="language">English</field>
+<field name="call_number">400 .M62r</field>
+<field name="state_country">Michigan</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">King, P. E.</field><field name="author_nat">P. E. King</field>
+<field name="title">The high school language laboratory</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="pages">8</field>
+<field name="keywords">Modern languages</field>
+<field name="keywords">Audio-visual materials</field>
+<field name="notes">8 p. ill. 22 cm.; Note(s): Cover title.</field>
+<field name="publisher">Magnetic Recording Industries</field>
+<field name="pub_place">New York, NY</field>
+<field name="language">English</field>
+<field name="call_number">400 .M19L</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City Schools</field>
+<field name="title">Teacher's handbook for French, German, and Spanish</field>
+<field name="year">1967</field>
+<field name="date">1967</field>
+<field name="pages">49</field>
+<field name="keywords">French language</field>
+<field name="keywords">German language</field>
+<field name="keywords">Spanish language</field>
+<field name="notes">ill. ; 28 cm.; Note(s): Cover title.</field>
+<field name="series_title">Instructional bulletin</field>
+<field name="series_vol">SC-52</field>
+<field name="publisher">Los Angeles (California) City Schools</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="language">English</field>
+<field name="call_number">400 .L87t</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">McGraw, Myrtle B.</field><field name="author_nat">Myrtle B. McGraw</field>
+<field name="title">The human factor in the language laboratory</field>
+<field name="year">1959</field>
+<field name="date">1969</field>
+<field name="pages">7</field>
+<field name="keywords">Modern languages</field>
+<field name="keywords">Audio-visual materials</field>
+<field name="notes">7 p. ill. 22 cm.; Note(s): Cover title.</field>
+<field name="publisher">Magnetic Recording Industries</field>
+<field name="pub_place">New York, NY</field>
+<field name="language">English</field>
+<field name="call_number">400 .M19L</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Kay, J. A.</field><field name="author_nat">J. A. Kay</field>
+<field name="author">King, P. E.</field><field name="author_nat">P. E. King</field>
+<field name="title">Language laboratory planning: what kind? and how much?</field>
+<field name="year">1958</field>
+<field name="date">1968</field>
+<field name="pages">11</field>
+<field name="keywords">Modern languages</field>
+<field name="keywords">Audio-visual materials</field>
+<field name="publisher">Magnetic Recording Industries</field>
+<field name="pub_place">New York, NY</field>
+<field name="language">English</field>
+<field name="call_number">400 .M19L</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Mallina, R. F.</field><field name="author_nat">R. F. Mallina</field>
+<field name="title">Costs and efficiency of the language laboratory</field>
+<field name="year">1959</field>
+<field name="date">1969</field>
+<field name="pages">9</field>
+<field name="keywords">Modern languages</field>
+<field name="keywords">Audio-visual materials</field>
+<field name="publisher">Magnetic Recording Industries</field>
+<field name="pub_place">New York, NY</field>
+<field name="language">English</field>
+<field name="call_number">400 .M19L</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">King, P. E.</field><field name="author_nat">P. E. King</field>
+<field name="title">Excerpts from programming guide for the electronic classroom: part 1: modern
+foreign languages</field>
+<field name="pages">10</field>
+<field name="keywords">Modern languages</field>
+<field name="keywords">Audio-visual materials</field>
+<field name="publisher">Magnetic Recording Industries</field>
+<field name="pub_place">New York, NY</field>
+<field name="language">English</field>
+<field name="call_number">400 .M19m</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Mendocino County (California) Schools</field>
+<field name="title">Foreign languages in the elementary schools</field>
+<field name="year">1960</field>
+<field name="date">1960</field>
+<field name="pages">51</field>
+<field name="keywords">Modern languages</field>
+<field name="publisher">Mendocino County (California) Schools</field>
+<field name="pub_place">Ukiah, CA</field>
+<field name="language">English</field>
+<field name="call_number">400 .M532f</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Scafe, John C.</field><field name="author_nat">John C. Scafe</field>
+<field name="title">Foreign language teaching in Kansas high schools, 1953-1954</field>
+<field name="year">1955</field>
+<field name="date">03/1955</field>
+<field name="pages">32</field>
+<field name="keywords">Modern languages</field>
+<field name="keywords">Latin language</field>
+<field name="notes">32 p. 23 cm.; Note(s): "This study originated as a master's thesis at Kansas
+State Teachers College, Emporia, in 1953."</field>
+<field name="series_title">The Emporia State research studies</field>
+<field name="series_vol">3</field>
+<field name="issue">3</field>
+<field name="publisher">Graduate Division of the Kansas State Teachers College</field>
+<field name="pub_place">Emporia, KS</field>
+<field name="language">English</field>
+<field name="call_number">400 .K16f</field>
+<field name="state_country">Kansas</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Language Training Aids. Language aids</field>
+<field name="title">The language training aids catalog of realia</field>
+<field name="keywords">Modern languages</field>
+<field name="publisher">Language Training Aids. Language aids</field>
+<field name="pub_place">Boyds, MD</field>
+<field name="language">English</field>
+<field name="call_number">400 .L28L</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Alden, Douglas William</field><field name="author_nat">Douglas William Alden</field>
+<field name="corp_author">Modern Language Association of America</field>
+<field name="title">Materials list for use by teachers of modern foreign languages</field>
+<field name="year">1960</field>
+<field name="date">1960</field>
+<field name="pages">85</field>
+<field name="keywords">Modern languages</field>
+<field name="keywords">Bibliography</field>
+<field name="notes">v; form 27 cm; Note(s): "Prepared ... pursuant to a contract with the U.S.
+Office of Education."/ "Sources" p. 83-85/ Cover title; Responsibility: Edited by Douglas W.
+Alden</field>
+<field name="publisher">Modern Language Association of America</field>
+<field name="pub_place">New York, NY</field>
+<field name="language">English</field>
+<field name="call_number">400 .M68m</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Montgomery County (Maryland) Public Schools</field>
+<field name="title">Preliminary report on curriculum in foreign language</field>
+<field name="year">1962</field>
+<field name="date">04/1962</field>
+<field name="keywords">Modern languages</field>
+<field name="keywords">Latin language</field>
+<field name="publisher">Montgomery County (Maryland) Public Schools</field>
+<field name="pub_place">Rockville, MD</field>
+<field name="language">English</field>
+<field name="call_number">400 .M78p</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">New York State Education Department</field>
+<field name="title">Foreign language survey</field>
+<field name="year">1957</field>
+<field name="date">1957</field>
+<field name="pages">8</field>
+<field name="keywords">Modern languages</field>
+<field name="publisher">New York State Education Department</field>
+<field name="pub_place">Albany, NY</field>
+<field name="language">English</field>
+<field name="call_number">400 .N53f</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Michigan State Department of Public Instruction</field>
+<field name="title">Suggested outlines for teaching modern foreign languages in Michigan
+schools</field>
+<field name="year">1962</field>
+<field name="date">05/1962</field>
+<field name="pages">19</field>
+<field name="keywords">Modern languages</field>
+<field name="series_title">Michigan.; Department of Public Instruction.; Bulletin</field>
+<field name="series_vol">NDEA 311</field>
+<field name="publisher">Michigan State Department of Public Instruction</field>
+<field name="pub_place">Lansing, MI</field>
+<field name="language">English</field>
+<field name="call_number">400 .M62s</field>
+<field name="state_country">Michigan</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Midland (Texas) Independent School District</field>
+<field name="title">Foreign languages, grades 7-12</field>
+<field name="year">1964</field>
+<field name="date">1964</field>
+<field name="pages">108</field>
+<field name="keywords">Modern languages</field>
+<field name="publisher">Midland (Texas) Independent School District</field>
+<field name="pub_place">Midland, TX</field>
+<field name="language">English</field>
+<field name="call_number">400 .M63f</field>
+<field name="state_country">Texas</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of the State of New York</field>
+<field name="title">Syllabus in modern foreign languages, 1937 reprint with minor revisions</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="pages">132</field>
+<field name="keywords">Modern languages</field>
+<field name="keywords">Curricula</field>
+<field name="notes">132 p. 23 cm.; Note(s): Cover title./ Bibliography: p. 131-132.</field>
+<field name="publisher">University of the state of New York Press</field>
+<field name="pub_place">Albany, NY</field>
+<field name="language">English</field>
+<field name="call_number">400 .N53s</field>
+<field name="state_country">New York</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Boyd-Bowman, Peter</field><field name="author_nat">Peter Boyd-Bowman</field>
+<field name="title">Self-instructional language programs : a handbook for faculty and
+students</field>
+<field name="year">1973</field>
+<field name="date">07/1973</field>
+<field name="pages">51</field>
+<field name="keywords">Modern languages</field>
+<field name="keywords">Self-instruction</field>
+<field name="notes">vii; ; 28 cm.; Responsibility: by Peter Boyd-Bowman.</field>
+<field name="series_title">Foreign Area Materials Center occasional publication</field>
+<field name="series_vol">20</field>
+<field name="publisher">University of the State of New York, State Education Dept., Foreign Area
+Materials Center and Council for Intercultural Studies and Programs in cooperation with National
+Association of Self-Instructional Language Programs</field>
+<field name="pub_place">Buffalo, NY</field>
+<field name="language">English</field>
+<field name="call_number">400 .N53s 1972</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">New York (New York) Board of Education</field>
+<field name="title">Modern languages and Latin: grades 8-12. French, German, Hebrew, Italian,
+Spanish, Latin</field>
+<field name="year">1959</field>
+<field name="date">1959</field>
+<field name="pages">268</field>
+<field name="keywords">Modern languages</field>
+<field name="keywords">Latin language</field>
+<field name="series_title">Curriculum Bulletin. 1957-58 series</field>
+<field name="series_vol">9</field>
+<field name="publisher">New York (New York) Board of Education</field>
+<field name="pub_place">New York, NY</field>
+<field name="language">English</field>
+<field name="call_number">400 .N532m 1957/58</field>
+<field name="state_country">New York</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">New York (New York) Board of Education</field>
+<field name="title">Modern languages and Latin, grades 8-12 : regents course of study: French,
+German, Hebrew, Italian, Spanish, Latin</field>
+<field name="year">1956</field>
+<field name="date">1955-1956</field>
+<field name="pages">56</field>
+<field name="keywords">Modern languages</field>
+<field name="keywords">Latin language</field>
+<field name="notes">vii; ; 23 cm.</field>
+<field name="series_title">Curriculum Bulletin. 1955-56 series</field>
+<field name="series_vol">7</field>
+<field name="publisher">New York (New York) Board of Education</field>
+<field name="pub_place">New York, NY</field>
+<field name="language">English</field>
+<field name="call_number">400 .N532m 1955/56</field>
+<field name="state_country">New York</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">New York (New York) Bureau of Curriculum Research</field>
+<field name="title">Using laboratory techniques in teaching foreign languages in New York City
+schools</field>
+<field name="year">1961</field>
+<field name="date">1961</field>
+<field name="pages">60</field>
+<field name="keywords">Modern languages</field>
+<field name="keywords">Audio-visual materials</field>
+<field name="notes">60 p. illus. 23 cm.; Note(s): Includes bibliography.</field>
+<field name="series_title">Curriculum research report</field>
+<field name="publisher">New York (New York) Bureau of Curriculum Research</field>
+<field name="pub_place">New York, NY</field>
+<field name="language">English</field>
+<field name="call_number">400 .N532u</field>
+<field name="state_country">New York</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Foreign Language Association of Santa Clara County</field>
+<field name="corp_author">Santa Clara County (California) Office of Education</field>
+<field name="title">Guidelines for foreign language programs in Santa Clara County</field>
+<field name="year">1964</field>
+<field name="date">1963-1964</field>
+<field name="pages">54</field>
+<field name="keywords">Modern languages</field>
+<field name="publisher">Santa Clara County (California) Office of Education</field>
+<field name="pub_place">San Jose, CA</field>
+<field name="language">English</field>
+<field name="call_number">500 .S23g</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Tyler (Texas) Independent School District</field>
+<field name="title">Curriculum guide for foreign language, rades 7-12</field>
+<field name="year">1964</field>
+<field name="date">08/1964</field>
+<field name="pages">51</field>
+<field name="keywords">Modern languages</field>
+<field name="publisher">Tyler (Texas) Independent School District</field>
+<field name="pub_place">Tyler, TX</field>
+<field name="language">English</field>
+<field name="call_number">400 .T98c</field>
+<field name="state_country">Texas</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Parker, William Riley</field><field name="author_nat">William Riley Parker</field>
+<field name="corp_author">U.S. National Commission for UNESCO</field>
+<field name="title">The national interest and foreign languages; a discussion guide and work paper
+for citizen consultations</field>
+<field name="year">1954</field>
+<field name="date">04/1954</field>
+<field name="pages">131</field>
+<field name="keywords">Modern languages</field>
+<field name="notes">xvi; 20 cm.; Note(s): Includes bibliographies./ Also issued online.;
+Responsibility: initiated by the U.S. National Commission for UNESCO, Department of State ; prepared
+by William R. Parker.</field>
+<field name="edition">Prelim.</field>
+<field name="publisher">U.S. Government Printing Office</field>
+<field name="pub_place">Washington, DC</field>
+<field name="language">English</field>
+<field name="call_number">400 .U57n</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Blackstead, J. H.</field><field name="author_nat">J. H. Blackstead</field>
+<field name="title">Installing a modern language laboratory improving the foreign language program
+at Johnson High School</field>
+<field name="year">1962</field>
+<field name="date">09/1962</field>
+<field name="pages">13</field>
+<field name="keywords">Modern languages</field>
+<field name="series_title">University of Oregon. School of Education. Curriculum bulletin</field>
+<field name="series_vol">18</field>
+<field name="issue">226</field>
+<field name="publisher">University of Oregon. School of Education</field>
+<field name="pub_place">Eugene, OR</field>
+<field name="language">English</field>
+<field name="call_number">400 .O66i</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Pasadena (California) City Schools. Audio-visual Service</field>
+<field name="title">Foreign language</field>
+<field name="year">1953</field>
+<field name="date">09/1953</field>
+<field name="pages">4</field>
+<field name="keywords">Modern languages</field>
+<field name="keywords">Audio-visual materials</field>
+<field name="publisher">Pasadena (California) City Schools. Audio-visual Service</field>
+<field name="pub_place">Pasadena, CA</field>
+<field name="language">English</field>
+<field name="call_number">400 .P27f</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Philadelphia (Pennsylvania) Public Schools</field>
+<field name="title">The language laboratory</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="pages">29</field>
+<field name="keywords">Modern languages</field>
+<field name="keywords">Audio-visual materials</field>
+<field name="publisher">Philadelphia (Pennsylvania) Public Schools</field>
+<field name="pub_place">Philadelphia, PA</field>
+<field name="language">English</field>
+<field name="call_number">400 .P54L</field>
+<field name="state_country">Pennsylvania</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Ravenswood (California) City School District</field>
+<field name="title">Foreign language program</field>
+<field name="keywords">Modern languages</field>
+<field name="publisher">Ravenswood (California) City School District</field>
+<field name="pub_place">Palo Alto, CA</field>
+<field name="language">English</field>
+<field name="call_number">400 .R25f</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">de Sauze, Emile B</field><field name="author_nat">Emile B de Sauze</field>
+<field name="title">How the administrative problems connected with modern language instruction in
+elementary schools were solved in Cleveland grade</field>
+<field name="pages">27</field>
+<field name="keywords">Modern languages</field>
+<field name="publisher">U.S. Department of Health, Education, and Welfare</field>
+<field name="pub_place">Washington, DC</field>
+<field name="language">English</field>
+<field name="call_number">400 .U58f</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Dreier, Grace M.</field><field name="author_nat">Grace M. Dreier</field>
+<field name="title">Developing and introducing a program of conversational Spanish in the elementary
+schools of Los Angeles, CA</field>
+<field name="pages">11</field>
+<field name="keywords">Spanish language</field>
+<field name="publisher">U.S. Department of Health, Education, and Welfare</field>
+<field name="pub_place">Washington, DC</field>
+<field name="language">English</field>
+<field name="call_number">400 .U58f</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">McCormack, Margaret C.</field><field name="author_nat">Margaret C. McCormack</field>
+<field name="title">The administration of the foreign language program in the elementary schools of
+Somerville, New Jersey</field>
+<field name="pages">5</field>
+<field name="keywords">Modern languages</field>
+<field name="publisher">U.S. Department of Health, Education, and Welfare</field>
+<field name="pub_place">Washington, DC</field>
+<field name="language">English</field>
+<field name="call_number">400 .U58f</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">U.S. Department of Health, Education, and Welfare</field>
+<field name="title">Tentative list of teaching and background materials for foreign languages in
+elementary schools</field>
+<field name="year">1953</field>
+<field name="date">01/1953</field>
+<field name="pages">9</field>
+<field name="keywords">Modern languages</field>
+<field name="publisher">U.S. Department of Health, Education, and Welfare</field>
+<field name="pub_place">Washington, DC</field>
+<field name="language">English</field>
+<field name="call_number">400 .U58f</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Johnston, Marjorie C.</field><field name="author_nat">Marjorie C. Johnston</field>
+<field name="author">Ferreira, Stella Louise</field><field name="author_nat">Stella Louise Ferreira</field>
+<field name="title">Useful references for teachers of Spanish, French, and German</field>
+<field name="year">1955</field>
+<field name="date">03/1955</field>
+<field name="pages">10</field>
+<field name="keywords">Modern languages</field>
+<field name="publisher">U.S. Department of Health, Education, and Welfare</field>
+<field name="pub_place">Washington, DC</field>
+<field name="language">English</field>
+<field name="call_number">400 .U58f</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">McQuown, Norman A,</field><field name="author_nat">Norman A, McQuown</field>
+<field name="title">Report of the United States delegation to the United Nations Educational,
+Scientific and Cultural Organization International Seminar on the teaching of modern languages,
+Nuwara Eliya, Ceylon, August 3 to 28, 1953</field>
+<field name="year">1953</field>
+<field name="date">08/1953</field>
+<field name="pages">33</field>
+<field name="keywords">Modern languages</field>
+<field name="publisher">U.S. Department of Health, Education, and Welfare</field>
+<field name="pub_place">Washington, DC</field>
+<field name="language">English</field>
+<field name="call_number">400 .U58f</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">McGrath, Earl J.</field><field name="author_nat">Earl J. McGrath</field>
+<field name="title">Language study and world affairs</field>
+<field name="year">1952</field>
+<field name="date">06/1952</field>
+<field name="notes">Reprinted from School Life, June, 1952</field>
+<field name="publisher">U. S. Federal Security Agency, Office of Education</field>
+<field name="pub_place">Washington, DC</field>
+<field name="language">English</field>
+<field name="call_number">400 .U58f</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Mildenberger, Kenneth W.</field><field name="author_nat">Kenneth W. Mildenberger</field>
+<field name="title">Status of foreign language study in American elementary schools</field>
+<field name="year">1955</field>
+<field name="date">1955</field>
+<field name="pages">34</field>
+<field name="keywords">Modern languages</field>
+<field name="publisher">U.S. Department of Health, Education, and Welfare</field>
+<field name="pub_place">Washington, DC</field>
+<field name="language">English</field>
+<field name="call_number">400 .U58s</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Schenck, Ethel A.</field><field name="author_nat">Ethel A. Schenck</field>
+<field name="title">Studies of testing and teaching in modern foreign languages, based on materials
+gathered [at the Univ. of Wisconsin] by [the late Professor] D. Cheydleur</field>
+<field name="year">1952</field>
+<field name="date">1952</field>
+<field name="keywords">Modern languages</field>
+<field name="pages">72</field>
+<field name="notes">72 p. illus.; Note(s): [Cover title: The Cheydleur studies ...]</field>
+<field name="publisher">University of Wisconsin. Graduate Research Committee</field>
+<field name="pub_place">Madison, WI</field>
+<field name="language">English</field>
+<field name="call_number">400.W811s</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of Wisconsin</field>
+<field name="title">The study of foreign languages today; information for counselors and advisors in
+high school or college</field>
+<field name="year">1951</field>
+<field name="date">08/1951</field>
+<field name="pages">28</field>
+<field name="keywords">Modern languages</field>
+<field name="keywords">Educational counseling</field>
+<field name="notes">28 p. 23 cm.</field>
+<field name="series_title">University of Wisconsin.; Bulletin, serial no. 3214. general series ;;
+no. 2988.</field>
+<field name="publisher">University of Wisconsin. Offices of Student Personnel Services</field>
+<field name="pub_place">Madison, WI</field>
+<field name="language">English</field>
+<field name="call_number">400 .W85s</field>
+<field name="state_country">Wisconsin</field>
+<field name="grade_level_group">High school</field>
+<field name="grade_level_group">Postsecondary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Brookline (Massachusetts) Public Schools</field>
+<field name="title">Course of study in manuscript writing: grades 1-3</field>
+<field name="year">1956</field>
+<field name="date">06/1956</field>
+<field name="pages">30</field>
+<field name="keywords">Penmanship</field>
+<field name="publisher">Brookline (Massachusetts) Public Schools</field>
+<field name="pub_place">Brookline, MA</field>
+<field name="language">English</field>
+<field name="call_number">421 .B87c v. 1</field>
+<field name="state_country">Massachusetts</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Brookline (Massachusetts) Public Schools</field>
+<field name="title">Course of study in manuscript writing: grades 4-6</field>
+<field name="year">1956</field>
+<field name="date">06/1956</field>
+<field name="pages">30</field>
+<field name="keywords">Penmanship</field>
+<field name="publisher">Brookline (Massachusetts) Public Schools</field>
+<field name="pub_place">Brookline, MA</field>
+<field name="language">English</field>
+<field name="call_number">421 .B87c v. 2</field>
+<field name="state_country">Massachusetts</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Carter, Mary</field><field name="author_nat">Mary Carter</field>
+<field name="author">Ramsdell, Marian</field><field name="author_nat">Marian Ramsdell</field>
+<field name="title">Pupil's practice book for optional course in cursive handwriting</field>
+<field name="year">1956</field>
+<field name="date">09/1956</field>
+<field name="pages">26</field>
+<field name="keywords">Penmanship</field>
+<field name="publisher">Brookline (Massachusetts) Public Schools</field>
+<field name="pub_place">Brookline, MA</field>
+<field name="language">English</field>
+<field name="call_number">421 .B87p</field>
+<field name="state_country">Massachusetts</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Roberts, Ernest M.</field><field name="author_nat">Ernest M. Roberts</field>
+<field name="title">Basic handwriting for adults</field>
+<field name="year">1967</field>
+<field name="date">10/1967</field>
+<field name="pages">47</field>
+<field name="keywords">Penmanship</field>
+<field name="publisher">Adult Basic Education. Broward County (Florida)</field>
+<field name="language">English</field>
+<field name="call_number">421 .B88b</field>
+<field name="state_country">Florida</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Clairton (Pennsylvania) Public Schools</field>
+<field name="title">Course of study elementary education: writing</field>
+<field name="year">1957</field>
+<field name="date">1957-1958</field>
+<field name="pages">73</field>
+<field name="keywords">Writing</field>
+<field name="keywords">Penmanship</field>
+<field name="publisher">Clairton (Pennsylvania) Public Schools</field>
+<field name="pub_place">Clairton, PA</field>
+<field name="language">English</field>
+<field name="call_number">421 .C58w</field>
+<field name="state_country">Pennsylvania</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Clark County (Nevada) School District. Department of Supervision and
+Curriculum Development</field>
+<field name="title">Cursive writing is fun (Transition from manuscript to cursive to be made in the
+latter part of third grade)</field>
+<field name="year">1959</field>
+<field name="date">1959</field>
+<field name="pages">51</field>
+<field name="keywords">Penmanship</field>
+<field name="publisher">Clark County (Nevada) School District</field>
+<field name="pub_place">Las Vegas</field>
+<field name="language">English</field>
+<field name="call_number">421 .C59c</field>
+<field name="state_country">Nevada</field>
+<field name="grade_level_number">3rd grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Grand Rapids (Michigan) Board of Education</field>
+<field name="title">We write</field>
+<field name="year">1949</field>
+<field name="date">1949-1950</field>
+<field name="keywords">Writing</field>
+<field name="publisher">Grand Rapids (Michigan) Board of Education</field>
+<field name="pub_place">Grand Rapids, MI</field>
+<field name="language">English</field>
+<field name="call_number">421.G75w</field>
+<field name="state_country">Michigan</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">King County (Washington) Schools</field>
+<field name="title">A guide to teaching handwriting in the elementary schools</field>
+<field name="pages">72</field>
+<field name="keywords">Penmanship</field>
+<field name="publisher">King County (Washington) Schools</field>
+<field name="language">English</field>
+<field name="call_number">421 .K55g</field>
+<field name="state_country">Washington</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">La Crosse (Wisconsin) City District Public Schools</field>
+<field name="title">Teacher's guide for handwriting</field>
+<field name="year">1959</field>
+<field name="date">09/1959</field>
+<field name="pages">12</field>
+<field name="keywords">Penmanship</field>
+<field name="publisher">La Crosse (Wisconsin) City District Public Schools</field>
+<field name="pub_place">La Crosse, WI</field>
+<field name="language">English</field>
+<field name="call_number">421 .L14t</field>
+<field name="state_country">Wisconsin</field>
+<field name="grade_level_group">Elementary</field>
+<field name="grade_level_group">Middle school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">La Marque (Texas) Independent School District</field>
+<field name="title">Pointers in penmanship for purveyors of pedagogy</field>
+<field name="year">1956</field>
+<field name="date">09/1956</field>
+<field name="keywords">Penmanship</field>
+<field name="publisher">La Marque (Texas) Independent School District</field>
+<field name="pub_place">La Marque, TX</field>
+<field name="language">English</field>
+<field name="call_number">421 .L21p</field>
+<field name="state_country">Texas</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Virginia State Foreign Language Service</field>
+<field name="title">Foreign languages and foreign language learning in Virginia schools</field>
+<field name="year">1969</field>
+<field name="date">10/1969</field>
+<field name="pages">130</field>
+<field name="keywords">Modern languages</field>
+<field name="keywords">Latin language</field>
+<field name="notes">130 p.</field>
+<field name="publisher">Virginia State Department of Education</field>
+<field name="pub_place">Richmond, VA</field>
+<field name="language">English</field>
+<field name="call_number">400 .V81f</field>
+<field name="state_country">Virginia</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">West Virginia State Department of Education</field>
+<field name="title">Section 14: foreign language</field>
+<field name="year">1970</field>
+<field name="date">1970</field>
+<field name="pages">14</field>
+<field name="keywords">Modern languages</field>
+<field name="publisher">West Virginia State Department of Education</field>
+<field name="language">English</field>
+<field name="call_number">400 .W51f</field>
+<field name="state_country">West Virginia</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Greynolds, Genevieve</field><field name="author_nat">Genevieve Greynolds</field>
+<field name="author">Shearer, Elga</field><field name="author_nat">Elga Shearer</field>
+<field name="corp_author">Long Beach (California) City Schools. Department of Curriculum and
+Educational Research</field>
+<field name="title">Guide to teaching of cursive writing in the intermediate grades</field>
+<field name="year">1946</field>
+<field name="date">05/1946</field>
+<field name="pages">19</field>
+<field name="keywords">Penmanship</field>
+<field name="keywords">Curricula</field>
+<field name="notes">3 preliminary leaves, 19 leaves 28 cm; Note(s): At head of title: Long Beach
+Public Schools.; Responsibility: revised by Genevieve Greynolds ... assisted by Elga M. Shearer ...
+Edited and published by Department of Curriculum and Educational Research ...</field>
+<field name="publisher">Long Beach (California) City Schools</field>
+<field name="pub_place">Long Beach, CA</field>
+<field name="language">English</field>
+<field name="call_number">421 .L84g</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Madera County (California) Schools</field>
+<field name="title">Handwriting guide for primary grades</field>
+<field name="year">1961</field>
+<field name="date">1961</field>
+<field name="pages">30</field>
+<field name="keywords">Penmanship</field>
+<field name="publisher">Madera County (California) Schools</field>
+<field name="language">English</field>
+<field name="call_number">421 .M17h</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Madison (Wisconsin) Public Schools</field>
+<field name="title">Guide to teaching handwriting; kindergarten--grade nine</field>
+<field name="year">1964</field>
+<field name="date">1964</field>
+<field name="pages">65</field>
+<field name="keywords">Penmanship</field>
+<field name="notes">65 p. 3 folded charts. 22 x 29 cm.; Note(s): Samples of ruled paper at end./
+Bibliography: p. 63-5.; Responsibility: Prepared by the Handwriting Committee of the Madison Public
+Schools.</field>
+<field name="publisher">Madison (Wisconsin) Public Schools</field>
+<field name="pub_place">Madison, WI</field>
+<field name="language">English</field>
+<field name="call_number">421 .M18g</field>
+<field name="state_country">Wisconsin</field>
+<field name="grade_level_number">Kindergarten</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Minneapolis (Minnesota) Public Schools</field>
+<field name="title">A Guide to teaching handwriting : kindergarten--grade twelve</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="pages">146</field>
+<field name="keywords">Penmanship</field>
+<field name="notes">vi; ill., photos. ; 28 cm.; Note(s): Cover title./ Includes index.;
+Responsibility: Minneapolis Public Schools.</field>
+<field name="publisher">Minneapolis (Minnesota) Public Schools</field>
+<field name="pub_place">Minneapolis, MN</field>
+<field name="language">English</field>
+<field name="call_number">421 .M66g</field>
+<field name="state_country">Minnesota</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Minneapolis (Minnesota) Public Schools</field>
+<field name="title">How readable is your writing? Let's check it!</field>
+<field name="series_title">Minneapolis (Minnesota) Public Schools. Handwriting folio</field>
+<field name="keywords">Penmanship</field>
+<field name="publisher">Minneapolis (Minnesota) Public Schools</field>
+<field name="pub_place">Minneapolis, MN</field>
+<field name="language">English</field>
+<field name="call_number">421 .M66h v. 1-3</field>
+<field name="state_country">Minnesota</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Minneapolis (Minnesota) Public Schools</field>
+<field name="title">Your handwriting is it acceptable? Let's check it!</field>
+<field name="series_title">Minneapolis (Minnesota) Public Schools. Handwriting folio</field>
+<field name="keywords">Penmanship</field>
+<field name="publisher">Minneapolis (Minnesota) Public Schools</field>
+<field name="pub_place">Minneapolis, MN</field>
+<field name="language">English</field>
+<field name="call_number">421 .M66h v. 4</field>
+<field name="state_country">Minnesota</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Leavitt, Jerome Edward grade</field><field name="author_nat">Jerome Edward grade Leavitt</field>
+<field name="title">Handwriting; a summary of recent studies and opinions concerned with the metis
+and disadvantages of both manuscript and cursive writing</field>
+<field name="year">1966</field>
+<field name="date">05/1966</field>
+<field name="keywords">Penmanship</field>
+<field name="pages">11</field>
+<field name="notes">11 p.; Note(s): Cover title.</field>
+<field name="series_title">School of Education, University of Oregon. Curriculum bulletin</field>
+<field name="series_vol">22</field>
+<field name="issue">267</field>
+<field name="publisher">School of Education, University of Oregon</field>
+<field name="pub_place">Eugene, OR</field>
+<field name="language">English</field>
+<field name="call_number">421 .O66h</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">New York (New York) Board of Education</field>
+<field name="title">Teaching handwriting</field>
+<field name="year">1961</field>
+<field name="date">1961</field>
+<field name="pages">42</field>
+<field name="keywords">Penmanship</field>
+<field name="notes">ill. ; 28 cm.; Note(s): Includes bibliographical references (p. 36-37).;
+Responsibility: Board of Education of the City of New York.</field>
+<field name="series_title">New York (New York).; Board of Education.; Curriculum bulletin ;; 1960-61
+ser.</field>
+<field name="series_vol">3</field>
+<field name="publisher">New York (New York) Board of Education</field>
+<field name="pub_place">New York, NY</field>
+<field name="language">English</field>
+<field name="call_number">421 .N53t</field>
+<field name="state_country">New York</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of the State of New York. State Education Department</field>
+<field name="title">Learning to write: manuscript and cursive</field>
+<field name="year">1960</field>
+<field name="date">1960</field>
+<field name="pages">54</field>
+<field name="keywords">Penmanship</field>
+<field name="publisher">University of the State of New York. State Education Department</field>
+<field name="pub_place">Albany, NY</field>
+<field name="language">English</field>
+<field name="call_number">421 .N531L</field>
+<field name="state_country">New York</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">New York (New York) Board of Education. Bureau of Reference, Research and
+Statistics</field>
+<field name="title">Practices and problems in handwriting</field>
+<field name="year">1947</field>
+<field name="date">09/1947</field>
+<field name="pages">90</field>
+<field name="keywords">Penmanship</field>
+<field name="notes">90 p.; Responsibility: prepared by Division of curriculum research, Margaret B.
+Parke, research assistant and William H. Bristow, assistant director; Eugene A. Nifenecker, director
+of reference, research and statistics.</field>
+<field name="series_title">New York (New York).; Board of Education.; Bureau of Reference, Research
+and Statistics.; Educational research bulletin</field>
+<field name="series_vol">9</field>
+<field name="publisher">Board of education of the city of New York</field>
+<field name="pub_place">New York, NY</field>
+<field name="language">English</field>
+<field name="call_number">421 .N53p</field>
+<field name="state_country">New York</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Philadelphia (Pennsylvania) Public Schools. Curriculum Office</field>
+<field name="title">Handwriting suggestions</field>
+<field name="year">1961</field>
+<field name="date">1961</field>
+<field name="pages">22</field>
+<field name="keywords">Penmanship</field>
+<field name="notes">ill. ; 28 cm.; Responsibility: Curriculum Office, Philadelphia Public
+Schools.</field>
+<field name="publisher">Philadelphia (Pennsylvania) Board of Public Education</field>
+<field name="pub_place">Philadelphia, PA</field>
+<field name="language">English</field>
+<field name="call_number">421 .P54h v. 1</field>
+<field name="state_country">Pennsylvania</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Philadelphia (Pennsylvania) Public Schools. Curriculum Office</field>
+<field name="title">Blackboard writing for teachers</field>
+<field name="year">1956</field>
+<field name="date">04/1956</field>
+<field name="pages">14</field>
+<field name="keywords">Penmanship</field>
+<field name="keywords">Teachers</field>
+<field name="notes">ill. ; 28 cm.; Responsibility: Curriculum Office, Philadelphia Public
+Schools.</field>
+<field name="publisher">Philadelphia (Pennsylvania) Board of Public Education</field>
+<field name="pub_place">Philadelphia, PA</field>
+<field name="language">English</field>
+<field name="call_number">421 .P54h v. 2</field>
+<field name="state_country">Pennsylvania</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Kravitz, Ida</field><field name="author_nat">Ida Kravitz</field>
+<field name="title">The transition from manuscript to cursive</field>
+<field name="year">1960</field>
+<field name="date">09/1960</field>
+<field name="keywords">Penmanship</field>
+<field name="notes">ill. ; 28 cm.; Responsibility: Curriculum Office, Philadelphia Public
+Schools.</field>
+<field name="publisher">Philadelphia (Pennsylvania) Board of Public Education</field>
+<field name="pub_place">Philadelphia, PA</field>
+<field name="language">English</field>
+<field name="call_number">421 .P54h v. 3</field>
+<field name="state_country">Pennsylvania</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">New York State Department of Education</field>
+<field name="title">Handwriting: see me write</field>
+<field name="year">1961</field>
+<field name="date">1961</field>
+<field name="pages">59</field>
+<field name="keywords">Penmanship</field>
+<field name="publisher">New York State Department of Education</field>
+<field name="pub_place">Albany, NY</field>
+<field name="language">English</field>
+<field name="call_number">421 .N531s</field>
+<field name="state_country">New York</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Roslyn (New York) Public Schools</field>
+<field name="title">Handwriting in the elementary schools</field>
+<field name="year">1961</field>
+<field name="date">11/1961</field>
+<field name="pages">3</field>
+<field name="keywords">Penmanship</field>
+<field name="edition">Rev.</field>
+<field name="publisher">Roslyn (New York) Public Schools</field>
+<field name="pub_place">Roslyn, NY</field>
+<field name="language">English</field>
+<field name="call_number">421 .R82h</field>
+<field name="state_country">New York</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">San Diego County (California) Board of Education</field>
+<field name="title">Handwriting: grades one through eight: course of study</field>
+<field name="year">1956</field>
+<field name="date">09/1956</field>
+<field name="pages">22</field>
+<field name="keywords">Penmanship</field>
+<field name="publisher">San Diego County (California) Board of Education</field>
+<field name="pub_place">San Diego, CA</field>
+<field name="language">English</field>
+<field name="call_number">421 .S19h</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Harris, Theodore Lester</field><field name="author_nat">Theodore Lester Harris</field>
+<field name="author">Rarick, G. Lawrence</field><field name="author_nat">G. Lawrence Rarick</field>
+<field name="author">Huebner, Dwayne E.</field><field name="author_nat">Dwayne E. Huebner</field>
+<field name="author">MacDonald, James B.</field><field name="author_nat">James B. MacDonald</field>
+<field name="title">Pressure patterns in handwriting</field>
+<field name="year">1955</field>
+<field name="date">02/1955</field>
+<field name="pages">55</field>
+<field name="keywords">Penmanship</field>
+<field name="notes">55 p. illus., diagrs., tables. 23 cm.; Note(s): Includes bibliographies.;
+Responsibility: by Theodore L. Harris [and] G. Lawrence Rarick, with the assistance of Dwayne E.
+Huebner [and] James B. Macdonald.</field>
+<field name="publisher">Committee for Research in Handwriting, Department of Education, University
+of Wisconsin</field>
+<field name="pub_place">Madison, WI</field>
+<field name="language">English</field>
+<field name="call_number">421 .W81p</field>
+<field name="state_country">Wisconsin</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Nelson, Frances</field><field name="author_nat">Frances Nelson</field>
+<field name="author">Moore, Maurine</field><field name="author_nat">Maurine Moore</field>
+<field name="title">Teaching handwriting in the elementary school : manuscript, cursive</field>
+<field name="year">1949</field>
+<field name="date">08/1949</field>
+<field name="pages">20</field>
+<field name="keywords">Penmanship</field>
+<field name="publisher">Ventura County (California) Schools</field>
+<field name="pub_place">Ventura, CA</field>
+<field name="language">English</field>
+<field name="call_number">421 .V46t</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Seattle (Washington) Public Schools</field>
+<field name="title">We teach handwriting : a guide for the teaching of handwriting in the
+elementary, junior high, and senior high school</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="pages">122</field>
+<field name="notes">ix; ill. ; 28 cm.; Note(s): Includes bibliographical references (p. 121-122).;
+Responsibility: Seattle Public Schools.</field>
+<field name="publisher">Seattle (Washington) Public Schools</field>
+<field name="pub_place">Seattle, WA</field>
+<field name="language">English</field>
+<field name="call_number">421 .S44w</field>
+<field name="state_country">Washington</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Schenectady (New York) Public Schools</field>
+<field name="title">Writing through the ages</field>
+<field name="keywords">Penmanship</field>
+<field name="publisher">Schenectady (New York) Public Schools</field>
+<field name="pub_place">Schenectady, NY</field>
+<field name="language">English</field>
+<field name="call_number">421 .S32w</field>
+<field name="state_country">New York</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">6th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Spring Branch (Texas) Independent School District</field>
+<field name="title">Guide to teaching handwriting</field>
+<field name="year">1962</field>
+<field name="keywords">Penmanship</field>
+<field name="abstract">[1] Grade 3.--[2] Grade 4.--[3] Grade 5.</field>
+<field name="notes">3 v. 28 cm.; Note(s): Cover title: Adventures in handwriting.; Other Titles:
+Adventures in handwriting</field>
+<field name="series_title">Spring Branch Independent School District.; Curriculum bulletin</field>
+<field name="series_vol">62-El-E4</field>
+<field name="publisher">Spring Branch (Texas) Independent School District</field>
+<field name="pub_place">Houston, TX</field>
+<field name="language">English</field>
+<field name="call_number">421 .S76a v. 1-3</field>
+<field name="state_country">Texas</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Warwick (Rhode Island) School Department</field>
+<field name="title">An emerging program of handwriting for grades i-xii</field>
+<field name="year">1957</field>
+<field name="date">09/1957</field>
+<field name="pages">14</field>
+<field name="keywords">Penmanship</field>
+<field name="publisher">Warwick (Rhode Island) School Department</field>
+<field name="pub_place">Warwick, RI</field>
+<field name="language">English</field>
+<field name="call_number">421 .W29e</field>
+<field name="state_country">Rhode Island</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">James, Katherine G.</field><field name="author_nat">Katherine G. James</field>
+<field name="corp_author">New Haven State Teachers College</field>
+<field name="title">Guide for teaching spelling in the laboratory schools</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="pages">27</field>
+<field name="keywords">Orthography and spelling</field>
+<field name="publisher">New Haven State Teachers College</field>
+<field name="pub_place">New Haven, CT</field>
+<field name="language">English</field>
+<field name="call_number">428.1 .C75g</field>
+<field name="state_country">Connecticut</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Denver (Colorado) Public Schools</field>
+<field name="title">Moving ahead in spelling</field>
+<field name="year">1960</field>
+<field name="date">1960</field>
+<field name="pages">67</field>
+<field name="keywords">English language</field>
+<field name="keywords">Orthography and spelling</field>
+<field name="keywords">Spellers (Elementary)</field>
+<field name="notes">67, [21] p. ; 28 cm.; Responsibility: prepared by Robert D. Gray, Mary E.
+Harris, Rachel V.H. Needham, Denver Public Schools.</field>
+<field name="publisher">Denver (Colorado) Public Schools</field>
+<field name="pub_place">Denver, CO</field>
+<field name="language">English</field>
+<field name="call_number">428.1 .D41m</field>
+<field name="state_country">Colorado</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Denver (Colorado) Public Schools</field>
+<field name="title">Spelling grades one through six</field>
+<field name="year">1969</field>
+<field name="date">1969</field>
+<field name="pages">19</field>
+<field name="keywords">Orthography and spelling</field>
+<field name="publisher">Denver (Colorado) Public Schools</field>
+<field name="pub_place">Denver, CO</field>
+<field name="language">English</field>
+<field name="call_number">428.1 .D41s</field>
+<field name="state_country">Colorado</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Des Moines (Iowa) Public Schools</field>
+<field name="title">Suggestions for teaching spelling, primary grades</field>
+<field name="year">1955</field>
+<field name="date">08/1955</field>
+<field name="pages">10</field>
+<field name="keywords">Orthography and spelling</field>
+<field name="publisher">Des Moines (Iowa) Public Schools</field>
+<field name="pub_place">Des Moines, IA</field>
+<field name="language">English</field>
+<field name="call_number">428.1 .D44s</field>
+<field name="state_country">Iowa</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Gary (Indiana) Public Schools</field>
+<field name="title">Spelling skills guide for the elementary schools</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="pages">19</field>
+<field name="keywords">Orthography and spelling</field>
+<field name="publisher">Gary (Indiana) Public Schools</field>
+<field name="pub_place">Gary, IN</field>
+<field name="language">English</field>
+<field name="call_number">428.1 .G24s</field>
+<field name="state_country">Indiana</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Grand Island (Nebraska) Office of the Coordinator of Curriculum</field>
+<field name="title">A word list survey in spelling for teachers in the Grand Island public
+schools</field>
+<field name="year">1954</field>
+<field name="date">11/1954</field>
+<field name="pages">12</field>
+<field name="keywords">Orthography and spelling</field>
+<field name="publisher">Grand Island (Nebraska) Office of the Coordinator of Curriculum</field>
+<field name="pub_place">Grand Island, NE</field>
+<field name="language">English</field>
+<field name="call_number">428.1 .G75w</field>
+<field name="state_country">Nebraska</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Hodges, Richard E.</field><field name="author_nat">Richard E. Hodges</field>
+<field name="title">The case for teaching sound-to-letter correspondences in spelling</field>
+<field name="keywords">Orthography and spelling</field>
+<field name="publisher">Houghton Mifflin Company</field>
+<field name="pub_place">New York, NY</field>
+<field name="language">English</field>
+<field name="call_number">428.1 .H83c</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">La Crosse (Wisconsin) City District Public Schools</field>
+<field name="title">Teacher's guide for spelling</field>
+<field name="year">1962</field>
+<field name="date">09/1962</field>
+<field name="pages">25</field>
+<field name="keywords">Orthography and spelling</field>
+<field name="publisher">La Crosse (Wisconsin) City District Public Schools</field>
+<field name="pub_place">La Crosse, WI</field>
+<field name="language">English</field>
+<field name="call_number">428.1 .L14t</field>
+<field name="state_country">Wisconsin</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Fitzgerald, James Augustine</field><field name="author_nat">James Augustine Fitzgerald</field>
+<field name="corp_author">University of the State of New York. Bureau of Elementary Curriculum
+Development</field><field name="author_nat"/>
+<field name="title">Learning to spell; a research report</field>
+<field name="year">1960</field>
+<field name="date">1960</field>
+<field name="pages">59</field>
+<field name="keywords">English language</field>
+<field name="keywords">Orthography and spelling</field>
+<field name="notes">59 p. 23 cm.; Note(s): "Prepared as a supplement to the State spelling syllabus,
+Our daily words."/ Bibliographical footnotes.; Responsibility: [by James A. Fitzgerald.</field>
+<field name="publisher">University of the State of New York</field>
+<field name="pub_place">Albany, NY</field>
+<field name="language">English</field>
+<field name="call_number">428.1 .N53L 1960</field>
+<field name="state_country">New York</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Lexington (Kentucky) Public Schools</field>
+<field name="title">Lexington's bluebacked speller : compiled for use in the high schools of the
+city of Lexington, Kentucky</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="pages">63</field>
+<field name="keywords">Spellers</field>
+<field name="notes">63 p. ; 22 cm.</field>
+<field name="publisher">Lexington (Kentucky) Public Schools</field>
+<field name="pub_place">Lexington, KY</field>
+<field name="language">English</field>
+<field name="call_number">428.1 .L67L</field>
+<field name="state_country">Kentucky</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Altos (California) School District</field>
+<field name="title">Word study program: teachers guide, grades K-4</field>
+<field name="year">1965</field>
+<field name="date">1965?</field>
+<field name="pages">177</field>
+<field name="keywords">Orthography and spelling</field>
+<field name="publisher">Los Altos (California) School District</field>
+<field name="pub_place">Los Altos, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.1 .L86w</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">Kindergarten</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Fitzgerald, James Augustine</field><field name="author_nat">James Augustine Fitzgerald</field>
+<field name="corp_author">University of the State of New York. Bureau of Elementary Curriculum
+Development</field>
+<field name="title">Learning to spell</field>
+<field name="year">1949</field>
+<field name="date">05/1949</field>
+<field name="pages">33</field>
+<field name="keywords">English language</field>
+<field name="keywords">Orthography and spelling</field>
+<field name="notes">33 p. 23 cm.; Note(s): "Prepared as a supplement of the State spelling
+syllabus."/ "Spelling references for elementary teachers": p. 32-33.; Responsibility: [prepared for
+the] Bureau of Curriculum Development, Division of Elementary Education, New York State Education
+Dept. [by James A. Fitzgerald.</field>
+<field name="series_title">University of the State of New York bulletin</field>
+<field name="series_vol">1368</field>
+<field name="publisher">University of the State of New York</field>
+<field name="pub_place">Albany, NY</field>
+<field name="language">English</field>
+<field name="call_number">428.1 .N53L</field>
+<field name="state_country">New York</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of the State of New York. Bureau of Elementary Curriculum
+Development</field>
+<field name="title">Our daily words; a basic spelling vocabulary for elementary schools, grades
+2-6</field>
+<field name="year">1952</field>
+<field name="date">1952</field>
+<field name="pages">26</field>
+<field name="keywords">Spellers</field>
+<field name="notes">26 p. 23 cm.</field>
+<field name="publisher">University of the State of New York Press</field>
+<field name="pub_place">Albany, NY</field>
+<field name="language">English</field>
+<field name="call_number">428.1 .N53o 1952</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of the State of New York. Bureau of Elementary Curriculum
+Development</field>
+<field name="title">Our daily words; a basic spelling vocabulary for elementary schools, grades
+2-6</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="pages">26</field>
+<field name="keywords">Spellers</field>
+<field name="notes">26 p. 23 cm.</field>
+<field name="publisher">University of the State of New York Press</field>
+<field name="pub_place">Albany, NY</field>
+<field name="language">English</field>
+<field name="call_number">428.1 .N53o 1956</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of the State of New York. Bureau of Elementary Curriculum
+Development</field>
+<field name="title">Our daily words; a basic spelling vocabulary for elementary schools, grades
+2-6</field>
+<field name="year">1961</field>
+<field name="date">1961</field>
+<field name="pages">26</field>
+<field name="keywords">Spellers</field>
+<field name="notes">26 p. 23 cm.</field>
+<field name="publisher">University of the State of New York Press</field>
+<field name="pub_place">Albany, NY</field>
+<field name="language">English</field>
+<field name="call_number">428.1 .N53o 1961</field>
+<field name="state_country">New York</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of the State of New York</field>
+<field name="title">Spelling</field>
+<field name="year">1960</field>
+<field name="date">1960</field>
+<field name="pages">55</field>
+<field name="keywords">English language</field>
+<field name="keywords">Orthography and spelling</field>
+<field name="abstract">Describes the spelling program used in New York State schools.</field>
+<field name="notes">ill. ; 16 cm.; Note(s): Cover title./ Prepared by the Bureau of Elementary
+Curriculum Development./ "G866-O6-20,000"--P. [2] of cover.</field>
+<field name="publisher">Division of Elementary Education, New York State Education Dept</field>
+<field name="pub_place">Albany, NY</field>
+<field name="language">English</field>
+<field name="call_number">428.1 .N3s</field>
+<field name="state_country">New York</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">New York (New York) Board of Education</field>
+<field name="title">Spelling words list a</field>
+<field name="year">1950</field>
+<field name="date">07/1950</field>
+<field name="pages">18</field>
+<field name="keywords">English language</field>
+<field name="keywords">Orthography and spelling</field>
+<field name="keywords">Spellers</field>
+<field name="publisher">New York (New York) Board of Education</field>
+<field name="pub_place">New York, NY</field>
+<field name="language">English</field>
+<field name="call_number">428.1 .N532s v. 1</field>
+<field name="state_country">New York</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">New York (New York) Board of Education</field>
+<field name="title">Spelling words list b</field>
+<field name="year">1950</field>
+<field name="date">07/1950</field>
+<field name="pages">63</field>
+<field name="keywords">English language</field>
+<field name="keywords">Orthography and spelling</field>
+<field name="keywords">Spellers</field>
+<field name="publisher">New York (New York) Board of Education</field>
+<field name="pub_place">New York, NY</field>
+<field name="language">English</field>
+<field name="call_number">428.1 .N532s v. 2</field>
+<field name="state_country">New York</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">New York (New York) Board of Education</field>
+<field name="title">Spelling words list c</field>
+<field name="year">1950</field>
+<field name="date">07/1950</field>
+<field name="pages">39</field>
+<field name="keywords">English language</field>
+<field name="keywords">Orthography and spelling</field>
+<field name="keywords">Spellers</field>
+<field name="publisher">New York (New York) Board of Education</field>
+<field name="pub_place">New York, NY</field>
+<field name="language">English</field>
+<field name="call_number">428.1 .N532s v. 3</field>
+<field name="state_country">New York</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Allred, Ruel A.</field><field name="author_nat">Ruel A. Allred</field>
+<field name="title">Application of spelling research</field>
+<field name="year">1966</field>
+<field name="date">06/1966</field>
+<field name="pages">26</field>
+<field name="keywords">English language</field>
+<field name="keywords">Orthography and spelling</field>
+<field name="notes">26 l. 28 cm.; Note(s): Bibliography: leaves 22-26.; Responsibility: Advising
+editor, Jordan B. Utsey.</field>
+<field name="series_title">University of Oregon.; Curriculum Laboratory.; Curriculum
+bulletin</field>
+<field name="series_vol">22</field>
+<field name="issue">268</field>
+<field name="publisher">School of Education, University of Oregon</field>
+<field name="pub_place">Eugene, OR</field>
+<field name="language">English</field>
+<field name="call_number">428.1 .O66a</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Gifford, Grant</field><field name="author_nat">Grant Gifford</field>
+<field name="author">Johnson, Gail</field><field name="author_nat">Gail Johnson</field>
+<field name="author">Stevens, Deon</field><field name="author_nat">Deon Stevens</field>
+<field name="title">A comparison of spelling achievement of elementary school children in 1963 with
+those of 1918</field>
+<field name="year">1964</field>
+<field name="date">11/1964</field>
+<field name="pages">15</field>
+<field name="keywords">English language</field>
+<field name="keywords">Orthography and spelling</field>
+<field name="series_title">University of Oregon.; Curriculum Laboratory.; Curriculum
+bulletin</field>
+<field name="series_vol">20</field>
+<field name="issue">249</field>
+<field name="publisher">School of Education, University of Oregon</field>
+<field name="pub_place">Eugene, OR</field>
+<field name="language">English</field>
+<field name="call_number">428.1 .O66c</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Petty, Walter T.</field><field name="author_nat">Walter T. Petty</field>
+<field name="title">Improving your spelling program</field>
+<field name="year">1959</field>
+<field name="date">1959</field>
+<field name="pages">74</field>
+<field name="keywords">English language</field>
+<field name="keywords">Orthography and spelling</field>
+<field name="notes">ill. ; 28 cm.; Note(s): Includes bibliographical references (p. 71-74) and
+index.; Responsibility: by Walter T. Petty.</field>
+<field name="publisher">Howard Chandler</field>
+<field name="pub_place">San Francisco, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.1 .P51i</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Philadelphia (Pennsylvania) Public Schools</field>
+<field name="title">Philadelphia basic spelling list for grade two</field>
+<field name="year">1955</field>
+<field name="date">1955</field>
+<field name="pages">7</field>
+<field name="keywords">English language</field>
+<field name="keywords">Orthography and spelling</field>
+<field name="keywords">Spellers</field>
+<field name="publisher">Philadelphia (Pennsylvania) Public Schools</field>
+<field name="pub_place">Philadelphia, PA</field>
+<field name="language">English</field>
+<field name="call_number">428.1 .P54p v. 1</field>
+<field name="state_country">Pennsylvania</field>
+<field name="grade_level_number">2nd grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Philadelphia (Pennsylvania) Public Schools</field>
+<field name="title">Functional lists of words: second year spelling (tentative)</field>
+<field name="year">1962</field>
+<field name="date">1962</field>
+<field name="pages">11</field>
+<field name="keywords">English language</field>
+<field name="keywords">Orthography and spelling</field>
+<field name="keywords">Spellers</field>
+<field name="publisher">Philadelphia (Pennsylvania) Public Schools</field>
+<field name="pub_place">Philadelphia, PA</field>
+<field name="language">English</field>
+<field name="call_number">428.1 .P54p v. 1a</field>
+<field name="state_country">Pennsylvania</field>
+<field name="grade_level_number">2nd grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Philadelphia (Pennsylvania) Public Schools</field>
+<field name="title">Philadelphia basic spelling list for grade three</field>
+<field name="year">1955</field>
+<field name="date">1955</field>
+<field name="pages">48</field>
+<field name="keywords">English language</field>
+<field name="keywords">Orthography and spelling</field>
+<field name="keywords">Spellers</field>
+<field name="publisher">Philadelphia (Pennsylvania) Public Schools</field>
+<field name="pub_place">Philadelphia, PA</field>
+<field name="language">English</field>
+<field name="call_number">428.1 .P54p v. 2</field>
+<field name="state_country">Pennsylvania</field>
+<field name="grade_level_number">3rd grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Philadelphia (Pennsylvania) Public Schools</field>
+<field name="title">Philadelphia basic spelling list for grade four</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="pages">10</field>
+<field name="keywords">English language</field>
+<field name="keywords">Orthography and spelling</field>
+<field name="keywords">Spellers</field>
+<field name="publisher">Philadelphia (Pennsylvania) Public Schools</field>
+<field name="pub_place">Philadelphia, PA</field>
+<field name="language">English</field>
+<field name="call_number">428.1 .P54p v. 3</field>
+<field name="state_country">Pennsylvania</field>
+<field name="grade_level_number">4th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Philadelphia (Pennsylvania) Public Schools</field>
+<field name="title">Philadelphia basic spelling list for grade five</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="pages">14</field>
+<field name="keywords">English language</field>
+<field name="keywords">Orthography and spelling</field>
+<field name="keywords">Spellers</field>
+<field name="publisher">Philadelphia (Pennsylvania) Public Schools</field>
+<field name="pub_place">Philadelphia, PA</field>
+<field name="language">English</field>
+<field name="call_number">428.1 .P54p v. 4</field>
+<field name="state_country">Pennsylvania</field>
+<field name="grade_level_number">5th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Philadelphia (Pennsylvania) Public Schools</field>
+<field name="title">Philadelphia basic spelling list for grade six</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="pages">18</field>
+<field name="keywords">English language</field>
+<field name="keywords">Orthography and spelling</field>
+<field name="keywords">Spellers</field>
+<field name="publisher">Philadelphia (Pennsylvania) Public Schools</field>
+<field name="pub_place">Philadelphia, PA</field>
+<field name="language">English</field>
+<field name="call_number">428.1 .P54p v. 5</field>
+<field name="state_country">Pennsylvania</field>
+<field name="grade_level_number">6th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of Texas</field>
+<field name="corp_author">University Interscholastic League (Texas)</field>
+<field name="title">Spelling list for Interscholastic League spelling contest : 1956-57 school
+year</field>
+<field name="year">1956</field>
+<field name="date">09/1956</field>
+<field name="pages">16</field>
+<field name="keywords">Spelling ability</field>
+<field name="keywords">Testing</field>
+<field name="keywords">English language</field>
+<field name="keywords">Orthography and spelling</field>
+<field name="notes">16 p. ; 22 cm.</field>
+<field name="series_title">University of Texas publication</field>
+<field name="series_vol">5618</field>
+<field name="publisher">University of Texas, Bureau of Public School Service, Division of
+Extension</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">428.1 .T35sp 1956-57</field>
+<field name="state_country">Texas</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of Texas</field>
+<field name="corp_author">University Interscholastic League (Texas)</field>
+<field name="title">Spelling list for Interscholastic League spelling contest : 1957-58 school
+year</field>
+<field name="year">1957</field>
+<field name="date">09/1957</field>
+<field name="pages">16</field>
+<field name="keywords">Spelling ability</field>
+<field name="keywords">Testing</field>
+<field name="keywords">English language</field>
+<field name="keywords">Orthography and spelling</field>
+<field name="notes">16 p. ; 22 cm.</field>
+<field name="series_title">University of Texas publication</field>
+<field name="series_vol">5718</field>
+<field name="publisher">University of Texas, Bureau of Public School Service, Division of
+Extension</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">428.1 .T35sp 1957-58</field>
+<field name="state_country">Texas</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of Texas</field>
+<field name="corp_author">University Interscholastic League (Texas)</field>
+<field name="title">Spelling list for Interscholastic League spelling contest : 1958-59 school
+year</field>
+<field name="year">1958</field>
+<field name="date">09/1958</field>
+<field name="pages">16</field>
+<field name="keywords">Spelling ability</field>
+<field name="keywords">Testing</field>
+<field name="keywords">English language</field>
+<field name="keywords">Orthography and spelling</field>
+<field name="notes">16 p. ; 22 cm.</field>
+<field name="series_title">University of Texas publication</field>
+<field name="series_vol">5818</field>
+<field name="publisher">University of Texas, Bureau of Public School Service, Division of
+Extension</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">428.1 .T35sp 1958-59</field>
+<field name="state_country">Texas</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of Texas</field>
+<field name="corp_author">University Interscholastic League (Texas)</field>
+<field name="title">Spelling list for Interscholastic League spelling contest : 1959-60 school
+year</field>
+<field name="year">1959</field>
+<field name="date">09/1959</field>
+<field name="pages">16</field>
+<field name="keywords">Spelling ability</field>
+<field name="keywords">Testing</field>
+<field name="keywords">English language</field>
+<field name="keywords">Orthography and spelling</field>
+<field name="notes">16 p. ; 22 cm.</field>
+<field name="series_title">University of Texas publication</field>
+<field name="series_vol">5918</field>
+<field name="publisher">University of Texas, Bureau of Public School Service, Division of
+Extension</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">428.1 .T35sp 1959-60</field>
+<field name="state_country">Texas</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of Texas</field>
+<field name="corp_author">University Interscholastic League (Texas)</field>
+<field name="title">Spelling list for Interscholastic League spelling contest : 1960-61 school
+year</field>
+<field name="year">1960</field>
+<field name="date">09/1960</field>
+<field name="pages">16</field>
+<field name="keywords">Spelling ability</field>
+<field name="keywords">Testing</field>
+<field name="keywords">English language</field>
+<field name="keywords">Orthography and spelling</field>
+<field name="notes">16 p. ; 22 cm.</field>
+<field name="series_title">University of Texas publication</field>
+<field name="series_vol">6018</field>
+<field name="publisher">University of Texas, Bureau of Public School Service, Division of
+Extension</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">428.1 .T35sp 1960-61</field>
+<field name="state_country">Texas</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of Texas</field>
+<field name="corp_author">University Interscholastic League (Texas)</field>
+<field name="title">Spelling list for Interscholastic League spelling contest : 1965-66 school
+year</field>
+<field name="year">1965</field>
+<field name="date">06/1965</field>
+<field name="pages">19</field>
+<field name="keywords">Spelling ability</field>
+<field name="keywords">Testing</field>
+<field name="keywords">English language</field>
+<field name="keywords">Orthography and spelling</field>
+<field name="series_title">University of Texas publication</field>
+<field name="series_vol">6512</field>
+<field name="publisher">University of Texas, Bureau of Public School Service, Division of
+Extension</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">428.1 .T35sp 1965-66</field>
+<field name="state_country">Texas</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of Texas</field>
+<field name="corp_author">University Interscholastic League (Texas)</field>
+<field name="title">Spelling list for Interscholastic League spelling contest : 1966-67 school
+year</field>
+<field name="year">1965</field>
+<field name="date">11/1965</field>
+<field name="pages">22</field>
+<field name="keywords">Spelling ability</field>
+<field name="keywords">Testing</field>
+<field name="keywords">English language</field>
+<field name="keywords">Orthography and spelling</field>
+<field name="series_title">University of Texas publication</field>
+<field name="series_vol">6521</field>
+<field name="publisher">University of Texas, Bureau of Public School Service, Division of
+Extension</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">428.1 .T35sp 1966-67</field>
+<field name="state_country">Texas</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of Texas</field>
+<field name="corp_author">University Interscholastic League (Texas)</field>
+<field name="title">Spelling list for Interscholastic League spelling contest : 1968-69 school
+year</field>
+<field name="year">1968</field>
+<field name="date">07/1968</field>
+<field name="pages">24</field>
+<field name="keywords">Spelling ability</field>
+<field name="keywords">Testing</field>
+<field name="keywords">English language</field>
+<field name="keywords">Orthography and spelling</field>
+<field name="series_title">University of Texas publication</field>
+<field name="series_vol">6814</field>
+<field name="publisher">University of Texas, Bureau of Public School Service, Division of
+Extension</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">428.1 .T35sp 1968-69</field>
+<field name="state_country">Texas</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of Texas</field>
+<field name="corp_author">University Interscholastic League (Texas)</field>
+<field name="title">Spelling list for Interscholastic League spelling contest : 1969-70 school
+year</field>
+<field name="year">1969</field>
+<field name="date">06/1969</field>
+<field name="pages">24</field>
+<field name="keywords">Spelling ability</field>
+<field name="keywords">Testing</field>
+<field name="keywords">English language</field>
+<field name="keywords">Orthography and spelling</field>
+<field name="series_title">University of Texas publication</field>
+<field name="series_vol">6911</field>
+<field name="publisher">University of Texas, Bureau of Public School Service, Division of
+Extension</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">428.1 .T35sp 1969-70</field>
+<field name="state_country">Texas</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of Texas</field>
+<field name="corp_author">University Interscholastic League (Texas)</field>
+<field name="title">Spelling list for Interscholastic League spelling contest : 1970-71 school
+year</field>
+<field name="year">1970</field>
+<field name="date">08/1970</field>
+<field name="pages">24</field>
+<field name="keywords">Spelling ability</field>
+<field name="keywords">Testing</field>
+<field name="keywords">English language</field>
+<field name="keywords">Orthography and spelling</field>
+<field name="series_title">University of Texas publication</field>
+<field name="series_vol">7016</field>
+<field name="publisher">University of Texas, Bureau of Public School Service, Division of
+Extension</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">428.1 .T35sp 1970-71</field>
+<field name="state_country">Texas</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of Texas</field>
+<field name="corp_author">University Interscholastic League (Texas)</field>
+<field name="title">Words for the spelling and plain writing contest grade</field>
+<field name="year">1930</field>
+<field name="date">06/1930</field>
+<field name="pages">16</field>
+<field name="keywords">Spelling ability</field>
+<field name="keywords">Testing</field>
+<field name="keywords">English language</field>
+<field name="keywords">Orthography and spelling</field>
+<field name="series_title">University of Texas bulletin</field>
+<field name="series_vol">3024</field>
+<field name="publisher">University of Texas, Bureau of Public School Service, Division of
+Extension</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">428.1 .T35w 1930</field>
+<field name="state_country">Texas</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of Texas</field>
+<field name="corp_author">University Interscholastic League (Texas)</field>
+<field name="title">Words for Interscholastic League spelling contests</field>
+<field name="year">1935</field>
+<field name="date">09/1935</field>
+<field name="pages">16</field>
+<field name="keywords">Spelling ability</field>
+<field name="keywords">Testing</field>
+<field name="keywords">English language</field>
+<field name="keywords">Orthography and spelling</field>
+<field name="series_title">University of Texas bulletin</field>
+<field name="series_vol">3533</field>
+<field name="publisher">University of Texas, Bureau of Public School Service, Division of
+Extension</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">428.1 .T35w 1935</field>
+<field name="state_country">Texas</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of Texas</field>
+<field name="corp_author">University Interscholastic League (Texas)</field>
+<field name="title">Words for Interscholastic League spelling contests</field>
+<field name="year">1936</field>
+<field name="date">09/1936</field>
+<field name="pages">16</field>
+<field name="keywords">Spelling ability</field>
+<field name="keywords">Testing</field>
+<field name="keywords">English language</field>
+<field name="keywords">Orthography and spelling</field>
+<field name="series_title">University of Texas bulletin</field>
+<field name="series_vol">3633</field>
+<field name="publisher">University of Texas, Bureau of Public School Service, Division of
+Extension</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">428.1 .T35w 1936</field>
+<field name="state_country">Texas</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of Texas</field>
+<field name="corp_author">University Interscholastic League (Texas)</field>
+<field name="title">Words for Interscholastic League spelling contests</field>
+<field name="year">1937</field>
+<field name="date">09/1937</field>
+<field name="pages">16</field>
+<field name="keywords">Spelling ability</field>
+<field name="keywords">Testing</field>
+<field name="keywords">English language</field>
+<field name="keywords">Orthography and spelling</field>
+<field name="series_title">University of Texas bulletin</field>
+<field name="series_vol">3733</field>
+<field name="publisher">University of Texas, Bureau of Public School Service, Division of
+Extension</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">428.1 .T35w 1937</field>
+<field name="state_country">Texas</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of Texas</field>
+<field name="corp_author">University Interscholastic League (Texas)</field>
+<field name="title">Words for Interscholastic League spelling contests</field>
+<field name="year">1938</field>
+<field name="date">09/1938</field>
+<field name="pages">16</field>
+<field name="keywords">Spelling ability</field>
+<field name="keywords">Testing</field>
+<field name="keywords">English language</field>
+<field name="keywords">Orthography and spelling</field>
+<field name="series_title">University of Texas bulletin</field>
+<field name="series_vol">3833</field>
+<field name="publisher">University of Texas, Bureau of Public School Service, Division of
+Extension</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">428.1 .T35w 1938</field>
+<field name="state_country">Texas</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of Texas</field>
+<field name="corp_author">University Interscholastic League (Texas)</field>
+<field name="title">Words for Interscholastic League spelling contests</field>
+<field name="year">1940</field>
+<field name="date">09/1940</field>
+<field name="pages">16</field>
+<field name="keywords">Spelling ability</field>
+<field name="keywords">Testing</field>
+<field name="keywords">English language</field>
+<field name="keywords">Orthography and spelling</field>
+<field name="series_title">University of Texas bulletin</field>
+<field name="series_vol">4033</field>
+<field name="publisher">University of Texas, Bureau of Public School Service, Division of
+Extension</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">428.1 .T35w 1940</field>
+<field name="state_country">Texas</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of Texas</field>
+<field name="corp_author">University Interscholastic League (Texas)</field>
+<field name="title">Words for Interscholastic League spelling contests</field>
+<field name="year">1941</field>
+<field name="date">09/1941</field>
+<field name="pages">16</field>
+<field name="keywords">Spelling ability</field>
+<field name="keywords">Testing</field>
+<field name="keywords">English language</field>
+<field name="keywords">Orthography and spelling</field>
+<field name="series_title">University of Texas bulletin</field>
+<field name="series_vol">4133</field>
+<field name="publisher">University of Texas, Bureau of Public School Service, Division of
+Extension</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">428.1 .T35w 1941</field>
+<field name="state_country">Texas</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of Texas</field>
+<field name="corp_author">University Interscholastic League (Texas)</field>
+<field name="title">Words for Interscholastic League spelling contests</field>
+<field name="year">1942</field>
+<field name="date">09/1942</field>
+<field name="pages">16</field>
+<field name="keywords">Spelling ability</field>
+<field name="keywords">Testing</field>
+<field name="keywords">English language</field>
+<field name="keywords">Orthography and spelling</field>
+<field name="series_title">University of Texas bulletin</field>
+<field name="series_vol">4233</field>
+<field name="publisher">University of Texas, Bureau of Public School Service, Division of
+Extension</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">428.1 .T35w 1942</field>
+<field name="state_country">Texas</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of Texas</field>
+<field name="corp_author">University Interscholastic League (Texas)</field>
+<field name="title">Words for Interscholastic League spelling contests</field>
+<field name="year">1944</field>
+<field name="date">09/1944</field>
+<field name="pages">16</field>
+<field name="keywords">Spelling ability</field>
+<field name="keywords">Testing</field>
+<field name="keywords">English language</field>
+<field name="keywords">Orthography and spelling</field>
+<field name="series_title">University of Texas bulletin</field>
+<field name="series_vol">4433</field>
+<field name="publisher">University of Texas, Bureau of Public School Service, Division of
+Extension</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">428.1 .T35w 1944</field>
+<field name="state_country">Texas</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of Texas</field>
+<field name="corp_author">University Interscholastic League (Texas)</field>
+<field name="title">Words for Interscholastic League spelling contests</field>
+<field name="year">1945</field>
+<field name="date">09/1945</field>
+<field name="pages">16</field>
+<field name="keywords">Spelling ability</field>
+<field name="keywords">Testing</field>
+<field name="keywords">English language</field>
+<field name="keywords">Orthography and spelling</field>
+<field name="series_title">University of Texas bulletin</field>
+<field name="series_vol">4533</field>
+<field name="publisher">University of Texas, Bureau of Public School Service, Division of
+Extension</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">428.1 .T35w 1945</field>
+<field name="state_country">Texas</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of Texas</field>
+<field name="corp_author">University Interscholastic League (Texas)</field>
+<field name="title">Words for Interscholastic League spelling contests</field>
+<field name="year">1947</field>
+<field name="date">09/1947</field>
+<field name="pages">16</field>
+<field name="keywords">Spelling ability</field>
+<field name="keywords">Testing</field>
+<field name="keywords">English language</field>
+<field name="keywords">Orthography and spelling</field>
+<field name="series_title">University of Texas bulletin</field>
+<field name="series_vol">4733</field>
+<field name="publisher">University of Texas, Bureau of Public School Service, Division of
+Extension</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">428.1 .T35w 1947</field>
+<field name="state_country">Texas</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of Texas</field>
+<field name="corp_author">University Interscholastic League (Texas)</field>
+<field name="title">Words for Interscholastic League spelling contests</field>
+<field name="year">1948</field>
+<field name="date">09/1948</field>
+<field name="pages">16</field>
+<field name="keywords">Spelling ability</field>
+<field name="keywords">Testing</field>
+<field name="keywords">English language</field>
+<field name="keywords">Orthography and spelling</field>
+<field name="series_title">University of Texas bulletin</field>
+<field name="series_vol">4817</field>
+<field name="publisher">University of Texas, Bureau of Public School Service, Division of
+Extension</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">428.1 .T35w 1948</field>
+<field name="state_country">Texas</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of Texas</field>
+<field name="corp_author">University Interscholastic League (Texas)</field>
+<field name="title">Words for Interscholastic League spelling contests</field>
+<field name="year">1949</field>
+<field name="date">09/1949</field>
+<field name="pages">16</field>
+<field name="keywords">Spelling ability</field>
+<field name="keywords">Testing</field>
+<field name="keywords">English language</field>
+<field name="keywords">Orthography and spelling</field>
+<field name="series_title">University of Texas bulletin</field>
+<field name="series_vol">4917</field>
+<field name="publisher">University of Texas, Bureau of Public School Service, Division of
+Extension</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">428.1 .T35w 1949</field>
+<field name="state_country">Texas</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of Texas</field>
+<field name="corp_author">University Interscholastic League (Texas)</field>
+<field name="title">Words for Interscholastic League spelling contests</field>
+<field name="year">1953</field>
+<field name="date">06/1953</field>
+<field name="pages">16</field>
+<field name="keywords">Spelling ability</field>
+<field name="keywords">Testing</field>
+<field name="keywords">English language</field>
+<field name="keywords">Orthography and spelling</field>
+<field name="series_title">University of Texas bulletin</field>
+<field name="series_vol">5311</field>
+<field name="publisher">University of Texas, Bureau of Public School Service, Division of
+Extension</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">428.1 .T35w 1953-54</field>
+<field name="state_country">Texas</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Pomona (California) Curriculum Department. Elementary Division</field>
+<field name="title">Language arts: discussion guide on spelling</field>
+<field name="keywords">English language</field>
+<field name="keywords">Orthography and spelling</field>
+<field name="publisher">Pomona (California) Curriculum Department. Elementary Division</field>
+<field name="pub_place">Pomona, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.1 .P78L</field>
+<field name="state_country">California</field>
+</doc>
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Roslyn (New York) Public Schools</field>
+<field name="title">Spelling curriculum guide, K-6</field>
+<field name="year">1962</field>
+<field name="date">09/1962</field>
+<field name="pages">74</field>
+<field name="keywords">English language</field>
+<field name="keywords">Orthography and spelling</field>
+<field name="publisher">Roslyn (New York) Public Schools</field>
+<field name="pub_place">Roslyn, NY</field>
+<field name="language">English</field>
+<field name="call_number">428.1 .R82s</field>
+<field name="state_country">New York</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Sarasota County (Florida) Schools</field>
+<field name="title">Spelling, grades 2-9</field>
+<field name="year">1957</field>
+<field name="date">01/1957</field>
+<field name="pages">54</field>
+<field name="keywords">English language</field>
+<field name="keywords">Orthography and spelling</field>
+<field name="publisher">Sarasota County (Florida) Schools</field>
+<field name="pub_place">Sarasota, FL</field>
+<field name="language">English</field>
+<field name="call_number">428.1 .S24s</field>
+<field name="state_country">Florida</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Willoughby-Eastlake (Ohio) City Schools</field>
+<field name="title">Spelling must have meaning</field>
+<field name="year">1963</field>
+<field name="date">09/1963</field>
+<field name="pages">82</field>
+<field name="keywords">English language</field>
+<field name="keywords">Orthography and spelling</field>
+<field name="publisher">Willoughby-Eastlake (Ohio) City Schools</field>
+<field name="pub_place">Willoughby, OH</field>
+<field name="language">English</field>
+<field name="call_number">428.1 .W74s</field>
+<field name="state_country">Ohio</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+</doc>
+</add>

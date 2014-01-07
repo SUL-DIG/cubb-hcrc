@@ -1,0 +1,1837 @@
+
+
+
+
+TY  - BOOK
+A1  - Hardgrove, Clarence Ethel
+T1  - The elementary and junior high school mathematics library
+Y1  - 1960
+D1  - 1960
+SP  - 32
+KW  - Mathematics
+KW  - Bibliography
+N1  - 32 p. 24 cm.
+PB  - National Council of Teachers of Mathematics
+CY  - Washington, DC
+LA  - English
+CN  - 511.6 .N27eL v. 1
+G1  - Elementary
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A1  - Potter, Mary
+A1  - Mallory, Virgil Sampson
+T1  - Education in mathematics for the slow learner
+Y1  - 1958
+D1  - 1958
+SP  - 36
+KW  - Mathematics
+N1  - 36 p. ; 23 cm.; Note(s): Includes bibliographical references (p. 32-36).; Responsibility: by Mary Potter and Virgil Mallory.
+PB  - National Council of Teachers of Mathematics
+CY  - Washington, DC
+LA  - English
+CN  - 511.6 .N27e
+ER  - 
+
+TY  - BOOK
+A1  - Ransom, William R.
+A2  - National Council of Teachers of Mathematics
+T1  - Geometry growing : early and later proofs of famous theorems
+Y1  - 1954
+D1  - 1954
+SP  - 36
+KW  - Geometry
+N1  - iv; ill. ; 23 cm.; Note(s): Includes index.; Responsibility: William R. Ransom.
+PB  - National Council of Teachers of Mathematics
+CY  - Washington, DC
+LA  - English
+CN  - 513 .N27g
+ER  - 
+
+TY  - BOOK
+A1  - Schaaf, William Leonard
+T1  - The high school mathematics library
+Y1  - 1960
+D1  - 1960
+SP  - 36
+KW  - Mathematics
+KW  - Bibliography
+N1  - 36 p. 23 cm.; Note(s): "Second printing, 1961."
+PB  - National Council of Teachers of Mathematics
+CY  - Washington, DC
+LA  - English
+CN  - 511.6 .N27eL v. 2
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Vollmar, Robert
+A1  - Peak, Philip
+T1  - How to use films and filmstrips in mathematics classes
+Y1  - 1956
+D1  - 1956
+SP  - 14
+KW  - Mathematics
+N1  - 14 p. ill. 29 cm.; Note(s): "Publications which aid in film and filmstrip selection": p. 11-12./ "Directory of film producers and distributors": p. 14.; Responsibility: by Robert Vollmar, and Philop Peak.
+T2  - National Council of Teachers of Mathematics. How to series
+V1  - 4
+PB  - National Council of Teachers of Mathematics
+CY  - Washington, DC
+LA  - English
+CN  - 511.6 .N27h v. 4
+ER  - 
+
+TY  - BOOK
+A1  - Archer, Allene
+T1  - How to use your library in mathematics ..
+Y1  - 1958
+D1  - 1958
+SP  - 6
+KW  - Mathematics
+KW  - School libraries
+N1  - 6 p. ill. 29 cm.; Note(s): Also issued online.
+T2  - National Council of Teachers of Mathematics. How to series
+V1  - 5
+PB  - National Council of Teachers of Mathematics
+CY  - Washington, DC 
+LA  - English
+CN  - 511.6 .N27h
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Berger, Emil J.
+A1  - Johnson, Donovan A.
+T1  - A guide to the use and procurement of teaching aids for mathematics
+Y1  - 1959
+D1  - 1959
+SP  - 41
+KW  - Mathematics
+KW  - Teaching aids
+PB  - National Council of Teachers of Mathematics
+CY  - Washington, DC
+LA  - English
+CN  - 511.6 .N27gu v. 1
+ER  - 
+
+TY  - BOOK
+A1  - Johnson, Donovan A.
+T1  - How to use field trips in mathematics
+Y1  - 1956
+D1  - 1956
+SP  - 8
+KW  - Mathematics
+N1  - 8 p. ill. 29 cm.; Responsibility: by Donovan A. Johnson, Dirk Ten Brinke, and Lauren G. Woodby.
+T2  - National Council of Teachers of Mathematics. How to series
+V1  - 3
+PB  - National Council of Teachers of Mathematics
+CY  - Washington, DC 
+LA  - English
+CN  - %11.6 .N27gu v. 3
+ER  - 
+
+TY  - BOOK
+A1  - Johnson, Donovan A.
+A1  - Olander, Clarence E.
+T1  - How to use your bulletin board
+Y1  - 1955
+D1  - 1955
+SP  - 11
+KW  - Bulletin boards
+KW  - Mathematics
+N1  - 11 p. ill. 28 cm.; Responsibility: [by] Donovan A. Johnson [and] Clarence E. Olander.
+T2  - National Council of Teachers of Mathematics. How to do it series
+V1  - 1
+PB  - National Council of Teachers of Mathematics
+CY  - Washington, DC
+LA  - English
+CN  - 511.6 .N27h v. 1
+ER  - 
+
+TY  - BOOK
+A1  - Keiffer, Mildred
+A1  - Evans, Anna Marie
+T1  - How to develop a teaching guide in mathematics
+Y1  - 1955
+D1  - 1955
+SP  - 9
+KW  - Mathematics
+N1  - 9 p. 29 cm.; Responsibility: by Mildred Keiffer and Anna Marie Evans.
+T2  - National Council of Teachers of Mathematics. How to series
+V1  - 2
+PB  - National Council of Teachers of Mathematics
+CY  - Washington, DC
+LA  - English
+CN  - 511.6 .N27h v. 2
+ER  - 
+
+TY  - BOOK
+A1  - Myers, Sheldon S.
+T1  - Mathematics tests available in the United States
+Y1  - 1959
+D1  - 04/1959
+SP  - 12
+KW  - Mathematical ability
+KW  - Testing
+PB  - National Council of Teachers of Mathematics
+CY  - Washington, DC
+LA  - English
+CN  - 511.6 .N27gu v. 2
+ER  - 
+
+TY  - BOOK
+A1  - Carnahan, Walter H.
+A2  - National Council of Teachers of Mathematics. Mathematics Club Pamphlet Committee
+T1  - Mathematics clubs in high schools
+Y1  - 1958
+D1  - 1958
+SP  - 32
+KW  - Mathematics
+N1  - 32 p. 23 cm.; Responsibility: Walter H. Carnahan, editor.
+PB  - National Council of Teachers of Mathematics
+CY  - Washington, DC
+LA  - English
+CN  - 511.6 .N27m
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Johnson, Donovan A.
+T1  - Paper folding for the mathematics class
+Y1  - 1957
+D1  - 1957
+SP  - 32
+KW  - Geometry
+KW  - Paper work
+PB  - National Council of Teachers of Mathematics
+CY  - Washington, DC
+LA  - English
+CN  - 511.6 .N27pa
+ER  - 
+
+TY  - BOOK
+A2  - National Council of Teachers of Mathematics
+T1  - The revolution in school mathematics; a challenge for administrators and teachers, a report
+Y1  - 1961
+D1  - 1961
+SP  - 90
+KW  - Mathematics
+N1  - iv; illus. 23 cm.; Note(s): "Sponsored by National Council of Teachers of Mathematics."/ Biographical footnotes./ Bibliographical footnotes./ Also issued online.
+T2  - Regional Orientation Conferences in Mathematics (1960 : Philadelphia, etc.)
+PB  - National Council of Teachers of Mathematics
+CY  - Washington, DC
+LA  - English
+CN  - 511.6 .N27r
+ER  - 
+
+TY  - BOOK
+A1  - Vance, Elbridge Putnam
+A2  - National Council of Teachers of Mathematics
+T1  - Program provisions for the mathematically gifted student in the secondary school
+Y1  - 1957
+D1  - 1957
+SP  - 28
+KW  - Mathematics
+N1  - 28 p. 23 cm.; Note(s): Bibliography : p. 25-28.; Responsibility: editor, E.P. Vance. Contributors: Julius H. Hlavaty, Richard S. Pieters [and] Leroy Sachs.
+PB  - National Council of Teachers of Mathematics
+CY  - Washington, DC
+LA  - English
+CN  - 511.6 .N27p
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Nederland (Texas) Independent School District
+T1  - Secondary mathematics for grades 6 through 9. Part I, An approach to individualization of instruction in sixth grade mathematics, seventh grade mathematics, eighth grade mathematics, algebra 13, general mathematics at Central Junior High School, C.O. Wilson Junior High School, Nederland High School
+Y1  - 1966
+D1  - 08/1966
+KW  - Mathematics
+KW  - Individualized instruction
+ED  - Experimental
+PB  - Nederland (Texas) Independent School District
+CY  - Nederland, TX
+LA  - English
+CN  - 511.6 .N37s v. 1
+SC  - Texas
+G2  - 6th
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Nederland (Texas) Independent School District
+T1  - Secondary mathematics for grades 6 through 12. Part II, An approach to individualization of instruction in business arithmetic, Geometry 33. Algebra 33. Trigonometry 41. Elementary analysis 42. Consumer mathematics 43 at Central Junior High School, C.O. Wilson Junior High School, Nederland High School
+Y1  - 1966
+D1  - 08/1966
+KW  - Mathematics
+KW  - Individualized instruction
+ED  - Experimental
+PB  - Nederland (Texas) Independent School District
+CY  - Nederland, TX
+LA  - English
+CN  - 511.6 .N37s v. 2
+SC  - Texas
+G2  - 6th
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - New Hampshire State Department of Education
+T1  - A suggested syllabus for grade 12 mathematics: trigonometry and advanced algebra
+Y1  - 1956
+D1  - 07/1956
+SP  - 10
+KW  - Mathematics
+KW  - Algebra
+KW  - Trigonometry
+PB  - New Hampshire State Department of Education
+CY  - Concord, NH
+LA  - English
+CN  - 511.6 .N48s
+SC  - New Hampshire
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - New York (New York) Board of Education
+T1  - Mathematics, grade 7
+Y1  - 1959
+D1  - 1959
+SP  - 194
+KW  - Mathematics
+T2  - New York (New York) Board of Education. Curriculum bulletin, 1959-60 series
+V1  - 3
+PB  - New York (New York) Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 511.6 .N52ma
+SC  - New York
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A2  - New York (New York) Board of Education
+T1  - General mathematics for the tenth year
+Y1  - 1954
+D1  - 1954
+SP  - 95
+KW  - Mathematics
+T2  - New York (New York) Board of Education. Curriculum bulletin,; 1953-54 series
+V1  - 5
+PB  - New York (New York) Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 511.6 .N52g
+SC  - New York
+G2  - 10th
+ER  - 
+
+TY  - BOOK
+A2  - New York State Education Department
+T1  - An experimental course in mathematics for the twelfth year
+Y1  - 1957
+D1  - 1957
+SP  - 30
+KW  - Mathematics
+PB  - New York State Education Department
+CY  - Albany, NY
+LA  - English
+CN  - 511.6 .N53e
+SC  - New York
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A1  - Carey, Elizabeth B.
+A1  - Seymour, F. Eugene
+T1  - Improving basic skills in mathematics : a digest of the report of the Basic Skills Conference-Clinics in Mathematics
+Y1  - 1952
+D1  - 1952
+SP  - 8
+KW  - Mathematics
+N1  - 8 p. ; 22 cm.; Note(s): "This abstract was prepared by the staff of the Bureau of Secondary Curriculum Development. It is based upon a comprehensive report of the outcomes of the ten Basic Skills Conference-Clinics in Mathematics prepared by Elizabeth B. Carey supervisor of elementary education, in cooperation with F. Eugene Seymour, supervisor of mathematics education."; Responsibility: Bureau of Secondary Curriculum development, State Education Department.
+T2  - New York State Education Department. Curriculum leaflet
+V1  - 1
+PB  - Bureau of Secondary Currculum Development, New York State Education Department
+CY  - Albany, NY
+LA  - English
+CN  - 511.6 .N53i
+SC  - New York
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Elementary Curriculum Development
+T1  - Mathematics for boys and girls; a handbook for teachers
+Y1  - 1958
+D1  - 1958
+SP  - 154
+KW  - Mathematics
+N1  - 154 p. illus. 23 cm.; Note(s): "A suggested grade placement, kindergarten, grade 1-6": fold. leaf in pocket.
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 511.6 .N53m v. 1
+SC  - New York
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Secondary Curriculum Development
+T1  - Graphs and statistics; a resource handbook for teachers of basic mathematics
+Y1  - 1960
+D1  - 1960
+SP  - 90
+KW  - Mathematics
+KW  - Statistics
+N1  - 90 p. map, diagrs. 23 cm.
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 511.6 .N53g
+SC  - New York
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Secondary Curriculum Development
+T1  - Mathematics, 7-8-9; an integrated sequence for the early secondary school grades
+Y1  - 1958
+D1  - 1958
+SP  - 63
+KW  - Mathematics
+N1  - 63 p. illus. 22 cm.
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 511.6 .N53m v. 2
+SC  - New York
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A1  - Petty, Olan
+T1  - A guide to curriculum study : elementary mathematics, grades 1-8
+Y1  - 1959
+D1  - 1959
+SP  - 35
+KW  - Mathematics
+N1  - ii; ; 28 cm.; Note(s): Cover title./ Includes bibliographical references (p. 32-35).; Other Titles: Elementary mathematics, grades 1-8; Responsibility: by Olan Petty.
+PB  - Curriculum Study, North Carolina State Board of Education
+CY  - Raleigh, NC
+LA  - English
+CN  - 511.6 .N85g v. 1
+SC  - North Carolina
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A1  - Clary, Robert
+A1  - Eason, Margaret
+A1  - Harris, Bryce
+A1  - Ridgeway, Jane
+T1  - A guide to curriculum study : high school mathematics grades 9 - 12
+Y1  - 1959
+D1  - 1959
+SP  - 56
+KW  - Mathematics
+N1  - ii; ; 28 cm.; Note(s): Cover title./ Includes bibliographical references (p. 42-53).; Other Titles: High school mathematics, grades 9-12; Responsibility: by Robert Clary et al.
+PB  - Curriculum Study, North Carolina State Board of Education
+CY  - Raleigh, NC
+LA  - English
+CN  - 511.6 .N85g v. 2
+SC  - North Carolina
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Secondary Curriculum Development
+T1  - Mathematics 10; a handbook of resource material to accompany the course of study in mathematics 10
+Y1  - 1962
+D1  - 1962
+SP  - 130
+KW  - Geometry
+N1  - v; diagrs. 23 cm.; Note(s): Bibliography: p. 130.
+PB  - University of the State of New York. Bureau of Secondary Curriculum Development
+CY  - Albany, NY
+LA  - English
+CN  - 511.6 .N53m v. 3a
+SC  - New York
+G2  - 10th
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of General Education Curriculum Development
+T1  - Mathematics courses for the seventh year and eighth yearbook
+Y1  - 1967
+D1  - 1967
+SP  - 29
+KW  - Mathematics
+N1  - v; ill. ; 22 cm.; Responsibility: Bureau of General Education Curriculum Development, University of the State of New York.
+PB  - University of the State of New York. Bureau of General Education Curriculum Development
+CY  - Albany, NY
+LA  - English
+CN  - 511.6 .N53m v. 2a
+SC  - New York
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Mathematics Education
+T1  - Mathematics education and the educationally disadvantaged
+Y1  - 1968
+D1  - 05/1968
+SP  - 68
+KW  - Mathematics
+KW  - Children with social disabilities
+N1  - 68 p. 22 cm.; Note(s): Papers delivered at two conferences held in Albany, Mar. 17 and Dec. 1, 1967, on the theme: Low achievers in mathematics and title 1, ESEA, and sponsored by the Bureau of Mathematics Education and the Office of Title 1, ESEA.
+PB  - University of the State of New York, Bureau of Mathematics Education
+CY  - Albany, NY
+LA  - English
+CN  - 511.6 .N53ma
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - Oakland (California) Public Schools
+T1  - Intermediate mathematics: pilot course
+Y1  - 1961
+D1  - 06/1961
+SP  - 4
+KW  - Mathematics
+PB  - Oakland (California) Public Schools
+CY  - Oakland, CA
+LA  - English
+CN  - 511.6 .O11i
+SC  - California
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Oakland (California) Public Schools
+T1  - Mathematics I : teacher's guide, tentative
+Y1  - 1961
+D1  - 06/1961
+KW  - Mathematics
+N1  - 1 v. (various pagings)
+PB  - Oakland (California) Public Schools
+CY  - Oakland, CA
+LA  - English
+CN  - 511.6 .O11m
+SC  - California
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Oakland (California) Public Schools
+T1  - Mathematics I : teacher's guide, tentative
+Y1  - 1962
+D1  - 07/1962
+KW  - Mathematics
+N1  - 1 v. (various pagings)
+PB  - Oakland (California) Public Schools
+CY  - Oakland, CA
+LA  - English
+CN  - 511.6 .O11mt
+SC  - California
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Oakland (California) Public Schools
+T1  - Advanced mathematics I teachers guide : tentative
+Y1  - 1962
+D1  - 07/1962
+SP  - 13
+KW  - Mathematics
+PB  - Oakland (California) Public Schools
+CY  - Oakland, CA
+LA  - English
+CN  - 511.6 .O11mt v. 2
+SC  - California
+G2  - 11th
+ER  - 
+
+TY  - BOOK
+A2  - Oakland (California) Public Schools
+T1  - Advanced mathematics II: teacher's guide
+Y1  - 1964
+D1  - 07/1964
+SP  - 4
+KW  - Mathematics
+PB  - Oakland (California) Public Schools
+CY  - Oakland, CA
+LA  - English
+CN  - 511.6 .O11mt v. 3
+SC  - California
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Oakland (California) Public Schools
+T1  - Advanced mathematics II: teacher's guide
+Y1  - 1967
+D1  - 07/1967
+SP  - 4
+KW  - Mathematics
+PB  - Oakland (California) Public Schools
+CY  - Oakland, CA
+LA  - English
+CN  - 511.6 .O11mt 1967 v. 3
+SC  - California
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A1  - Charp, Sylvia
+T1  - Computers in general education
+Y1  - 1967
+D1  - 1967
+SP  - 39
+KW  - Computers in education
+N1  - iii; ges : illustrations ; 23 cm; Note(s): Pa. State Docs. class. no. PPI 1.2:C738g./ Includes bibliographical references (38-39).; Responsibility: by Sylvia Charp.
+PB  - Pennsylvania State Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 511.6 .P41c
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Oklahoma State University. Mathematics Workshop
+T1  - Improvement of the teaching of mathematics
+Y1  - 1957
+D1  - Summer, 1957
+SP  - 94
+KW  - Mathematics
+N1  - 94 p. ill. 23 cm.; Note(s): Bibliography: p. 89-94.; Responsibility: Prepared by Mathematics Workshop at Oklahoma State University at Stillwater, June 3-28, 1957, under the auspices of Oklahoma Curriculum Improvement Commission, Frontiers of Science Foundation of Oklahoma, inc., Oklahoma State University, University of Oklahoma. Oklahoma State Department of Education, Oliver Hodge, superintendent.
+PB  - Oklahoma State Department of Education
+LA  - English
+CN  - 511.6 .O41i
+SC  - Oklahoma
+ER  - 
+
+TY  - BOOK
+A2  - Oklahoma City (Oklahoma) Public Schools
+T1  - In-service mathematics for elementary teachers
+Y1  - 1963
+D1  - 1963-1964
+SP  - 61
+KW  - Mathematics
+PB  - Oklahoma City (Oklahoma) Public Schools
+CY  - Oklahoma City, OK
+LA  - English
+CN  - 511.6 .O42i
+SC  - Oklahoma
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Organisation for European Economic Co-operation. Office for Scientific and Technical Personnel
+T1  - Synopses for modern secondary school mathematics
+Y1  - 1961
+D1  - 1961
+SP  - 310
+KW  - Mathematics
+N1  - 310 p. illus. 24 cm.; Note(s): Bibliography: p. 290-291, 309-310.
+PB  - Organisation for European Economic Co-operation. Office for Scientific and Technical Personnel
+CY  - Paris, France
+LA  - English
+CN  - 511.6 .O67s
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Paterson (New Jersey) Board of Education
+T1  - The mathematics program, grades 9 through 12
+Y1  - 1961
+D1  - 09/1961
+SP  - 116
+KW  - Mathematics
+PB  - Paterson (New Jersey) Board of Education
+CY  - Paterson, NJ
+LA  - English
+CN  - 511.6 .P29m
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A1  - Horn, R. A.
+T1  - Teacher's guide : seventh grade mathematics for the academically talented.
+Y1  - 1963
+D1  - 1963
+SP  - 125
+KW  - Mathematics
+PB  - Ohio State Department of Education
+CY  - Columbus, OH
+LA  - English
+CN  - 511.6 .O37t v. 1
+SC  - Ohio
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A1  - Horn, R. A.
+T1  - Teacher's guide : eighth grade mathematics for the academically talented.
+Y1  - 1963
+D1  - 1963
+SP  - 107
+KW  - Mathematics
+PB  - Ohio State Department of Education
+CY  - Columbus, OH
+LA  - English
+CN  - 511.6 .O37t v. 2
+SC  - Ohio
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A1  - Horn, R. A.
+T1  - Teacher's guide : ninth grade mathematics for the academically talented.
+Y1  - 1963
+D1  - 1963
+SP  - 273
+KW  - Mathematics
+PB  - Ohio State Department of Education
+CY  - Columbus, OH
+LA  - English
+CN  - 511.6 .O37t v. 3
+SC  - Ohio
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A1  - Jacoby, Elliott
+A2  - School District of Philadelphia, Pennsylvania. Curriculum Office
+T1  - General mathematics, grade 9
+Y1  - 1963
+D1  - 1963
+SP  - 125
+KW  - Mathematics
+N1  - xii; ill. ; 28 cm.; Responsibility: [writers, Elliott Jacoby ... [et al.]].
+PB  - Curriculum Office, Philadelphia Public Schoools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 511.6 .P54ge 1963 v. 1
+SC  - Pennsylvania
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools
+T1  - A guide to mathematics, grades 7 and 8
+Y1  - 1950
+D1  - 02/1950
+SP  - 49
+KW  - Mathematics
+N1  - 49 leaves ; 28 cm.; Note(s): Bibliography: leaves 42-44.
+PB  - Curriculum Office, Philadelphia Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 511.6 .P54g 1950
+SC  - Pennsylvania
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools
+T1  - A guide to mathematics, grades 7 and 8
+Y1  - 1957
+D1  - 1957
+SP  - 145
+KW  - Mathematics
+PB  - Curriculum Office, Philadelphia Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 511.6 .P54g 1957
+SC  - Pennsylvania
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A1  - Sapolsky, Benjamin
+A1  - Brooks, Milton
+A2  - School District of Philadelphia, Pennsylvania
+T1  - Basic concepts of modern mathematics
+Y1  - 1969
+D1  - 1969
+SP  - 262
+KW  - Mathematics
+N1  - ix; ill. ; 28 cm.; Note(s): Includes bibliographical references and index.; Responsibility: [written by Benjamin Sapolsky, Milton Brooks].
+PB  - Office of Curriculum and Instruction, the School District of Philadelphia
+CY  - Philadelphia, PA
+LA  - English
+CN  - 511.6 .P54b
+SC  - Pennsylvania
+G2  - 10th
+ER  - 
+
+TY  - BOOK
+A2  - School District of Philadelphia, Pennsylvania
+T1  - General and business mathematics : adapted, tenth grade
+Y1  - 1962
+D1  - 1962
+SP  - 134
+KW  - Business mathematics
+N1  - xvii; ill. ; 28 cm.; Note(s): Includes bibliographical references.
+PB  - School District of Philadelphia
+CY  - Philadelphia, PA
+LA  - English
+CN  - 511.6 .P54ga
+SC  - Pennsylvania
+G2  - 10th
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Pubic Schools
+T1  - Guide to the teaching of general mathematics 3 and 4 : gr. 10 : mathematics for the consumer
+Y1  - 1957
+D1  - 1957
+SP  - 60
+KW  - Mathematics
+PB  - Philadelphia (Pennsylvania) Pubic Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 511.6 .P54ge 1957 v. 2
+SC  - Pennsylvania
+G2  - 10th
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools. Curriculum Office
+T1  - Shop mathematics : problem book (tentative)
+Y1  - 1961
+D1  - 1961
+SP  - 102
+KW  - Shop mathematics
+KW  - Mathematics
+ED  - Rev.
+N1  - ix; ill. ; 28 cm.; Responsibility: Curriculum Office, Philadelphia Public Schools.
+PB  - Philadelphia Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 511.6 .P54s v. 2
+SC  - Pennsylvania
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools. Curriculum Office
+T1  - A guide to the teaching of shop mathematics
+Y1  - 1958
+D1  - 1958
+SP  - 131
+KW  - Shop mathematics
+KW  - Mathematics
+N1  - xii; ill. ; 28 cm.; Other Titles: Shop mathematics.; Responsibility: Curriculum Office, Philadelphia Public Schools.
+ED  - Tentative
+PB  - Philadelphia Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 511.6 .P54s v. 1
+SC  - Pennsylvania
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - School District of Philadelphia, Pennsylvania
+T1  - General mathematics 3 and 4, adapted : tenth grade (tentative)
+Y1  - 1959
+D1  - 1959
+SP  - 130
+KW  - Mathematics
+N1  - 130 p. ; 28 cm.; Note(s): Typescript./ Includes bibliographical references.
+PB  - Philadelphia Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 511.6 .P54ge 1959 v. 2
+SC  - Pennsylvania
+G2  - 10th
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools. Curriculum Office
+T1  - Shop mathematics : problem book : answers
+Y1  - 1961
+D1  - 1961
+SP  - 32
+KW  - Shop mathematics
+KW  - Mathematics
+N1  - v; ; 28 cm.; Responsibility: Curriculum Office, Philadelphia Public Schools.
+PB  - Philadelphia Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 511.6 .P54s v. 3
+SC  - Pennsylvania
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Portland (Oregon) Public Schools
+T1  - Curriculum guide and student supplement commentary for the ninth grade general mathematics program
+Y1  - 1963
+D1  - 1963
+SP  - 195
+KW  - Mathematics
+T2  - Portland (Oregon) Public Schools. Curriculum Publications
+V1  - M-31
+PB  - Portland (Oregon) Public Schools
+CY  - Portland, OR
+LA  - English
+CN  - 511.6 .P85g v. 1
+SC  - Oregon
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Portland (Oregon) Public Schools
+T1  - Student supplement for general mathematics
+Y1  - 1963
+D1  - 1963
+SP  - 323
+KW  - Mathematics
+PB  - Portland (Oregon) Public Schools
+CY  - Portland, OR
+LA  - English
+CN  - 511.6 .P85g v. 2
+SC  - Oregon
+ER  - 
+
+TY  - BOOK
+A2  - Portland (Oregon) Public Schools
+T1  - Brief course outlines of the secondary school mathematics program
+SP  - 25
+KW  - Mathematics
+T2  - Portland (Oregon) Public Schools. Curriculum Publications
+V1  - M-34
+PB  - Portland (Oregon) Public Schools
+CY  - Portland, OR
+LA  - English
+CN  - 511.6 .P85g v. 3
+SC  - Oregon
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Portland (Oregon) Public Schools
+T1  - Mathematics classes for exceptionally endowed students in the high schools of Portland, Oregon
+Y1  - 1957
+D1  - 1957?
+SP  - 99
+KW  - Mathematics
+KW  - Gifted children
+N1  - 99 leaves ; 28 cm.; Note(s): Includes bibliographical references.; Responsibility: prepared by Laura D. Scott, Dana Small, William W. Matson ; consultants, Lesta P. Hoel, Lloyd B. Williams.
+T2  - Portland (Oregon) Public Schools. Curriculum publication
+V1  - GC-4
+PB  - Portland (Oregon) Public Schools
+CY  - Portland, OR
+LA  - English
+CN  - 511.6 .P85m
+SC  - Oregon
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Ramapo Central School District No. 2 (Spring Valley, New York)
+T1  - A tentative course of study: basic mathematics grade 7
+Y1  - 1963
+D1  - 1963
+SP  - 40
+KW  - Mathematics
+PB  - Ramapo Central School District No. 2
+CY  - Spring Valley, NY
+LA  - English
+CN  - 511.6 .R17t v. 1
+SC  - New York
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A2  - Ramapo Central School District No. 2 (Spring Valley, New York)
+T1  - A tentative course of study: general mathematics grade 9
+Y1  - 1963
+D1  - 1963
+SP  - 52
+KW  - Mathematics
+PB  - Ramapo Central School District No. 2
+CY  - Spring Valley, NY
+LA  - English
+CN  - 511.6 .R17t v. 2
+SC  - New York
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Ramapo Central School District No. 2 (Spring Valley, New York)
+T1  - A tentative course of study: 10th year mathematics (non-regents)
+Y1  - 1963
+D1  - 1963
+SP  - 55
+KW  - Mathematics
+PB  - Ramapo Central School District No. 2
+CY  - Spring Valley, NY
+LA  - English
+CN  - 511.6 .R17t v. 3
+SC  - New York
+G2  - 10th
+ER  - 
+
+TY  - BOOK
+A2  - Ramapo Central School District No. 2 (Spring Valley, New York)
+T1  - A tentative course of study: 12th year mathematics (fundamentals for advanced mathematics)
+Y1  - 1964
+D1  - 1964
+SP  - 27
+KW  - Mathematics
+PB  - Ramapo Central School District No. 2
+CY  - Spring Valley, NY
+LA  - English
+CN  - 511.6 .R17t v. 4
+SC  - New York
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - San Jose State College. Mathematics Department
+T1  - An accelerated program for the more capable and interested students in mathematics, grades 7-12
+Y1  - 1958
+D1  - 11/1958
+KW  - Mathematics
+N1  - 12, 66, 47, 9 leaves illustrations 28 cm; Responsibility: developed by members of a seminar under the direction of Dr. Max Kramer ... August, 1958; built upon a framework prepared by the Santa Clara Valley Mathematics Association during the winter and spring of 1958.
+PB  - Santa Clara County Schools Office
+CY  - San Jose, CA
+LA  - English
+CN  - 511.6 .S23a
+SC  - California
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - School Mathematics Project
+T1  - The School Mathematics Project. Computing in mathematics. Some experimental ideas for teachers
+Y1  - 1971
+D1  - 1971
+SP  - 135
+KW  - Mathematics
+KW  - Computer science
+N1  - [8]; col. ill. ; 23 cm.; Note(s): Bibliography p. 131. - Includes index.
+PB  - Cambridge University Press
+CY  - London, UK
+LA  - English
+CN  - 511.6 .S37c
+SC  - United Kingdom
+ER  - 
+
+TY  - BOOK
+A2  - South Carolina Education Association. Department of Mathematics Teachers
+T1  - Mathematics syllabus : a suggested guide
+Y1  - 1954
+D1  - 1954?
+SP  - 14
+KW  - Mathematics
+N1  - 14 pages ; 22 cm; Responsibility: Mathematics Teachers Department, South Carolina Education Association.
+PB  - South Carolina Education Association
+CY  - Columbia, SC
+LA  - English
+CN  - 511.6 .S72m
+SC  - South Carolina
+ER  - 
+
+TY  - BOOK
+A2  - Springfield (Missouri) Public Schools
+T1  - Mathematics : senior high school level (grades 6-12)
+Y1  - 1956
+D1  - 10/1956
+SP  - 77
+KW  - Mathematics
+KW  - Curricula
+N1  - 77 p. ; 28 cm.; Responsibility: [prepared under the direction of Roy F. Litle in cooperation with the Production Committee].
+T2  - Instructional guidelines, bulletin / Springfield, Mo. Public Schools
+V1  - 12
+PB  - Springfield (Missouri) Public Schools
+CY  - Springfield, MO
+LA  - English
+CN  - 511.6 .S77m
+SC  - Missouri
+G2  - 6th
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Superior (Wisconsin) Public Schools
+T1  - Primary mathematics: third grade
+Y1  - 1949
+D1  - 1949
+KW  - Mathematics
+PB  - Superior (Wisconsin) Public Schools
+CY  - Superior, WI
+LA  - English
+CN  - 511.6 .S95m v. 4
+SC  - Wisconsin
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - Freshman mathematics course descriptions: Texas colleges and universities
+Y1  - 1966
+D1  - 1966
+SP  - 177
+KW  - Mathematics
+KW  - Universities and colleges
+KW  - Curricula
+N1  - vi; 26 cm.; Note(s): "Published and distributed by the Texas Education Agency in cooperation with the Commission on School and College Relations of the Texas Colleges and Universities."
+T2  - Texas Education Agency. Bulletin
+V1  - 662
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 511.6 .T35f
+SC  - Texas
+G1  - Postsecondary
+ER  - 
+
+TY  - BOOK
+A2  - Tyler (Texas) Independent School District
+T1  - Curriculum guide for seventh and eighth grade mathematics
+Y1  - 1964
+D1  - 08/1964
+KW  - Mathematics
+N1  - 133 leaves in various foliations ; 22 x 28 cm.; Note(s): Includes bibliographical references.; Responsibility: prepared by Juanita Anderson ... [et al.].
+PB  - Tyler (Texas) Independent School District
+CY  - Tyler, TX
+LA  - English
+CN  - 511.6 .T98c
+SC  - Texas
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A1  - Reid, Irene M.
+T1  - Teaching mathematics through school savings
+Y1  - 1949
+D1  - 1949
+SP  - 32
+KW  - School savings banks
+KW  - Mathematics
+N1  - ill. ; 24 cm.; Responsibility: by Irene M. Reid.
+PB  - U.S. Government Printing Office
+CY  - Washington, DC
+LA  - English
+CN  - 511.6 .U59t
+ER  - 
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - Mathematics, level: nine through twelve
+Y1  - 1973
+D1  - 01/1973
+SP  - 92
+KW  - Mathematics
+N1  - vi; ; 22 x 28 cm.; Note(s): Replaces Mathematics programs described in bulletins 615, 617, and 620.; Responsibility: Texas Education Agency.
+T2  - Texas Education Agency. Bulletin
+V1  - 731
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 511.6 .T35m v. 2
+SC  - Texas
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - Mathematics, level: kindergarten through eight
+Y1  - 1973
+D1  - 01/1973
+SP  - 121
+KW  - Mathematics
+N1  - vi; ; 22 x 28 cm.; Note(s): Replaces mathematics programs described in bulletins 615, 617, and 620.; Responsibility: Texas Education Agency.
+T2  - Texas Education Agency. Bulletin
+V1  - 730
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 511.6 .T35m v. 1
+SC  - Texas
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Warwick (Rhode Island) Public Schools
+T1  - A continuing program in mathematics for the Warwick Public Schools : grades K - 6. Vol. I
+Y1  - 1967
+D1  - 09/1967
+SP  - 27
+KW  - Mathematics
+KW  - Curricula
+PB  - Warwick (Rhode Island) Public Schools
+CY  - Warwick, RI
+LA  - English
+CN  - 511.6 .W29c v. 1
+SC  - Rhode Island
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Washington State Superintendent of Public Instruction
+T1  - Guidelines for mathematics: secondary
+Y1  - 1962
+D1  - 1962
+SP  - 35
+KW  - Mathematics
+N1  - 35 l. 28 cm.; Note(s): Cover title./ "Prepared by the Advisory Committee on Mathematics of the State Offcie of Public Instruction."
+PB  - Washington State Superintendent of Public Instruction
+CY  - Olympia, WA
+LA  - English
+CN  - 511.6 .W31g
+SC  - Washington
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Washington State Superintendent of Public Instruction
+T1  - Mathematics tentative curriculum guide; grades seven, eight and nine
+Y1  - 1960
+D1  - 1960
+SP  - 131
+KW  - Curricula
+KW  - Mathematics
+N1  - 131 p. illus.
+PB  - Washington State Superintendent of Public Instruction
+CY  - Olympia, WA
+LA  - English
+CN  - 511.6 .W31m
+SC  - Washington
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - West Virginia State Department of Education
+T1  - Section 13: mathematics
+Y1  - 1970
+D1  - 1970
+SP  - 18
+KW  - Mathematics
+PB  - West Virginia State Department of Education
+LA  - English
+CN  - 511.6 .W51m
+SC  - West Virginia
+ER  - 
+
+TY  - BOOK
+A2  - Wichita (Kansas) Public Schools. Curriculum Services Division
+T1  - Teacher's guide for mathematics 7, 8, 9, and algebra I
+Y1  - 1969
+D1  - 1969
+SP  - 49
+KW  - Mathematics
+KW  - Curricula
+PB  - Wichita (Kansas) Public Schools. Curriculum Services Division
+CY  - Wichita, KS
+LA  - English
+CN  - 511.6 .W63t
+SC  - Kansas
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Wyandotte (Michigan) Public Schools
+T1  - Mathematics curriculum guide
+Y1  - 1956
+D1  - 09/1956
+SP  - 30
+KW  - Mathematics
+KW  - Curricula
+PB  - Wyandotte (Michigan) Public Schools
+CY  - Wyandotte, MI
+LA  - English
+CN  - 511.6 .W97m
+SC  - Michigan
+ER  - 
+
+TY  - BOOK
+A2  - Cincinnati (Ohio) Public Schools
+T1  - Algebra one, grade 9
+Y1  - 1957
+D1  - 1957
+SP  - 73
+KW  - Algebra
+N1  - vi; ill. ; 28 cm.; Note(s): Bibliography: p. 73.; Other Titles: Algebra one, junior high school, grade 9
+T2  - Cincinnati (Ohio) Public Schools. Curriculum bulletin
+V1  - 3
+PB  - Cincinnati (Ohio) Public Schools
+CY  - Cincinnati, OH
+LA  - English
+CN  - 512 .C57a
+SC  - Ohio
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - College Entrance Examination Board. Commission on Mathematics
+T1  - Concepts of equation and inequality; sample classroom unit for high school algebra students
+Y1  - 1959
+D1  - 1959
+SP  - 12
+KW  - Algebra
+KW  - Mathematics
+ED  - Rev.
+PB  - College Entrance Examination Board
+CY  - Princeton, NJ
+LA  - English
+CN  - 512 .C68c
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Dallas (Texas) Independent School District
+T1  - Algebra 1 for low ninth grade
+Y1  - 1953
+D1  - 01/1953
+SP  - 36
+KW  - Algebra
+T2  - Dallas (Texas) Independent School District. Practice exercises for pupils
+PB  - Dallas (Texas) Independent School District
+CY  - Dallas, TX
+LA  - English
+CN  - 512 .D14a v. 1
+G2  - 9th
+ER  -
+
+TY  - BOOK
+A2  - Dallas (Texas) Independent School District
+T1  - Algebra 2 for high ninth grade
+Y1  - 1947
+D1  - 09/1947
+SP  - 41
+KW  - Algebra
+T2  - Dallas (Texas) Independent School District. Practice exercises for pupils
+PB  - Dallas (Texas) Independent School District
+CY  - Dallas, TX
+LA  - English
+CN  - 512 .D14a v. 2
+G2  - 9th
+ER  -
+
+TY  - BOOK
+A2  - Dallas (Texas) Independent School District
+T1  - Algebra 3 for high tenth grade
+Y1  - 1950
+D1  - 09/1950
+SP  - 43
+KW  - Algebra
+T2  - Dallas (Texas) Independent School District. Practice exercises for pupils
+PB  - Dallas (Texas) Independent School District
+CY  - Dallas, TX
+LA  - English
+CN  - 512 .D14a v. 3
+G2  - 10th
+ER  -
+
+TY  - BOOK
+A2  - Fort Worth (Texas) Public Schools
+T1  - Algebra 3 and 4: a tentative teaching guide for second-year algebra
+Y1  - 1964
+D1  - 1964
+SP  - 15
+KW  - Algebra
+T2  - Fort Worth (Texas) Public Schools. Curriculum bulletin
+V1  - B 245
+PB  - Fort Worth (Texas) Public Schools
+CY  - Fort Worth, TX
+LA  - English
+CN  - 512 .F73a
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District
+T1  - Instructional guide for algebra 3 and 4
+Y1  - 1963
+D1  - 1963
+SP  - 157
+KW  - Algebra
+N1  - x; ; 28 cm.; Responsibility: Los Angeles City Schools, Division of Instructional Services.
+T2  - Los Angeles (California) City School District. Publication
+V1  - SC-594
+PB  - Los Angeles (California) City School District
+CY  - Los Angeles, CA
+LA  - English
+CN  - 512 .L87a v. 2
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District
+T1  - Instructional guide for algebra 1 and 2
+Y1  - 1961
+D1  - 1961
+SP  - 295
+KW  - Algebra
+N1  - 295 p. 28 cm.
+T2  - Los Angeles (California) City School District. Publication
+V1  - SC-576
+PB  - Los Angeles City Schools, Division of Instructional Services
+CY  - Los Angeles, CA
+LA  - English
+CN  - 512 .L87a v. 1
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Farrell, Margaret A.
+T1  - Geoboard geometry
+Y1  - 1971
+D1  - 1971
+SP  - 42
+KW  - Geometry
+N1  - ill. ; 28 cm.; Responsibility: Margaret A. Farrell.
+PB  - Creative Publications
+CY  - Palo Alto, CA
+LA  - English
+CN  - 513 .C91g
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District
+T1  - Instructional guide for Algebra 1, Grades 9 to 12
+Y1  - 1966
+D1  - 1966
+SP  - 49
+KW  - Algebra
+N1  - viii; ; 28 cm.; Note(s): Cover title.
+T2  - Los Angeles (California) City School District. Publication
+V1  - X-65
+PB  - Los Angeles (California) City Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 512 .L87i v. 1
+SC  - California
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Mathematical Association
+T1  - The teaching of algebra in sixth forms; a report prepared for the Mathematical Association
+Y1  - 1957
+D1  - 1957
+SP  - 104
+KW  - Algebra
+N1  - 104 p. ill. 24 cm.; Note(s): "Prepared by a sub-committee appointed by the Teaching Committee of the Mathematical Association, and adopted by the Teaching Committee in Jan. 1957."/ Includes bibliographical references.
+PB  - G. Bell & Sons
+CY  - London, UK
+LA  - English
+CN  - 512 .M42t
+SC  - United Kingdom
+ER  - 
+
+TY  - BOOK
+A2  - Oakland (California) Public Schools
+T1  - Algebra teacher's guide, tentative
+Y1  - 1958
+D1  - 03/1958
+SP  - 26
+KW  - Algebra
+PB  - Oakland (California) Public Schools
+CY  - Oakland, CA
+LA  - English
+CN  - 512 .O11a 1958
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Oakland (California) Public Schools
+T1  - Algebra teacher's guide, tentative
+Y1  - 1962
+D1  - 06/1962
+SP  - 7
+KW  - Algebra
+PB  - Oakland (California) Public Schools
+CY  - Oakland, CA
+LA  - English
+CN  - 512 .O11a 1962
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Oakland (California) Public Schools
+T1  - Algebraic theory I teacher's guide, tentative
+Y1  - 1957
+D1  - 12/1957
+SP  - 8
+KW  - Algebra
+PB  - Oakland (California) Public Schools
+CY  - Oakland, CA
+LA  - English
+CN  - 512 .O11at
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Oakland (California) Public Schools
+T1  - Algebraic theory II teacher's guide, tentative
+Y1  - 1957
+D1  - 12/1957
+SP  - 3
+KW  - Algebra
+PB  - Oakland (California) Public Schools
+CY  - Oakland, CA
+LA  - English
+CN  - 512 .O11at
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Ramapo (New York) Central School District No. 2
+T1  - A tentative course of study advanced mathematics grade 9 selected topics in algebra
+Y1  - 1964
+D1  - 1964
+SP  - 45
+KW  - Mathematics
+KW  - Algebra
+PB  - Ramapo (New York) Central School District No. 2
+CY  - Spring Valley, NY
+LA  - English
+CN  - 512 .R17s
+SC  - New York
+G2  - 9th
+ER  -
+
+TY  - BOOK
+A2  - Sacramento (California) City Unified School District
+T1  - Course of study for algebra one and two: junior-senior high schools
+Y1  - 1949
+D1  - 09/1949
+KW  - Algebra
+PB  - Sacramento (California) City Unified School District
+CY  - Sacramento, CA
+LA  - English
+CN  - 512 .S12c
+SC  - California
+G1  - Middle school
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Tyler (Texas) Independent School District
+T1  - Curriculum guide for algebra I
+Y1  - 1964
+D1  - 08/1964
+SP  - 28
+KW  - Algebra
+PB  - Tyler (Texas) Independent School District
+CY  - Tyler, TX
+LA  - English
+CN  - 512 .T98c v. 1
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Tyler (Texas) Independent School District
+T1  - Curriculum guide for algebra II
+Y1  - 1964
+D1  - 08/1964
+SP  - 36
+KW  - Algebra
+PB  - Tyler (Texas) Independent School District
+CY  - Tyler, TX
+LA  - English
+CN  - 512 .T98c v. 2
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Menger, Karl
+A2  - Illinois Institute of Technology
+T1  - You will like geometry : a guide book for the Illinois Institute of Technology geometry exhibition at the Museum of Science and Industry
+Y1  - 1961
+D1  - 1961
+SP  - 36
+KW  - Geometry
+N1  - ill. ; 23 cm.; Responsibility: by Karl Menger.
+PB  - Karl Menger
+CY  - Chicago, IL
+LA  - English
+CN  - 513 .I29y
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City Schools
+T1  - Geometry 1 (B10-A12) (A-9 honors)
+Y1  - 1965
+D1  - 1965
+SP  - 33
+KW  - Geometry
+PB  - Los Angeles (California) City Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 513 .L87g v. 1
+SC  - California
+ER
+
+TY  - BOOK
+A2  - Los Angeles (California) City Schools
+T1  - Geometry 2 (B10-A12)
+Y1  - 1965
+D1  - 1965
+SP  - 37
+KW  - Geometry
+PB  - Los Angeles (California) City Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 513 .L87g v. 2
+SC  - California
+ER
+
+TY  - BOOK
+A1  - Walter, Marion I.
+T1  - Boxes, squares, and other things; a teacher's guide for a unit in informal geometry
+Y1  - 1970
+D1  - 1970
+SP  - 88
+KW  - Geometry
+N1  - viii; illus. 23 cm.; Note(s): Bibliography: p. 81-88.; Responsibility: [by] Marion I. Walter.
+PB  - National Council of Teachers of Mathematics
+CY  - Washington, DC
+LA  - English
+CN  - 513 .N27b
+ER  - 
+
+TY  - BOOK
+A2  - Oakland (California) Public Schools
+T1  - Geometry teacher's guide, tentative
+Y1  - 1964
+D1  - 07/1964
+SP  - 4
+KW  - Geometry
+PB  - Oakland (California) Public Schools
+CY  - Oakland, CA
+LA  - English
+CN  - 513 .O11g
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools
+T1  - A guide to the study of plane geometry
+Y1  - 1951
+D1  - 1951
+SP  - 102
+KW  - Geometry
+PB  - Philadelphia (Pennsylvania) Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 513.1 .P54p
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools
+T1  - Supplement to plane geometry for the integration of solid geometry into a one year combined course (tentative)
+Y1  - 1960
+D1  - 1960
+SP  - 9
+KW  - Geometry
+PB  - Philadelphia (Pennsylvania) Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 513.1 .P54p 1960 supp.
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Secondary Curriculum Development
+T1  - Tenth year mathematics: coordinate geometry
+Y1  - 1957
+D1  - 09/1957
+SP  - 16
+KW  - Geometry
+N1  - 16 p. ill. 22 cm.; Note(s): Caption title./ "An edited excerpt from Curriculum Report #126-5/22/57, of the Bureau of Curriculum Research of the Board of Education of the City of New York."
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 513 .N53t
+SC  - New York
+G2  - 10th
+ER  - 
+
+TY  - BOOK
+A1  - Kogan, Irvin J.
+T1  - Trends of secondary education in the subjects of plane geometry, solid geometry, trigonometry, and calculus
+Y1  - 1954
+D1  - 10/1954
+SP  - 4
+KW  - Geometry
+KW  - Trigonometry
+KW  - Calculus
+N1  - Ed. 343
+LA  - English
+CN  - 513 .S78t
+ER  - 
+
+TY  - BOOK
+A1  - Glaubiger, Pearl
+A1  - Greene, Samuel S.
+A1  - Johnson, G. Philip
+A1  - Levi, Howard
+A1  - Moskowistz, Martin M.
+A1  - Puckette, Stephen
+A1  - Rosenbaum, Robert A.
+A1  - Sitomer, Harry
+A1  - Wylie, C.R.
+T1  - Modern coordinate geometry: commentary for teachers
+Y1  - 1964
+D1  - 1964
+SP  - 203
+KW  - Geometry
+T2  - A Wesleyan Experimental Curricular Study
+PB  - Wesleyan University
+CY  - Middletown, CT
+LA  - English
+CN  - 513 .W51m
+ER  - 
+
+TY  - BOOK
+A2  - Tyler (Texas) Independent School District
+T1  - Curriculum guide for geometry
+Y1  - 1964
+D1  - 08/1964
+SP  - 54
+KW  - Geometry
+PB  - Tyler (Texas) Independent School District
+CY  - Tyler, TX
+LA  - English
+CN  - 513.1 .T98c
+SC  - Texas
+G1  - High school
+ER
+
+TY  - BOOK
+A2  - Oakland (California) Public Schools
+T1  - Solid geometry and supplementary topics: teacher's guide, tentative
+Y1  - 1957
+D1  - 12/1957
+SP  - 4
+KW  - Geometry
+PB  - Oakland (California) Public Schools
+CY  - Oakland, CA
+LA  - English
+CN  - 513.3 .O11s
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Oakland (California) Public Schools
+T1  - Trigonometry: teacher's guide, tentative
+Y1  - 1957
+D1  - 12/1957
+SP  - 3
+KW  - Trigonometry
+PB  - Oakland (California) Public Schools
+CY  - Oakland, CA
+LA  - English
+CN  - 513.3 .O11t
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools
+T1  - Plane trigonometry : a guide for teachers
+Y1  - 1957
+D1  - 1957
+SP  - 69
+KW  - Trigonometry
+PB  - Philadelphia (Pennsylvania) Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 514 .P54p
+SC  - Pennsylvania
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Brookline (Massachusetts) Public Schools
+T1  - Course of study in advanced placement mathematics analytic geometry and calculus, grade 12
+Y1  - 1959
+D1  - 1959
+SP  - 8
+KW  - Geometry
+KW  - Calculus
+PB  - Brookline (Massachusetts) Public Schools
+CY  - Brookline, MA
+LA  - English
+CN  - 516 .B87c
+SC  - Massachusetts
+G2  - 12
+ER  - 
+
