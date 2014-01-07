@@ -1719,9 +1719,7 @@ equipment board</field>
 <field name="notes">3 v.</field>
 <field name="series_title">Orange County (California) Superintendent of Schools. Bulletin series
 I,</field>
-<field name="series_vol">148</field>
-<field name="series_vol">152</field>
-<field name="series_vol">153</field>
+<field name="series_vol">148, 152, 153</field>
 <field name="publisher">Orange County (California) Superintendent of Schools</field>
 <field name="pub_place">Santa Ana, CA</field>
 <field name="language">English</field>
