@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="type">Book</field>
-<field name="author">Muth, Elizabeth</field><field name="author_nat">Elizabeth<space/>Muth</field>
-<field name="author">Kuykendall, Kay</field><field name="author_nat">Kay<space/>Kuykendall</field>
+<field name="author">Muth, Elizabeth</field><field name="author_nat">Elizabeth Muth</field>
+<field name="author">Kuykendall, Kay</field><field name="author_nat">Kay Kuykendall</field>
 <field name="title">Course notes and suggestions for English-geography; Part 1: English</field>
 <field name="year">1964</field>
 <field name="date">1964</field>
@@ -18,8 +18,8 @@
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Dubost, Nancyann</field><field name="author_nat">Nancyann<space/>Dubost</field>
-<field name="author">Runyon, Anna</field><field name="author_nat">Anna<space/>Runyon</field>
+<field name="author">Dubost, Nancyann</field><field name="author_nat">Nancyann Dubost</field>
+<field name="author">Runyon, Anna</field><field name="author_nat">Anna Runyon</field>
 <field name="title">Course notes and suggestions for English 8</field>
 <field name="year">1964</field>
 <field name="date">1964</field>
@@ -35,8 +35,8 @@
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Ferguson, Margaret I.</field><field name="author_nat">Margaret I.<space/>Ferguson</field>
-<field name="author">Jensen, Clara F.</field><field name="author_nat">Clara F.<space/>Jensen</field>
+<field name="author">Ferguson, Margaret I.</field><field name="author_nat">Margaret I. Ferguson</field>
+<field name="author">Jensen, Clara F.</field><field name="author_nat">Clara F. Jensen</field>
 <field name="title">Course notes and suggestions for English 9 regular</field>
 <field name="year">1964</field>
 <field name="date">1964</field>
@@ -52,8 +52,8 @@
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Ferguson, Margaret I.</field><field name="author_nat">Margaret I.<space/>Ferguson</field>
-<field name="author">Jensen, Clara F.</field><field name="author_nat">Clara F.<space/>Jensen</field>
+<field name="author">Ferguson, Margaret I.</field><field name="author_nat">Margaret I. Ferguson</field>
+<field name="author">Jensen, Clara F.</field><field name="author_nat">Clara F. Jensen</field>
 <field name="title">Course notes and suggestions for English 9 enrichment</field>
 <field name="year">1964</field>
 <field name="date">1964</field>
@@ -69,8 +69,8 @@
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Ferguson, Margaret I.</field><field name="author_nat">Margaret I.<space/>Ferguson</field>
-<field name="author">Jensen, Clara F.</field><field name="author_nat">Clara F.<space/>Jensen</field>
+<field name="author">Ferguson, Margaret I.</field><field name="author_nat">Margaret I. Ferguson</field>
+<field name="author">Jensen, Clara F.</field><field name="author_nat">Clara F. Jensen</field>
 <field name="title">Course notes and suggestions for English 9 z track</field>
 <field name="year">1964</field>
 <field name="date">1964</field>
@@ -86,8 +86,8 @@
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Bauer, Judith L.</field><field name="author_nat">Judith L.<space/>Bauer</field>
-<field name="author">Beck, Martin E.</field><field name="author_nat">Martin E.<space/>Beck</field>
+<field name="author">Bauer, Judith L.</field><field name="author_nat">Judith L. Bauer</field>
+<field name="author">Beck, Martin E.</field><field name="author_nat">Martin E. Beck</field>
 <field name="title">Course notes and suggestions for English 10 regular</field>
 <field name="year">1964</field>
 <field name="date">1964</field>
@@ -103,8 +103,8 @@
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Bauer, Judith L.</field><field name="author_nat">Judith L.<space/>Bauer</field>
-<field name="author">Beck, Martin E.</field><field name="author_nat">Martin E.<space/>Beck</field>
+<field name="author">Bauer, Judith L.</field><field name="author_nat">Judith L. Bauer</field>
+<field name="author">Beck, Martin E.</field><field name="author_nat">Martin E. Beck</field>
 <field name="title">Course notes and suggestions for English 10 enrichment</field>
 <field name="year">1964</field>
 <field name="date">1964</field>
@@ -120,8 +120,8 @@
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Bauer, Judith L.</field><field name="author_nat">Judith L.<space/>Bauer</field>
-<field name="author">Beck, Martin E.</field><field name="author_nat">Martin E.<space/>Beck</field>
+<field name="author">Bauer, Judith L.</field><field name="author_nat">Judith L. Bauer</field>
+<field name="author">Beck, Martin E.</field><field name="author_nat">Martin E. Beck</field>
 <field name="title">Course notes and suggestions for English 10 z track</field>
 <field name="year">1964</field>
 <field name="date">1964</field>
@@ -137,8 +137,8 @@
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Bennett, Wilson</field><field name="author_nat">Wilson<space/>Bennett</field>
-<field name="author">McDonald, Leo P.</field><field name="author_nat">Leo P.<space/>McDonald</field>
+<field name="author">Bennett, Wilson</field><field name="author_nat">Wilson Bennett</field>
+<field name="author">McDonald, Leo P.</field><field name="author_nat">Leo P. McDonald</field>
 <field name="title">Course notes and suggestions for English 11 regular</field>
 <field name="year">1964</field>
 <field name="date">1964</field>
@@ -154,8 +154,8 @@
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Bennett, Wilson</field><field name="author_nat">Wilson<space/>Bennett</field>
-<field name="author">McDonald, Leo P.</field><field name="author_nat">Leo P.<space/>McDonald</field>
+<field name="author">Bennett, Wilson</field><field name="author_nat">Wilson Bennett</field>
+<field name="author">McDonald, Leo P.</field><field name="author_nat">Leo P. McDonald</field>
 <field name="title">Course notes and suggestions for English 11 enrichment</field>
 <field name="year">1964</field>
 <field name="date">1964</field>
@@ -171,8 +171,8 @@
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Bennett, Wilson</field><field name="author_nat">Wilson<space/>Bennett</field>
-<field name="author">McDonald, Leo P.</field><field name="author_nat">Leo P.<space/>McDonald</field>
+<field name="author">Bennett, Wilson</field><field name="author_nat">Wilson Bennett</field>
+<field name="author">McDonald, Leo P.</field><field name="author_nat">Leo P. McDonald</field>
 <field name="title">Course notes and suggestions for English 11 z track</field>
 <field name="year">1964</field>
 <field name="date">1964</field>
@@ -188,8 +188,8 @@
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Hassler, Martha</field><field name="author_nat">Martha<space/>Hassler</field>
-<field name="author">Mills, W. Burke</field><field name="author_nat">W. Burke<space/>Mills</field>
+<field name="author">Hassler, Martha</field><field name="author_nat">Martha Hassler</field>
+<field name="author">Mills, W. Burke</field><field name="author_nat">W. Burke Mills</field>
 <field name="title">Course notes and suggestions for English 12 regular</field>
 <field name="year">1964</field>
 <field name="date">1964</field>
@@ -205,8 +205,8 @@
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Hassler, Martha</field><field name="author_nat">Martha<space/>Hassler</field>
-<field name="author">Mills, W. Burke</field><field name="author_nat">W. Burke<space/>Mills</field>
+<field name="author">Hassler, Martha</field><field name="author_nat">Martha Hassler</field>
+<field name="author">Mills, W. Burke</field><field name="author_nat">W. Burke Mills</field>
 <field name="title">Course notes and suggestions for English 12 enrichment</field>
 <field name="year">1964</field>
 <field name="date">1964</field>
@@ -222,8 +222,8 @@
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Hassler, Martha</field><field name="author_nat">Martha<space/>Hassler</field>
-<field name="author">Mills, W. Burke</field><field name="author_nat">W. Burke<space/>Mills</field>
+<field name="author">Hassler, Martha</field><field name="author_nat">Martha Hassler</field>
+<field name="author">Mills, W. Burke</field><field name="author_nat">W. Burke Mills</field>
 <field name="title">Course notes and suggestions for English 12 z track</field>
 <field name="year">1964</field>
 <field name="date">1964</field>
@@ -769,7 +769,7 @@ activity of the Wisconsin English-Language-Arts Curriculum Project.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Hoffman, Harry H.</field><field name="author_nat">Harry H.<space/>Hoffman</field>
+<field name="author">Hoffman, Harry H.</field><field name="author_nat">Harry H. Hoffman</field>
 <field name="title">English teaching today : an investigation of the preparation of high-school
 English teachers of the North Central Association of Colleges and Secondary Schools</field>
 <field name="year">1956</field>
@@ -790,8 +790,8 @@ Wyoming</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Kunz, Linda Ann</field><field name="author_nat">Linda Ann<space/>Kunz</field>
-<field name="author">Viscount, Robert R.</field><field name="author_nat">Robert R.<space/>Viscount</field>
+<field name="author">Kunz, Linda Ann</field><field name="author_nat">Linda Ann Kunz</field>
+<field name="author">Viscount, Robert R.</field><field name="author_nat">Robert R. Viscount</field>
 <field name="title">Write me a ream : a course in controlled composition</field>
 <field name="year">1973</field>
 <field name="date">1973</field>

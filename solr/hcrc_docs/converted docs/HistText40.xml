@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="type">Book</field>
-<field name="author">Hammerman, Donald R.</field><field name="author_nat">Donald R.<space/>Hammerman</field>
-<field name="author">Weirick, Robert</field><field name="author_nat">Robert<space/>Weirick</field>
-<field name="author">Sheriff, Marion</field><field name="author_nat">Marion<space/>Sheriff</field>
-<field name="author">Bowden, Kenneth</field><field name="author_nat">Kenneth<space/>Bowden</field>
+<field name="author">Hammerman, Donald R.</field><field name="author_nat">Donald R. Hammerman</field>
+<field name="author">Weirick, Robert</field><field name="author_nat">Robert Weirick</field>
+<field name="author">Sheriff, Marion</field><field name="author_nat">Marion Sheriff</field>
+<field name="author">Bowden, Kenneth</field><field name="author_nat">Kenneth Bowden</field>
 <field name="title">Outdoor education : a handbook for teachers</field>
 <field name="date">1960s</field>
 <field name="pages">15</field>
@@ -116,7 +116,7 @@ bulletin</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Yager, Robert Eugene</field><field name="author_nat">Robert Eugene<space/>Yager</field>
+<field name="author">Yager, Robert Eugene</field><field name="author_nat">Robert Eugene Yager</field>
 <field name="title">The secondary science program</field>
 <field name="year">1961</field>
 <field name="date">05/1961</field>
@@ -218,7 +218,7 @@ education program</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Trewet, John</field><field name="author_nat">John<space/>Trewet</field>
+<field name="author">Trewet, John</field><field name="author_nat">John Trewet</field>
 <field name="corp_author">Kern County (California) Superintendent of Schools</field>
 <field name="title">Reading in science</field>
 <field name="year">1960</field>
@@ -855,7 +855,7 @@ teaching science in the elementary schools : tentative</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Chaffee, Everett</field><field name="author_nat">Everett<space/>Chaffee</field>
+<field name="author">Chaffee, Everett</field><field name="author_nat">Everett Chaffee</field>
 <field name="corp_author">Los Angeles (California) City School District, Division of Instructional
 Services</field>
 <field name="title">Science and mathematics in the Los Angeles city schools; a report to the

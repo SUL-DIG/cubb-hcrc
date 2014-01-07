@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="type">Book</field>
-<field name="author">Hardgrove, Clarence Ethel</field><field name="author_nat">Clarence Ethel<space/>Hardgrove</field>
+<field name="author">Hardgrove, Clarence Ethel</field><field name="author_nat">Clarence Ethel Hardgrove</field>
 <field name="title">The elementary and junior high school mathematics library</field>
 <field name="year">1960</field>
 <field name="date">1960</field>
@@ -19,8 +19,8 @@
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Potter, Mary</field><field name="author_nat">Mary<space/>Potter</field>
-<field name="author">Mallory, Virgil Sampson</field><field name="author_nat">Virgil Sampson<space/>Mallory</field>
+<field name="author">Potter, Mary</field><field name="author_nat">Mary Potter</field>
+<field name="author">Mallory, Virgil Sampson</field><field name="author_nat">Virgil Sampson Mallory</field>
 <field name="title">Education in mathematics for the slow learner</field>
 <field name="year">1958</field>
 <field name="date">1958</field>
@@ -36,7 +36,7 @@ Responsibility: by Mary Potter and Virgil Mallory.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Ransom, William R.</field><field name="author_nat">William R.<space/>Ransom</field>
+<field name="author">Ransom, William R.</field><field name="author_nat">William R. Ransom</field>
 <field name="corp_author">National Council of Teachers of Mathematics</field>
 <field name="title">Geometry growing : early and later proofs of famous theorems</field>
 <field name="year">1954</field>
@@ -53,7 +53,7 @@ Ransom.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Schaaf, William Leonard</field><field name="author_nat">William Leonard<space/>Schaaf</field>
+<field name="author">Schaaf, William Leonard</field><field name="author_nat">William Leonard Schaaf</field>
 <field name="title">The high school mathematics library</field>
 <field name="year">1960</field>
 <field name="date">1960</field>
@@ -70,8 +70,8 @@ Ransom.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Vollmar, Robert</field><field name="author_nat">Robert<space/>Vollmar</field>
-<field name="author">Peak, Philip</field><field name="author_nat">Philip<space/>Peak</field>
+<field name="author">Vollmar, Robert</field><field name="author_nat">Robert Vollmar</field>
+<field name="author">Peak, Philip</field><field name="author_nat">Philip Peak</field>
 <field name="title">How to use films and filmstrips in mathematics classes</field>
 <field name="year">1956</field>
 <field name="date">1956</field>
@@ -90,7 +90,7 @@ Robert Vollmar, and Philop Peak.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Archer, Allene</field><field name="author_nat">Allene<space/>Archer</field>
+<field name="author">Archer, Allene</field><field name="author_nat">Allene Archer</field>
 <field name="title">How to use your library in mathematics ..</field>
 <field name="year">1958</field>
 <field name="date">1958</field>
@@ -109,8 +109,8 @@ Robert Vollmar, and Philop Peak.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Berger, Emil J.</field><field name="author_nat">Emil J.<space/>Berger</field>
-<field name="author">Johnson, Donovan A.</field><field name="author_nat">Donovan A.<space/>Johnson</field>
+<field name="author">Berger, Emil J.</field><field name="author_nat">Emil J. Berger</field>
+<field name="author">Johnson, Donovan A.</field><field name="author_nat">Donovan A. Johnson</field>
 <field name="title">A guide to the use and procurement of teaching aids for mathematics</field>
 <field name="year">1959</field>
 <field name="date">1959</field>
@@ -125,7 +125,7 @@ Robert Vollmar, and Philop Peak.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Johnson, Donovan A.</field><field name="author_nat">Donovan A.<space/>Johnson</field>
+<field name="author">Johnson, Donovan A.</field><field name="author_nat">Donovan A. Johnson</field>
 <field name="title">How to use field trips in mathematics</field>
 <field name="year">1956</field>
 <field name="date">1956</field>
@@ -143,8 +143,8 @@ Lauren G. Woodby.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Johnson, Donovan A.</field><field name="author_nat">Donovan A.<space/>Johnson</field>
-<field name="author">Olander, Clarence E.</field><field name="author_nat">Clarence E.<space/>Olander</field>
+<field name="author">Johnson, Donovan A.</field><field name="author_nat">Donovan A. Johnson</field>
+<field name="author">Olander, Clarence E.</field><field name="author_nat">Clarence E. Olander</field>
 <field name="title">How to use your bulletin board</field>
 <field name="year">1955</field>
 <field name="date">1955</field>
@@ -163,8 +163,8 @@ Olander.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Keiffer, Mildred</field><field name="author_nat">Mildred<space/>Keiffer</field>
-<field name="author">Evans, Anna Marie</field><field name="author_nat">Anna Marie<space/>Evans</field>
+<field name="author">Keiffer, Mildred</field><field name="author_nat">Mildred Keiffer</field>
+<field name="author">Evans, Anna Marie</field><field name="author_nat">Anna Marie Evans</field>
 <field name="title">How to develop a teaching guide in mathematics</field>
 <field name="year">1955</field>
 <field name="date">1955</field>
@@ -181,7 +181,7 @@ Olander.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Myers, Sheldon S.</field><field name="author_nat">Sheldon S.<space/>Myers</field>
+<field name="author">Myers, Sheldon S.</field><field name="author_nat">Sheldon S. Myers</field>
 <field name="title">Mathematics tests available in the United States</field>
 <field name="year">1959</field>
 <field name="date">04/1959</field>
@@ -196,7 +196,7 @@ Olander.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Carnahan, Walter H.</field><field name="author_nat">Walter H.<space/>Carnahan</field>
+<field name="author">Carnahan, Walter H.</field><field name="author_nat">Walter H. Carnahan</field>
 <field name="corp_author">National Council of Teachers of Mathematics. Mathematics Club Pamphlet
 Committee</field>
 <field name="title">Mathematics clubs in high schools</field>
@@ -214,7 +214,7 @@ Committee</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Johnson, Donovan A.</field><field name="author_nat">Donovan A.<space/>Johnson</field>
+<field name="author">Johnson, Donovan A.</field><field name="author_nat">Donovan A. Johnson</field>
 <field name="title">Paper folding for the mathematics class</field>
 <field name="year">1957</field>
 <field name="date">1957</field>
@@ -248,7 +248,7 @@ etc.)</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Vance, Elbridge Putnam</field><field name="author_nat">Elbridge Putnam<space/>Vance</field>
+<field name="author">Vance, Elbridge Putnam</field><field name="author_nat">Elbridge Putnam Vance</field>
 <field name="corp_author">National Council of Teachers of Mathematics</field>
 <field name="title">Program provisions for the mathematically gifted student in the secondary
 school</field>
@@ -389,8 +389,8 @@ series</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Carey, Elizabeth B.</field><field name="author_nat">Elizabeth B.<space/>Carey</field>
-<field name="author">Seymour, F. Eugene</field><field name="author_nat">F. Eugene<space/>Seymour</field>
+<field name="author">Carey, Elizabeth B.</field><field name="author_nat">Elizabeth B. Carey</field>
+<field name="author">Seymour, F. Eugene</field><field name="author_nat">F. Eugene Seymour</field>
 <field name="title">Improving basic skills in mathematics : a digest of the report of the Basic
 Skills Conference-Clinics in Mathematics</field>
 <field name="year">1952</field>
@@ -475,7 +475,7 @@ grades</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Petty, Olan</field><field name="author_nat">Olan<space/>Petty</field>
+<field name="author">Petty, Olan</field><field name="author_nat">Olan Petty</field>
 <field name="title">A guide to curriculum study : elementary mathematics, grades 1-8</field>
 <field name="year">1959</field>
 <field name="date">1959</field>
@@ -500,10 +500,10 @@ grades</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Clary, Robert</field><field name="author_nat">Robert<space/>Clary</field>
-<field name="author">Eason, Margaret</field><field name="author_nat">Margaret<space/>Eason</field>
-<field name="author">Harris, Bryce</field><field name="author_nat">Bryce<space/>Harris</field>
-<field name="author">Ridgeway, Jane</field><field name="author_nat">Jane<space/>Ridgeway</field>
+<field name="author">Clary, Robert</field><field name="author_nat">Robert Clary</field>
+<field name="author">Eason, Margaret</field><field name="author_nat">Margaret Eason</field>
+<field name="author">Harris, Bryce</field><field name="author_nat">Bryce Harris</field>
+<field name="author">Ridgeway, Jane</field><field name="author_nat">Jane Ridgeway</field>
 <field name="title">A guide to curriculum study : high school mathematics grades 9 - 12</field>
 <field name="year">1959</field>
 <field name="date">1959</field>
@@ -683,7 +683,7 @@ the Bureau of Mathematics Education and the Office of Title 1, ESEA.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Charp, Sylvia</field><field name="author_nat">Sylvia<space/>Charp</field>
+<field name="author">Charp, Sylvia</field><field name="author_nat">Sylvia Charp</field>
 <field name="title">Computers in general education</field>
 <field name="year">1967</field>
 <field name="date">1967</field>
@@ -771,7 +771,7 @@ Technical Personnel</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Horn, R. A.</field><field name="author_nat">R. A.<space/>Horn</field>
+<field name="author">Horn, R. A.</field><field name="author_nat">R. A. Horn</field>
 <field name="title">Teacher's guide : seventh grade mathematics for the academically
 talented.</field>
 <field name="year">1963</field>
@@ -788,7 +788,7 @@ talented.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Horn, R. A.</field><field name="author_nat">R. A.<space/>Horn</field>
+<field name="author">Horn, R. A.</field><field name="author_nat">R. A. Horn</field>
 <field name="title">Teacher's guide : eighth grade mathematics for the academically
 talented.</field>
 <field name="year">1963</field>
@@ -805,7 +805,7 @@ talented.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Horn, R. A.</field><field name="author_nat">R. A.<space/>Horn</field>
+<field name="author">Horn, R. A.</field><field name="author_nat">R. A. Horn</field>
 <field name="title">Teacher's guide : ninth grade mathematics for the academically talented.</field>
 <field name="year">1963</field>
 <field name="date">1963</field>
@@ -821,7 +821,7 @@ talented.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Jacoby, Elliott</field><field name="author_nat">Elliott<space/>Jacoby</field>
+<field name="author">Jacoby, Elliott</field><field name="author_nat">Elliott Jacoby</field>
 <field name="corp_author">School District of Philadelphia, Pennsylvania. Curriculum Office</field>
 <field name="title">General mathematics, grade 9</field>
 <field name="year">1963</field>
@@ -875,8 +875,8 @@ al.]].</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Sapolsky, Benjamin</field><field name="author_nat">Benjamin<space/>Sapolsky</field>
-<field name="author">Brooks, Milton</field><field name="author_nat">Milton<space/>Brooks</field>
+<field name="author">Sapolsky, Benjamin</field><field name="author_nat">Benjamin Sapolsky</field>
+<field name="author">Brooks, Milton</field><field name="author_nat">Milton Brooks</field>
 <field name="corp_author">School District of Philadelphia, Pennsylvania</field>
 <field name="title">Basic concepts of modern mathematics</field>
 <field name="year">1969</field>
@@ -1290,7 +1290,7 @@ bibliographical references.; Responsibility: prepared by Juanita Anderson ... [e
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Reid, Irene M.</field><field name="author_nat">Irene M.<space/>Reid</field>
+<field name="author">Reid, Irene M.</field><field name="author_nat">Irene M. Reid</field>
 <field name="title">Teaching mathematics through school savings</field>
 <field name="year">1949</field>
 <field name="date">1949</field>
@@ -1612,7 +1612,7 @@ Services.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Farrell, Margaret A.</field><field name="author_nat">Margaret A.<space/>Farrell</field>
+<field name="author">Farrell, Margaret A.</field><field name="author_nat">Margaret A. Farrell</field>
 <field name="title">Geoboard geometry</field>
 <field name="year">1971</field>
 <field name="date">1971</field>
@@ -1796,7 +1796,7 @@ algebra</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Menger, Karl</field><field name="author_nat">Karl<space/>Menger</field>
+<field name="author">Menger, Karl</field><field name="author_nat">Karl Menger</field>
 <field name="corp_author">Illinois Institute of Technology</field>
 <field name="title">You will like geometry : a guide book for the Illinois Institute of Technology
 geometry exhibition at the Museum of Science and Industry</field>
@@ -1843,7 +1843,7 @@ geometry exhibition at the Museum of Science and Industry</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Walter, Marion I.</field><field name="author_nat">Marion I.<space/>Walter</field>
+<field name="author">Walter, Marion I.</field><field name="author_nat">Marion I. Walter</field>
 <field name="title">Boxes, squares, and other things; a teacher's guide for a unit in informal
 geometry</field>
 <field name="year">1970</field>
@@ -1927,7 +1927,7 @@ New York."</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Kogan, Irvin J.</field><field name="author_nat">Irvin J.<space/>Kogan</field>
+<field name="author">Kogan, Irvin J.</field><field name="author_nat">Irvin J. Kogan</field>
 <field name="title">Trends of secondary education in the subjects of plane geometry, solid geometry,
 trigonometry, and calculus</field>
 <field name="year">1954</field>
@@ -1943,15 +1943,15 @@ trigonometry, and calculus</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Glaubiger, Pearl</field><field name="author_nat">Pearl<space/>Glaubiger</field>
-<field name="author">Greene, Samuel S.</field><field name="author_nat">Samuel S.<space/>Greene</field>
-<field name="author">Johnson, G. Philip</field><field name="author_nat">G. Philip<space/>Johnson</field>
-<field name="author">Levi, Howard</field><field name="author_nat">Howard<space/>Levi</field>
-<field name="author">Moskowistz, Martin M.</field><field name="author_nat">Martin M.<space/>Moskowistz</field>
-<field name="author">Puckette, Stephen</field><field name="author_nat">Stephen<space/>Puckette</field>
-<field name="author">Rosenbaum, Robert A.</field><field name="author_nat">Robert A.<space/>Rosenbaum</field>
-<field name="author">Sitomer, Harry</field><field name="author_nat">Harry<space/>Sitomer</field>
-<field name="author">Wylie, C.R.</field><field name="author_nat">C.R.<space/>Wylie</field>
+<field name="author">Glaubiger, Pearl</field><field name="author_nat">Pearl Glaubiger</field>
+<field name="author">Greene, Samuel S.</field><field name="author_nat">Samuel S. Greene</field>
+<field name="author">Johnson, G. Philip</field><field name="author_nat">G. Philip Johnson</field>
+<field name="author">Levi, Howard</field><field name="author_nat">Howard Levi</field>
+<field name="author">Moskowistz, Martin M.</field><field name="author_nat">Martin M. Moskowistz</field>
+<field name="author">Puckette, Stephen</field><field name="author_nat">Stephen Puckette</field>
+<field name="author">Rosenbaum, Robert A.</field><field name="author_nat">Robert A. Rosenbaum</field>
+<field name="author">Sitomer, Harry</field><field name="author_nat">Harry Sitomer</field>
+<field name="author">Wylie, C.R.</field><field name="author_nat">C.R. Wylie</field>
 <field name="title">Modern coordinate geometry: commentary for teachers</field>
 <field name="year">1964</field>
 <field name="date">1964</field>

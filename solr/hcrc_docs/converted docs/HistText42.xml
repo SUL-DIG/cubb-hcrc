@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="type">Book</field>
-<field name="author">Ianora, Dorothy</field><field name="author_nat">Dorothy<space/>Ianora</field>
-<field name="author">Brandwein, Paul F.</field><field name="author_nat">Paul F.<space/>Brandwein</field>
-<field name="author">Lansdown, Brenda</field><field name="author_nat">Brenda<space/>Lansdown</field>
-<field name="author">Raskin, Abraham</field><field name="author_nat">Abraham<space/>Raskin</field>
-<field name="author">Metzner, Jerome</field><field name="author_nat">Jerome<space/>Metzner</field>
-<field name="author">Williams, Harry H.</field><field name="author_nat">Harry H.<space/>Williams</field>
+<field name="author">Ianora, Dorothy</field><field name="author_nat">Dorothy Ianora</field>
+<field name="author">Brandwein, Paul F.</field><field name="author_nat">Paul F. Brandwein</field>
+<field name="author">Lansdown, Brenda</field><field name="author_nat">Brenda Lansdown</field>
+<field name="author">Raskin, Abraham</field><field name="author_nat">Abraham Raskin</field>
+<field name="author">Metzner, Jerome</field><field name="author_nat">Jerome Metzner</field>
+<field name="author">Williams, Harry H.</field><field name="author_nat">Harry H. Williams</field>
 <field name="corp_author">National Science Teachers Association</field>
 <field name="title">Abstracts of science teaching ideas; from all entries in the 1953 and 1954
 programs of recognition awards for science teachers</field>
@@ -38,8 +38,8 @@ programs of recognition awards for science teachers</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Mallinson, George Greisen</field><field name="author_nat">George Greisen<space/>Mallinson</field>
-<field name="author">Mallinson, Jacqueline V. Buck</field><field name="author_nat">Jacqueline V. Buck<space/>Mallinson</field>
+<field name="author">Mallinson, George Greisen</field><field name="author_nat">George Greisen Mallinson</field>
+<field name="author">Mallinson, Jacqueline V. Buck</field><field name="author_nat">Jacqueline V. Buck Mallinson</field>
 <field name="title">A bibliography of reference books for elementary science</field>
 <field name="year">1960</field>
 <field name="date">1960</field>
@@ -58,8 +58,8 @@ Buck.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Mallinson, George Greisen</field><field name="author_nat">George Greisen<space/>Mallinson</field>
-<field name="author">Mallinson, Jacqueline V. Buck</field><field name="author_nat">Jacqueline V. Buck<space/>Mallinson</field>
+<field name="author">Mallinson, George Greisen</field><field name="author_nat">George Greisen Mallinson</field>
+<field name="author">Mallinson, Jacqueline V. Buck</field><field name="author_nat">Jacqueline V. Buck Mallinson</field>
 <field name="title">A bibliography of reference books for elementary science</field>
 <field name="year">1956</field>
 <field name="date">1956</field>
@@ -146,8 +146,8 @@ elementary school mathematics."/ Material directly related to Mathematics K-6./ 
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Mervine, Kathryn E.</field><field name="author_nat">Kathryn E.<space/>Mervine</field>
-<field name="author">Cawley, Rebecca E.</field><field name="author_nat">Rebecca E.<space/>Cawley</field>
+<field name="author">Mervine, Kathryn E.</field><field name="author_nat">Kathryn E. Mervine</field>
+<field name="author">Cawley, Rebecca E.</field><field name="author_nat">Rebecca E. Cawley</field>
 <field name="title">Energy-environment materials guide</field>
 <field name="year">1975</field>
 <field name="date">1975</field>
@@ -165,7 +165,7 @@ Kathryn E. Mervine and Rebecca E. Cawley.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">George, Kenneth D.</field><field name="author_nat">Kenneth D.<space/>George</field>
+<field name="author">George, Kenneth D.</field><field name="author_nat">Kenneth D. George</field>
 <field name="title">How to utilize the services of a science consultant to improve school science
 programs</field>
 <field name="year">1965</field>
@@ -183,7 +183,7 @@ Science Teachers Association. How to do it pamphlet series</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Hurd, Paul DeHart</field><field name="author_nat">Paul DeHart<space/>Hurd</field>
+<field name="author">Hurd, Paul DeHart</field><field name="author_nat">Paul DeHart Hurd</field>
 <field name="title">How to teach science through field studies</field>
 <field name="year">1965</field>
 <field name="date">1965</field>
@@ -202,7 +202,7 @@ Science Teachers Association. How to do it pamphlet series</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Munch, Theodore W.</field><field name="author_nat">Theodore W.<space/>Munch</field>
+<field name="author">Munch, Theodore W.</field><field name="author_nat">Theodore W. Munch</field>
 <field name="title">How to individualize science instruction in the elementary school</field>
 <field name="year">1965</field>
 <field name="date">1955</field>
@@ -220,7 +220,7 @@ Science Teachers Association. How to do it pamphlet series</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Pratt, Grace K.</field><field name="author_nat">Grace K.<space/>Pratt</field>
+<field name="author">Pratt, Grace K.</field><field name="author_nat">Grace K. Pratt</field>
 <field name="title">How to care for living things in the classroom</field>
 <field name="year">1965</field>
 <field name="date">1965</field>
@@ -238,7 +238,7 @@ Science Teachers Association. How to do it pamphlet series</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Hurd, Paul DeHart</field><field name="author_nat">Paul DeHart<space/>Hurd</field>
+<field name="author">Hurd, Paul DeHart</field><field name="author_nat">Paul DeHart Hurd</field>
 <field name="title">Let's take a field trip</field>
 <field name="year">1956</field>
 <field name="date">1956</field>
@@ -254,9 +254,9 @@ Science Teachers Association. How to do it pamphlet series</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Bryan, J. Ned</field><field name="author_nat">J. Ned<space/>Bryan</field>
+<field name="author">Bryan, J. Ned</field><field name="author_nat">J. Ned Bryan</field>
 <field name="author">West Coast Summer Conference for General Science Teachers. Oregon State
-College, 1958</field><field name="author_nat">1958<space/>College</field>
+College, 1958</field><field name="author_nat">1958 College</field>
 <field name="title">Science in the junior high school : report of the 1958 West Coast Summer
 Conference</field>
 <field name="year">1959</field>
@@ -272,7 +272,7 @@ Conference</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Raskin, Abraham H.</field><field name="author_nat">Abraham H.<space/>Raskin</field>
+<field name="author">Raskin, Abraham H.</field><field name="author_nat">Abraham H. Raskin</field>
 <field name="title">STAR ideas in science teaching : a selection from the winning entries in the
 1956-57 Science teacher achievement recognition program</field>
 <field name="year">1957</field>
@@ -289,7 +289,7 @@ program.; Responsibility: edited by Abraham Raskin.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Raskin, Abraham H.</field><field name="author_nat">Abraham H.<space/>Raskin</field>
+<field name="author">Raskin, Abraham H.</field><field name="author_nat">Abraham H. Raskin</field>
 <field name="author">National Science Teachers Association</field><field name="author_nat"/>
 <field name="title">Science teaching ideas ii</field>
 <field name="year">1955</field>
@@ -307,7 +307,7 @@ Recognition Awards for Science Teachers; the first has title: Selected science t
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Raskin, Abraham H.</field><field name="author_nat">Abraham H.<space/>Raskin</field>
+<field name="author">Raskin, Abraham H.</field><field name="author_nat">Abraham H. Raskin</field>
 <field name="author">National Science Teachers Association</field><field name="author_nat"/>
 <field name="title">Star '58 : a selection from the winning entries in the 1958 Science Teacher
 Achievement Recognition Program</field>
@@ -325,7 +325,7 @@ Responsibility: edited by Abraham Raskin.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Bruce, Guy V.</field><field name="author_nat">Guy V.<space/>Bruce</field>
+<field name="author">Bruce, Guy V.</field><field name="author_nat">Guy V. Bruce</field>
 <field name="title">Experiments with water</field>
 <field name="year">1950</field>
 <field name="date">1950</field>
@@ -341,7 +341,7 @@ Responsibility: edited by Abraham Raskin.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Bruce, Guy V.</field><field name="author_nat">Guy V.<space/>Bruce</field>
+<field name="author">Bruce, Guy V.</field><field name="author_nat">Guy V. Bruce</field>
 <field name="title">Experiments with air</field>
 <field name="year">1950</field>
 <field name="date">1950</field>
@@ -357,7 +357,7 @@ Responsibility: edited by Abraham Raskin.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Bruce, Guy V.</field><field name="author_nat">Guy V.<space/>Bruce</field>
+<field name="author">Bruce, Guy V.</field><field name="author_nat">Guy V. Bruce</field>
 <field name="title">Experiences with heat</field>
 <field name="year">1951</field>
 <field name="date">1951</field>
@@ -373,7 +373,7 @@ Responsibility: edited by Abraham Raskin.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Bruce, Guy V.</field><field name="author_nat">Guy V.<space/>Bruce</field>
+<field name="author">Bruce, Guy V.</field><field name="author_nat">Guy V. Bruce</field>
 <field name="title">Experiences with magnetism and electricity</field>
 <field name="year">1951</field>
 <field name="date">1951</field>
@@ -389,7 +389,7 @@ Responsibility: edited by Abraham Raskin.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Bruce, Guy V.</field><field name="author_nat">Guy V.<space/>Bruce</field>
+<field name="author">Bruce, Guy V.</field><field name="author_nat">Guy V. Bruce</field>
 <field name="title">Experiences with sound</field>
 <field name="year">1951</field>
 <field name="date">1951</field>
@@ -405,7 +405,7 @@ Responsibility: edited by Abraham Raskin.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Bruce, Guy V.</field><field name="author_nat">Guy V.<space/>Bruce</field>
+<field name="author">Bruce, Guy V.</field><field name="author_nat">Guy V. Bruce</field>
 <field name="title">Experiences with heat</field>
 <field name="year">1951</field>
 <field name="date">1951</field>
@@ -421,7 +421,7 @@ Responsibility: edited by Abraham Raskin.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Burnett, R. Will</field><field name="author_nat">R. Will<space/>Burnett</field>
+<field name="author">Burnett, R. Will</field><field name="author_nat">R. Will Burnett</field>
 <field name="title">Combatting prejudice through science teaching</field>
 <field name="year">1952</field>
 <field name="date">1952</field>
@@ -437,7 +437,7 @@ Responsibility: edited by Abraham Raskin.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Barnard, J. Darrell</field><field name="author_nat">J. Darrell<space/>Barnard</field>
+<field name="author">Barnard, J. Darrell</field><field name="author_nat">J. Darrell Barnard</field>
 <field name="corp_author">National Education Association of the United States</field>
 <field name="corp_author">Department of Classroom Teachers</field>
 <field name="corp_author">American Educational Research Association</field>
@@ -461,9 +461,9 @@ Association</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Greer, Edith Christine Simanek</field><field name="author_nat">Edith Christine Simanek<space/>Greer</field>
-<field name="author">Rotter, George E.</field><field name="author_nat">George E.<space/>Rotter</field>
-<field name="author">Waite, Evangeline</field><field name="author_nat">Evangeline<space/>Waite</field>
+<field name="author">Greer, Edith Christine Simanek</field><field name="author_nat">Edith Christine Simanek Greer</field>
+<field name="author">Rotter, George E.</field><field name="author_nat">George E. Rotter</field>
+<field name="author">Waite, Evangeline</field><field name="author_nat">Evangeline Waite</field>
 <field name="corp_author">Nebraska State Department of Education</field>
 <field name="title">Science for Nebraska elementary school children : course of study and
 instructional guide</field>
@@ -1039,7 +1039,7 @@ Dept</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Williams, Paul T.</field><field name="author_nat">Paul T.<space/>Williams</field>
+<field name="author">Williams, Paul T.</field><field name="author_nat">Paul T. Williams</field>
 <field name="corp_author">University of the State of New York, The State Education Department,
 Bureau of audio and visual aids</field>
 <field name="title">General science</field>
@@ -1268,7 +1268,7 @@ Development</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Kelley, Robert</field><field name="author_nat">Robert<space/>Kelley</field>
+<field name="author">Kelley, Robert</field><field name="author_nat">Robert Kelley</field>
 <field name="corp_author">University of the State of New York. The State Education
 Department</field>
 <field name="title">What science is</field>
@@ -1573,8 +1573,8 @@ Responsibility: Department of Public Instruction.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Carr, William D.</field><field name="author_nat">William D.<space/>Carr</field>
-<field name="author">Wright, Clifford</field><field name="author_nat">Clifford<space/>Wright</field>
+<field name="author">Carr, William D.</field><field name="author_nat">William D. Carr</field>
+<field name="author">Wright, Clifford</field><field name="author_nat">Clifford Wright</field>
 <field name="author">Oklahoma Curriculum Improvement Commission. State Science Committee</field><field name="author_nat"/>
 <field name="title">The improvement of science instruction in Oklahoma : grades k-6</field>
 <field name="year">1968</field>
@@ -1617,7 +1617,7 @@ Wright, executive secretary ; foreword by Oliver Hodge.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Reynolds, Earl A.</field><field name="author_nat">Earl A.<space/>Reynolds</field>
+<field name="author">Reynolds, Earl A.</field><field name="author_nat">Earl A. Reynolds</field>
 <field name="corp_author">Oklahoma Curriculum Improvement Commission</field>
 <field name="title">The improvement of science instruction in Oklahoma grades 7-12</field>
 <field name="year">1970</field>
@@ -1643,8 +1643,8 @@ Tuxhorn.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Richardson, John S.</field><field name="author_nat">John S.<space/>Richardson</field>
-<field name="author">Banks, William Henry</field><field name="author_nat">William Henry<space/>Banks</field>
+<field name="author">Richardson, John S.</field><field name="author_nat">John S. Richardson</field>
+<field name="author">Banks, William Henry</field><field name="author_nat">William Henry Banks</field>
 <field name="title">Resource literature for science teachers</field>
 <field name="year">1961</field>
 <field name="date">1961</field>
@@ -1677,8 +1677,8 @@ Tuxhorn.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Vickers, Meredith R.</field><field name="author_nat">Meredith R.<space/>Vickers</field>
-<field name="author">Vickers, Robert C.</field><field name="author_nat">Robert C.<space/>Vickers</field>
+<field name="author">Vickers, Meredith R.</field><field name="author_nat">Meredith R. Vickers</field>
+<field name="author">Vickers, Robert C.</field><field name="author_nat">Robert C. Vickers</field>
 <field name="corp_author">Kent State University. Department of Library Science</field>
 <field name="title">A selected bibliography in science education</field>
 <field name="year">1954</field>
@@ -1695,9 +1695,9 @@ Tuxhorn.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Wright, William</field><field name="author_nat">William<space/>Wright</field>
-<field name="author">Deprey, Milford J.</field><field name="author_nat">Milford J.<space/>Deprey</field>
-<field name="author">Hughes, Thomas H.</field><field name="author_nat">Thomas H.<space/>Hughes</field>
+<field name="author">Wright, William</field><field name="author_nat">William Wright</field>
+<field name="author">Deprey, Milford J.</field><field name="author_nat">Milford J. Deprey</field>
+<field name="author">Hughes, Thomas H.</field><field name="author_nat">Thomas H. Hughes</field>
 <field name="title">The amity plan for junior high science</field>
 <field name="keywords">Science</field>
 <field name="publisher">Amity Regional Junior High School</field>
@@ -1786,7 +1786,7 @@ earth--Section III. Machines--Section IV. Care and feeding of classroom pets and
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Anderson, Robert E.</field><field name="author_nat">Robert E.<space/>Anderson</field>
+<field name="author">Anderson, Robert E.</field><field name="author_nat">Robert E. Anderson</field>
 <field name="corp_author">Oregon State Office of Superintendent of Public Instruction</field>
 <field name="title">Science for Oregon schools: pt. 1. Elementary and junior high school
 grades</field>
@@ -1807,8 +1807,8 @@ E. Anderson.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Kambly, Paul E.</field><field name="author_nat">Paul E.<space/>Kambly</field>
-<field name="author">Ladley, Winifred</field><field name="author_nat">Winifred<space/>Ladley</field>
+<field name="author">Kambly, Paul E.</field><field name="author_nat">Paul E. Kambly</field>
+<field name="author">Ladley, Winifred</field><field name="author_nat">Winifred Ladley</field>
 <field name="title">Science books for the elementary school library, published 1959-60</field>
 <field name="year">1961</field>
 <field name="date">04/1961</field>

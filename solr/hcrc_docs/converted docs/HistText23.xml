@@ -486,7 +486,7 @@ question and sentence conjunction.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Farrow, Vern, L.</field><field name="author_nat">L.<space/>Farrow, Vern</field>
+<field name="author">Farrow, Vern, L.</field><field name="author_nat">L. Farrow, Vern</field>
 <field name="title">Whither elementary language arts in the space age?</field>
 <field name="year">1966</field>
 <field name="date">12/1966</field>
@@ -505,7 +505,7 @@ Hugh B. Wood.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Gigous, Goldie Marie</field><field name="author_nat">Goldie Marie<space/>Gigous</field>
+<field name="author">Gigous, Goldie Marie</field><field name="author_nat">Goldie Marie Gigous</field>
 <field name="title">Improving listening skills</field>
 <field name="year">1967</field>
 <field name="date">1967</field>
@@ -521,7 +521,7 @@ Hugh B. Wood.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Kraus, Silvy A.</field><field name="author_nat">Silvy A.<space/>Kraus</field>
+<field name="author">Kraus, Silvy A.</field><field name="author_nat">Silvy A. Kraus</field>
 <field name="title">The teaching of grammar</field>
 <field name="year">1961</field>
 <field name="date">02/1961</field>
@@ -539,7 +539,7 @@ Hugh B. Wood.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Mittman, Arthur</field><field name="author_nat">Arthur<space/>Mittman</field>
+<field name="author">Mittman, Arthur</field><field name="author_nat">Arthur Mittman</field>
 <field name="title">Constructing tests in a curriculum study center</field>
 <field name="year">1967</field>
 <field name="date">11/1967</field>
@@ -578,8 +578,8 @@ Hugh B. Wood.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Tanner, Bernard</field><field name="author_nat">Bernard<space/>Tanner</field>
-<field name="author">Vittetoe, Craig</field><field name="author_nat">Craig<space/>Vittetoe</field>
+<field name="author">Tanner, Bernard</field><field name="author_nat">Bernard Tanner</field>
+<field name="author">Vittetoe, Craig</field><field name="author_nat">Craig Vittetoe</field>
 <field name="title">A description of the twelfth grade course in advanced standing English</field>
 <field name="year">1958</field>
 <field name="date">Summer, 1958</field>
@@ -595,8 +595,8 @@ Hugh B. Wood.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">White, Jean F.</field><field name="author_nat">Jean F.<space/>White</field>
-<field name="author">Shutes, Robert E.</field><field name="author_nat">Robert E.<space/>Shutes</field>
+<field name="author">White, Jean F.</field><field name="author_nat">Jean F. White</field>
+<field name="author">Shutes, Robert E.</field><field name="author_nat">Robert E. Shutes</field>
 <field name="corp_author">Palo Alto (California) Unified School District</field>
 <field name="title">Teacher's guide for English language arts: grade vii</field>
 <field name="year">1956</field>
@@ -615,8 +615,8 @@ Shutes</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">White, Jean F.</field><field name="author_nat">Jean F.<space/>White</field>
-<field name="author">Shutes, Robert E.</field><field name="author_nat">Robert E.<space/>Shutes</field>
+<field name="author">White, Jean F.</field><field name="author_nat">Jean F. White</field>
+<field name="author">Shutes, Robert E.</field><field name="author_nat">Robert E. Shutes</field>
 <field name="corp_author">Palo Alto (California) Unified School District</field>
 <field name="title">Teacher's guide for English language arts: grade viii</field>
 <field name="year">1956</field>
@@ -634,7 +634,7 @@ Shutes</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Myres, John</field><field name="author_nat">John<space/>Myres</field>
+<field name="author">Myres, John</field><field name="author_nat">John Myres</field>
 <field name="title">Mechanics of English, grades 7 to 12: a curriculum guide for secondary
 English</field>
 <field name="year">1959</field>
@@ -850,7 +850,7 @@ six</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Luty, E. T.</field><field name="author_nat">E. T.<space/>Luty</field>
+<field name="author">Luty, E. T.</field><field name="author_nat">E. T. Luty</field>
 <field name="title">Central high school senior English program (an evaluation report)</field>
 <field name="year">1970</field>
 <field name="date">1970</field>
@@ -974,10 +974,10 @@ six</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Hupke, Robert</field><field name="author_nat">Robert<space/>Hupke</field>
-<field name="author">Brown, Rita</field><field name="author_nat">Rita<space/>Brown</field>
-<field name="author">Swinford, Philip</field><field name="author_nat">Philip<space/>Swinford</field>
-<field name="author">Walker, Margarete</field><field name="author_nat">Margarete<space/>Walker</field>
+<field name="author">Hupke, Robert</field><field name="author_nat">Robert Hupke</field>
+<field name="author">Brown, Rita</field><field name="author_nat">Rita Brown</field>
+<field name="author">Swinford, Philip</field><field name="author_nat">Philip Swinford</field>
+<field name="author">Walker, Margarete</field><field name="author_nat">Margarete Walker</field>
 <field name="corp_author">Purdue English Curriculum Center</field>
 <field name="corp_author">Purdue Project English</field>
 <field name="title">The fables of Aesop : an opus-centered unit</field>
@@ -1114,7 +1114,7 @@ Rita Brown, Philip Swinford, Margarete Walker.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Kincheloe, Isabel Mary</field><field name="author_nat">Isabel Mary<space/>Kincheloe</field>
+<field name="author">Kincheloe, Isabel Mary</field><field name="author_nat">Isabel Mary Kincheloe</field>
 <field name="corp_author">Reader's Digest Services. Educational Division</field>
 <field name="title">Building vocabulary</field>
 <field name="pages">16</field>
@@ -1128,7 +1128,7 @@ Rita Brown, Philip Swinford, Margarete Walker.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Stauffer, Russell G.</field><field name="author_nat">Russell G.<space/>Stauffer</field>
+<field name="author">Stauffer, Russell G.</field><field name="author_nat">Russell G. Stauffer</field>
 <field name="corp_author">Reader's Digest Services. Educational Division</field>
 <field name="title">Reading-thinking : a dynamic program</field>
 <field name="pages">23</field>
@@ -1143,7 +1143,7 @@ Rita Brown, Philip Swinford, Margarete Walker.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Hamilton, Mary Glenn</field><field name="author_nat">Mary Glenn<space/>Hamilton</field>
+<field name="author">Hamilton, Mary Glenn</field><field name="author_nat">Mary Glenn Hamilton</field>
 <field name="corp_author">Reader's Digest Services. Educational Division</field>
 <field name="title">Expository writing; a motivated approach</field>
 <field name="pages">28</field>
@@ -1177,7 +1177,7 @@ Responsibility: Redford Union Schools.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Cooper, David</field><field name="author_nat">David<space/>Cooper</field>
+<field name="author">Cooper, David</field><field name="author_nat">David Cooper</field>
 <field name="title">Some suggestions for the teaching of thinking in eleventh and twelfth grade
 English classes</field>
 <field name="pages">10</field>
@@ -1244,9 +1244,9 @@ English classes</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Ballard, Rose</field><field name="author_nat">Rose<space/>Ballard</field>
-<field name="author">Waterman, Bertha</field><field name="author_nat">Bertha<space/>Waterman</field>
-<field name="author">Williams, Marian</field><field name="author_nat">Marian<space/>Williams</field>
+<field name="author">Ballard, Rose</field><field name="author_nat">Rose Ballard</field>
+<field name="author">Waterman, Bertha</field><field name="author_nat">Bertha Waterman</field>
+<field name="author">Williams, Marian</field><field name="author_nat">Marian Williams</field>
 <field name="title">Report of Committee on Guideposts in Grammar</field>
 <field name="year">1954</field>
 <field name="date">01/1954</field>

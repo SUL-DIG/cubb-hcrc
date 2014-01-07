@@ -62,7 +62,7 @@ Board of Education ...</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Mulera, Bernadette</field><field name="author_nat">Bernadette<space/>Mulera</field>
+<field name="author">Mulera, Bernadette</field><field name="author_nat">Bernadette Mulera</field>
 <field name="title">Teachers' guide for literature study - seventh grade</field>
 <field name="year">1963</field>
 <field name="date">09/1963</field>
@@ -198,7 +198,7 @@ having little interest in reading</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Mills, Joyce White</field><field name="author_nat">Joyce White<space/>Mills</field>
+<field name="author">Mills, Joyce White</field><field name="author_nat">Joyce White Mills</field>
 <field name="title">The Black world in literature for children : a bibliography of print and
 non-print materials</field>
 <field name="year">1975</field>
@@ -308,7 +308,7 @@ Children's Services Division, American Library Association</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Benedict, Stewart H.</field><field name="author_nat">Stewart H.<space/>Benedict</field>
+<field name="author">Benedict, Stewart H.</field><field name="author_nat">Stewart H. Benedict</field>
 <field name="title">A teacher's guide to modern drama</field>
 <field name="year">1967</field>
 <field name="date">11/1967</field>
@@ -324,7 +324,7 @@ Stewart H. Benedict.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Benedict, Stewart H.</field><field name="author_nat">Stewart H.<space/>Benedict</field>
+<field name="author">Benedict, Stewart H.</field><field name="author_nat">Stewart H. Benedict</field>
 <field name="title">A teacher's guide to senior high school literature</field>
 <field name="year">1966</field>
 <field name="date">12/1966</field>
@@ -413,7 +413,7 @@ Responsibility: Denver Public Schools.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Tremaine, Claire</field><field name="author_nat">Claire<space/>Tremaine</field>
+<field name="author">Tremaine, Claire</field><field name="author_nat">Claire Tremaine</field>
 <field name="corp_author">Grossmont (California) Union High School District</field>
 <field name="title">World history and world literature for the gifted student</field>
 <field name="year">1962</field>
@@ -451,7 +451,7 @@ Responsibility: Denver Public Schools.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">MacVean, Donald S.</field><field name="author_nat">Donald S.<space/>MacVean</field>
+<field name="author">MacVean, Donald S.</field><field name="author_nat">Donald S. MacVean</field>
 <field name="title">Books of high interest and low vocabulary levels in the libraries of Burris
 Laboratory School and Ball State Teachers College</field>
 <field name="year">1956</field>
@@ -470,7 +470,7 @@ Laboratory School and Ball State Teachers College</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Hall, Elvajean</field><field name="author_nat">Elvajean<space/>Hall</field>
+<field name="author">Hall, Elvajean</field><field name="author_nat">Elvajean Hall</field>
 <field name="title">Personal problems of children</field>
 <field name="keywords">Bibliography</field>
 <field name="keywords">Children's literature</field>
@@ -483,7 +483,7 @@ Laboratory School and Ball State Teachers College</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Hall, Elvajean</field><field name="author_nat">Elvajean<space/>Hall</field>
+<field name="author">Hall, Elvajean</field><field name="author_nat">Elvajean Hall</field>
 <field name="title">At home in the universe</field>
 <field name="keywords">Science</field>
 <field name="keywords">Bibliography</field>
@@ -497,7 +497,7 @@ Laboratory School and Ball State Teachers College</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Hall, Elvajean</field><field name="author_nat">Elvajean<space/>Hall</field>
+<field name="author">Hall, Elvajean</field><field name="author_nat">Elvajean Hall</field>
 <field name="title">Picture books and easy reading</field>
 <field name="keywords">Bibliography</field>
 <field name="keywords">Children's literature</field>
@@ -511,7 +511,7 @@ Laboratory School and Ball State Teachers College</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Hall, Elvajean</field><field name="author_nat">Elvajean<space/>Hall</field>
+<field name="author">Hall, Elvajean</field><field name="author_nat">Elvajean Hall</field>
 <field name="title">Let's read together: a selected list of read-aloud books for group and family
 fun</field>
 <field name="keywords">Bibliography</field>
@@ -525,7 +525,7 @@ fun</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Hill, Janet</field><field name="author_nat">Janet<space/>Hill</field>
+<field name="author">Hill, Janet</field><field name="author_nat">Janet Hill</field>
 <field name="title">Books for children: the homelands of immigrants in Britain: Africa, Cyprus,
 India and Pakistan, Ireland, Italy, Poland, Turkey, the West Indies</field>
 <field name="year">1971</field>
@@ -597,11 +597,11 @@ six</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Anderson, Jo Ann</field><field name="author_nat">Jo Ann<space/>Anderson</field>
-<field name="author">Bush, Clara A.</field><field name="author_nat">Clara A.<space/>Bush</field>
-<field name="author">Taylor, Mary G.</field><field name="author_nat">Mary G.<space/>Taylor</field>
-<field name="author">Spencer, Princess</field><field name="author_nat">Princess<space/>Spencer</field>
-<field name="author">Wilson, Ella B.</field><field name="author_nat">Ella B.<space/>Wilson</field>
+<field name="author">Anderson, Jo Ann</field><field name="author_nat">Jo Ann Anderson</field>
+<field name="author">Bush, Clara A.</field><field name="author_nat">Clara A. Bush</field>
+<field name="author">Taylor, Mary G.</field><field name="author_nat">Mary G. Taylor</field>
+<field name="author">Spencer, Princess</field><field name="author_nat">Princess Spencer</field>
+<field name="author">Wilson, Ella B.</field><field name="author_nat">Ella B. Wilson</field>
 <field name="title">Outline for primary literature</field>
 <field name="year">1956</field>
 <field name="date">1956</field>
@@ -615,10 +615,10 @@ six</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Dodson, Mary G.</field><field name="author_nat">Mary G.<space/>Dodson</field>
-<field name="author">Hill, Juanita</field><field name="author_nat">Juanita<space/>Hill</field>
-<field name="author">Mathews, Virginia H.</field><field name="author_nat">Virginia H.<space/>Mathews</field>
-<field name="author">White, Joan L.</field><field name="author_nat">Joan L.<space/>White</field>
+<field name="author">Dodson, Mary G.</field><field name="author_nat">Mary G. Dodson</field>
+<field name="author">Hill, Juanita</field><field name="author_nat">Juanita Hill</field>
+<field name="author">Mathews, Virginia H.</field><field name="author_nat">Virginia H. Mathews</field>
+<field name="author">White, Joan L.</field><field name="author_nat">Joan L. White</field>
 <field name="title">Guide to the sixth grade literature program</field>
 <field name="year">1961</field>
 <field name="date">1961</field>
@@ -709,8 +709,8 @@ Instructional Aids and Services Branch. Publication</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Rubinstein, Joseph</field><field name="author_nat">Joseph<space/>Rubinstein</field>
-<field name="author">Farley, Earl</field><field name="author_nat">Earl<space/>Farley</field>
+<field name="author">Rubinstein, Joseph</field><field name="author_nat">Joseph Rubinstein</field>
+<field name="author">Farley, Earl</field><field name="author_nat">Earl Farley</field>
 <field name="corp_author">University of Kansas Libraries</field>
 <field name="title">He who destroyes a good booke, kills reason it selfe : an exhibition of books
 which have survived fire, the sword and the censors</field>
@@ -1036,7 +1036,7 @@ school</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Streed, John</field><field name="author_nat">John<space/>Streed</field>
+<field name="author">Streed, John</field><field name="author_nat">John Streed</field>
 <field name="title">The river western: a background to ninth grade literature</field>
 <field name="year">1968</field>
 <field name="date">1968-1969</field>
@@ -1174,7 +1174,7 @@ Curriculum Department</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Donelson, Kenneth L.</field><field name="author_nat">Kenneth L.<space/>Donelson</field>
+<field name="author">Donelson, Kenneth L.</field><field name="author_nat">Kenneth L. Donelson</field>
 <field name="corp_author">National Council of Teachers of English</field>
 <field name="title">Books for you : a booklist for senior high students</field>
 <field name="year">1976</field>
@@ -1197,7 +1197,7 @@ the Senior High School Booklist of the National Council of Teachers of English. 
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Mountz, Louise Smith</field><field name="author_nat">Louise Smith<space/>Mountz</field>
+<field name="author">Mountz, Louise Smith</field><field name="author_nat">Louise Smith Mountz</field>
 <field name="title">Biographies for junior high; a list of biographies and correlated audio-visual
 aids</field>
 <field name="pages">52</field>
@@ -1215,8 +1215,8 @@ title.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Sprague, Audrey M.</field><field name="author_nat">Audrey M.<space/>Sprague</field>
-<field name="author">Merritt, John</field><field name="author_nat">John<space/>Merritt</field>
+<field name="author">Sprague, Audrey M.</field><field name="author_nat">Audrey M. Sprague</field>
+<field name="author">Merritt, John</field><field name="author_nat">John Merritt</field>
 <field name="corp_author">National Book League</field>
 <field name="title">Fiction for the slow reader : Help in reading, supplement 1: an annotated
 list</field>
@@ -1236,7 +1236,7 @@ selected by Audrey M. Sprague.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Stensland, Anna Lee</field><field name="author_nat">Anna Lee<space/>Stensland</field>
+<field name="author">Stensland, Anna Lee</field><field name="author_nat">Anna Lee Stensland</field>
 <field name="title">Literature by and about the American Indian; an annotated bibliography for
 junior and senior high school students</field>
 <field name="year">1973</field>
@@ -1255,7 +1255,7 @@ junior and senior high school students</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Dodds, Barbara</field><field name="author_nat">Barbara<space/>Dodds</field>
+<field name="author">Dodds, Barbara</field><field name="author_nat">Barbara Dodds</field>
 <field name="title">Negro literature for high school students</field>
 <field name="year">1968</field>
 <field name="date">1968</field>
@@ -1271,8 +1271,8 @@ junior and senior high school students</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Crosby, Muriel</field><field name="author_nat">Muriel<space/>Crosby</field>
-<field name="author">Hurley, Beatrice Davis</field><field name="author_nat">Beatrice Davis<space/>Hurley</field>
+<field name="author">Crosby, Muriel</field><field name="author_nat">Muriel Crosby</field>
+<field name="author">Hurley, Beatrice Davis</field><field name="author_nat">Beatrice Davis Hurley</field>
 <field name="title">Adventuring with books: a reading list for the elementary grades</field>
 <field name="year">1960</field>
 <field name="date">1960</field>
@@ -1287,7 +1287,7 @@ junior and senior high school students</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Root, Shelton L.</field><field name="author_nat">Shelton L.<space/>Root</field>
+<field name="author">Root, Shelton L.</field><field name="author_nat">Shelton L. Root</field>
 <field name="title">Adventuring with books: 2,400 titles for pre-K-grade 8</field>
 <field name="year">1973</field>
 <field name="date">1973</field>
@@ -1320,7 +1320,7 @@ schools</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Lightfoot, Jean H.</field><field name="author_nat">Jean H.<space/>Lightfoot</field>
+<field name="author">Lightfoot, Jean H.</field><field name="author_nat">Jean H. Lightfoot</field>
 <field name="title">Multi-ethnic literature in the high school : a mental health tool</field>
 <field name="year">1973</field>
 <field name="date">1973</field>
@@ -1346,7 +1346,7 @@ Mental Health</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Tyler, Priscilla</field><field name="author_nat">Priscilla<space/>Tyler</field>
+<field name="author">Tyler, Priscilla</field><field name="author_nat">Priscilla Tyler</field>
 <field name="corp_author">National Council of Teachers of English</field>
 <field name="title">Writers the other side of the horizon; a guide to developing literatures of the
 world</field>
@@ -1366,7 +1366,7 @@ references.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Foster, Florence P</field><field name="author_nat">Florence P<space/>Foster</field>
+<field name="author">Foster, Florence P</field><field name="author_nat">Florence P Foster</field>
 <field name="title">Literature and the young child</field>
 <field name="year">1967</field>
 <field name="date">03/1967</field>
@@ -1487,7 +1487,7 @@ Secondary Curriculum Development</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Abreu Gómez, Ermilo</field><field name="author_nat">Ermilo<space/>Abreu Gómez</field>
+<field name="author">Abreu Gómez, Ermilo</field><field name="author_nat">Ermilo Abreu Gómez</field>
 <field name="corp_author">Pan American Union. Division of Education</field>
 <field name="title">Poesías selectas</field>
 <field name="year">1955</field>
@@ -1507,7 +1507,7 @@ Panamericana</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Farrow, Vern L.</field><field name="author_nat">Vern L.<space/>Farrow</field>
+<field name="author">Farrow, Vern L.</field><field name="author_nat">Vern L. Farrow</field>
 <field name="corp_author">University of Oregon. School of Education</field>
 <field name="title">Bibliotherapy; an annotated bibliography</field>
 <field name="year">1963</field>
@@ -1527,7 +1527,7 @@ Panamericana</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Portteus, Elnora M.</field><field name="author_nat">Elnora M.<space/>Portteus</field>
+<field name="author">Portteus, Elnora M.</field><field name="author_nat">Elnora M. Portteus</field>
 <field name="corp_author">Kent State University. Department of Library Science</field>
 <field name="title">Awards in the field of children's books</field>
 <field name="year">1959</field>
@@ -1671,7 +1671,7 @@ Panamericana</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Harris, Leonard A.</field><field name="author_nat">Leonard A.<space/>Harris</field>
+<field name="author">Harris, Leonard A.</field><field name="author_nat">Leonard A. Harris</field>
 <field name="title">Literature grades 7 to 12: a curriculum guide for secondary literature</field>
 <field name="year">1959</field>
 <field name="date">1959</field>
@@ -1933,7 +1933,7 @@ teacher's guide</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Eaton, Florence I.</field><field name="author_nat">Florence I.<space/>Eaton</field>
+<field name="author">Eaton, Florence I.</field><field name="author_nat">Florence I. Eaton</field>
 <field name="corp_author">San Diego (California) City Schools</field>
 <field name="title">A guide for teaching English literature 1-2 : (including references from world
 literature)</field>
@@ -2011,7 +2011,7 @@ story, novel, biography</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Loban, Walter</field><field name="author_nat">Walter<space/>Loban</field>
+<field name="author">Loban, Walter</field><field name="author_nat">Walter Loban</field>
 <field name="title">Books for the junior high school literature program</field>
 <field name="year">1964</field>
 <field name="date">10/1964</field>
@@ -2026,8 +2026,8 @@ story, novel, biography</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Lane, Kenneth</field><field name="author_nat">Kenneth<space/>Lane</field>
-<field name="author">Ruth, Leo</field><field name="author_nat">Leo<space/>Ruth</field>
+<field name="author">Lane, Kenneth</field><field name="author_nat">Kenneth Lane</field>
+<field name="author">Ruth, Leo</field><field name="author_nat">Leo Ruth</field>
 <field name="title">A checklist of paperback books for young readers in grades 7-9</field>
 <field name="year">1965</field>
 <field name="date">11/1965</field>
@@ -2062,7 +2062,7 @@ pocket.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Wier, John Rex</field><field name="author_nat">John Rex<space/>Wier</field>
+<field name="author">Wier, John Rex</field><field name="author_nat">John Rex Wier</field>
 <field name="title">Bibliography and guide to poetry interpretation</field>
 <field name="year">1966</field>
 <field name="date">10/1966</field>

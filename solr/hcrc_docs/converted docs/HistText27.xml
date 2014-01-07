@@ -21,7 +21,7 @@ the Dept. of Instructional Services, Division of Education.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Kersey, Vierling</field><field name="author_nat">Vierling<space/>Kersey</field>
+<field name="author">Kersey, Vierling</field><field name="author_nat">Vierling Kersey</field>
 <field name="title">Young poets in wartime : a book of student verse </field>
 <field name="year">1944</field>
 <field name="date">1944</field>
@@ -80,7 +80,7 @@ series)</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Kinnick, B. Jo</field><field name="author_nat">B. Jo<space/>Kinnick</field>
+<field name="author">Kinnick, B. Jo</field><field name="author_nat">B. Jo Kinnick</field>
 <field name="corp_author">National Council of Teachers of English. Committee on Literary
 Magazines</field>
 <field name="title">The school literary magazine</field>
@@ -161,7 +161,7 @@ Teachers of English.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Trillingham, C. C.</field><field name="author_nat">C. C.<space/>Trillingham</field>
+<field name="author">Trillingham, C. C.</field><field name="author_nat">C. C. Trillingham</field>
 <field name="corp_author">Los Angeles County (California) Schools</field>
 <field name="title">Children's writing: a collection from the pens of boys and girls in Los Angeles
 County</field>
@@ -249,7 +249,7 @@ in the elementary grades of the San Diego City Schools."</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Witter, Janet</field><field name="author_nat">Janet<space/>Witter</field>
+<field name="author">Witter, Janet</field><field name="author_nat">Janet Witter</field>
 <field name="title">Writing is the funnest thing : teaching creative writing</field>
 <field name="year">1973</field>
 <field name="date">08/1973</field>
@@ -297,7 +297,7 @@ Don Emberlin. </field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Buchanan, William</field><field name="author_nat">William<space/>Buchanan</field>
+<field name="author">Buchanan, William</field><field name="author_nat">William Buchanan</field>
 <field name="title">Handbook for the mimeographed high school newspaper</field>
 <field name="year">1950</field>
 <field name="date">1950</field>
@@ -574,7 +574,7 @@ Instructional Planning Branch</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Martin, Dick</field><field name="author_nat">Dick<space/>Martin</field>
+<field name="author">Martin, Dick</field><field name="author_nat">Dick Martin</field>
 <field name="title">A profile of the Oregon high school publications adviser</field>
 <field name="year">1963</field>
 <field name="date">01/1963</field>
@@ -591,8 +591,8 @@ Instructional Planning Branch</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Edgar, Patricia</field><field name="author_nat">Patricia<space/>Edgar</field>
-<field name="author">Jacobsen, Robert</field><field name="author_nat">Robert<space/>Jacobsen</field>
+<field name="author">Edgar, Patricia</field><field name="author_nat">Patricia Edgar</field>
+<field name="author">Jacobsen, Robert</field><field name="author_nat">Robert Jacobsen</field>
 <field name="title">School newspapers - a guide</field>
 <field name="year">1962</field>
 <field name="date">11/1962</field>
@@ -654,7 +654,7 @@ references.; Responsibility: prepared by J. William Rieker.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Foss, Geneva E.</field><field name="author_nat">Geneva E.<space/>Foss</field>
+<field name="author">Foss, Geneva E.</field><field name="author_nat">Geneva E. Foss</field>
 <field name="title">Your friend--the press</field>
 <field name="year">1959</field>
 <field name="date">1959</field>
@@ -669,7 +669,7 @@ references.; Responsibility: prepared by J. William Rieker.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Holiday, Lanita</field><field name="author_nat">Lanita<space/>Holiday</field>
+<field name="author">Holiday, Lanita</field><field name="author_nat">Lanita Holiday</field>
 <field name="title">Do you have the 'knows' for news</field>
 <field name="year">1957</field>
 <field name="date">Autumn, 1957</field>
@@ -684,7 +684,7 @@ references.; Responsibility: prepared by J. William Rieker.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Scott, Alan</field><field name="author_nat">Alan<space/>Scott</field>
+<field name="author">Scott, Alan</field><field name="author_nat">Alan Scott</field>
 <field name="title">Secondary school journalism; current practices and trends in Texas high
 schools</field>
 <field name="year">1955</field>
@@ -723,7 +723,7 @@ journalism</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Freeman, Don L.</field><field name="author_nat">Don L.<space/>Freeman</field>
+<field name="author">Freeman, Don L.</field><field name="author_nat">Don L. Freeman</field>
 <field name="corp_author">Sweetwater Union High School District (Chula Vista, California)</field>
 <field name="title">Course notes and suggestions for junior high school journalism 8 and journalism
 9</field>
