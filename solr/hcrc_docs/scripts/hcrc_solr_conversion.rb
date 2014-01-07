@@ -1,6 +1,6 @@
 # Change File Names
 print "Which file? "
-filename = gets.chomp
+filename = gets.chomp + '.txt'
 new_file = filename + '.new'
 
 
