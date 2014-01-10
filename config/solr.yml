@@ -12,7 +12,7 @@
 
 development:
   url: http://sul-solr.stanford.edu/solr/dig_hcrc_test
-test: 
+staging: 
   url: http://sul-solr.stanford.edu/solr/dig_hcrc_test
 production:
   url: http://sul-solr.stanford.edu/solr/dig_hcrc_prod
