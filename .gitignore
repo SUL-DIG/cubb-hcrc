@@ -17,4 +17,5 @@
 # Added Ignores
 /config/database.yml
 .DS_Store
+/config/solr.yml
 
