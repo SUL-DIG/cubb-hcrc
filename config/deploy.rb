@@ -1,7 +1,7 @@
 # config valid only for Capistrano 3.1
 lock '3.1.0'
 
-set :application, 'cubb-hcrc-cap3'
+set :application, 'cubb-hcrc'
 set :repo_url, 'https://github.com/SUL-DIG/cubb-hcrc.git'
 
 # Default branch is :master
@@ -9,7 +9,7 @@ set :repo_url, 'https://github.com/SUL-DIG/cubb-hcrc.git'
 set :branch, 'efahy_deploy'
 
 # Default deploy_to directory is /var/www/my_app
-set :deploy_to, '/home/blacklight/dig/public/cubb-hcrc-cap3'
+set :deploy_to, '/home/blacklight/dig/public/cubb-hcrc'
 
 # Default value for :scm is :git
 # set :scm, :git
