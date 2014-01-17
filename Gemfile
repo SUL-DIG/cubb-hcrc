@@ -47,7 +47,7 @@ gem "bootstrap-sass"
 gem 'blacklight_range_limit', :git => 'https://github.com/projectblacklight/blacklight_range_limit.git'
 
 # gems necessary for capistrano deployment
-group :development,:deployment do
+group :development,:deploy do
   gem 'capistrano', '~> 3.0'
   gem 'capistrano-rails'
   gem 'capistrano-bundler'

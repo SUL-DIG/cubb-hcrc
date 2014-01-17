@@ -27,7 +27,7 @@ set :deploy_to, '/home/blacklight/dig/public/cubb-hcrc-cap3'
 set :linked_files, %w{config/database.yml config/solr.yml config/initializers/devise.rb}
 
 # Default value for linked_dirs is []
-set :linked_dirs, %w{log tmp tmp}
+set :linked_dirs, %w{log tmp}
 
 # Default value for default_env is {}
 # set :default_env, { path: "/opt/ruby/bin:$PATH" }
@@ -61,4 +61,3 @@ namespace :deploy do
 end
 
 after "deploy", "deploy:migrate"
-after "deploy:update", "deploy:cleanup"
