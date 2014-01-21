@@ -6,7 +6,6 @@ set :repo_url, 'https://github.com/SUL-DIG/cubb-hcrc.git'
 
 # Default branch is :master
 # ask :branch, proc { `git rev-parse --abbrev-ref HEAD`.chomp }
-set :branch, 'efahy_deploy'
 
 # Default deploy_to directory is /var/www/my_app
 set :deploy_to, '/home/blacklight/dig/public/cubb-hcrc'
@@ -35,7 +34,7 @@ set :linked_dirs, %w{log tmp}
 # Default value for keep_releases is 5
 # set :keep_releases, 5
 
-set :stages, %W(staging)
+set :stages, %W(staging production)
 
 namespace :deploy do
 
