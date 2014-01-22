@@ -1,0 +1,1005 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Palo Alto (California) Unified School District</field>
+<field name="title">Elementary science -- kindergarten</field>
+<field name="year">1959</field>
+<field name="date">07/1959</field>
+<field name="pages">31</field>
+<field name="keywords">Science</field>
+<field name="publisher">Palo Alto (California) Unified School District</field>
+<field name="pub_place">Palo Alto, CA</field>
+<field name="language">English</field>
+<field name="call_number">519 .P179e v. 1</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">Kindergarten </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Palo Alto (California) Unified School District</field>
+<field name="title">Elementary science -- 1st grade</field>
+<field name="year">1959</field>
+<field name="date">07/1959</field>
+<field name="keywords">Science</field>
+<field name="notes">1 v. (various pagings)</field>
+<field name="publisher">Palo Alto (California) Unified School District</field>
+<field name="pub_place">Palo Alto, CA</field>
+<field name="language">English</field>
+<field name="call_number">519 .P179e v. 2</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">1st grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Palo Alto (California) Unified School District</field>
+<field name="title">Elementary science -- 1st grade</field>
+<field name="year">1962</field>
+<field name="date">Summer, 1962</field>
+<field name="keywords">Science</field>
+<field name="notes">1 v. (various pagings)</field>
+<field name="edition">Revised</field>
+<field name="publisher">Palo Alto (California) Unified School District</field>
+<field name="pub_place">Palo Alto, CA</field>
+<field name="language">English</field>
+<field name="call_number">519 .P179e 1962 v. 2</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">1st grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Palo Alto (California) Unified School District</field>
+<field name="title">Elementary science -- 2nd grade</field>
+<field name="year">1959</field>
+<field name="date">07/1959</field>
+<field name="keywords">Science</field>
+<field name="notes">1 v. (various pagings)</field>
+<field name="publisher">Palo Alto (California) Unified School District</field>
+<field name="pub_place">Palo Alto, CA</field>
+<field name="language">English</field>
+<field name="call_number">519 .P179e v. 3</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">2nd grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Palo Alto (California) Unified School District</field>
+<field name="title">Elementary science -- 2nd-3rd combination grade</field>
+<field name="year">1959</field>
+<field name="date">07/1959</field>
+<field name="keywords">Science</field>
+<field name="notes">1 v. (various pagings)</field>
+<field name="publisher">Palo Alto (California) Unified School District</field>
+<field name="pub_place">Palo Alto, CA</field>
+<field name="language">English</field>
+<field name="call_number">519 .P179e v. 4</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Palo Alto (California) Unified School District</field>
+<field name="title">Elementary science -- 3rd grade</field>
+<field name="year">1959</field>
+<field name="date">07/1959</field>
+<field name="keywords">Science</field>
+<field name="notes">1 v. (various pagings)</field>
+<field name="publisher">Palo Alto (California) Unified School District</field>
+<field name="pub_place">Palo Alto, CA</field>
+<field name="language">English</field>
+<field name="call_number">519 .P179e v. 5</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">3rd grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Palo Alto (California) Unified School District</field>
+<field name="title">Elementary science -- 4th grade</field>
+<field name="year">1959</field>
+<field name="date">07/1959</field>
+<field name="keywords">Science</field>
+<field name="notes">1 v. (various pagings)</field>
+<field name="publisher">Palo Alto (California) Unified School District</field>
+<field name="pub_place">Palo Alto, CA</field>
+<field name="language">English</field>
+<field name="call_number">519 .P179e v. 6</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">4th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Palo Alto (California) Unified School District</field>
+<field name="title">Elementary science -- 5th grade</field>
+<field name="year">1959</field>
+<field name="date">07/1959</field>
+<field name="keywords">Science</field>
+<field name="notes">1 v. (various pagings)</field>
+<field name="publisher">Palo Alto (California) Unified School District</field>
+<field name="pub_place">Palo Alto, CA</field>
+<field name="language">English</field>
+<field name="call_number">519 .P179e v. 7</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">5th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Palo Alto (California) Unified School District</field>
+<field name="title">Elementary science -- 5th-6th combination grade</field>
+<field name="year">1959</field>
+<field name="date">07/1959</field>
+<field name="keywords">Science</field>
+<field name="notes">1 v. (various pagings)</field>
+<field name="publisher">Palo Alto (California) Unified School District</field>
+<field name="pub_place">Palo Alto, CA</field>
+<field name="language">English</field>
+<field name="call_number">519 .P179e v. 8</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Palo Alto (California) Unified School District</field>
+<field name="title">Elementary science -- 6th grade</field>
+<field name="year">1959</field>
+<field name="date">07/1959</field>
+<field name="keywords">Science</field>
+<field name="notes">1 v. (various pagings)</field>
+<field name="publisher">Palo Alto (California) Unified School District</field>
+<field name="pub_place">Palo Alto, CA</field>
+<field name="language">English</field>
+<field name="call_number">519 .P179e v. 9</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">6th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Palo Alto (California) Unified School District</field>
+<field name="title">Guide for 7th grade science</field>
+<field name="year">1960</field>
+<field name="date">07/1960</field>
+<field name="pages">172</field>
+<field name="keywords">Science</field>
+<field name="publisher">Palo Alto (California) Unified School District</field>
+<field name="pub_place">Palo Alto, CA</field>
+<field name="language">English</field>
+<field name="call_number">519 .P179g</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">7th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Paramount (California) Unified School District</field>
+<field name="title">Living things: a curriculum guide in science: kindergarten through grade
+six</field>
+<field name="year">1959</field>
+<field name="date">1959</field>
+<field name="pages">109</field>
+<field name="keywords">Science</field>
+<field name="series_title">Paramount (California) Unified School District. Publication</field>
+<field name="series_vol">113</field>
+<field name="publisher">Paramount (California) Unified School District</field>
+<field name="pub_place">Paramount, CA</field>
+<field name="language">English</field>
+<field name="call_number">519 .P22c v. 2</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">Kindergarten</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Pasadena (California) City Schools</field>
+<field name="title">Elementary science list</field>
+<field name="year">1953</field>
+<field name="date">09/1953</field>
+<field name="pages">48</field>
+<field name="keywords">Science</field>
+<field name="publisher">Pasadena (California) City Schools</field>
+<field name="pub_place">Pasadena, CA</field>
+<field name="language">English</field>
+<field name="call_number">519 .P27e</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Pasadena (California) City Schools</field>
+<field name="title">Physical science materials</field>
+<field name="year">1953</field>
+<field name="date">09/1953</field>
+<field name="pages">77</field>
+<field name="keywords">Science</field>
+<field name="publisher">Pasadena (California) City Schools</field>
+<field name="pub_place">Pasadena, CA</field>
+<field name="language">English</field>
+<field name="call_number">519 .P27p</field>
+<field name="state_country">California </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Commonwealth of Pennsylvania Department of Public Instruction</field>
+<field name="corp_author">WQED Metropolitan Pittsburgh Educational TV Station</field>
+<field name="title">Exploring with science: television series in elementary science</field>
+<field name="year">1962</field>
+<field name="date">1962-1963</field>
+<field name="pages">87</field>
+<field name="keywords">Science</field>
+<field name="publisher">Commonwealth of Pennsylvania Department of Public Instruction</field>
+<field name="pub_place">Harrisburg, PA</field>
+<field name="language">English</field>
+<field name="call_number">519 .P41e</field>
+<field name="state_country">Pennsylvania</field>
+<field name="grade_level_group">Elementary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Commonwealth of Pennsylvania Department of Public Instruction</field>
+<field name="title">Primary concepts in science: produced for grades 3 and 4</field>
+<field name="year">1961</field>
+<field name="date">1961-1962</field>
+<field name="pages">38</field>
+<field name="keywords">Science</field>
+<field name="abstract">Our senses -- Insects -- Air -- How do we hear? -- Sound -- How do we see? --
+Seeing the unseen -- Seeing the large and distant -- The earth's crust -- Weight and gravity -- Lift
+: heavier than air craft -- Thrust and propulsion -- Inclined planes -- Friction and motion -- How
+does the scientist work?</field>
+<field name="notes">38 leaves : illustrations ; 28 cm.; Note(s): Cover title.; Responsibility: Dept.
+of Public Instruction, Commonwealth of Penna.</field>
+<field name="publisher">Commonwealth of Pennsylvania Department of Public Instruction</field>
+<field name="pub_place">Harrisburg, PA</field>
+<field name="language">English</field>
+<field name="call_number">519 .P41p</field>
+<field name="state_country">Pennsylvania</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Pennsylvania Bureau of General and Academic Education</field>
+<field name="title">Science for the seventies : Pennsylvania's guide for elementary science</field>
+<field name="year">1970</field>
+<field name="date">1970</field>
+<field name="pages">51</field>
+<field name="keywords">Science</field>
+<field name="notes">vi; ; 28 cm.; Note(s): Pa. State Docs. class. no. PE 84.2:S416.; Other Titles:
+Pennsylvania's guide for elementary science; Responsibility: Bureau of General and Academic
+Education, Pennsylvania Department of Education.</field>
+<field name="publisher">Pennsylvania State Department of Education</field>
+<field name="pub_place">Harrisburg, PA</field>
+<field name="language">English</field>
+<field name="call_number">519 .P41s</field>
+<field name="state_country">Pennsylvania</field>
+<field name="grade_level_group">Elementary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Commonwealth of Pennsylvania Department of Public Instruction</field>
+<field name="title">Teaching guide for the earth and space science course</field>
+<field name="year">1959</field>
+<field name="date">09/1959</field>
+<field name="pages">103</field>
+<field name="keywords">Science</field>
+<field name="publisher">Commonwealth of Pennsylvania Department of Public Instruction</field>
+<field name="pub_place">Harrisburg, PA</field>
+<field name="language">English</field>
+<field name="call_number">519 .P41t</field>
+<field name="state_country">Pennsylvania </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Philadelphia (Pennsylvania) Public Schools</field>
+<field name="title">Elementary science: scope and sequence charts</field>
+<field name="year">1962</field>
+<field name="date">1962</field>
+<field name="keywords">Science</field>
+<field name="publisher">Philadelphia (Pennsylvania) Schools</field>
+<field name="pub_place">Philadelphia, PA</field>
+<field name="language">English</field>
+<field name="call_number">519 .P54e</field>
+<field name="state_country">Pennsylvania</field>
+<field name="grade_level_group">Elementary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Philadelphia (Pennsylvania) Public Schools</field>
+<field name="title">General science: grades 7 and 8</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="pages">109</field>
+<field name="keywords">Science</field>
+<field name="publisher">Philadelphia (Pennsylvania) Schools</field>
+<field name="pub_place">Philadelphia, PA</field>
+<field name="language">English</field>
+<field name="call_number">519 .P54g</field>
+<field name="state_country">Pennsylvania</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Philadelphia (Pennsylvania) Public Schools</field>
+<field name="title">Elementary science: primary unit</field>
+<field name="year">1964</field>
+<field name="date">1964</field>
+<field name="pages">194</field>
+<field name="keywords">Science</field>
+<field name="publisher">Philadelphia (Pennsylvania) Schools</field>
+<field name="pub_place">Philadelphia, PA</field>
+<field name="language">English</field>
+<field name="call_number">519 .P54sc 1964-66 v. 1</field>
+<field name="state_country">Pennsylvania</field>
+<field name="grade_level_group">Elementary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Philadelphia (Pennsylvania) Public Schools</field>
+<field name="title">Elementary science: intermediate grades</field>
+<field name="year">1966</field>
+<field name="date">1966</field>
+<field name="pages">295</field>
+<field name="keywords">Science</field>
+<field name="publisher">Philadelphia (Pennsylvania) Schools</field>
+<field name="pub_place">Philadelphia, PA</field>
+<field name="language">English</field>
+<field name="call_number">519 .P54sc 1964-66 v. 2</field>
+<field name="state_country">Pennsylvania</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Physical Science Study Committee</field>
+<field name="title">Teacher's guide to the PSSC films</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="keywords">Physics</field>
+<field name="keywords">Audio-visual materials</field>
+<field name="notes">1v : ill. ; 28 cm.</field>
+<field name="publisher">Educational Services Incorporated</field>
+<field name="pub_place">Watertown, MA</field>
+<field name="language">English</field>
+<field name="call_number">519 .P58t </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Plumas (California) Unified School District</field>
+<field name="title">Science: teacher's guide and course of study for grades k-vi</field>
+<field name="year">1959</field>
+<field name="date">1959</field>
+<field name="pages">304</field>
+<field name="keywords">Science</field>
+<field name="publisher">Plumas (California) Unified School District</field>
+<field name="pub_place">Quincy, CA</field>
+<field name="language">English</field>
+<field name="call_number">519 .P73s</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">Kindergarten</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Pomona (California) Schools</field>
+<field name="title">Science meeting - Nov. 28 1950</field>
+<field name="year">1950</field>
+<field name="date">11/1950</field>
+<field name="keywords">Science</field>
+<field name="publisher">Pomona (California) Schools</field>
+<field name="pub_place">Pomona, CA</field>
+<field name="language">English</field>
+<field name="call_number">519 .P78s</field>
+<field name="state_country">California </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Preston, Ralph Clausius</field><field name="author_nat">Ralph Clausius  Preston</field>
+<field name="title">Science : an approach in the elementary school</field>
+<field name="year">1945</field>
+<field name="date">1945</field>
+<field name="pages">39</field>
+<field name="keywords">Science </field>
+<field name="notes">ill. cm.; Note(s): At head of title: School district of Philadelphia./ "Readings
+in science for the elementary school teacher": p. 36-39.</field>
+<field name="publisher">Philadelphia (Pennsylvania) Public Schools</field>
+<field name="pub_place">Philadelphia, PA</field>
+<field name="language">English</field>
+<field name="call_number">519 .P54s</field>
+<field name="state_country">Philadelphia</field>
+<field name="grade_level_group">Elementary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Port Arthur (Texas) Public Schools</field>
+<field name="title">Physical science, ninth grade; a curriculum guide for teachers</field>
+<field name="year">1961</field>
+<field name="date">1961</field>
+<field name="pages">198</field>
+<field name="keywords">Physics</field>
+<field name="keywords">Chemistry</field>
+<field name="keywords">Science</field>
+<field name="publisher">Port Arthur (Texas) Public Schools</field>
+<field name="pub_place">Port Arthur, TX</field>
+<field name="language">English</field>
+<field name="call_number">519 .P83p</field>
+<field name="grade_level_number">9th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Pontiac (Michigan) Board of Education</field>
+<field name="title">Elementary science: a course of study for kindergarten, grades one, two,
+three</field>
+<field name="year">1955</field>
+<field name="date">1955</field>
+<field name="pages">369</field>
+<field name="keywords">Science</field>
+<field name="publisher">Pontiac (Michigan) Board of Education</field>
+<field name="pub_place">Pontiac, MI</field>
+<field name="language">English</field>
+<field name="call_number">519 .P81s v. 1</field>
+<field name="state_country">Michigan</field>
+<field name="grade_level_number">Kindergarten</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Pontiac (Michigan) Board of Education</field>
+<field name="title">Elementary science: a course of study for grades four, five, and six</field>
+<field name="year">1955</field>
+<field name="date">1955</field>
+<field name="keywords">Science</field>
+<field name="publisher">Pontiac (Michigan) Board of Education</field>
+<field name="pub_place">Pontiac, MI</field>
+<field name="language">English</field>
+<field name="call_number">519 .P81s v. 2</field>
+<field name="state_country">Michigan</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Pontiac (Michigan) Board of Education</field>
+<field name="title">Science: a course of study for grades 7, 8, 9</field>
+<field name="year">1957</field>
+<field name="date">1957</field>
+<field name="keywords">Science</field>
+<field name="notes">1 v. (various pagings)</field>
+<field name="publisher">Pontiac (Michigan) Board of Education</field>
+<field name="pub_place">Pontiac, MI</field>
+<field name="language">English</field>
+<field name="call_number">519 .P81s v. 3</field>
+<field name="state_country">Michigan</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Portland (Oregon) Public Schools</field>
+<field name="title">Applied science</field>
+<field name="year">1961</field>
+<field name="date">Spring, 1961</field>
+<field name="keywords">Science</field>
+<field name="notes">1 v. (various pagings)</field>
+<field name="publisher">Portland (Oregon) Public Schools</field>
+<field name="pub_place">Portland, OR</field>
+<field name="language">English</field>
+<field name="call_number">519 .P85a</field>
+<field name="state_country">Oregon </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Portland (Oregon) Public Schools</field>
+<field name="title">Science classes for exceptionally endowed students in the high schools of
+Portland, Oregon</field>
+<field name="year">1957</field>
+<field name="date">11/1957</field>
+<field name="pages">40</field>
+<field name="keywords">Science</field>
+<field name="publisher">Portland (Oregon) Public Schools</field>
+<field name="pub_place">Portland, OR</field>
+<field name="language">English</field>
+<field name="call_number">519 .P85se</field>
+<field name="state_country">Oregon</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Portland (Oregon) Public Schools</field>
+<field name="title">Science vocabulary at the ninth grade level (a guide for elementary and
+secondary teachers)</field>
+<field name="year">1951</field>
+<field name="date">1951</field>
+<field name="keywords">Science</field>
+<field name="publisher">Portland (Oregon) Public Schools</field>
+<field name="pub_place">Portland, OR</field>
+<field name="language">English</field>
+<field name="call_number">519 .P85sv</field>
+<field name="state_country">Oregon</field>
+<field name="grade_level_number">9th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Portsmouth (Virginia) Public Schools</field>
+<field name="title">Science in elementary grades</field>
+<field name="year">1960</field>
+<field name="date">09/1960</field>
+<field name="pages">108</field>
+<field name="keywords">Science</field>
+<field name="publisher">Portsmouth (Virginia) Public Schools</field>
+<field name="pub_place">Portsmouth, VA</field>
+<field name="language">English</field>
+<field name="call_number">519 .P86s v. 1</field>
+<field name="state_country">Virginia</field>
+<field name="grade_level_group">Elementary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Portsmouth (Virginia) Public Schools</field>
+<field name="title">Science in the junior high school</field>
+<field name="pages">191</field>
+<field name="keywords">Science</field>
+<field name="publisher">Portsmouth (Virginia) Public Schools</field>
+<field name="pub_place">Portsmouth, VA</field>
+<field name="language">English</field>
+<field name="call_number">519 .P86s v. 2</field>
+<field name="state_country">Virginia</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Raleigh (North Carolina) Public Schools</field>
+<field name="title">Science in the elementary school, grades 1-6, a guide for teachers</field>
+<field name="keywords">Science</field>
+<field name="notes">1 v. (various pagings)</field>
+<field name="publisher">Raleigh (North Carolina) Public Schools</field>
+<field name="pub_place">Raleigh, NC</field>
+<field name="language">English</field>
+<field name="call_number">519 .R16s</field>
+<field name="state_country">North Carolina</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Ramapo (New York) Central School District No. 2</field>
+<field name="title">Elementary science guide for the classroom teacher : plants and animals</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="pages">151</field>
+<field name="keywords">Science</field>
+<field name="notes">151 p. ; 28 cm.; Other Titles: Plants and animals; Responsibility: Ramapo
+Central School District No. 2.</field>
+<field name="publisher">Ramapo (New York) Central School District No. 2</field>
+<field name="pub_place">Spring Valley, NY</field>
+<field name="language">English</field>
+<field name="call_number">519 .R17p</field>
+<field name="state_country">New York</field>
+<field name="grade_level_group">Elementary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Ramapo (New York) Central School District No. 2</field>
+<field name="title">A tentative course of study: science, grade 7</field>
+<field name="year">1964</field>
+<field name="date">1964</field>
+<field name="pages">43</field>
+<field name="keywords">Science</field>
+<field name="publisher">Ramapo (New York) Central School District No. 2</field>
+<field name="pub_place">Spring Valley, NY</field>
+<field name="language">English</field>
+<field name="call_number">519 .R17t v. 1</field>
+<field name="state_country">New York</field>
+<field name="grade_level_number">7th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Ramapo (New York) Central School District No. 2</field>
+<field name="title">Teaching science and reading simultaneously: seventh grade science</field>
+<field name="year">1964</field>
+<field name="date">1964</field>
+<field name="pages">29</field>
+<field name="keywords">Science</field>
+<field name="publisher">Ramapo (New York) Central School District No. 2</field>
+<field name="pub_place">Spring Valley, NY</field>
+<field name="language">English</field>
+<field name="call_number">519 .R17t v. 2</field>
+<field name="state_country">New York</field>
+<field name="grade_level_number">7th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Riverside County (California) Schools</field>
+<field name="title">Science guide for the elementary schools of Riverside County, volume ii: grades
+4-6</field>
+<field name="year">1961</field>
+<field name="date">1961</field>
+<field name="pages">186</field>
+<field name="keywords">Science</field>
+<field name="notes">viii; ill. 28 cm.</field>
+<field name="publisher">Riverside (California) County Schools</field>
+<field name="pub_place">Riverside, CA</field>
+<field name="language">English</field>
+<field name="call_number">519 .R62s v. 2</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Gentry, Adrian N.</field><field name="author_nat">Adrian N. Gentry</field>
+<field name="corp_author">Riverside (California) County Schools</field>
+<field name="title">Planning a continuous science program for all junior high school youth:
+guidelines for designing and implementing contemporary science curricula for grades 7-9</field>
+<field name="year">1967</field>
+<field name="date">1967</field>
+<field name="pages">155</field>
+<field name="keywords">Science</field>
+<field name="keywords">Curricula</field>
+<field name="edition">Revised preliminary</field>
+<field name="notes">Prepared under an NDEA contract with the California State Department of
+Education by the Office of Riverside County Superintendent of Schools with the assistance of the
+Council of California Science Teacher Organizations</field>
+<field name="publisher">Riverside (California) County Schools</field>
+<field name="pub_place">Riverside, CA</field>
+<field name="language">English</field>
+<field name="call_number">519 .R62s v. 3</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Rock Island (Illinois) Public Schools</field>
+<field name="title">Kindergarten science guide</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="pages">20</field>
+<field name="keywords">Science</field>
+<field name="publisher">Rock Island (Illinois) Public Schools</field>
+<field name="pub_place">Rock Island, IL</field>
+<field name="language">English</field>
+<field name="call_number">519 .R68k</field>
+<field name="state_country">Illinois</field>
+<field name="grade_level_number">Kindergarten </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Schwartz, Warren</field><field name="author_nat">Warren Schwartz</field>
+<field name="author">Crain, Roy E.</field><field name="author_nat">Roy E. Crain</field>
+<field name="corp_author">Roseburg (Oregon) Public Schools</field>
+<field name="title">Science scope &amp;sequence, grade 1</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="keywords">Science</field>
+<field name="notes">1 v. (various pagings)</field>
+<field name="edition">Revised</field>
+<field name="publisher">Roseburg (Oregon) Public Schools</field>
+<field name="pub_place">Roseburg, OR</field>
+<field name="language">English</field>
+<field name="call_number">519 .R81s v. 1</field>
+<field name="state_country">Oregon</field>
+<field name="grade_level_number">1st grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Schwartz, Warren</field><field name="author_nat">Warren Schwartz</field>
+<field name="author">Crain, Roy E.</field><field name="author_nat">Roy E. Crain</field>
+<field name="corp_author">Roseburg (Oregon) Public Schools</field>
+<field name="title">Science scope &amp;sequence, grade 2</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="keywords">Science</field>
+<field name="notes">1 v. (various pagings)</field>
+<field name="edition">Revised</field>
+<field name="publisher">Roseburg (Oregon) Public Schools</field>
+<field name="pub_place">Roseburg, OR</field>
+<field name="language">English</field>
+<field name="call_number">519 .R81s v. 2</field>
+<field name="state_country">Oregon</field>
+<field name="grade_level_number">2nd grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Schwartz, Warren</field><field name="author_nat">Warren Schwartz</field>
+<field name="author">Crain, Roy E.</field><field name="author_nat">Roy E. Crain</field>
+<field name="corp_author">Roseburg (Oregon) Public Schools</field>
+<field name="title">Science scope &amp;sequence, grade 3</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="keywords">Science</field>
+<field name="notes">1 v. (various pagings)</field>
+<field name="edition">Revised</field>
+<field name="publisher">Roseburg (Oregon) Public Schools</field>
+<field name="pub_place">Roseburg, OR</field>
+<field name="language">English</field>
+<field name="call_number">519 .R81s v. 3</field>
+<field name="state_country">Oregon</field>
+<field name="grade_level_number">3rd grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Schwartz, Warren</field><field name="author_nat">Warren Schwartz</field>
+<field name="author">Crain, Roy E.</field><field name="author_nat">Roy E. Crain</field>
+<field name="corp_author">Roseburg (Oregon) Public Schools</field>
+<field name="title">Science scope &amp;sequence, grade 4</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="keywords">Science</field>
+<field name="notes">1 v. (various pagings)</field>
+<field name="edition">Revised</field>
+<field name="publisher">Roseburg (Oregon) Public Schools</field>
+<field name="pub_place">Roseburg, OR</field>
+<field name="language">English</field>
+<field name="call_number">519 .R81s v. 4</field>
+<field name="state_country">Oregon</field>
+<field name="grade_level_number">4th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Schwartz, Warren</field><field name="author_nat">Warren Schwartz</field>
+<field name="author">Crain, Roy E.</field><field name="author_nat">Roy E. Crain</field>
+<field name="corp_author">Roseburg (Oregon) Public Schools</field>
+<field name="title">Science scope &amp;sequence, grade 5</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="keywords">Science</field>
+<field name="notes">1 v. (various pagings)</field>
+<field name="edition">Revised</field>
+<field name="publisher">Roseburg (Oregon) Public Schools</field>
+<field name="pub_place">Roseburg, OR</field>
+<field name="language">English</field>
+<field name="call_number">519 .R81s v. 5</field>
+<field name="state_country">Oregon</field>
+<field name="grade_level_number">5th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Schwartz, Warren</field><field name="author_nat">Warren Schwartz</field>
+<field name="author">Crain, Roy E.</field><field name="author_nat">Roy E. Crain</field>
+<field name="corp_author">Roseburg (Oregon) Public Schools</field>
+<field name="title">Science scope &amp;sequence, grade 6</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="keywords">Science</field>
+<field name="notes">1 v. (various pagings)</field>
+<field name="edition">Revised</field>
+<field name="publisher">Roseburg (Oregon) Public Schools</field>
+<field name="pub_place">Roseburg, OR</field>
+<field name="language">English</field>
+<field name="call_number">519 .R81s v. 6</field>
+<field name="state_country">Oregon</field>
+<field name="grade_level_number">6th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Schwartz, Warren</field><field name="author_nat">Warren Schwartz</field>
+<field name="author">Crain, Roy E.</field><field name="author_nat">Roy E. Crain</field>
+<field name="corp_author">Roseburg (Oregon) Public Schools</field>
+<field name="title">Science scope &amp;sequence, grade 7</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="keywords">Science</field>
+<field name="notes">1 v. (various pagings)</field>
+<field name="edition">Revised</field>
+<field name="publisher">Roseburg (Oregon) Public Schools</field>
+<field name="pub_place">Roseburg, OR</field>
+<field name="language">English</field>
+<field name="call_number">519 .R81s v. 7</field>
+<field name="state_country">Oregon</field>
+<field name="grade_level_number">7th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Schwartz, Warren</field><field name="author_nat">Warren Schwartz</field>
+<field name="author">Crain, Roy E.</field><field name="author_nat">Roy E. Crain</field>
+<field name="corp_author">Roseburg (Oregon) Public Schools</field>
+<field name="title">Science scope &amp;sequence, grade 8</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="keywords">Science</field>
+<field name="notes">1 v. (various pagings)</field>
+<field name="edition">Revised</field>
+<field name="publisher">Roseburg (Oregon) Public Schools</field>
+<field name="pub_place">Roseburg, OR</field>
+<field name="language">English</field>
+<field name="call_number">519 .R81s v. 8</field>
+<field name="state_country">Oregon</field>
+<field name="grade_level_number">8th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Schwartz, Warren</field><field name="author_nat">Warren Schwartz</field>
+<field name="author">Crain, Roy E.</field><field name="author_nat">Roy E. Crain</field>
+<field name="corp_author">Roseburg (Oregon) Public Schools</field>
+<field name="title">Science scope &amp;sequence, grade 9</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="keywords">Science</field>
+<field name="notes">1 v. (various pagings)</field>
+<field name="edition">Revised</field>
+<field name="publisher">Roseburg (Oregon) Public Schools</field>
+<field name="pub_place">Roseburg, OR</field>
+<field name="language">English</field>
+<field name="call_number">519 .R81s v. 9</field>
+<field name="state_country">Oregon</field>
+<field name="grade_level_number">9th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Sacramento (California) City Unified School District</field>
+<field name="title">Course of study in science for elementary schools</field>
+<field name="year">1951</field>
+<field name="date">10/1951</field>
+<field name="pages">92</field>
+<field name="keywords">Science</field>
+<field name="publisher">Sacramento (California) City Unified School District</field>
+<field name="pub_place">Sacramento, CA</field>
+<field name="language">English</field>
+<field name="call_number">519 .S12c v. 1</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Sacramento (California) City Unified School District</field>
+<field name="title">Course of study in science for junior high schools</field>
+<field name="year">1954</field>
+<field name="date">1954</field>
+<field name="pages">60</field>
+<field name="keywords">Science</field>
+<field name="publisher">Sacramento (California) City Unified School District</field>
+<field name="pub_place">Sacramento, CA</field>
+<field name="language">English</field>
+<field name="call_number">519 .S12c v. 2</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Middle school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">San Antonio (Texas) Independent School District. Division of Junior and
+Senior Schools</field>
+<field name="title">Course of study for science: seventh grade natural science</field>
+<field name="year">1951</field>
+<field name="date">1951</field>
+<field name="pages">113</field>
+<field name="keywords">Science</field>
+<field name="keywords">Natural history</field>
+<field name="edition">Revised</field>
+<field name="publisher">San Antonio (Texas) Independent School District</field>
+<field name="pub_place">San Antonio, TX</field>
+<field name="language">English</field>
+<field name="call_number">519 .S189s v. 1</field>
+<field name="state_country">Texas</field>
+<field name="grade_level_number">7th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">San Antonio (Texas) Independent School District. Division of Junior and
+Senior Schools</field>
+<field name="title">A teachers source book for 8th grade science, volume i--fall term: junior
+schools</field>
+<field name="year">1951</field>
+<field name="date">07/1951</field>
+<field name="pages">228</field>
+<field name="keywords">Science</field>
+<field name="edition">Revised</field>
+<field name="publisher">San Antonio (Texas) Independent School District</field>
+<field name="pub_place">San Antonio, TX</field>
+<field name="language">English</field>
+<field name="call_number">519 .S189s v. 2</field>
+<field name="state_country">Texas</field>
+<field name="grade_level_number">8th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">San Antonio (Texas) Independent School District. Division of Junior and
+Senior Schools</field>
+<field name="title">A teachers source book for 8th grade science, volume ii--spring term: junior
+schools</field>
+<field name="year">1951</field>
+<field name="date">07/1951</field>
+<field name="pages">141</field>
+<field name="keywords">Science</field>
+<field name="edition">Revised</field>
+<field name="publisher">San Antonio (Texas) Independent School District</field>
+<field name="pub_place">San Antonio, TX</field>
+<field name="language">English</field>
+<field name="call_number">519 .S189s v. 3</field>
+<field name="state_country">Texas</field>
+<field name="grade_level_number">8th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">San Antonio (Texas) Independent School District. Division of Junior and
+Senior Schools</field>
+<field name="title">A source book for teachers of science, grade 9B, junior schools of San Antonio,
+Texas</field>
+<field name="year">1951</field>
+<field name="date">05/1951</field>
+<field name="pages">158</field>
+<field name="keywords">Science</field>
+<field name="edition">Revised</field>
+<field name="publisher">San Antonio (Texas) Independent School District</field>
+<field name="pub_place">San Antonio, TX</field>
+<field name="language">English</field>
+<field name="call_number">519 .S189s v. 4</field>
+<field name="state_country">Texas</field>
+<field name="grade_level_number">9th grade</field>
+</doc>
+
+</add>

@@ -1,0 +1,1312 @@
+
+
+
+
+TY  - BOOK
+A2  - Anaheim (California) City School District
+T1  - What we teach in kindergarten
+Y1  - 1957
+D1  - 1957
+SP  - 20
+KW  - Curriculum planning
+KW  - Kindergarten
+N1  -  leaves : ill. ; 29 cm.; Note(s): Cover title.; Responsibility: Anaheim City School District.
+PB  - Anaheim (California) City School District
+CY  - Anaheim, CA
+LA  - English
+CN  - 375.13 .A53w v. 1
+SC  - California
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - Anaheim (California) City School District
+T1  - What we teach in first grade
+Y1  - 1957
+D1  - 1957
+SP  - 29
+KW  - Curriculum planning
+KW  - Primary education
+N1  -  leaves : ill. ; 29 cm.; Note(s): Cover title.; Responsibility: Anaheim City School District.
+PB  - Anaheim (California) City School District
+CY  - Anaheim, CA
+LA  - English
+CN  - 375.13 .A53w v. 2
+SC  - California
+G2  - 1st
+ER  - 
+
+TY  - BOOK
+A2  - Anaheim (California) City School District
+T1  - What we teach in second grade
+Y1  - 1957
+D1  - 1957
+SP  - 30
+KW  - Curriculum planning
+KW  - Primary education
+N1  -  leaves : ill. ; 29 cm.; Note(s): Cover title.; Responsibility: Anaheim City School District.
+PB  - Anaheim (California) City School District
+CY  - Anaheim, CA
+LA  - English
+CN  - 375.13 .A53w v. 3
+SC  - California
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A2  - Anaheim (California) City School District
+T1  - What we teach in third grade
+Y1  - 1957
+D1  - 1957
+SP  - 37
+KW  - Curriculum planning
+KW  - Primary education
+N1  -  leaves : ill. ; 29 cm.; Note(s): Cover title.; Responsibility: Anaheim City School District.
+PB  - Anaheim (California) City School District
+CY  - Anaheim, CA
+LA  - English
+CN  - 375.13 .A53w v. 4
+SC  - California
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - Anaheim (California) City School District
+T1  - What we teach in fourth grade
+Y1  - 1957
+D1  - 1957
+SP  - 38
+KW  - Curriculum planning
+KW  - Elementary education
+N1  -  leaves : ill. ; 29 cm.; Note(s): Cover title.; Responsibility: Anaheim City School District.
+PB  - Anaheim (California) City School District
+CY  - Anaheim, CA
+LA  - English
+CN  - 375.13 .A53w v. 5
+SC  - California
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Anaheim (California) City School District
+T1  - What we teach in fifth grade
+Y1  - 1957
+D1  - 1957
+SP  - 50
+KW  - Curriculum planning
+KW  - Elementary education
+N1  -  leaves : ill. ; 29 cm.; Note(s): Cover title.; Responsibility: Anaheim City School District.
+PB  - Anaheim (California) City School District
+CY  - Anaheim, CA
+LA  - English
+CN  - 375.13 .A53w v. 6
+SC  - California
+G2  - 5th
+ER  - 
+
+TY  - BOOK
+A2  - Anaheim (California) City School District
+T1  - What we teach in sixth grade
+Y1  - 1957
+D1  - 1957
+SP  - 49
+KW  - Curriculum planning
+KW  - Elementary education
+N1  -  leaves : ill. ; 29 cm.; Note(s): Cover title.; Responsibility: Anaheim City School District.
+PB  - Anaheim (California) City School District
+CY  - Anaheim, CA
+LA  - English
+CN  - 375.13 .A53w v. 7
+SC  - California
+G2  - 6th
+ER  - 
+
+TY  _ BOOK
+A2  - Alameda County (California) Board of Education
+T1  - Instructional guide for the intermediate teacher
+Y1  - 1962
+D1  - 06/1962
+SP  - 133
+KW  - Elementary education
+PB  - Alameda County (California) Board of Education
+CY  - Hayward, CA
+LA  - English
+CN  - 375.13 .A31ig
+SC  - California
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  _ BOOK
+A2  - Alameda (California) Unified School District
+T1  - Guide to elementary education: kindergarten through eighth grade
+Y1  - 1953
+D1  - 07/1953
+SP  - 97
+KW  - Elementary education
+PB  - Alameda County (California) Board of Education
+CY  - Alameda, CA
+LA  - English
+CN  - 375.13 .A318g
+SC  - California
+G1  - Elementary
+G1  - Middle school
+ER  - 
+
+TY  _ BOOK
+A2  - Alameda (California) Unified School District
+T1  - Teacher's guide: elementary education: grades 1-3
+Y1  - 1959
+D1  - 09/1959
+SP  - 84
+KW  - Elementary education
+PB  - Alameda County (California) Board of Education
+CY  - Alameda, CA
+LA  - English
+CN  - 375.13 .A318t
+SC  - California
+G2  - 1st
+G2  - 2nd
+G3  - 3rd
+ER  - 
+
+TY  _ BOOK
+A2  - Alameda (California) Unified School District
+T1  - Teacher's guide: elementary education: grades 4-6
+Y1  - 1960
+D1  - 09/1960
+SP  - 141
+KW  - Elementary education
+PB  - Alameda County (California) Board of Education
+CY  - Alameda, CA
+LA  - English
+CN  - 375.13 .A318t
+SC  - California
+G2  - 4th
+G2  - 5th
+G3  - 6th
+ER  - 
+
+TY  - Book
+A2  - Arcade School District (Sacramento, California)
+T1  - Course of study for third grade
+Y1  - 1958
+D1  - Spring, 1958
+KW  - Curricula
+ED  - Revised
+PB  - Arcade School District
+CY  - Sacramento, CA
+LA  - English
+CN  - 375.13 .A67c v. 3
+SC  - California
+G2  - 3rd
+ER  - 
+
+TY  - Book
+A2  - Arcade School District (Sacramento, California)
+T1  - Course of study for eighth grade
+Y1  - 1958
+D1  - 1958
+KW  - Curricula
+ED  - Revised
+PB  - Arcade School District
+CY  - Sacramento, CA
+LA  - English
+CN  - 375.13 .A67c v. 8
+SC  - California
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Arizona State Department of Public Instruction
+T1  - Goals; course of study for grade one
+Y1  - 1956
+D1  - 1956
+SP  - 40
+KW  - Curricula
+N1  - 40 p. 28 cm.
+ED  - 1956 Revision
+PB  - Arizona State Department of Public Instruction
+CY  - Phoenix, AZ
+LA  - English
+CN  - 375.13 .A71g v. 2
+SC  - Arizona
+G2  - 1st
+ER  - 
+
+TY  - BOOK
+A2  - Arizona State Department of Public Instruction
+T1  - Goals; course of study for grade two
+Y1  - 1956
+D1  - 1956
+SP  - 29
+KW  - Curricula
+N1  - 29 p. 28 cm.
+ED  - 1956 Revision
+PB  - Arizona State Department of Public Instruction
+CY  - Phoenix, AZ
+LA  - English
+CN  - 375.13 .A71g v. 3
+SC  - Arizona
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A2  - Arizona State Department of Public Instruction
+T1  - Goals; course of study for grade three
+Y1  - 1956
+D1  - 1956
+SP  - 26
+KW  - Curricula
+N1  - 26 p. 28 cm.
+ED  - 1956 Revision
+PB  - Arizona State Department of Public Instruction
+CY  - Phoenix, AZ
+LA  - English
+CN  - 375.13 .A71g v. 3
+SC  - Arizona
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - Arizona State Department of Public Instruction
+T1  - Goals; course of study for grade four
+Y1  - 1956
+D1  - 1956
+SP  - 25
+KW  - Curricula
+N1  - 25 p. 28 cm.
+ED  - 1956 Revision
+PB  - Arizona State Department of Public Instruction
+CY  - Phoenix, AZ
+LA  - English
+CN  - 375.13 .A71g v. 5
+SC  - Arizona
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Arizona State Department of Public Instruction
+T1  - Goals; course of study for grade five
+Y1  - 1956
+D1  - 1956
+SP  - 29
+KW  - Curricula
+N1  - 29 p. 28 cm.
+ED  - 1956 Revision
+PB  - Arizona State Department of Public Instruction
+CY  - Phoenix, AZ
+LA  - English
+CN  - 375.13 .A71g v. 6
+SC  - Arizona
+G2  - 5th
+ER  - 
+
+TY  - BOOK
+A2  - Arizona State Department of Public Instruction
+T1  - Goals; course of study for grade six
+Y1  - 1956
+D1  - 1956
+SP  - 36
+KW  - Curricula
+N1  - 36 p. 28 cm.
+ED  - 1956 Revision
+PB  - Arizona State Department of Public Instruction
+CY  - Phoenix, AZ
+LA  - English
+CN  - 375.13 .A71g v. 7
+SC  - Arizona
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Arizona State Department of Public Instruction
+T1  - Goals; course of study for grade seven
+Y1  - 1956
+D1  - 1956
+SP  - 42
+KW  - Curricula
+N1  - 42 p. 28 cm.
+ED  - 1956 Revision
+PB  - Arizona State Department of Public Instruction
+CY  - Phoenix, AZ
+LA  - English
+CN  - 375.13 .A71g v. 8
+SC  - Arizona
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A2  - Arizona State Department of Public Instruction
+T1  - Goals; course of study for grade eight
+Y1  - 1956
+D1  - 1956
+SP  - 40
+KW  - Curricula
+N1  - 40 p. 28 cm.
+ED  - 1956 Revision
+PB  - Arizona State Department of Public Instruction
+CY  - Phoenix, AZ
+LA  - English
+CN  - 375.13 .A71g v. 9
+SC  - Arizona
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Arkansas State Department of Education. Elementary School Council
+T1  - Handbook for elementary teachers
+Y1  - 1960
+D1  - 1960
+SP  - 112
+KW  - Teachers
+KW  - Elementary education
+N1  - 112 p. diagr. 23 cm.; Note(s): Includes bibliographical references.
+ED  - 3d revision
+PB  - Arkansas State Department of Education
+CY  - Little Rock, AR
+LA  - English
+CN  - 375.13 .A72h 1960
+SC  - Arkansas
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Arkansas State Department of Education. Elementary School Council
+T1  - Handbook for elementary teachers
+Y1  - 1951
+D1  - 1951
+SP  - 95
+KW  - Teachers
+KW  - Elementary education
+N1  - 95 p. 23 cm.
+ED  - 2d revision
+PB  - Arkansas State Department of Education.
+CY  - Little Rock, AR
+LA  - English
+CN  - 375.13 .A72h 1951
+SC  - Arkansas
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Atlanta (Georgia) Public Schools
+T1  - Curriculum guide, kindergarten
+Y1  - 1955
+D1  - 1955
+SP  - 57
+KW  - Kindergarten
+KW  - Curricula
+N1  - a-c, 57 leaves ; 28 cm.; Note(s): Includes bibliographical references (leaf 55).; Responsibility: Atlanta Public Schools.
+PB  - Atlanta (Georgia) Public Schools
+CY  - Atlanta, GA
+LA  - English
+CN  - 375.13 .A88c v. 1
+SC  - Georgia
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - Atlanta (Georgia) Public Schools
+T1  - Curriculum guide, first grade
+Y1  - 1955
+D1  - 1955
+SP  - 67
+KW  - Primary education
+KW  - Curricula
+PB  - Atlanta (Georgia) Public Schools
+CY  - Atlanta, GA
+LA  - English
+CN  - 375.13 .A88c v. 2
+SC  - Georgia
+G2  - 1st
+ER  - 
+
+TY  - BOOK
+A2  - Atlanta (Georgia) Public Schools
+T1  - Curriculum guide, second grade
+Y1  - 1955
+D1  - 1955
+SP  - 58
+KW  - Primary education
+KW  - Curricula
+PB  - Atlanta (Georgia) Public Schools
+CY  - Atlanta, GA
+LA  - English
+CN  - 375.13 .A88c v. 3
+SC  - Georgia
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A2  - Atlanta (Georgia) Public Schools
+T1  - Curriculum guide, third grade
+Y1  - 1955
+D1  - 1955
+SP  - 81
+KW  - Primary education
+KW  - Curricula
+PB  - Atlanta (Georgia) Public Schools
+CY  - Atlanta, GA
+LA  - English
+CN  - 375.13 .A88c v. 4
+SC  - Georgia
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - Atlanta (Georgia) Public Schools
+T1  - Curriculum guide, fourth grade
+Y1  - 1955
+D1  - 1955
+SP  - 120
+KW  - Elementary education
+KW  - Curricula
+PB  - Atlanta (Georgia) Public Schools
+CY  - Atlanta, GA
+LA  - English
+CN  - 375.13 .A88c v. 5
+SC  - Georgia
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Atlanta (Georgia) Public Schools
+T1  - Curriculum guide, fifth grade
+Y1  - 1955
+D1  - 1955
+SP  - 100
+KW  - Elementary education
+KW  - Curricula
+PB  - Atlanta (Georgia) Public Schools
+CY  - Atlanta, GA
+LA  - English
+CN  - 375.13 .A88c v. 6
+SC  - Georgia
+G2  - 5th
+ER  - 
+
+TY  - BOOK
+A2  - Atlanta (Georgia) Public Schools
+T1  - Curriculum guide, sixth grade
+Y1  - 1955
+D1  - 1955
+SP  - 91
+KW  - Elementary education
+KW  - Curricula
+PB  - Atlanta (Georgia) Public Schools
+CY  - Atlanta, GA
+LA  - English
+CN  - 375.13 .A88c v. 7
+SC  - Georgia
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Atlanta (Georgia) Public Schools
+T1  - Curriculum guide, seventh grade
+Y1  - 1955
+D1  - 1955
+SP  - 98
+KW  - Elementary education
+KW  - Curricula
+PB  - Atlanta (Georgia) Public Schools
+CY  - Atlanta, GA
+LA  - English
+CN  - 375.13 .A88c v. 8
+SC  - Georgia
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A1  - Reid, Owen W.
+T1  - The time-table in the primary school
+Y1  - 1969
+D1  - 03/1969
+SP  - 7
+KW  - Primary education
+N1  - 7 p. ; 28 cm.; Note(s): Cover title.; Responsibility: by Owen W. Reid.
+T2  - Trends in teacher education
+V1  - 6
+PB  - Asian Institute for Teacher Educators, University of Philippines
+CY  - Quezon City, Philippines
+LA  - English
+CN  - 375.13 .A81t
+SC  - Philippines
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Baltimore (Maryland) Public Schools. Division of Elementary Education
+T1  - A guide to elementary education
+Y1  - 1955
+D1  - 01/1955
+SP  - 250
+KW  - Elementary education
+N1  - 1 v.  ill. 29 cm.; Note(s): Includes bibliographical references.
+PB  - Baltimore (Maryland) Public Schools. Bureau of Publications
+CY  - Baltimore, MD
+LA  - English
+CN  - 375.13 .B189g
+SC  - Maryland
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Baltimore County (Maryland) Public Schools
+T1  - A program of education for the elementary school; a curriculum guide for elementary school teachers
+Y1  - 1953
+D1  - 1953
+SP  - 53
+KW  - Curricula
+KW  - Elementary education
+N1  - viii, 53 p.
+PB  - Baltimore County (Maryland) Public Schools
+CY  - Towson, MD
+LA  - English
+CN  - 375.13 .B19p
+SC  - Maryland
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Baltimore County (Maryland) Public Schools
+T1  - Moving forward together, developing an all-school program; a study guide for curriculum in the elementary schools
+Y1  - 1952
+D1  - 1952
+SP  - 101
+KW  - Curricula
+KW  - Elementary education
+PB  - Baltimore County (Maryland) Public Schools
+CY  - Towson, MD
+LA  - English
+CN  - 375.13 .B19m
+SC  - Maryland
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - McCollum, John A.
+T1  - Classroom interruption survey
+Y1  - 1961
+D1  - 05/1961
+KW  - Classroom management
+PB  - Berkeley (California) City Schools
+CY  - Berkeley, CA
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Bristol Tennessee Public Schools
+T1  - New course o study: a teachers guide for the elementary schools of Bristol, Tennessee
+Y1  - 1954
+D1  - 1954
+SP  - 240
+KW  - Teachers
+KW  - Elementary education
+KW  - Curricula
+T2  - Bristol Tennessee Public Schools; Curriculum bulletin
+V1  - 2
+IS  - 1
+PB  - Bristol Tennessee Board of Education
+CY  - Bristol, TN
+LA  - English
+CN  - 375.13 .B86n
+SC  - Tennessee
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Bristol Tennessee Public Schools
+T1  - Course o study: a teachers guide for the elementary schools of Bristol, Tennessee
+Y1  - 1959
+D1  - 06/1959
+SP  - 195
+KW  - Teachers
+KW  - Elementary education
+KW  - Curricula
+T2  - Bristol Tennessee Public Schools; Curriculum bulletin
+V1  - 5
+PB  - Bristol Tennessee Board of Education
+CY  - Bristol, TN
+LA  - English
+CN  - 375.13 .B86t
+SC  - Tennessee
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Chicago (Illinois) Board of Education. Division of Curriculum
+T1  - Areas of learning in the Chicago public elementary schools
+Y1  - 1957
+D1  - 1957
+SP  - 88
+KW  - Curricula
+KW  - Elementary education
+ED  - Revised
+PB  - Chicago (Illinois) Board of Education
+CY  - Chicago, IL
+LA  - English
+CN  - 375.13 .C53a
+SC  - Illinois
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Fresno County (California) Board of Education
+T1  - Basic course of study : a statement of minimal curricular requirements, based on state-adopted textbooks and frameworks, 1967-68
+Y1  - 1967
+D1  - 1967-1968
+SP  - 100
+KW  - Elementary education
+KW  - Curricula
+KW  - Curriculum planning
+KW  - Textbooks
+N1  - viii; ; 23 cm.; Note(s): Cover title./ Includes bibliographical references.; Responsibility: prepared for use in the schools of Fresno, Kern, Kings, Madera, Mariposa, Merced, San Luis Obispo, Stanislaus, Tulare, Tuolumne counties ; by Fresno County School Dept. ... [et al.].
+PB  - Fresno County (California) Department of Education
+CY  - Fresno, CA
+LA  - English
+CN  - 375.13 .C151b
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - California Congress of Parents and Teachers
+T1  - Reading, writing, arithmetic today, a project for study groups: writing and speaking in the elementary school
+Y1  - 1950
+D1  - 1950?
+SP  - 30
+KW  - Language arts
+KW  - Writing
+PB  - California Congress of Parents and Teachers
+CY  - Los Angeles,  CA
+LA  - English
+CN  - 375.13 .C153r v. 2
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Chino (California) Unified School District
+T1  - Elementary school curriculum guide: grades kindergarten through six
+Y1  - 1957
+D1  - 09/1957
+KW  - Curricula
+KW  - Elementary education
+PB  - Chino (California) Unified School District
+CY  - Chino, CA
+LA  - English
+CN  - 375.13 .C539e v. 1-2
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Chula Vista (California) City School District
+T1  - Course of study
+Y1  - 1963
+D1  - 1963-1964
+KW  - Elementary education
+KW  - Curricula
+SP  - 39
+PB  - Chula Vista (California) City School District
+CY  - Chula Vista, CA
+LA  - English
+CN  - 375.13 .C55c
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Cincinnati (Ohio) Public Schools
+T1  - New Intermediate manual, a teachers guide; grades four, five, and six
+Y1  - 1954
+D1  - 1954
+SP  - 507
+KW  - Elementary education
+KW  - Teaching
+KW  - Curricula
+N1  - 507 p. ill.; Note(s): Dr. Althea Beery served as general chairman and was responsible for all aspects of revising the Manual./ Includes bibliographical references.
+T2  - Cincinnati, Ohio. Public Schools. Curriculum bulletin
+V1  - 400
+PB  - Cincinnati (Ohio) Public Schools
+CY  - Cincinnati, OH
+LA  - English
+CN  - 375.13 .C57m v. 2
+SC  - Ohio
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Cincinnati (Ohio) Public Schools
+T1  - The seventh-eighth grade manual : a teachers guide for grades seven and eight
+Y1  - 1950
+D1  - 1950
+SP  - 527
+KW  - Curricula
+N1  - ill. ; 25 cm.
+T2  - Cincinnati, Ohio. Public Schools. Curriculum bulletin
+V1  - 200
+ED  - Rev
+PB  - Cincinnati (Ohio) Public Schools
+CY  - Cincinnati, OH
+LA  - English
+CN  - 375.13 .C57m v. 3
+SC  - Ohio
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Clairton (Pennsylvania) Public Schools
+T1  - Course of study: elementary education: kindergarten
+Y1  - 1957
+D1  - 1957-1958
+KW  - Kindergarten
+KW  - Curricula
+N1  - leaves 81-140 ; cm
+PB  - Clairton (Pennsylvania) Public Schools
+CY  - Clairton, PA
+LA  - English
+CN  - 375.13 .C58c v. 1
+SC  - Pennsylvania
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - Clairton (Pennsylvania) Public Schools
+T1  - Course of study: elementary education: first grade
+Y1  - 1957
+D1  - 1957-1958
+KW  - Elementary education
+KW  - Curricula
+N1  - leaves 141-221 ; cm
+PB  - Clairton (Pennsylvania) Public Schools
+CY  - Clairton, PA
+LA  - English
+CN  - 375.13 .C58c v. 2
+SC  - Pennsylvania
+G2  - 1st
+ER  - 
+
+TY  - BOOK
+A2  - Clairton (Pennsylvania) Public Schools
+T1  - Course of study: elementary education: second grade
+Y1  - 1957
+D1  - 1957-1958
+KW  - Elementary education
+KW  - Curricula
+N1  - leaves 222-297 ; cm
+PB  - Clairton (Pennsylvania) Public Schools
+CY  - Clairton, PA
+LA  - English
+CN  - 375.13 .C58c v. 3
+SC  - Pennsylvania
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A2  - Clairton (Pennsylvania) Public Schools
+T1  - Course of study: elementary education: third grade
+Y1  - 1957
+D1  - 1957-1958
+KW  - Elementary education
+KW  - Curricula
+N1  - leaves 298-373 ; cm
+PB  - Clairton (Pennsylvania) Public Schools
+CY  - Clairton, PA
+LA  - English
+CN  - 375.13 .C58c v. 4
+SC  - Pennsylvania
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - Clairton (Pennsylvania) Public Schools
+T1  - Course of study: elementary education: fourth grade
+Y1  - 1957
+D1  - 1957-1958
+KW  - Elementary education
+KW  - Curricula
+N1  - leaves 87-192 ; cm
+PB  - Clairton (Pennsylvania) Public Schools
+CY  - Clairton, PA
+LA  - English
+CN  - 375.13 .C58c v. 5
+SC  - Pennsylvania
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Clairton (Pennsylvania) Public Schools
+T1  - Course of study: elementary education: fifth grade
+Y1  - 1957
+D1  - 1957-1958
+KW  - Elementary education
+KW  - Curricula
+N1  - leaves 193-278 ; cm
+PB  - Clairton (Pennsylvania) Public Schools
+CY  - Clairton, PA
+LA  - English
+CN  - 375.13 .C58c v. 6
+SC  - Pennsylvania
+G2  - 5th
+ER  - 
+
+TY  - BOOK
+A2  - Clairton (Pennsylvania) Public Schools
+T1  - Course of study: elementary education: sixth grade
+Y1  - 1957
+D1  - 1957-1958
+KW  - Elementary education
+KW  - Curricula
+N1  - leaves 279-390 ; cm
+PB  - Clairton (Pennsylvania) Public Schools
+CY  - Clairton, PA
+LA  - English
+CN  - 375.13 .C58c v. 7
+SC  - Pennsylvania
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Clairton (Pennsylvania) Public Schools
+T1  - Course of study: elementary education: special subjects
+Y1  - 1957
+D1  - 1957-1958
+SP  - 164
+KW  - Elementary education
+KW  - Curricula
+PB  - Clairton (Pennsylvania) Public Schools
+CY  - Clairton, PA
+LA  - English
+CN  - 375.13 .C58c v. 8
+SC  - Pennsylvania
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - George, Mary Yanaga
+A1  - Harkin, Roy E.
+T1  - The Sycamore instructional program a non-graded, team approach
+Y1  - 1967
+D1  - 1967
+SP  - 18
+KW  - Nongraded schools
+N1  - ill.; Note(s): "Funding: USOE grant award no. OEG-4-6-001479-1870."/ Title on cover: Innovations of Claremont./ Includes bibliographical references./ Responsibility: by Mary Yanaga George and Roy E. Harkin.
+PB  - Claremont (California) Unified School District
+CY  - Claremont, CA
+LA  - English
+CN  - 375.13 .C59s
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Colton (California) School District
+T1  - Curriculum guide for the elementary school
+Y1  - 1957
+D1  - 09/1957
+KW  - Elementary education
+KW  - Curricula
+PB  - Colton (California) School District
+CY  - Colton, CA
+LA  - English
+CN  - 375.13 .C71c
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Columbus (Ohio) Public Schools
+T1  - Agreements chart
+Y1  - 1956
+D1  - 1956
+KW  - Elementary education
+KW  - Curricula
+N1  - 1 chart
+PB  - Columbus (Ohio) Public Schools
+CY  - Columbus, OH
+LA  - English
+CN  - 375.13 .C72a
+SC  - Ohio
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Gelser, Harriet L.
+T1  - Elementary education: a guide to curriculum development, grades k-6
+Y1  - 1962
+D1  - 1962
+SP  - 88
+KW  - Elementary education
+KW  - Curriculum planning
+T2  - Connecticut State Department of Education. Curriculum bulletin series
+V1  - 14
+PB  - Connecticut State Department of Education
+CY  - Hartford, CT
+LA  - English
+SC  - Connecticut
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Covina (California) School District
+T1  - Educational services notebook
+Y1  - 1957
+D1  - 1957?
+KW  - Elementary education
+PB  - Covina (California) School District
+CY  - Covina, CA
+LA  - English
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Crescent [City] (California) Union School District
+T1  - Curriculum guide
+Y1  - 1960
+D1  - 1960
+KW  - Curricula
+PB  - Crescent [City] (California) Union School District
+CY  - Crescent City, CA
+LA  - English
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Dade County (Florida) Public Schools
+T1  - Design for teaching elementary curriculum guide
+Y1  - 1956
+D1  - 1956
+SP  - 171
+KW  - Elementary education
+KW  - Curricula
+N1  - ii; ill. ; 30 cm.; Note(s): Bibliography: p. 155-170.
+T2  - Dade County, Fla.; Public Schools.; Curriculum bulletin
+V1  - 2
+ED  - Revised
+PB  - Dade County (Florida) Public Schools
+CY  - Miami, FL
+LA  - English
+CN  - 375.13 .D12d
+SC  - Florida
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Dallas (Texas) Independent School District
+T1  - Elementary education, grade four : resource materials
+Y1  - 1953
+D1  - 03/1953
+SP  - 88
+KW  - Curricula
+KW  - Elementary education
+N1  - 88 p. ; 28 cm.
+T2  - Dallas (Texas) Independent School District. Curriculum bulletin series
+PB  - Dallas (Texas) Independent School District
+CY  - Dallas, TX
+LA  - English
+CN  - 375.13 .D14er v. 1
+SC  - Texas
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Dallas (Texas) Independent School District
+T1  - Elementary education, grade five : resource materials
+Y1  - 1953
+D1  - 03/1953
+SP  - 96
+KW  - Curricula
+KW  - Elementary education
+N1  - 96 p. ; 28 cm.
+T2  - Dallas (Texas) Independent School District. Curriculum bulletin series
+PB  - Dallas (Texas) Independent School District
+CY  - Dallas, TX
+LA  - English
+CN  - 375.13 .D14er v. 2
+SC  - Texas
+G2  - 5th
+ER  - 
+
+TY  - BOOK
+A2  - Dallas (Texas) Independent School District
+T1  - Elementary education, grade six : resource materials
+Y1  - 1953
+D1  - 03/1953
+SP  - 100
+KW  - Curricula
+KW  - Elementary education
+N1  - 100 p. ; 28 cm.
+T2  - Dallas (Texas) Independent School District. Curriculum bulletin series
+PB  - Dallas (Texas) Independent School District
+CY  - Dallas, TX
+LA  - English
+CN  - 375.13 .D14er v. 3
+SC  - Texas
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Dallas (Texas) Independent School District
+T1  - Elementary education, grades seven and eight : resource materials
+Y1  - 1953
+D1  - 03/1953
+SP  - 128
+KW  - Curricula
+KW  - Elementary education
+N1  - 128 p. ; 28 cm.
+T2  - Dallas (Texas) Independent School District. Curriculum bulletin series
+PB  - Dallas (Texas) Independent School District
+CY  - Dallas, TX
+LA  - English
+CN  - 375.13 .D14er v. 4
+SC  - Texas
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Dallas (Texas) Independent School District
+T1  - Elementary education, grades four, five, six, seven, eight : curriculum guide
+Y1  - 1953
+SP  - 112
+KW  - Curricula
+KW  - Elementary education
+N1  - ill. ; 28 cm.
+T2  - Dallas (Texas) Independent School District. Curriculum bulletin series
+PB  - Dallas (Texas) Independent School District
+CY  - Dallas, TX
+LA  - English
+CN  - 375.13 .D14e
+SC  - Texas
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Del Norte County (California) Schools
+T1  - Course of study for elementary schools
+Y1  - 1949
+D1  - 09/1949
+KW  - Curricula
+KW  - Elementary education
+PB  - Del Norte County (California) Schools
+CY  - Crescent City, CA
+LA  - English
+CN  - 375.13 .D33c
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Del Norte County (California) Schools
+T1  - Del Norte County course of study, grades k through 8
+Y1  - 1961
+D1  - Fall, 1961
+KW  - Curricula
+KW  - Elementary education
+PB  - Del Norte County (California) Schools
+CY  - Crescent City, CA
+LA  - English
+CN  - 375.13 .D33c 1961
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Denver (Colorado) Public Schools
+T1  - Time allotment in the elementary schools
+Y1  - 1956
+D1  - 1956
+SP  - 37
+KW  - Time allotment
+KW  - Elementary education
+N1  - 37 p. ill. 22 cm.; Note(s): Bibliography: p. 35-37.; Responsibility: [Produced by the Division of Instructional Services].
+PB  - Denver (Colorado) Public Schools
+CY  - Denver, CO
+LA  - English
+SC  - Colorado
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Eugene (Oregon) Public Schools
+T1  - Resource teacher handbook, intermediate grades
+Y1  - 1963
+D1  - 1963
+SP  - 246
+KW  - Elementary education
+N1  - 246 p. illus. 28 cm.; Note(s): Cover title./ Units beyond grade level handbooks and bibliographies for teaching language arts, social studies, art, science, math and use of library.
+PB  - Eugene (Oregon) Public Schools
+CY  - Eugene, OR
+LA  - English
+CN  - 375.13 .E87r
+SC  - Oregon
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Public Schools of the District of Columbia
+T1  - The Amidon plan: a summary of philosophical and practical suggestions for the organization of the school
+D1  - 1960s?
+SP  - 9
+KW  - Elementary education
+N1  - ill. ; 27 cm.
+PB  - Public Schools of the District of Columbia
+CY  - Washington, DC
+LA  - English
+CN  - 375.13 .D61a
+SC  - District of Columbia
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Duarte (California) School District
+T1  - Teacher's guide, fourth grade
+Y1  - 1958
+D1  - 1958
+SP  - 71
+KW  - Elementary education
+KW  - Curricula
+PB  - Duarte (California) School District
+CY  - Duarte, CA
+LA  - English
+CN  - 375.13 .D81t
+SC  - California
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Flint (Michigan) Public Schools
+T1  - Developing an understanding and appreciation of the basic facts of physical and emotional health and a will to improve one's own health and that of the community
+Y1  - 1951
+D1  - 09/1951
+KW  - Curricula
+KW  - Health education
+T2  - Elementary school curriculum studies : report
+V1  - III-E
+PB  - Flint (Michigan) Public Schools
+CY  - Flint, MI
+LA  - English
+CN  - 375.13 .F62e v. 4
+SC  - Michigan
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Fond du Lac (Wisconsin) Public Schools
+T1  - Elementary curriculum
+KW  - Curricula
+KW  - Elementary education
+PB  - Fond du Lac (Wisconsin) Public Schools
+CY  - Fond du Lac, WI
+LA  - English
+CN  - 375.13 .F67e
+SC  - Wisconsin
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Fort Knox (Kentucky) Elementary Schools
+T1  - Developing independent study programs for elementary school children
+Y1  - 1966
+D1  - 08/1966
+SP  - 45
+KW  - Independent study
+N1  - 45 p. ; 28 cm.
+PB  - Fort Knox (Kentucky) Elementary Schools
+CY  - Fort Knox, KY
+LA  - English
+CN  - 375.13 .F74d 1966
+SC  - Kentucky
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Fort Knox (Kentucky) Elementary Schools
+T1  - Developing independent study programs for elementary school children
+Y1  - 1967
+D1  - 1967
+SP  - 78
+KW  - Independent study
+N1  - 78 p. ; 28 cm.
+PB  - Fort Knox (Kentucky) Elementary Schools
+CY  - Fort Knox, KY
+LA  - English
+CN  - 375.13 .F74d 1967
+SC  - Kentucky
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Fort Knox (Kentucky) Elementary Schools
+T1  - Developing independent study programs for elementary school children
+Y1  - 1968
+D1  - 1967-1968
+SP  - 72
+KW  - Independent study
+N1  - 72 p. ; 28 cm.
+PB  - Fort Knox (Kentucky) Elementary Schools
+CY  - Fort Knox, KY
+LA  - English
+CN  - 375.13 .F74d 1967-68
+SC  - Kentucky
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Fort Knox (Kentucky) Elementary Schools
+T1  - Fort Knox Elementary Schools potpouri enrichment book
+Y1  - 1969
+D1  - 1969
+SP  - 30
+KW  - Curriculum enrichment
+KW  - Elementary education
+PB  - Fort Knox (Kentucky) Elementary Schools
+CY  - Fort Knox, KY
+LA  - English
+CN  - 375.13 .F74p 1969
+SC  - Kentucky
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Fort Knox (Kentucky) Elementary Schools
+T1  - Potpouri enrichment activities for elementary school children
+Y1  - 1970
+D1  - 1970
+SP  - 44
+KW  - Curriculum enrichment
+KW  - Elementary education
+PB  - Fort Knox (Kentucky) Elementary Schools
+CY  - Fort Knox, KY
+LA  - English
+CN  - 375.13 .F74p 1970
+SC  - Kentucky
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Fresno County (California) Schools
+T1  - Course of study
+Y1  - 1960
+D1  - 07/1960
+KW  - Curricula
+PB  - Fresno County (California) Schools
+CY  - Fresno, CA
+LA  - English
+CN  - 375.13 .F88c
+SC  - California
+G1  - Elementary
+G1  - Middle school
+ER  - 

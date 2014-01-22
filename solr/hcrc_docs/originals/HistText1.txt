@@ -1,0 +1,2092 @@
+
+
+
+
+TY  - BOOK
+A1  - Cooksey, Oscilee Loftin
+T1  - A teaching manual for sensory stimulation of the bedfast multiply-handicapped retardate
+Y1  - 1970
+SP  - 43
+KW  - Children with mental disabilities
+KW  - Sensory stimulation
+N1  - iv; illus. 28 cm.; Note(s): Cover title: Sensory stimulation; a teaching manual.; Other Titles: Sensory stimulation.
+PB  - Austin State School
+CY  - Austin, TX
+LA  - English
+D1  - 1970
+CN  - 371.9 .A93t
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A1  - Scheer, Ralph M.
+A1  - Hawke, Sharryl
+A1  - Rice, Norman G.
+T1  - Community preparedness for retardates
+Y1  - 1969
+SP  - 103
+KW  - Children with mental disabilities
+N1  - 103 p. illus. 28 cm.; Note(s): "HIP Project, Austin State School, 1965-70, Oliver E. Graebner, Co-director, HIP Project. Developed under Hospital Improvement grant number SR20-MHO-2068-05 (MH-2167) Department of Health, Education, and Welfare, Public Health Service, Washington, D.C."/ Bibliography: p. 103.; Responsibility: by Ralph M. Scheer, Sharryl Hawke, [and] Norman G. Rice.
+PB  - Austin State School
+CY  - Austin, TX
+LA  - English
+D1  - 1969
+CN  - 371.9 .A93c
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A1  - Talkington, Larry W.
+A1  - Hall, Sylvia M.
+T1  - A manual communication system for deaf retarded
+Y1  - 1971
+SP  - 108
+KW  - Sign language
+N1  - 108 p. illus. 22 cm.; Note(s): Cover title./ Bibliography: p. 99.; Responsibility: [by] Larry W. Talkington [and] Sylvia M. Hall. More Records: Show record information; Entry: 19720630; Update: 20121117
+PB  - Austin State School
+CY  - Austin, TX
+LA  - English
+D1  - 1971?
+CN  - 371.9 .A93m
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A1  - Helwig, G. Alfred
+A1  - Earhart, Quentin L.
+A1  - Klier, Katherine M.
+T1  - Recommendations for the education of the slow learner
+Y1  - 1963
+SP  - 45
+KW  - Children with mental disabilities
+PB  - Baltimore County Public Schools
+CY  - Towson, MD
+LA  - English
+D1  - 1963
+CN  - 371.9 .B19r v. 1
+SC  - Maryland
+ER  -
+
+TY  - BOOK
+A1  - Helwig, G. Alfred
+A1  - Earhart, Quentin L.
+A1  - Klier, Katherine M.
+T1  - Curriculum recommendations for basic education
+Y1  - 1964
+SP  - 101
+KW  - Children with mental disabilities
+PB  - Baltimore County Public Schools
+CY  - Towson, MD
+LA  - English
+D1  - 1964
+CN  - 371.9 .B19r v. 2
+SC  - Maryland
+ER  -
+
+TY  - BOOK
+A2  - Boston (Massachusetts) Public Schools
+T1  - Open doors for retarded children
+Y1  - 1956
+SP  - 4
+KW  - Children with mental disabilities
+PB  - Boston Public Schools
+CY  - Boston, MA
+LA  - English
+D1  - 1956
+CN  - 371.9 .B74b
+SC  - Massachusetts
+ER  -
+
+TY  - BOOK
+A2  - Boston (Massachusetts) Public Schools
+T1  - Division of juvenile adjustment
+Y1  - 1955
+KW  - Social service
+PB  - Boston Public Schools
+CY  - Boston, MA
+LA  - English
+D1  - 1955
+CN  - 371.9 .B74o
+SC  - Massachusetts
+ER  -
+
+TY  - BOOK
+A2  - Boston (Massachusetts) Public Schools
+T1  - Special services in the Boston Public Schools
+Y1  - 1956
+SP  - 39
+KW  - Special education
+PB  - Boston Public Schools
+CY  - Boston, MA
+LA  - English
+T2  - School document
+D1  - 1956
+V1  - 1
+CN  - 371.9 .B74s
+SC  - Massachusetts
+ER  -
+
+TY  - BOOK
+A2  - Beverly Hills (California) Unified School District 
+T1  - Education for the academically able and talented and the State gifted minor
+Y1  - 1962
+SP  - 76
+KW  - Gifted children
+PB  - Beverly Hills Unified School District
+CY  - Beverly Hills, CA
+LA  - English
+D1  - 06/1962
+LA  - English
+CN  - 371.9 .B57e v. 1
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Beverly Hills (California) Unified School District 
+T1  - Education for the academically able and talented and the State gifted minor
+Y1  - 1963
+KW  - Gifted children
+PB  - Beverly Hills Unified School District
+CY  - Beverly Hills, CA
+D1  - 07/1963
+LA  - English
+CN  - 371.9 .B57e v. 2
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Beverly Hills (California) Unified School District 
+T1  - Education for the academically able and talented and the State gifted minor
+Y1  - 1964
+KW  - Gifted children
+PB  - Beverly Hills Unified School District
+CY  - Beverly Hills, CA
+D1  - 07/1964
+LA  - English
+CN  - 371.9 .B57e v. 3
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Buffalo (New York) Public Schools. Division of Curriculum Evaluation and Development
+T1  - Education for law abiding citizenship : a teacher's guide : grades K-12
+Y1  - 1967
+KW  - Law
+N1  - 12 leaves ; 28 cm.; Note(s): Cover title./ Rev. Nov. 1967.; Responsibility: Buffalo Public Schools, Div. of Curriculum Evaluation and Development.
+PB  - Buffalo Public Schools, Div. of Curriculum Evaluation and Development
+CY  - Buffalo, NY
+D1  - 01/1957
+LA  - English
+CN  - 371.33 .B92e
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - Buffalo (New York) Board of Education
+T1  - The honors program in the Buffalo Public High Schools
+Y1  - 1958
+KW  - Gifted children
+N1  - 1 v. (various pagings) 28 cm.
+PB  - Division of Instructional Services, Board of Education
+CY  - Buffalo, NY
+D1  - 09/1958
+LA  - English
+CN  - 371.9 .B92h
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - Butte County (California) Schools
+T1  - Identification of pre-school handicapped children
+Y1  - 1970
+SP  - 79
+KW  - Children with disabilities
+N1  - 86 l. charts, forms. 28 cm.; Note(s): "PACE [Projects to Advance Creativity in Education], ESEA III, Project 0014."; Other Titles: PACE.
+PB  - Butte County Schools
+CY  - Oroville, CA
+D1  - 05/1970
+LA  - English
+CN  - 371.9 .B98i
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California School for the Deaf
+A2  - California. State Department of Education
+A2  - California Association of the Deaf
+T1  - The deaf at work
+Y1  - 1967
+SP  - 94
+KW  - Deafness
+N1  - 93 pages : illustrations ; 26 cm; Note(s): "Preparation of this book was under the auspices of the California Association of the Deaf in cooperation with the Division of Special Schools and Services of the California State Department of Education.
+PB  - California School for the Deaf
+CY  - Berkeley, CA
+D1  - 1967
+LA  - English
+CN  - 371.9 .C149d
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California. Bureau of Agricultural Education
+A2  - California. Bureau of Business Education
+T1  - The training required by workers in agricultural business and industry in California : report of a study
+Y1  - 1957
+SP  - 40
+KW  - Agriculture
+N1  - 40, vii p.; Note(s): This report is a joint undertaking of the Bureau of Agricultural Education and the Bureau of Business Education.
+PB  - California State Department of Education
+CY  - Sacramento, CA
+D1  - 1957
+LA  - English
+CN  - 371.425 .B97c
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Caddo (Louisiana) Parish Schools
+T1  - Education for rapid learners in Caddo Parish schools: a resource bulletin for teachers
+Y1  - 1958
+SP  - 32
+KW  - Gifted children
+PB  - Caddo Parish Schools
+CY  - Shreveport, LA
+D1  - 1958
+LA  - English
+CN  - 371.9 .C12e
+SC  - Louisiana
+ER  -
+
+TY  - Book
+A2  - California Correctional Industries
+T1  - Educational toys and teaching aids price schedule
+Y1  - 1968
+SP  - 25
+KW  - Educational toys
+PB  - California Correctional Industries
+CY  - Sacramento, CA
+D1  - 09/1968
+LA  - English
+CN  - 371.9 .C1491e
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Board of Education
+T1  - Educational programs for gifted pupils, a preliminary report to the 1960 session of the California State Legislature
+Y1  - 1960
+SP  - 73
+KW  - Gifted children
+N1  - 73 l.; Note(s): Cover title.
+PB  - California State Dept. of Education
+CY  - Sacramento, CA
+D1  - 01/1960
+LA  - English
+CN  - 371.9 .C15eg
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Hill, Mary Broderick
+T1  - Enrichment programs for intellectually gifted pupils
+Y1  - 1969
+SP  - 187
+KW  - Gifted children
+N1  - ix; ges : illustrations ; 28 cm; Note(s): At head of title: California Project Talent./ Includes bibliographical references.; Other Titles: California Project Talent; Responsibility: prepared by Mary Broderick Hill.
+PB  - California State Dept. of Education
+CY  - Sacramento, CA
+D1  - 1969
+LA  - English
+CN  - 371.9 .C15ce
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Lynndelle, Vivian
+T1  - Education of the aurally handicapped
+Y1  - 1953
+SP  - 31
+KW  - Deafness
+N1  - vii; ges illustrations 23 cm.; Note(s): With : Teaching conservation in California high schools / Conservation Committee, California Association of Secondary School Administrators. [Sacramento : California State Department of Education], 1953. Bound together subsequent to publication./ Includes bibliographical references (pages 24-26).
+PB  - California State Dept. of Education
+CY  - Sacramento, CA
+T2  - Bulletin of the California State Department of Education
+D1  - 01/1953
+V1  - 22
+IS  - 2
+LA  - English
+CN  - 371.9 .C15ed
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Misbach, Dorothy L.
+A1  - Sweeney, Joan
+T1  - Education of the visually handicapped in California public schools
+Y1  - 1970
+SP  - 88
+KW  - Children with disabilities
+N1  - viii; 23 cm.; Note(s): Includes bibliographical references.; Responsibility: Prepared by Dorothy L. Misbach and Joan Sweeney.
+PB  - California State Department of Education
+CY  - Sacramento, CA
+D1  - 1970
+LA  - English
+CN  - 371.9 .C15e
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California. Preschool Education Programs
+T1  - Guidelines for preschool compensatory education projects
+Y1  - 1966
+KW  - Early childhood education
+KW  - Compensatory education
+N1  - 1 v. (various pagings) 28 cm.; Note(s): Includes bibliographies.
+PB  - California State Department of Education
+CY  - Sacramento, CA
+D1  - 1966
+LA  - English
+CN  - 371.9 .C15gp
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California. Joint Committee on School Health
+A2  - California. Study Committee on Hearing Testing
+T1  - A guide for hearing testing of school children in the public schools of California : recommendations of California State Department of Public Health and California State Department of Education
+Y1  - 1954
+SP  - 28
+KW  - Hearing
+N1  - vi; ; 23 cm.; Note(s): Cover title: Hearing testing of school children./ "Prepared by a Study Committee on Hearing Testing ... appointed by the California State Joint Committee on School Health."; Other Titles: Hearing testing of school children
+PB  - California State Department of Education
+CY  - Sacramento, CA
+D1  - 1954
+LA  - English
+CN  - 371.9 .C15h
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Lambert, Nadine M.
+A2  - California. State Department of Education
+T1  - The emotionally handicapped child and the school: a research program in the prevention of personality and behavior disorders in children
+Y1  - 1959
+SP  - 82
+KW  - Emotional problems of children
+N1  - 82 l. 28 cm.; Note(s): "A preliminary report of a research project authorized under Senate Bill 62 of the 1957 California State Legislature."; Responsibility: Prepared by Nadine Lambert [and others.
+PB  - California State Department of Education
+CY  - Sacramento, CA
+D1  - 12/1959
+LA  - English
+CN  - 371.9 .C15em
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Watson, Charles W.
+A2  - California. Bureau of Special Education
+T1  - A guide to the education of the deaf in the public schools of California
+Y1  - 1955
+SP  - 57
+KW  - Deafness
+N1  - 57 pages illustrations 23 cm.; Note(s): With : Californians at work / William H. McCreary. Sacramento : California State Department of Education, 1955. / Includes bibliographical references.; Responsibility: [by] Charles W. Watson, consultant in education of the deaf and the visually handicapped.
+T2  - Bulletin of the California State Dept. of Education
+IS  - 5
+PB  - California State Dept. of Education
+CY  - Sacramento, CA
+D1  - 08/1955
+V1  - 24
+IS  - 5
+LA  - English
+CN  - 371.9 .C15g
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California. Bureau of Special Education
+T1  - The program of speech therapy and lip reading in California public schools
+Y1  - 1959
+SP  - 64
+KW  - Speech therapy
+KW  - Deafness
+N1  - vi; ges illustrations 23 cm.; Includes bibliographical references (pages 45-54).
+T2  - Bulletin of the California State Dept. of Education
+PB  - California State Dept. of Education
+CY  - Sacramento, CA
+D1  - 02/1959
+V1  - 28
+IS  - 2
+LA  - English
+CN  - 371.9 .C15p
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - California master plan for special education : adopted by the California State Board of Education, January 10, 1974
+Y1  - 1974
+SP  - 44
+KW  - Children with disabilities
+N1  - vi; ; 23 cm.; Other Titles: Special education.
+PB  - California State Dept. of Education
+CY  - Sacramento, CA
+D1  - 1974
+LA  - English
+CN  - 371.9 .C15m
+CS  - California
+ER  - 
+
+TY  - BOOK
+A1  - Hanson, Fred M.
+A1  - Shryock, Clifton
+T1  - Programs for the educable mentally retarded in California public schools.
+Y1  - 1974
+SP  - 88
+KW  - Children with mental disabilities
+N1  - viii; ges ; 23 cm; Note(s): Includes bibliographical references.
+PB  - California State Dept. of Education
+CY  - Sacramento, CA
+D1  - 1974
+LA  - English
+CN  - 371.9 .C15pg
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Mackie, Romaine Prior
+T1  - Information for parents of cerebral palsied children
+Y1  - 1948
+SP  - 20
+KW  - Children with disabilities
+KW  - Cerebral palsy
+N1  - vii; ill.; Note(s): Attached: Information concerning the California State program for children with cerebral palsy (July 1948)
+PB  - California State Dept. of Education
+CY  - Sacramento, CA
+D1  - 08/1948
+LA  - English
+CN  - 371.9 .C15i
+CS  - California
+ER  - 
+
+TY  - BOOK
+A1  - Gore, Beatrice S.
+A2  - California. Bureau of Special Education
+T1  - Teaching the cerebral palsied child; a handbook for teachers
+Y1  - 1954
+D1  - 11/1954
+SP  - 82
+KW  - Cerebral palsy
+KW  - Children with disabilities
+N1  - xi; illustrations.; Responsibility: [by] Beatrice S. Gore [and] Jane Stoddard.
+T2  - Bulletin of the California State Dept. of Education
+V1  - 23
+IS  - 7
+PB  - California State Department of Education
+CY  - Sacramento,CA
+CN  - 371.9 .C15tc
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Hanson, Fred M.
+A1  - Daly, Flora M.
+A1  - Campbell, L. Wayne
+T1  - Programs for the trainable mentally retarded in California public schools
+Y1  - 1966
+D1  - 1966
+SP  - 107
+KW  - Children with mental disabilities
+N1  - ix; 23 cm.; Note(s): Bibliography: p. 96-107.; Responsibility: Prepared by Fred M. Hanson, Flora M. Daly [and] L. Wayne Campbell.
+PB  - California State Department of Education
+CY  - Sacramento, CA
+CN  - 371.9 .C15prt
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Jensen, Carol M.
+A1  - Mackie, Romaine Prior
+T1  - Twenty questions on the cerebral palsied child in California
+Y1  - 1948
+D1  - 06/1948
+SP  - 29
+KW  - Children with disabilities
+KW  - Cerebral palsy
+N1  - vii; illustrations.; Note(s): "Selected bibliography": pages 27-29.; Responsibility: [by] Carol M. Jensen and Romaine P. Mackie.
+T2  - Bulletin of the California State Dept. of Education
+V1  - 17
+IS  - 3
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 371.9 .C15t
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Lord, Francis Everette
+A2  - California State College, Los Angeles
+T1  - Work education for educable retarded youth; report on institutes
+Y1  - 1964
+D1  - 1964
+SP  - 80
+KW  - Vocational education
+KW  - Children with mental disabilities
+N1  - 89 p. ill.; Note(s): Cover title./ Half-title: Institutes on work education for educable retarded youth./ The institutes, held on Feb. 6 and June 26, 1964./ Bibliography: p. 75-80.; Other Titles: Institutes on work education for educable retarded youth.
+PB  - California State College at Los Angeles
+CY  - Los Angeles, CA
+LA  - English
+CN  - 371.9 .C152w
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Goldsmith, John
+A2  - San Jose State College
+T1  - Annotated bibliography concerning the more able student
+Y1  - 1962
+D1  - Spring, 1962
+SP  - 77
+KW  - Gifted children
+N1  - "Developed by ED X180 - Spring, 1962, offered by San Jose State College, John Goldsmith, instructor
+PB  - San Jose State College
+CY  - San Jose, CA
+LA  - English
+CN  - 371.9 .C153a 1962
+ER  -
+
+TY  - BOOK
+A1  - Goldsmith, John
+A2  - San Jose State College
+T1  - Activities for the more able student
+Y1  - 1960
+D1  - Spring, 1960
+SP  - 112
+KW  - Gifted children
+N1  - "Developed by ED X180 - Spring, 1960, offered by San Jose State College, John Goldsmith, instructor
+PB  - San Jose State College
+CY  - San Jose, CA
+LA  - English
+CN  - 371.9 .C153a 1960 v. 1
+ER  -
+
+TY  - BOOK
+A1  - Goldsmith, John
+A2  - San Jose State College
+T1  - Activities for the more able student
+Y1  - 1961
+D1  - Spring, 1961
+SP  - 154
+KW  - Gifted children
+N1  - "Developed by ED X180 - Spring, 1961, offered by San Jose State College, John Goldsmith, instructor
+PB  - San Jose State College
+CY  - San Jose, CA
+LA  - English
+CN  - 371.9 .C153a 1961 v. 2
+ER  -
+
+TY  - BOOK
+A1  - Goldsmith, John
+A2  - San Jose State College
+T1  - A survey of school programs for the more able student
+Y1  - 1962
+D1  - Spring, 1962
+SP  - 64
+KW  - Gifted children
+N1  - "Developed by ED X180 - Spring, 1962, offered by San Jose State College, John Goldsmith, instructor
+PB  - San Jose State College
+CY  - San Jose, CA
+LA  - English
+CN  - 371.9 .C153s
+ER  -
+
+TY  - BOOK
+A1  - Bouchard, Ruth A.
+A1  - Mackler, Bernard
+A2  - Center for Urban Education
+T1  - A prekindergarten program for four-year-olds, with a review of the literature on preschool education
+Y1  - 1967
+D1  - 11/1967
+KW  - Early childhood education
+N1  - 50 p. 23 cm.; Note(s): Bibliography: p. 40-44.; Responsibility: by Ruth A. Bouchard and Bernard Mackler. 
+T2  - The Center for Urban Education. Occasional paper
+PB  - Center for Urban Education
+CY  - New York, NY
+LA  - English
+CN  - 371.9 .C39p
+G1  - Pre-K
+ER  - 
+
+TY  - BOOK
+A1  - Gross, Morris B.
+T1  - Learning readiness in two Jewish groups; a study in "cultural deprivation"
+Y1  - 1967
+D1  - 12/1967
+KW  - Intelligence levels
+KW  - Jews
+N1  - 41 p. 23 cm.; Responsibility: by Morris Gross, with an introduction by John Seeley.
+T2  - The Center for Urban Education. Occasional paper.
+PB  - Center for Urban Education
+CY  - New York, NY
+LA  - English
+CN  - 371.9 .C39L
+ER  - 
+
+TY  - BOOK
+A1  - Randolph, H. Helen
+A2  - Hunter College, New York. Project TRUE
+T1  - Urban education bibliography: an annotated listing
+Y1  - 1968
+D1  - 04/1968
+SP  - 98
+KW  - Urban education
+KW  - Bibliography
+N1  - ix; 30 cm.; Note(s): First edition issued by Hunter College, New York.; Responsibility: by H. Helen Randolph. 
+PB  - Center for Urban Education
+CY  - New York, NY
+LA  - English
+CN  - 371.9 .C39u
+ER  - 
+
+TY  - BOOK
+A1  - Karnes, Merle B.
+A1  - McCoy, George F.
+A1  - Zehrbach, Richard Reid
+A1  - Wollersheim, Janet P.
+A1  - Costin, Lela
+A1  - Stanley, Lola S.
+T1  - Factors associated with underachievement and overachievement of intellectually gifted children
+Y1  - 1961
+D1  - 07/1961
+KW  - Gifted children
+PB  - Champaign Community Unit Schools
+CY  - Champaign, IL
+LA  - English
+CN  - 371.9 .C44f
+ER  -
+
+TY  - BOOK
+A2  - Chicago (Illinois) Public Schools
+T1  - Program of education for the gifted in the Chicago public schools; a third look
+Y1  - 1964
+D1  - 08/1964
+SP  - 86
+KW  - Gifted children
+N1  - 86 p. 28 cm.; Note(s): Bibliography: p. [83]-86.
+T2  - Chicago (Ill.). Board of Education Study report
+V1  - 12
+PB  - Chicago Public Schools
+CY  - Chicago, IL
+LA  - English
+CN  - 371.9 .C53r v. 1
+SC  - Illinois
+ER  - 
+
+TY  - BOOK
+A2  - Chandler Tripp School (San Jose, California)
+A2  - California. Bureau of Special Education
+T1  - In-school work experience for pupils who are orthopedically handicapped
+Y1  - 1962
+D1  - 1962?
+SP  - 31
+KW  - Curricula
+KW  - Children with disabilities
+N1  - 31 p.; Note(s): Includes appendix and bibliography. At head of title: Report of pilot project. Prepared with the co-operation of the Santa Clara County School Department and the Bureau of Special Education, California State Department of Education.
+PB  - Santa Clara County School Department
+CY  - San Jose, CA
+LA  - English
+CN  - 371.9 .C45r
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Dyce, Elsie
+A1  - Crane, L. D.
+T1  - The gifted child program, elementary
+Y1  - 1957
+D1  - 1957
+SP  - 48
+KW  - Gifted children
+PB  - Cheyenne Public Schools
+CY  - Cheyenne, WY
+LA  - English
+CN  - 371.9 .C53g
+SC  - Wyoming
+G1  - Elementary
+ER  -
+
+TY  - BOOK
+A2  - Chicago (Illinois). Board of Education. Committee on Compensatory Education
+T1  - Compensatory education in the Chicago Public Schools.
+Y1  - 1964
+D1  - 08/1964
+SP  - 171
+KW  - Children with social disabilities
+PB  - Chicago Public Schools
+CY  - Chicago, IL
+LA  - English
+CN  - 371.9 .C53s v. 3
+SC  - Illinois
+ER  - 
+
+TY  - BOOK
+A2  - Chicago (Illinois). Board of Education. Committee to Study Programs for Potential Dropouts
+T1  - Programs for potential dropouts
+Y1  - 1964
+D1  - 05/1964
+SP  - 55
+KW  - Dropouts
+N1  - 55 p. 28 cm.; Note(s): Bibliography: p. 54-55.; Responsibility: Benjamin C. Willis, General Superintendent of Schools.
+T2  - [Chicago. Board of Education] Study report, 1964 series
+V1  - 3
+PB  - Chicago Public Schools
+CY  - Chicago, IL
+LA  - English
+CN  - 371.9 .C53s v. 2
+SC  - Illinois
+ER  - 
+
+TY  - BOOK
+A1  - Willis, Benjamin C.
+T1  - Report on the program for the gifted pupil to the Chicago Board of Education
+Y1  - 1957
+D1  - 03/1957
+SP  - 66
+KW  - Gifted children
+PB  - Chicago (Illinois) Public Schools
+CY  - Chicago, IL
+LA  - English
+CN  - 371.9 .C532r
+SC  - Illinois
+ER  - 
+
+TY  - BOOK
+A1  - Barbe, Walter Burke
+A2  - Cleveland (Ohio) Public Schools
+T1  - Thirty years after
+Y1  - 1960
+D1  - 1960
+SP  - 31
+KW  - Gifted children
+N1  - 31 p. ill. 23 cm.; Note(s): Digest of the author's dissertation: A follow-up study of graduates of special classes for gifted children.
+PB  - Cleveland (Ohio) Public Schools, Division of Major Work Classes
+CY  - Cleveland, OH
+LA  - English
+CN  - 371.9 .C63m
+SC  - Ohio
+ER  - 
+
+TY  - BOOK
+A2  - Cincinnati Public Schools
+T1  - Challenging the able learner : primary grades
+Y1  - 1957
+D1  - 1957
+SP  - 114
+KW  - Gifted children
+N1  - ill. ; 29 cm.; Note(s): Bibliography.
+T2  - Cincinnati. Public Schools. Curriculum bulletin
+V1  - 301
+PB  - Cincinnati (Ohio) Public Schools
+CY  - Cincinnati, OH
+LA  - English
+CN  - 371.9 .C57c v. 1
+SC  - Ohio
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Potts, Alfred M.
+A2  - Colorado. State Department of Education. Section on Education of Migrant Children
+T1  - The Colorado program for the education of migrant children, a guide to administrative procedures for participating school districts
+Y1  - 1961
+D1  - 1961
+SP  - 34
+KW  - Children of migrant laborers
+N1  - 34 pages forms 28 cm; Note(s): "Errata sheet" inserted.; Responsibility: Prepared by Alfred M. Potts, 2d, head. Approved by Colorado State Board of Education, June 14, 1961.
+PB  - Colorado State Department of Education
+CY  - Denver, CO
+LA  - English
+CN  - 371.9 .C71c v. 1
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A1  - Potts, Alfred M.
+A1  - Redbird, Helen Marie
+A2  - Colorado. Migrant Education Research Project
+T1  - Providing education for migrant children
+Y1  - 1961
+D1  - 1961
+SP  - 148
+KW  - Children of migrant laborers
+AB  - Origin and support for this study -- The development of Colorado agriculture -- The Colorado migrant flow -- Social profile of agricultural migratory people -- History of migrant education in Colorado -- Findings of the testing programs -- Enrolling migrant pupils -- Survey of school districts having migrant children in regular terms -- Organization for migrant education.
+N1  - 148 p. illus. 28 cm.; Responsibility: Alfred M. Potts, 2d [project coordinator] Chapter VI by Helen Marie Redbird. Hand illus.: Verna Katona. Photos: Myron Wood.
+PB  - Colorado State Department of Education
+CY  - Denver, CO
+LA  - English
+CN  - 371.9 .C71c v. 2
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A1  - Collings, Margaret
+A1  - Fryburg, Mary Louise
+A1  - Hurwitz, Muriel
+A1  - Koel, Elaine
+A1  - Spencer, Rosalie
+A1  - Williams, Viola
+A1  - Benes, Barbara
+T1  - Let's grow with good speech
+Y1  - 1953
+D1  - 1953
+KW  - Speech therapy
+PB  - Cleveland Public Schools
+CY  - Cleveland, OH
+LA  - English
+CN  - 371.9 .C63L
+SC  - Ohio
+ER  -
+
+TY  - BOOK
+A2  - Colorado State Department of Education
+T1  - Mental health in the classroom
+Y1  - 1960
+D1  - 1960
+SP  - 26
+KW  - Mental health services
+N1  - 26 pages illustrations 28 cm
+PB  - Colorado State Department of Education
+CY  - Denver, CO
+LA  - English
+CN  - 371.9 .C71m
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A2  - Colorado State Department of Education
+T1  - Training programs for trainable mentally retarded children; a manual of administrative procedures
+Y1  - 1960
+D1  - 1960
+SP  - 25
+KW  - Children with mental disabilities
+N1  - 25 p. ; 28 cm.
+T2  - Colorado. Dept. of Education. Special education manual
+V1  - 2
+PB  - Colorado State Department of Education
+CY  - Denver, CO
+LA  - English
+CN  - 371.9 .C71t
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A1  - Nolan, William J.
+A2  - Connecticut State Department of Education
+T1  - Building a community's curriculum for the mentally handicapped
+Y1  - 1953
+D1  - 07/1953
+SP  - 24
+KW  - Children with mental disabilities
+KW  - Curriculum planning
+KW  - Individualized instruction
+KW  - Social integration
+N1  - 24 pages ; 23 cm.; Note(s): Previously issued 1952./ "Third Printing July 1953."/ Includes bibliographical references (pages 22-24).; Responsibility: by William J. Nolan (Bureau of School and Community Services).
+T2  - Bulletin (Connecticut State Department of Education)
+V1  - 58
+PB  - Connecticut State Department of Education
+CY  - Hartford, CT
+LA  - English
+CN  - 371.9 .C75b
+SC  - Connecticut
+ER  - 
+
+TY  - BOOK
+A1  - Sherman, Neil W.
+A1  - Potts, Alfred M.
+T1  - Learning on the move; a guide for migrant education
+Y1  - 1960
+D1  - 1960
+SP  - 220
+KW  - Children of migrant laborers
+N1  - xiv; illus., forms. 28 cm.; Note(s): Bibliography: p. 212-220.; Responsibility: Edited by Neil W. Sherman and Alfred M. Potts, 2d. Illus. by Elizabeth Martin.
+T2  - Migrant education series workshops ;; 1959.
+PB  - Colorado State Department of Education
+CY  - Denver, CO
+LA  - English
+CN  - 371.9 .C71c v. 3
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A1  - Vest, H. Grant
+T1  - The emotional bases of learning
+Y1  - 1958
+D1  - 1958
+SP  - 18
+KW  - Emotions and cognition
+PB  - Colorado State Department of Education
+CY  - Denver, CO?
+LA  - English
+CN  - 371.9 .C71e
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A2  - Connecticut State Department of Education
+T1  - Education for gifted children and youth : a guide for planning programs
+Y1  - 1956
+D1  - 07/1956
+SP  - 39
+KW  - Gifted children
+N1  - 39 pages : illustrations ; 23 cm.; Note(s): Includes bibliographical references (pages 34-39).
+T2  - Connecticut.; State Department of Education.; Bulletin
+V1  - 77
+PB  - Connecticut State Dept. of Education
+CY  - Hartford, CT
+LA  - English
+CN  - 371.9 .C75e
+SC  - Connecticut
+ER  - 
+
+TY  - BOOK
+A2  - Connecticut State Department of Education
+T1  - What about speech!
+Y1  - 1954
+D1  - 1954
+SP  - 12
+KW  - Speech
+N1  - 12 pages 23 cm.; Note(s): Cover title.; Responsibility: [Prepared under the direction of Geraldine Garrison by the Elementary Section of the Commissioner's Committee on Speech Education.].
+T2  - Connecticut. State Dept. of Education. Bulletin
+V1  - 62
+PB  - Connecticut State Dept. of Education, School and Community Services
+CY  - Hartford, CT
+LA  - English
+CN  - 371.9 .C75s
+SC  - Connecticut
+ER  - 
+
+TY  - BOOK
+A2  - Connecticut State Department of Education
+T1  - Speech improvement in the classroom
+Y1  - 1950
+D1  - 04/1950
+SP  - 8
+KW  - Communicative disorders
+KW  - Speech
+N1  - 8 p. ; 23 cm.; Responsibility: Connecticut State Department of Education.
+T2  - Special Education Leaflet
+V1  - 2
+PB  - Connecticut State Department of Education
+CY  - Hartford, CT?
+LA  - English
+CN  - 371.9 .C75s
+SC  - Connecticut
+ER  - 
+
+TY  - BOOK
+A2  - Connecticut State Department of Education. Division of Instructional Services
+T1  - Hope for Connecticut's disadvantaged children; a school administrator's guide to State and Federal aid programs for educating deprived children
+Y1  - 1966
+D1  - 07/1966
+SP  - 54
+KW  - Children with social disabilities
+KW  - Federal aid to education
+KW  - Government aid to education
+N1  - 54 pages illustrations 28 cm.; Note(s): Includes bibliographical references (pages 51-54).
+T2  - Connecticut. State Dept. of Education. Division of Instructional Services. Bulletin
+V1  - 98
+PB  - Connecticut State Dept. of Education
+CY  - Hartford, CT
+LA  - English
+CN  - 371.9 .C75h
+SC  - Connecticut
+ER  - 
+
+TY  - BOOK
+A1  - Garrison, Geraldine
+T1  - Stuttering
+Y1  - 1954
+D1  - 1954
+SP  - 6
+KW  - Stuttering in children
+N1  - 5 p. ; 22 cm.; Note(s): Title from cover; statement of responsibility taken from p. [1]./ "Connecticut State Department of Education, Bureau of School and Community Services ... Special Education"--Cover./ Includes bibliographical references (p. [1]).; Responsibility: [Geraldine Garrison]
+T2  - Bulletin (Connecticut. State Dept. of Education)
+V1  - 79
+PB  - Connecticut State Board of Education
+CY  - Hartford, CT
+LA  - English
+CN  - 371.9 .C75s
+SC  - Connecticut
+ER  - 
+
+TY  - BOOK
+A1  - Stoughton, Robert W.
+A2  - Connecticut State Department of Education
+T1  - Current practices in Connecticut secondary schools : provisions for the "gifted"
+Y1  - 1954
+D1  - 09/1954
+SP  - 18
+KW  - Gifted children
+KW  - Honors courses
+N1  - 18 p. ; 28 cm.; Note(s): Title from cover./ "September, 1954."; Other Titles: Provisions for the "gifted"; Responsibility: compiled by Robert W. Stoughton.
+PB  - Connecticut State Dept. of Education, Bureau of Youth Services
+CY  - Hartford, CT
+LA  - English
+CN  - 371.9 .C75p
+SC  - Connecticut
+ER  - 
+
+TY  - BOOK
+A2  - Dade County (Florida) Public Schools
+T1  - Teaching the talented
+SP  - 47
+KW  - Gifted children
+N1  - 47 p. ; cm
+PB  - Dade County Public Schools
+CY  - Miami, FL
+LA  - English
+CN  - 371.9 .D12t
+SC  - Florida
+ER  - 
+
+TY  - BOOK
+A2  - Dallas (Texas) Independent School District
+T1  - Criteria and directions for grouping students on the basis of readiness and aptitudes in academic areas
+Y1  - 1957
+D1  - 06/1957
+KW  - Ability grouping in education
+PB  - Dallas Independent School District
+CY  - Dallas, TX
+LA  - English
+CN  - 371.9 .D14c
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Dallas (Texas) Independent School District
+T1  - Exceptional children, opportunity classes for mentally handicapped
+SP  - 24
+KW  - Children with mental disabilities
+PB  - Dallas Independent School District
+CY  - Dallas, TX
+LA  - English
+CN  - 371.9 .D14e
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Dallas (Texas) Independent School District
+T1  - Special education for exceptional children, curriculum guide
+Y1  - 1953
+D1  - 1953
+SP  - 70
+KW  - Special education
+N1  - ill. ; 28 cm.; Responsibility: authorized by the Board of Education, August 25, 1953.
+T2  - Dallas Independent School District. Curriculum bulletin series
+PB  - Dallas Independent School District
+CY  - Dallas, TX
+LA  - English
+CN  - 371.9 .D14s
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A1  - Karnes, Merle B.
+T1  - Helping young children develop language skills; a book of activities
+Y1  - 1968
+D1  - 1968
+SP  - 136
+KW  - Children with disabilities
+KW  - Language arts
+KW  - Teaching aids
+KW  - Children with mental disabilities
+KW  - English language
+AB  - This book is designed to improve language skills of culturally disadvantaged preschool students.
+N1  - viii; illus. 23 cm.; Responsibility: [by] Merle B. Karnes.
+PB  - Council for Exceptional Children
+CY  - Washington, DC
+LA  - English
+CN  - 371.9 .C86h
+G1  - Pre-K
+ER  - 
+
+TY  - BOOK
+A2  - Decatur (Illinois) Public Schools
+T1  - Handbook on special education
+Y1  - 1955
+D1  _ 1955
+KW  - Special education
+PB  - Decatur Public Schools
+CY  - Decatur, IL
+LA  - English
+CN  - 371.9 .D29h
+SC  - Illinois
+ER  - 
+
+TY  - BOOK
+A1  - Bradshaw, James A.
+A1  - Leman, George D.
+A1  - McCartney, Louise D.
+A1  - Murray, Aneta B.
+A1  - White, Theodore R.
+T1  - Developmental education : a basic instructional guide in reading and other language arts, arithmetic, social and occupational living, level IV
+Y1  - 1961
+D1  - 1961
+SP  - 108
+KW  - Children with mental disabilities
+KW  - Curriculum planning
+N1  - ill. ; 28 cm.; Note(s): Includes bibliographical references.; Responsibility: prepared by James A. Bradshaw ... [et al.], Dept. of Special Education, Division of Instructional Services, [Denver Public Schools].
+PB  - Denver Public Schools
+CY  - Denver, CO
+LA  - English
+CN  - 371.9 .D41de v. 4
+SC  - Colorado
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A1  - Bradshaw, James A.
+A1  - Leman, George D.
+A1  - McCartney, Louise D.
+A1  - Murray, Aneta B.
+A1  - White, Theodore R.
+T1  - Developmental education : a basic instructional guide in reading and other language arts, arithmetic, social and occupational living, level I
+Y1  - 1961
+D1  _ 1961
+SP  - 89
+KW  - Children with mental disabilities
+KW  - Curriculum planning
+N1  - ill. ; 28 cm.; Note(s): Includes bibliographical references.; Responsibility: prepared by James A. Bradshaw ... [et al.], Dept. of Special Education, Division of Instructional Services, [Denver Public Schools].
+PB  - Denver Public Schools
+CY  - Denver, CO
+LA  - English
+CN  - 371.9 .D41de v. 1
+SC  - Colorado
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Bradshaw, James A.
+A1  - Leman, George D.
+A1  - McCartney, Louise D.
+A1  - Murray, Aneta B.
+A1  - White, Theodore R.
+T1  - Developmental education : a basic instructional guide in reading and other language arts, arithmetic, social and occupational living, level V
+Y1  - 1961
+D1  - 1961
+SP  - 69
+KW  - Children with mental disabilities
+KW  - Curriculum planning
+N1  - [71] p. ; 28 cm.; Note(s): Includes bibliographical references.; Responsibility: prepared by James A. Bradshaw ... [et al.], Dept. of Special Education, Division of Instructional Services, [Denver Public Schools].
+PB  - Public Schools
+CY  - Denver, CO
+LA  - English
+CN  - 371.9 .D41de v.5
+SC  - Colorado
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Bradshaw, James A.
+A1  - Leman, George D.
+A1  - McCartney, Louise D.
+A1  - Murray, Aneta B.
+A1  - White, Theodore R.
+T1  - Developmental education : a basic instructional guide in reading and other language arts, arithmetic, social and occupational living, level III
+Y1  - 1961
+D1  - 1961
+KW  - Children with mental disabilities
+KW  - Curriculum planning
+N1  - 69 p. ; 28 cm.; Note(s): Includes bibliographical references.; Responsibility: prepared by James A. Bradshaw ... [et al.], Dept. of Special Education, Division of Instructional Services, [Denver Public Schools].
+PB  - Denver Public Schools
+CY  - Denver, CO
+LA  - English
+CN  - 371.9 .D41de v. 3
+SC  - Colorado
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Bradshaw, James A.
+A1  - Leman, George D.
+A1  - McCartney, Louise D.
+A1  - Murray, Aneta B.
+A1  - White, Theodore R.
+T1  - Developmental education : a basic instructional guide in reading and other language arts, arithmetic, social and occupational living, level II
+Y1  - 1961
+D1  - 1961
+SP  - 78
+KW  - Children with mental disabilities
+KW  - Curriculum planning
+N1  - ill. ; 28 cm.; Note(s): Includes bibliographical references.; Responsibility: prepared by James A. Bradshaw ... [et al.], Dept. of Special Education, Division of Instructional Services, [Denver Public Schools].
+PB  - Denver Public Schools
+CY  - Denver, CO
+LA  - English
+CN  - 371.9 .D41de v. 2
+SC  - Colorado
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Denver (Colorado) Public Schools. Division of Instructional Services
+T1  - Basic design for the enrichment of the education of able and ambitious pupils, kindergarten through grade six. Teacher's manual
+Y1  - 1960
+D1  - 1960
+KW  - Gifted children
+N1  - v. (unpaged) ill. 28 cm. Grades four through six
+PB  - Denver Public Schools
+CY  - Denver, CO
+LA  - English
+CN  - 371.9 .D41b v. 1-3
+SC  - Colorado
+G2  - 4th grade
+G2  - 5th grade
+G2  - 6th grade
+ER  - 
+
+TY  - BOOK
+A2  - Denver (Colorado) Public Schools
+T1  - Helpful hints for teachers of the less able children : kindergarten through grade twelve
+Y1  - 1956
+D1  - 1956
+SP  - 28
+KW  - Special education
+N1  - ill. ; 28 cm.; Note(s): Cover title./ Includes bibliographical references (p. 28).; Responsibility: Denver Public Schools.
+ED  - Rev.
+PB  - Denver Public Schools
+CY  - Denver, CO
+LA  - English
+CN  - 371.9 .D41h
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A1  - Jones, Lloid B.
+T1  - Identification of able and ambitious pupils including the gifted
+Y1  - 1959
+D1  - 1959
+SP  - 9
+KW  - Gifted children
+PB  - Denver Public Schools
+CY  - Denver, CO
+LA  - English
+CN  - 371.9 .D41i
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A2  - Denver (Colorado) Public Schools
+T1  - Education of Denver's exceptional children : partially sighted, hard-of-hearing, developmental. John Evans Elementary School
+Y1  - 1950
+D1  - 1950
+KW  - Special education
+N1  - illus. ; 28 cm.
+PB  - Denver Pubic Schools
+CY  - Denver, CO
+LA  - English
+CN  - 371.9 .D41e
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A1  - Olson, Arthyr R.
+A1  - Ehrenkrook, Wymond J.
+A1  - Britton, Russell K.
+T1  - Guide for speech therapists
+Y1  - 1959
+D1  - 1959
+SP  - 104
+KW  - Speech therapy
+PB  - Denver Public Schools
+CY  - Denver, CO
+LA  - English
+CN  - 371.9 .D41g
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A2  - Denver (Colorado) Public Schools. Division of Instructional Services
+T1  - Plans for providing equality of educational opportunities in pilot schools
+Y1  - 1962
+D1  - 09/1962
+SP  - 27
+KW  - Educational equalization
+PB  - Denver Public Schools
+CY  - Denver, CO
+LA  - English
+CN  - 371.9 .D41p
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A2  - Des Moines (Iowa) Public Schools. Department of Pupil Adjustment
+T1  - Hope is our stronghold
+Y1  - 1948
+D1  - 04/1948
+KW  - Children with disabilities
+N1  - [58] pages : illustrations ; 25 cm; Note(s): Cover title./ "April 1948."
+PB  - Des Moines Public Schools
+CY  - Des Moines, IA
+LA  - English
+CN  - 371.9 .D44h
+SC  - Iowa
+ER  - 
+
+TY  - BOOK
+A1  - MacNair, C. R.
+A1  - Hinds, Hazel
+A1  - Crecelius, Charles
+T1  - The gifted program in Duarte Schools
+Y1  - 1958
+D1  - 07/1958
+KW  - Gifted children
+PB  - Duarte School District
+CY  - Duarte, CA
+LA  - English
+CN  - 371.9 .D81g
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - East Palo Alto (California) Day School
+A2  - Mothers for Equal Education
+T1  - Day School, E.P.A.
+Y1  - 1970
+D1  - 1970
+SP  - 88
+KW  - African Americans
+KW  - East Palo Alto Day School
+N1  - 88 p. illus. 23 cm.; Note(s): Prepared under the auspices of the Mothers for Equal Education.; Responsibility: by Day School people.
+PB  - M.E.E. Bookstore
+CY  - East Palo Alto, CA
+LA  - English
+CN  - 371.9 .E13d
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Federation Employment and Guidance Service
+T1  - An intensive vocational counseling program for slow learners in high school : report of a special project for boys and girls in tenth and eleventh grade modified English classes
+Y1  - 1959
+D1  - 06/1959
+SP  - 56
+KW  - Vocational guidance
+KW  - Children with mental disabilities
+N1  - 56 p. ; 29 cm.; Note(s): "Conducted under a grant from the New York Fund for Children, Inc."/ Includes bibliographical references.
+PB  - Federation Employment and Guidance Service
+CY  - New York, NY
+LA  - English
+CN  - 371.9 .F28i
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Flint (Michigan) Public Schools
+T1  - Special education for the mentally handicapped type "b": a guide for teachers
+Y1  - 1956
+D1  - 1956
+SP  - 107+
+KW  - Children with mental disabilities
+PB  - Flint Public Schools
+CY  - Flint, MI
+LA  - English
+CN  - 371.9 .F62s
+SC  - Michigan
+ER  - 
+
+TY  - BOOK
+A2  - Florida Atlantic University. Migrant Education Center
+A2  - Educational Resources Information Center (U.S.)
+T1  - An annotated bibliography of migrant related materials
+Y1  - 1969
+D1  - 07/1969
+SP  - 108
+KW  - Children of migrant laborers  
+KW  - Bibliography
+N1  - 108 p.; ill.; Note(s): 
+PB  - Florida Migratory Child Compensatory Program
+CY  - Tallahassee, FL
+LA  - English
+CN  - 371.9 .F63a
+SC  - Florida
+ER  - 
+
+TY  - BOOK
+A2  - Fresno (California) City Unified School District
+T1  - Educational opportunities for exceptional children
+Y1  - 1951
+D1  - 09/1961
+SP  - 19
+KW  - Special education
+PB  - Fresno City Unified School District
+CY  - Fresno, CA
+LA  - English
+CN  - 371.9 .F88e
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Fresno (California) City Unified School District
+T1  - Honors program for Fresno City Unified School District
+Y1  - 1959
+D1  - 04/1959
+KW  - Gifted children
+KW  - Honors courses
+PB  - Fresno City Unified School District
+CY  - Fresno, CA
+LA  - English
+CN  - 371.9 .F88h
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Fresno County (California) Schools
+T1  - Teaching children who move with the crops. Report and recommendations of the Fresno County Project, the Education Program for Migrant Children
+Y1  - 1955
+D1  - 09/1955
+KW  - Children of migrant laborers
+N1  - 95 p. ill. 26 cm.
+PB  - Walter G. Martin, Fresno County Superintendent of Schools
+CY  - Fresno, CA
+LA  - English
+CN  - 371.9 .F89t
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Head Start Information Services Department
+A2  - ERIC Clearinghouse on Early Childhood Education
+T1  - Head Start curriculum models : a reference list
+Y1  - 1971
+D1  - 02/1971
+SP  - 18
+KW  - Children with social disabilities
+KW  - Bibliography
+N1  - 19 p. ; 28 cm.; Note(s): "February 1971."/ Funding: Produced pursuant to a contract with the Office of Child Development, partially supported by a contract with the Office of Education, U.S. Department of Health, Education, and Welfare.; Responsibility: compiled by Head Start Information Services Department, ERIC Clearinghouse on Early Childhood Education.
+PB  - ERIC Clearinghouse on Early Childhood Education
+CY  - Urbana, IL
+LA  - English
+CN  - 371.9 .E68h
+G1  - Pre-K
+ER  - 
+
+TY  - BOOK
+A1  - Miles, Oma
+A1  - Anderson, Ruth
+A1  - Merk, Dorothy
+T1  - We learn to talk
+SP  - 32
+KW  - Speech therapy
+PB  - Fresno County Schools. Special Education Department
+CY  - Fresno, CA
+LA  - English
+CN  - 371.9 .F89w v. 1
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Miles, Oma
+A1  - Anderson, Ruth
+A1  - Merk, Dorothy
+T1  - Stuttering: a guide for parents
+SP  - 18
+KW  - Speech therapy
+PB  - Fresno County Schools. Special Education Department
+CY  - Fresno, CA
+LA  - English
+CN  - 371.9 .F89w v. 2
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Gary (Indiana) Public Schools
+T1  - Suggestions for teaching the more able: a supplement to curriculum guides, grades 1-6
+Y1  - 1962
+D1  - 1962
+SP  - 72
+KW  - Gifted children
+PB  - Gary Public Schools
+CY  - Gary, IN
+LA  - English
+CN  - 371.9 .G24s
+SC  - Indiana
+G2  - 1st grade
+G2  - 2nd grade
+G2  - 3rd grade
+G2  - 4th grade
+G2  - 5th grade
+G2  - 6th grade
+ER  - 
+
+TY  - BOOK
+A1  - Marshall, Wayne P.
+T1  - The mentally gifted child in your classroom: some suggestions for recognizing and challenging them in Grand Island public schools
+Y1  - 1955
+D1  - 12/1955
+SP  - 35
+KW  - Gifted children
+PB  - Grand Island Public Schools
+CY  - Grand Island, NE
+LA  - English
+CN  - 371.9 .G74m
+SC  - Nebraska
+ER  -
+
+TY  - BOOK
+A2  - Great Britain. Department of Education and Science
+T1  - The education of deaf children: the possible place of finger spelling and signing. Report of the committee appointed by the Secretary of State for Education and Science in October, 1964
+Y1  - 1968
+D1  - 1968
+SP  - 131
+KW  - Deaf
+N1  - xii; 25 cm.; Note(s): Includes bibliographies.
+PB  - Her Majesty's Stationary Office
+CY  - London, UK
+LA  - English
+CN  - 371.9 .G78e
+SC  - United Kingdom
+ER  - 
+
+TY  - BOOK
+A2  - Hartford (Connecticut) Public Schools
+T1  - Course of study for slow learners, grades 7-10
+Y1  - 1956
+D1  - 1956
+SP  - 64
+KW  - Special education
+KW  - Curricula
+N1  - 64 leaves : forms ; 28 cm.; Note(s): Cover title./ Bibliography: leaves 45-59.; Other Titles: Slow learners
+PB  - Hartford Public Schools
+CY  - Hartford, CT
+LA  - English
+CN  - 371.9 .H32c
+SC  - Connecticut
+G2  - 7th grade
+G2  - 8th grade
+G2  - 9th grade
+G2  - 10th grade
+ER  - 
+
+TY  - BOOK
+A2  - Hawaii. Department of Public Instruction
+T1  - Exceptional children in Hawaii's public schools
+Y1  - 1953
+D1  - 1953
+SP  - 24
+KW  - Gifted children
+N1  - 24 pages illustrations; Note(s): "A series of articles reprinted from the Hawaii educational review, Sept. 1952-Feb. 1953."
+CY  - Honolulu, HI
+LA  - English
+CN  - 371.9 .H38e
+SC  - Hawaii
+ER  - 
+
+TY  - BOOK
+A2  - Hayward (California) Union High School District. Division of Educational Services
+T1  - More-able student program
+Y1  - 1958
+D1  - 07/1958
+KW  - Gifted children
+PB  - Hayward Union High School District
+CY  - Hayward, CA
+LA  - English
+CN  - 371.9 .H42m
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Gallagher, James John
+A2  - Illinois.  Office of the Superintendent of Public Instruction
+T1  - Analysis of research on the education of gifted children
+Y1  - 1960
+D1  - 1960
+SP  - 148
+KW  - Gifted children
+N1  - vii; illus. 23 cm.; Note(s): Bibliography: p. 141-148.; Responsibility: [Prepared for] State of Illinois, Office of the Superintendent of Public Instruction, Special study project for gifted children.
+PB  - State of Illinois, Office of the Superintendent of Public Instruction
+CY  - Springfield, IL
+LA  - English
+CN  - 371.9 .I29a
+SC  - Illinois
+ER  - 
+
+TY  - BOOK
+A1  - Goldstein, Herbert
+A1  - Seigle, Dorothy M.
+T1  - The Illinois plan for special education of exceptional children : a curriculum guide for teachers of the educable mentally handicapped
+Y1  - 1964
+D1  - 1964?
+SP  - 267
+KW  - Children with mental disabilities
+N1  - v; ; 21 x 28 cm.; Note(s): "A cooperative project of the Office of Public Instruction, Division for Exceptional Children and the Institute for Research on Exceptional Children at the University of Illinois."; Other Titles: Curriculum guide for teachers of the educable mentally handicapped; Responsibility: directed and compiled by Herbert Goldstein, Dorothy M. Seigle.
+PB  - Interstate Printers & Publishers
+CY  - Danville, IL
+LA  - English
+CN  - 371.9 .I291c
+SC  - Illinois
+ER  - 
+
+TY  - BOOK
+A2  - Houston (Texas) Public Schools
+T1  - Providing for the gifted student
+Y1  - 1954
+D1  - 1954-1955
+SP  - 34
+KW  - Gifted children
+PB  - Houston Public Schools
+CY  - Houston, TX
+LA  - English
+CN  - 371.9 .H84p
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A1  - Nunn, Nita R.
+A1  - Jones, Charles Ray
+T1  - The learning pyramid: potential through perception
+Y1  - 1972
+D1  - 1972
+SP  - 126
+KW  - Children with mental disabilities
+KW  - Perceptual-motor learning
+N1  - ix; illus. 23 cm.; Note(s): Bibliography: p. 121-123.; Responsibility: [by] Nita R. Nunn [and] Charles R. Jones.
+T2  - The Slow learner series
+PB  - Charles E. Merrill
+CY  - Columbus, OH
+LA  - English
+CN  - 371.9 .H54L
+ER  - 
+
+TY  - BOOK
+A2  - Highland Park Public Schools (Dallas, Texas)
+T1  - Ways of working with able learners
+Y1  - 1958
+D1  - 04/1958
+SP  - 41
+KW  - Gifted children
+PB  - Highland Park Public Schools
+CY  - Dallax, TX
+LA  - English
+CN  - 371.9 .H63w
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - Kalakaua Intermediate School (Honolulu, Hawaii)
+T1  - Evaluation meeting of personality disturbed class Kalakaua Intermediate School, Minutes, November 21, 1958, 2:15 p.m.
+Y1  - 1956
+D1  - 11/1956
+SP  - 6+
+KW  - Problem children
+KW  - Mentally ill children
+PB  - Kalakaua Intermediate School
+CY  - Honolulu, HI
+LA  - English
+CN  - 371.9 .H77e
+SC  - Hawaii
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Houston (Texas) Independent School District
+T1  - Report on talent preservation of the junior high schools of Houston Independent School District
+Y1  - 1961
+D1  - 06/1961
+KW  - Gifted children
+PB  - Houston Independent School District
+CY  - Houston, TX
+LA  - English
+CN  - 371.9 .H84r
+SC  - Texas
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Hudson School District (La Puente, California)
+T1  - Home teacher's handbook
+Y1  - 1964
+D1  - 1964
+KW  - Special education
+PB  - Hudson School District
+CY  - La Puente, CA
+LA  - English
+CN  - 371.9 .H88h
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Illinois Gifted Program Evaluation
+T1  - The gifted classroom
+Y1  - 1971
+D1  - 06/1971
+SP  - 164
+KW  - Gifted children
+KW  - Special education
+KW  - Educational acceleration
+N1  - ix; ; 28 cm.; Note(s): Supported by Gifted Program Development Section, Department for Exceptional Children, Office of the Superintendent of Public Instruction.; Responsibility: Illinois Gifted Program Evaluation.
+PB  - Illinois Gifted Program Evaluation
+CY  - Urbana, IL
+LA  - English
+CN  - 371.9 .I291g
+SC  - Illinois
+ER  - 
+
+TY  - BOOK
+A1  - Hayes, Dorothy T.
+T1  - Normative growth and development
+T2  - Selected references
+V1  - 1
+Y1  - 1952
+D1  - 09/1952
+SP  - 8
+KW  - Child development
+PB  - International Council for Exceptional Children
+CY  - Washington, DC
+LA  - English
+CN  - 371.9 .I61s
+ER  - 
+
+TY  - BOOK
+A1  - Wilson, Frank T
+T1  - Gifted child
+T2  - Selected references
+V1  - 3
+Y1  - 1952
+D1  - 09/1952
+SP  - 6
+KW  - Gifted children
+PB  - International Council for Exceptional Children
+CY  - Washington, DC
+LA  - English
+CN  - 371.9 .I61s
+ER  - 
+
+TY  - BOOK
+A1  - Harnett, Mary
+T1  - Child with retarded mental development
+T2  - Selected references
+V1  - 4
+Y1  - 1952
+D1  - 09/1952
+SP  - 7
+KW  - Children with mental disabilities
+PB  - International Council for Exceptional Children
+CY  - Washington, DC
+LA  - English
+CN  - 371.9 .I61s
+ER  - 
+
+TY  - BOOK
+A1  - Abel, Georgie Lee
+T1  - Blind child
+T2  - Selected references
+V1  - 5
+Y1  - 1952
+D1  - 09/1952
+SP  - 5
+KW  - Blind
+PB  - International Council for Exceptional Children
+CY  - Washington, DC
+LA  - English
+CN  - 371.9 .I61s
+ER  - 
+
+TY  - BOOK
+A1  - Cohoe, Edith
+T1  - Partially seeing child
+T2  - Selected references
+V1  - 6
+Y1  - 1952
+D1  - 09/1952
+SP  - 7
+KW  - Children with visual disabilities
+PB  - International Council for Exceptional Children
+CY  - Washington, DC
+LA  - English
+CN  - 371.9 .I61s
+ER  - 
+
+TY  - BOOK
+A1  - Strong, Alice
+T1  - Deaf child
+T2  - Selected references
+V1  - 7
+Y1  - 1952
+D1  - 09/1952
+SP  - 3
+KW  - Deafness
+PB  - International Council for Exceptional Children
+CY  - Washington, DC
+LA  - English
+CN  - 371.9 .I61s
+ER  - 
+
+TY  - BOOK
+A1  - King, Kathryn V.
+A1  - Lynndelle, Vivian
+T1  - Hard of hearing child
+T2  - Selected references
+V1  - 8
+Y1  - 1952
+D1  - 09/1952
+SP  - 7
+KW  - Deafness
+PB  - International Council for Exceptional Children
+CY  - Washington, DC
+LA  - English
+CN  - 371.9 .I61s
+ER  - 
+
+TY  - BOOK
+A1  - Carpenter, Geraldine H.
+T1  - Child with cardiac disturbances
+T2  - Selected references
+V1  - 10
+Y1  - 1952
+D1  - 09/1952
+SP  - 7
+KW  - Chronically ill children
+PB  - International Council for Exceptional Children
+CY  - Washington, DC
+LA  - English
+CN  - 371.9 .I61s
+ER  - 
+
+TY  - BOOK
+A1  - Dolphin, Jane E.
+T1  - Multiple handicapped child
+T2  - Selected references
+V1  - 12
+Y1  - 1952
+D1  - 09/1952
+SP  - 6
+KW  - Children with disabilities
+PB  - International Council for Exceptional Children
+CY  - Washington, DC
+LA  - English
+CN  - 371.9 .I61s
+ER  - 
+
+TY  - BOOK
+A1  - Cherry, Betty S.
+T1  - Crippled children
+T2  - Selected references
+V1  - 13
+Y1  - 1952
+D1  - 09/1952
+SP  - 7
+KW  - Children with disabilities
+PB  - International Council for Exceptional Children
+CY  - Washington, DC
+LA  - English
+CN  - 371.9 .I61s
+ER  - 
+
+TY  - BOOK
+A1  - Harper, Hazel C.
+T1  - Epileptic children
+T2  - Selected references
+V1  - 14
+Y1  - 1952
+D1  - 09/1952
+SP  - 6
+KW  - Chronically ill children
+PB  - International Council for Exceptional Children
+CY  - Washington, DC
+LA  - English
+CN  - 371.9 .I61s
+ER  - 
+
+TY  - BOOK
+A2  - Joliet (Illinois) Township High School and Junior College
+T1  - Report of the Committee on Special Education
+Y1  - 1955
+D1  - 12/1955
+SP  - 2
+KW  - Special education
+PB  - Joliet Township High School and Junior College
+CY  - Joliet, IL
+LA  - English
+CN  - 371.9 .J75r
+SC  - Illinois
+G1  - High school
+G1  - Postsecondary
+ER  - 
+
+TY  - BOOK
+A2  - Kansas. Division of Special Education
+T1  - Planning for visually impaired children in Kansas schools, an administrative guide
+Y1  - 1962
+D1  - 1962
+SP  - 24
+KW  - Children with visual disabilities
+KW  - Blind
+N1  - 24 p. illus. 28 cm.
+PB  - Kansas State Department of Public Instruction
+CY  - Topeka, KS
+LA  - English
+CN  - 371.9 .K15p v. 2
+SC  - Kansas
+ER  - 
+
+TY  - BOOK
+A2  - Kansas. State Department of Public Instruction. Division of Special Education
+T1  - Speech correction in Kansas schools; an administrative guide
+Y1  - 1962
+D1  - 1962
+SP  - 28
+KW  - Speech therapy
+N1  - 28 pages illustrations
+ED  - Rev.
+PB  - Kansas State Department of Public Instruction
+CY  - Topeka, KS
+LA  - English
+CN  - 371.9 .K15p v. 3
+SC  - Kansas
+ER  - 
+
+TY  - BOOK
+A2  - Kansas. State Department of Public Instruction. Division of Special Education
+T1  - Educating the child with special needs : special education in Kansas
+Y1  - 1961
+D1  - 1961
+SP  - 17
+KW  - Special education
+N1  - [17] pages : illustrations ; 28 cm; Other Titles: Special education in Kansas; Responsibility: prepared by Division of Special Education ; James E. Marshall, Director.
+PB  - Kansas State Department of Public Instruction
+CY  - Topeka, KS
+LA  - English
+CN  - 371.9 .K15p v. 1
+SC  - Kansas
+ER  - 
+
+TY  - BOOK
+A2  - Kansas. State Department of Public Instruction. Division of Special Education
+T1  - Planning for children with physical limitations in Kansas Schools: an administrative guide
+Y1  - 1963
+D1  - 1963
+SP  - 23
+KW  - Children with disabilities
+N1  - 23 pages : illustrations ; 28 cm; James E. Marshall, Director.
+PB  - Kansas State Department of Public Instruction
+CY  - Topeka, KS
+LA  - English
+CN  - 371.9 .K15p v. 4
+SC  - Kansas
+ER  - 
+
+TY  - BOOK
+A2  - Kansas. State Department of Public Instruction. Division of Special Education
+T1  - Planning for children with hearing impairments in Kansas schools, an administrative guide
+Y1  - 1962
+D1  - 1962
+SP  - 28
+KW  - Deafness
+N1  - 24 p. illus. 28 cm.
+PB  - Kansas State Department of Public Instruction
+CY  - Topeka, KS
+LA  - English
+CN  - 371.9 .K15p v. 5
+SC  - Kansas
+ER  - 
+
+TY  - BOOK
+A2  - Kansas. State Department of Public Instruction. Division of Special Education
+T1  - Planning for homebound and hospitalized children in Kansas; an administrative guide
+Y1  - 1961
+D1  - 1961
+SP  - 28
+KW  - Children with disabilities
+N1  - 28 pages illustrations 28 cm; Other Titles: Homebound and hospitalized children in Kansas.
+PB  - Kansas State Department of Public Instruction
+CY  - Topeka, KS
+LA  - English
+CN  - 371.9 .K15p v. 6
+SC  - Kansas
+ER  - 
+
+TY  - BOOK
+A2  - Kansas. State Department of Public Instruction. Division of Special Education
+T1  - Planning for educable mentally retarded in Kansas schools : an administrative guide
+Y1  - 1960
+D1  - 1960
+SP  - 32
+KW  - Children with mental disabilities
+N1  - 32 pages : illustrations ; 28 cm; Responsibility: prepared by Division of Special Education, James E. Marshall, Director.
+PB  - Kansas State Department of Public Instruction
+CY  - Topeka, KS
+LA  - English
+CN  - 371.9 .K15p v. 7
+SC  - Kansas
+ER  - 
+
+TY  - BOOK
+A2  - Kentucky (State) Department of Education
+T1  - Exceptional children state plan
+Y1  - 1956
+D1  - 08/1956
+KW  - Special education
+N1  - p. 255-292 : ill., forms ; 23 cm.; Note(s): At head of title: Commonwealth of Kentucky.
+T2  - Educational bulletin (Frankfort, Ky.)
+V1  - 24
+IS  - 8
+ED  - Rev.
+PB  - Kentucky Dept. of Education
+CY  - Frankfort, KY
+LA  - English
+CN  - 371.9 .K37e
+SC  - Kentucky
+ER  - 
+
+TY  - BOOK
+A2  - Kern County, California Office of Superintendent of Schools
+T1  - Suggested curriculum guide for mentally retarded children in elementary school, 1959-60 (working copy) Adopted by County Board of Education, Kern County, Calif
+Y1  - 1960
+D1  - 1959-1960
+SP  - 90
+KW  - Children with mental disabilities
+KW  - Curricula
+N1  - 90 p.
+PB  - Kern Co., Calif. Office of Superintendent of Schools
+CY  - Bakersfield, CA
+LA  - English
+CN  - 371.9 .K39s
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Motley, Dena
+A2  - University of Kansas. Bureau of Child Research
+T1  - Our visually handicapped children
+Y1  - 1960
+D1  - 06/1960
+SP  - 40
+KW  - Children with visual disabilities
+KW  - Blind
+N1  - 40 p. ill.; Responsibility: prepared by Dena Motley. 
+T2  - Kansas. University. Bureau of Child Research. Public information series
+V1  - 3
+PB  - Bureau of Child Research, University of Kansas
+CY  - Lawrence, KS
+LA  - English
+CN  - 371.9 .K17ov
+SC  - Kansas
+ER  - 
+
+TY  - BOOK
+A1  - Schiefelbusch, Richard L.
+T1  - Our gifted children
+Y1  - 1958
+D1  - 06/1958
+SP  - 35
+KW  - Gifted children
+N1  - 35 p. 22 cm.; Note(s): Bibliography: p. 31-35.
+T2  - Public information series (University of Kansas. Bureau of Child Research)
+V1  - 1
+PB  - Bureau of Child Research, University of Kansas
+CY  - Lawrence, KS
+LA  - English
+CN  - 371.9 .K17o
+SC  - Kansas
+ER  - 

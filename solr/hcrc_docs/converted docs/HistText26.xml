@@ -1,0 +1,956 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Arlington Heights (Illinois) Public Schools</field>
+<field name="title">Tutorial program: English as a second language</field>
+<field name="year">1967</field>
+<field name="date">01/1967</field>
+<field name="pages">73</field>
+<field name="keywords">English language</field>
+<field name="keywords">Second language acquisition</field>
+<field name="publisher">Arlington Heights (Illinois) Public Schools</field>
+<field name="pub_place">Arlington Heights, IL</field>
+<field name="language">English</field>
+<field name="call_number">428.211 .A72t</field>
+<field name="state_country">Illinois </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Chicago (Illinois) City Board of Education</field>
+<field name="title">Psycholinguistics oral language program : a bi-dialectal approach, pt. 1</field>
+<field name="year">1968</field>
+<field name="date">1968</field>
+<field name="pages">181</field>
+<field name="keywords">African Americans</field>
+<field name="keywords">English language</field>
+<field name="keywords">Spoken English</field>
+<field name="notes">181 pages; Note(s): The oral language program is for grades 2-4./ Designed for
+Afro-American children, grades 1-4, whose speech patterns differ from those of standard English. The
+bi-dialectical program presents subjects relevant to the learners' backgrounds using an aural-oral
+method./ Developed as part of an experimental project supported by the Illinois Plan for Program
+Development for Gifted Students, Office of Public Instruction, State of Illinois; and the Board of
+Education, City of Chicago.; Responsibility: developed by the Psycholinguistics Project
+staff.</field>
+<field name="edition">Experimental</field>
+<field name="publisher">Chicago (Illinois) City Board of Education</field>
+<field name="pub_place">Chicago, IL</field>
+<field name="language">English</field>
+<field name="call_number">428.211 .C53p</field>
+<field name="state_country">Illinois </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Burt, Marina K.</field><field name="author_nat">Marina K. Burt</field>
+<field name="author">Kiparsky, Carol</field><field name="author_nat">Carol Kiparsky</field>
+<field name="title">The gooficon: a repair manual for English</field>
+<field name="year">1972</field>
+<field name="date">1972</field>
+<field name="pages">121</field>
+<field name="keywords">English language</field>
+<field name="notes">121 p. 23 cm.; Responsibility: [by] Marina K. Burt [and] Carol Kiparsky.</field>
+<field name="publisher">Newbury House</field>
+<field name="pub_place">Rowley, MA</field>
+<field name="language">English</field>
+<field name="call_number">428.211 .B97g </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Cleveland (Ohio) Public Schools. Division of Adult Education</field>
+<field name="title">Manual for teachers of adult English and citizenship classes</field>
+<field name="year">1951</field>
+<field name="date">09/1951</field>
+<field name="pages">69</field>
+<field name="keywords">Citizenship</field>
+<field name="keywords">English language</field>
+<field name="notes">69 leaves ; 28 cm.; Note(s): Cover title./ Includes bibliographies.</field>
+<field name="publisher">Cleveland (Ohio) Public Schools. Division of Adult Education</field>
+<field name="pub_place">Cleveland, OH</field>
+<field name="language">English</field>
+<field name="call_number">428.211 .C63m</field>
+<field name="state_country">Ohio </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Teachers College, Columbia University</field>
+<field name="title">Teaching English as a second language materials development center</field>
+<field name="year">1965</field>
+<field name="date">1965</field>
+<field name="pages">200</field>
+<field name="keywords">English language</field>
+<field name="keywords">Second language acquisition</field>
+<field name="publisher">Teachers College, Columbia University</field>
+<field name="pub_place">New York, NY</field>
+<field name="language">English</field>
+<field name="call_number">428.211 .C71t </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Dade County (Florida) Public Schools</field>
+<field name="title">Planning for non-English-speaking pupils</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="pages">31</field>
+<field name="keywords">English language</field>
+<field name="keywords">Second language acquisition</field>
+<field name="publisher">Dade County (Florida) Public Schools</field>
+<field name="pub_place">Miami, FL</field>
+<field name="language">English</field>
+<field name="call_number">428.211 .D12p</field>
+<field name="state_country">Florida </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Jacobs, Charles C.</field><field name="author_nat">Charles C. Jacobs</field>
+<field name="title">An approach to migrant bilingual education</field>
+<field name="year">1969</field>
+<field name="date">1969</field>
+<field name="pages">25</field>
+<field name="keywords">Bilingual education</field>
+<field name="keywords">Children of migrant laborers</field>
+<field name="notes">25 l. 22 x 30 cm.; Note(s): Facsimile reprint by Educational Resources
+Information Center, 1969./ Developed under a special inter-state project, Strengthening Services of
+State Departments in Migrant Education; Title V, Elementary Secondary Education Act, Section 505.;
+Responsibility: by Charles C. Jacobs.</field>
+<field name="publisher">Vocational-Technical Division, Delaware State Department of Public
+Instruction</field>
+<field name="pub_place">Dover, DE</field>
+<field name="language">English</field>
+<field name="language">Spanish</field>
+<field name="call_number">428.211 .D34a</field>
+<field name="state_country">Delaware </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Follow Through Project (University of California, Riverside)</field>
+<field name="title">The Paul Revere story</field>
+<field name="year">1972</field>
+<field name="date">1972</field>
+<field name="pages">8</field>
+<field name="keywords">Revere, Paul, 1735-1818</field>
+<field name="keywords">United States history</field>
+<field name="keywords">United States Revolution, 1775-1783</field>
+<field name="keywords">Juvenile literature</field>
+<field name="notes">ill. ; 22 cm.; Note(s): Elementary level story in Spanish and English.;
+Responsibility: Follow Through Project.</field>
+<field name="series_title">Culturally democratic learning environments</field>
+<field name="publisher">Follow Through Project (University of California, Riverside)</field>
+<field name="pub_place">Riverside, CA</field>
+<field name="language">English</field>
+<field name="language">Spanish</field>
+<field name="call_number">428.211 .F66d v. 3</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Follow Through Project (University of California, Riverside)</field>
+<field name="title">The Diecis’eis heritage unit</field>
+<field name="year">1972</field>
+<field name="date">1972</field>
+<field name="pages">111</field>
+<field name="keywords">Mexican Americans</field>
+<field name="keywords">Hidalgo y Costilla, Miguel</field>
+<field name="keywords">Morelos y Pav’on, Jos’e Mar’ia Teclo</field>
+<field name="keywords">Revere, Paul, 1735-1818</field>
+<field name="keywords">Franklin, Benjamin</field>
+<field name="abstract">Bilingual unit for K-3 with historical information, activities, and
+dramatizations.</field>
+<field name="notes">ill. ; 28 cm.; Note(s): Contains information on Father Hidalgo, Paul Revere,
+Jos’e Mar’ia Morelos, and Benjamin Franklin.; Responsibility: Follow Through Program, University of
+California at Riverside.</field>
+<field name="series_title">Culturally democratic learning environments</field>
+<field name="publisher">Follow Through Project (University of California, Riverside)</field>
+<field name="pub_place">Riverside, CA</field>
+<field name="language">English</field>
+<field name="language">Spanish</field>
+<field name="call_number">428.211 .F66d v. 1</field>
+<field name="state_country">California </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">El Paso (Texas) Public Schools</field>
+<field name="title">Bilingual bicultural materials : a listing for library resource centers</field>
+<field name="year">1974</field>
+<field name="date">06/1974</field>
+<field name="pages">79</field>
+<field name="keywords">Audio-visual materials</field>
+<field name="keywords">Catalogs</field>
+<field name="keywords">Bilingual education</field>
+<field name="keywords">Spanish language</field>
+<field name="keywords">English language</field>
+<field name="notes">79 p. ; 22 cm.; Note(s): Cover title.</field>
+<field name="publisher">El Paso (Texas) Public Schools</field>
+<field name="pub_place">El Paso, TX</field>
+<field name="language">English</field>
+<field name="call_number">428.211 .E37b</field>
+<field name="state_country">Texas </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Escondido (California) Union School District</field>
+<field name="title">Continuation application: Spanish-English bilingual education</field>
+<field name="year">1972</field>
+<field name="date">04/1972</field>
+<field name="pages">76</field>
+<field name="keywords">Bilingual education</field>
+<field name="keywords">English language</field>
+<field name="keywords">Spanish language</field>
+<field name="publisher">Escondido (California) Union School District</field>
+<field name="pub_place">Escondido, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.211 E74s</field>
+<field name="state_country">California </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Follow Through Project (University of California, Riverside)</field>
+<field name="title">Morelos</field>
+<field name="year">1975</field>
+<field name="date">1975</field>
+<field name="pages">9</field>
+<field name="keywords">Morelos, José María, 1765-1815</field>
+<field name="keywords">Mexico history</field>
+<field name="keywords">Mexico Wars of Independence, 1810-1821</field>
+<field name="keywords">Juvenile literature</field>
+<field name="notes">ill. ; 22 cm.; Note(s): Elementary level biography of Morelos in English and
+Spanish./ "Grant number G007507259."/ "August, 1975."; Responsibility: [Follow Through
+Project].</field>
+<field name="series_title">Culturally democratic learning environments</field>
+<field name="publisher">Follow Through Project (University of California, Riverside)</field>
+<field name="pub_place">Riverside, CA</field>
+<field name="language">English</field>
+<field name="language">Spanish</field>
+<field name="call_number">428.211 .F66d v. 4</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Follow Through Project (University of California, Riverside)</field>
+<field name="title">Miguel Hidalgo</field>
+<field name="year">1975</field>
+<field name="date">1975?</field>
+<field name="pages">17</field>
+<field name="keywords">Revolutionaries</field>
+<field name="keywords">Mexico</field>
+<field name="keywords">Biography</field>
+<field name="keywords">Juvenile literature</field>
+<field name="keywords">Catholics</field>
+<field name="keywords">Hidalgo y Costilla, Miguel, 1753-1811</field>
+<field name="keywords">Wars of Independence, 1810-1821</field>
+<field name="notes">ill. ; 22 cm.; Note(s): English and Spanish./ Cover title.</field>
+<field name="series_title">Culturally Democratic Learning Environments</field>
+<field name="publisher">Follow Through Project, University of California</field>
+<field name="pub_place">Riverside, CA</field>
+<field name="language">English</field>
+<field name="language">Spanish</field>
+<field name="call_number">428.211 .F66d v. 2</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Follow Through Project (University of California, Riverside)</field>
+<field name="title">Cucamonga school district program</field>
+<field name="year">1973</field>
+<field name="date">1973</field>
+<field name="keywords">Bilingual education</field>
+<field name="keywords">Spanish language</field>
+<field name="keywords">English language</field>
+<field name="publisher">Follow Through Project (University of California, Riverside)</field>
+<field name="pub_place">Riverside, CA</field>
+<field name="language">English</field>
+<field name="language">Spanish</field>
+<field name="call_number">428.211 .F66c</field>
+<field name="state_country">California </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Follow Through Project (University of California, Riverside)</field>
+<field name="title">Halloween unit</field>
+<field name="year">1972</field>
+<field name="date">Fall, 1972</field>
+<field name="pages">73</field>
+<field name="keywords">Halloween</field>
+<field name="keywords">Language arts</field>
+<field name="keywords">Bilingual education</field>
+<field name="abstract">Bilingual unit of juvenile literature with three stories in Spanish and two
+in English. Suggestions for using a felt board.</field>
+<field name="notes">ill. ; 28 cm.; Note(s): Stories in English are adaptations of Washington Irvings
+The legend of sleepy hollow and Rip Van Winkle./ English summaries of the stories in Spanish.;
+Responsibility: Follow Through Program, University of California at Riverside.</field>
+<field name="series_title">Culturally democratic learning environments</field>
+<field name="publisher">Follow Through Project (University of California, Riverside)</field>
+<field name="pub_place">Riverside, CA</field>
+<field name="language">English</field>
+<field name="language">Spanish</field>
+<field name="call_number">428.211 .F66m v. 3</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Follow Through Project (University of California, Riverside)</field>
+<field name="title">Nutrition unit</field>
+<field name="year">1972</field>
+<field name="date">1972</field>
+<field name="keywords">Nutrition</field>
+<field name="keywords">Health education</field>
+<field name="keywords">Bilingual education</field>
+<field name="abstract">Bilingual unit for K-3 containing lessons about the four conventional food
+groups.</field>
+<field name="notes">32 p. ; 28 cm.; Responsibility: Follow Through Program, University of California
+at Riverside.</field>
+<field name="series_title">Culturally democratic learning environments; Variation: Culturally
+democratic learning environments.</field>
+<field name="publisher">Follow Through Project (University of California, Riverside)</field>
+<field name="pub_place">Riverside, CA</field>
+<field name="language">English</field>
+<field name="language">Spanish</field>
+<field name="call_number">428.211 .F66m v. 4</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">Kindergarten</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Follow Through Project (University of California, Riverside)</field>
+<field name="title">Lincoln and Ju’arez heritage unit</field>
+<field name="year">1972</field>
+<field name="date">1972</field>
+<field name="keywords">History</field>
+<field name="keywords">Juárez, Benito, 1806-1872</field>
+<field name="keywords">Lincoln, Abraham, 1809-1865</field>
+<field name="keywords">Juvenile literature</field>
+<field name="abstract">Bilingual unit for K-3 featuring history through dramatization.</field>
+<field name="notes">ill. ; 28 cm.; Responsibility: Follow Through Program, University of California
+at Riverside.</field>
+<field name="series_title">Culturally democratic learning environments</field>
+<field name="publisher">Follow Through Project (University of California, Riverside)</field>
+<field name="pub_place">Riverside, CA</field>
+<field name="language">English</field>
+<field name="language">Spanish</field>
+<field name="call_number">428.211 .F66m v. 1</field>
+<field name="grade_level_number">Kindergarten</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Follow Through Project (University of California, Riverside)</field>
+<field name="title">Día de la Raza heritage unit</field>
+<field name="pages">140</field>
+<field name="keywords">Mexican Americans</field>
+<field name="keywords">Bilingual education</field>
+<field name="keywords">Juvenile literature</field>
+<field name="series_title">Culturally democratic learning environments</field>
+<field name="publisher">Follow Through Project, University of California</field>
+<field name="pub_place">Riverside, CA</field>
+<field name="language">English</field>
+<field name="language">Spanish</field>
+<field name="call_number">428.211 .F66m v. 2</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Follow Through Project (University of California, Riverside)</field>
+<field name="title">Cuauhtémoc</field>
+<field name="keywords">Aztecs</field>
+<field name="keywords">Biography</field>
+<field name="keywords">Juvenile literature</field>
+<field name="keywords">Cuauhtemoc, Emperor of Mexico, 1495?-1525</field>
+<field name="keywords">Mexico history</field>
+<field name="keywords">Mexico Conquest, 1519-1540</field>
+<field name="notes">1 v. (unpaged) : ill. ; 14 x 22 cm.; Note(s): Cover title./ Text in English and
+Spanish.</field>
+<field name="series_title">Culturally democratic learning environments</field>
+<field name="publisher">Follow Through Project (University of California, Riverside)</field>
+<field name="pub_place">Riverside, CA</field>
+<field name="language">English</field>
+<field name="language">Spanish</field>
+<field name="call_number">428.211 .F66m v. 2a</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Follow Through Project (University of California, Riverside)</field>
+<field name="title">Cristobal Colon</field>
+<field name="keywords">Colón, Cristóbal, 1451-1506</field>
+<field name="keywords">Columbus, Christopher, 1451-1506</field>
+<field name="keywords">Juvenile literature</field>
+<field name="keywords">Bilingual education</field>
+<field name="publisher">Follow Through Project (University of California, Riverside)</field>
+<field name="pub_place">Riverside, CA</field>
+<field name="language">English</field>
+<field name="language">Spanish</field>
+<field name="call_number">428.211 .F66m v. 5</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Follow Through Project (University of California, Riverside)</field>
+<field name="title">Pepe</field>
+<field name="pages">8</field>
+<field name="keywords">Juvenile literature</field>
+<field name="keywords">Bilingual education</field>
+<field name="publisher">Follow Through Project (University of California, Riverside)</field>
+<field name="pub_place">Riverside, CA</field>
+<field name="language">Spanish</field>
+<field name="call_number">428.211 .F66m v. 6a</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Follow Through Project (University of California, Riverside)</field>
+<field name="title">Memo y su oso</field>
+<field name="pages">6</field>
+<field name="keywords">Juvenile literature</field>
+<field name="keywords">Bilingual education</field>
+<field name="publisher">Follow Through Project (University of California, Riverside)</field>
+<field name="pub_place">Riverside, CA</field>
+<field name="language">Spanish</field>
+<field name="call_number">428.211 .F66m v. 6b</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Follow Through Project (University of California, Riverside)</field>
+<field name="title">Sam y Ana</field>
+<field name="pages">8</field>
+<field name="keywords">Juvenile literature</field>
+<field name="keywords">Bilingual education</field>
+<field name="publisher">Follow Through Project (University of California, Riverside)</field>
+<field name="pub_place">Riverside, CA</field>
+<field name="language">Spanish</field>
+<field name="call_number">428.211 .F66m v. 6c</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Project for Development of Culturally Democratic Learning
+Environments</field>
+<field name="title">Spanish as a second language for children</field>
+<field name="year">1974</field>
+<field name="date">11/1974</field>
+<field name="pages">510</field>
+<field name="keywords">Spanish language</field>
+<field name="keywords">Bilingual education</field>
+<field name="notes">ill. ; 28 cm.; Note(s): Lessons designed and tested for kindergarten through
+third grade.; Responsibility: Follow Through, University of California at Santa Cruz.</field>
+<field name="series_title">Culturally democratic learning environments; Variation: Culturally
+democratic learning environments.</field>
+<field name="publisher">Follow Through Project (University of California, Santa Cruz)</field>
+<field name="pub_place">Santa Cruz, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.211 .F66s</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">Kindergarten</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Fresno County (California) Project</field>
+<field name="corp_author">Educational Program for Migrant Children</field>
+<field name="title">Teaching bilingual children</field>
+<field name="year">1954</field>
+<field name="date">1954</field>
+<field name="pages">40</field>
+<field name="keywords">Bilingual education</field>
+<field name="keywords">Mexican Americans</field>
+<field name="notes">40 leaves ; 28 cm.; Note(s): Includes bibliographical references (leaf
+40).</field>
+<field name="publisher">Fresno County Project, Educational Program for Migrant Children</field>
+<field name="pub_place">Fresno, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.211 .F88t</field>
+<field name="state_country">California </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Hawaii. General Education/Language Arts</field>
+<field name="title">Keaukaha oral language development program; teacher's guide for teaching
+standard English as a second dialect to primary school children in Hawaii. Level I-IV</field>
+<field name="year">1971</field>
+<field name="date">1971</field>
+<field name="keywords">English language</field>
+<field name="keywords">Dialects</field>
+<field name="keywords">Hawaii</field>
+<field name="notes">4 v.; Other Titles: Teaching standard English as a second dialect to primary
+school children in Hawaii</field>
+<field name="series_title">Publication; no. TAC 71-2677-71-2680</field>
+<field name="publisher">Office of Library Services, Teacher Assist Center</field>
+<field name="pub_place">Honolulu, HI</field>
+<field name="language">English</field>
+<field name="call_number">428.211 .H38k v. 1-4</field>
+<field name="state_country">Hawaii</field>
+<field name="grade_level_group">Elementary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Hawaii. General Education/Language Arts</field>
+<field name="title">Keaukaha oral language development program; scripts to accompany cassette
+recordings for teaching standard English as a second dialect to primary school children in
+Hawaii</field>
+<field name="year">1971</field>
+<field name="date">1971</field>
+<field name="keywords">English language</field>
+<field name="keywords">Dialects</field>
+<field name="keywords">Hawaii</field>
+<field name="notes">4 v.</field>
+<field name="series_title">Publication; no. TAC 71-3164</field>
+<field name="publisher">Office of Library Services, Teacher Assist Center</field>
+<field name="pub_place">Honolulu, HI</field>
+<field name="language">English</field>
+<field name="call_number">428.211 .H38k S level 1-4</field>
+<field name="state_country">Hawaii</field>
+<field name="grade_level_group">Elementary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Project for Development of Culturally Democratic Learning
+Environments</field>
+<field name="title">Revised follow through proposal for 1972-1973</field>
+<field name="year">1972</field>
+<field name="date">1972-1973</field>
+<field name="pages">234</field>
+<field name="keywords">Bilingual education</field>
+<field name="publisher">Project for Development of Culturally Democratic Learning
+Environments</field>
+<field name="language">English</field>
+<field name="call_number">428.211 .F66p</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Soriano, Jesse M.</field><field name="author_nat">Jesse M. Soriano</field>
+<field name="author">Alvarez, Concepcion</field><field name="author_nat">Concepcion Alvarez</field>
+<field name="author">Armelin, Maria Elba</field><field name="author_nat">Maria Elba Armelin</field>
+<field name="author">Maley, Carmen</field><field name="author_nat">Carmen Maley</field>
+<field name="author">Miranda, Consuelo</field><field name="author_nat">Consuelo Miranda</field>
+<field name="author">Unger, Susana</field><field name="author_nat">Susana Unger</field>
+<field name="author">Wilson, Cecilia</field><field name="author_nat">Cecilia Wilson</field>
+<field name="author">Kiddle, Lawrence R.</field><field name="author_nat">Lawrence R. Kiddle</field>
+<field name="title">Spanish guide: kindergarten; standard Spanish as a second dialect or second
+language</field>
+<field name="year">1969</field>
+<field name="date">1969</field>
+<field name="keywords">Spanish language</field>
+<field name="keywords">Second language acquisitions</field>
+<field name="notes">1 v. (various pagings) illus. 28 cm.; Note(s): At head of title: FLICS.</field>
+<field name="series_title">Foreign language innovative curricula studies; Bilingual curriculum
+development.</field>
+<field name="language">English</field>
+<field name="call_number">428.211 .M62e v. 2</field>
+<field name="state_country">Michigan</field>
+<field name="grade_level_number">Kindergarten </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City School District. Division of Career and
+Continuing Education</field>
+<field name="title">Reference list of materials for English as a second language</field>
+<field name="year">1972</field>
+<field name="date">1972</field>
+<field name="pages">18</field>
+<field name="keywords">English language</field>
+<field name="keywords">Textbooks for foreign speakers</field>
+<field name="keywords">Bibliography</field>
+<field name="notes">v; ; 28 cm.; Note(s): Cover title: ESL, reference list of materials for English
+as a second language.; Other Titles: ESL, reference list of materials for English as a second
+language; Responsibility: [prepared by the Annotations Subcommittee of the ESL Textbook Evaluation
+Committee, Division of Career and Continuing Education].</field>
+<field name="publisher">Los Angeles (California) City School District. Division of Career and
+Continuing Education</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.211 .L87r</field>
+<field name="state_country">California </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City School District. Instructional Planning
+Branch</field>
+<field name="title">Guidelines for the tutor in teaching English as a second language : an
+instructional bulletin</field>
+<field name="year">1970</field>
+<field name="date">1970</field>
+<field name="pages">131</field>
+<field name="keywords">English language</field>
+<field name="keywords">Second language acquisitions</field>
+<field name="notes">viii; ill. ; 28 cm.; Note(s): Cover title./ Half title: The tutor in English as
+a second language./ Includes bibliographical references (p. 129-131).; Other Titles: English as a
+second language; Tutor in English as a second language; Responsibility: Los Angeles City Schools,
+Division of Instructional Planning and Services, Instructional Planning Branch.</field>
+<field name="publisher">Los Angeles (California) City School District. Instructional Planning
+Branch</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.211 .L87g</field>
+<field name="grade_level_group">Elementary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Michigan Migrant Primary Interdisciplinary Project</field>
+<field name="title">Interdisciplinary oral language guide, primary one : standard English as a
+second language or second dialect for Spanish-background children</field>
+<field name="year">1969</field>
+<field name="date">1969</field>
+<field name="pages">71</field>
+<field name="keywords">English language</field>
+<field name="keywords">Second language acquisitions</field>
+<field name="notes">volumes : illustrations ; 28 cm; Note(s): "These materials were developed by the
+Migrant Program of the Michigan Dept. of Education."; Other Titles: Standard English as a second
+language or second dialect for Spanish-background children</field>
+<field name="publisher">Michigan Migrant Primary Interdisciplinary Project</field>
+<field name="pub_place">Ann Arbor, MI</field>
+<field name="language">English</field>
+<field name="call_number">428.211 .M62i v. 1</field>
+<field name="state_country">Michigan</field>
+<field name="grade_level_group">Elementary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Petrini, Alma Maria</field>
+<field name="title">ESOL-SESD guide: kindergarten</field>
+<field name="year">1969</field>
+<field name="date">1969</field>
+<field name="pages">135</field>
+<field name="keywords">Spanish Americans in the United States</field>
+<field name="keywords">Bilingual education</field>
+<field name="keywords">English for foreigners</field>
+<field name="notes">135 p.; Note(s): Cover title: English guide--kindergarten./ At head of title:
+FLICS [i.e. Foreign language innovative curricula studies]./ " ... project sponsored by the Ann
+Arbor Board of Education and ... the Center for Research on Language and Language Behavior,
+University of Michigan.; Other Titles: English guide--kindergarten</field>
+<field name="series_title">Michigan oral language series; standard English as a second language or
+second dialect.; [no. 2]</field>
+<field name="publisher">American Council on Teaching of Foreign Languages</field>
+<field name="language">English</field>
+<field name="call_number">428.211 .M62e v. 1</field>
+<field name="state_country">Michigan</field>
+<field name="grade_level_number">Kindergarten </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Palo Alto (California) Unified School District</field>
+<field name="title">Bilingual bicultural program, Henry M. Gunn Senior High</field>
+<field name="year">1974</field>
+<field name="date">1974</field>
+<field name="keywords">Bilingual education</field>
+<field name="publisher">Palo Alto (California) Unified School District</field>
+<field name="pub_place">Palo Alto, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.211 .P18b</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">New York City (New York) Board of Education</field>
+<field name="title">Resource units for classes with Puerto Rican pupils, secondary school transition
+stage</field>
+<field name="year">1957</field>
+<field name="date">1957</field>
+<field name="pages">123</field>
+<field name="keywords">Puerto Rican students</field>
+<field name="publisher">New York City (New York) Board of Education</field>
+<field name="pub_place">New York, NY</field>
+<field name="language">English</field>
+<field name="call_number">428.211 .N53r</field>
+<field name="state_country">New York</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Dillon, Paul L.</field><field name="author_nat">Paul L. Dillon</field>
+<field name="corp_author">San Francisco (California) Unified School District</field>
+<field name="title">San Francisco bilingual-bicultural education project for Spanish/English
+speaking children : 1970-1971 final evaluation report</field>
+<field name="year">1971</field>
+<field name="date">1970-1971</field>
+<field name="pages">112</field>
+<field name="keywords">Bilingual education</field>
+<field name="keywords">Mexican Americans</field>
+<field name="notes">112 leaves.; Note(s): Reproduction: Photocopy of typescript./ Washington, D.C. :
+Department of Health, Education &amp;Welfare, Office of Education./ 28 cm.; Responsibility: prepared
+by Paul L. Dillon, Jr.</field>
+<field name="publisher">San Francisco (California) Unified School District</field>
+<field name="pub_place">San Francisco, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.211 .S195s</field>
+<field name="state_country">California </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Kleitsch, Russell V.</field><field name="author_nat">Russell V. Kleitsch</field>
+<field name="title">Teaching English as a second language; grades 7-12</field>
+<field name="year">1968</field>
+<field name="date">1968</field>
+<field name="pages">90</field>
+<field name="keywords">English language</field>
+<field name="keywords">Second language acquisitions</field>
+<field name="notes">v; 28 cm.; Responsibility: Prepared by Russell V. Kleitsch.</field>
+<field name="publisher">San Diego (California) City Schools</field>
+<field name="pub_place">San Diego, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.211 .S19t</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Philippines Bureau of Public Schools</field>
+<field name="corp_author">Philippine Center for Language Study</field>
+<field name="title">Tentative teacher's guide in teaching English in Grade II</field>
+<field name="year">1960</field>
+<field name="date">1960</field>
+<field name="pages">405</field>
+<field name="keywords">English language</field>
+<field name="keywords">Philippine students</field>
+<field name="publisher">Philippines Bureau of Public School</field>
+<field name="pub_place">Manila, Philippines</field>
+<field name="language">English</field>
+<field name="call_number">428.211 .P54t</field>
+<field name="state_country">Philippines</field>
+<field name="grade_level_number">2nd grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Richards, Regina G.</field><field name="author_nat">Regina G. Richards</field>
+<field name="title">Programmed phonemics; phonemic transcription using a modified international
+phonetic alphabet</field>
+<field name="year">1972</field>
+<field name="date">1972</field>
+<field name="pages">108</field>
+<field name="keywords">Phonemics</field>
+<field name="keywords">English language</field>
+<field name="notes">108 l. 22 cm.; Note(s): Cover title.</field>
+<field name="publisher">Newbury House Publishers</field>
+<field name="pub_place">Rowley, MA</field>
+<field name="language">English</field>
+<field name="call_number">428.211 .R51p </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Riverside County (California) Superintendent of Schools</field>
+<field name="title">Project unidos: final evaluation report 1970-71</field>
+<field name="year">1970</field>
+<field name="date">1970-1971</field>
+<field name="pages">321</field>
+<field name="keywords">Bilingual education</field>
+<field name="publisher">Riverside County (California) Superintendent of Schools</field>
+<field name="pub_place">Riverside, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.211 .R62p</field>
+<field name="state_country">California </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Rowland (California) Unified School District</field>
+<field name="title">Bilingual/bicultural education program</field>
+<field name="year">1972</field>
+<field name="date">1972-1973</field>
+<field name="pages">257</field>
+<field name="keywords">Bilingual education</field>
+<field name="publisher">Rowland (California) Unified School District</field>
+<field name="pub_place">Rowland Heights, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.211 .R88b</field>
+<field name="state_country">California </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Texas Education Agency</field>
+<field name="corp_author">Regional Educational Agencies Project</field>
+<field name="title">A resource manual for implementing bilingual education programs</field>
+<field name="year">1975</field>
+<field name="date">1975</field>
+<field name="pages">157</field>
+<field name="keywords">Bilingual education</field>
+<field name="publisher">Regional Educational Agencies Project</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">428.211 .T35r</field>
+<field name="state_country">Texas </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Bargiachi, Marguerite</field><field name="author_nat">Marguerite Bargiachi</field>
+<field name="author">Gonzales, Mollie</field><field name="author_nat">Mollie Gonzales</field>
+<field name="title">A model curriculum for teaching the culture and history of Mexico for a
+bilingual bicultural program on second grade level : project</field>
+<field name="year">1972</field>
+<field name="date">1972</field>
+<field name="pages">107</field>
+<field name="keywords">Mexican Americans</field>
+<field name="keywords">Bilingual education</field>
+<field name="keywords">Curricula</field>
+<field name="notes">ii, 107 leaves.; Dissertation: Thesis (M.A.)--Sacramento State College, 1972.;
+Responsibility: Marguerite Bargiachi and Mollie Gonzales.</field>
+<field name="publisher">Sacramento State College</field>
+<field name="pub_place">Sacramento, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.211 .V19m </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Ohannessian, Sirarpi</field><field name="author_nat">Sirarpi Ohannessian</field>
+<field name="author">Gage, William W.</field><field name="author_nat">William W. Gage</field>
+<field name="corp_author">Center for Applied Linguistics</field>
+<field name="corp_author">United States Bureau of Indian Affairs. Division of Education</field>
+<field name="title">Teaching English to speakers of Choctaw, Navajo, and Papago : a contrastive
+approach</field>
+<field name="year">1969</field>
+<field name="date">1969</field>
+<field name="pages">138</field>
+<field name="keywords">English language</field>
+<field name="keywords">Indian students</field>
+<field name="keywords">Native language and education</field>
+<field name="keywords">Indians of North America</field>
+<field name="notes">x; ill. ; 28 cm.; Note(s): Prepared by English for Speakers of Other Languages
+Program under contract no. K51C14200097./ "October 1969"--P. [ii]./ Includes bibliographical
+references (p. 136-138).; Responsibility: edited by Sirarpi Ohannessian and William W. Gage ;
+prepared at the Center for Applied Linguistics for the Bureau of Indian Affairs of the United States
+Department of the Interior.</field>
+<field name="series_title">Curriculum bulletin (Washington, D.C.)</field>
+<field name="keywords">6</field>
+<field name="publisher">Office of the Assistant Commissioner for Education, U.S. Bureau of Indian
+Affairs</field>
+<field name="pub_place">Washington, DC</field>
+<field name="language">English</field>
+<field name="call_number">428.211 .U57t </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Texas Education Agency</field>
+<field name="title">Oral language development in early childhood education</field>
+<field name="year">1975</field>
+<field name="date">1975</field>
+<field name="pages">102</field>
+<field name="keywords">English language</field>
+<field name="keywords">Spanish students</field>
+<field name="keywords">Second language acquisition</field>
+<field name="notes">vi; ill. ; 28 cm.; Responsibility: Texas Education Agency.</field>
+<field name="series_title">Texas Education Agency.; Bulletin</field>
+<field name="series_vol">720</field>
+<field name="publisher">Texas Education Agency</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">428.211 .T35o</field>
+<field name="state_country">Texas</field>
+<field name="grade_level_group">Elementary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Ulibarri, Horacio</field><field name="author_nat">Horacio Ulibarri</field>
+<field name="title">Bilingual education: a handbook for educators</field>
+<field name="year">1970</field>
+<field name="date">1970</field>
+<field name="pages">143</field>
+<field name="keywords">Bilingual education</field>
+<field name="notes">iii, 143 p.; Note(s): Includes bibliographical references.</field>
+<field name="publisher">Southern Methodist University</field>
+<field name="pub_place">Dallas, TX</field>
+<field name="language">English</field>
+<field name="call_number">428.211 .S72b </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Yao Shen</field><field name="author_nat"/>
+<field name="title">The teaching of English in China</field>
+<field name="year">1955</field>
+<field name="date">1955</field>
+<field name="pages">8</field>
+<field name="keywords">English language</field>
+<field name="keywords">Second language acquisition</field>
+<field name="publisher">Tamkang English College</field>
+<field name="pub_place">Taipei, Taiwan</field>
+<field name="language">English</field>
+<field name="call_number">428.211 .T15t v. 1</field>
+<field name="state_country">China</field>
+<field name="state_country">Taiwan </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Valencia, Atilano A.</field><field name="author_nat">Atilano A. Valencia</field>
+<field name="title">Bilingual-bicultural education for the Spanish-English bilingual</field>
+<field name="year">1972</field>
+<field name="date">10/1972</field>
+<field name="pages">83</field>
+<field name="keywords">Bilingual education</field>
+<field name="keywords">English language</field>
+<field name="keywords">Spanish language</field>
+<field name="notes">83 p. illus. 23 cm.; Note(s): Bibliography: p. 82-83.; Responsibility: [by]
+Atilano A. Valencia.</field>
+<field name="publisher">New Mexico Highlands University Press</field>
+<field name="pub_place">Las Vegas, NM</field>
+<field name="language">English</field>
+<field name="call_number">428.211 .V15b</field>
+<field name="state_country">New Mexico </field>
+</doc>
+
+</add>

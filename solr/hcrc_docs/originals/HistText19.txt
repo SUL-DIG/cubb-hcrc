@@ -1,0 +1,924 @@
+TY  - BOOK
+A2  - Alameda County (California) School Department
+T1  - Sequential writing guide grades 7-12 (tentative 1961-62)
+Y1  - 1961
+D1  - 1961-1962
+SP  - 59
+KW  - English language
+KW  - Composition and exercises
+PB  - Alameda County (California) School Department
+CY  - Hayward, CA
+LA  - English
+CN  - 428.2 .A31s 1961-62
+SC  - California
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Alameda County (California) School Department
+T1  - Sequential writing guide grades 7-12
+Y1  - 1963
+D1  - 06/1963
+SP  - 59
+KW  - English language
+KW  - Composition and exercises
+PB  - Alameda County (California) School Department
+CY  - Hayward, CA
+LA  - English
+CN  - 428.2 .A31s 1963
+SC  - California
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Albany (California) Public Schools
+T1  - A course of study in oral and written language grades (1-8)
+Y1  - 1949
+D1  - 06/1949
+SP  - 36
+KW  - English language
+KW  - Rhetoric
+PB  - Albany (California) Public Schools
+CY  - Albany, CA
+LA  - English
+CN  - 428.2 .A32c
+SC  - California
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Alaska State Board of Education
+T1  - Oral language in Alaska classrooms
+Y1  - 1968
+D1  - 1968
+SP  - 129
+KW  - Rhetoric
+KW  - Spoken English
+PB  - Alaska State Board of Education
+LA  - English
+CN  - 428.2 .A32o
+SC  - Alaska
+ER  - 
+
+TY  - BOOK
+A2  - Illinois State Superintendent of Public Instruction
+T1  - The teaching of English in Illinois
+Y1  - 1958
+D1  - 02/1958
+SP  - 32
+KW  - English language
+T2  - Allerton House Conference on Education
+V1  - 49
+IS  - 1
+PB  - Illinois State Superintendent of Public Instruction
+CY  - Springfield, IL
+LA  - English
+CN  - 428.2 .A43t
+SC  - Illinois
+ER  - 
+
+TY  - BOOK
+A2  - Alton (Illinois) Community Unit School District No. 11
+T1  - Language guide for elementary teachers: primary
+Y1  - 1961
+D1  - 1961
+SP  - 71
+KW  - English language
+PB  - Alton (Illinois) Community Unit School District No. 11
+CY  - Alton, IL
+LA  - English
+CN  - 428.2 .A46L
+SC  - Illinois
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Anaheim (California) Union High School District
+T1  - An English course sampler
+Y1  - 1972
+D1  - 07/1972
+SP  - 333
+KW  - English language
+PB  - Anaheim (California) Union High School District
+CY  - Anaheim, CA
+LA  - English
+CN  - 428.2 .A52e 1972
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Anaheim (California) Union High School District
+T1  - An English course sampler
+Y1  - 1973
+D1  - 07/1973
+SP  - 447
+KW  - English language
+PB  - Anaheim (California) Union High School District
+CY  - Anaheim, CA
+LA  - English
+CN  - 428.2 .A52e 1973
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Anchorage (Alaska) Independent School District
+T1  - Resource guide: English grade 8, supplement to language arts guideposts
+Y1  - 1964
+D1  - 1964
+SP  - 9
+KW  - English language
+PB  - Anchorage (Alaska) Independent School District
+CY  - Anchorage, AK
+LA  - English
+CN  - 428.2 .A53e v. 1
+SC  - Alaska
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Anchorage (Alaska) Independent School District
+T1  - Resource guide: English i, supplement to language arts guideposts
+Y1  - 1964
+D1  - 1964
+SP  - 14
+KW  - English language
+PB  - Anchorage (Alaska) Independent School District
+CY  - Anchorage, AK
+LA  - English
+CN  - 428.2 .A53e v. 2
+SC  - Alaska
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Anchorage (Alaska) Independent School District
+T1  - Resource guide: English ii, supplement to language arts guideposts
+Y1  - 1964
+D1  - 1964
+SP  - 16
+KW  - English language
+PB  - Anchorage (Alaska) Independent School District
+CY  - Anchorage, AK
+LA  - English
+CN  - 428.2 .A53e v. 3
+SC  - Alaska
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Anchorage (Alaska) Independent School District
+T1  - Resource guide: English iii, supplement to language arts guideposts
+Y1  - 1964
+D1  - 1964
+SP  - 14
+KW  - English language
+PB  - Anchorage (Alaska) Independent School District
+CY  - Anchorage, AK
+LA  - English
+CN  - 428.2 .A53e v. 4
+SC  - Alaska
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Anchorage (Alaska) Independent School District
+T1  - Resource guide: English iv, supplement to language arts guideposts
+Y1  - 1964
+D1  - 1964
+SP  - 9
+KW  - English language
+PB  - Anchorage (Alaska) Independent School District
+CY  - Anchorage, AK
+LA  - English
+CN  - 428.2 .A53e v. 5
+SC  - Alaska
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Anchorage (Alaska) Independent School District
+T1  - Guideposts for language arts grades i-xii
+Y1  - 1964
+D1  - 1964
+SP  - 37
+KW  - English language
+PB  - Anchorage (Alaska) Independent School District
+CY  - Anchorage, AK
+LA  - English
+CN  - 428.2 .A53g
+SC  - Alaska
+ER  - 
+
+TY  - BOOK
+A2  - Arizona State Department of Education
+T1  - Language arts, upper grades
+Y1  - 1962
+D1  - 1962
+SP  - 32
+KW  - English language
+KW  - Curricula
+N1  - 32 pages 28 cm; Note(s): Includes bibliographical references.
+CY  - Phoenix, AZ
+LA  - English
+CN  - 428.2 .A71L v. 3
+SC  - Arizona
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Arizona State Department of Education
+T1  - Language arts, primary grades
+Y1  - 1962
+D1  - 1962
+SP  - 36
+KW  - English language
+KW  - Curricula
+N1  - 36 pages illustrations, 28 cm; Note(s): Includes bibliographical references.
+PB  - Arizona State Department of Education
+CY  - Phoenix, AZ
+LA  - English
+CN  - 428.2 .A71L v. 1
+SC  - Arizona
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Arizona State Department of Education
+T1  - Language arts, intermediate grades
+Y1  - 1962
+D1  - 1962
+SP  - 28
+KW  - English language
+KW  - Curricula
+N1  - 28 pages 28 cm; Note(s): Includes bibliographical references.
+PB  - Arizona State Department of Education
+CY  - Phoenix, AZ
+LA  - English
+CN  - 428.2 .A71L v. 2
+SC  - Arizona
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Atlanta (Georgia) Public Schools
+T1  - Growth in English; a guide for teachers
+Y1  - 1953
+D1  - 09/1953
+SP  - 153
+KW  - English language
+ED  - Rev.
+PB  - Atlanta (Georgia) Public Schools
+CY  - Atlanta, GA
+LA  - English
+CN  - 428.2 .A88g
+SC  - Georgia
+ER  - 
+
+TY  - BOOK
+A2  - Atlanta (Georgia) Public Schools
+T1  - Handbook for resource teachers in the language arts
+Y1  - 1957
+D1  - 02/1957
+SP  - 27
+KW  - Language arts
+PB  - Atlanta (Georgia) Public Schools
+CY  - Atlanta, GA
+LA  - English
+CN  - 428.2 .A88h
+SC  - Georgia
+ER  - 
+
+TY  - BOOK
+A2  - Austin (Texas) Public School
+T1  - Language arts, grades one through twelve
+Y1  - 1958
+D1  - 1958
+SP  - 91
+KW  - Language arts
+N1  - 91 leaves ; cm
+PB  - Austin (Texas) Public School
+CY  - Austin, TX
+LA  - English
+CN  - 428.2 .A93L
+SC  - Texas
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Battle Creek (Michigan) Public Schools
+T1  - A general course outline for seventh grade English
+Y1  - 1963
+D1  - 09/1963
+SP  - 6
+KW  - English language
+PB  - Battle Creek (Michigan) Public Schools
+CY  - Battle Creek, MI
+LA  - English
+CN  - 428.2 .B33e v. 1
+SC  - Michigan
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A2  - Battle Creek (Michigan) Public Schools
+T1  - A general course outline for eighth grade English
+Y1  - 1963
+D1  - 09/1963
+SP  - 6
+KW  - English language
+PB  - Battle Creek (Michigan) Public Schools
+CY  - Battle Creek, MI
+LA  - English
+CN  - 428.2 .B33e v. 1
+SC  - Michigan
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Battle Creek (Michigan) Public Schools
+T1  - A general course outline for ninth grade English
+Y1  - 1963
+D1  - 09/1963
+SP  - 10
+KW  - English language
+PB  - Battle Creek (Michigan) Public Schools
+CY  - Battle Creek, MI
+LA  - English
+CN  - 428.2 .B33e v. 1
+SC  - Michigan
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Battle Creek (Michigan) Public Schools
+T1  - An outline of language arts skills for seventh grade English
+Y1  - 1964
+D1  - 09/1964
+SP  - 10
+KW  - English language
+PB  - Battle Creek (Michigan) Public Schools
+CY  - Battle Creek, MI
+LA  - English
+CN  - 428.2 .B33e v. 2
+SC  - Michigan
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A2  - Bloomfield (New Jersey) Public Schools
+T1  - A developmental program in English
+Y1  - 1954
+D1  - 1954
+KW  - English language
+PB  - Bloomfield (New Jersey) Public Schools
+CY  - Bloomfield, NJ
+LA  - English
+CN  - 428.2 .B65d
+SC  - New Jersey
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Bureau of Secondary Education
+T1  - English language arts in California public high schools
+Y1  - 1957
+D1  - 09/1957
+SP  - 41
+KW  - English language
+N1  - 41 p. illus. 23 cm.
+T2  - Bulletin of the California State Department of Education
+V1  - 26
+IS  - 7
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 428.2 .C15e 1957
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education.
+T1  - English language framework for California public schools
+Y1  - 1968
+D1  - 1968
+SP  - 120
+KW  - English language
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 428.2 .C15e 1968
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Brookline (Massachusetts) Public Schools
+T1  - Course of study in written English, grades 1-6
+Y1  - 1946
+D1  - 06/1946
+KW  - English language
+KW  - Curricula
+KW  - Language arts
+PB  - Brookline (Massachusetts) Public Schools
+CY  - Brookline, MA
+LA  - English
+CN  - 428.2 .B87c
+SC  - Massachusetts
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Buffalo (New York) Board of Education
+T1  - The honors program in language arts grades 9-12
+Y1  - 1958
+D1  - 1958
+SP  - 25
+KW  - Language arts
+PB  - Buffalo (New York) Board of Education
+CY  - Buffalo, NY
+LA  - English
+CN  - 428.2 .B92h
+SC  - New York
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Buffalo (New York) Board of Education
+T1  - General guide to the teaching of language arts, grades 7-12
+Y1  - 1958
+D1  - 1958
+SP  - 23
+KW  - Language arts
+PB  - Buffalo (New York) Board of Education
+CY  - Buffalo, NY
+LA  - English
+CN  - 428.2 .B92L v. 1
+SC  - New York
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Buffalo (New York) Board of Education
+T1  - Language arts: basic curriculum, grade 9
+Y1  - 1958
+D1  - 1958
+SP  - 17
+KW  - Language arts
+PB  - Buffalo (New York) Board of Education
+CY  - Buffalo, NY
+LA  - English
+CN  - 428.2 .B92L v. 2
+SC  - New York
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Practices in the teaching of composition in California public high schools
+Y1  - 1958
+D1  - 06/1958
+SP  - 51
+KW  - English language
+T2  - Bulletin of the California State Department of Education
+V1  - 27
+IS  - 5
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 428.2 .C15p
+SC  - California
+G1  - High schools
+ER  - 
+
+TY  - BOOK
+A1  - Nail, Pat
+A1  - Fitch, Rodney
+A1  - Halverson, John
+A1  - Grant, Phil
+A1  - Winn, N. Field
+T1  - A guide to the evaluation of high school student essays
+Y1  - 1959
+D1  - 1959
+SP  - 27
+KW  - English language
+KW  - Language arts
+PB  - California State Articulation Conference
+CY  - Berkeley, CA
+LA  - English
+CN  - 428.2 .C153g
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - University of California, Davis
+T1  - English units
+Y1  - 1964
+D1  - 1964
+KW  - English language
+PB  - University of California, Davis
+CY  - Davis, CA
+LA  - English
+CN  - 428.2 .C154e
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Carnegie Institute of Technology
+T1  - Units on social concerns; grammar; summary
+Y1  - 1964
+D1  - 1964
+SP  - 109
+KW  - English language
+PB  - Carnegie Institute of Technology
+LA  - English
+CN  - 428.2 .C28e v. 1
+ER  - 
+
+TY  - BOOK
+A2  - Carnegie Institute of Technology
+T1  - Units on the American desire for success; dictionaries; summary
+Y1  - 1964
+D1  - 1964
+SP  - 69
+KW  - English language
+PB  - Carnegie Institute of Technology
+LA  - English
+CN  - 428.2 .C28e v. 2
+ER  - 
+
+TY  - BOOK
+A2  - Carnegie Institute of Technology
+T1  - Units on tragedy; middle English; summary
+Y1  - 1964
+D1  - 1964
+SP  - 63
+KW  - English language
+PB  - Carnegie Institute of Technology
+CY  - Pittsburgh, PA
+LA  - English
+CN  - 428.2 .C28e v. 3
+ER  - 
+
+TY  - BOOK
+A2  - Carnegie Institute of Technology. Curriculum Study Center in English
+T1  - A senior high school curriculum in English for able college-bound students (sample selection)
+Y1  - 1960
+D1  - 1960
+SP  - 190
+KW  - English language
+KW  - Language arts
+PB  - Carnegie Institute of Technology
+CY  - Pittsburgh, PA
+LA  - English
+CN  - 428.2 .C28s
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Central New York School Study Council
+T1  - Some helps for building guides for skill development in the language arts: bulletin one: speaking
+Y1  - 1956
+D1  - 1956
+SP  - 12
+KW  - Language arts
+KW  - Spoken English
+PB  - Central New York School Study Council
+LA  - English
+CN  - 428.2 .C39s v. 1
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - Central New York School Study Council
+T1  - Some helps for building guides for skill development in the language arts: bulletin two: writing
+Y1  - 1956
+D1  - 1956
+SP  - 12
+KW  - Language arts
+KW  - Writing
+PB  - Central New York School Study Council
+LA  - English
+CN  - 428.2 .C39s v. 2
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - Central New York School Study Council
+T1  - Some helps for building guides for skill development in the language arts: bulletin three: reading and listening
+Y1  - 1956
+D1  - 1956
+SP  - 12
+KW  - Language arts
+KW  - Reading
+PB  - Central New York School Study Council
+LA  - English
+CN  - 428.2 .C39s v. 3
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - Charlotte-Mecklenburg (North Carolina) Schools
+T1  - Guide to teaching in the elementary language arts
+Y1  - 1966
+D1  - 09/1966
+SP  - 121
+KW  - Language arts
+PB  - Charlotte-Mecklenburg (North Carolina) Schools
+CY  - Charlotte, NC
+LA  - English
+CN  - 428.2 .C51g
+SC  - North Carolina
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Chicago (Illinois) Public Schools
+T1  - Curriculum guide for the language arts for kindergarten, grades 1,2,3
+Y1  - 1963
+D1  - 1963
+SP  - 354
+KW  - Language arts
+PB  - Chicago (Illinois) Public Schools
+CY  - Chicago, IL
+LA  - English
+CN  - 428.2 .C532c v. 1
+SC  - Illinois
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - Chicago (Illinois) Public Schools
+T1  - Curriculum guide for the language arts, grades 4,5,6
+Y1  - 1964
+D1  - 1964
+SP  - 354
+KW  - Language arts
+PB  - Chicago (Illinois) Public Schools
+CY  - Chicago, IL
+LA  - English
+CN  - 428.2 .C532c v. 2
+SC  - Illinois
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A1  - Cooke, Olivia M.
+A1  - Hoffmeyer, Ruth N.
+T1  - Guide to written composition: grades nine through twelve
+Y1  - 1958
+D1  - 1958
+SP  - 26
+KW  - English language
+KW  - Composition and exercises
+PB  - Chicago (Illinois) Board of Education
+CY  - Chicago, IL
+LA  - English
+CN  - 428.2 .C532g
+SC  - Illinois
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A1  - Cooke, Olivia M.
+A2  - Chicago (Illinois) Board of Education
+T1  - A student manual for the preparation of written work
+Y1  - 1958
+D1  - 1958
+SP  - 42
+KW  - English language
+KW  - Composition and exercises
+N1  - 42 leaves ; cm; Responsibility: prepared by Olivia M. Cooke
+PB  - Chicago (Illinois) Board of Education
+CY  - Chicago, IL
+LA  - English
+CN  - 428.2 .C532w
+SC  - Illinois
+ER  - 
+
+TY  - BOOK
+A2  - Cincinnati (Ohio) Public Schools
+T1  - Course of study in English, grades 9 - 12
+Y1  - 1955
+D1  - 1955
+SP  - 142
+KW  - English language
+KW  - Language arts
+T2  - Cincinnati (Ohio) Public Schools. Curriculum bulletin.
+V1  - 195
+PB  - Cincinnati (Ohio) Public Schools
+CY  - Cincinnati, OH
+LA  - English
+CN  - 428.2 .C57c
+SC  - Ohio
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Cincinnati (Ohio) Public Schools
+T1  - English, grades seven, eight, nine
+Y1  - 1958
+D1  - 1958
+SP  - 176
+KW  - English language
+KW  - Language arts
+T2  - Cincinnati (Ohio) Public Schools. Curriculum bulletin.
+V1  - 243
+PB  - Cincinnati (Ohio) Public Schools
+CY  - Cincinnati, OH
+LA  - English
+CN  - 428.2 .C57e v. 1
+SC  - Ohio
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Chicago (Illinois) Public Schools
+T1  - Supplement to teaching guide for the language arts, a tentative program for kindergarten-grades 1, 2, 3
+Y1  - 1958
+D1  - 1958
+SP  - 108
+KW  - English language
+KW  - Language arts
+PB  - Chicago (Illinois) Public Schools
+CY  - Chicago, IL
+LA  - English
+CN  - 428.2 C532t v. 1
+SC  - Illinois
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - Cincinnati (Ohio) Public Schools
+T1  - Supplemental English, grades 7 and 8 : better writing, grade 9
+Y1  - 1965
+D1  - 1965
+SP  - 39
+KW  - English language
+KW  - Language arts
+N1  - v; ; 28 cm.; Note(s): "Enrichment courses designed to stimulate effectiveness in oral and written expression ..."/ Includes bibliographical references.; Responsibility: Cincinnati Public Schools.
+T2  - Cincinnati (Ohio) Public Schools. Curriculum bulletin
+V1  - 248
+PB  - Cincinnati (Ohio) Public Schools
+CY  - Cincinnati, OH
+LA  - English
+CN  - 428.2 .C57e v. 3
+SC  - Ohio
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Cincinnati (Ohio) Public Schools
+T1  - English, modified general program, grade 7-8-9
+Y1  - 1961
+D1  - 1961
+SP  - 125
+KW  - English language
+N1  - vii; ; 28 cm.; Note(s): Includes bibliographical references.
+T2  - Cincinnati (Ohio) Public Schools. Curriculum bulletin
+V1  - 110
+PB  - Cincinnati (Ohio) Public Schools
+CY  - Cincinnati, OH
+LA  - English
+CN  - 428.2 .C57e v. 2
+SC  - Ohio
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Cincinnati (Ohio) Public Schools
+T1  - English, grades 10-11-12
+Y1  - 1966
+D1  - 1966
+SP  - 222
+KW  - Language arts
+KW  - Report writing
+KW  - Literature
+N1  - vii; ill. ; 28 cm.
+T2  - Cincinnati (Ohio) Public Schools. Curriculum bulletin
+V1  - 244
+PB  - Cincinnati (Ohio) Public Schools
+CY  - Cincinnati, OH
+LA  - English
+CN  - 428.2 C57e v. 4
+SC  - Ohio
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Cincinnati (Ohio) Public Schools
+T1  - The advanced placement program in English: a teacher's guide grades 10, 11, and 12
+Y1  - 1966
+D1  - 1966
+SP  - 149
+KW  - Language arts
+KW  - English language
+KW  - Literature
+N1  - vii; ill. ; 28 cm.
+T2  - Cincinnati (Ohio) Public Schools. Curriculum bulletin
+V1  - 245
+PB  - Cincinnati (Ohio) Public Schools
+CY  - Cincinnati, OH
+LA  - English
+CN  - 428.2 C57e v. 5
+SC  - Ohio
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Clairton (Pennsylvania) Public Schools
+T1  - Course of study: secondary education: English
+Y1  - 1962
+D1  - 1962-1963
+SP  - 67
+KW  - English language
+PB  - Clairton (Pennsylvania) Public Schools
+CY  - Clairton, PA
+LA  - English
+CN  - 428.2 C58e
+SC  - Pennsylvania
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Clairton (Pennsylvania) Public Schools
+T1  - Course of study: elementary education: language
+Y1  - 1957
+D1  - 1957-1958
+KW  - Language arts
+PB  - Clairton (Pennsylvania) Public Schools
+CY  - Clairton, PA
+LA  - English
+CN  - 428.2 C58L
+SC  - Pennsylvania
+G1  - Elementary
+ER  - 
+

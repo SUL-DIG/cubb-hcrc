@@ -1,0 +1,617 @@
+
+
+
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Vocational education in action
+Y1  - 1947
+D1  - 10/1947
+SP  - 48
+KW  - Vocational education
+N1  - 48 pages illustrations; Responsibility: prepared by the Vocational Education Staff of the California State Dept. of Education.
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 371.401 .C15v
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Guidance in the elementary school; report of Conference, University Elementary School, University of California at Los Angeles, July 13-August 7, 1953
+Y1  - 1953
+D1  - 1953
+SP  - 87
+KW  - Educational counseling
+N1  - 87 pages; Note(s): Cover title./ Sponsored by the University of California, Los Angeles, and the California State Dept. of Education.
+T2  - Conference on Guidance in the Elementary School (1953 : University of California at Los Angeles)
+PB  - California State Dept. of Education, Division of Instruction, Bureau of Elementary Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 371.46 .C15g
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Florida Community College Council
+T1  - A plan for curriculum consultants for Florida community-junior colleges
+Y1  - 1956
+D1  - 06/1956
+SP  - 2
+KW  - Educational planning
+KW  - Junior colleges
+KW  - Curricula
+N1  - [3] p. ; 28 cm.; Note(s): "This plan was approved by th Florida Association of Public Junior Colleges in January, 1956."/ Cover title./ "June, 1956."
+T2  - Bulletin (Florida. Community College Council)
+V1  - 3
+PB  - Florida Community College Council
+CY  - Tallahassee. FL
+LA  - English
+CN  - 375.17 .F63p
+SC  - Florida
+G1  - Postsecondary
+ER  - 
+
+TY  - BOOK
+A1  - Johnson,Leighton H.
+T1  - Fostering general education in the community college
+Y1  - 1956
+D1  - 1956
+SP  - 11
+KW  - Municipal universities and colleges
+KW  - Humanistic education
+N1  - 11 p. 23 cm.
+T2  - Michigan State University.; College of Education.; Bureau of Research and Service.; Professional series bulletin
+V1  - 14
+PB  - Bureau of Research and Service, College of Education, Michigan State University
+CY  - East Lansing, MI
+LA  - English
+CN  - 375.17 .M62f
+SC  - Michigan
+G1  - Postsecondary
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) Community College District
+T1  - College courses and curricula
+Y1  - 1966
+D1  - 1966-1967
+SP  - 140
+KW  - Education
+KW  - Curricula
+PB  - Los Angeles (California) Community College District
+CY  - Los Angeles, CA
+LA  - English
+CN  - 375.17 .L87cc
+SC  - California
+G1  - Postsecondary
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) Community College District
+T1  - Catalog of uniform course numbers and titles
+Y1  - 1965
+D1  - 1965-1966
+SP  - 268
+KW  - Education
+KW  - Curricula
+PB  - Los Angeles (California) Community College District
+CY  - Los Angeles, CA
+LA  - English
+CN  - 375.17 .L87c
+SC  - California
+G1  - Postsecondary
+ER  - 
+
+TY  - BOOK
+A1  - Scheffer, Martin W.
+T1  - Student body characteristics reveal the educational contribution of Oregon's community colleges
+T2  - School of Education, University of Oregon. Curriculum bulletin
+V1  - 20
+IS  - 242
+Y1  - 1964
+D1  - 03/1964
+SP  - 46
+KW  - Community colleges
+PB  - School of Education, University of Oregon
+CY  - Eugene, OR
+LA  - English
+CN  - 375.17 .O66s
+SC  - Oregon
+G1  - Postsecondary
+ER  - 
+
+
+TY  - BOOK
+A2  - Aberdeen (South Dakota) Board of Education
+T1  - A core course in the making; cooperative plans and procedures
+Y1  - 1940
+D1  - 1940?
+SP  - 51
+KW  - Curricula
+KW  - Junior high schools
+N1  - 51 l. 28 cm.; Responsibility: Prepared by a committee of teachers ...
+PB  - Aberdeen (South Dakota) Board of Education
+CY  - Aberdeen, SD
+LA  - English
+CN  - 375.3 .A145c
+SC  - South Dakota
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Virginia State Board of Education
+T1  - Tentative course of study of Virginia elementary schools. Grades I-VII
+Y1  - 1934
+D1  - 1934?
+SP  - 560
+KW  - Curricula
+N1  - xiii p., 1 l.; incl. diagrs. forms. 27 cm.; Note(s): At head of title: State board of education./ Three leaves of heavy paper inserted, not included in the paging./ "Directory of publishers": p. 554-560./ Includes bibliographical references.; Responsibility: Sidney B. Hall, superintendent of public instruction. D.W. Peters, director of instruction. Helen Ruth Henderson, assistant supervisor of elementary education. H.L. Caswell, general curriculum advisor.
+T2  - Virginia State Board of Education. Bulletin
+V1  - 17
+IS  - 1
+PB  - Virginia State Board of Education. Division of purchase and printing
+CY  - Richmond, VA
+LA  - English
+CN  - 375.33 .V817t v. 1
+SC  - Virginia
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A2  - Virginia State Board of Education
+T1  - Tentative course of study for the core curriculum of Virginia secondary schools. Grade VIII
+Y1  - 1934
+SP  - 319
+KW  - Curricula
+N1  - xiii; 28 cm.; Note(s): Three leaves of heavy paper inserted, not included in the paging./ "Bibliographies-all fields": p. 281-319.; Responsibility: Sidney B. Hall, superintendent of public instruction. D.W. Peters, director of instruction, H.L. Caswell, general curriculum adviser.
+T2  - Virginia.; State Board of Education.; Bulletin
+V1  - 17
+IS  - 2
+PB  - Virginia State Board of Education. Division of Purchase and Printing
+CY  - Richmond, VA
+LA  - English
+CN  - 375.33 .V817t v. 2
+SC  - Virginia
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Michigan State Department of Public Instruction
+T1  - Educating teachers for an improving curriculum
+Y1  - 1941
+D1  - 1941
+SP  - 32
+KW  - Curricula
+KW  - Teacher training
+PB  - Michigan State Department of Public Instruction
+CY  - Lansing, MI
+LA  - English
+CN  - 375.5 .M621e
+SC  - Michigan
+ER  - 
+
+TY  - BOOK
+A2  - California Committee for the Study of Education. Subcommittee on the Development of Moral and Spiritual Values in the Schools
+T1  - Developing moral-spiritual values in the schools; a teacher's guide
+Y1  - 1955
+D1  - 02/1955
+SP  - 145
+KW  - Moral education
+N1  - xv. 184 p. 22 cm.; Note(s): Bibliographical footnotes.
+PB  - California Committee for the Study of Education
+CY  - Berkeley, CA
+LA  - English
+CN  - 377.2 .C14d
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Glencoe (Illinois) Board of Education
+T1  - Experimental curriculum outlines for Glencoe public schools; a co-operative study of educational policies and procedures designed to facilitate the growth and development of children within their environments
+Y1  - 1937
+D1  - 09/1937
+SP  - 135
+KW  - Curricula
+N1  - 2 p.L., 3 p., 1 L.; front. (diagr.) 27 1/2cm.; Note(s): Mimeographed.
+PB  - Glencoe (Illinois) Board of Education
+CY  - Glencoe, IL
+LA  - English
+CN  - 375.83 .G55e
+SC  - Illinois
+ER  - 
+
+TY  - BOOK
+A1  - Jacobson, Philip
+T1  - Religion in public education; a guide for discussion
+Y1  - 1960
+D1  - 09/1960
+SP  - 40
+KW  - Religious education
+N1  - 40 p. 28 cm.
+PB  - American Jewish Committee, Institute of Human Relations
+CY  - New York, NY
+LA  - English
+CN  - 377.1 .A51r
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District
+T1  - World cultures ... Ninth and tenth year social studies ..
+V1  - 283
+V1  - 284
+Y1  - 1936
+D1  - 1936
+KW  - Civilization
+KW  - History
+KW  - Sociology
+AB  - I. Selected units and materials for the B-9 semester, including outline of two-year program.--II. Selected units and materials for the A-9 semester.
+N1  - v. pl. 22 cm.; Note(s): Includes bibliographies.
+T2  - School publication (Los Angeles City School District : numbered series) ;; no. 283-284
+PB  - Los Angeles (California) City School District, Division of instruction and curriculum, Secondary curriculum section
+CY  - Los Angeles, CA
+LA  - English
+CN  - 375.952 .L879w
+SC  - California
+G2  - 9th
+G2  - 10th
+ER  - 
+
+TY  - BOOK
+A2  - California Teachers Association. Moral and Spiritual Values Committee
+T1  - Faiths of Mankind: a suggested bibliography of instructional materials for use in secondary schools
+T2  - California Teachers Association. Moral and Spiritual Values Committee. Bulletin.
+V1  - 1
+Y1  - 1956
+D1  - 09/1956
+SP  - 28
+KW  - Bibliography
+KW  - Religious education
+PB  - California Teachers Association
+CY  - San Francisco, CA
+LA  - English
+CN  - 377.1 .C153b v. 1
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - California Teachers Association. Moral and Spiritual Values Committee
+T1  - The law on teaching religion and morals in schools: legal opinions and ruling affecting the teaching of religion and moral and spiritual values in the public schools
+T2  - California Teachers Association. Moral and Spiritual Values Committee. Bulletin.
+V1  - 2
+Y1  - 1957
+D1  - 06/1957
+SP  - 9
+KW  - Religious education
+PB  - California Teachers Association
+CY  - San Francisco, CA
+LA  - English
+CN  - 377.1 .C153b v. 2
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - California Teachers Association. Moral and Spiritual Values Committee
+T1  - Share your success in teaching moral and spiritual values: a suggested statement of ways and means of telling about your program in moral and spiritual education
+T2  - California Teachers Association. Moral and Spiritual Values Committee. Bulletin.
+V1  - 3
+Y1  - 1957
+D1  - 06/1957
+SP  - 27
+KW  - Religious education
+PB  - California Teachers Association
+CY  - San Francisco, CA
+LA  - English
+CN  - 377.1 .C153b v. 3
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - California Association of Secondary School Administrators. Committee on Moral and Spiritual Values
+T1  - Development of moral and spiritual values through the curriculums of California high schools
+T2  - California State Department of Education. Bulletin.
+V1  - 21
+IS  - 13
+Y1  - 1952
+D1  - 09/1952
+SP  - 32
+KW  - Religious education
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 377.2 .C15d
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Guidelines for moral instruction in California schools
+Y1  - 1969
+D1  - 1969
+SP  - 81
+KW  - Moral education
+N1  - iii; 28 cm.; Note(s): Includes bibliographical references./ Also issued online.
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 377.2 .C15g
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Cleveland Heights (Ohio) Public Schools
+T1  - Character education
+T2  - Cleveland Heights (Ohio) Public Schools. Curriculum bulletin.
+Y1  - 1947
+D1  - 03/1947
+SP  - 9
+KW  - Moral education
+PB  - Cleveland Heights (Ohio) Public Schools
+CY  - Cleveland Heights, OH
+LA  - English
+CN  - 377.2 .C63c
+SC  - Ohio
+ER  - 
+
+TY  - BOOK
+A1  - Crooker, F. Deal
+A2  - Hawaii (Territory)  Department of Public Instruction. Division of Instruction
+T1  - Moral and ethical values in the public schools of Hawaii
+Y1  - 1949
+D1  - 1949
+SP  - 55
+KW  - Moral education
+N1  - 55 pages illustrations, music; Note(s): Includes bibliographical references (pages 54-55).; Responsibility: prepared by F. Deal Crooker.
+PB  - Hawaii (Territory)  Department of Public Instruction. Division of Instruction
+CY  - Honolulu, HI
+LA  - English
+CN  - 377.2 .H38m
+SC  - Hawaii
+ER  - 
+
+TY  - BOOK
+A2  - Florida State Department of Education
+T1  - A guide; teaching moral and spiritual values in Florida schools
+Y1  - 1962
+D1  - 1962
+KW  - Moral education
+N1  - 86 pages.; Note(s): Includes bibliographical references.; Other Titles: Teaching moral and spiritual values in Florida schools.
+T2  - Florida.; State Department of Education.; Bulletin
+V1  - 14
+PB  - Florida State Department of Education
+CY  - Tallahassee, FL
+LA  - English
+CN  - 377.2 .F63g
+SC  - Florida
+ER  - 
+
+TY  - BOOK
+A2  - Fresno (California) City Unified School District
+T1  - We live by values
+Y1  - 1957
+D1  - 1957
+SP  - 40
+KW  - Moral education
+PB  - Fresno (California) City Unified School District
+CY  - Fresno, CA
+LA  - English
+CN  - 377.2 .F88w
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Jefferson County (Alabama) Board of Education
+T1  - Ways of developing moral and spiritual values: a report of the committee on ways of developing desirable moral an spiritual values in children and youth
+Y1  - 1955
+D1  - 1955
+SP  - 30
+KW  - Moral education
+PB  - Jefferson County (Alabama) Board of Education
+CY  - Birmingham, AL
+LA  - English
+CN  - 377.2 .J45w
+SC  - Alabama
+ER  - 
+
+TY  - BOOK
+A2  - Long Beach (California) City Schools
+T1  - When we teach values
+Y1  - 1963
+D1  - 1963
+SP  - 106
+KW  - Moral education
+N1  - 106 p. ill.
+PB  - Long Beach (California) City Schools
+CY  - Long Beach, CA
+LA  - English
+CN  - 377.2 .L84w
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District
+T1  - The teaching of values; an instructional guide for kindergarten, grades 1-14
+Y1  - 1966
+D1  - 1966
+SP  - 195
+KW  - Moral education
+N1  - xii; 24 cm.; Note(s): Includes bibliographical references.
+T2  - Los Angeles City School District.; Division of Instructional Services.; Publication
+V1  - GC-15.
+PB  - Los Angeles (California) City School District
+CY  - Los Angeles, CA
+LA  - English
+CN  - 377.2 .L87t v. 1
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District
+T1  - Bibliography to accompany the teaching of values; an instructional guide for kindergarten, grades 1-14
+Y1  - 1966
+SP  - 76
+KW  - Bibliography
+KW  - Moral education
+N1  - vi; 28 cm.; Other Titles: Teaching of values
+T2  - Los Angeles City School District.; Division of Instructional Services.; Publication
+V1  - GC-14
+PB  - Los Angeles (California) City School District
+CY  - Los Angeles, CA
+LA  - English
+CN  - 377.2 .L87t v. 2
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - National Congress of Parents and Teachers
+A2  - Educational Policies Commission
+T1  - Moral and spiritual education in home, school, and community; a program aid for your P.T.A
+Y1  - 1953
+D1  - 05/1953
+SP  - 28
+KW  - Moral education
+N1  - 28 p. 23 cm.; Responsibility: Prepared in cooperation with the Educational Policies Commission.
+PB  - National Congress of Parents and Teachers
+CY  - Chicago, IL
+LA  - English
+CN  - 377.2 .N27m
+ER  - 
+
+TY  - BOOK
+A2  - New York (New York) City Board of Education
+T1  - The development of moral and spiritual ideals in the public schools
+Y1  - 1956
+D1  - 10/1956
+SP  - 16
+KW  - Moral education
+N1  - 16 p. ; 24 cm.; Responsibility: Board of Education of the City of New York.
+PB  - New York (New York) City Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 377.2 .N532d
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - Saint Louis (Missouri) Public School
+T1  - Moral and spiritual values in the Saint Louis public schools
+Y1  - 1954
+D1  - 01/1954
+SP  - 19
+KW  - Moral education
+T2  - Saint Louis (Missouri) Public School. Research and survey series
+V1  - 15
+T2  - The Saint Louis public school journal
+V1  - 7
+IS  - 3
+PB  - Saint Louis (Missouri) Public School
+CY  - Saint Louis, MO
+LA  - English
+CN  - 377.2 .S14m
+SC  - Missouri
+ER  - 
+
+TY  - BOOK
+A1  - Everett, Marcia A.
+A2  - New Jersey. Character and Citizenship Education Commission
+T1  - Their future is in our hands; education for character and citizenship
+Y1  - 1953
+D1  - 1953
+SP  - 150
+KW  - Moral education
+KW  - Child development
+N1  - 150 p. illus. 28 cm.; Note(s): Cover title./ Bibliography: p. 143-149.; Responsibility: [Marcia A. Everett, editor and coordinator].
+PB  - New Jersey State Department of Education
+CY  - Trenton, NJ
+LA  - English
+CN  - 377.2 .N53t
+SC  - New Jersey
+ER  - 
+
+TY  - BOOK
+A1  - Adams, Flora A.
+A2  - San Diego (California) City Schools
+T1  - A guide to moral and spiritual education in elementary schools
+Y1  - 1956
+D1  - 1956
+SP  - 72
+KW  - Moral education
+N1  - 62 p.; Responsibility: prepared by Flora A Adams at the request of the School Community Advisory Committee on Moral and Spiritual Education, 1951-52 [and] 1955-56. Approved by the Board of Education.
+ED  - Rev
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 377.2 .S19g v. 1
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - San Diego (California) City Schools
+T1  - A guide to moral and spiritual education in secondary schools
+Y1  - 1956
+D1  - 1956
+SP  - 55
+KW  - Moral education
+N1  - 55 leaves ; 28 cm.; Note(s): Includes bibliographical references.; Responsibility: prepared by Wayne Laughery at the request of the School-Community Advisory Committee on Moral and Spiritual Education, 1951-52 ... School-Community Advisory Committee on Moral and Spiritual Education, 1955-56 ... Approved by the Board of Education.
+IS  - Rev
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 377.2 .S19g v. 2
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - San Diego (California) City Schools
+T1  - Spiritual values; summarizing present practices and suggesting activities for the development of spiritual values in education
+Y1  - 1948
+D1  - 1948
+KW  - Moral education
+AB  - pt. 1. Our practices in San Diego schools. 1. Respect for personality -- 2. Loyalty to ideals of American democratic group life -- 3. Responsibility for self-direction -- 4. Perseverance in pursuit of worthy goals -- 5. Sensitivity, creative ability, reverence -- pt. 2. Our educational planning. 6. Influence of the teacher's personality -- 7. Opportunities in the curriculum -- 8. Principles of character formation.
+N1  - 111 p. illus. 26 cm.; Note(s): "Instructional aids" (bibliographical): p. 101-111.
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 377.2 .S19s
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - San Fernando Valley (California) Committee
+T1  - Suggested program: moral and spiritual values curriculum public schools of California non-sectarian
+Y1  - 1958
+D1  - 1958
+KW  - Moral education
+PB  - San Fernando Valley (California) Committee
+LA  - English
+CN  - 377.2 .S195s
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - San Mateo County (California) Board of Education
+T1  - Moral and spiritual values in education for kindergarten--grade eight
+Y1  - 1955
+D1  - 1955
+KW  - Character
+KW  - Moral education
+KW  - Curricula
+N1  - 72 leaves ; 28 cm.; Responsibility: approved by San Mateo County Board of Education ...
+PB  - San Mateo County (California) Board of Education
+CY  - Redwood City, CA
+LA  - English
+CN  - 377.2 .S196m
+SC  - California
+G1  - Elementary
+G1  - Middle school
+ER  - 

@@ -1,0 +1,1186 @@
+
+
+
+
+TY  - BOOK
+A2  - Washoe County (Nevada) School District
+T1  - A curriculum guide for the program of instruction in Washoe County schools
+Y1  - 1957
+D1  - 1957
+SP  - 176
+KW  - Curricula
+PB  - Washoe County (Nevada) School District
+CY  - Reno, NV
+LA  - English
+CN  - 375.12 .W31c
+SC  - Nevada
+ER  - 
+
+TY  - BOOK
+A2  - Sacramento County (California) Schools
+T1  - Social studies--science: course of study supplement: source materials for unit development expanded content outlines for kindergarten-grade 8
+Y1  - 1960
+D1  - 1960?
+KW  - Social sciences
+PB  - Sacramento County (California) Schools
+CY  - Sacramento, CA
+LA  - English
+CN  - 375.13 .S12s v. 2-10
+SC  - California
+G1  - Elementary
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Sacramento County (California) Schools
+T1  - Basic course of study for elementary grades
+Y1  - 1967
+D1  - 08/1967
+KW  - Elementary education
+KW  - Curricula
+PB  - Sacramento County (California) Schools
+CY  - Sacramento, CA
+LA  - English
+CN  - 375.13 .S12sc
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - San Antonio (Texas) Independent School District
+T1  - Curriculum guide for elementary schools, grades 1-6
+Y1  - 1956
+D1  - 1956
+SP  - 132
+KW  - Elementary education
+KW  - Curricula
+ED  - Rev
+PB  - San Antonio (Texas) Independent School District
+CY  - San Antonio, TX
+LA  - English
+CN  - 375.13 .S18c
+SC  - Texas
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - San Diego (California) City Schools
+T1  - Bank of course objectives : selected subject areas and grade levels : elementary schools
+Y1  - 1976
+D1  - 1976
+SP  - 237
+KW  - Elementary education
+KW  - Curricula
+N1  - v; ; 28 cm.; Responsibility: Programs Division, San Diego Unified School District.
+ED  - Rev
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 375.13 .S19b
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - San Diego (California) City Schools
+T1  - Course of study for elementary schools
+Y1  - 1976
+D1  - 1976
+SP  - 60
+KW  - Elementary education
+KW  - Curricula
+N1  - vii; ; 28 cm.; Note(s): Cover title.
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 375.13 .S19c 1976
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - San Diego (California) City Schools
+T1  - Course of study for elementary schools
+Y1  - 1972
+D1  - 08/1972
+SP  - 61
+KW  - Elementary schools
+KW  - Curricula
+KW  - Elementary education
+N1  - p. ; cm.; Note(s): The official course of study of the San Diego Unified School District levels kindergarten-six./ August 1972 revision.; Responsibility: adopted September 1972 by the Board of Education of the San Diego Unified School District for the school year 1972-73.
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 375.13 .S19c 1972
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - San Diego (California) City Schools
+T1  - Course of study for elementary schools : adopted September 1971 by the Board of Education of the San Diego Unified School District for the school year 1971-72
+Y1  - 1971
+D1  - 08/1971
+SP  - 49
+KW  - Elementary education
+KW  - Curricula
+N1  - 49 p. ; 28 cm.
+ED  - Aug. 1971 revision Myra Campbell ... [et al.
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 375.13 .S19c 1971
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Kenyon, Wanda L.
+A2  - San Diego (California) City Schools
+T1  - Establishing a learning center in an existing elementary school
+Y1  - 1970
+D1  - 1970?
+SP  - 24
+KW  - Individualized instruction
+KW  - Teaching aids
+N1  - 24 l. 28 cm.; Other Titles: Learning center.; Responsibility: Prepared by Wanda L. Kenyon.
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 375.13 .S19e
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Johnson, Yvonne
+A1  - Robbins, Esther V.
+A2  - San Diego (California) City Schools
+T1  - Guide for individualization of instruction in elementary schools: single and multigrade classes
+Y1  - 1972
+D1  - 1972
+SP  - 79
+KW  - Individualized instruction
+N1  - vii; illus. 28 cm.; Other Titles: Individualization of instruction.; Responsibility: Prepared by Yvonne Johnson and Esther V. Robbins.
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 375.13 .S19g
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Pecoraro, John V.
+A2  - San Diego (California) City Schools
+T1  - A guide for teachers of multigrade classes. (Multigrades 1-2, 3-4, 4-5, and 5-6)
+Y1  - 1969
+D1  - 07/1969
+SP  - 35
+KW  - Elementary education
+N1  - vi; 28 cm.; Other Titles: Multigrade classes.; Responsibility: Prepared by John V. Pecoraro.
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 375.13 .S19gu
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - San Diego (California) City Schools
+T1  - Basic course of study; 1967-68
+Y1  - 1967
+D1  - 09/1967
+SP  - 93
+KW  - Elementary education
+KW  - Curricula
+N1  - viii; 25 cm.
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 375.13 .S192b
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Olson, Carl,Jr
+A2  - San Diego (California) City Schools
+T1  - Summary of elementary curriculum and special programs : grades kindergarten - 6
+Y1  - 1965
+SP  - 27
+KW  - Elementary education
+KW  - Curricula
+N1  - iii; ; 28 cm.; Note(s): Cover title.; Responsibility: prepared by Carl Olson, Jr. ; revised by Thomas Wiggins (1963), Charles Marshall (1965).
+ED  - 3rd
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 375.13 .S194s 1965
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - San Diego (California) City Schools
+T1  - The experimental kindergarten program in the San Diego City schools
+KW  - Elementary education
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 375.13 .S194s 1965
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - San Diego County (California) Schools
+T1  - Tips on teaching
+Y1  - 1958
+D1  - 1958
+KW  - Teaching
+PB  - San Diego County (California) Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 375.13 .S195t
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Olson, Carl
+A1  - Stegeman, William H.
+A1  - Wiggins, Thomas
+A1  - Boyer, Donald N.
+A1  - Fry, Wayne C.
+A1  - Wilson, J. Fred
+A2  - San Diego (California) City Schools
+T1  - Summary of elementary curriculum and special programs : grades kindergarten - 6
+Y1  - 1963
+D1  - 1963
+SP  - 27
+KW  - Elementary education
+KW  - Curricula
+N1  - v leaves; tables ; 28 cm.; Note(s): Cover title./ "Tentative and unedited"--Cover./ Original edition: 1962./ Pref. by William H. Stegeman, Assist. Superintendent, Curriculum Services Division.; Other Titles: Elementary curriculum and special programs : grades kindergarten - 6; Responsibility: prepared by Carl Olson, Jr. ; revised by Thomas Wiggins at the request of the Elementary Schools Division ; Advisory Committee, Donald N. Boyer, Wayne C. Fry, J. Fred Wilson, Chairman.
+ED  - Rev. 1963
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 375.13 .S194s 1965
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - San Diego County (California). Elementary Education Curriculum Committee
+T1  - Trends in elementary education : a teacher's guide, San Diego County schools : statement of trends and suggested practices in social studies, language arts, and arithmetic
+Y1  - 1945
+D1  - 1945
+SP  - 118
+KW  - Curricula
+KW  - Elementary education
+N1  - 118 pages : illustrations ; 28 cm; Note(s): "September 1945."/ Includes bibliographical references.; Responsibility: prepared by the Elementary Education Curriculum Committee.
+PB  - San Diego County (California). Elementary Education Curriculum Committee
+CY  - San Diego, CA
+LA  - English
+CN  - 375.13 .S195tr
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - San Luis Obispo County (California) Schools
+T1  - Elementary course of study
+Y1  - 1967
+D1  - 1967?
+KW  - Curricula
+KW  - Elementary education
+PB  - San Luis Obispo County (California) Schools
+CY  - San Luis Obispo, CA
+LA  - English
+CN  - 375.13 .S196e v. 1-4
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - San Mateo County (California). Office of the Superintendent of Schools
+T1  - Course of study and curriculum guide
+Y1  - 1956
+D1  - 1956
+SP  - 217
+KW  - Curricula
+PB  - San Mateo County (California). Office of the Superintendent of Schools
+CY  - Redwood City, CA
+LA  - English
+CN  - 375.13 .S197c
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - San Mateo County (California). Office of the Superintendent of Schools
+T1  - Course of study and curriculum guide
+Y1  - 1960
+D1  - 1960
+KW  - Curricula
+N1  - 1 v. (Various pagings)
+PB  - San Mateo County (California). Office of the Superintendent of Schools
+CY  - Redwood City, CA
+LA  - English
+CN  - 375.13 .S197c 1960
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Santa Barbara County (California) Schools
+T1  - Course of study for the schools of Santa Barbara County
+Y1  - 1953
+D1  - 07/1953
+KW  - Curricula
+PB  - Santa Barbara County (California) Schools
+CY  - Santa Barbara, CA
+LA  - English
+CN  - 375.13 .S33c
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Shasta County (California) Schools
+T1  - Course of study for the elementary schools of Shasta County
+Y1  - 1964
+D1  - 07/1964
+KW  - Elementary education
+KW  - Curricula
+PB  - Shasta County (California) Schools
+CY  - Redding, CA
+LA  - English
+CN  - 375.13 .S529c 1964
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Calvey, Marie
+A1  - Salzwedel, Gwendolyn
+A1  - Greenfield, B. L.
+A1  - Conger, Glenn
+A1  - Koenig, Stanley
+A1  - Miller, Alvina
+A1  - Schnelle, Elizabeth
+A1  - Kleinhans, Cora
+A1  - Simmelink, Lucille
+A1  - Hennessey, Jane
+A1  - Boeselager, Lillian
+A1  - Maercklein, Kathryn 
+T1  - Pupil-teacher planning
+Y1  - 1957
+D1  - 04/1957
+KW  - Teachers
+PB  - Sheboygan County (Wisconsin) Schools
+CY  - Sheboygan, WI
+LA  - English
+CN  - 375.13 .S53p
+SC  - Wisconsin
+ER  - 
+
+TY  - BOOK
+A2  - Shoreline School District No. 412 (Seattle, Washington)
+T1  - Basic Curriculum Guide
+Y1  - 1959
+D1  - 1959
+KW  - Public schools
+KW  - Curricula
+N1  - 1 v. (various pagings). 28 cm.
+PB  - Shoreline School District No. 412
+CY  - Seattle, WA
+LA  - English
+CN  - 375.13 .S55b
+SC  - Washington
+ER  - 
+
+TY  - BOOK
+A2  - Solano County (California) Schools
+T1  - Curriculum guide book and elementary course of study
+Y1  - 1958
+D1  - 1958
+KW  - Elementary education
+KW  - Curricula
+PB  - Solano County (California) Schools
+CY  - Fairfield, CA
+LA  - English
+CN  - 375.13 .S68c
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Springfield (Missouri) Public Schools
+T1  - Social sciences, science (elementary level)
+Y1  - 1958
+D1  - 1958?
+SP  - 105
+KW  - Social sciences
+KW  - Science
+PB  - Springfield (Missouri) Public Schools
+CY  - Springfield, MO
+LA  - English
+CN  - 375.13 .S77s
+SC  - Missouri
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Stanford University. School of Education
+T1  - Education 444: seminar in elementary education
+Y1  - 1959
+D1  - 1959?
+SP  - 41
+KW  - Elementary education
+N1  - Education 444: Dan T. Dawson, Paul R. Hanna, Fannie Shaftel, G Wesley Sowards
+PB  - Stanford University. School of Education
+CY  - Stanford, CA
+LA  - English
+CN  - 375.13 .S78s
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Stockton (California) Unified School District
+T1  - Suggestions for lesson planning, grouping, and daily programs, grades 1-6
+Y1  - 1956
+D1  - 06/1956
+SP  - 19
+KW  - Lesson planning
+KW  - Elementary education
+PB  - Stockton (California) Unified School District
+CY  - Stockton, CA
+LA  - English
+CN  - 375.13 .S86s
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Stratford (Connecticut) Public Schools
+T1  - Homework in the public elementary schools
+SP  - 12
+KW  - Homework
+KW  - Elementary education
+PB  - Stratford (Connecticut) Public Schools
+CY  - Stratford, CT
+LA  - English
+CN  - 375.13 .S89h
+SC  - Connecticut
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Sunnyvale (California) School District
+T1  - Kindergarten through eighth grade curriculum information, 1957-1958
+Y1  - 1959
+D1  - 06/1959
+SP  - 141
+KW  - Elementary education
+KW  - Curricula
+PB  - Sunnyvale (California) School District
+CY  - Sunnyvale, CA
+LA  - English
+CN  - 375.13 .S95t
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Tulare County (California). Board of Education
+T1  - Course of study for the elementary schools of Tulare County : as adopted June, 1952 by the Tulare County Board of Education
+Y1  - 1952
+D1  - 1952
+KW  - Elementary education
+KW  - Curricula
+PB  - Tulare County (California). Board of Education
+LA  - English
+CN  - 375.13 .T91c
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Tulsa (Oklahoma) Public Schools
+T1  - A curriculum guide for teachers of kindergarten
+Y1  - 1957
+D1  - 1957
+SP  - 160
+KW  - Kindergarten
+N1  - Responsibility: produced through the cooperative effort of the kindergarten teachers of Tulsa under the supervision of Mary McClenaghan.
+ED  - Rev
+PB  - Tulsa (Oklahoma) Public Schools
+CY  - Tulsa, OK
+LA  - English
+CN  - 375.13 .T92c v. 1
+SC  - Oklahoma
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - Tulsa (Oklahoma) Public Schools
+T1  - A curriculum guide for teachers of grade one
+Y1  - 1955
+D1  - 1955
+SP  - 140
+KW  - Primary education
+N1  - Responsibility: produced through the cooperative effort of the kindergarten teachers of Tulsa under the supervision of Mary McClenaghan.
+PB  - Tulsa (Oklahoma) Public Schools
+CY  - Tulsa, OK
+LA  - English
+CN  - 375.13 .T92c v. 2
+SC  - Oklahoma
+G2  - 1st
+ER  - 
+
+TY  - BOOK
+A2  - Tulsa (Oklahoma) Public Schools
+T1  - A curriculum guide for teachers of third grade: suggestions to teachers for guiding the experiences in children in reading, language, social studies, health and personal development
+Y1  - 1957
+D1  - 1957
+SP  - 160
+KW  - Elementary education
+N1  - Responsibility: produced through the cooperative effort of the kindergarten teachers of Tulsa under the supervision of Mary McClenaghan.
+ED  - Rev
+PB  - Tulsa (Oklahoma) Public Schools
+CY  - Tulsa, OK
+LA  - English
+CN  - 375.13 .T92c v. 4
+SC  - Oklahoma
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - Tulsa (Oklahoma) Public Schools
+T1  - A curriculum guide for teachers of grade four: suggestions to teachers for guiding the experiences in children in reading, language, social studies, health and personal development
+Y1  - 1956
+D1  - 1956
+SP  - 125
+KW  - Elementary education
+N1  - Responsibility: produced through the cooperative effort of the kindergarten teachers of Tulsa under the supervision of Mary McClenaghan.
+PB  - Tulsa (Oklahoma) Public Schools
+CY  - Tulsa, OK
+LA  - English
+CN  - 375.13 .T92c v. 5
+SC  - Oklahoma
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Tulsa (Oklahoma) Public Schools
+T1  - A curriculum guide for teachers of grade five: suggestions to teachers for guiding the experiences in children in reading, language, social studies, health and personal development
+Y1  - 1956
+D1  - 1956
+SP  - 119
+KW  - Elementary education
+N1  - Responsibility: produced through the cooperative effort of the kindergarten teachers of Tulsa under the supervision of Mary McClenaghan.
+ED  - Rev
+PB  - Tulsa (Oklahoma) Public Schools
+CY  - Tulsa, OK
+LA  - English
+CN  - 375.13 .T92c v. 6
+SC  - Oklahoma
+G2  - 5th
+ER  - 
+
+TY  - BOOK
+A2  - Tulsa (Oklahoma) Public Schools
+T1  - A curriculum guide for teachers of grade six : suggestions to teachers for guiding the experiences of children in reading, language, social studies, health and personal development
+Y1  - 1956
+D1  - 1956
+SP  - 121
+KW  - Elementary education
+KW  - Curricula
+N1  - 121 p. ; 28 cm.
+PB  - Tulsa (Oklahoma) Public Schools
+CY  - Tulsa, OK
+LA  - English
+CN  - 375.13 .T92c v.7
+SC  - Oklahoma
+G2  - 6th 
+ER  - 
+
+TY  - BOOK
+A1  - Sowards, G. Wesley
+A1  - Mote, Florence B.
+A1  - Fielder, William R.
+A1  - Moore, Robert Ezra
+T1  - Curriculum study in Tracy elementary public schools: a survey report to board of trustees.
+Y1  - 1958
+D1  - 06/1958
+SP  - 74
+KW  - Elementary education
+KW  - Curricula
+PB  - Tracy (California) Elementary School District
+CY  - Tracy, CA
+LA  - English
+CN  - 375.13 .T75c
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Ashburn, Ellen Waranch
+A2  - Virginia Beach (Virginia) Public Schools
+T1  - Survey of student and teacher attitudes toward the 45-15 pilot program
+Y1  - 1974
+D1  - 10/1974
+SP  - 41
+KW  - School year
+N1  - 41 p. ; 22 cm.; Note(s): Cover title: Attitude surveys, teachers - students.; Other Titles: Attitude surveys, teachers - students.; Responsibility: prepared by Ellen Waranch Ashburn, Department of Research Planning and Development.
+T2  - The Virginia Beach, Virginia 45-15 pilot program of year-round education
+PB  - Virginia Beach (Virginia) Public Schools
+CY  - Virginia Beach, VA
+LA  - English
+CN  - 375.13 .V81y
+SC  - Virginia
+ER  - 
+
+TY  - BOOK
+A1  - Clark, Ann Nolan
+T1  - Teachers' handbook for use by teachers in rural elementary schools
+Y1  - 1953
+D1  - 1953
+SP  - 149
+KW  - Rural schools
+KW  - Elementary education
+N1  - ill. ; 25 cm.; Note(s): Also issued online.; Other Titles: Teachers' handbook for use in cooperative education programs in the Latin American republics; Responsibility: developed through the collaboration of Latin American and United States educators under the direction of Ann Nolan Clark. 
+PB  - Institute of Inter-American Affairs, Division of Education
+CY  - Washington, DC
+LA  - English
+CN  - 375.13 .U58t
+SC  - Latin America
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Ventura County (California) Board of Education
+T1  - A course of study for elementary schools
+Y1  - 1953
+D1  - 1953
+KW  - Elementary education
+KW  - Curricula
+N1  - Reprint, 1955
+PB  - Ventura County (California) Board of Education
+LA  - English
+CN  - 375.13 .V46c
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Virginia Beach (Virginia) Public Schools
+T1  - Cost analysis, 45-15 schools, 1973-74, Virginia Beach City Public Schools : interim report
+Y1  - 1974
+D1  - 10/1974
+SP  - 15
+KW  - School year
+N1  - 15 p. ; 22 cm.; Note(s): Cover title: Cost analysis, 1973-74./ "An interim report on the Virginia Beach, Virginia pilot program of year-round education."; Responsibility: Institute for Social Analysis.
+T2  - The Virginia Beach, Virginia 45-15 pilot program of year-round education
+PB  - Virginia Beach (Virginia) Public Schools
+CY  - Virginia Beach, VA
+LA  - English
+CN  - 375.13 .V81y no. 3
+SC  - Virginia
+ER  - 
+
+TY  - BOOK
+A2  - Virginia Beach (Virginia) Public Schools
+T1  - A study of the relative size of attendance groups in the Virginia Beach 45-15 pilot program
+Y1  - 1974
+D1  - 10/1974
+SP  - 9
+KW  - School year
+N1  - 9 p. ; 22 cm.; Note(s): Cover title: Attendance group study: group A, group B, group C, group D.; Other Titles: Attendance group study.; Responsibility: prepared by Department of Research, Planning & Development, Virginia Beach Public Schools.
+T2  - The Virginia Beach, Virginia 45-15 pilot program of year-round education
+PB  - Virginia Beach (Virginia) Public Schools
+CY  - Virginia Beach, VA
+LA  - English
+CN  - 375.13 .V81y no. 1
+SC  - Virginia
+ER  - 
+
+TY  - BOOK
+A1  - MacDonald, Robert H.
+A1  - Anderson, Bruce
+T1  - The effect of the 45-15 pilot program on community services in Virginia Beach, Virginia
+Y1  - 1974
+D1  - 07/1974
+SP  - 20
+KW  - Recreation
+KW  - Youth
+N1  - 20 p. ; 21 cm.; Responsibility: by Robert H. MacDonald, Bruce Anderson.
+PB  - Virginia Beach (Virginia) Public Schools
+CY  - Virginia Beach, VA
+LA  - English
+CN  - 375.13 .V81y no. 4
+SC  - Virginia
+ER  - 
+
+TY  - BOOK
+A1  - Schlechty, Phillip C.
+A2  - Virginia Beach (Virginia). Public Schools
+T1  - Parent attitudes toward the Virginia Beach year-round school pilot project
+Y1  - 1974
+D1  - 10/1974
+SP  - 47
+KW  - School year
+N1  - 47 p. ; 22 cm.; Note(s): On cover: Final report.; Responsibility: a report presented to the Virginia Beach Public Schools by Phillip C. Schlechty.
+T2  - The Virginia Beach, Virginia 45-15 pilot program of year-round education
+PB  - Virginia Beach (Virginia). Public Schools
+CY  - Virginia Beach, VA
+LA  - English
+CN  - 375.13 .V81y no. 8
+SC  - Virginia
+ER  - 
+
+TY  - BOOK
+A2  - Virginia Beach (Virginia). Public Schools
+A2  - Schlechty Associates
+T1  - The extensiveness and accuracy of parent information about the Virginia Beach 45-15 pilot program
+Y1  - 1973
+D1  - 04/1973
+SP  - 37
+KW  - School year
+N1  - 37 p. ; 22 cm.; Responsibility: a report presented to Virginia Beach Public Schools by Schlechty Associates.
+T2  - The Virginia Beach, Virginia 45-15 pilot program of year-round education
+PB  - Virginia Beach (Virginia). Public Schools
+CY  - Virginia Beach, VA
+LA  - English
+CN  - 375.13 .V81y no. 5
+SC  - Virginia
+ER  - 
+
+TY  - BOOK
+A2  - Virginia Beach (Virginia). Public Schools
+T1  - News view : a compilation of newspaper reports and features about The Virginia Beach, Virginia, pilot program of year-round education
+Y1  - 1973
+D1  - 1973-1974
+KW  - School year
+N1  - 2 v.  .; v. ill. 27 cm; Note(s): Subtitle varies.
+PB  - Virginia Beach (Virginia). Public Schools
+CY  - Virginia Beach, VA
+LA  - English
+CN  - 375.13 .V81y nos. 6-7
+SC  - Virginia
+ER  - 
+
+TY  - BOOK
+A2  - Virginia Beach (Virginia) Public Schools
+T1  - A public information approach
+Y1  - 1973
+D1  - 04/1973
+SP  - 7
+KW  - School year
+N1  - 7 p. ; 22 cm.; Note(s): Cover title.
+T2  - The Virginia Beach, Virginia 45-15 pilot program of year-round education
+PB  - Virginia Beach (Virginia) Public Schools
+CY  - Virginia Beach, VA
+LA  - English
+CN  - 375.13 .V81y no. 11
+SC  - Virginia
+ER  - 
+
+TY  - BOOK
+ID  - 14167
+A2  - Virginia Beach (Virginia) Public Schools
+T1  - A rationale
+Y1  - 1973
+D1  - 04/1973
+KW  - School year
+T2  - The Virginia Beach, Virginia 45-15 pilot program of year-round education
+PB  - Virginia Beach (Virginia) Public Schools
+CY  - Virginia Beach, VA
+LA  - English
+CN  - 375.13 .V81y no. 12
+SC  - Virginia
+ER  - 
+
+TY  - BOOK
+A2  - Virginia Beach (Virginia) Public Schools
+T1  - The planning and preparation phase of the Virginia Beach, Virginia pilot program of year-round education : critical incidents, task identification, role assignments
+Y1  - 1973
+D1  - 04/1973
+KW  - School year
+N1  - [26] p. ; 22 cm.; Note(s): Cover title.
+T2  - The Virginia Beach, Virginia 45-15 pilot program of year-round education
+PB  - Virginia Beach (Virginia) Public Schools
+CY  - Virginia Beach, VA
+LA  - English
+CN  - 375.13 .V81y no. 9
+SC  - Virginia
+ER  - 
+
+TY  - BOOK
+A1  - Brickell, E. E.
+T1  - A research and development approach to year-round education
+T2  - Proceedings of the Fifth National Seminar on Year-Round Education, May 8-11, 1973, Virginia Beach, Virginia, pp. 145-149
+Y1  - 1973
+D1  - 05/1973
+KW  - School year
+PB  - Virginia State Department of Education
+CY  - Richmond, VA
+LA  - English
+CN  - 375.13 .V81y no. 10
+SC  - Virginia
+ER  - 
+
+TY  - BOOK
+A1  - Mounie, James C
+A1  - Holgate, John F.
+T1  - 45-15--a pilot program of year-round education
+T2  - Proceedings of the Fifth National Seminar on Year-Round Education, May 8-11, 1973, Virginia Beach, Virginia, pp. 103-110
+Y1  - 1973
+D1  - 05/1973
+KW  - School year
+PB  - Virginia State Department of Education
+CY  - Richmond, VA
+LA  - English
+CN  - 375.13 .V81y no. 10
+SC  - Virginia
+ER  - 
+
+TY  - BOOK
+A1  - Galfo, Armand
+A1  - Ries, Roger
+T1  - The Virginia Beach 45-15 school year : administrators' and supervisors' reactions
+Y1  - 1974
+D1  - 11/1974
+SP  - 9
+KW  - School year
+N1  - 9 p. ; 22 cm.; Note(s): Cover title: Staff reaction.; Responsibility: submitted by Armand Galfo, Roger Ries.
+T2  - The Virginia Beach, Virginia 45-15 pilot program of year-round education; Variation: Virginia Beach, Virginia 45-15 pilot program of year-round education.
+PB  - Virginia Beach (Virginia) Public Schools
+CY  - Virginia Beach, VA
+LA  - English
+CN  - 375.13 .V81y no. 16
+SC  - Virginia
+ER  - 
+
+TY  - BOOK
+A2  - Virginia Beach (Virginia) Public Schools
+T1  - A review of the pilot program of year-round education in Virginia Beach, Virginia
+Y1  - 1974
+D1  - 04/1974
+KW  - School year
+N1  - ill. ; 28 cm.; Responsibility: prepared by Office of Research, Planning and Development, Virginia Beach City Public Schools.
+T2  - The Virginia Beach, Virginia 45-15 pilot program of year-round education; Variation: Virginia Beach, Virginia 45-15 pilot program of year-round education.
+PB  - Virginia Beach (Virginia) Public Schools
+CY  - Virginia Beach, VA
+LA  - English
+CN  - 375.13 .V81y no. 15
+SC  - Virginia
+ER  - 
+
+TY  - BOOK
+A2  - Virginia Beach (Virginia) Public Schools
+T1  - Response : a compilation of public hearing comments about the Virginia Beach, Virginia, 45-15 pilot program of year-round education
+Y1  - 1974
+D1  - 10/1974
+KW  - School year
+N1  - [101] p. ; 22 cm.; Note(s): Cover title.
+T2  - The Virginia Beach, Virginia 45-15 pilot program of year-round education
+PB  - Virginia Beach (Virginia) Public Schools
+CY  - Virginia Beach, VA
+LA  - English
+CN  - 375.13 .V81y no. 14
+SC  - Virginia
+ER  - 
+
+TY  - BOOK
+A2  - Virginia Beach (Virginia) Public Schools
+T1  - A research design for year-round education : the Virginia Beach, Virginia Pilot program of 45-15 cycled attendance
+Y1  - 1973
+D1  - 04/1973
+SP  - 16
+KW  - School year
+N1  - 16 p. ; 22 cm.; Note(s): Cover title.
+T2  - The Virginia Beach, Virginia 45-15 pilot program of year-round education
+PB  - Virginia Beach (Virginia) Public Schools
+CY  - Virginia Beach, VA
+LA  - English
+CN  - 375.13 .V81y no. 13
+SC  - Virginia
+ER  - 
+
+TY  - BOOK
+A2  - Virginia Beach (Virginia) Public Schools
+T1  - Staff recommendation for the termination of the 45-15 program of year-round education
+Y1  - 1974
+D1  - 1974?
+SP  - 3
+KW  - School year
+PB  - Virginia Beach (Virginia) Public Schools
+CY  - Virginia Beach, VA
+LA  - English
+CN  - 375.13 .V81y no. 17
+SC  - Virginia
+ER  - 
+
+TY  - BOOK
+A1  - Powers, Donald
+T1  - The Virginia Beach extended school year program and its effects on student achievement and attitudes : first year report
+Y1  - 1974
+D1  - 11/1974
+KW  - School year
+N1  - [50] p. ; 22 cm.; Note(s): Cover title: Student achievement.; Other Titles: Student achievement.; Responsibility: submitted by Donald Powers, principal investigator, Educational Testing Service, Princeton, N.J.
+T2  - The Virginia Beach, Virginia 45-15 pilot program of year-round education
+PB  - Virginia Beach (Virginia) Public Schools
+CY  - Virginia Beach, VA
+LA  - English
+CN  - 375.13 .V81y no. 18
+SC  - Virginia
+ER  - 
+
+TY  - BOOK
+A2  - Schlechty Associates
+T1  - A survey of parent attitudes toward and perceptions about the Virginia Beach 45-15 Pilot Program
+Y1  - 1973
+D1  - 06/1973
+KW  - School year
+N1  - ill. ; 22 cm.; Note(s): The Virginia Beach, Virginia 45-15 pilot program [of year-round education].; Responsibility: presented to The Virginia Beach City Public Schools by Schlechty Associates.
+PB  - Schlechty Associates
+CY  - Virginia Beach, VA
+LA  - English
+CN  - 375.13 .V81y no. 20
+SC  - Virginia
+ER  - 
+
+TY  - BOOK
+A2  - PERT/CPM Team
+T1  - Summative report of planning and preparation phase of Virginia Beach 45-15 year-round education pilot program
+Y1  - 1973
+D1  - 06/1973
+KW  - School year
+N1  - [60] p. ; 22 cm.; Responsibility: submitted by PERT/CPM Team [Old Dominion University].
+T2  - The Virginia Beach, Virginia 45-15 pilot program of year-round education; Variation: Virginia Beach, Virginia 45-15 pilot program of year-round education.
+PB  - Virginia Beach (Virginia) Public Schools
+CY  - Virginia Beach, VA
+LA  - English
+CN  - 375.13 .V81y no. 19
+SC  - Virginia
+ER  - 
+
+TY  - BOOK
+A2  - Visalia (California) Elementary Schools
+T1  - Course of study outline, grades one. two and three
+SP  - 16
+KW  - Curricula
+KW  - Elementary education
+PB  - Visalia (California) Elementary Schools
+CY  - Visalia, CA
+LA  - English
+CN  - 375.13 .V82c v. 1
+SC  - California
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - Visalia (California) Elementary Schools
+T1  - Course of study outline, grades one. two, three and four
+Y1  - 1964
+D1  - 1964
+SP  - 40
+KW  - Curricula
+KW  - Elementary education
+ED  - Rev
+PB  - Visalia (California) Elementary Schools
+CY  - Visalia, CA
+LA  - English
+CN  - 375.13 .V82c 1964 v. 1
+SC  - California
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Visalia (California) Elementary Schools
+T1  - Course of study outline, fifth grade, sixth grade
+Y1  - 1964
+D1  - 1964
+SP  - 44
+KW  - Curricula
+KW  - Elementary education
+ED  - Rev
+PB  - Visalia (California) Elementary Schools
+CY  - Visalia, CA
+LA  - English
+CN  - 375.13 .V82c 1964 v. 2
+SC  - California
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Visalia (California) Elementary Schools
+T1  - Course of study outline, seventh and eighth grades
+Y1  - 1964
+D1  - 1964
+SP  - 43
+KW  - Curricula
+KW  - Elementary education
+PB  - Visalia (California) Elementary Schools
+CY  - Visalia, CA
+LA  - English
+CN  - 375.13 .V82c 1964 v. 3
+SC  - California
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Waco (Texas) Independent School District
+T1  - Resource units in social studies, science, health for elementary grades (1-6)
+Y1  - 1957
+KW  - Social sciences
+KW  - Science
+KW  - Health education
+N1  - 6 v. : ill. ; 28 cm.; Note(s): Includes bibliographical references and index.
+T2  - Curriculum bulletin (Waco Independent School District)
+V1  - 2
+PB  - Waco (Texas) Independent School District
+CY  - Waco, TX
+LA  - English
+CN  - 375.13 .W11r v. 1-6
+SC  - Texas
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Walworth County (Wisconsin) Superintendent of Schools
+T1  - Curriculum guide for grades one to eight
+KW  - Curricula
+KW  - Elementary education
+PB  - Walworth County (Wisconsin) Superintendent of Schools
+CY  - Elkhorn, WI
+LA  - English
+CN  - 375.13 .W24c
+SC  - Wisconsin
+G1  - Elementary
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Eastern Washington College of Education. Laboratory School
+T1  - Tomorrow's citizen today
+KW  - Laboratory schools
+PB  - Eastern Washington College of Education. Laboratory School
+CY  - Cheney, WA
+LA  - English
+CN  - 375.13 .W31t
+SC  - Washington
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Washington (State). Superintendent of Public Instruction
+T1  - Tentative curriculum guide, grades 1-6 ..
+Y1  - 1957
+D1  - 1957-1958
+KW  - Curricula
+KW  - Elementary education
+N1  - 2 v.
+PB  - Washington (State). Superintendent of Public Instruction
+CY  - Olympia, WA
+LA  - English
+CN  - 375.13 .W319c v. 1-2
+SC  - Washington
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Webster Groves (Missouri) Public Schools
+T1  - Aids to teaching language arts - social studies in the elementary school
+Y1  - 1948
+D1  - 1948
+SP  - 78
+KW  - Language arts
+KW  - Social sciences
+AB  - pt. 1. Kindergarten - grades I and II
+N1  - 1 v. : charts ; 28 cm.; Note(s): Includes bibliographical references.
+PB  - Webster Groves (Missouri) Public Schools
+CY  - Webster Groves, MO
+LA  - English
+CN  - 375.13 .W37a v. 1
+SC  - Missouri
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A2  - Webster Groves (Missouri) Public Schools
+T1  - Aids to teaching the social studies-- language arts core program, grades 7 and 8
+Y1  - 1948
+D1  - 1948
+SP  - 108
+KW  - Social sciences
+KW  - English language
+N1  - 108, 8, 3; ; 28 cm.
+PB  - Webster Groves (Missouri) Public Schools
+CY  - Webster Groves, MO
+LA  - English
+CN  - 375.13 .W37a v. 3
+SC  - Missouri
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Webster Groves (Missouri) Public Schools
+T1  - Aids to teaching the social studies-- language arts core program, grades 7 and 8
+Y1  - 1959
+D1  - 1959
+SP  - 100
+KW  - Social sciences
+KW  - English language
+PB  - Webster Groves (Missouri) Public Schools
+CY  - Webster Groves, MO
+LA  - English
+CN  - 375.13 .W37a 1959 v. 3
+SC  - Missouri
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Wilmette (Illinois) School District No. 39
+T1  - Design for human growth
+Y1  - 1958
+D1  - 1958
+SP  - 142
+KW  - Elementary education
+KW  - Secondary education
+KW  - Curricula
+N1  - ill. ; 28 cm.; Responsibility: Wilmette Public School District. 
+PB  - Wilmette (Illinois) School District No. 39
+CY  - Wilmette, IL
+LA  - English
+CN  - 375.13 .W74d
+SC  - Illinois
+ER  - 
+
+TY  - BOOK
+A2  - Western New Mexico University. Teacher Education Center
+T1  - Perceptions in early childhood creativity exer-genie
+Y1  - 1966
+D1  - 1966
+SP  - 38
+KW  - Creative ability in children
+T2  - WRI T-L
+V1  - 1
+IS  - 4
+PB  - Western New Mexico University. Teacher Education Center
+CY  - Silver City, NM
+LA  - English
+CN  - 375.13 .W51p
+SC  - New Mexico
+G1  - Elementary
+ER  - 

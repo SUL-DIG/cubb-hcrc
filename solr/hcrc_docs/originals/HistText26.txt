@@ -1,0 +1,840 @@
+
+
+TY  - BOOK
+A2  - Arlington Heights (Illinois) Public Schools
+T1  - Tutorial program: English as a second language
+Y1  - 1967
+D1  - 01/1967
+SP  - 73
+KW  - English language
+KW  - Second language acquisition
+PB  - Arlington Heights (Illinois) Public Schools
+CY  - Arlington Heights, IL
+LA  - English
+CN  - 428.211 .A72t
+SC  - Illinois
+ER  - 
+
+TY  - BOOK
+A2  - Chicago (Illinois) City Board of Education
+T1  - Psycholinguistics oral language program : a bi-dialectal approach, pt. 1
+Y1  - 1968
+D1  - 1968
+SP  - 181
+KW  - African Americans
+KW  - English language
+KW  - Spoken English
+N1  - 181 pages; Note(s): The oral language program is for grades 2-4./ Designed for Afro-American children, grades 1-4, whose speech patterns differ from those of standard English. The bi-dialectical program presents subjects relevant to the learners' backgrounds using an aural-oral method./ Developed as part of an experimental project supported by the Illinois Plan for Program Development for Gifted Students, Office of Public Instruction, State of Illinois; and the Board of Education, City of Chicago.; Responsibility: developed by the Psycholinguistics Project staff.
+ED  - Experimental
+PB  - Chicago (Illinois) City Board of Education
+CY  - Chicago, IL
+LA  - English
+CN  - 428.211 .C53p
+SC  - Illinois
+ER  - 
+
+TY  - BOOK
+A1  - Burt, Marina K.
+A1  - Kiparsky, Carol
+T1  - The gooficon: a repair manual for English
+Y1  - 1972
+D1  - 1972
+SP  - 121
+KW  - English language
+N1  - 121 p. 23 cm.; Responsibility: [by] Marina K. Burt [and] Carol Kiparsky.
+PB  - Newbury House
+CY  - Rowley, MA
+LA  - English
+CN  - 428.211 .B97g
+ER  - 
+
+TY  - BOOK
+A2  - Cleveland (Ohio) Public Schools. Division of Adult Education
+T1  - Manual for teachers of adult English and citizenship classes
+Y1  - 1951
+D1  - 09/1951
+SP  - 69
+KW  - Citizenship
+KW  - English language
+N1  - 69 leaves ; 28 cm.; Note(s): Cover title./ Includes bibliographies.
+PB  - Cleveland (Ohio) Public Schools. Division of Adult Education
+CY  - Cleveland, OH
+LA  - English
+CN  - 428.211 .C63m
+SC  - Ohio
+ER  - 
+
+TY  - BOOK
+A2  - Teachers College, Columbia University
+T1  - Teaching English as a second language materials development center
+Y1  - 1965
+D1  - 1965
+SP  - 200
+KW  - English language
+KW  - Second language acquisition
+PB  - Teachers College, Columbia University
+CY  - New York, NY
+LA  - English
+CN  - 428.211 .C71t
+ER  - 
+
+TY  - BOOK
+A2  - Dade County (Florida) Public Schools
+T1  - Planning for non-English-speaking pupils
+Y1  - 1963
+D1  - 1963
+SP  - 31
+KW  - English language
+KW  - Second language acquisition
+PB  - Dade County (Florida) Public Schools
+CY  - Miami, FL
+LA  - English
+CN  - 428.211 .D12p
+SC  - Florida
+ER  - 
+
+TY  - BOOK
+A1  - Jacobs, Charles C.
+T1  - An approach to migrant bilingual education
+Y1  - 1969
+D1  - 1969
+SP  - 25
+KW  - Bilingual education
+KW  - Children of migrant laborers
+N1  - 25 l. 22 x 30 cm.; Note(s): Facsimile reprint by Educational Resources Information Center, 1969./ Developed under a special inter-state project, Strengthening Services of State Departments in Migrant Education; Title V, Elementary Secondary Education Act, Section 505.; Responsibility: by Charles C. Jacobs.
+PB  - Vocational-Technical Division, Delaware State Department of Public Instruction
+CY  - Dover, DE
+LA  - English
+LA  - Spanish
+CN  - 428.211 .D34a
+SC  - Delaware
+ER  - 
+
+TY  - BOOK
+A2  - Follow Through Project (University of California, Riverside)
+T1  - The Paul Revere story
+Y1  - 1972
+D1  - 1972
+SP  - 8
+KW  - Revere, Paul, 1735-1818
+KW  - United States history
+KW  - United States Revolution, 1775-1783
+KW  - Juvenile literature
+N1  - ill. ; 22 cm.; Note(s): Elementary level story in Spanish and English.; Responsibility: Follow Through Project.
+T2  - Culturally democratic learning environments
+PB  - Follow Through Project (University of California, Riverside)
+CY  - Riverside, CA
+LA  - English
+LA  - Spanish
+CN  - 428.211 .F66d v. 3
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Follow Through Project (University of California, Riverside)
+T1  - The Diecis’eis heritage unit
+Y1  - 1972
+D1  - 1972
+SP  - 111
+KW  - Mexican Americans
+KW  - Hidalgo y Costilla, Miguel
+KW  - Morelos y Pav’on, Jos’e Mar’ia Teclo
+KW  - Revere, Paul, 1735-1818
+KW  - Franklin, Benjamin
+AB  - Bilingual unit for K-3 with historical information, activities, and dramatizations.
+N1  - ill. ; 28 cm.; Note(s): Contains information on Father Hidalgo, Paul Revere, Jos’e Mar’ia Morelos, and Benjamin Franklin.; Responsibility: Follow Through Program, University of California at Riverside.
+T2  - Culturally democratic learning environments
+PB  - Follow Through Project (University of California, Riverside)
+CY  - Riverside, CA
+LA  - English
+LA  - Spanish
+CN  - 428.211 .F66d v. 1
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - El Paso (Texas) Public Schools
+T1  - Bilingual bicultural materials : a listing for library resource centers
+Y1  - 1974
+D1  - 06/1974
+SP  - 79
+KW  - Audio-visual materials
+KW  - Catalogs
+KW  - Bilingual education
+KW  - Spanish language
+KW  - English language
+N1  - 79 p. ; 22 cm.; Note(s): Cover title.
+PB  - El Paso (Texas) Public Schools
+CY  - El Paso, TX
+LA  - English
+CN  - 428.211 .E37b
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - Escondido (California) Union School District
+T1  - Continuation application: Spanish-English bilingual education
+Y1  - 1972
+D1  - 04/1972
+SP  - 76
+KW  - Bilingual education
+KW  - English language
+KW  - Spanish language
+PB  - Escondido (California) Union School District
+CY  - Escondido, CA
+LA  - English
+CN  - 428.211 E74s
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Follow Through Project (University of California, Riverside)
+T1  - Morelos
+Y1  - 1975
+D1  - 1975
+SP  - 9
+KW  - Morelos, José María, 1765-1815
+KW  - Mexico history
+KW  - Mexico Wars of Independence, 1810-1821
+KW  - Juvenile literature
+N1  - ill. ; 22 cm.; Note(s): Elementary level biography of Morelos in English and Spanish./ "Grant number G007507259."/ "August, 1975."; Responsibility: [Follow Through Project].
+T2  - Culturally democratic learning environments
+PB  - Follow Through Project (University of California, Riverside)
+CY  - Riverside, CA
+LA  - English
+LA  - Spanish
+CN  - 428.211 .F66d v. 4
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Follow Through Project (University of California, Riverside)
+T1  - Miguel Hidalgo
+Y1  - 1975
+D1  - 1975?
+SP  - 17
+KW  - Revolutionaries
+KW  - Mexico
+KW  - Biography
+KW  - Juvenile literature
+KW  - Catholics
+KW  - Hidalgo y Costilla, Miguel, 1753-1811
+KW  - Wars of Independence, 1810-1821
+N1  - ill. ; 22 cm.; Note(s): English and Spanish./ Cover title.
+T2  - Culturally Democratic Learning Environments
+PB  - Follow Through Project, University of California
+CY  - Riverside, CA
+LA  - English
+LA  - Spanish
+CN  - 428.211 .F66d v. 2
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Follow Through Project (University of California, Riverside)
+T1  - Cucamonga school district program
+Y1  - 1973
+D1  - 1973
+KW  - Bilingual education
+KW  - Spanish language
+KW  - English language
+PB  - Follow Through Project (University of California, Riverside)
+CY  - Riverside, CA
+LA  - English
+LA  - Spanish
+CN  - 428.211 .F66c
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Follow Through Project (University of California, Riverside)
+T1  - Halloween unit
+Y1  - 1972
+D1  - Fall, 1972
+SP  - 73
+KW  - Halloween
+KW  - Language arts
+KW  - Bilingual education
+AB  - Bilingual unit of juvenile literature with three stories in Spanish and two in English. Suggestions for using a felt board.
+N1  - ill. ; 28 cm.; Note(s): Stories in English are adaptations of Washington Irvings The legend of sleepy hollow and Rip Van Winkle./ English summaries of the stories in Spanish.; Responsibility: Follow Through Program, University of California at Riverside.
+T2  - Culturally democratic learning environments
+PB  - Follow Through Project (University of California, Riverside)
+CY  - Riverside, CA
+LA  - English
+LA  - Spanish
+CN  - 428.211 .F66m v. 3
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Follow Through Project (University of California, Riverside)
+T1  - Nutrition unit
+Y1  - 1972
+D1  - 1972
+KW  - Nutrition
+KW  - Health education
+KW  - Bilingual education
+AB  - Bilingual unit for K-3 containing lessons about the four conventional food groups.
+N1  - 32 p. ; 28 cm.; Responsibility: Follow Through Program, University of California at Riverside.
+T2  - Culturally democratic learning environments; Variation: Culturally democratic learning environments.
+PB  - Follow Through Project (University of California, Riverside)
+CY  - Riverside, CA
+LA  - English
+LA  - Spanish
+CN  - 428.211 .F66m v. 4
+SC  - California
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - Follow Through Project (University of California, Riverside)
+T1  - Lincoln and Ju’arez heritage unit
+Y1  - 1972
+D1  - 1972
+KW  - History
+KW  - Juárez, Benito, 1806-1872
+KW  - Lincoln, Abraham, 1809-1865
+KW  - Juvenile literature
+AB  - Bilingual unit for K-3 featuring history through dramatization.
+N1  - ill. ; 28 cm.; Responsibility: Follow Through Program, University of California at Riverside.
+T2  - Culturally democratic learning environments
+PB  - Follow Through Project (University of California, Riverside)
+CY  - Riverside, CA
+LA  - English
+LA  - Spanish
+CN  - 428.211 .F66m v. 1
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - Follow Through Project (University of California, Riverside)
+T1  - Día de la Raza heritage unit
+SP  - 140
+KW  - Mexican Americans
+KW  - Bilingual education
+KW  - Juvenile literature
+T2  - Culturally democratic learning environments
+PB  - Follow Through Project, University of California
+CY  - Riverside, CA
+LA  - English
+LA  - Spanish
+CN  - 428.211 .F66m v. 2
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Follow Through Project (University of California, Riverside)
+T1  - Cuauhtémoc
+KW  - Aztecs
+KW  - Biography
+KW  - Juvenile literature
+KW  - Cuauhtemoc, Emperor of Mexico, 1495?-1525
+KW  - Mexico history
+KW  - Mexico Conquest, 1519-1540
+N1  - 1 v. (unpaged) : ill. ; 14 x 22 cm.; Note(s): Cover title./ Text in English and Spanish.
+T2  - Culturally democratic learning environments
+PB  - Follow Through Project (University of California, Riverside)
+CY  - Riverside, CA
+LA  - English
+LA  - Spanish
+CN  - 428.211 .F66m v. 2a
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Follow Through Project (University of California, Riverside)
+T1  - Cristobal Colon
+KW  - Colón, Cristóbal, 1451-1506
+KW  - Columbus, Christopher, 1451-1506
+KW  - Juvenile literature
+KW  - Bilingual education
+PB  - Follow Through Project (University of California, Riverside)
+CY  - Riverside, CA
+LA  - English
+LA  - Spanish
+CN  - 428.211 .F66m v. 5
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Follow Through Project (University of California, Riverside)
+T1  - Pepe
+SP  - 8
+KW  - Juvenile literature
+KW  - Bilingual education
+PB  - Follow Through Project (University of California, Riverside)
+CY  - Riverside, CA
+LA  - Spanish
+CN  - 428.211 .F66m v. 6a
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Follow Through Project (University of California, Riverside)
+T1  - Memo y su oso
+SP  - 6
+KW  - Juvenile literature
+KW  - Bilingual education
+PB  - Follow Through Project (University of California, Riverside)
+CY  - Riverside, CA
+LA  - Spanish
+CN  - 428.211 .F66m v. 6b
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Follow Through Project (University of California, Riverside)
+T1  - Sam y Ana
+SP  - 8
+KW  - Juvenile literature
+KW  - Bilingual education
+PB  - Follow Through Project (University of California, Riverside)
+CY  - Riverside, CA
+LA  - Spanish
+CN  - 428.211 .F66m v. 6c
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Project for Development of Culturally Democratic Learning Environments
+T1  - Spanish as a second language for children
+Y1  - 1974
+D1  - 11/1974
+SP  - 510
+KW  - Spanish language
+KW  - Bilingual education
+N1  - ill. ; 28 cm.; Note(s): Lessons designed and tested for kindergarten through third grade.; Responsibility: Follow Through, University of California at Santa Cruz.
+T2  - Culturally democratic learning environments; Variation: Culturally democratic learning environments.
+PB  - Follow Through Project (University of California, Santa Cruz)
+CY  - Santa Cruz, CA
+LA  - English
+CN  - 428.211 .F66s
+SC  - California
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - Fresno County (California) Project
+A2  - Educational Program for Migrant Children
+T1  - Teaching bilingual children
+Y1  - 1954
+D1  - 1954
+SP  - 40
+KW  - Bilingual education
+KW  - Mexican Americans
+N1  - 40 leaves ; 28 cm.; Note(s): Includes bibliographical references (leaf 40).
+PB  - Fresno County Project, Educational Program for Migrant Children
+CY  - Fresno, CA
+LA  - English
+CN  - 428.211 .F88t
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Hawaii. General Education/Language Arts
+T1  - Keaukaha oral language development program; teacher's guide for teaching standard English as a second dialect to primary school children in Hawaii. Level I-IV
+Y1  - 1971
+D1  - 1971
+KW  - English language
+KW  - Dialects
+KW  - Hawaii
+N1  - 4 v.; Other Titles: Teaching standard English as a second dialect to primary school children in Hawaii
+T2  - Publication; no. TAC 71-2677-71-2680
+PB  - Office of Library Services, Teacher Assist Center
+CY  - Honolulu, HI
+LA  - English
+CN  - 428.211 .H38k v. 1-4
+SC  - Hawaii
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Hawaii. General Education/Language Arts
+T1  - Keaukaha oral language development program; scripts to accompany cassette recordings for teaching standard English as a second dialect to primary school children in Hawaii
+Y1  - 1971
+D1  - 1971
+KW  - English language
+KW  - Dialects
+KW  - Hawaii
+N1  - 4 v.
+T2  - Publication; no. TAC 71-3164
+PB  - Office of Library Services, Teacher Assist Center
+CY  - Honolulu, HI
+LA  - English
+CN  - 428.211 .H38k S level 1-4
+SC  - Hawaii
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Project for Development of Culturally Democratic Learning Environments
+T1  - Revised follow through proposal for 1972-1973
+Y1  - 1972
+D1  - 1972-1973
+SP  - 234
+KW  - Bilingual education
+PB  - Project for Development of Culturally Democratic Learning Environments
+LA  - English
+CN  - 428.211 .F66p
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Soriano, Jesse M.
+A1  - Alvarez, Concepcion
+A1  - Armelin, Maria Elba
+A1  - Maley, Carmen
+A1  - Miranda, Consuelo
+A1  - Unger, Susana
+A1  - Wilson, Cecilia
+A1  - Kiddle, Lawrence R.
+T1  - Spanish guide: kindergarten; standard Spanish as a second dialect or second language
+Y1  - 1969
+D1  - 1969
+KW  - Spanish language
+KW  - Second language acquisitions
+N1  - 1 v. (various pagings) illus. 28 cm.; Note(s): At head of title: FLICS.
+T2  - Foreign language innovative curricula studies; Bilingual curriculum development.
+LA  - English
+CN  - 428.211 .M62e v. 2
+SC  - Michigan
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District. Division of Career and Continuing Education
+T1  - Reference list of materials for English as a second language
+Y1  - 1972
+D1  - 1972
+SP  - 18
+KW  - English language
+KW  - Textbooks for foreign speakers
+KW  - Bibliography
+N1  - v; ; 28 cm.; Note(s): Cover title: ESL, reference list of materials for English as a second language.; Other Titles: ESL, reference list of materials for English as a second language; Responsibility: [prepared by the Annotations Subcommittee of the ESL Textbook Evaluation Committee, Division of Career and Continuing Education].
+PB  - Los Angeles (California) City School District. Division of Career and Continuing Education
+CY  - Los Angeles, CA
+LA  - English
+CN  - 428.211 .L87r
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District. Instructional Planning Branch
+T1  - Guidelines for the tutor in teaching English as a second language : an instructional bulletin
+Y1  - 1970
+D1  - 1970
+SP  - 131
+KW  - English language
+KW  - Second language acquisitions
+N1  - viii; ill. ; 28 cm.; Note(s): Cover title./ Half title: The tutor in English as a second language./ Includes bibliographical references (p. 129-131).; Other Titles: English as a second language; Tutor in English as a second language; Responsibility: Los Angeles City Schools, Division of Instructional Planning and Services, Instructional Planning Branch.
+PB  - Los Angeles (California) City School District. Instructional Planning Branch
+CY  - Los Angeles, CA
+LA  - English
+CN  - 428.211 .L87g
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Michigan Migrant Primary Interdisciplinary Project
+T1  - Interdisciplinary oral language guide, primary one : standard English as a second language or second dialect for Spanish-background children
+Y1  - 1969
+D1  - 1969
+SP  - 71
+KW  - English language
+KW  - Second language acquisitions
+N1  - volumes : illustrations ; 28 cm; Note(s): "These materials were developed by the Migrant Program of the Michigan Dept. of Education."; Other Titles: Standard English as a second language or second dialect for Spanish-background children
+PB  - Michigan Migrant Primary Interdisciplinary Project
+CY  - Ann Arbor, MI
+LA  - English
+CN  - 428.211 .M62i v. 1
+SC  - Michigan
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Petrini, Alma Maria
+T1  - ESOL-SESD guide: kindergarten
+Y1  - 1969
+D1  - 1969
+SP  - 135
+KW  - Spanish Americans in the United States
+KW  - Bilingual education
+KW  - English for foreigners
+N1  - 135 p.; Note(s): Cover title: English guide--kindergarten./ At head of title: FLICS [i.e. Foreign language innovative curricula studies]./ " ... project sponsored by the Ann Arbor Board of Education and ... the Center for Research on Language and Language Behavior, University of Michigan.; Other Titles: English guide--kindergarten
+T2  - Michigan oral language series; standard English as a second language or second dialect.; [no. 2]
+PB  - American Council on Teaching of Foreign Languages
+LA  - English
+CN  - 428.211 .M62e v. 1
+SC  - Michigan
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - Palo Alto (California) Unified School District
+T1  - Bilingual bicultural program, Henry M. Gunn Senior High
+Y1  - 1974
+D1  - 1974
+KW  - Bilingual education
+PB  - Palo Alto (California) Unified School District
+CY  - Palo Alto, CA
+LA  - English
+CN  - 428.211 .P18b
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New York City (New York) Board of Education
+T1  - Resource units for classes with Puerto Rican pupils, secondary school transition stage
+Y1  - 1957
+D1  - 1957
+SP  - 123
+KW  - Puerto Rican students
+PB  - New York City (New York) Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 428.211 .N53r
+SC  - New York
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Dillon, Paul L.
+A2  - San Francisco (California) Unified School District
+T1  - San Francisco bilingual-bicultural education project for Spanish/English speaking children : 1970-1971 final evaluation report
+Y1  - 1971
+D1  - 1970-1971
+SP  - 112
+KW  - Bilingual education
+KW  - Mexican Americans
+N1  - 112 leaves.; Note(s): Reproduction: Photocopy of typescript./ Washington, D.C. : Department of Health, Education & Welfare, Office of Education./ 28 cm.; Responsibility: prepared by Paul L. Dillon, Jr.
+PB  - San Francisco (California) Unified School District
+CY  - San Francisco, CA
+LA  - English
+CN  - 428.211 .S195s
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Kleitsch, Russell V.
+T1  - Teaching English as a second language; grades 7-12
+Y1  - 1968
+D1  - 1968
+SP  - 90
+KW  - English language
+KW  - Second language acquisitions
+N1  - v; 28 cm.; Responsibility: Prepared by Russell V. Kleitsch.
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 428.211 .S19t
+SC  - California
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Philippines Bureau of Public Schools
+A2  - Philippine Center for Language Study
+T1  - Tentative teacher's guide in teaching English in Grade II
+Y1  - 1960
+D1  - 1960
+SP  - 405
+KW  - English language
+KW  - Philippine students
+PB  - Philippines Bureau of Public School
+CY  - Manila, Philippines
+LA  - English
+CN  - 428.211 .P54t
+SC  - Philippines
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A1  - Richards, Regina G.
+T1  - Programmed phonemics; phonemic transcription using a modified international phonetic alphabet
+Y1  - 1972
+D1  - 1972
+SP  - 108
+KW  - Phonemics
+KW  - English language
+N1  - 108 l. 22 cm.; Note(s): Cover title.
+PB  - Newbury House Publishers
+CY  - Rowley, MA
+LA  - English
+CN  - 428.211 .R51p
+ER  - 
+
+TY  - BOOK
+A2  - Riverside County (California) Superintendent of Schools
+T1  - Project unidos: final evaluation report 1970-71
+Y1  - 1970
+D1  - 1970-1971
+SP  - 321
+KW  - Bilingual education
+PB  - Riverside County (California) Superintendent of Schools
+CY  - Riverside, CA
+LA  - English
+CN  - 428.211 .R62p
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Rowland (California) Unified School District
+T1  - Bilingual/bicultural education program
+Y1  - 1972
+D1  - 1972-1973
+SP  - 257
+KW  - Bilingual education
+PB  - Rowland (California) Unified School District
+CY  - Rowland Heights, CA
+LA  - English
+CN  - 428.211 .R88b
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Texas Education Agency
+A2  - Regional Educational Agencies Project
+T1  - A resource manual for implementing bilingual education programs
+Y1  - 1975
+D1  - 1975
+SP  - 157
+KW  - Bilingual education
+PB  - Regional Educational Agencies Project
+CY  - Austin, TX
+LA  - English
+CN  - 428.211 .T35r
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A1  - Bargiachi, Marguerite
+A1  - Gonzales, Mollie
+T1  - A model curriculum for teaching the culture and history of Mexico for a bilingual bicultural program on second grade level : project
+Y1  - 1972
+D1  - 1972
+SP  - 107
+KW  - Mexican Americans
+KW  - Bilingual education
+KW  - Curricula
+N1  - ii, 107 leaves.; Dissertation: Thesis (M.A.)--Sacramento State College, 1972.; Responsibility: Marguerite Bargiachi and Mollie Gonzales.
+PB  - Sacramento State College
+CY  - Sacramento, CA
+LA  - English
+CN  - 428.211 .V19m
+ER  - 
+
+TY  - BOOK
+A1  - Ohannessian, Sirarpi
+A1  - Gage, William W.
+A2  - Center for Applied Linguistics
+A2  - United States Bureau of Indian Affairs. Division of Education
+T1  - Teaching English to speakers of Choctaw, Navajo, and Papago : a contrastive approach
+Y1  - 1969
+D1  - 1969
+SP  - 138
+KW  - English language
+KW  - Indian students
+KW  - Native language and education
+KW  - Indians of North America
+N1  - x; ill. ; 28 cm.; Note(s): Prepared by English for Speakers of Other Languages Program under contract no. K51C14200097./ "October 1969"--P. [ii]./ Includes bibliographical references (p. 136-138).; Responsibility: edited by Sirarpi Ohannessian and William W. Gage ; prepared at the Center for Applied Linguistics for the Bureau of Indian Affairs of the United States Department of the Interior.
+T2  - Curriculum bulletin (Washington, D.C.)
+KW  - 6
+PB  - Office of the Assistant Commissioner for Education, U.S. Bureau of Indian Affairs
+CY  - Washington, DC
+LA  - English
+CN  - 428.211 .U57t
+ER  - 
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - Oral language development in early childhood education
+Y1  - 1975
+D1  - 1975
+SP  - 102
+KW  - English language
+KW  - Spanish students
+KW  - Second language acquisition
+N1  - vi; ill. ; 28 cm.; Responsibility: Texas Education Agency.
+T2  - Texas Education Agency.; Bulletin
+V1  - 720
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 428.211 .T35o
+SC  - Texas
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Ulibarri, Horacio
+T1  - Bilingual education: a handbook for educators
+Y1  - 1970
+D1  - 1970
+SP  - 143
+KW  - Bilingual education
+N1  - iii, 143 p.; Note(s): Includes bibliographical references.
+PB  - Southern Methodist University
+CY  - Dallas, TX
+LA  - English
+CN  - 428.211 .S72b
+ER  - 
+
+TY  - BOOK
+A1  - Yao Shen
+T1  - The teaching of English in China
+Y1  - 1955
+D1  - 1955
+SP  - 8
+KW  - English language
+KW  - Second language acquisition
+PB  - Tamkang English College
+CY  - Taipei, Taiwan
+LA  - English
+CN  - 428.211 .T15t v. 1
+SC  - China
+SC  - Taiwan
+ER  - 
+
+TY  - BOOK
+A1  - Valencia, Atilano A.
+T1  - Bilingual-bicultural education for the Spanish-English bilingual
+Y1  - 1972
+D1  - 10/1972
+SP  - 83
+KW  - Bilingual education
+KW  - English language
+KW  - Spanish language
+N1  - 83 p. illus. 23 cm.; Note(s): Bibliography: p. 82-83.; Responsibility: [by] Atilano A. Valencia.
+PB  - New Mexico Highlands University Press
+CY  - Las Vegas, NM
+LA  - English
+CN  - 428.211 .V15b
+SC  - New Mexico
+ER  - 
+

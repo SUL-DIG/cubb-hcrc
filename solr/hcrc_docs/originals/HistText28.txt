@@ -1,0 +1,1207 @@
+
+
+
+
+TY  - BOOK
+A2  - San Leandro (California) Unified School District
+T1  - Roads of excellence through books
+Y1  - 1968
+D1  - 1968
+SP  - 103
+KW  - Reading
+KW  - Children's literature
+N1  - 103 pages : illustrations ; 29 cm; Note(s): Includes bibliographical references.; Responsibility: developed by the San Leandro Unified School District : approved by the Alameda County Board of Education.
+PB  - Alameda County (California) Schools Department
+CY  - Hayward, CA
+LA  - English
+CN  - 428.4 .A31r
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Alameda (California) Unified School District
+T1  - Reading activities : low first
+Y1  - 1956
+D1  - 1956
+SP  - 93
+KW  - Reading
+PB  - Alameda (California) Unified School District
+CY  - Alameda, CA
+LA  - English
+CN  - 428.4 .A31r v. 1
+SC  - California
+G2  - 1st
+ER  - 
+
+TY  - BOOK
+A2  - Alameda (California) Unified School District
+T1  - Reading activities : high first
+Y1  - 1955
+D1  - 1955
+SP  - 22
+KW  - Reading
+PB  - Alameda (California) Unified School District
+CY  - Alameda, CA
+LA  - English
+CN  - 428.4 .A31r v. 2
+SC  - California
+G2  - 1st
+ER  - 
+
+TY  - BOOK
+A2  - Alameda (California) Unified School District
+T1  - Reading activities : grade 2
+Y1  - 1956
+D1  - 1956
+SP  - 104
+KW  - Reading
+PB  - Alameda (California) Unified School District
+CY  - Alameda, CA
+LA  - English
+CN  - 428.4 .A31r v. 3
+SC  - California
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A2  - Alameda (California) Unified School District
+T1  - Reading activities : grade 3
+Y1  - 1955
+D1  - 1955
+SP  - 25
+KW  - Reading
+PB  - Alameda (California) Unified School District
+CY  - Alameda, CA
+LA  - English
+CN  - 428.4 .A31r v. 4
+SC  - California
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - Alameda (California) Unified School District
+T1  - Reading activities : grade 4
+Y1  - 1955
+D1  - 1955
+SP  - 15
+KW  - Reading
+PB  - Alameda (California) Unified School District
+CY  - Alameda, CA
+LA  - English
+CN  - 428.4 .A31r v. 5
+SC  - California
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Alameda (California) Unified School District
+T1  - Techniques and procedures for the teaching of reading : a suppl. to the Guide to elementary education, kindergarten through eighth grade
+Y1  - 1954
+D1  - 09/1954
+SP  - 34
+KW  - Reading
+PB  - Alameda (California) Unified School District
+CY  - Alameda, CA
+LA  - English
+CN  - 428.4 .A31t 1954
+SC  - California
+G1  - Elementary
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Alameda (California) Unified School District
+T1  - Techniques and procedures for the teaching of reading : a suppl. to the Guide to elementary education, kindergarten through eighth grade
+Y1  - 1955
+D1  - 09/1955
+SP  - 34
+KW  - Reading
+PB  - Alameda (California) Unified School District
+CY  - Alameda, CA
+LA  - English
+CN  - 428.4 .A31t 1955
+SC  - California
+G1  - Elementary
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Alameda (California) Unified School District
+T1  - Techniques and procedures for the teaching of reading : a suppl. to the Guide to elementary education, kindergarten through eighth grade
+Y1  - 1960
+D1  - 1960
+SP  - 83
+KW  - Reading
+PB  - Alameda (California) Unified School District
+CY  - Alameda, CA
+LA  - English
+CN  - 428.4 .A31t 1960
+SC  - California
+G1  - Elementary
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Alameda County (California) Board of Education
+T1  - Book placement charts
+Y1  - 1958
+D1  - 06/1958
+KW  - Reading
+PB  - Alameda County (California) Board of Education
+CY  - Hayward, CA
+LA  - English
+CN  - 428.4 .A318b
+SC  - California
+G1  - Elementary
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Alameda County (California) Board of Education
+T1  - Reading and literature textbook placement charts
+Y1  - 1961
+D1  - 06/1961
+KW  - Reading
+PB  - Alameda County (California) Board of Education
+CY  - Hayward, CA
+LA  - English
+CN  - 428.4 .A318r 1961
+SC  - California
+G1  - Elementary
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Alameda County (California) Board of Education
+T1  - Reading and literature textbook placement charts
+Y1  - 1964
+D1  - 1964-1965
+KW  - Reading
+PB  - Alameda County (California) Board of Education
+CY  - Hayward, CA
+LA  - English
+CN  - 428.4 .A318r 1964-1965
+SC  - California
+G1  - Elementary
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - American Book Company. Reading Workshop
+T1  - How to teach phonics : and the role that phonics plays in your reading program
+Y1  - 1958
+D1  - 1958
+SP  - 32
+KW  - English language
+KW  - Phonetics
+PB  - American Book Company. Reading Workshop
+CY  - New York, NY
+LA  - English
+CN  - 428.4 .A51p
+ER  - 
+
+TY  - BOOK
+A2  - Albany (California) Unified School District
+T1  - Reading guide for the elementary grades
+Y1  - 1962
+D1  - 09/1962
+SP  - 31
+KW  - Reading
+N1  - 31 leaves. 28 cm.
+PB  - Albany (California) Unified School District
+CY  - Albany, CA
+LA  - English
+CN  - 428.4 .A32r
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Arizona State Department of Public Instruction
+T1  - Reading guide for Arizona elementary schools
+Y1  - 1964
+D1  - 1964
+SP  - 40
+KW  - Reading
+KW  - Curricula
+N1  - 40 pages illustrations 28 cm; Note(s): Cover title./ Includes bibliographical references.
+PB  - Arizona State Department of Public Instruction
+CY  - Phoenix, AZ
+LA  - English
+CN  - 428.4 .A71r
+SC  - Arizona
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Arlington Heights (Illinois) Public Schools
+T1  - Junior high school reading handbook
+Y1  - 1966
+D1  - 09/1966
+SP  - 52
+KW  - Reading
+PB  - Arlington Heights (Illinois) Public Schools
+CY  - Arlington Heights, IL
+LA  - English
+CN  - 428.4 .A72j
+SC  - Illinois
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Atlanta (Georgia) Public Schools
+T1  - Handbook for resource teachers in reading
+Y1  - 1957
+D1  - 05/1957
+SP  - 23
+KW  - Reading
+PB  - Atlanta (Georgia) Public Schools
+CY  - Atlanta, GA
+LA  - English
+CN  - 428.4 .A88h
+SC  - Georgia
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Bamman, Henry A.
+A1  - Dawson, Mildred A.
+T1  - Teaching reading : a guide to aids, materials, and activities
+Y1  - 1958
+D1  - 1958
+SP  - 48
+KW  - Reading
+KW  - Bibliography
+N1  - ill. ; 21 x 28 cm.; Responsibility: by Henry A. Bamman and Mildred A. Dawson ; illustrated by Robert A. Else ; consulting editor Morton S. Malter.
+PB  - H. Chandler
+CY  - San Francisco, CA
+LA  - English
+CN  - 428.4 .B21t
+ER  - 
+
+TY  - BOOK
+A1  - Campbell, Bonnie
+A1  - Quinn, Goldie
+T1  - Phonetic analysis of words in grades 3 and 4
+Y1  - 1965
+D1  - 06/1965
+SP  - 20
+KW  - Reading
+KW  - Phonetics
+PB  - Bellevue (Nebraska) Public Schools
+CY  - Bellevue, NE
+LA  - English
+CN  - 428.4 .B43g v. 2
+SC  - Nebraska
+G2  - 3rd
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A1  - McCollum, John A.
+T1  - An evaluation of the Carden reading program
+Y1  - 1961
+D1  - 06/1961
+SP  - 29
+KW  - Reading
+PB  - Berkeley (California) Unified School District
+CY  - Berkeley, CA
+LA  - English
+CN  - 428.4 .B51e
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Billings Elementary Schools
+T1  - Continuous growth plan in reading
+Y1  - 1956
+D1  - 1956
+SP  - 37
+KW  - Reading
+PB  - Billings Elementary Schools
+LA  - English
+CN  - 428.4 .B59c
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Boston University. School of Education. Educational Clinic
+T1  - High interest low vocabulary booklist
+Y1  - 1952
+D1  - 1952
+SP  - 35
+KW  - Children's literature
+KW  - Bibliography
+N1  - 35 p. ; 23 cm.
+PB  - Boston University. School of Education. Educational Clinic
+CY  - Boston, MA
+LA  - English
+CN  - 428.4 .B74h
+ER  - 
+
+TY  - BOOK
+A2  - Brookline (Massachusetts) Public Schools
+T1  - Course of study in reading: primary grades
+Y1  - 1963
+D1  - 1963
+SP  - 12
+KW  - Reading
+PB  - Brookline (Massachusetts) Public Schools
+CY  - Brookline, MA
+LA  - English
+CN  - 428.4 .B87c v. 1
+SC  - Massachusetts
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Brookline (Massachusetts) Public Schools
+T1  - Course of study in reading: grades 4-8
+Y1  - 1957
+D1  - 1957
+SP  - 27
+KW  - Reading
+PB  - Brookline (Massachusetts) Public Schools
+CY  - Brookline, MA
+LA  - English
+CN  - 428.4 .B87c v. 2
+SC  - Massachusetts
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Burbank (California) Unified School District
+T1  - Teachers' guide to reading instruction: advanced first - sixth grade
+Y1  - 1950
+D1  - 08/1950
+SP  - 26
+KW  - Reading
+PB  - Burbank (California) Unified School District
+CY  - Burbank, CA
+LA  - English
+CN  - 428.4 .B94t grade 1-6 1950
+SC  - California
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Burbank (California) Unified School District
+T1  - Teachers' guide to reading instruction: first grade
+Y1  - 1951
+D1  - 07/1951
+KW  - Reading
+PB  - Burbank (California) Unified School District
+CY  - Burbank, CA
+LA  - English
+CN  - 428.4 .B94t grade 1 1951
+SC  - California
+G2  - 1st
+ER  - 
+
+TY  - BOOK
+A2  - Burbank (California) Unified School District
+T1  - Teacher's guide to reading instruction : grades 1-6.
+Y1  - 1959
+D1  - 03/1959
+SP  - 134
+KW  - Reading
+N1  - xi; ; 28 cm.; Note(s): Bibliography p. 129.; Responsibility: Burbank Unified School District [J.R. Croad, Superintendent ; F.C. Merrill, Assistant superintendent.].
+PB  - Burbank (California) Unified School District
+CY  - Burbank, CA
+LA  - English
+CN  - 428.4 .B94t 1959
+SC  - California
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Relating reading and the school library program in the primary grades
+Y1  - 1973
+D1  - 1973
+SP  - 45
+KW  - School libraries
+KW  - Reading
+N1  - ix, [1]; ges : illustrations ; 23 cm; Responsibility: California State Department of Education.
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 428.4 .C15r
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - San Francisco State College
+T1  - This is our answer for children with reading problems
+Y1  - 1955
+D1  - Summer, 1955
+KW  - Reading
+N1  - "prepared by a seminar on current trends in the modern elementary school, San Francisco State College at San Lorenzo, California, Edendale School, Summer 1955"
+PB  - San Francisco State College
+CY  - San Francisco, CA
+LA  - English
+CN  - 428.4 .C153t
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Keene, Teresa
+T1  - Tips for tutors; a manual for reading improvement
+Y1  - 1970
+D1  - 1970
+SP  - 31
+KW  - Reading
+KW  - Tutors and tutoring
+N1  - 31 p. illus. 28 cm.; Note(s): Includes bibliographies.; Responsibility: Tutoring Committee: Eloise Jordan, Katherine Freshley [and] Philomence Martin.
+PB  - Chicago Public Library
+CY  - Chicago, IL
+LA  - English
+CN  - 428.4 .C531t
+SC  - Illinois
+ER  - 
+
+TY  - BOOK
+A1  - Ott, Helen Keating
+T1  - Helping children through books; a selected booklist for the seventies
+Y1  - 1974
+D1  - 1974
+SP  - 16
+KW  - Children's literature
+KW  - Bibliography
+KW  - Bibliotherapy for children
+N1  - i; 29 cm.; Note(s): An updated version of a bibliography prepared for use at a workshop held during the 1973 annual conference of the Church and Synagogue Library Association, July 1973, Portland, Or.; Entry: 19740819; Update: 20121123
+T2  - CSLA bibliography.
+PB  - Church and Synagogue Library Association
+CY  - Bryn Mawr, PA
+LA  - English
+CN  - 428.4 .C56h
+ER  - 
+
+TY  - BOOK
+A2  - Caddo Parish (Louisiana) Schools
+T1  - Reading instruction in Caddo Parish Schools : a resource bulletin for teachers
+Y1  - 1957
+D1  - 1957
+SP  - 55
+KW  - Reading
+PB  - Caddo Parish (Louisiana) Schools
+CY  - Shreveport, LA
+LA  - English
+CN  - 428.4 .C12r
+SC  - Louisiana
+ER  - 
+
+TY  - BOOK
+A2  - Clairton (Pennsylvania) Public Schools
+T1  - Course of study: elementary education: reading
+Y1  - 1957
+D1  - 1957-1958
+SP  - 296
+KW  - Reading
+PB  - Clairton (Pennsylvania) Public Schools
+CY  - Clairton, PA
+LA  - English
+CN  - 428.4 .C58r
+SC  - Pennsylvania
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Briggs, Daniel A.
+A1  - Shaw, Luther G.
+A1  - Gumaer, Harry T.
+T1  - Reading in grades 7-12 : a handbook for teachers and administrators
+Y1  - 1964
+D1  - 1964
+SP  - 46
+KW  - Reading
+N1  - ill. ; 28 cm.; Note(s): Includes bibliographical references (p. 45-46).; Responsibility: Daniel A. Briggs, Luther G. Shaw, Harry T. Gumaer ; with a foreword by Nila Banton Smith.
+T2  - CDC handbook
+PB  - Curriculum Development Council for Southern New Jersey
+CY  - Glassboro, NJ
+LA  - English
+CN  - 428.4 .C97r
+SC  - New Jersey
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Denver (Colorado) Public Schools. Department of General and Curriculum Services
+T1  - A guide to the teaching of reading in the Denver public schools : preschool
+Y1  - 1967
+D1  - 1967
+SP  - 21
+KW  - Reading
+N1  - 21 pages ; 28 cm; Note(s): Includes bibliographical references (page 17).; Responsibility: prepared and produced in the Department of General Curriculum Services, Division of Instructional Services, Denver Public Schools.
+PB  - Denver (Colorado) Public Schools. Department of General and Curriculum Services
+CY  - Denver, CO
+LA  - English
+CN  - 428.4 .D41g v. 1
+SC  - Colorado
+G1  - Pre-K
+ER  - 
+
+TY  - BOOK
+A2  - Denver (Colorado) Public Schools. Department of General and Curriculum Services
+T1  - A guide to the teaching of reading in the Denver public schools : kindergarten-grade two
+Y1  - 1967
+D1  - 1967
+SP  - 49
+KW  - Reading
+PB  - Denver (Colorado) Public Schools. Department of General and Curriculum Services
+CY  - Denver, CO
+LA  - English
+CN  - 428.4 .D41g v. 2
+SC  - Colorado
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A2  - Denver (Colorado) Public Schools. Department of General and Curriculum Services
+T1  - A guide to the teaching of reading in the Denver public schools : grades three-six
+Y1  - 1967
+D1  - 1967
+SP  - 53
+KW  - Reading
+PB  - Denver (Colorado) Public Schools. Department of General and Curriculum Services
+CY  - Denver, CO
+LA  - English
+CN  - 428.4 .D41g v. 3
+SC  - Colorado
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Denver (Colorado) Public Schools. Department of General and Curriculum Services
+T1  - A guide to the teaching of reading in the Denver public schools : English (grades 7-12)
+Y1  - 1967
+D1  - 1967
+SP  - 47
+KW  - Reading
+PB  - Denver (Colorado) Public Schools. Department of General and Curriculum Services
+CY  - Denver, CO
+LA  - English
+CN  - 428.4 .D41g v. 4
+SC  - Colorado
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Denver (Colorado) Public Schools. Department of General and Curriculum Services
+T1  - A guide to the teaching of reading in the Denver public schools : science (grades 7-12)
+Y1  - 1967
+D1  - 1967
+SP  - 33
+KW  - Reading
+PB  - Denver (Colorado) Public Schools. Department of General and Curriculum Services
+CY  - Denver, CO
+LA  - English
+CN  - 428.4 .D41g v. 5
+SC  - Colorado
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Denver (Colorado) Public Schools. Department of General and Curriculum Services
+T1  - A guide to the teaching of reading in the Denver public schools : social studies (grades 7-12)
+Y1  - 1967
+D1  - 1967
+SP  - 23
+KW  - Reading
+PB  - Denver (Colorado) Public Schools. Department of General and Curriculum Services
+CY  - Denver, CO
+LA  - English
+CN  - 428.4 .D41g v. 6
+SC  - Colorado
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Denver (Colorado) Public Schools. Department of General and Curriculum Services
+T1  - A guide to the teaching of reading in the Denver public schools : elementary school principals
+Y1  - 1967
+D1  - 1967
+SP  - 25
+KW  - Reading
+PB  - Denver (Colorado) Public Schools. Department of General and Curriculum Services
+CY  - Denver, CO
+LA  - English
+CN  - 428.4 .D41g v. 7
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A1  - Latting, Lucile H.
+A2  - Colorado State Department of Education
+T1  - The program in word analysis
+Y1  - 1950
+D1  - 1950?
+SP  - 52
+KW  - Reading
+N1  - 52 pages illustrations 23 cm; Note(s): Includes bibliographical references (page 45).; Other Titles: Word analysis; Responsibility: prepared by Lucile H. Latting, State supervisor of elementary education.
+PB  - Colorado State Department of Education
+CY  - Denver, CO
+LA  - English
+CN  - 428.4 .C71p
+SC  - Colorado
+G1  - Elementary
+ER  - 
+
+TY  - JOUR
+A2  - Project Literacy
+A2  - Cornell University
+T1  - Project Literacy reports
+Y1  - 1964
+D1  - 12/1964
+SP  - 53
+KW  - Reading
+N1  - Frequency: Irregular; Began with: No. 1 (July 1964).; v. ; 28 cm
+PB  - Cornell University
+CY  - Ithaca, NY
+LA  - English
+CN  - 428.4 .C81p
+ER  - 
+
+TY  - BOOK
+A2  - Denver (Colorado) Public Schools
+T1  - McKee-Harrison reading technique : reading research main study. Grade 4
+Y1  - 1964
+D1  - 1964
+SP  - 24
+KW  - Reading
+PB  - Denver (Colorado) Public Schools
+CY  - Denver, CO
+LA  - English
+CN  - 428.4 .D41m v. 3
+SC  - Colorado
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Denver (Colorado) Public Schools
+T1  - McKee-Harrison reading technique : kindergarten, grade one, grade two
+Y1  - 1964
+D1  - 1964
+SP  - 85
+KW  - Reading
+PB  - Denver (Colorado) Public Schools
+CY  - Denver, CO
+LA  - English
+CN  - 428.4 .D41m v. 1
+SC  - Colorado
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A2  - Denver (Colorado) Public Schools
+T1  - McKee-Harrison reading technique : grade 3
+Y1  - 1964
+D1  - 1964
+SP  - 60
+KW  - Reading
+N1  - 60, [3] p. ; cm; 
+PB  - Denver (Colorado) Public Schools
+CY  - Denver, CO
+LA  - English
+CN  - 428.4 .D41m v. 2
+SC  - Colorado
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - Denver (Colorado) Public Schools
+T1  - Phonics maintenance : improvement and reinforcement of phonics and structural analysis skills: pupil exercises
+Y1  - 1966
+D1  - 1965-1966
+SP  - 13
+KW  - Phonetics
+KW  - Language arts
+N1  - ; 28 cm.; Responsibility: prepared and produced in the Dept. of General Curriculum Services, Division of Instructional Services, Denver Public Schools.
+PB  - Denver (Colorado) Public Schools
+CY  - Denver, CO
+LA  - English
+CN  - 428.4 .D41p v. 1
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A2  - Denver (Colorado) Public Schools
+T1  - Phonics maintenance : improvement and reinforcement of phonics and structural analysis skills: teacher's manual
+Y1  - 1966
+D1  - 1965-1966
+SP  - 32
+KW  - Phonetics
+KW  - Language arts
+N1  - ; 28 cm.; Responsibility: prepared and produced in the Dept. of General Curriculum Services, Division of Instructional Services, Denver Public Schools.
+PB  - Denver (Colorado) Public Schools
+CY  - Denver, CO
+LA  - English
+CN  - 428.4 .D41p v. 2
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A2  - Denver (Colorado) Public Schools
+T1  - Improving meaning through outlining an informative selection, pupil exercises : reading improvement materials, Public Law 531 series
+Y1  - 1966
+D1  - 1965-1966
+SP  - 16
+KW  - Curricula
+KW  - Reading
+N1  - 16 leaves ; 28 cm.; Other Titles: Outlining an informative selection; Responsibility: prepared and produced in the Department of General Curriculum Services.
+PB  - Denver (Colorado) Public Schools
+CY  - Denver, CO
+LA  - English
+CN  - 428.4 .D41im v. 1
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A2  - Denver (Colorado) Public Schools
+T1  - Improving meaning through outlining an informative selection, teacher's manual : reading improvement materials, Public Law 531 series
+Y1  - 1966
+D1  - 1965-1966
+SP  - 24
+KW  - Curricula
+KW  - Reading
+PB  - Denver (Colorado) Public Schools
+CY  - Denver, CO
+LA  - English
+CN  - 428.4 .D41im v. 2
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A2  - Denver (Colorado) Public Schools
+T1  - Improving meaning through using context to get the meaning of a word, pupil exercises : reading improvement materials, Public Law 531 series
+Y1  - 1966
+D1  - 1965-1966
+SP  - 16
+KW  - Curricula
+KW  - Reading
+PB  - Denver (Colorado) Public Schools
+CY  - Denver, CO
+LA  - English
+CN  - 428.4 .D41im v. 3
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A2  - Denver (Colorado) Public Schools
+T1  - Improving meaning through using context to get the meaning of a word, teacher's manual : reading improvement materials, Public Law 531 series
+Y1  - 1966
+D1  - 1965-1966
+SP  - 25
+KW  - Curricula
+KW  - Reading
+PB  - Denver (Colorado) Public Schools
+CY  - Denver, CO
+LA  - English
+CN  - 428.4 .D41im v. 4
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A2  - Denver (Colorado) Public Schools
+T1  - Improving meaning through locating information quickly on a page, pupil exercises : reading improvement materials, Public Law 531 series
+Y1  - 1966
+D1  - 1965-1966
+SP  - 6
+KW  - Curricula
+KW  - Reading
+PB  - Denver (Colorado) Public Schools
+CY  - Denver, CO
+LA  - English
+CN  - 428.4 .D41im v. 5
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A2  - Denver (Colorado) Public Schools
+T1  - Improving meaning through locating information quickly on a page, teacher's manual : reading improvement materials, Public Law 531 series
+Y1  - 1966
+D1  - 1965-1966
+SP  - 17
+KW  - Curricula
+KW  - Reading
+PB  - Denver (Colorado) Public Schools
+CY  - Denver, CO
+LA  - English
+CN  - 428.4 .D41im v. 6
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A2  - Denver (Colorado) Public Schools
+T1  - Improving meaning through determining purposes for reading and adjusting rate to purpose, pupil exercises : reading improvement materials, Public Law 531 series
+Y1  - 1966
+D1  - 1965-1966
+SP  - 7
+KW  - Curricula
+KW  - Reading
+PB  - Denver (Colorado) Public Schools
+CY  - Denver, CO
+LA  - English
+CN  - 428.4 .D41im v. 7
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A2  - Denver (Colorado) Public Schools
+T1  - Improving meaning through determining purposes for reading and adjusting rate to purpose, teacher's manual : reading improvement materials, Public Law 531 series
+Y1  - 1966
+D1  - 1965-1966
+SP  - 14
+KW  - Curricula
+KW  - Reading
+PB  - Denver (Colorado) Public Schools
+CY  - Denver, CO
+LA  - English
+CN  - 428.4 .D41im v. 8
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A2  - Denver (Colorado) Public Schools
+T1  - Improving meaning through using an index, pupil exercises : reading improvement materials, Public Law 531 series
+Y1  - 1966
+D1  - 1965-1966
+SP  - 34
+KW  - Curricula
+KW  - Reading
+PB  - Denver (Colorado) Public Schools
+CY  - Denver, CO
+LA  - English
+CN  - 428.4 .D41im v. 11
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A2  - Denver (Colorado) Public Schools
+T1  - Improving meaning through using an index, teacher's manual : reading improvement materials, Public Law 531 series
+Y1  - 1966
+D1  - 1965-1966
+SP  - 4
+KW  - Curricula
+KW  - Reading
+PB  - Denver (Colorado) Public Schools
+CY  - Denver, CO
+LA  - English
+CN  - 428.4 .D41im v. 12
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A2  - Denver (Colorado) Public Schools
+T1  - Improving meaning through individualized reading, teacher's manual : reading improvement materials, Public Law 531 series
+Y1  - 1966
+D1  - 1965-1966
+SP  - 8
+KW  - Curricula
+KW  - Reading
+KW  - Individualized instruction
+PB  - Denver (Colorado) Public Schools
+CY  - Denver, CO
+LA  - English
+CN  - 428.4 .D41im v. 14
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A2  - Denver (Colorado) Public Schools
+T1  - Reading guide for use in the elementary school
+Y1  - 1948
+D1  - 1948
+SP  - 82
+KW  - Reading
+PB  - Denver (Colorado) Public Schools
+CY  - Denver, CO
+LA  - English
+CN  - 428.4 .D41r
+SC  - Colorado
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Denver (Colorado) Public Schools
+T1  - Sounds and symbols: phonics exercises for use in the Denver public schools
+Y1  - 1952
+D1  - 12/1952
+SP  - 137
+KW  - Reading
+KW  - Phonetics
+PB  - Denver (Colorado) Public Schools
+CY  - Denver, CO
+LA  - English
+CN  - 428.4 .D41s
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A2  - Detroit (Michigan) Public Schools. Department of Language Education
+T1  - Curriculum guide in reading, grades IV to VIII, inclusive
+Y1  - 1953
+D1  - 1953
+SP  - 202
+KW  - Reading
+KW  - Curricula
+N1  - 202 pages 24 cm.
+T2  - Detroit. Public Schools. Publication
+V1  - 356
+PB  - Detroit (Michigan) Board of Education
+CY  - Detroit, MI
+LA  - English
+CN  - 428.4 .D48c
+SC  - Michigan
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A1  - Roberts, Helen Mary
+A2  - Denver (Colorado) Public Schools. Department of Instruction
+T1  - Toward better reading, an instructional guide for use in the junior and senior high schools of Denver
+Y1  - 1945
+D1  - 1945
+SP  - 88
+KW  - Reading
+N1  - 4 preliminary leaves; ges including illustrations, forms, diagrams 23 cm; Note(s): "Prepared ... by Helen M. Roberts."--2d prelim. leaf./ Issued by the Dept. of Instruction, Denver Public Schools. cf. 2d prelim. leaf./ Includes bibliographical references.
+PB  - Denver (Colorado) Public Schools
+CY  - Denver, CO
+LA  - English
+CN  - 428.4 .D41t
+SC  - Colorado
+G1  - Middle school
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - District of Columbia Public Schools
+T1  - Reading curriculum bulletin
+Y1  - 1950
+D1  - 1950
+SP  - 97
+KW  - Reading
+PB  - District of Columbia Public Schools
+CY  - Washington, DC
+LA  - English
+CN  - 428.4 .D61r
+SC  - District of Columbia
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Haas, Leonta R.
+T1  - Selected bibliography for the reading improvement program in Downey secondary schools
+Y1  - 1955
+D1  - 09/1955
+SP  - 21
+KW  - Reading
+LA  - English
+CN  - 428.4 .D74s
+ER  - 
+
+TY  - BOOK
+A2  - Englewood (New Jersey) Public Schools
+T1  - Elementary reading guide
+Y1  - 1964
+D1  - 11/1964
+SP  - 90
+KW  - Reading
+N1  - 90 leaves ; 23 x 28 cm.; Note(s): Includes bibliographical references.; Responsibility: prepared by the Elementary Reading Committee.
+PB  - Englewood (New Jersey) Public Schools
+CY  - Englewood, NJ
+LA  - English
+CN  - 428.4 .E59e
+SC  - New Jersey
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Cody, Isabel
+A1  - Sanderson, Alice
+T1  - Reading readiness handbook
+Y1  - 1958
+D1  - 07/1958
+SP  - 26
+KW  - Reading
+PB  - Fairfield (California) School District
+CY  - Fairfield, CA
+LA  - English
+CN  - 428.4 .F16r
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Flint (Michigan) Public Schools
+T1  - An administrative and instructional reading guide for the primary cycle (the ungraded primary plan) of the Flint public schools
+Y1  - 1961
+D1  - 09/1961
+SP  - 48
+KW  - Reading
+PB  - Flint (Michigan) Public Schools
+CY  - Flint, MI
+LA  - English
+CN  - 428.4 .F62t v. 1
+SC  - Michigan
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Flint (Michigan) Public Schools
+T1  - A reading and language arts guide for the intermediate cycle: an experimental ungraded plan of the Flint community schools
+Y1  - 1961
+D1  - 06/1961
+SP  - 48
+KW  - Reading
+PB  - Flint (Michigan) Public Schools
+CY  - Flint, MI
+ED  - Rev.
+LA  - English
+CN  - 428.4 .F62t v. 2
+SC  - Michigan
+G1  - Elementary
+ER  - 
+
+
+TY  - BOOK
+A2  - Florida State Department of Education
+T1  - A guide, reading in Florida secondary schools
+Y1  - 1966
+D1  - 1966
+SP  - 183
+KW  - Reading
+N1  - v; ges ; 23 cm.; Note(s): Includes bibliographical references.; Other Titles: Reading in Florida secondary schools 
+T2  - Florida. State Department of Education. Bulletin
+V1  - 35C
+PB  - Florida State Department of Education
+CY  - Tallahassee, FL
+LA  - English
+CN  - 428.4 .F63r
+SC  - Florida
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Francis W. Parker School (Chicago, Illinois)
+T1  - The first seven years of the Gillingham Reading Program at the Francis W. Parker School : as presented at the Gillingham Institute, January 26, 1957
+Y1  - 1957
+D1  - 1957
+SP  - 57
+KW  - Reading
+KW  - Remedial teaching
+N1  - 57 leaves : ill. ; 28 cm.; Note(s): Cover title.; Other Titles: Gillingham Reading Program
+PB  - Francis W. Parker School
+CY  - Chicago, IL
+LA  - English
+CN  - 428.4 .F81f
+SC  - Illinois
+ER  - 
+
+TY  - BOOK
+A2  - Fresno (California) City Unified School District
+T1  - Book assignments to reading levels
+Y1  - 1952
+D1  - 09/1952
+KW  - Reading
+PB  - Fresno (California) City Unified School District
+CY  - Fresno, CA
+ED  - Rev.
+LA  - English
+CN  - 428.4 .F88b
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Fresno (California) City Unified School District
+T1  - Teacher's guide to child development in reading, grades one to six : approved, accepted by the Board of Education
+Y1  - 1954
+D1  - 09/1954
+SP  - 72
+KW  - Reading
+N1  - ii, 72 leaves : ill. ; 28 cm.; Note(s): Bibliography: leaf 72.
+PB  - Fresno (California) City Unified School District
+CY  - Fresno, CA
+LA  - English
+CN  - 428.4 .F88t
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Spache, George Daniel
+T1  - Are we teaching reading?
+Y1  - 1956
+D1  - 1956
+SP  - 31
+KW  - Reading
+N1  - 31 p. illus. 23 cm.
+PB  - University of Florida
+CY  - Gainesville, FL
+LA  - English
+CN  - 428.4 .F636a
+SC  - Florida
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Fort Knox (Kentucky) Elementary Schools
+T1  - Building a modern reading program
+Y1  - 1966
+D1  - 1966?
+SP  - 93
+KW  - Reading
+PB  - Fort Knox (Kentucky) Elementary Schools
+CY  - Fort Knox, KY
+LA  - English
+CN  - 428.4 .F74b
+SC  - Kentucky
+ER  - 

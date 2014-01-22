@@ -1,0 +1,1300 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Ann Arbor (Michigan) Public Schools</field>
+<field name="title">Mathematics course outlines in the secondary school</field>
+<field name="year">1955</field>
+<field name="date">02/1955</field>
+<field name="pages">36</field>
+<field name="keywords">Mathematics</field>
+<field name="publisher">Ann Arbor (Michigan) Public Schools</field>
+<field name="pub_place">Ann Arbor, MI</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .A61m</field>
+<field name="state_country">Michigan</field>
+<field name="grade_level_group">High school</field>
+<field name="grade_level_group">Middle school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Broward County (Florida) High Schools</field>
+<field name="title">Tentative guide for the teaching of mathematics, grades 7-12</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="keywords">Mathematics</field>
+<field name="notes">1 v. (various pagings)</field>
+<field name="publisher">Broward County (Florida) Schools</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .B87t</field>
+<field name="state_country">Florida</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Bucks County (Pennsylvania) Schools</field>
+<field name="title">Behavioral objectives curriculum guide mathematics, grade seven</field>
+<field name="year">1968</field>
+<field name="date">Spring, 1968</field>
+<field name="keywords">Mathematics</field>
+<field name="abstract">v. 1 - Above average; v. 2 - Average; v. 3 - Below average</field>
+<field name="publisher">Bucks County (Pennsylvania) Schools</field>
+<field name="pub_place">Doylestown, PA</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .B92b v. 1-3</field>
+<field name="state_country">Pennsylvania</field>
+<field name="grade_level_number">7th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">California State Department of Education</field>
+<field name="title">Final report of the junior college workshops in mathematics</field>
+<field name="year">1961</field>
+<field name="date">1961</field>
+<field name="pages">26</field>
+<field name="keywords">Mathematics</field>
+<field name="publisher">California State Department of Education</field>
+<field name="pub_place">Sacramento, CA</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .C15m</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Postsecondary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Subcommittee on Content and Sequence of Mathematics Studies from the 9th
+through the 14th Grades (California)</field>
+<field name="title">Report, May 3, 1957 - Submitted to California Committee for the Study of
+Education</field>
+<field name="year">1957</field>
+<field name="date">05/1957</field>
+<field name="keywords">Mathematics</field>
+<field name="notes">1 v. (various pagings)</field>
+<field name="publisher">California Committee for the Study of Education</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .C15r</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">9th grade</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
+<field name="grade_level_group">Postsecondary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">California Association of Secondary School Administrators</field>
+<field name="title">New developments in secondary mathematics</field>
+<field name="year">1960</field>
+<field name="date">1960</field>
+<field name="keywords">Mathematics</field>
+<field name="notes">[30] p. ; 257 cm.; Note(s): Cover title./ Includes bibliographical references
+(p. [27-29]).</field>
+<field name="publisher">California Association of Secondary School Administrators</field>
+<field name="pub_place">Burlingame, CA</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .C152n</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">California State Department of Education. Bureau of Elementary
+Education</field>
+<field name="title">Looking ahead in mathematics : a report of the production seminar and Conference
+on the Improvement of Mathematics in the Elementary School, December 7-12, 1959</field>
+<field name="year">1961</field>
+<field name="date">1961</field>
+<field name="pages">86</field>
+<field name="keywords">Arithmetic</field>
+<field name="notes">ill. ; 28 cm.; Note(s): Includes bibliographical references.</field>
+<field name="series_title">Conference on the Improvements of Mathematics in the Elementary School ;
+(December 7-12, 1959 :; Sacramento, Calif.)</field>
+<field name="publisher">California State Department of Education. Bureau of Elementary
+Education</field>
+<field name="pub_place">Sacramento, CA</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .C15L</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Chicago (Illinois) Board of Education</field>
+<field name="title">Basic mathematics I, for the secondary schools</field>
+<field name="year">1961</field>
+<field name="date">1961</field>
+<field name="pages">70</field>
+<field name="keywords">Mathematics</field>
+<field name="notes">124 p. illus.; Note(s): "Answers for basic mathematics I": at end</field>
+<field name="publisher">Chicago (Illinois) Board of Education</field>
+<field name="pub_place">Chicago, IL</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .C53b v. 1</field>
+<field name="state_country">Illinois</field>
+<field name="grade_level_group">High schools </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Chicago (Illinois) Board of Education</field>
+<field name="title">Basic mathematics II, for the secondary schools</field>
+<field name="year">1961</field>
+<field name="date">1961</field>
+<field name="pages">124</field>
+<field name="keywords">Mathematics</field>
+<field name="notes">124 p. illus.; Note(s): "Answers for basic mathematics II": at end, 20
+p.</field>
+<field name="publisher">Chicago (Illinois) Board of Education</field>
+<field name="pub_place">Chicago, IL</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .C53b v. 2</field>
+<field name="state_country">Illinois</field>
+<field name="grade_level_group">High schools </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Cincinnati (Ohio) Public Schools</field>
+<field name="title">Mathematics. . . grades seven eight</field>
+<field name="year">1958</field>
+<field name="date">06/1958</field>
+<field name="pages">299</field>
+<field name="keywords">Curricula</field>
+<field name="keywords">Mathematics</field>
+<field name="notes">x, 299 leaves; ill. ; 28 cm; Other Titles: Mathematics. . . grades 7 and
+8</field>
+<field name="series_title">Cincinnati (Ohio) Public Schools. Curriculum bulletin</field>
+<field name="series_vol">1</field>
+<field name="publisher">Cincinnati (Ohio) Public Schools</field>
+<field name="pub_place">Cincinnati, OH</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .C57m</field>
+<field name="state_country">Ohio</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Cincinnati (Ohio) Public Schools</field>
+<field name="title">General mathematics, grade 9</field>
+<field name="year">1957</field>
+<field name="date">1957</field>
+<field name="pages">107</field>
+<field name="keywords">Mathematics</field>
+<field name="notes">viii, 107 leaves : ill. ; 28 cm.; Note(s): Includes bibliographies.</field>
+<field name="series_title">Cincinnati Board of Education. Curriculum bulletin</field>
+<field name="series_vol">2</field>
+<field name="publisher">Cincinnati (Ohio) Public Schools</field>
+<field name="pub_place">Cincinnati, OH</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .C57g</field>
+<field name="state_country">Ohio</field>
+<field name="grade_level_number">9th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Clairton (Pennsylvania) Public Schools</field>
+<field name="title">Mathematics course of study : 1962-63</field>
+<field name="year">1962</field>
+<field name="date">1962-1963</field>
+<field name="keywords">Mathematics</field>
+<field name="keywords">Curricula</field>
+<field name="series_title">Course of study, secondary education</field>
+<field name="publisher">Clairton (Pennsylvania) Public Schools</field>
+<field name="pub_place">Clairton, PA</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .C58m</field>
+<field name="state_country">Pennsylvania</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Clark County (Nevada) School District</field>
+<field name="title">Junior high school curriculum guide: mathematics</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="pages">68</field>
+<field name="keywords">Mathematics</field>
+<field name="publisher">Clark County (Nevada) School District</field>
+<field name="pub_place">Las Vegas, NV</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .C59j</field>
+<field name="state_country">Nevada</field>
+<field name="grade_level_group">Middle school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">College Entrance Examination Board</field>
+<field name="title">Modernizing the mathematics curriculum: a statement for superintendents of
+schools and members of school boards</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="pages">16</field>
+<field name="keywords">Mathematics</field>
+<field name="notes">16 p. ; 23 x 10 cm.</field>
+<field name="publisher">College Entrance Examination Board</field>
+<field name="pub_place">Princeton, NJ</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .C69p v. 1</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">College Entrance Examination Board</field>
+<field name="title">The introduction to algebra from the point of view of mathematical
+structure</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="pages">16</field>
+<field name="keywords">Mathematics</field>
+<field name="notes">16 p. ; 23 x 10 cm.</field>
+<field name="publisher">College Entrance Examination Board</field>
+<field name="pub_place">Princeton, NJ</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .C69p v. 2 </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">College Entrance Examination Board</field>
+<field name="title">Sets, relations, and functions</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="pages">35</field>
+<field name="keywords">Mathematics</field>
+<field name="notes">35 p. ; 23 x 10 cm.</field>
+<field name="publisher">College Entrance Examination Board</field>
+<field name="pub_place">Princeton, NJ</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .C69p v. 3 </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">College Entrance Examination Board</field>
+<field name="corp_author">Program for college preparatory mathematics</field>
+<field name="title">A Summary of the Report of the Commission on Mathematics, Program for college
+preparatory mathematics</field>
+<field name="year">1959</field>
+<field name="date">1959</field>
+<field name="pages">12</field>
+<field name="keywords">Mathematics</field>
+<field name="notes">12 p. ; 23 x 10 cm.</field>
+<field name="publisher">College Entrance Examination Board</field>
+<field name="pub_place">Princeton, NJ</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .C69p v. 4</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Hoffman, Ruth Irene</field><field name="author_nat">Ruth Irene Hoffman</field>
+<field name="author">Mansfield, Rodney F.</field><field name="author_nat">Rodney F. Mansfield</field>
+<field name="author">Poage, Melvin L.</field><field name="author_nat">Melvin L. Poage</field>
+<field name="author">Struthers, Joseph A.</field><field name="author_nat">Joseph A. Struthers</field>
+<field name="author">Dubois, Andrew</field><field name="author_nat">Andrew Dubois</field>
+<field name="title">Revitalizing the mathematics program in Colorado schools</field>
+<field name="year">1962</field>
+<field name="date">1962</field>
+<field name="pages">75</field>
+<field name="keywords">Mathematics</field>
+<field name="notes">vii; 75 p. : illustrations ; 23 cm; Note(s): Includes bibliographical references
+(pages 71-75).; Responsibility: prepared by Ruth Irene Hoffman [and others] ; illustrations by
+Andrew J. Dubois.</field>
+<field name="publisher">Colorado State Department of Education</field>
+<field name="pub_place">Denver, CO</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .C71m v. 1</field>
+<field name="state_country">Colorado </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">The Mathematical Association of America. Committee on the Undergraduate
+Program in Mathematics</field>
+<field name="title">Basic library list</field>
+<field name="year">1963</field>
+<field name="date">02/1963</field>
+<field name="keywords">Mathematics</field>
+<field name="keywords">Bibliography</field>
+<field name="publisher">The Mathematical Association of America</field>
+<field name="pub_place">Berkeley, CA</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .C73b</field>
+<field name="grade_level_group">Postsecondary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Conference Board of the Mathematical Sciences. National Advisory Committee
+on Mathematical Education</field>
+<field name="title">Overview and analysis of school mathematics, grades K-12</field>
+<field name="year">1975</field>
+<field name="date">1975</field>
+<field name="pages">157</field>
+<field name="keywords">Mathematics</field>
+<field name="notes">xiv; ; 26 cm.; Note(s): Includes bibliographical references.; Responsibility:
+Conference Board of the Mathematical Sciences, National Advisory Committee on Mathematical
+Education.</field>
+<field name="publisher">Conference Board of the Mathematical Sciences</field>
+<field name="pub_place">Washington, DC</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .C74o </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Dade County (Florida) Public Schools</field>
+<field name="title">Experiencing mathematics</field>
+<field name="year">1965</field>
+<field name="date">1965</field>
+<field name="pages">144</field>
+<field name="keywords">Mathematics</field>
+<field name="series_title">Dade County (Florida) Public Schools. Bulletin</field>
+<field name="series_vol">7F</field>
+<field name="publisher">Dade County (Florida) Public Schools</field>
+<field name="pub_place">Miami, FL</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .D12e</field>
+<field name="state_country">Florida </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Dallas (Texas) Independent School District</field>
+<field name="title">Mathematics program: content, scope, and sequence</field>
+<field name="year">1959</field>
+<field name="date">09/1959</field>
+<field name="pages">19</field>
+<field name="keywords">Mathematics</field>
+<field name="publisher">Dallas (Texas) Independent School District</field>
+<field name="pub_place">Dallas, TX</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .D14m</field>
+<field name="state_country">Texas </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Denver (Colorado) Public Schools</field>
+<field name="title">Computer mathematics</field>
+<field name="year">1969</field>
+<field name="date">1969</field>
+<field name="pages">164</field>
+<field name="keywords">Computers in education</field>
+<field name="keywords">Mathematics</field>
+<field name="notes">iv; ill. ; 28 cm.; Note(s): On cover: Grades 10-12.; Responsibility: developed
+by Denver Public Schools Teachers participating in a National Science Foundation Cooperative
+College-School Science Program in Computing Science Education conducted by the University of
+Colorado, Dept. of Civil Engineering, Denver Center.</field>
+<field name="publisher">Denver (Colorado) Public Schools</field>
+<field name="pub_place">Denver, CO</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .D41c</field>
+<field name="state_country">Colorado </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Denver (Colorado) Public Schools</field>
+<field name="title">The mathematics program of the Denver public schools : kindergarten through
+twelfth grade</field>
+<field name="year">1960</field>
+<field name="date">1960</field>
+<field name="keywords">Mathematics</field>
+<field name="abstract">v. 1. Kindergarten and grade one.--v. 2. Grades two and three.--v. 3. Grades
+four and five.--v. 4. Grade six.--v. 5. Grades seven and eight.--v. 6. Grades nine, ten, eleven,
+twelve.</field>
+<field name="notes">v. : ill. ; 28 cm.; Responsibility: produced by the Department of General
+Curriculum Services.</field>
+<field name="publisher">Denver (Colorado) Public Schools</field>
+<field name="pub_place">Denver, CO</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .D41m v. 1-6</field>
+<field name="state_country">Colorado </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Detroit (Michigan) Public Schools</field>
+<field name="title">Detroit's mathematics program</field>
+<field name="year">1961</field>
+<field name="date">1961-1962</field>
+<field name="pages">18</field>
+<field name="keywords">Mathematics</field>
+<field name="publisher">Detroit (Michigan) Public Schools</field>
+<field name="pub_place">Detroit, MI</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .D48d</field>
+<field name="state_country">Michigan </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Flint (Michigan) Schools</field>
+<field name="title">Problem of instruction in mathematics, 1953-54 to present</field>
+<field name="year">1953</field>
+<field name="date">1954-1954</field>
+<field name="keywords">Mathematics</field>
+<field name="publisher">Flint (Michigan) Schools</field>
+<field name="pub_place">Flint, MI</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .F62p</field>
+<field name="state_country">Michigan </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Fresno (California) City Unified School District</field>
+<field name="title">A guide for instruction in universal mathematics V &amp;VI, eleventh
+year</field>
+<field name="year">1954</field>
+<field name="date">09/1954</field>
+<field name="keywords">Mathematics</field>
+<field name="notes">1 v. (various pagings) : ill. ; 28 cm.; Note(s): Includes bibliographical
+references (1 leaf at end).; Other Titles: Universal mathematics; Responsibility: Accepted by the
+Board of Education.</field>
+<field name="publisher">Fresno (California) City Unified School District</field>
+<field name="pub_place">Fresno, CA</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .F88u</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">11th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Grand Island (Nebraska) Board of Education</field>
+<field name="title">Mathematics in Grand Island Public schools: a basic guide for teachers</field>
+<field name="year">1956</field>
+<field name="date">06/1956</field>
+<field name="pages">42</field>
+<field name="keywords">Mathematics</field>
+<field name="publisher">Grand Island (Nebraska) Board of Education</field>
+<field name="pub_place">Grand Island, NE</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .G75m</field>
+<field name="state_country">Nebraska </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">School City of Gary (Indiana)</field>
+<field name="title">Mathematics curriculum guide : basic mathematics 9-12</field>
+<field name="year">1968</field>
+<field name="date">1968</field>
+<field name="pages">105</field>
+<field name="keywords">Mathematics</field>
+<field name="keywords">Curricula</field>
+<field name="publisher">School City of Gary</field>
+<field name="pub_place">Gary, IN</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .G24m</field>
+<field name="state_country">Indiana</field>
+<field name="grade_level_number">9th grade</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Glendale (California) Unified School District</field>
+<field name="title">Junior high school mathematics course of study guide</field>
+<field name="year">1960</field>
+<field name="date">09/1960</field>
+<field name="pages">78</field>
+<field name="keywords">Mathematics</field>
+<field name="publisher">Glendale (California) Unified School District</field>
+<field name="pub_place">Glendale, CA</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .G55m v. 1</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Middle school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Glendale (California) Unified School District</field>
+<field name="title">Senior high school mathematics course of study guide</field>
+<field name="year">1960</field>
+<field name="date">09/1960</field>
+<field name="pages">78</field>
+<field name="keywords">Mathematics</field>
+<field name="publisher">Glendale (California) Unified School District</field>
+<field name="pub_place">Glendale, CA</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .G55m v. 2</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Sparks, Jack N.</field><field name="author_nat">Jack N. Sparks</field>
+<field name="author">Taylor, Kenneth I.</field><field name="author_nat">Kenneth I. Taylor</field>
+<field name="author">Redman, David</field><field name="author_nat">David Redman</field>
+<field name="title">A collection of supplementary books in mathematics for the secondary
+school</field>
+<field name="year">1957</field>
+<field name="date">12/1957</field>
+<field name="keywords">Mathematics</field>
+<field name="keywords">Bibliography</field>
+<field name="notes">18 l. 28 cm.; Responsibility: [by] Jack N. Sparks [and] Kenneth I.
+Taylor.</field>
+<field name="publisher">Leyden Community High School</field>
+<field name="pub_place">Franklin Park, IL</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .F81c</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Hartford (Connecticut) Public Schools</field>
+<field name="title">Course of study, mathematics, grades 9-12</field>
+<field name="year">1955</field>
+<field name="keywords">Mathematics</field>
+<field name="notes">1 v. (various pagings) : ill. ; 28 cm.; Note(s): Cover title./ Includes
+bibliographies.</field>
+<field name="publisher">Hartford (Connecticut?) Public Schools</field>
+<field name="pub_place">Hartford, CT</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .H32c</field>
+<field name="state_country">Connecticut</field>
+<field name="grade_level_number">9th grade</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Houston (Texas) Public Schools. Senior High School Department</field>
+<field name="title">Mathematics handbook</field>
+<field name="year">1955</field>
+<field name="date">1955-1956</field>
+<field name="pages">64</field>
+<field name="keywords">Mathematics</field>
+<field name="publisher">Houston (Texas) Public Schools</field>
+<field name="pub_place">Houston, TX</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .H84m</field>
+<field name="state_country">Texas</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of Illinois Committee on School Mathematics</field>
+<field name="title">High school mathematics: first course: unit one: directed numbers</field>
+<field name="year">1955</field>
+<field name="date">1955</field>
+<field name="pages">75</field>
+<field name="keywords">Mathematics</field>
+<field name="notes">Teachers' Edition with the 1956-57 Teachers Commentary Supplement</field>
+<field name="publisher">University of Illinois Committee on School Mathematics</field>
+<field name="pub_place">Urbana, IL</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .I29h v. 1</field>
+<field name="state_country">Illinois</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of Illinois Committee on School Mathematics</field>
+<field name="title">High school mathematics: first course: unit two: numbers - numerals
+pronumerals</field>
+<field name="year">1955</field>
+<field name="date">1955</field>
+<field name="pages">87</field>
+<field name="keywords">Mathematics</field>
+<field name="notes">Teachers' Edition with the 1956-57 Teachers Commentary Supplement</field>
+<field name="publisher">University of Illinois Committee on School Mathematics</field>
+<field name="pub_place">Urbana, IL</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .I29h v. 2</field>
+<field name="state_country">Illinois</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of Illinois Committee on School Mathematics</field>
+<field name="title">High school mathematics: first course: unit three: equations</field>
+<field name="year">1955</field>
+<field name="date">1955</field>
+<field name="pages">79</field>
+<field name="keywords">Mathematics</field>
+<field name="notes">Teachers' Edition with the 1956-57 Teachers Commentary Supplement</field>
+<field name="publisher">University of Illinois Committee on School Mathematics</field>
+<field name="pub_place">Urbana, IL</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .I29h v. 3</field>
+<field name="state_country">Illinois</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of Illinois Committee on School Mathematics</field>
+<field name="title">High school mathematics: first course: unit four: graphs and ordered
+pairs</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="pages">65</field>
+<field name="keywords">Mathematics</field>
+<field name="notes">Teachers' Edition with the 1956-57 Teachers Commentary Supplement</field>
+<field name="publisher">University of Illinois Committee on School Mathematics</field>
+<field name="pub_place">Urbana, IL</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .I29h v. 4</field>
+<field name="state_country">Illinois</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of Illinois Committee on School Mathematics</field>
+<field name="title">High school mathematics: first course: unit five: relations and
+functions</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="pages">257</field>
+<field name="keywords">Mathematics</field>
+<field name="notes">Teachers' Edition with the 1959-60 Teachers Commentary Supplement</field>
+<field name="publisher">University of Illinois Committee on School Mathematics</field>
+<field name="pub_place">Urbana, IL</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .I29h v. 5</field>
+<field name="state_country">Illinois</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of Illinois Committee on School Mathematics</field>
+<field name="title">High school mathematics: unit 1: the arithmetic of the real numbers</field>
+<field name="year">1959</field>
+<field name="date">1959</field>
+<field name="pages">141</field>
+<field name="keywords">Mathematics</field>
+<field name="publisher">University of Illinois Committee on School Mathematics</field>
+<field name="pub_place">Urbana, IL</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .I29h v. 1</field>
+<field name="state_country">Illinois</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of Illinois Committee on School Mathematics</field>
+<field name="title">High school mathematics: unit 2: generalizations and algebraic
+manipulation</field>
+<field name="year">1959</field>
+<field name="date">1959</field>
+<field name="pages">158</field>
+<field name="keywords">Mathematics</field>
+<field name="publisher">University of Illinois Committee on School Mathematics</field>
+<field name="pub_place">Urbana, IL</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .I29h v. 2</field>
+<field name="state_country">Illinois</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of Illinois Committee on School Mathematics</field>
+<field name="title">High school mathematics: unit 3: equations and inequations</field>
+<field name="year">1959</field>
+<field name="date">1959</field>
+<field name="pages">158</field>
+<field name="keywords">Mathematics</field>
+<field name="publisher">University of Illinois Committee on School Mathematics</field>
+<field name="pub_place">Urbana, IL</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .I29h v. 3</field>
+<field name="state_country">Illinois</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Kansas City (Missouri) Public Schools</field>
+<field name="title">Curriculum guides in mathematics</field>
+<field name="year">1959</field>
+<field name="date">07/1959</field>
+<field name="keywords">Mathematics</field>
+<field name="notes">1 v. (various pagings); "Algebra 1-2, plane geometry, algebra 3-4, solid
+geometry, trigonometry, special honors math 3-4, special honors math 5-6, special honors math
+7-8"</field>
+<field name="series_title">Kansas City (Missouri) Public Schools. Secondary curriculum
+bulletin</field>
+<field name="series_vol">114</field>
+<field name="publisher">Kansas City (Missouri) Public Schools</field>
+<field name="pub_place">Kansas City, MO</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .K16c</field>
+<field name="state_country">Missouri</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Kentucky State Department of Education. Office of Curriculum
+Development</field>
+<field name="title">Mathematics in Kentucky</field>
+<field name="year">1969</field>
+<field name="date">1969</field>
+<field name="pages">92</field>
+<field name="keywords">Mathematics</field>
+<field name="notes">iv; 23 cm.; Note(s): Includes bibliographical references.</field>
+<field name="series_title">New directions, new dimensions</field>
+<field name="publisher">Kentucky State Department of Education. Office of Curriculum
+Development</field>
+<field name="pub_place">Frankfort, KS</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .K37n</field>
+<field name="state_country">Kentucky </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Kern County (California) Superintendent of Schools</field>
+<field name="title">Reading in mathematics for jr. and sr. high schools</field>
+<field name="year">1960</field>
+<field name="date">08/1960</field>
+<field name="pages">5</field>
+<field name="keywords">Mathematics</field>
+<field name="publisher">Kern County (California) Superintendent of Schools</field>
+<field name="pub_place">Bakersfield, CA</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .K39r</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Middle school</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">King County (Washington) Schools</field>
+<field name="title">The changing face of mathematics teaching</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="pages">65</field>
+<field name="keywords">Mathematics</field>
+<field name="publisher">King County (Washington) Schools</field>
+<field name="pub_place">Seattle, WA</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .K55c</field>
+<field name="state_country">Washington </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Lindbergh (Missouri) School District</field>
+<field name="title">A curriculum guide for mathematics: grade 7 - grade 12</field>
+<field name="year">1964</field>
+<field name="date">1964</field>
+<field name="pages">72</field>
+<field name="keywords">Mathematics</field>
+<field name="publisher">Lindbergh (Missouri) School District</field>
+<field name="pub_place">St. Louis, MO</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .L75m</field>
+<field name="state_country">Missouri</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Long Beach (California) Unified School District</field>
+<field name="title">A course of study : state demonstration project - personalizing
+mathematics</field>
+<field name="year">1968</field>
+<field name="date">1968-1969</field>
+<field name="keywords">Mathematics</field>
+<field name="keywords">Curricula</field>
+<field name="notes">p. ; cm.; Responsibility: Long Beach Unified School District ; Mr. W. Odie
+Wright, et al.</field>
+<field name="publisher">Long Beach (California) Unified School District</field>
+<field name="pub_place">Long Beach, CA</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .L84p</field>
+<field name="state_country">California </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Longview (Washington?) Public Schools</field>
+<field name="title">Teaching guide: mathematics, kindergarten through junior college</field>
+<field name="year">1954</field>
+<field name="date">1954</field>
+<field name="pages">88</field>
+<field name="keywords">Mathematics</field>
+<field name="publisher">Longview (Washington?) Public Schools</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .L85m </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Alamos (New Mexico) Schools</field>
+<field name="title">Pueblo Junior High School curriculum guide: mathematics and science</field>
+<field name="year">1959</field>
+<field name="date">1959</field>
+<field name="keywords">Mathematics</field>
+<field name="keywords">Science</field>
+<field name="publisher">Los Alamos (New Mexico) Schools</field>
+<field name="pub_place">Los Alamos, NM</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .L86m</field>
+<field name="state_country">New Mexico</field>
+<field name="grade_level_group">Middle school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City Schools</field>
+<field name="title">A9 mathematics (slow learners): an instructional bulletin</field>
+<field name="year">1968</field>
+<field name="date">1968</field>
+<field name="pages">9</field>
+<field name="keywords">Mathematics</field>
+<field name="notes">1 v.; Note(s): Publ. no. SC-640.</field>
+<field name="publisher">Los Angeles (California) City Schools</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .L87a</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">9th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City Schools</field>
+<field name="title">Activities with pattern blocks</field>
+<field name="year">1974</field>
+<field name="date">1974</field>
+<field name="pages">27</field>
+<field name="keywords">Mathematics</field>
+<field name="notes">1 v.; Note(s): Publ. no. EC-390.</field>
+<field name="publisher">Los Angeles (California) City Schools</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .L87ac</field>
+<field name="state_country">California </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City School District</field>
+<field name="title">Instructional guide for junior high school mathematics</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="pages">115</field>
+<field name="keywords">Mathematics</field>
+<field name="notes">v; ill. ; 28 cm.</field>
+<field name="series_title">Los Angeles (California) City School District. Tentative
+publication</field>
+<field name="series_vol">SC-537</field>
+<field name="publisher">Los Angeles City School Districts, Division of Instructional
+Services</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .L87i v. 1</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Middle school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City School District</field>
+<field name="title">Instructional guide for high school mathematics 1</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="pages">71</field>
+<field name="keywords">Mathematics</field>
+<field name="notes">v; ill. ; 28 cm.</field>
+<field name="series_title">Los Angeles (California) City School District. Tentative
+publication</field>
+<field name="series_vol">SC-548</field>
+<field name="publisher">Los Angeles City School Districts, Division of Instructional
+Services</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .L87i v. 2</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City School District</field>
+<field name="title">Instructional guide for high school mathematics 2</field>
+<field name="year">1957</field>
+<field name="date">1957</field>
+<field name="pages">135</field>
+<field name="keywords">Mathematics</field>
+<field name="notes">v; ill. ; 28 cm.</field>
+<field name="series_title">Los Angeles (California) City School District. Tentative
+publication</field>
+<field name="series_vol">SC-556</field>
+<field name="publisher">Los Angeles City School Districts, Division of Instructional
+Services</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .L87i v. 3</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City School District</field>
+<field name="title">Instructional guide for basic mathematics 1: grades 10 to 12</field>
+<field name="year">1966</field>
+<field name="date">1966</field>
+<field name="pages">32</field>
+<field name="keywords">Mathematics</field>
+<field name="notes">v; ill. ; 28 cm.</field>
+<field name="series_title">Los Angeles (California) City School District. Curriculum Branch.
+Publication</field>
+<field name="series_vol">X-58</field>
+<field name="publisher">Los Angeles City School Districts, Division of Instructional
+Services</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .L87ig</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City School District</field>
+<field name="title">Planning and evaluating learning experiences in elementary school mathematics:
+kindergarten, grades one and two, an instructional bulletin</field>
+<field name="year">1968</field>
+<field name="date">1968</field>
+<field name="pages">57</field>
+<field name="keywords">Mathematics</field>
+<field name="notes">1 v.; Note(s): Publ. no. EC-271.</field>
+<field name="publisher">Los Angeles (California) City School District</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .L87p</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">Kindergarten</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Manhasset (New York) Public Schools</field>
+<field name="title">Modern mathematics in our elementary schools</field>
+<field name="year">1962</field>
+<field name="date">09/1962</field>
+<field name="pages">40</field>
+<field name="keywords">Mathematics</field>
+<field name="publisher">Manhasset (New York) Public Schools</field>
+<field name="pub_place">Manhasset, NY</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .M27m</field>
+<field name="state_country">New York</field>
+<field name="grade_level_group">Elementary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Maryland State Department of Education</field>
+<field name="title">Handbook for general mathematics</field>
+<field name="year">1967</field>
+<field name="date">1967?</field>
+<field name="pages">140</field>
+<field name="keywords">Mathematics</field>
+<field name="notes">iii; illus. 28 cm.; Note(s): Bibliography: p. 137-140.</field>
+<field name="publisher">Maryland State Department of Education</field>
+<field name="pub_place">Baltimore, MD</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .M39h</field>
+<field name="state_country">Maryland </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of Maryland</field>
+<field name="title">The University of Maryland Mathematics Project: Junior High School</field>
+<field name="year">1958</field>
+<field name="date">1958-1959</field>
+<field name="keywords">Mathematics</field>
+<field name="publisher">University of Maryland</field>
+<field name="pub_place">College Park, MD</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .M391u</field>
+<field name="state_country">Maryland</field>
+<field name="grade_level_group">Middle school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Zartman, Muriel Jane</field><field name="author_nat">Muriel Jane Zartman</field>
+<field name="corp_author">Los Angeles (California) City School District. Division of Instructional
+Services</field>
+<field name="title">Instructional guide for industrial mathematics 1</field>
+<field name="year">1959</field>
+<field name="date">1959</field>
+<field name="pages">83</field>
+<field name="keywords">Industrial arts</field>
+<field name="keywords">Mathematics</field>
+<field name="notes">83 p.; Note(s): Contains columns of page references to General mathematics at
+work by C.H. Ewing./ Includes bibliographical references.; Other Titles: Industrial mathematics;
+Responsibility: senior high school [by Muriel Jane Zartman.</field>
+<field name="series_title">Los Angeles (California) City Schools. Division of Instructional
+Services. Publication</field>
+<field name="series_vol">SC-573</field>
+<field name="publisher">Los Angeles (California) City School District</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .L87im</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Midland (Texas) Independent School District</field>
+<field name="title">Mathematics grades 1 - 12</field>
+<field name="year">1962</field>
+<field name="date">1962</field>
+<field name="pages">63</field>
+<field name="keywords">Mathematics</field>
+<field name="publisher">Midland (Texas) Independent School District</field>
+<field name="pub_place">Midland, TX</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .M63m</field>
+<field name="state_country">Texas </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Mathematical Association</field>
+<field name="title">Mathematics in secondary modern schools</field>
+<field name="year">1959</field>
+<field name="date">1959</field>
+<field name="pages">221</field>
+<field name="keywords">Mathematics</field>
+<field name="notes">vi; diagrs. ; 24 cm.; Responsibility: a report prepared for the Mathematical
+Association for consideration by all concerned in the teaching of mathematics in secondary
+schools.</field>
+<field name="publisher">G. Bell &amp;Sons</field>
+<field name="pub_place">London, UK</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .M42m</field>
+<field name="state_country">United Kingdom</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Michigan State Department of Public Instruction</field>
+<field name="title">Frontiers in mathematics education</field>
+<field name="year">1961</field>
+<field name="date">1961</field>
+<field name="pages">22</field>
+<field name="keywords">Mathematics</field>
+<field name="notes">volumes 22 pages ; 23 cm.; Note(s): " ... prepared by a sub-group of the
+Committee on Science Mathematics ..."/ Includes bibliographical references (pages 18-22).</field>
+<field name="series_title">Michigan State Department of Public Instruction. Bulletin</field>
+<field name="series_vol">NDEA-310</field>
+<field name="publisher">Michigan State Department of Public Instruction</field>
+<field name="pub_place">Lansing, MI</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .M62f</field>
+<field name="state_country">Michigan </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Minnesota State Department of Education</field>
+<field name="title">Curriculum guide for instruction in mathematics (K-12)</field>
+<field name="year">1970</field>
+<field name="date">1970</field>
+<field name="pages">106</field>
+<field name="keywords">Mathematics</field>
+<field name="notes">v; ges 28 cm.; Note(s): Includes bibliographical references.</field>
+<field name="series_title">Minnesota State Department of Education. Curriculum bulletin</field>
+<field name="series_vol">30</field>
+<field name="publisher">Minnesota State Department of Education</field>
+<field name="pub_place">St. Paul, MN</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .M66c</field>
+<field name="state_country">Minnesota </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Minnesota State Department of Education</field>
+<field name="title">Applied mathematics : secondary schools, grades 10-12</field>
+<field name="year">1964</field>
+<field name="date">1964</field>
+<field name="pages">107</field>
+<field name="keywords">Mathematics</field>
+<field name="notes">107 pages ; 22 x 29 cm; Note(s): Curriculum bulletin no. 20A (rev. 1964)./
+Includes bibliographical references (pages 105-107).; Entry: 19781221; Update: 20130614</field>
+<field name="series_title">Minnesota State Department of Education. Curriculum bulletin.</field>
+<field name="series_vol">20A</field>
+<field name="edition">Rev</field>
+<field name="publisher">Minnesota State Department of Education</field>
+<field name="pub_place">St. Paul, MN</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .M66a</field>
+<field name="state_country">Minnesota</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Mathematical Association of America. Committee on the Undergraduate
+Program in Mathematics</field>
+<field name="title">Basic library list</field>
+<field name="year">1963</field>
+<field name="date">02/1963</field>
+<field name="pages">26</field>
+<field name="keywords">Mathematics</field>
+<field name="keywords">Bibliography</field>
+<field name="edition">First</field>
+<field name="publisher">Mathematical Association of America</field>
+<field name="pub_place">Berkeley, CA</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .M426b</field>
+<field name="grade_level_group">Postsecondary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Missouri State Department of Education</field>
+<field name="title">Mathematics curriculum guide : grades ten, eleven and twelve. 1958 tentative
+report</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="pages">256</field>
+<field name="keywords">Mathematics</field>
+<field name="keywords">Curricula</field>
+<field name="notes">vii; ges ; 29 cm.; Note(s): Includes bibliographical references.</field>
+<field name="series_title">Missouri State Department of Education. Publication</field>
+<field name="series_vol">111-G</field>
+<field name="publisher">Universal Printing</field>
+<field name="pub_place">St. Louis, MO</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .M67g v. 2</field>
+<field name="state_country">Missouri</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Missouri State Department of Education</field>
+<field name="title">Mathematics curriculum guide : grades seven, eight and nine. 1957 tentative
+report</field>
+<field name="year">1957</field>
+<field name="date">1957</field>
+<field name="pages">111</field>
+<field name="keywords">Mathematics</field>
+<field name="keywords">Curricula</field>
+<field name="notes">111 pages : illustrations ; 29 cm.</field>
+<field name="series_title">Missouri State Department of Education. Publication</field>
+<field name="series_vol">104-G</field>
+<field name="publisher">Von Hoffmann Press</field>
+<field name="pub_place">Jefferson City, MO</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .M67g v. 1</field>
+<field name="state_country">Missouri</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Montgomery County (Maryland) Board of Education</field>
+<field name="title">Report on curriculum in mathematics [in the] Montgomery County Public
+Schools</field>
+<field name="year">1962</field>
+<field name="date">11/1962</field>
+<field name="pages">65</field>
+<field name="keywords">Mathematics</field>
+<field name="notes">65 p. tables. 28 cm.</field>
+<field name="publisher">Montgomery County (Maryland) Board of Education</field>
+<field name="pub_place">Rockville, MD</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .M78r</field>
+<field name="state_country">Maryland </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Association of Mathematics Teachers of New York State</field>
+<field name="title">New York State Mathematics Teachers Journal</field>
+<field name="year">1959</field>
+<field name="date">04/1959</field>
+<field name="pages">27</field>
+<field name="keywords">Mathematics</field>
+<field name="series_vol">9</field>
+<field name="issue">2</field>
+<field name="publisher">Association of Mathematics Teachers of New York State</field>
+<field name="pub_place">Brooklyn, NY</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .A86n</field>
+<field name="state_country">New York </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Portland (Oregon) Public Schools</field>
+<field name="title">English and literature classes for exceptionally endowed students in the high
+schools of Portland, Oregon</field>
+<field name="year">1957</field>
+<field name="date">02/1957</field>
+<field name="pages">38</field>
+<field name="keywords">English language</field>
+<field name="keywords">Literature</field>
+<field name="publisher">Portland (Oregon) Public Schools</field>
+<field name="pub_place">Portland, OR</field>
+<field name="call_number">428.2 .P85e</field>
+<field name="state_country">Oregon</field>
+<field name="grade_level_group">High school </field>
+</doc>
+</add>

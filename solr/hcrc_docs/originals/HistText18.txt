@@ -1,0 +1,2488 @@
+
+
+
+
+TY  - BOOK
+A2  - Foreign Language Study Group
+T1  - Foreign language teaching in Illinois; report
+Y1  - 1957
+D1  - 1957
+SP  - 76
+KW  - Modern languages
+T2  - Allerton House Conference on Education (Study Group on Foreign Language)
+PB  - Southern Illinois University
+CY  - Carbondale, IL
+LA  - English
+CN  - 400 .A43f
+SC  - Illinois
+ER  - 
+
+TY  - BOOK
+A2  - Ampex Corporation
+T1  - Survey of language teaching with recommendations on standards
+SP  - 39
+KW  - Languages
+PB  - Ampex Corporation
+CY  - Sunnyvale, CA
+LA  - English
+CN  - 400 .A52s
+ER  - 
+
+TY  - BOOK
+A2  - Bloomfield (New Jersey) Senior High School
+T1  - Language arts department: foreign languages: course of instruction guides and related materials, grades 10-11-12
+Y1  - 1955
+D1  - 1955
+SP  - 97
+KW  - Modern languages
+KW  - Latin language
+ED  - Rev.
+PB  - Bloomfield (New Jersey) Senior High School
+CY  - Bloomfield, NJ
+LA  - English
+CN  - 400 .B65f
+SC  - New Jersey
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Bloomfield (New Jersey) Public Schools
+T1  - Sequential foreign language guide, grades 7 - 12
+Y1  - 1963
+D1  - 09/1963
+SP  - 40
+KW  - Modern languages
+PB  - Bloomfield (New Jersey) Public Schools
+CY  - Bloomfield, NJ
+LA  - English
+CN  - 400 .B65s
+SC  - New Jersey
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Broward County (Florida) Secondary Schools
+T1  - Tentative guide for the teaching of foreign languages
+Y1  - 1958
+D1  - 1958
+KW  - Modern languages
+KW  - Latin language
+PB  - Broward County (Florida) Secondary Schools
+LA  - English
+CN  - 400 .B87t
+SC  - Florida
+ER  - 
+
+TY  - BOOK
+A2  - California Bureau of Audio-Visual and School Library Education
+T1  - A guide for the development of language laboratory facilities
+Y1  - 1960
+D1  - 10/1960
+SP  - 37
+KW  - Modern languages
+KW  - Audio-visual materials
+N1  - vii; ges illustrations 23 cm.; Note(s): "Useful references for developing language laboratory facilities": pages 36-37.; Responsibility: Prepared in co-operation with the Bureau of National Defense Education Act Administration.
+T2  - Bulletin of the California State Department of Education
+V1  - 29
+IS  - 10
+PB  - California Bureau of Audio-Visual and School Library Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 400 .C15g
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Languages in the high school curriculum
+Y1  - 1960
+D1  - 06/1960
+SP  - 53
+KW  - Modern languages
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 400 .C15L
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Mathieu, Gustave
+A1  - Holton, James S.
+A1  - O'Rourke, Everett V.
+T1  - Suggestions for teaching foreign languages by the audio-lingual method, a manual for teachers
+Y1  - 1960
+D1  - 07/1960
+SP  - 26
+KW  - Modern languages
+KW  - Audio-visual materials
+N1  - 26 pages 23 cm.; Note(s): With : Career guidance for girls / Laurence L. Belanger. Sacramento : California State Department of Education, 1960. Bound together subsequent to publication.; Responsibility: prepared by Gustave Mathieu and James S. Holton under the direction of Everett V. O'Rourke.
+T2  - Bulletin of the California State Dept. of Education
+V1  - 29
+IS  - 7
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 400 .C15s
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Brochure of special information: foreign language workshop, University of California, Santa Barbara Goleta June 29-July 2, 1959
+Y1  - 1959
+D1  - 1959
+SP  - 19
+KW  - Modern languages
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 400 .C15w v. 1
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Program for planning and effecting modern methods and techniques in foreign language instruction
+Y1  - 1959
+D1  - 1959
+SP  - 10
+KW  - Modern languages
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 400 .C15w v. 1
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Proceedings of workshop for planning and effecting modern methods and techniques in foreign language instruction : for administrative and supervisory personnel ... University of California, Santa Barbara ... June 29-July 2, 1959
+Y1  - 1959
+D1  - 1959
+SP  - 38
+KW  - Modern languages
+N1  - 38 p.; Responsibility: Bureaus of Secondary Education and National Defense Education Act Administration.
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 400 .C15w v. 2
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Clairton (Pennsylvania) Public Schools
+T1  - Languages : course of study for secondary education
+Y1  - 1962
+D1  - 1962-1963
+KW  - Modern languages
+KW  - Latin language
+N1  - 1 v. ; cm
+PB  - Clairton (Pennsylvania) Public Schools
+CY  - Clairton, PA
+LA  - English
+CN  - 400 .C58L
+SC  - Pennsylvania
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Connecticut State Department of Education
+T1  - Foreign languages, grades 7-12
+Y1  - 1958
+D1  - 09/1958
+SP  - 61
+KW  - Modern languages
+KW  - Latin language
+N1  - 61 pages 22 cm.; Note(s): Includes bibliographical references.
+T2  - Connecticut.; State Department of Education.; Curriculum bulletin series
+V1  - 5
+ED  - Tentative
+PB  - Connecticut State Department of Education
+CY  - Hartford, CT
+LA  - English
+CN  - 400 .C75f v. 1
+SC  - Connecticut
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Connecticut State Department of Education
+T1  - The status of foreign language study in Connecticut public secondary schools as of January 15, 1954
+Y1  - 1954
+D1  - 11/1954
+SP  - 7
+KW  - Modern languages
+PB  - Connecticut State Department of Education
+CY  - Hartford, CT
+LA  - English
+CN  - 400 .C75f v. 2
+SC  - Connecticut
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Dallas (Texas) Independent School District
+T1  - Foreign languages for secondary schools : curriculum guide
+Y1  - 1954
+KW  - Latin language
+KW  - Modern languages
+KW  - Curricula
+SP  - 95
+N1  - 95 p. ; 26 cm.; Note(s): Includes bibliographical references.
+PB  - Dallas (Texas) Independent School District
+CY  - Dallas, TX
+LA  - English
+CN  - 400 .D14f
+SC  - Texas
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Dallas (Texas) Independent School District
+T1  - Foreign language program: content, scope, and sequence
+Y1  - 1959
+D1  - 09/1959
+SP  - 12
+KW  - Latin language
+KW  - Modern languages
+PB  - Dallas (Texas) Independent School District
+CY  - Dallas, TX
+LA  - English
+CN  - 400 .D14fc
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A1  - Galas, Evangeline
+A1  - Peloro, Filomena
+A1  - Eddy, Frederick D.
+T1  - HRS manual for teachers and parents
+Y1  - 1960
+D1  - 1960
+SP  - 61
+KW  - Modern languages
+PB  - Ottenheimer Publishers
+CY  - Baltimore, MD
+LA  - English
+CN  - 400 .E21h
+ER  - 
+
+TY  - BOOK
+A2  - University of Illinois
+T1  - Language arts and foreign languages
+Y1  - 1959
+D1  - 1959
+SP  - 39
+KW  - Audio-visual materials
+PB  - University of Illinois
+CY  - Champaign, IL
+LA  - English
+CN  - 400 .I29L
+SC  - Illinois
+ER  - 
+
+TY  - BOOK
+A2  - Iowa Department of Public Instruction
+T1  - Modern foreign languages for Iowa schools
+Y1  - 1963
+D1  - 1963
+SP  - 59
+KW  - Modern languages
+N1  - x; ges : illustrations ; 28 cm; Note(s): Includes bibliographical references.; Responsibility: Iowa Cooperative Curriculum Development Program.
+PB  - Iowa Department of Public Instruction
+CY  - Des Moines, IA
+LA  - English
+CN  - 400 .I64m
+SC  - Iowa
+ER  - 
+
+TY  - BOOK
+A2  - Iowa Department of Public Instruction
+T1  - Foreign languages: secondary schools
+Y1  - 1950
+D1  - 1950
+SP  - 319
+KW  - Modern languages
+KW  - Latin language
+N1  - 319 pages ; 22 cm.; Responsibility: issued by the Department of Public Instruction.
+T2  - Iowa secondary school cooperative curriculum program
+V1  - 20
+PB  - Iowa Department of Public Instruction
+CY  - Des Moines, IA
+LA  - English
+CN  - 400 .I64f
+SC  - Iowa
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Kansas City (Missouri) Public Schools
+T1  - Curriculum guide in French: eighth grade, Spanish: eighth grade
+Y1  - 1959
+D1  - 07/1959
+SP  - 30
+KW  - Modern languages
+PB  - Kansas City (Missouri) Public Schools
+CY  - Kansas City, MO
+LA  - English
+CN  - 400 .K15c
+SC  - Kansas
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Michigan State Department of Education
+T1  - Recommended standards of foreign language instruction
+Y1  - 1968
+D1  - 1968?
+SP  - 11
+KW  - Modern languages
+N1  - 11 p. ; 21 cm.; Note(s): Cover title./ Caption title: Recommended standards of foreign language instruction : kindergarten through higher education by representatives of the foreign language profession in the State of Michigan.
+PB  - Michigan State Department of Education
+CY  - Lansing, MI
+LA  - English
+CN  - 400 .M62r
+SC  - Michigan
+ER  - 
+
+TY  - BOOK
+A1  - King, P. E.
+T1  - The high school language laboratory
+Y1  - 1958
+D1  - 1958
+SP  - 8
+KW  - Modern languages
+KW  - Audio-visual materials
+N1  - 8 p. ill. 22 cm.; Note(s): Cover title.
+PB  - Magnetic Recording Industries
+CY  - New York, NY
+LA  - English
+CN  - 400 .M19L
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City Schools
+T1  - Teacher's handbook for French, German, and Spanish
+Y1  - 1967
+D1  - 1967
+SP  - 49
+KW  - French language
+KW  - German language
+KW  - Spanish language
+N1  - ill. ; 28 cm.; Note(s): Cover title.
+T2  - Instructional bulletin
+V1  - SC-52
+PB  - Los Angeles (California) City Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 400 .L87t
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - McGraw, Myrtle B.
+T1  - The human factor in the language laboratory
+Y1  - 1959
+D1  - 1969
+SP  - 7
+KW  - Modern languages
+KW  - Audio-visual materials
+N1  - 7 p. ill. 22 cm.; Note(s): Cover title.
+PB  - Magnetic Recording Industries
+CY  - New York, NY
+LA  - English
+CN  - 400 .M19L
+ER  - 
+
+TY  - BOOK
+A1  - Kay, J. A.
+A1  - King, P. E.
+T1  - Language laboratory planning: what kind? and how much?
+Y1  - 1958
+D1  - 1968
+SP  - 11
+KW  - Modern languages
+KW  - Audio-visual materials
+PB  - Magnetic Recording Industries
+CY  - New York, NY
+LA  - English
+CN  - 400 .M19L
+ER  - 
+
+TY  - BOOK
+A1  - Mallina, R. F.
+T1  - Costs and efficiency of the language laboratory
+Y1  - 1959
+D1  - 1969
+SP  - 9
+KW  - Modern languages
+KW  - Audio-visual materials
+PB  - Magnetic Recording Industries
+CY  - New York, NY
+LA  - English
+CN  - 400 .M19L
+ER  - 
+
+TY  - BOOK
+A1  - King, P. E.
+T1  - Excerpts from programming guide for the electronic classroom: part 1: modern foreign languages
+SP  - 10
+KW  - Modern languages
+KW  - Audio-visual materials
+PB  - Magnetic Recording Industries
+CY  - New York, NY
+LA  - English
+CN  - 400 .M19m
+ER  - 
+
+TY  - BOOK
+A2  - Mendocino County (California) Schools
+T1  - Foreign languages in the elementary schools
+Y1  - 1960
+D1  - 1960
+SP  - 51
+KW  - Modern languages
+PB  - Mendocino County (California) Schools
+CY  - Ukiah, CA
+LA  - English
+CN  - 400 .M532f
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Scafe, John C.
+T1  - Foreign language teaching in Kansas high schools, 1953-1954
+Y1  - 1955
+D1  - 03/1955
+SP  - 32
+KW  - Modern languages
+KW  - Latin language
+N1  - 32 p. 23 cm.; Note(s): "This study originated as a master's thesis at Kansas State Teachers College, Emporia, in 1953."
+T2  - The Emporia State research studies
+V1  - 3
+IS  - 3
+PB  - Graduate Division of the Kansas State Teachers College
+CY  - Emporia, KS
+LA  - English
+CN  - 400 .K16f
+SC  - Kansas
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Language Training Aids. Language aids
+T1  - The language training aids catalog of realia
+KW  - Modern languages
+PB  - Language Training Aids. Language aids
+CY  - Boyds, MD
+LA  - English
+CN  - 400 .L28L
+ER  - 
+
+TY  - BOOK
+A1  - Alden, Douglas William
+A2  - Modern Language Association of America
+T1  - Materials list for use by teachers of modern foreign languages
+Y1  - 1960
+D1  - 1960
+SP  - 85
+KW  - Modern languages
+KW  - Bibliography
+N1  - v; form 27 cm; Note(s): "Prepared ... pursuant to a contract with the U.S. Office of Education."/ "Sources" p. 83-85/ Cover title; Responsibility: Edited by Douglas W. Alden
+PB  - Modern Language Association of America
+CY  - New York, NY
+LA  - English
+CN  - 400 .M68m
+ER  - 
+
+TY  - BOOK
+A2  - Montgomery County (Maryland) Public Schools
+T1  - Preliminary report on curriculum in foreign language
+Y1  - 1962
+D1  - 04/1962
+KW  - Modern languages
+KW  - Latin language
+PB  - Montgomery County (Maryland) Public Schools
+CY  - Rockville, MD
+LA  - English
+CN  - 400 .M78p
+ER  - 
+
+TY  - BOOK
+A2  - New York State Education Department
+T1  - Foreign language survey
+Y1  - 1957
+D1  - 1957
+SP  - 8
+KW  - Modern languages
+PB  - New York State Education Department
+CY  - Albany, NY
+LA  - English
+CN  - 400 .N53f
+ER  - 
+
+TY  - BOOK
+A2  - Michigan State Department of Public Instruction
+T1  - Suggested outlines for teaching modern foreign languages in Michigan schools
+Y1  - 1962
+D1  - 05/1962
+SP  - 19
+KW  - Modern languages
+T2  - Michigan.; Department of Public Instruction.; Bulletin
+V1  - NDEA 311
+PB  - Michigan State Department of Public Instruction
+CY  - Lansing, MI
+LA  - English
+CN  - 400 .M62s
+SC  - Michigan
+ER  - 
+
+TY  - BOOK
+A2  - Midland (Texas) Independent School District
+T1  - Foreign languages, grades 7-12
+Y1  - 1964
+D1  - 1964
+SP  - 108
+KW  - Modern languages
+PB  - Midland (Texas) Independent School District
+CY  - Midland, TX
+LA  - English
+CN  - 400 .M63f
+SC  - Texas
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York
+T1  - Syllabus in modern foreign languages, 1937 reprint with minor revisions
+Y1  - 1956
+D1  - 1956
+SP  - 132
+KW  - Modern languages
+KW  - Curricula
+N1  - 132 p. 23 cm.; Note(s): Cover title./ Bibliography: p. 131-132.
+PB  - University of the state of New York Press
+CY  - Albany, NY
+LA  - English
+CN  - 400 .N53s
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A1  - Boyd-Bowman, Peter
+T1  - Self-instructional language programs : a handbook for faculty and students
+Y1  - 1973
+D1  - 07/1973
+SP  - 51
+KW  - Modern languages
+KW  - Self-instruction
+N1  - vii; ; 28 cm.; Responsibility: by Peter Boyd-Bowman.
+T2  - Foreign Area Materials Center occasional publication
+V1  - 20
+PB  - University of the State of New York, State Education Dept., Foreign Area Materials Center and Council for Intercultural Studies and Programs in cooperation with National Association of Self-Instructional Language Programs
+CY  - Buffalo, NY
+LA  - English
+CN  - 400 .N53s 1972
+ER  - 
+
+TY  - BOOK
+A2  - New York (New York) Board of Education
+T1  - Modern languages and Latin: grades 8-12. French, German, Hebrew, Italian, Spanish, Latin
+Y1  - 1959
+D1  - 1959
+SP  - 268
+KW  - Modern languages
+KW  - Latin language
+T2  - Curriculum Bulletin. 1957-58 series
+V1  - 9
+PB  - New York (New York) Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 400 .N532m 1957/58
+SC  - New York
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - New York (New York) Board of Education
+T1  - Modern languages and Latin, grades 8-12 : regents course of study: French, German, Hebrew, Italian, Spanish, Latin
+Y1  - 1956
+D1  - 1955-1956
+SP  - 56
+KW  - Modern languages
+KW  - Latin language
+N1  - vii; ; 23 cm.
+T2  - Curriculum Bulletin. 1955-56 series
+V1  - 7
+PB  - New York (New York) Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 400 .N532m 1955/56
+SC  - New York
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - New York (New York) Bureau of Curriculum Research
+T1  - Using laboratory techniques in teaching foreign languages in New York City schools
+Y1  - 1961
+D1  - 1961
+SP  - 60
+KW  - Modern languages
+KW  - Audio-visual materials
+N1  - 60 p. illus. 23 cm.; Note(s): Includes bibliography.
+T2  - Curriculum research report
+PB  - New York (New York) Bureau of Curriculum Research
+CY  - New York, NY
+LA  - English
+CN  - 400 .N532u
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - Foreign Language Association of Santa Clara County
+A2  - Santa Clara County (California) Office of Education
+T1  - Guidelines for foreign language programs in Santa Clara County
+Y1  - 1964
+D1  - 1963-1964
+SP  - 54
+KW  - Modern languages
+PB  - Santa Clara County (California) Office of Education
+CY  - San Jose, CA
+LA  - English
+CN  - 500 .S23g
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Tyler (Texas) Independent School District
+T1  - Curriculum guide for foreign language, rades 7-12
+Y1  - 1964
+D1  - 08/1964
+SP  - 51
+KW  - Modern languages
+PB  - Tyler (Texas) Independent School District
+CY  - Tyler, TX
+LA  - English
+CN  - 400 .T98c
+SC  - Texas
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A1  - Parker, William Riley
+A2  - U.S. National Commission for UNESCO
+T1  - The national interest and foreign languages; a discussion guide and work paper for citizen consultations
+Y1  - 1954
+D1  - 04/1954
+SP  - 131
+KW  - Modern languages
+N1  - xvi; 20 cm.; Note(s): Includes bibliographies./ Also issued online.; Responsibility: initiated by the U.S. National Commission for UNESCO, Department of State ; prepared by William R. Parker.
+ED  - Prelim.
+PB  - U.S. Government Printing Office
+CY  - Washington, DC
+LA  - English
+CN  - 400 .U57n
+ER  - 
+
+TY  - BOOK
+A1  - Blackstead, J. H.
+T1  - Installing a modern language laboratory improving the foreign language program at Johnson High School
+V1  - 1962
+D1  - 09/1962
+SP  - 13
+KW  - Modern languages
+T2  - University of Oregon. School of Education. Curriculum bulletin
+V1  - 18
+IS  - 226
+PB  - University of Oregon. School of Education
+CY  - Eugene, OR
+LA  - English
+CN  - 400 .O66i
+ER  - 
+
+TY  - BOOK
+A2  - Pasadena (California) City Schools. Audio-visual Service
+T1  - Foreign language
+Y1  - 1953
+D1  - 09/1953
+SP  - 4
+KW  - Modern languages
+KW  - Audio-visual materials
+PB  - Pasadena (California) City Schools. Audio-visual Service
+CY  - Pasadena, CA
+LA  - English
+CN  - 400 .P27f
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools
+T1  - The language laboratory
+Y1  - 1963
+D1  - 1963
+SP  - 29
+KW  - Modern languages
+KW  - Audio-visual materials
+PB  - Philadelphia (Pennsylvania) Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 400 .P54L
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Ravenswood (California) City School District
+T1  - Foreign language program
+KW  - Modern languages
+PB  - Ravenswood (California) City School District
+CY  - Palo Alto, CA
+LA  - English
+CN  - 400 .R25f
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - de Sauze, Emile B
+T1  - How the administrative problems connected with modern language instruction in elementary schools were solved in Cleveland
+SP  - 27
+KW  - Modern languages
+PB  - U.S. Department of Health, Education, and Welfare
+CY  - Washington, DC
+LA  - English
+CN  - 400 .U58f
+G1  - Elementary
+ER
+
+TY  - BOOK
+A1  - Dreier, Grace M.
+T1  - Developing and introducing a program of conversational Spanish in the elementary schools of Los Angeles, CA
+SP  - 11
+KW  - Spanish language
+PB  - U.S. Department of Health, Education, and Welfare
+CY  - Washington, DC
+LA  - English
+CN  - 400 .U58f
+G1  - Elementary
+ER
+
+TY  - BOOK
+A1  - McCormack, Margaret C.
+T1  - The administration of the foreign language program in the elementary schools of Somerville, New Jersey
+SP  - 5
+KW  - Modern languages
+PB  - U.S. Department of Health, Education, and Welfare
+CY  - Washington, DC
+LA  - English
+CN  - 400 .U58f
+G1  - Elementary
+ER
+
+TY  - BOOK
+A2  - U.S. Department of Health, Education, and Welfare
+T1  - Tentative list of teaching and background materials for foreign languages in elementary schools
+Y1  - 1953
+D1  - 01/1953
+SP  - 9
+KW  - Modern languages
+PB  - U.S. Department of Health, Education, and Welfare
+CY  - Washington, DC
+LA  - English
+CN  - 400 .U58f
+G1  - Elementary
+ER
+
+TY  - BOOK
+A1  - Johnston, Marjorie C.
+A1  - Ferreira, Stella Louise
+T1  - Useful references for teachers of Spanish, French, and German
+Y1  - 1955
+D1  - 03/1955
+SP  - 10
+KW  - Modern languages
+PB  - U.S. Department of Health, Education, and Welfare
+CY  - Washington, DC
+LA  - English
+CN  - 400 .U58f
+ER
+
+TY  - BOOK
+A1  - McQuown, Norman A,
+T1  - Report of the United States delegation to the United Nations Educational, Scientific and Cultural Organization International Seminar on the teaching of modern languages, Nuwara Eliya, Ceylon, August 3 to 28, 1953
+Y1  - 1953
+D1  - 08/1953
+SP  - 33
+KW  - Modern languages
+PB  - U.S. Department of Health, Education, and Welfare
+CY  - Washington, DC
+LA  - English
+CN  - 400 .U58f
+ER
+
+TY  - BOOK
+A1  - McGrath, Earl J.
+T1  - Language study and world affairs
+Y1  - 1952
+D1  - 06/1952
+N1  - Reprinted from School Life, June, 1952
+PB  - U. S. Federal Security Agency, Office of Education
+CY  - Washington, DC
+LA  - English
+CN  - 400 .U58f
+ER  - 
+
+TY  - BOOK
+A1  - Mildenberger, Kenneth W.
+T1  - Status of foreign language study in American elementary schools
+Y1  - 1955
+D1  - 1955
+SP  - 34
+KW  - Modern languages
+PB  - U.S. Department of Health, Education, and Welfare
+CY  - Washington, DC
+LA  - English
+CN  - 400 .U58s
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Schenck, Ethel A.
+T1  - Studies of testing and teaching in modern foreign languages, based on materials gathered [at the Univ. of Wisconsin] by [the late Professor] D. Cheydleur
+Y1  - 1952
+D1  - 1952
+KW  - Modern languages
+SP  - 72
+N1  - 72 p. illus.; Note(s): [Cover title: The Cheydleur studies ...] 
+PB  - University of Wisconsin. Graduate Research Committee
+CY  - Madison, WI
+LA  - English
+CN  - 400.W811s
+ER  - 
+
+TY  - BOOK
+A2  - University of Wisconsin
+T1  - The study of foreign languages today; information for counselors and advisors in high school or college
+Y1  - 1951
+D1  - 08/1951
+SP  - 28
+KW  - Modern languages
+KW  - Educational counseling
+N1  - 28 p. 23 cm.
+T2  - University of Wisconsin.; Bulletin, serial no. 3214. general series ;; no. 2988.
+PB  - University of Wisconsin. Offices of Student Personnel Services
+CY  - Madison, WI
+LA  - English
+CN  - 400 .W85s
+SC  - Wisconsin
+G1  - High school
+G1  - Postsecondary
+ER  - 
+
+TY  - BOOK
+A2  - Brookline (Massachusetts) Public Schools
+T1  - Course of study in manuscript writing: grades 1-3
+Y1  - 1956
+D1  - 06/1956
+SP  - 30
+KW  - Penmanship
+PB  - Brookline (Massachusetts) Public Schools
+CY  - Brookline, MA
+LA  - English
+CN  - 421 .B87c v. 1
+SC  - Massachusetts
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+ER
+
+TY  - BOOK
+A2  - Brookline (Massachusetts) Public Schools
+T1  - Course of study in manuscript writing: grades 4-6
+Y1  - 1956
+D1  - 06/1956
+SP  - 30
+KW  - Penmanship
+PB  - Brookline (Massachusetts) Public Schools
+CY  - Brookline, MA
+LA  - English
+CN  - 421 .B87c v. 2
+SC  - Massachusetts
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER
+
+TY  - BOOK
+A1  - Carter, Mary
+A1  - Ramsdell, Marian
+T1  - Pupil's practice book for optional course in cursive handwriting
+Y1  - 1956
+D1  - 09/1956
+SP  - 26
+KW  - Penmanship
+PB  - Brookline (Massachusetts) Public Schools
+CY  - Brookline, MA
+LA  - English
+CN  - 421 .B87p
+SC  - Massachusetts
+ER  - 
+
+TY  - BOOK
+A1  - Roberts, Ernest M.
+T1  - Basic handwriting for adults
+Y1  - 1967
+D1  - 10/1967
+SP  - 47
+KW  - Penmanship
+PB  - Adult Basic Education. Broward County (Florida)
+LA  - English
+CN  - 421 .B88b
+SC  - Florida
+ER  - 
+
+TY  - BOOK
+A2  - Clairton (Pennsylvania) Public Schools
+T1  - Course of study elementary education: writing
+Y1  - 1957
+D1  - 1957-1958
+SP  - 73
+KW  - Writing
+KW  - Penmanship
+PB  - Clairton (Pennsylvania) Public Schools
+CY  - Clairton, PA
+LA  - English
+CN  - 421 .C58w
+SC  - Pennsylvania
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Clark County (Nevada) School District. Department of Supervision and Curriculum Development
+T1  - Cursive writing is fun (Transition from manuscript to cursive to be made in the latter part of third grade)
+Y1  - 1959
+D1  - 1959
+SP  - 51
+KW  - Penmanship
+PB  - Clark County (Nevada) School District
+CY  - Las Vegas
+LA  - English
+CN  - 421 .C59c
+SC  - Nevada
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - Grand Rapids (Michigan) Board of Education
+T1  - We write
+Y1  - 1949
+D1  - 1949-1950
+KW  - Writing
+PB  - Grand Rapids (Michigan) Board of Education
+CY  - Grand Rapids, MI
+LA  - English
+CN  - 421.G75w
+SC  - Michigan
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - King County (Washington) Schools
+T1  - A guide to teaching handwriting in the elementary schools
+SP  - 72
+KW  - Penmanship
+PB  - King County (Washington) Schools
+LA  - English
+CN  - 421 .K55g
+SC  - Washington
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - La Crosse (Wisconsin) City District Public Schools
+T1  - Teacher's guide for handwriting
+Y1  - 1959
+D1  - 09/1959
+SP  - 12
+KW  - Penmanship
+PB  - La Crosse (Wisconsin) City District Public Schools
+CY  - La Crosse, WI
+LA  - English
+CN  - 421 .L14t
+SC  - Wisconsin
+G1  - Elementary
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - La Marque (Texas) Independent School District
+T1  - Pointers in penmanship for purveyors of pedagogy
+Y1  - 1956
+D1  - 09/1956
+KW  - Penmanship
+PB  - La Marque (Texas) Independent School District
+CY  - La Marque, TX
+LA  - English
+CN  - 421 .L21p
+SC  - Texas
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Virginia State Foreign Language Service
+T1  - Foreign languages and foreign language learning in Virginia schools
+Y1  - 1969
+D1  - 10/1969
+SP  - 130
+KW  - Modern languages
+KW  - Latin language
+N1  - 130 p.
+PB  - Virginia State Department of Education
+CY  - Richmond, VA
+LA  - English
+CN  - 400 .V81f
+SC  - Virginia
+ER  - 
+
+TY  - BOOK
+A2  - West Virginia State Department of Education
+T1  - Section 14: foreign language
+Y1  - 1970
+D1  - 1970
+SP  - 14
+KW  - Modern languages
+PB  - West Virginia State Department of Education
+LA  - English
+CN  - 400 .W51f
+SC  - West Virginia
+ER  - 
+
+TY  - BOOK
+A1  - Greynolds, Genevieve
+A1  - Shearer, Elga
+A2  - Long Beach (California) City Schools. Department of Curriculum and Educational Research
+T1  - Guide to teaching of cursive writing in the intermediate grades
+Y1  - 1946
+D1  - 05/1946
+SP  - 19
+KW  - Penmanship
+KW  - Curricula
+N1  - 3 preliminary leaves, 19 leaves 28 cm; Note(s): At head of title: Long Beach Public Schools.; Responsibility: revised by Genevieve Greynolds ... assisted by Elga M. Shearer ... Edited and published by Department of Curriculum and Educational Research ...
+PB  - Long Beach (California) City Schools
+CY  - Long Beach, CA
+LA  - English
+CN  - 421 .L84g
+SC  - California
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Madera County (California) Schools
+T1  - Handwriting guide for primary grades
+Y1  - 1961
+D1  - 1961
+SP  - 30
+KW  - Penmanship
+PB  - Madera County (California) Schools
+LA  - English
+CN  - 421 .M17h
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Madison (Wisconsin) Public Schools
+T1  - Guide to teaching handwriting; kindergarten--grade nine
+Y1  - 1964
+D1  - 1964
+SP  - 65
+KW  - Penmanship
+N1  - 65 p. 3 folded charts. 22 x 29 cm.; Note(s): Samples of ruled paper at end./ Bibliography: p. 63-5.; Responsibility: Prepared by the Handwriting Committee of the Madison Public Schools.
+PB  - Madison (Wisconsin) Public Schools
+CY  - Madison, WI
+LA  - English
+CN  - 421 .M18g
+SC  - Wisconsin
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Minneapolis (Minnesota) Public Schools
+T1  - A Guide to teaching handwriting : kindergarten--grade twelve
+Y1  - 1956
+D1  - 1956
+SP  - 146
+KW  - Penmanship
+N1  - vi; ill., photos. ; 28 cm.; Note(s): Cover title./ Includes index.; Responsibility: Minneapolis Public Schools.
+PB  - Minneapolis (Minnesota) Public Schools
+CY  - Minneapolis, MN
+LA  - English
+CN  - 421 .M66g
+SC  - Minnesota
+ER  - 
+
+TY  - BOOK
+A2  - Minneapolis (Minnesota) Public Schools
+T1  - How readable is your writing?  Let's check it!
+T2  - Minneapolis (Minnesota) Public Schools. Handwriting folio
+KW  - Penmanship
+PB  - Minneapolis (Minnesota) Public Schools
+CY  - Minneapolis, MN
+LA  - English
+CN  - 421 .M66h v. 1-3
+SC  - Minnesota
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Minneapolis (Minnesota) Public Schools
+T1  - Your handwriting is it acceptable?  Let's check it!
+T2  - Minneapolis (Minnesota) Public Schools. Handwriting folio
+KW  - Penmanship
+PB  - Minneapolis (Minnesota) Public Schools
+CY  - Minneapolis, MN
+LA  - English
+CN  - 421 .M66h v. 4
+SC  - Minnesota
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A1  - Leavitt, Jerome Edward
+T1  - Handwriting; a summary of recent studies and opinions concerned with the metis and disadvantages of both manuscript and cursive writing
+Y1  - 1966
+D1  - 05/1966
+KW  - Penmanship
+SP  - 11
+N1  - 11 p.; Note(s): Cover title.
+T2  - School of Education, University of Oregon. Curriculum bulletin
+V1  - 22
+IS  - 267
+PB  - School of Education, University of Oregon
+CY  - Eugene, OR
+LA  - English
+CN  - 421 .O66h
+ER  - 
+
+TY  - BOOK
+A2  - New York (New York) Board of Education
+T1  - Teaching handwriting
+Y1  - 1961
+D1  - 1961
+SP  - 42
+KW  - Penmanship
+N1  - ill. ; 28 cm.; Note(s): Includes bibliographical references (p. 36-37).; Responsibility: Board of Education of the City of New York. 
+T2  - New York (New York).; Board of Education.; Curriculum bulletin ;; 1960-61 ser.
+V1  - 3
+PB  - New York (New York) Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 421 .N53t
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. State Education Department
+T1  - Learning to write: manuscript and cursive
+Y1  - 1960
+D1  - 1960
+SP  - 54
+KW  - Penmanship
+PB  - University of the State of New York. State Education Department
+CY  - Albany, NY
+LA  - English
+CN  - 421 .N531L
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - New York (New York) Board of Education. Bureau of Reference, Research and Statistics
+T1  - Practices and problems in handwriting
+Y1  - 1947
+D1  - 09/1947
+SP  - 90
+KW  - Penmanship
+N1  - 90 p.; Responsibility: prepared by Division of curriculum research, Margaret B. Parke, research assistant and William H. Bristow, assistant director; Eugene A. Nifenecker, director of reference, research and statistics.
+T2  - New York (New York).; Board of Education.; Bureau of Reference, Research and Statistics.; Educational research bulletin
+V1  - 9
+PB  - Board of education of the city of New York
+CY  - New York, NY
+LA  - English
+CN  - 421 .N53p
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools. Curriculum Office
+T1  - Handwriting suggestions
+Y1  - 1961
+D1  - 1961
+SP  - 22
+KW  - Penmanship
+N1  - ill. ; 28 cm.; Responsibility: Curriculum Office, Philadelphia Public Schools.
+PB  - Philadelphia (Pennsylvania) Board of Public Education
+CY  - Philadelphia, PA
+LA  - English
+CN  - 421 .P54h v. 1
+SC  - Pennsylvania
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools. Curriculum Office
+T1  - Blackboard writing for teachers
+Y1  - 1956
+D1  - 04/1956
+SP  - 14
+KW  - Penmanship
+KW  - Teachers
+N1  - ill. ; 28 cm.; Responsibility: Curriculum Office, Philadelphia Public Schools.
+PB  - Philadelphia (Pennsylvania) Board of Public Education
+CY  - Philadelphia, PA
+LA  - English
+CN  - 421 .P54h v. 2
+SC  - Pennsylvania
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Kravitz, Ida
+T1  - The transition from manuscript to cursive
+Y1  - 1960
+D1  - 09/1960
+KW  - Penmanship
+N1  - ill. ; 28 cm.; Responsibility: Curriculum Office, Philadelphia Public Schools.
+PB  - Philadelphia (Pennsylvania) Board of Public Education
+CY  - Philadelphia, PA
+LA  - English
+CN  - 421 .P54h v. 3
+SC  - Pennsylvania
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - New York State Department of Education
+T1  - Handwriting: see me write
+Y1  - 1961
+D1  - 1961
+SP  - 59
+KW  - Penmanship
+PB  - New York State Department of Education
+CY  - Albany, NY
+LA  - English
+CN  - 421 .N531s
+SC  - New York
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Roslyn (New York) Public Schools
+T1  - Handwriting in the elementary schools
+Y1  - 1961
+D1  - 11/1961
+SP  - 3
+KW  - Penmanship
+ED  - Rev.
+PB  - Roslyn (New York) Public Schools
+CY  - Roslyn, NY
+LA  - English
+CN  - 421 .R82h
+SC  - New York
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - San Diego County (California) Board of Education
+T1  - Handwriting: grades one through eight: course of study
+Y1  - 1956
+D1  - 09/1956
+SP  - 22
+KW  - Penmanship
+PB  - San Diego County (California) Board of Education
+CY  - San Diego, CA
+LA  - English
+CN  - 421 .S19h
+SC  - California
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A1  - Harris, Theodore Lester
+A1  - Rarick, G. Lawrence
+A1  - Huebner, Dwayne E.
+A1  - MacDonald, James B.
+T1  - Pressure patterns in handwriting
+Y1  - 1955
+D1  - 02/1955
+SP  - 55
+KW  - Penmanship
+N1  - 55 p. illus., diagrs., tables. 23 cm.; Note(s): Includes bibliographies.; Responsibility: by Theodore L. Harris [and] G. Lawrence Rarick, with the assistance of Dwayne E. Huebner [and] James B. Macdonald.
+PB  - Committee for Research in Handwriting, Department of Education, University of Wisconsin
+CY  - Madison, WI
+LA  - English
+CN  - 421 .W81p
+SC  - Wisconsin
+ER  - 
+
+TY  - BOOK
+A1  - Nelson, Frances
+A1  - Moore, Maurine
+T1  - Teaching handwriting in the elementary school : manuscript, cursive
+Y1  - 1949
+D1  - 08/1949
+SP  - 20
+KW  - Penmanship
+PB  - Ventura County (California) Schools
+CY  - Ventura, CA
+LA  - English
+CN  - 421 .V46t
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Seattle (Washington) Public Schools
+T1  - We teach handwriting : a guide for the teaching of handwriting in the elementary, junior high, and senior high school
+Y1  - 1963
+D1  - 1963
+SP  - 122
+N1  - ix; ill. ; 28 cm.; Note(s): Includes bibliographical references (p. 121-122).; Responsibility: Seattle Public Schools.
+PB  - Seattle (Washington) Public Schools
+CY  - Seattle, WA
+LA  - English
+CN  - 421 .S44w
+SC  - Washington
+ER  - 
+
+TY  - BOOK
+A2  - Schenectady (New York) Public Schools
+T1  - Writing through the ages
+KW  - Penmanship
+PB  - Schenectady (New York) Public Schools
+CY  - Schenectady, NY
+LA  - English
+CN  - 421 .S32w
+SC  - New York
+G2  - 1st
+G2  - 3rd
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Spring Branch (Texas) Independent School District
+T1  - Guide to teaching handwriting
+Y1  - 1962
+KW  - Penmanship
+AB  - [1] Grade 3.--[2] Grade 4.--[3] Grade 5.
+N1  - 3 v. 28 cm.; Note(s): Cover title: Adventures in handwriting.; Other Titles: Adventures in handwriting
+T2  - Spring Branch Independent School District.; Curriculum bulletin
+V1  - 62-El-E4
+PB  - Spring Branch (Texas) Independent School District
+CY  - Houston, TX
+LA  - English
+CN  - 421 .S76a v. 1-3
+SC  - Texas
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+ER  - 
+
+TY  - BOOK
+A2  - Warwick (Rhode Island) School Department
+T1  - An emerging program of handwriting for grades i-xii
+Y1  - 1957
+D1  - 09/1957
+SP  - 14
+KW  - Penmanship
+PB  - Warwick (Rhode Island) School Department
+CY  - Warwick, RI
+LA  - English
+CN  - 421 .W29e
+SC  - Rhode Island
+ER  - 
+ER  - 
+
+TY  - BOOK
+A1  - James, Katherine G.
+A2  - New Haven State Teacher College
+T1  - Guide for teaching spelling in the laboratory schools
+Y1  - 1958
+D1  - 1958
+SP  - 27
+KW  - Orthography and spelling
+PB  - New Haven State Teacher College
+CY  - New Haven, CT
+LA  - English
+CN  - 428.1 .C75g
+SC  - Connecticut
+ER  - 
+
+TY  - BOOK
+A2  - Denver (Colorado) Public Schools
+T1  - Moving ahead in spelling
+Y1  - 1960
+D1  - 1960
+SP  - 67
+KW  - English language
+KW  - Orthography and spelling
+KW  - Spellers (Elementary)
+N1  - 67, [21] p. ; 28 cm.; Responsibility: prepared by Robert D. Gray, Mary E. Harris, Rachel V.H. Needham, Denver Public Schools.
+PB  - Denver (Colorado) Public Schools
+CY  - Denver, CO
+LA  - English
+CN  - 428.1 .D41m
+SC  - Colorado
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Denver (Colorado) Public Schools
+T1  - Spelling grades one through six
+Y1  - 1969
+D1  - 1969
+SP  - 19
+KW  - Orthography and spelling
+PB  - Denver (Colorado) Public Schools
+CY  - Denver, CO
+LA  - English
+CN  - 428.1 .D41s
+SC  - Colorado
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Des Moines (Iowa) Public Schools
+T1  - Suggestions for teaching spelling, primary grades
+Y1  - 1955
+D1  - 08/1955
+SP  - 10
+KW  - Orthography and spelling
+PB  - Des Moines (Iowa) Public Schools
+CY  - Des Moines, IA
+LA  - English
+CN  - 428.1 .D44s
+SC  - Iowa
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Gary (Indiana) Public School
+T1  - Spelling skills guide for the elementary schools
+Y1  - 1958
+D1  - 1958
+SP  - 19
+KW  - Orthography and spelling
+PB  - Gary (Indiana) Public School
+CY  - Gary, IN
+LA  - English
+CN  - 428.1 .G24s
+SC  - Indiana
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Grand Island (Nebraska) Office of the Coordinator of Curriculum
+T1  - A word list survey in spelling for teachers in the Grand Island public schools
+Y1  - 1954
+D1  - 11/1954
+SP  - 12
+KW  - Orthography and spelling
+PB  - Grand Island (Nebraska) Office of the Coordinator of Curriculum
+CY  - Grand Island, NE
+LA  - English
+CN  - 428.1 .G75w
+SC  - Nebraska
+ER  - 
+
+TY  - BOOK
+A1  - Hodges, Richard E.
+T1  - The case for teaching sound-to-letter correspondences in spelling
+KW  - Orthography and spelling
+PB  - Houghton Mifflin Company
+CY  - New York, NY
+LA  - English
+CN  - 428.1 .H83c
+ER  - 
+
+TY  - BOOK
+A2  - La Crosse (Wisconsin) City District Public Schools
+T1  - Teacher's guide for spelling
+Y1  - 1962
+D1  - 09/1962
+SP  - 25
+KW  - Orthography and spelling
+PB  - La Crosse (Wisconsin) City District Public Schools
+CY  - La Crosse, WI
+LA  - English
+CN  - 428.1 .L14t
+SC  - Wisconsin
+ER  - 
+
+TY  - BOOK
+A1  - Fitzgerald, James Augustine
+A1  - University of the State of New York. Bureau of Elementary Curriculum Development
+T1  - Learning to spell; a research report
+Y1  - 1960
+D1  - 1960
+SP  - 59
+KW  - English language
+KW  - Orthography and spelling
+N1  - 59 p. 23 cm.; Note(s): "Prepared as a supplement to the State spelling syllabus, Our daily words."/ Bibliographical footnotes.; Responsibility: [by James A. Fitzgerald. 
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 428.1 .N53L 1960
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - Lexington (Kentucky) Public Schools
+T1  - Lexington's bluebacked speller : compiled for use in the high schools of the city of Lexington, Kentucky
+Y1  - 1958
+D1  - 1958
+SP  - 63
+KW  - Spellers
+N1  - 63 p. ; 22 cm.
+PB  - Lexington (Kentucky) Public Schools
+CY  - Lexington, KY
+LA  - English
+CN  - 428.1 .L67L
+SC  - Kentucky
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Los Altos (California) School District
+T1  - Word study program: teachers guide, grades K-4
+Y1  - 1965
+D1  - 1965?
+SP  - 177
+KW  - Orthography and spelling
+PB  - Los Altos (California) School District
+CY  - Los Altos, CA
+LA  - English
+CN  - 428.1 .L86w
+SC  - California
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A1  - Fitzgerald, James Augustine
+A2  - University of the State of New York. Bureau of Elementary Curriculum Development
+T1  - Learning to spell
+Y1  - 1949
+D1  - 05/1949
+SP  - 33
+KW  - English language
+KW  - Orthography and spelling
+N1  - 33 p. 23 cm.; Note(s): "Prepared as a supplement of the State spelling syllabus."/ "Spelling references for elementary teachers": p. 32-33.; Responsibility: [prepared for the] Bureau of Curriculum Development, Division of Elementary Education, New York State Education Dept. [by James A. Fitzgerald.
+T2  - University of the State of New York bulletin
+V1  - 1368
+PB  - University of the State of New York
+CY  - Albany, NY 
+LA  - English
+CN  - 428.1 .N53L
+SC  - New York
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Elementary Curriculum Development
+T1  - Our daily words; a basic spelling vocabulary for elementary schools, grades 2-6
+Y1  - 1952
+D1  - 1952
+SP  - 26
+KW  - Spellers
+N1  - 26 p. 23 cm.
+PB  - University of the State of New York Press
+CY  - Albany, NY
+LA  - English
+CN  - 428.1 .N53o 1952
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Elementary Curriculum Development
+T1  - Our daily words; a basic spelling vocabulary for elementary schools, grades 2-6
+Y1  - 1956
+D1  - 1956
+SP  - 26
+KW  - Spellers
+N1  - 26 p. 23 cm.
+PB  - University of the State of New York Press
+CY  - Albany, NY
+LA  - English
+CN  - 428.1 .N53o 1956
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Elementary Curriculum Development
+T1  - Our daily words; a basic spelling vocabulary for elementary schools, grades 2-6
+Y1  - 1961
+D1  - 1961
+SP  - 26
+KW  - Spellers
+N1  - 26 p. 23 cm.
+PB  - University of the State of New York Press
+CY  - Albany, NY
+LA  - English
+CN  - 428.1 .N53o 1961
+SC  - New York
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York
+T1  - Spelling
+Y1  - 1960
+D1  - 1960
+SP  - 55
+KW  - English language
+KW  - Orthography and spelling
+AB  - Describes the spelling program used in New York State schools.
+N1  - ill. ; 16 cm.; Note(s): Cover title./ Prepared by the Bureau of Elementary Curriculum Development./ "G866-O6-20,000"--P. [2] of cover.
+PB  - Division of Elementary Education, New York State Education Dept
+CY  - Albany, NY
+LA  - English
+CN  - 428.1 .N3s
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - New York (New York) Board of Education
+T1  - Spelling words list a
+Y1  - 1950
+D1  - 07/1950
+SP  - 18
+KW  - English language
+KW  - Orthography and spelling
+KW  - Spellers
+PB  - New York (New York) Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 428.1 .N532s v. 1
+SC  - New York
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - New York (New York) Board of Education
+T1  - Spelling words list b
+Y1  - 1950
+D1  - 07/1950
+SP  - 63
+KW  - English language
+KW  - Orthography and spelling
+KW  - Spellers
+PB  - New York (New York) Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 428.1 .N532s v. 2
+SC  - New York
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - New York (New York) Board of Education
+T1  - Spelling words list c
+Y1  - 1950
+D1  - 07/1950
+SP  - 39
+KW  - English language
+KW  - Orthography and spelling
+KW  - Spellers
+PB  - New York (New York) Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 428.1 .N532s v. 3
+SC  - New York
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Allred, Ruel A.
+T1  - Application of spelling research
+Y1  - 1966
+D1  - 06/1966
+SP  - 26
+KW  - English language
+KW  - Orthography and spelling
+N1  - 26 l. 28 cm.; Note(s): Bibliography: leaves 22-26.; Responsibility: Advising editor, Jordan B. Utsey.
+T2  - University of Oregon.; Curriculum Laboratory.; Curriculum bulletin
+V1  - 22
+IS  - 268
+PB  - School of Education, University of Oregon
+CY  - Eugene, OR
+LA  - English
+CN  - 428.1 .O66a
+ER  - 
+
+TY  - BOOK
+A1  - Gifford, Grant
+A1  - Johnson, Gail
+A1  - Stevens, Deon
+T1  - A comparison of spelling achievement of elementary school children in 1963 with those of 1918
+Y1  - 1964
+D1  - 11/1964
+SP  - 15
+KW  - English language
+KW  - Orthography and spelling
+T2  - University of Oregon.; Curriculum Laboratory.; Curriculum bulletin
+V1  - 20
+IS  - 249
+PB  - School of Education, University of Oregon
+CY  - Eugene, OR
+LA  - English
+CN  - 428.1 .O66c
+ER  - 
+
+TY  - BOOK
+A1  - Petty, Walter T.
+T1  - Improving your spelling program
+Y1  - 1959
+D1  - 1959
+SP  - 74
+KW  - English language
+KW  - Orthography and spelling
+N1  - ill. ; 28 cm.; Note(s): Includes bibliographical references (p. 71-74) and index.; Responsibility: by Walter T. Petty.
+PB  - Howard Chandler
+CY  - San Francisco, CA
+LA  - English
+CN  - 428.1 .P51i
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools
+T1  - Philadelphia basic spelling list for grade two
+Y1  - 1955
+D1  - 1955
+SP  - 7
+KW  - English language
+KW  - Orthography and spelling
+KW  - Spellers
+PB  - Philadelphia (Pennsylvania) Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 428.1 .P54p v. 1
+SC  - Pennsylvania
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools
+T1  - Functional lists of words: second year spelling (tentative)
+Y1  - 1962
+D1  - 1962
+SP  - 11
+KW  - English language
+KW  - Orthography and spelling
+KW  - Spellers
+PB  - Philadelphia (Pennsylvania) Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 428.1 .P54p v. 1a
+SC  - Pennsylvania
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools
+T1  - Philadelphia basic spelling list for grade three
+Y1  - 1955
+D1  - 1955
+SP  - 48
+KW  - English language
+KW  - Orthography and spelling
+KW  - Spellers
+PB  - Philadelphia (Pennsylvania) Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 428.1 .P54p v. 2
+SC  - Pennsylvania
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools
+T1  - Philadelphia basic spelling list for grade four
+Y1  - 1956
+D1  - 1956
+SP  - 10
+KW  - English language
+KW  - Orthography and spelling
+KW  - Spellers
+PB  - Philadelphia (Pennsylvania) Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 428.1 .P54p v. 3
+SC  - Pennsylvania
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools
+T1  - Philadelphia basic spelling list for grade five
+Y1  - 1956
+D1  - 1956
+SP  - 14
+KW  - English language
+KW  - Orthography and spelling
+KW  - Spellers
+PB  - Philadelphia (Pennsylvania) Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 428.1 .P54p v. 4
+SC  - Pennsylvania
+G2  - 5th
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools
+T1  - Philadelphia basic spelling list for grade six
+Y1  - 1956
+D1  - 1956
+SP  - 18
+KW  - English language
+KW  - Orthography and spelling
+KW  - Spellers
+PB  - Philadelphia (Pennsylvania) Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 428.1 .P54p v. 5
+SC  - Pennsylvania
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - University of Texas
+A2  - University Interscholastic League (Texas)
+T1  - Spelling list for Interscholastic League spelling contest : 1956-57 school year
+Y1  - 1956
+D1  - 09/1956
+SP  - 16
+KW  - Spelling ability
+KW  - Testing
+KW  - English language
+KW  - Orthography and spelling
+N1  - 16 p. ; 22 cm.
+T2  - University of Texas publication
+V1  - 5618
+PB  - University of Texas, Bureau of Public School Service, Division of Extension
+CY  - Austin, TX
+LA  - English
+CN  - 428.1 .T35sp 1956-57
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - University of Texas
+A2  - University Interscholastic League (Texas)
+T1  - Spelling list for Interscholastic League spelling contest : 1957-58 school year
+Y1  - 1957
+D1  - 09/1957
+SP  - 16
+KW  - Spelling ability
+KW  - Testing
+KW  - English language
+KW  - Orthography and spelling
+N1  - 16 p. ; 22 cm.
+T2  - University of Texas publication
+V1  - 5718
+PB  - University of Texas, Bureau of Public School Service, Division of Extension
+CY  - Austin, TX
+LA  - English
+CN  - 428.1 .T35sp 1957-58
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - University of Texas
+A2  - University Interscholastic League (Texas)
+T1  - Spelling list for Interscholastic League spelling contest : 1958-59 school year
+Y1  - 1958
+D1  - 09/1958
+SP  - 16
+KW  - Spelling ability
+KW  - Testing
+KW  - English language
+KW  - Orthography and spelling
+N1  - 16 p. ; 22 cm.
+T2  - University of Texas publication
+V1  - 5818
+PB  - University of Texas, Bureau of Public School Service, Division of Extension
+CY  - Austin, TX
+LA  - English
+CN  - 428.1 .T35sp 1958-59
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - University of Texas
+A2  - University Interscholastic League (Texas)
+T1  - Spelling list for Interscholastic League spelling contest : 1959-60 school year
+Y1  - 1959
+D1  - 09/1959
+SP  - 16
+KW  - Spelling ability
+KW  - Testing
+KW  - English language
+KW  - Orthography and spelling
+N1  - 16 p. ; 22 cm.
+T2  - University of Texas publication
+V1  - 5918
+PB  - University of Texas, Bureau of Public School Service, Division of Extension
+CY  - Austin, TX
+LA  - English
+CN  - 428.1 .T35sp 1959-60
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - University of Texas
+A2  - University Interscholastic League (Texas)
+T1  - Spelling list for Interscholastic League spelling contest : 1960-61 school year
+Y1  - 1960
+D1  - 09/1960
+SP  - 16
+KW  - Spelling ability
+KW  - Testing
+KW  - English language
+KW  - Orthography and spelling
+N1  - 16 p. ; 22 cm.
+T2  - University of Texas publication
+V1  - 6018
+PB  - University of Texas, Bureau of Public School Service, Division of Extension
+CY  - Austin, TX
+LA  - English
+CN  - 428.1 .T35sp 1960-61
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - University of Texas
+A2  - University Interscholastic League (Texas)
+T1  - Spelling list for Interscholastic League spelling contest : 1965-66 school year
+Y1  - 1965
+D1  - 06/1965
+SP  - 19
+KW  - Spelling ability
+KW  - Testing
+KW  - English language
+KW  - Orthography and spelling
+T2  - University of Texas publication
+V1  - 6512
+PB  - University of Texas, Bureau of Public School Service, Division of Extension
+CY  - Austin, TX
+LA  - English
+CN  - 428.1 .T35sp 1965-66
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - University of Texas
+A2  - University Interscholastic League (Texas)
+T1  - Spelling list for Interscholastic League spelling contest : 1966-67 school year
+Y1  - 1965
+D1  - 11/1965
+SP  - 22
+KW  - Spelling ability
+KW  - Testing
+KW  - English language
+KW  - Orthography and spelling
+T2  - University of Texas publication
+V1  - 6521
+PB  - University of Texas, Bureau of Public School Service, Division of Extension
+CY  - Austin, TX
+LA  - English
+CN  - 428.1 .T35sp 1966-67
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - University of Texas
+A2  - University Interscholastic League (Texas)
+T1  - Spelling list for Interscholastic League spelling contest : 1968-69 school year
+Y1  - 1968
+D1  - 07/1968
+SP  - 24
+KW  - Spelling ability
+KW  - Testing
+KW  - English language
+KW  - Orthography and spelling
+T2  - University of Texas publication
+V1  - 6814
+PB  - University of Texas, Bureau of Public School Service, Division of Extension
+CY  - Austin, TX
+LA  - English
+CN  - 428.1 .T35sp 1968-69
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - University of Texas
+A2  - University Interscholastic League (Texas)
+T1  - Spelling list for Interscholastic League spelling contest : 1969-70 school year
+Y1  - 1969
+D1  - 06/1969
+SP  - 24
+KW  - Spelling ability
+KW  - Testing
+KW  - English language
+KW  - Orthography and spelling
+T2  - University of Texas publication
+V1  - 6911
+PB  - University of Texas, Bureau of Public School Service, Division of Extension
+CY  - Austin, TX
+LA  - English
+CN  - 428.1 .T35sp 1969-70
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - University of Texas
+A2  - University Interscholastic League (Texas)
+T1  - Spelling list for Interscholastic League spelling contest : 1970-71 school year
+Y1  - 1970
+D1  - 08/1970
+SP  - 24
+KW  - Spelling ability
+KW  - Testing
+KW  - English language
+KW  - Orthography and spelling
+T2  - University of Texas publication
+V1  - 7016
+PB  - University of Texas, Bureau of Public School Service, Division of Extension
+CY  - Austin, TX
+LA  - English
+CN  - 428.1 .T35sp 1970-71
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - University of Texas
+A2  - University Interscholastic League (Texas)
+T1  - Words for the spelling and plain writing contest
+Y1  - 1930
+D1  - 06/1930
+SP  - 16
+KW  - Spelling ability
+KW  - Testing
+KW  - English language
+KW  - Orthography and spelling
+T2  - University of Texas bulletin
+V1  - 3024
+PB  - University of Texas, Bureau of Public School Service, Division of Extension
+CY  - Austin, TX
+LA  - English
+CN  - 428.1 .T35w 1930
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - University of Texas
+A2  - University Interscholastic League (Texas)
+T1  - Words for Interscholastic League spelling contests
+Y1  - 1935
+D1  - 09/1935
+SP  - 16
+KW  - Spelling ability
+KW  - Testing
+KW  - English language
+KW  - Orthography and spelling
+T2  - University of Texas bulletin
+V1  - 3533
+PB  - University of Texas, Bureau of Public School Service, Division of Extension
+CY  - Austin, TX
+LA  - English
+CN  - 428.1 .T35w 1935
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - University of Texas
+A2  - University Interscholastic League (Texas)
+T1  - Words for Interscholastic League spelling contests
+Y1  - 1936
+D1  - 09/1936
+SP  - 16
+KW  - Spelling ability
+KW  - Testing
+KW  - English language
+KW  - Orthography and spelling
+T2  - University of Texas bulletin
+V1  - 3633
+PB  - University of Texas, Bureau of Public School Service, Division of Extension
+CY  - Austin, TX
+LA  - English
+CN  - 428.1 .T35w 1936
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - University of Texas
+A2  - University Interscholastic League (Texas)
+T1  - Words for Interscholastic League spelling contests
+Y1  - 1937
+D1  - 09/1937
+SP  - 16
+KW  - Spelling ability
+KW  - Testing
+KW  - English language
+KW  - Orthography and spelling
+T2  - University of Texas bulletin
+V1  - 3733
+PB  - University of Texas, Bureau of Public School Service, Division of Extension
+CY  - Austin, TX
+LA  - English
+CN  - 428.1 .T35w 1937
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - University of Texas
+A2  - University Interscholastic League (Texas)
+T1  - Words for Interscholastic League spelling contests
+Y1  - 1938
+D1  - 09/1938
+SP  - 16
+KW  - Spelling ability
+KW  - Testing
+KW  - English language
+KW  - Orthography and spelling
+T2  - University of Texas bulletin
+V1  - 3833
+PB  - University of Texas, Bureau of Public School Service, Division of Extension
+CY  - Austin, TX
+LA  - English
+CN  - 428.1 .T35w 1938
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - University of Texas
+A2  - University Interscholastic League (Texas)
+T1  - Words for Interscholastic League spelling contests
+Y1  - 1940
+D1  - 09/1940
+SP  - 16
+KW  - Spelling ability
+KW  - Testing
+KW  - English language
+KW  - Orthography and spelling
+T2  - University of Texas bulletin
+V1  - 4033
+PB  - University of Texas, Bureau of Public School Service, Division of Extension
+CY  - Austin, TX
+LA  - English
+CN  - 428.1 .T35w 1940
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - University of Texas
+A2  - University Interscholastic League (Texas)
+T1  - Words for Interscholastic League spelling contests
+Y1  - 1941
+D1  - 09/1941
+SP  - 16
+KW  - Spelling ability
+KW  - Testing
+KW  - English language
+KW  - Orthography and spelling
+T2  - University of Texas bulletin
+V1  - 4133
+PB  - University of Texas, Bureau of Public School Service, Division of Extension
+CY  - Austin, TX
+LA  - English
+CN  - 428.1 .T35w 1941
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - University of Texas
+A2  - University Interscholastic League (Texas)
+T1  - Words for Interscholastic League spelling contests
+Y1  - 1942
+D1  - 09/1942
+SP  - 16
+KW  - Spelling ability
+KW  - Testing
+KW  - English language
+KW  - Orthography and spelling
+T2  - University of Texas bulletin
+V1  - 4233
+PB  - University of Texas, Bureau of Public School Service, Division of Extension
+CY  - Austin, TX
+LA  - English
+CN  - 428.1 .T35w 1942
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - University of Texas
+A2  - University Interscholastic League (Texas)
+T1  - Words for Interscholastic League spelling contests
+Y1  - 1944
+D1  - 09/1944
+SP  - 16
+KW  - Spelling ability
+KW  - Testing
+KW  - English language
+KW  - Orthography and spelling
+T2  - University of Texas bulletin
+V1  - 4433
+PB  - University of Texas, Bureau of Public School Service, Division of Extension
+CY  - Austin, TX
+LA  - English
+CN  - 428.1 .T35w 1944
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - University of Texas
+A2  - University Interscholastic League (Texas)
+T1  - Words for Interscholastic League spelling contests
+Y1  - 1945
+D1  - 09/1945
+SP  - 16
+KW  - Spelling ability
+KW  - Testing
+KW  - English language
+KW  - Orthography and spelling
+T2  - University of Texas bulletin
+V1  - 4533
+PB  - University of Texas, Bureau of Public School Service, Division of Extension
+CY  - Austin, TX
+LA  - English
+CN  - 428.1 .T35w 1945
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - University of Texas
+A2  - University Interscholastic League (Texas)
+T1  - Words for Interscholastic League spelling contests
+Y1  - 1947
+D1  - 09/1947
+SP  - 16
+KW  - Spelling ability
+KW  - Testing
+KW  - English language
+KW  - Orthography and spelling
+T2  - University of Texas bulletin
+V1  - 4733
+PB  - University of Texas, Bureau of Public School Service, Division of Extension
+CY  - Austin, TX
+LA  - English
+CN  - 428.1 .T35w 1947
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - University of Texas
+A2  - University Interscholastic League (Texas)
+T1  - Words for Interscholastic League spelling contests
+Y1  - 1948
+D1  - 09/1948
+SP  - 16
+KW  - Spelling ability
+KW  - Testing
+KW  - English language
+KW  - Orthography and spelling
+T2  - University of Texas bulletin
+V1  - 4817
+PB  - University of Texas, Bureau of Public School Service, Division of Extension
+CY  - Austin, TX
+LA  - English
+CN  - 428.1 .T35w 1948
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - University of Texas
+A2  - University Interscholastic League (Texas)
+T1  - Words for Interscholastic League spelling contests
+Y1  - 1949
+D1  - 09/1949
+SP  - 16
+KW  - Spelling ability
+KW  - Testing
+KW  - English language
+KW  - Orthography and spelling
+T2  - University of Texas bulletin
+V1  - 4917
+PB  - University of Texas, Bureau of Public School Service, Division of Extension
+CY  - Austin, TX
+LA  - English
+CN  - 428.1 .T35w 1949
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - University of Texas
+A2  - University Interscholastic League (Texas)
+T1  - Words for Interscholastic League spelling contests
+Y1  - 1953
+D1  - 06/1953
+SP  - 16
+KW  - Spelling ability
+KW  - Testing
+KW  - English language
+KW  - Orthography and spelling
+T2  - University of Texas bulletin
+V1  - 5311
+PB  - University of Texas, Bureau of Public School Service, Division of Extension
+CY  - Austin, TX
+LA  - English
+CN  - 428.1 .T35w 1953-54
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - Pomona (California) Curriculum Department. Elementary Division
+T1  - Language arts: discussion guide on spelling
+KW  - English language
+KW  - Orthography and spelling
+PB  - Pomona (California) Curriculum Department. Elementary Division
+CY  - Pomona, CA
+LA  - English
+CN  - 428.1 .P78L
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Roslyn (New York) Public Schools
+T1  - Spelling curriculum guide, K-6
+Y1  - 1962
+D1  - 09/1962
+SP  - 74
+KW  - English language
+KW  - Orthography and spelling
+PB  - Roslyn (New York) Public Schools
+CY  - Roslyn, NY
+LA  - English
+CN  - 428.1 .R82s
+SC  - New York
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Sarasota County (Florida) Schools
+T1  - Spelling, grades 2-9
+Y1  - 1957
+D1  - 01/1957
+SP  - 54
+KW  - English language
+KW  - Orthography and spelling
+PB  - Sarasota County (Florida) Schools
+CY  - Sarasota, FL
+LA  - English
+CN  - 428.1 .S24s
+SC  - Florida
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Willoughby-Eastlake (Ohio) City Schools
+T1  - Spelling must have meaning
+Y1  - 1963
+D1  - 09/1963
+SP  - 82
+KW  - English language
+KW  - Orthography and spelling
+PB  - Willoughby-Eastlake (Ohio) City Schools
+CY  - Willoughby, OH
+LA  - English
+CN  - 428.1 .W74s
+SC  - Ohio
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 

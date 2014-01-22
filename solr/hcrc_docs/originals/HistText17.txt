@@ -1,0 +1,2612 @@
+
+
+
+
+TY  - BOOK
+A1  - Brown, D. Sydney
+T1  - Teaching gifted students art in grades seven through nine
+Y1  - 1973
+D1  - 1973
+SP  - 31
+KW  - Art
+KW  - Gifted children
+N1  - vii; ; 23 cm.; Note(s): Prepared for the Division of Special Education, California State Department of Education./ Includes bibliographical references.; Responsibility: by D. Sydney Brown.
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 371.9 .C15tga 1973 v. 2
+SC  - California
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A1  - Covey, Barbara L.
+T1  - Teaching gifted students English usage in grades seven through nine
+Y1  - 1970
+D1  - 1970
+SP  - 42
+KW  - English language
+KW  - Gifted children
+N1  - vi; ill. ; 23 cm.; Note(s): Bibliography: p. 40-42.; Responsibility: prepared for the Division of Special Education, California State Department of Education, by Barbara L. Covey.
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 371.9 .C15tge 1970 v. 3
+SC  - California
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A1  - Franklin, Mayer J.
+A1  - Friedl, Berthold C.
+T1  - Teaching gifted students foreign language in grades ten through twelve
+Y1  - 1973
+D1  - 1973
+SP  - 40
+KW  - Language and languages
+KW  - Gifted children
+N1  - viii; ; 23 cm.; Note(s): Includes bibliographical references (p. 37-40).; Responsibility: prepared for the Division of Special Education, California State Department of Education, by Mayer J. Franklin and Berthold C. Friedl.
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 371.9 .C15tgf 1973 v. 4
+SC  - California
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A1  - Luca, Mark C.
+A1  - Allen, Bonnie
+T1  - Teaching gifted children art in grades four through six
+Y1  - 1973
+D1  - 1973
+SP  - 36
+KW  - Gifted children
+KW  - Art
+N1  - viii; ; 23 cm.; Note(s): Prepared for the Division of Special Education, California State Department of Education./ Includes bibliographical references.; Responsibility: by Mark C. Luca and Bonnie Allen.
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 371.9 C15tga 1973 v. 1
+SC  - California
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A1  - Clifford, Thomas
+T1  - Teaching gifted children literature in grades four through six
+Y1  - 1972
+D1  - 1972
+SP  - 34
+KW  - Gifted children
+KW  - English language
+N1  - v; ges ; 23 cm; Responsibility: by Thomas Clifford.
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 371.9 .C15tgL 1972 v. 2
+SC  - California
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A1  - Covey, Barbara L.
+T1  - Teaching gifted students literature in grades seven through nine
+Y1  - 1973
+D1  - 1973
+SP  - 34
+KW  - Literature
+KW  - Special education
+N1  - vi; ges ; 23 cm; Note(s): Includes bibliographical references (page 34).; Responsibility: prepared for the Division of Special Education, California State Department of Education by Barbara L. Covey.
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 371.9 .C15tgL 1973 v. 3
+SC  - California
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A1  - Gensley, Juliana Townsend
+T1  - Teaching gifted children literature in grades one through three
+Y1  - 1972
+D1  - 1972
+SP  - 28
+KW  - Gifted children
+KW  - Literature
+N1  - vii; ges ; 23 cm; Responsibility: by Juliana Townsend Gensley.
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 371.9 .C15tgL 1972 v . 1
+SC  - California
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A1  - Nicholson, Margaret
+A1  - Stubbe, Arabelle
+A1  - Wadhams, Geraldine
+A1  - Whirry, Marilyn
+T1  - Teaching gifted students literature and language in grades nine through twelve
+Y1  - 1970
+D1  - 1970
+SP  - 54
+KW  - Gifted children
+KW  - English language
+KW  - Literature
+N1  - ix; ges ; 23 cm; Note(s): Includes bibliographical references (pages 53-54).; Responsibility: prepared for the Division of Special Education, California State Department of Education by Margaret Nicholson [and others].
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 371.9 .C15tgL 1970 v. 4
+SC  - California
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Teaching gifted children literature and language in grades nine through twelve
+Y1  - 1978
+D1  - 1978
+SP  - 53
+KW  - Literature
+PB  - California State Department of Education
+CY  - Sacramenta, CA
+LA  - English
+CN  - 371.9 .C15tgL 1978 v. 4
+SC  - California
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Literature, curriculum guide for teaching gifted children literature in grades one through three
+Y1  - 1978
+D1  - 1978
+SP  - 29
+KW  - Literature
+KW  - Gifted children
+PB  - California State Department of Education
+CY  - Sacramenta, CA
+LA  - English
+CN  - 371.9 .C15tgL 1978 v. 1
+SC  - California
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Teaching gifted children literature in grades four through six
+Y1  - 1978
+D1  - 1978
+SP  - 28
+KW  - Gifted children
+KW  - Literature
+N1  - vii; ges ; 23 cm; Responsibility: by Thomas Clifford.
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 371.9 C15tgL 1978 v. 2
+SC  - California
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A1  - Walker, Virginia
+T1  - Teaching gifted children mathematics in grades one through three
+Y1  - 1973
+D1  - 1973
+SP  - 38
+KW  - Gifted children
+KW  - Mathematics
+N1  - ill. ; 23 cm.; Note(s): Prepared for the Division of Special Education, California State Department of Education by Virginia Walker./ Includes bibliographical references.; Responsibility: by Juliana T. Gensley.
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 371.9 .C15tgm 1973 v. 1
+SC  - California
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A1  - Brandwein, Paul Franz
+T1  - Teaching gifted children science in grades one through six
+Y1  - 1973
+D1  - 1973
+SP  - 64
+KW  - Science
+KW  - Gifted children
+N1  - viii; ges ; 23 cm; Note(s): Includes bibliographical references (pages 63-64).; Responsibility: prepared for the Division of Special Education, California State Department of Education by Paul F. Brandwein.
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 371.9 .C15tgs 1973 v. 1
+SC  - California
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A1  - Ely, Jewel Mary
+T1  - Teaching gifted children music in grades one through six
+Y1  - 1978
+D1  - 1978
+SP  - 85
+KW  - Gifted children
+KW  - Music
+N1  - ix; charts ; 23 cm.; Responsibility: Jewel Mary Ely.
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 371.9 .C15tgmu 1978 v. 1
+SC  - California
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A1  - Muir, Raquel
+T1  - Science, a unit on microbiology : curriculum guide for teaching gifted children science in grades four through six
+Y1  - 1970
+D1  - 1970
+SP  - 58
+KW  - Science
+KW  - Gifted children
+N1  - vi; ill. ; 23 cm.; Note(s): Bibliography: p. 54-55.; Responsibility: prepared for the Division of Special Education, California State Department of Education, by Raquel Muir.
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 371.9 .C15tgs 1970 v. 2
+SC  - California
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A1  - Wampler, Martha Maybury
+T1  - Music : curriculum guide for teaching gifted children music in grade four through six
+Y1  - 1973
+D1  - 1973
+SP  - 50
+KW  - Gifted children
+KW  - Music
+N1  - vii; ges ; 23 cm; Note(s): Includes bibliographical references (pages 49-50).; Responsibility: by Martha Maybury Wampler.
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 371.9 .C15tgmu 1973 v. 2
+SC  - California
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A1  - Bruch, Catherine B.
+T1  - Teaching gifted children social sciences in grades four through six
+Y1  - 1971
+D1  - 1971
+SP  - 34
+KW  - Social sciences
+KW  - Gifted children
+N1  - vi; ges ; 23 cm; Responsibility: prepared for the Division of Special Education, California State Department of Education by Catherine B. Bruch.
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 371.9 .C15tgss 1971 v. 2
+SC  - California
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A1  - Hauck, Barbara
+T1  - Social science: curriculum guide for teaching gifted children social sciences in grades one through three
+Y1  - 1970
+D1  - 1970
+SP  - 31
+KW  - Social sciences
+KW  - Gifted children
+N1  - vii; 23 cm.; Note(s): Selected references: p. 27-31.
+PB  - California State Department of Education, Division of Special Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 371.9 .C15tgss 1970 v. 1
+SC  - California
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Science : curriculum guide for teaching gifted children science in grades one through three: a sample ecology unit
+Y1  - 1977
+D1  - 1977
+SP  - 32
+KW  - Science)
+KW  - Ecology
+KW  - Gifted children
+AB  - Science: curriculum guide for teaching gifted children science in grades one through three: a sample ecology unit / Howard N Hubbard 1977 [1977 ed.]. English Book vii, 32 pages ; 23 cm Sacramento : The Dept., Helps gifted pupils to take an active part in meaningful learning activities that concern the world of natural science. Contains a sample teaching-learning plan and eight sample lesson plans. The emphasis is on ecology and its aspects, such as the biological, the environmental, and the geological.; Chapter 1: Purposes and approaches -- Overview -- Behavioral objectives -- Generalizations and concepts. -- Chapter 2: Sample teaching-learning plan -- A unit on ecology -- Evaluation. Chapter 3: Sample lesson plans -- Subtratum -- Animal movement -- Seed dispersal -- Temperature -- Its influence on the environment -- Light -- Food -- Water -- Erosion.; Helps gifted pupils to take an active part in meaningful learning activities that concern the world of natural science. Contains a sample teaching-learning plan and eight sample lesson plans. The emphasis is on ecology and its aspects, such as the biological, the environmental, and the geological.
+N1  - vii; ges ; 23 cm; Note(s): "The 1970 edition of the guide was written by Charlotte Morrison ... The guide was updated by Howard N. Hubbard."/ Includes bibliographical references.; Other Titles: Curriculum guide for teaching gifted children science in grades one through three.; Responsibility: prepared for the Office of Special Education, California State Dept. of Education.
+ED  - 1977 ed.
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 371.9 .C15tgs 1977 v. 1
+SC  - California
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A1  - Popham, Donald F.
+T1  - Teaching gifted students social sciences in grades ten through twelve
+Y1  - 1971
+D1  - 1971
+SP  - 36
+KW  - Social sciences
+KW  - Gifted children
+N1  - vi; ; 23 cm.; Note(s): Includes bibliographical references (p. 27-29).; Responsibility: prepared for the Division of Special Education, California State Department of Education, by Donald F. Popham.
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 371.9 .C14tgss 1971 v. 4
+SC  - California
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Social sciences : curriculum guide for teaching gifted children social sciences in grades one through three
+Y1  - 1977
+D1  - 1977
+SP  - 34
+KW  - Social sciences
+KW  - Gifted children
+N1  - v; ges ; 23 cm; Note(s): Includes bibliographical references (pages 29-33).; Responsibility: prepared under the direction of the Gifted and Talented Education Management Team, California State Department of Education.
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 371.9 .C15tgss 1977 v. 1
+SC  - California
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Office of Curriculum Services
+T1  - Teaching gifted students social sciences in grades seven through nine
+Y1  - 1977
+D1  - 1977
+SP  - 49
+KW  - Social sciences
+KW  - Gifted children
+N1  - v; ; 23 cm.; Note(s): On cover: Social sciences, 7-9./ Includes bibliographical references (p. 42-48).; Other Titles: Social sciences, 7-9; Responsibility: prepared for the Office of Curriculum Services, California State Department of Education.
+ED  - 1977 ed.
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 371.9 .C15tgss 1977 v. 3
+SC  - California
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A1  - Levine, Martin
+T1  - Social sciences : curriculum guide for teaching gifted students social sciences in grades seven through nine
+Y1  - 1973
+D1  - 1973
+SP  - 55
+KW  - Social sciences
+KW  - Gifted children
+N1  - vii; ges ; 23 cm; Note(s): Includes bibliographical references (pages 53-55).; Responsibility: prepared for the Division of Special Education, California State Department of Education by Martin Levine.
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 371.9 .C15tgss 1973 v. 3
+SC  - California
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Seattle Public Schools. Administrative and Service Center
+T1  - The great religions of the world: a resource unit for use in world history i
+Y1  - 1952
+D1  - 09/1952
+SP  - 22
+KW  - Religion
+PB  - Seattle (Washington) Public Schools
+CY  - Seattle, WA
+LA  - English
+CN  - 377.1 .S44g
+SC  - Washington
+ER  - 
+
+TY  - BOOK
+A1  - Ligon, Ernest M.
+T1  - An outline of the conceptual history of the Union College Character Research Project, 1935-1953
+Y1  - 1953
+D1  - 1953
+SP  - 27
+KW  - Moral education
+T2  - Union College studies in character research
+PB  - Union College. Character Research Project
+CY  - Schenectady, NY
+LA  - English
+CN  - 377.2 .U58u v. 1
+ER  - 
+
+TY  - BOOK
+A1  - Morse, Mervyn M.
+T1  - The effectivement of individual classroom adaptation in bringing about attitude growth in class groups
+Y1  - 1953
+D1  - 10/1953
+SP  - 15
+KW  - Character
+T2  - Union College studies in character research
+V1  - 1
+IS  - 1
+PB  - Union College. Character Research Project
+CY  - Schenectady, NY
+LA  - English
+CN  - 377.2 .U58u v. 2
+ER  - 
+
+TY  - BOOK
+A1  - Morse, Mervyn M.
+T1  - Some factors which relate to the three categories of attitude growth: significant growth, ordinary growth, and no growth
+Y1  - 1953
+D1  - 10/1953
+SP  - 15
+KW  - Character
+T2  - Union College studies in character research
+V1  - 1
+IS  - 1
+PB  - Union College. Character Research Project
+CY  - Schenectady, NY
+LA  - English
+CN  - 377.2 .U58u v. 2
+ER  - 
+
+TY  - BOOK
+A1  - Baker, Winifred A.
+T1  - Longitudinal study of the effect of experience in the character research project on the learning of concepts
+Y1  - 1954
+D1  - 01/1954
+KW  - Character
+T2  - Union College studies in character research
+V1  - 1
+IS  - 4
+PB  - Union College. Character Research Project
+CY  - Schenectady, NY
+LA  - English
+CN  - 377.2 .U58u v. 5
+ER  - 
+
+TY  - BOOK
+A1  - Smith, Leona J.
+A1  - Ligon, Ernest M.
+A1  - Lohmann, Joan
+A1  - O'Brien, Mary A.
+A1  - Seymour, Richard B.
+T1  - Home dynamics study: a search for dimensions of the family climate based on dynamic interrelationships among factors influencing parental attitudes: orientation to the problem
+Y1  - 1954
+D1  - 03/1954
+KW  - Character
+T2  - Union College studies in character research
+V1  - 1
+IS  - 6
+PB  - Union College. Character Research Project
+CY  - Schenectady, NY
+LA  - English
+CN  - 377.2 .U58u v. 7
+ER  - 
+
+TY  - BOOK
+A1  - McLane, Edwin D.
+A1  - O'Brien, Mary A.
+A1  - Wemple, Sallie Ann
+T1  - A comparison of the effectiveness of the teaching-learning process in groups participating and not participating in the Character Research Project
+Y1  - 1954
+D1  - 05/1954
+KW  - Character
+T2  - Union College studies in character research
+V1  - 1
+IS  - 7
+PB  - Union College. Character Research Project
+CY  - Schenectady, NY
+LA  - English
+CN  - 377.2 .U58u v. 8
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District. Elementary Finance Committee
+T1  - Policies governing elementary student body and/or PTA finance
+Y1  - 1948
+D1  - 09/1948
+KW  - Student activities
+KW  - Accounting
+N1  - 17 p. 23 cm.; Note(s): Cover title.
+T2  - Los Angeles City School District. Publication
+V1  - 464
+PB  - Los Angeles (California) City School Districts, Student Body Services Branch
+CY  - Los Angeles, CA
+LA  - English
+CN  - 379 .L87p
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Maryland State Department of Education
+T1  - Maryland's educational program, school administrative manual
+Y1  - 1952
+D1  - 06/1952
+SP  - 95
+KW  - School management and organization
+KW  - Public schools
+N1  - viii; ges tables 23 cm.; Note(s): "A revision ... expanded."/ Signed: Thomas G. Pullen, Jr.
+T2  - Maryland school bulletin
+V1  - 32
+IS  - 2
+PB  - Maryland State Department of Education
+CY  - Baltimore, MD
+LA  - English
+CN  - 379 .M39m
+SC  - Maryland
+ER  - 
+
+TY  - BOOK
+A2  - Western Interstate Commission for Higher Education
+T1  - Who should go to college? The problem of selective admission in state colleges and universities. [First in a series of reports dealing with emerging issues in higher education in the West]
+Y1  - 1959
+D1  - 04/1959
+SP  - 19
+KW  - Universities and colleges
+KW  - Admissions
+N1  - 20 p. 25 cm.
+PB  - Western Interstate Commission for Higher Education
+CY  - Boulder, CO
+LA  - English
+CN  - 378.213 .W526w
+G1  - Postsecondary
+ER  - 
+
+TY  - BOOK
+A2  - Contra Costa County (California) Schools
+T1  - County office field services
+Y1  - 1953
+D1  - 04/1953
+KW  - School management and organization
+PB  - Contra Costa County (California) Schools
+CY  - Martinez, CA
+LA  - English
+CN  - 379 .C76c
+ER  - 
+
+TY  - BOOK
+A2  - Fresno (California) City Unified School District
+T1  - Administrative policies of the board of education
+Y1  - 1952
+D1  - 09/1952
+SP  - 34
+KW  - School management and organization
+PB  - Fresno (California) City Unified School District
+CY  - Fresno, CA
+LA  - English
+CN  - 379 .F88a
+ER  - 
+
+TY  - BOOK
+A2  - Inglewood (California) Board of Education
+T1  - Activities
+KW  - School management and organization
+PB  - Inglewood (California) Board of Education
+CY  - Inglewood, CA
+LA  - English
+CN  - 379 .I51i
+ER  - 
+
+TY  - BOOK
+A1  - Cloud, Sidney S.
+T1  - The community power structure and its influence upon school elections
+Y1  - 1961
+D1  - 01/1961
+KW  - School elections
+T2  - University of Oregon. School of Education. Curriculum bulletin
+V1  - 17
+IS  - 209
+PB  - University of Oregon. School of Education
+CY  - Eugene, OR
+LA  - English
+CN  - 379 .O66c
+ER  - 
+
+TY  - Book
+A2  - San Diego County (California) Superintendent of Schools
+T1  - County office services
+SP  - 22
+KW  - School management and organization
+PB  - San Diego County (California) Superintendent of Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 379 .S19c
+ER  - 
+
+TY  - BOOK
+A2  - San Diego County (California) Schools
+T1  - Service area committee reports
+Y1  - 1952
+D1  - 11/1952
+KW  - School management and organization
+PB  - San Diego County (California) Schools. Office of the Superintendent of Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 379 .S19s v. 1
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - San Diego County (California) Schools
+T1  - Service area committee reports
+Y1  - 1952
+D1  - 12/1952
+KW  - School management and organization
+PB  - San Diego County (California) Schools. Office of the Superintendent of Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 379 .S19s v. 2
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - San Diego County (California) Schools
+T1  - Addendum: service area committee reports
+Y1  - 1953
+D1  - 01/1953
+KW  - School management and organization
+PB  - San Diego County (California) Schools. Office of the Superintendent of Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 379 .S19s v. 3
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Alabama State Department of Education
+T1  - Alabama state-adopted textbook list, 1970-71
+Y1  - 1970
+D1  - 1970
+SP  - 82
+KW  - Bibliography
+KW  - Textbooks
+PB  - Alabama State Department of Education
+CY  - Montgomery, AL
+LA  - English
+CN  - 371.156 .A31a 1970-71
+SC  - Alabama
+ER  - 
+
+TY  - BOOK
+A2  - Alabama State Department of Education
+T1  - Alabama state-adopted textbook list, 1971-72
+Y1  - 1971
+D1  - 1971
+SP  - 89
+KW  - Bibliography
+KW  - Textbooks
+PB  - Alabama State Department of Education
+CY  - Montgomery, AL
+LA  - English
+CN  - 371.156 .A31a 1971-72
+SC  - Alabama
+ER  - 
+
+TY  - BOOK
+A1  - Burlingham, Charles C.
+A2  - New York (State). Governor's Committee on the Costs of Public Education in the State
+T1  - Report of the Governor's Committee on the Costs of Public Education in the State of New York
+Y1  - 1933
+D1  - 1933
+SP  - 101
+KW  - School finance
+N1  - charts, tables ; 23 cm.; Note(s): Charles C. Burlingham, chairman./ Also issued online.
+PB  - New York (State). Governor's Committee on the Costs of Public Education in the State
+CY  - New York, NY
+LA  - English
+CN  - 379.11 .N56r
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - Texas State Education Agency
+T1  - Services to Texas schools
+Y1  - 1953
+D1  - 07/1953
+SP  - 123
+KW  - School management and organization
+N1  - 123, [4] p. ; 23 cm.; Note(s): Tx Doc no.: E500.7, B936, 541-53./ With: Bulletin (Texas. State Dept. of Education) ; 541-53.; Responsibility: compiled by the staff of the Texas Education Agency.
+T2  - Bulletin (Texas Education Agency)
+V1  - 541
+PB  - Texas State Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379 .T35s
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - Tulare County (California) Schools
+T1  - Services index: services available to Tulare County Schools through the Office of the County Superintendant (preliminary draft)
+Y1  - 1952
+D1  - 1952?
+SP  - 6
+KW  - School management and organization
+PB  - Tulare County (California) Schools
+LA  - English
+CN  - 379 .T91s
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Tulare County (California) Schools
+T1  - Personnel assignments and responsibilities, 1952-53
+Y1  - 1952
+D1  - 12/1952
+SP  - 6
+KW  - School management and organization
+PB  - Tulare County (California) Schools
+LA  - English
+CN  - 379 .T91s
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Board of Education
+T1  - Call for bids for textbooks and teacher's manuals in arithmetic : (Authorized by resolution of the State Board of Education, January 3, 1955)
+Y1  - 1955
+D1  - 02/1955
+SP  - 11
+KW  - Textbooks
+KW  - Mathematics
+PB  - California State Board of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 379.156 .C15c
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - American Textbook Publishers Institute
+T1  - Budgeting for textbooks, a realistic approach
+Y1  - 1956
+D1  - 1956
+SP  - 31
+KW  - Textbooks
+KW  - School finance
+N1  - 31 p. ill. 26 cm.
+PB  - American Textbook Publishers Institute
+CY  - New York, NY
+LA  - English
+CN  - 379.156 .A51b
+ER  - 
+
+TY  - BOOK
+A2  - Arizona State Department of Education
+T1  - Official list state adopted (free) textbooks for common schools and state welfare institutions 1958-1959 school year
+Y1  - 1958
+D1  - 07/1958
+KW  - Textbooks
+KW  - Bibliography
+N1  - Frequency: Annual; volumes ; 28-33 cm; Note(s): Vols. for  issued under the Dept.'s later name, Dept. of Public Instruction;  issued under the Dept.'s later name, Dept. of Education.
+PB  - Arizona State Department of Education
+CY  - Phoenix, AZ
+LA  - English
+CN  - 379.156 .A71o
+ER  - 
+
+TY  - JOUR
+A2  - California State Department of Education
+T1  - California state textbooks : elementary school textbooks adopted by the State Board of Education for use in California during ...
+Y1  - 1968
+D1  - 1968-1970
+KW  - Curricula
+KW  - Catalogs
+KW  - Textbooks
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 379.156 .C15ca
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Richmond (California) Public Schools
+T1  - A statement of policy regarding textbook selection and adoption procedures for Richmond secondary schools
+SP  - 21
+KW  - Textbooks
+PB  - Richmond (California) Public Schools
+CY  - Richmond, CA
+LA  - English
+CN  - 379.156 .R53t
+SC  - California
+G1  - High school
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Flint (California) Public Schools
+T1  - Basic textbooks
+Y1  - 1958
+D1  - 09/1958
+SP  - 14
+KW  - Textbooks
+PB  - Flint (California) Public Schools
+CY  - Richmond, CA
+LA  - English
+CN  - 379.156 .F62t
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Florida State Department of Education
+T1  - Florida school bulletin: textbook issue
+Y1  - 1961
+D1  - 06/1961
+SP  - 107
+KW  - Textbooks
+PB  - Florida State Department of Education
+CY  - Tallahassee, FL
+LA  - English
+CN  - 379.156 .F63f 1961
+SC  - Florida
+ER  - 
+
+TY  - BOOK
+A2  - Florida State Department of Education
+T1  - Florida school bulletin: textbook issue
+Y1  - 1963
+D1  - 06/1963
+SP  - 121
+KW  - Textbooks
+PB  - Florida State Department of Education
+CY  - Tallahassee, FL
+LA  - English
+CN  - 379.156 .F63f 1963
+SC  - Florida
+ER  - 
+
+TY  - BOOK
+A2  - Florida State Department of Education
+T1  - Florida school bulletin: textbook issue
+Y1  - 1966
+D1  - 04/1966
+SP  - 165
+KW  - Textbooks
+PB  - Florida State Department of Education
+CY  - Tallahassee, FL
+LA  - English
+CN  - 379.156 .F63f 1966
+SC  - Florida
+ER  - 
+
+TY  - BOOK
+A2  - Cooperative Council on Inservice Education. Committee on Textbook Selection
+T1  - Guide for textbook selection: procedures and criteria
+Y1  - 1953
+D1  - 1953
+SP  - 48
+KW  - Textbooks
+PB  - Los Angeles (California) Office of the County Superintendent of Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 379.156 .L87g
+ER  - 
+
+TY  - BOOK
+A2  - Florida State Department of Education
+T1  - State-adopted textbooks in Florida : a catalog
+Y1  - 1971
+D1  - 1971-1972
+SP  - 58
+KW  - Catalogs
+KW  - Textbooks
+N1  - volumes ; 23 x 30 cm -28 cm; Note(s): Vols. for - issued by the Department of Education (called 19 -, State Department of Education).
+PB  - Florida State Department of Education
+CY  - Tallahassee, FL
+LA  - English
+CN  - 379.156 .F63s
+SC  - Florida
+ER  - 
+
+TY  - BOOK
+A2  - Fresno County (California) School Library
+T1  - Supplementary textbooks on supply from the Fresno County School Library
+Y1  - 1952
+D1  - 09/1952
+SP  - 20
+KW  - Textbooks
+PB  - Fresno County (California) School Library
+CY  - Fresno, CA
+LA  - English
+CN  - 379.156 .F88s
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Kansas State Department of Public Instruction
+T1  - 1956 price list of books adopted and approved for use in Kansas schools
+Y1  - 1956
+D1  - 07/1956
+KW  - Textbooks
+KW  - Bibliography
+N1  - Frequency: Annual; 19-; volumes 23 cm; Note(s): Title varies slightly./ Issued by the Kansas State School Book Commission, 19 -193?; by the State Board of Education, 194 -
+PB  - Kansas State Department of Public Instruction
+CY  - Topeka, KS
+LA  - English
+CN  - 379.156 .K16p
+SC  - Kansas
+ER  - 
+
+TY  - BOOK
+A1  - Spaulding, William E.
+T1  - How shall we judge them? A discussion of materials of instruction
+Y1  - 1961
+D1  - 12/1961
+SP  - 24
+KW  - Teaching aids
+KW  - Textbooks
+N1  - 24 p.; Note(s): "An address given by the President of Houghton Mifflin Company on December 1, 1961, before the Text Book Conference of the Educational Research Concil of Greater Cleveland."
+PB  - Houghton Mifflin
+CY  - New York, NY
+LA  - English
+CN  - 379.156 .H82h
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District
+T1  - List of authorized textbooks for junior and senior high school, 1961-1962
+Y1  - 1961
+D1  - 1961-1962
+SP  - 130
+KW  - Textbooks
+KW  - Bibliography
+T2  - Los Angeles City School District.; Publication
+V1  - 426
+ED  - Rev.
+PB  - Los Angeles (California) City School District
+CY  - Los Angeles, CA
+LA  - English
+CN  - 379.156 .L879L 1961-1962
+SC  - California
+G1  - Middle school
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District
+T1  - List of authorized textbooks for junior and senior high school, 1964-1965
+Y1  - 1964
+D1  - 1964
+SP  - 130
+KW  - Textbooks
+KW  - Bibliography
+T2  - Los Angeles City School District.; Publication
+V1  - 426
+ED  - Rev.
+PB  - Los Angeles (California) City School District
+CY  - Los Angeles, CA
+LA  - English
+CN  - 379.156 .L879L 1964-1965
+SC  - California
+G1  - Middle school
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District. Division of Instructional Services
+T1  - Curriculum trends and text book needs; reports presented by the Curriculum Branch, Division of Instructional Services, Los Angeles City Schools, at a meeting for the American Textbook Publishers Institute
+Y1  - 1965
+D1  - 11/1965
+SP  - 60
+KW  - Curricula
+KW  - Textbooks
+PB  - Los Angeles (California) City School District
+CY  - Los Angeles, CA
+LA  - English
+CN  - 379.156 .L879c
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District. Division of Instructional Services
+T1  - List of authorized textbooks for junior and senior high schools, 1958-1959
+Y1  - 1958
+D1  - 1958-1959
+SP  - 102
+KW  - Textbooks
+KW  - Bibliography
+T2  - Los Angeles Board of Education.; School publications
+V1  - 426
+ED  - Rev.
+PB  - Los Angeles (California) City School District
+CY  - Los Angeles, CA
+LA  - English
+CN  - 379.156 .L879L 1958-1959
+SC  - California
+G1  - Middle school
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District. Division of Instructional Services
+T1  - List of authorized textbooks for junior and senior high schools, 1959-1960
+Y1  - 1959
+D1  - 1959-1960
+SP  - 106
+KW  - Textbooks
+KW  - Bibliography
+T2  - Los Angeles Board of Education.; School publications
+V1  - 426
+ED  - Rev.
+PB  - Los Angeles (California) City School District
+CY  - Los Angeles, CA
+LA  - English
+CN  - 379.156 .L879L 1959-1960
+SC  - California
+G1  - Middle school
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Knowlton, Philip A.
+T1  - Let the chips fall; a study of voluntary statements made by 1472 California educators about the California textbook problem
+Y1  - 1957
+D1  - 1957
+SP  - 37
+KW  - Textbooks
+N1  - 37 p. 28 cm.
+PB  - Macmillan
+CY  - New York, NY
+LA  - English
+CN  - 379.156 .M16L
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Nebraska State Department of Education
+T1  - Partial lists of elementary school textbooks and supplementary aids
+Y1  - 1955
+D1  - 07/1955
+SP  - 25
+KW  - Textbooks
+KW  - Teaching aids
+PB  - Nebraska State Department of Education
+CY  - Lincoln, NE
+LA  - English
+CN  - 379.156 .N36s v. 1
+SC  - Nebraska
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Nebraska State Department of Education
+T1  - Partial lists of recent textbooks for basic high school courses
+Y1  - 1955
+D1  - 07/1955
+SP  - 18
+KW  - Textbooks
+PB  - Nebraska State Department of Education
+CY  - Lincoln, NE
+LA  - English
+CN  - 379.156 .N36s v. 2
+SC  - Nebraska
+G1  - High school
+ER  - 
+
+TY  - JOUR
+A2  - Oklahoma State Board of Education
+T1  - Official list of all textbooks
+Y1  - 1952
+D1  - 1952-1956
+KW  - Textbooks
+N1  - Holdings: 1952, 1953, 1955-56
+PB  - Oklahoma State Board of Education
+LA  - English
+CN  - 379.156 .O41o
+SC  - Oklahoma
+ER  - 
+
+TY  - JOUR
+A2  - Oregon State Department of Education
+T1  - State adopted textbooks for Oregon schools
+Y1  - 1955
+D1  - 1955-1957
+KW  - Bibliography
+KW  - Textbooks
+N1  - Frequency: Biennial; 1953-55-1957-59 ; suppl. no. 1 (1959-65)-no. 2 (1961-67).; 5 volumes ; 23 cm; Note(s): "A circular for school officers."; Responsibility: issued in compliance with law under direction of the State Board of Education by the State Department of Education ...
+PB  - Oregon State Department of Education
+CY  - Salem, OR
+LA  - English
+CN  - 379.156 .O66s
+SC  - Oregon
+ER  - 
+
+TY  - BOOK
+A2  - University of Pittsburgh. Textbook Depository Library Project
+T1  - Annotated bibliography on textbook writing, publication, evaluation, selection and use
+Y1  - 1965
+D1  - 12/1965
+SP  - 40
+KW  - Bibliography
+KW  - Textbooks
+PB  - University of Pittsburgh. Textbook Depository Library Project
+CY  - Pittsburgh, PA
+LA  - English
+CN  - 379.156 .P69a
+ER  - 
+
+TY  - BOOK
+A2  - University of Pittsburgh. Textbook Depository Library Project
+T1  - Guide to the use of textbook depository libraries and educational materials centers
+Y1  - 1967
+D1  - 09/1967
+SP  - 47
+KW  - Bibliography
+KW  - Textbooks
+PB  - University of Pittsburgh. Textbook Depository Library Project
+CY  - Pittsburgh, PA
+LA  - English
+CN  - 379.156 .P69g
+ER  - 
+
+TY  - BOOK
+A2  - University of Pittsburgh. Textbook Depository Library Project
+T1  - Supplement: list of titles suggested for placement in textbook depository libraries in selected countries: secondary education
+Y1  - 1966
+D1  - 08/1966
+SP  - 36
+KW  - Bibliography
+KW  - Textbooks
+PB  - University of Pittsburgh. Textbook Depository Library Project
+CY  - Pittsburgh, PA
+LA  - English
+CN  - 379.156 .P69L v. 1
+ER  - 
+
+TY  - BOOK
+A2  - Rochester (New York) City School District. Division of Instruction
+T1  - Basal textbooks, experimental textbooks, supplementary books : business education 1971-72
+Y1  - 1971
+D1  - 1971-1972
+SP  - 8
+KW  - Business education
+KW  - Textbooks
+KW  - Bibliography
+PB  - City School District, Division of Instruction, Department of Learning Resources
+CY  - Rochester, NY
+LA  - English
+CN  - 379.156 .R67b v. 1
+ER  - 
+
+TY  - BOOK
+A2  - Rochester (New York) City School District. Division of Instruction
+T1  - Basal textbooks, experimental textbooks, supplementary books : English 1971-72
+Y1  - 1971
+D1  - 1971-1972
+SP  - 21
+KW  - English language
+KW  - Textbooks
+KW  - Bibliography
+PB  - City School District, Division of Instruction, Department of Learning Resources
+CY  - Rochester, NY
+LA  - English
+CN  - 379.156 .R67b v. 2
+ER  - 
+
+TY  - BOOK
+A2  - Rochester (New York) City School District. Division of Instruction
+T1  - Basal textbooks, experimental textbooks, supplementary books : foreign languages 1971-72
+Y1  - 1971
+D1  - 1971-1972
+KW  - Languages
+KW  - Textbooks
+KW  - Bibliography
+PB  - City School District, Division of Instruction, Department of Learning Resources
+CY  - Rochester, NY
+LA  - English
+CN  - 379.156 .R67b v. 3
+ER  - 
+
+TY  - BOOK
+A2  - Rochester (New York) City School District. Division of Instruction
+T1  - Basal textbooks, experimental textbooks, supplementary books : health education 1971-72
+Y1  - 1971
+D1  - 1971-1972
+SP  - 3
+KW  - Health education
+KW  - Textbooks
+KW  - Bibliography
+PB  - City School District, Division of Instruction, Department of Learning Resources
+CY  - Rochester, NY
+LA  - English
+CN  - 379.156 .R67b v. 4
+ER  - 
+
+TY  - BOOK
+A2  - Rochester (New York) City School District. Division of Instruction
+T1  - Basal textbooks, experimental textbooks, supplementary books : home economics 1971-72
+Y1  - 1971
+D1  - 1971-1972
+SP  - 6
+KW  - Home economics
+KW  - Textbooks
+KW  - Bibliography
+PB  - City School District, Division of Instruction, Department of Learning Resources
+CY  - Rochester, NY
+LA  - English
+CN  - 379.156 .R67b v. 5
+ER  - 
+
+TY  - BOOK
+A2  - Rochester (New York) City School District. Division of Instruction
+T1  - Basal textbooks, experimental textbooks, supplementary books : industrial arts 1971-72
+Y1  - 1971
+D1  - 1971-1972
+SP  - 13
+KW  - Industrial arts
+KW  - Textbooks
+KW  - Bibliography
+PB  - City School District, Division of Instruction, Department of Learning Resources
+CY  - Rochester, NY
+LA  - English
+CN  - 379.156 .R67b v. 6
+ER  - 
+
+TY  - BOOK
+A2  - Rochester (New York) City School District. Division of Instruction
+T1  - Basal textbooks, experimental textbooks, supplementary books : mathematics 1971-72
+Y1  - 1971
+D1  - 1971-1972
+SP  - 7
+KW  - Health education
+KW  - Textbooks
+KW  - Bibliography
+PB  - City School District, Division of Instruction, Department of Learning Resources
+CY  - Rochester, NY
+LA  - English
+CN  - 379.156 .R67b v. 7
+ER  - 
+
+TY  - BOOK
+A2  - Rochester (New York) City School District. Division of Instruction
+T1  - Basal textbooks, experimental textbooks, supplementary books : music 1971-72
+Y1  - 1971
+D1  - 1971-1972
+KW  - Music
+KW  - Textbooks
+KW  - Bibliography
+PB  - City School District, Division of Instruction, Department of Learning Resources
+CY  - Rochester, NY
+LA  - English
+CN  - 379.156 .R67b v. 8
+ER  - 
+
+TY  - BOOK
+A2  - Rochester (New York) City School District. Division of Instruction
+T1  - Basal textbooks, experimental textbooks, supplementary books : science 1971-72
+Y1  - 1971
+D1  - 1971-1972
+SP  - 6
+KW  - Science
+KW  - Textbooks
+KW  - Bibliography
+PB  - City School District, Division of Instruction, Department of Learning Resources
+CY  - Rochester, NY
+LA  - English
+CN  - 379.156 .R67b v. 9
+ER  - 
+
+TY  - BOOK
+A2  - Rochester (New York) City School District. Division of Instruction
+T1  - Basal textbooks, experimental textbooks, supplementary books : special education 1971-72
+Y1  - 1971
+D1  - 1971-1972
+SP  - 22
+KW  - Special education
+KW  - Textbooks
+KW  - Bibliography
+PB  - City School District, Division of Instruction, Department of Learning Resources
+CY  - Rochester, NY
+LA  - English
+CN  - 379.156 .R67b v. 10
+ER  - 
+
+TY  - BOOK
+A2  - Rochester (New York) City School District. Division of Instruction
+T1  - Basal textbooks, experimental textbooks, supplementary books : social studies 1971-72
+Y1  - 1971
+D1  - 1971-1972
+SP  - 10
+KW  - Social sciences
+KW  - Textbooks
+KW  - Bibliography
+PB  - City School District, Division of Instruction, Department of Learning Resources
+CY  - Rochester, NY
+LA  - English
+CN  - 379.156 .R67b v. 11
+ER  - 
+
+TY  - JOUR
+A2  - South Carolina State Department of Education
+T1  - A complete list of adopted textbooks, including workbooks, for use in South Carolina public schools, 1956-1958 (including approved workbooks)
+Y1  - 1956
+D1  - 1956-1958
+KW  - Textbooks
+KW  - Bibliography
+N1  - Frequency: Annual; Former: Biennial; Ceased with 1970/71.; volumes ; 23 cm; Note(s): Title varies slightly.; Responsibility: State Dept. of Education.
+PB  - South Carolina State Department of Education
+CY  - Columbia, SC
+LA  - English
+CN  - 379.156 .S72c
+SC  - South Carolina
+ER  - 
+
+TY  - JOUR
+A2  - Texas Education Agency
+T1  - Catalogue of current-adoption textbooks
+Y1  - 1966
+D1  - 1966-1977
+KW  - Textbooks
+KW  - Bibliography
+N1  - Frequency: Annual; Holdings: 1966-1967, 1967-68, 1968-69, 1969-70, 1971-72, 1972-73, 1973-74, 1974-75, 1975-76, 1976-77.
+T2  - Bulletin (Texas Education Agency)
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.156 .T35c
+SC  - Texas
+ER  - 
+
+TY  - JOUR
+A2  - Texas State Department of Education
+T1  - List of current adoption textbooks, 1941-1942
+Y1  - 1941
+D1  - 1941-1942
+SP  - 19
+KW  - Textbooks
+KW  - Bibliography
+N1  - Frequency: Annual; -1953/54.; volumes ; 23 cm; Note(s): Issued by: Texas State Department of Education, -1951; Texas Education Agency, 1952-1954.
+T2  - Bulletin / Texas Education Agency.; Variation: Bulletin (Texas Education Agency)
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.156 .T35b
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - Tennessee State Textbook Commission
+T1  - Tennessee official list of textbooks with wholesale prices, retail prices and copyright dates
+Y1  - 1958
+D1  - 1958
+SP  - 76
+KW  - Textbooks
+KW  - Bibliography
+PB  - Tennessee State Textbook Commission
+LA  - English
+CN  - 379.156 .T29o
+SC  - Tennessee
+ER  - 
+
+TY  - BOOK
+A1  - Bleyer, Willard Grosvenor
+T1  - The high school course in English
+Y1  - 1907
+D1  - 1907
+KW  - English language
+KW  - English literature
+N1  - 69 p. 19 cm.; Note(s): Bibliography: p. 65-69.; Responsibility: by Willard G. Bleyer ...
+T2  - Bulletin of the University of Wisconsin
+V1  - 416
+ED  - Rev.
+PB  - University of Wisconsin
+CY  - Madison, WI
+LA  - English
+CN  - 379.171 .W811
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Kansas State Highway Commission of Kansas
+T1  - The laws and regulations governing school pupil transportation in Kansas
+Y1  - 1951
+D1  - 07/1951
+SP  - 34
+KW  - School buses
+KW  - Law and legislation
+PB  - Kansas State Highway Commission of Kansas
+CY  - Topeka, KS
+LA  - English
+CN  - 379.175 .K16L
+SC  - Kansas
+ER  - 
+
+TY  - BOOK
+A2  - Tulare County (California) Superintendent of Schools
+T1  - Supplementary textbook list
+Y1  - 1958
+D1  - 05/1958
+SP  - 82
+KW  - Textbooks
+KW  - Bibliography
+N1  - 82 p. ; 29 cm.; Note(s): Includes bibliographical references.; Responsibility: Tulare County Superintendent of Schools, Instructional Services Division, Library Services Division.
+ED  - 3d.
+PB  - Tulare County (California) Superintendent of Schools
+CY  - Visalia, CA
+LA  - English
+CN  - 379.156 .T91s 1958
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Tulare County (California) Superintendent of Schools
+T1  - Supplementary textbook list
+Y1  - 1956
+D1  - 05/1956
+SP  - 56
+KW  - Textbooks
+KW  - Bibliography
+N1  - 82 p. ; 29 cm.; Note(s): Includes bibliographical references.; Responsibility: Tulare County Superintendent of Schools, Instructional Services Division, Library Services Division.
+ED  - 2d.
+PB  - Tulare County (California) Superintendent of Schools
+CY  - Visalia, CA
+LA  - English
+CN  - 379.156 .T91s 1956
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Wilmington (Delaware) Public Schools
+T1  - Survey of integrated text books and library books in the Wilmington public schools
+Y1  - 1967
+D1  - 02/1967
+SP  - 26
+KW  - Textbooks
+KW  - Bibliography
+KW  - Library materials
+PB  - Wilmington (Delaware) Public Schools
+CY  - Wilmington, DE
+LA  - English
+CN  - 379.156 .W74s
+SC  - Delaware
+ER  - 
+
+TY  - BOOK
+A2  - Aberdeen (Washington) Public Schools
+T1  - Reporting pupil progress : parent-teacher conferences : a manual of information and instructions covering the reporting program as developed and practiced in the Aberdeen elementary schools
+Y1  - 1954
+D1  - 1954
+SP  - 59
+KW  - School reports
+KW  - Parent-teacher conferences
+N1  - v, 59 leaves ; 28 cm.; Responsibility: Aberdeen Public Schools.
+PB  - Aberdeen (Washington) Public Schools
+CY  - Aberdeen, WA
+LA  - English
+CN  - 379.2 .A14r
+SC  - Washington
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Louisiana State Department of Education
+T1  - Handbook for school bus operators and school officials
+Y1  - 1949
+D1  - 1949
+SP  - 18
+KW  - School buses
+N1  - 1949.; 1 volume ; 28 cm; Responsibility: Louisiana, State Dept. of Public Education.
+T2  - Bulletin (Louisiana State Department of Education)
+V1  - 684
+PB  - Louisiana State Department of Education
+CY  - Baton Rouge, LA
+LA  - English
+CN  - 379.175 .L88h
+SC  - Louisiana
+ER  - 
+
+TY  - BOOK
+A2  - North Dakota State Department of Public Instruction
+T1  - North Dakota school bus standards
+Y1  - 1947
+D1  - 07/1947
+SP  - 37
+KW  - School buses
+N1  - 37 pages : plans ; 23 cm; Note(s): "July, 1947."; Responsibility: prepared and issued under the direction of the Department of Public Instruction ; in cooperation with the State Highway Commissioner.
+PB  - North Dakota State Department of Public Instruction
+CY  - Bismarck, ND
+LA  - English
+CN  - 379.175 .N86s
+SC  - North Dakota
+ER  - 
+
+TY  - BOOK
+A2  - Albany (California) Unified School District
+T1  - Progress report
+Y1  - 1953
+D1  - 1953?
+KW  - Grading and marking
+PB  - Albany (California) Unified School District
+CY  - Albany, CA
+LA  - English
+CN  - 379.2 .A32p
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Albany (California) Unified School District
+T1  - What? No report cards? Reporting pupil progress through parent conferences
+Y1  - 1953
+D1  - 09/1953
+SP  - 11
+KW  - Grading and marking
+PB  - Albany (California) Unified School District
+CY  - Albany, CA
+LA  - English
+CN  - 379.2 .A32p
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Amador (California) County Schools
+T1  - Kindergarten progress report
+KW  - Grading and marking
+PB  - Amador (California) County Schools
+CY  - Amador, CA
+LA  - English
+CN  - 379.2 .A49k
+SC  - California
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - Anaheim (California) City Schools
+T1  - Reporting to parents
+KW  - Grading and marking
+PB  - Anaheim (California) City Schools
+CY  - Anaheim, CA
+LA  - English
+CN  - 379.2 .A53r
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Arlington (Virginia) Public Schools
+T1  - Teachers' guide for reporting to parents in the elementary grades
+Y1  - 1956
+D1  - 1956
+SP  - 19
+KW  - Grading and marking
+PB  - Arlington (Virginia) Public Schools
+CY  - Arlington, VA
+LA  - English
+CN  - 379.2 .A72t
+SC  - Virginia
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Barrington (Illinois) Elementary Schools
+T1  - Handbook of reporting practices for parents and teachers
+SP  - 8
+KW  - Grading and marking
+PB  - Barrington (Illinois) Elementary Schools
+CY  - Barrington, IL
+LA  - English
+CN  - 379.2 .B26h
+SC  - Illinois
+ER  - 
+
+TY  - BOOK
+A2  - Caddo Parish (Louisiana) Schools
+T1  - The elementary report card: a resource bulletin for elementary school teachers
+SP  - 22
+KW  - Grading and marking
+PB  - Caddo Parish (Louisiana) Schools
+CY  - Shreveport, LA
+LA  - English
+CN  - 379.2 .C12e
+SC  - Louisiana
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Cleveland (Ohio) Public Schools. Elementary Division
+T1  - Child progress reports, a guide for teachers
+Y1  - 1952
+D1  - 09/1952
+SP  - 15
+KW  - Grading and marking
+PB  - Cleveland (Ohio) Board of Education
+CY  - Cleveland, OH
+LA  - English
+CN  - 379.2 .C63c
+SC  - Ohio
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Covina-Valley (California) Unified School District
+T1  - Grading standards and practices
+Y1  - 1962
+D1  - 08/1962
+SP  - 45
+KW  - Grading and marking
+PB  - Covina-Valley (California) Unified School District
+LA  - English
+CN  - 379.2 .C87g
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Denver (Colorado) Public Schools. Department of Public Personnel
+T1  - Manual, cumulative record, kindergarten - grade 12
+Y1  - 1953
+D1  - 08/1963
+SP  - 17
+KW  - School records and correspondence
+N1  - 17 leaves : illustrations ; 28 cm; Note(s): Cover title.; Other Titles: Cumulative record
+PB  - Denver (Colorado) Public Schools. Department of Public Personnel
+CY  - Denver, CO
+LA  - English
+CN  - 379.2 .D41c
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A2  - Denver (Colorado) Public Schools
+T1  - Report to parents, grades 1 and 2
+Y1  - 1952
+D1  - 1952
+KW  - Grading and marking
+PB  - Denver (Colorado) Public Schools
+CY  - Denver, CO
+LA  - English
+CN  - 379.2 .D41r
+SC  - Colorado
+G2  - 1st
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A2  - Inglewood (California) Unified School District
+T1  - Report to parents for kindergarten
+Y1  - 1954
+D1  - 09/1954
+KW  - Grading and marking
+PB  - Inglewood (California) Unified School District
+CY  - Inglewood, CA
+LA  - English
+CN  - 379.2 .I51p
+SC  - California
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - Inglewood (California) Unified School District
+T1  - Report to parents for grades 1, 2 and 3
+Y1  - 1954
+D1  - 09/1954
+KW  - Grading and marking
+PB  - Inglewood (California) Unified School District
+CY  - Inglewood, CA
+LA  - English
+CN  - 379.2 .I51p
+SC  - California
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - Inglewood (California) Unified School District
+T1  - Report to parents for grades 4, 5 and 6
+Y1  - 1954
+D1  - 09/1954
+KW  - Grading and marking
+PB  - Inglewood (California) Unified School District
+CY  - Inglewood, CA
+LA  - English
+CN  - 379.2 .I51p
+SC  - California
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Inglewood (California) Unified School District
+T1  - Report to parents for grades 7 and 8
+Y1  - 1954
+D1  - 09/1954
+KW  - Grading and marking
+PB  - Inglewood (California) Unified School District
+CY  - Inglewood, CA
+LA  - English
+CN  - 379.2 .I51p
+SC  - California
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Denver (Colorado) Public Schools
+T1  - Report to parents, grades 3-4-5-6
+Y1  - 1954
+D1  - 1954
+KW  - Grading and marking
+PB  - Denver (Colorado) Public Schools
+CY  - Denver, CO
+LA  - English
+CN  - 379.2 .D41r
+SC  - Colorado
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Fresno County (California) Schools
+T1  - Cumulative record card
+KW  - Grading and marking
+PB  - Fresno County (California) Schools
+CY  - Fresno, CA
+LA  - English
+CN  - 379.2 .F88c
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Inyo (California) County Schools
+T1  - Experimental report to parents
+KW  - Grading and marking
+PB  - Inyo (California) County Schools
+LA  - English
+CN  - 379.2 .I63e
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Kern (California) County Schools
+T1  - Kern County cumulative guidance record
+KW  - Grading and marking
+PB  - Kern (California) County Schools
+LA  - English
+CN  - 379.2 .K39c
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Lassen (California) County Schools
+T1  - California cumulative guidance record for elementary schools
+KW  - Grading and marking
+PB  - Lassen (California) County Schools
+CY  - Susanville, CA
+LA  - English
+CN  - 379.2 .L34c
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Long Beach (California) Unified School District
+T1  - Manual for preparing the elementary progress report
+Y1  - 1966
+D1  - 1966
+SP  - 13
+KW  - Grading and marking
+N1  - 13 p. ; 28 cm.; Responsibility: developed by a committee of parents, teachers, administrators, and school patrons of the Long Beach Unified School District under the supervision of Helene L. Rose.
+PB  - Long Beach (California) Unified School District. Office of Curriculum Development, Division of Instruction
+CY  - Long Beach, CA
+LA  - English
+CN  - 379.2 .L84m
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District
+T1  - Conferencing : an approach to reporting pupil progress : guidelines for teachers in elementary schools, an instructional bulletin
+Y1  - 1970
+D1  - 1970
+SP  - 22
+KW  - Parent-teacher conferences
+KW  - Home and school
+AB  - Teacher preparation -- Conducting the conference -- Conducting the group conference -- Conference record sheets, kindergarten : kindergarten conference sheet (narrative) : kindergarten conference sheet (checklist) -- Conference record sheets, grades one and two : conference record sheet, grades one and two (narrative) : conference record sheet, grades one and two (checklist).
+N1  - v; forms ; 21 cm.; Note(s): Cover title./ Publication no. EC-342./ Includes index.; Other Titles: Approach to reporting pupil progress; Guidelines for teachers in elementary schools, an instructional bulletin
+PB  - Los Angeles (California) City Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 379.2 .L87c
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles County (California) Superintendent of Schools
+T1  - Outline for special study
+Y1  - 1946
+D1  - 10/1946
+KW  - Guidance
+KW  - Counseling
+PB  - Los Angeles County (California) Superintendent of Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 379.2 .L87o
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City Schools
+T1  - Criteria for marking in junior and senior high schools
+Y1  - 1958
+D1  - 11/1958
+KW  - Grading and marking
+PB  - Los Angeles (California) City Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 379.2 .L879c
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Manhasset (New York) Public Schools
+T1  - Reporting to parents
+Y1  - 1960
+D1  - 11/1960
+SP  - 4
+KW  - Grading and marking
+PB  - Manhasset (New York) Public Schools
+CY  - Manhasset, NY
+LA  - English
+CN  - 379.2 .M27r
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - Minneapolis (Minnesota) Public Schools
+T1  - Progress report for kindergarten
+Y1  - 1955
+D1  - 08/1955
+KW  - Grading and marking
+PB  - Minneapolis (Minnesota) Public Schools
+CY  - Minneapolis, MN
+LA  - English
+CN  - 379.2 .M66p
+SC  - Minnesota
+G2  - Kindergarten
+ER  -
+
+TY  - BOOK
+A2  - Minneapolis (Minnesota) Public Schools
+T1  - Progress report for grade one
+Y1  - 1955
+D1  - 08/1955
+KW  - Grading and marking
+PB  - Minneapolis (Minnesota) Public Schools
+CY  - Minneapolis, MN
+LA  - English
+CN  - 379.2 .M66p
+SC  - Minnesota
+G2  - 1st
+ER  -
+
+TY  - BOOK
+A2  - Minneapolis (Minnesota) Public Schools
+T1  - Progress report for grades 2 and 3
+Y1  - 1955
+D1  - 08/1955
+KW  - Grading and marking
+PB  - Minneapolis (Minnesota) Public Schools
+CY  - Minneapolis, MN
+LA  - English
+CN  - 379.2 .M66p
+SC  - Minnesota
+G2  - 2nd
+G2  - 3rd
+ER  -
+
+TY  - BOOK
+A2  - Minneapolis (Minnesota) Public Schools
+T1  - Progress report for grades 4,5,6
+Y1  - 1955
+D1  - 08/1955
+KW  - Grading and marking
+PB  - Minneapolis (Minnesota) Public Schools
+CY  - Minneapolis, MN
+LA  - English
+CN  - 379.2 .M66p
+SC  - Minnesota
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  -
+
+TY  - BOOK
+A2  - Monterey County (California) Schools
+T1  - Parent teacher conferences for reporting pupil progress: a handbook
+Y1  - 1959
+D1  - 1959
+SP  - 31
+KW  - Parent-teacher conferences
+PB  - Monterey County (California) Schools
+LA  - English
+CN  - 379.2 .M77p
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Napa County (California) Schools
+T1  - Report to parents, grades 1-2
+KW  - Grading and marking
+PB  - Napa County (California) Schools
+CY  - Napa, CA
+LA  - English
+CN  - 379.2 .N19r
+SC  - California
+G2  - 1st
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A2  - Napa County (California) Schools
+T1  - Report to parents, grades 3-4-5-6-7-8
+KW  - Grading and marking
+PB  - Napa County (California) Schools
+CY  - Napa, CA
+LA  - English
+CN  - 379.2 .N19r
+SC  - California
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Niagara Falls (New York) Department of Education
+T1  - Kindergarten report card
+KW  - Grading and marking
+PB  - Niagara Falls (New York) Department of Education
+CY  - Niagara Falls, NY
+LA  - English
+CN  - 379.2 .N57r
+SC  - New York
+G2  - Kindergarten
+ER
+
+TY  - BOOK
+A2  - Niagara Falls (New York) Department of Education
+T1  - Progress report: primary - first grade
+KW  - Grading and marking
+PB  - Niagara Falls (New York) Department of Education
+CY  - Niagara Falls, NY
+LA  - English
+CN  - 379.2 .N57r
+SC  - New York
+G2  - 1st
+ER
+
+TY  - BOOK
+A2  - Niagara Falls (New York) Department of Education
+T1  - Progress report: primary - second and third grades
+KW  - Grading and marking
+PB  - Niagara Falls (New York) Department of Education
+CY  - Niagara Falls, NY
+LA  - English
+CN  - 379.2 .N57r
+SC  - New York
+G2  - 2nd
+G2  - 3rd
+ER
+
+TY  - BOOK
+A2  - Niagara Falls (New York) Department of Education
+T1  - Progress report: intermediate grades - fourth, fifth and sixth
+KW  - Grading and marking
+PB  - Niagara Falls (New York) Department of Education
+CY  - Niagara Falls, NY
+LA  - English
+CN  - 379.2 .N57r
+SC  - New York
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER
+
+TY  - BOOK
+A2  - Niagara Falls (New York) Department of Education
+T1  - Teacher's guide in marking report cards
+KW  - Grading and marking
+PB  - Niagara Falls (New York) Department of Education
+CY  - Niagara Falls, NY
+LA  - English
+CN  - 379.2 .N57r
+SC  - New York
+ER
+
+TY  - BOOK
+A2  - North Carolina State Department of Public Instruction
+T1  - Child accounting and school attendance
+Y1  - 1954
+SP  - 55
+KW  - Compulsory education
+KW  - School attendance
+N1  - forms ; 23 cm.; 
+T2  - Publication (North Carolina. Department of Public Instruction)
+V1  - 333
+PB  - North Carolina State Department of Public Instruction
+CY  - Raleigh, NC
+LA  - English
+CN  - 379.2 .N86c
+SC  - North Carolina
+ER  - 
+
+TY  - BOOK
+A1  - Leavitt, Jerome
+T1  - Evaluating and reporting pupil progress
+Y1  - 1969
+D1  - 08/1969
+SP  - 16
+KW  - Grading and marking
+T2  - University of Oregon. College of Education. Curriculum Bulletin
+V1  - 25
+IS  - 305
+PB  - University of Oregon. College of Education
+CY  - Eugene, OR
+LA  - English
+CN  - 379.2 .O67e
+ER  - 
+
+TY  - BOOK
+A1  - Anastasiow, Nicholas J.
+T1  - Evaluation of the elementary school report card
+Y1  - 1963
+D1  - 11/1963
+SP  - 6
+KW  - Grading and marking
+PB  - Palo Alto (California) Unified School District
+CY  - Palo Alto, CA
+LA  - English
+CN  - 379.2 .P18e
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Anastasiow, Nicholas J.
+T1  - Experimental use of a modified elementary report card
+Y1  - 1963
+D1  - 11/1963
+SP  - 9
+KW  - Grading and marking
+PB  - Palo Alto (California) Unified School District
+CY  - Palo Alto, CA
+LA  - English
+CN  - 379.2 .P18e
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Gelatt, H. B.
+A2  - Palo Alto (California) Unified School District. Elementary Schools
+T1  - Parent-teacher conference guide
+Y1  - 1958
+D1  - 10/1958
+SP  - 18
+KW  - Parent-teacher conferences
+PB  - Palo Alto (California) Unified School District
+CY  - Palo Alto, CA
+LA  - English
+CN  - 379.2 .P18p
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Paterson (New Jersey) Board of Education
+T1  - Marking manual for elementary schools
+Y1  - 1958
+D1  - 1958-1959
+SP  - 25
+KW  - Grading and marking
+PB  - Paterson (New Jersey) Board of Education
+CY  - Paterson, NJ
+LA  - English
+CN  - 379.2 .P29m
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Riverside (California) City Schools
+T1  - Reporting to parents: an elementary teachers guide
+Y1  - 1958
+D1  - 1958-1959
+SP  - 48
+KW  - Grading and marking
+PB  - Riverside (California) City Schools
+CY  - Riverside, CA
+LA  - English
+CN  - 379.2 .R62r
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Riverside (California) City Schools
+T1  - Grades 1-2 [progress report]
+KW  - Grading and marking
+PB  - Riverside (California) City Schools
+CY  - Riverside, CA
+LA  - English
+CN  - 379.2 .R62t
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - San Diego County (California) Schools
+T1  - Report to parents
+Y1  - 1951
+D1  - 1951
+KW  - Grading and marking
+PB  - San Diego County (California) Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 379.2 .S15r
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A1  - Cooley, Robert
+A1  - Pappin, Malcolm C.
+T1  - Reporting and recording pupil progress in the elementary school : a guide for conferencing on pupil progress, pupil growth reports, record keeping
+Y1  - 1972
+D1  - 1972
+SP  - 65
+KW  - Grading and marking
+KW  - Parent-teacher conferences
+KW  - Student records
+N1  - vi; ill., forms ; 28 cm.; Note(s): Unedited./ Stock No. 41-R-8800.; Responsibility: prepared by Robert Cooley and Malcolm C Pappin.
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 379.2 .S19r
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - San Francisco (California) Unified School District
+T1  - Progress report for grades one, two, and three
+Y1  - 1955
+D1  - 07/1955
+KW  - Grading and marking
+PB  - San Francisco (California) Unified School District
+CY  - San Francisco, CA
+LA  - English
+CN  - 379.2 .S195p
+SC  - California
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+ER
+
+TY  - BOOK
+A2  - San Joaquin County (California) Schools
+T1  - Tentative teachers' guide to reporting to parents
+Y1  - 1952
+D1  - 09/1952
+SP  - 29
+KW  - Grading and marking
+KW  - Parent-teacher conferences
+KW  - Student records
+PB  - San Joaquin County (California) Schools
+LA  - English
+CN  - 379.2 .S195t
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - San Luis Obispo County (California) Schools
+T1  - Criteria for cumulative guidance records
+KW  - Guidance
+PB  - San Luis Obispo County (California) Schools
+CY  - San Luis Obispo, CA
+LA  - English
+CN  - 379.2 .S196c
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - South Huntington (New York) Schools
+T1  - Teacher's guide for reporting pupil progress
+KW  - Grading and marking
+KW  - Parent-teacher conferences
+KW  - Student records
+PB  - South Huntington (New York) Schools
+CY  - Huntington Station, NY
+LA  - English
+CN  - 379.2 .S72t
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - Tulare County (California) Schools
+T1  - Pupil growth record
+KW  - Grading and marking
+KW  - Student records
+PB  - Tulare County (California) Schools
+LA  - English
+CN  - 379.2 .T91p
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Ventura County (California) Schools
+T1  - Plan for reporting to parents
+KW  - Grading and marking
+KW  - Parent-teacher conferences
+KW  - Student records
+PB  - Ventura County (California) Schools
+LA  - English
+CN  - 379.2 .V44p
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Chula Vista (California) City School District
+T1  - The spirit of Christmas expressed in art activities
+Y1  - 1962
+D1  - 11/1962
+KW  - Art
+KW  - Christmas
+N1  - ill. ; 28 cm.; Note(s): Includes bibliographical references.; Other Titles: Christmas expressed in art activities.
+PB  - Chula Vista (California) City School District
+CY  - Chula Vista, CA
+LA  - English
+CN  - 390 .C55s
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Glasgow, Noel D.
+A1  - Edwards, Dorothy A.
+A2  - California State Department of Education
+T1  - Courses offered by California private schools
+Y1  - 1965
+D1  - 07/1965
+SP  - 59
+KW  - Vocational education
+N1  - 59 pages 23 cm; Responsibility: edited by Noel D. Glasgow and Dorothy A. Edwards.
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 379.74 .C15c
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - New York State University. Bureau of Field Financial Services
+T1  - Insurance
+Y1  - 1956
+D1  - 1956
+SP  - 96
+KW  - Insurance
+N1  - ill. ; 26 cm.
+T2  - School business management handbook
+V1  - 2
+PB  - New York State University. Bureau of Field Financial Services
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N43b v. 2
+ER  - 
+
+TY  - BOOK
+A2  - New York State University. Bureau of Field Financial Services
+T1  - Budget
+Y1  - 1956
+D1  - 1956
+SP  - 212
+KW  - Budgets
+N1  - ill. ; 26 cm.
+T2  - School business management handbook
+V1  - 3
+PB  - New York State University. Bureau of Field Financial Services
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N43b v. 3
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools
+T1  - World trade and Point four
+Y1  - 1950
+D1  - 09/1950
+SP  - 42
+KW  - Social sciences
+N1  - 42 leaves : ill. ; 29 cm.; Note(s): Cover title./ "Much of the credit for the initiation of this project belongs to the Joint Council on Economic Education."--Introd./ Includes bibliographical references : l. 37-42.
+PB  - Philadelphia (Pennsylvania) Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 382 .P54w
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Burbank (California) Unified School District
+T1  - Unit plan for the post office, grade 2 - 3
+Y1  - 1959
+D1  - 09/1959
+KW  - Social sciences
+PB  - Burbank (California) Unified School District
+CY  - Burbank, CA
+LA  - English
+CN  - 383 .B94p
+SC  - California
+G2  - 2
+G2  - 3
+ER
+
+TY  - BOOK
+A2  - Pasadena (California) City Schools
+T1  - Carrying the mail
+Y1  - 1953
+D1  - 09/1953
+SP  - 5
+KW  - Teaching aids
+PB  - Pasadena (California) City Schools
+CY  - Pasadena, CA
+LA  - English
+CN  - 383 .P27c
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Division of Educational Management Services
+T1  - Accounting & reporting
+Y1  - 1956
+D1  - 1956
+SP  - 144
+KW  - Schools
+KW  - Accounting
+KW  - School reports
+N1  - 144 p. illus. 26 cm.; Note(s): Issued by the division under an earlier name: Bureau of Field Financial Services.
+T2  - University of the State of New York.; Division of Educational Management Services.; School business management handbook
+V1  - 4
+PB  - University of the State of New York. Division of Educational Management Services
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N43b v. 4
+ER  - 
+
+TY  - BOOK
+A2  - Garrett County (Maryland) Board of Education
+T1  - Christmas bulletin
+Y1  - 1954
+D1  - 12/1954
+SP  - 89
+KW  - Christmas
+PB  - Garrett County (Maryland) Board of Education
+LA  - English
+CN  - 390 .G23c
+SC  - Maryland
+ER  - 
+
+TY  - BOOK
+A2  - Hallmark Cards
+T1  - May Day celebrations for children
+SP  - 20
+KW  - Holidays
+PB  - Hallmark Cards
+LA  - English
+CN  - 390 .H19m
+ER  - 
+
+TY  - BOOK
+A1  - Hess, Helen
+T1  - Christmas unit
+Y1  - 1958
+D1  - 02/1958
+KW  - Christmas
+KW  - Holidays
+PB  - Jefferson School
+CY  - Menasha, WI
+LA  - English
+CN  - 390 .M53c
+SC  - Wisconsin
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A1  - Hess, Helen
+T1  - Seasons
+Y1  - 1958
+D1  - 03/1958
+KW  - Seasons
+PB  - Jefferson School
+CY  - Menasha, WI
+LA  - English
+CN  - 390 .M53c
+SC  - Wisconsin
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Miller, Bruce
+T1  - Let's celebrate a holiday! [Sources of free materials on holidays, festivals, and special occasions]
+Y1  - 1956
+D1  - 1956
+SP  - 24
+KW  - Holidays
+N1  - 24 p. 24 cm.
+PB  - Riverside (California) Superintendent of Schools
+CY  - Riverside, CA
+LA  - English
+CN  - 390 .M64L
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Milwaukee (Wisconsin) Public Schools
+T1  - Social studies in the primary school
+Y1  - 1952
+D1  - 1952
+SP  - 23
+KW  - Social sciences
+AB  - [v. 1]. Holiday celebrations as learning experiences.
+N1  - v. ; 28 cm.; Note(s): Cover title./ Includes bibliographies.
+T2  - Milwaukee. Public Schools. Curriculum bulletin
+V1  - 9
+IS  - 7
+PB  - Milwaukee (Wisconsin) Public Schools
+CY  - Milwaukee, WI
+LA  - English
+CN  - 390 .M66h
+SC  - Wisconsin
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Modesto (California) City Schools
+T1  - Living with children at Christmas time through art, music and language
+Y1  - 1953
+D1  - 1953
+SP  - 35
+KW  - Christmas
+KW  - Holidays
+KW  - Art
+KW  - Music
+KW  - English language
+PB  - Modesto (California) City Schools
+CY  - Modesto, CA
+LA  - English
+CN  - 390 .M69L
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Dole, Dorothy
+A1  - Curnow, Ethel
+A1  - Kelly, Gladys
+A1  - Ridge, Winifred
+T1  - Primary social studies: our holidays
+SP  - 17
+KW  - Social sciences
+KW  - Holidays
+PB  - Phoenix (Arizona) Elementary Schools
+CY  - Phoenix, AZ
+LA  - English
+CN  - 390 .P57o
+SC  - Arizona
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Racine (Wisconsin) Unified School District
+T1  - Science unit
+Y1  - 1961
+D1  - 09/1961
+KW  - Science
+PB  - Racine (Wisconsin) Unified School District
+CY  - Racine, WI
+LA  - English
+CN  - 390 .R12s
+SC  - Wisconsin
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - Yolo (California) County Schools
+T1  - Peace on earth
+Y1  - 1953
+D1  - 12/1953
+KW  - Christmas
+KW  - Holidays
+PB  - Yolo (California) County Schools
+LA  - English
+CN  - 390 .Y54p
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - United States George Washington Bicentennial Commission
+T1  - George Washington play and pageant costume book ..
+Y1  - 1931
+D1  - 1931
+SP  - 24
+KW  - Children's costumes
+KW  - Washington, George, 1732-1799
+KW  - Drama
+AB  - pt. I. costume in the time of George Washington.--pt. II. Military uniforms and stage properties.
+N1  - 24 p. illus. 31 cm.; Note(s): "2nd ed."/ "Authorities consulted": p. 24.
+PB  - United States George Washington bicentennial commission
+CY  - Washington, D.C
+LA  - English
+CN  - 391.0973 .U58f
+ER  - 

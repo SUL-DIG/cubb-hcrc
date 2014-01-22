@@ -1,0 +1,1168 @@
+
+
+
+
+TY  - BOOK
+A1  - Cash, Rowley Vincent
+A1  - Coburn, Harold
+A1  - Kuhnly, Lucille E.
+A1  - Hall, Philip A.
+T1  - Selected science books for secondary schools, a bibliography
+Y1  - 1958
+D1  - 1958
+SP  - 116
+KW  - Bibliography
+KW  - Science
+N1  - 116 p. 23 cm.; Responsibility: compiled by R. Vincent Cash ... [et al.].
+PB  - Connecticut Science Teachers Association
+CY  - New Britain, CT
+LA  - English
+CN  - 519 .C748s
+SC  - Connecticut
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Keirstead, Ralph
+A2  - Connecticut State Department of Education
+T1  - Science education, grades 7-12
+Y1  - 1958
+D1  - 09/1958
+SP  - 32
+KW  - Science
+T2  - Connecticut State Department of Education. Curriculum bulletin series (tentative)
+V1  - 12
+PB  - Connecticut State Department of Education
+CY  - Hartford, CT
+LA  - English
+CN  - 519 .C749sc
+SC  - Connecticut
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A1  - Stolberg, Robert
+A1  - Durkin, Mary C.
+A1  - Zumwalt, Gladys K.
+A2  - Contra Costa County (California) Schools Department
+T1  - Elementary science; suggested materials for kindergarten
+Y1  - 1951
+D1  - 1951
+SP  - 26
+KW  - Science
+PB  - Contra Costa County (California) Schools Department
+CY  - Martinez, CA
+LA  - English
+CN  - 519 .C76e v. 1
+SC  - California
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A1  - Stolberg, Robert
+A1  - Durkin, Mary C.
+A1  - Zumwalt, Gladys K.
+A2  - Contra Costa County (California) Schools Department
+T1  - Elementary science; suggested materials for first grade
+Y1  - 1951
+D1  - 1951
+SP  - 37
+KW  - Science
+PB  - Contra Costa County (California) Schools Department
+CY  - Martinez, CA
+LA  - English
+CN  - 519 .C76e v. 2
+SC  - California
+G2  - 1st
+ER  - 
+
+TY  - BOOK
+A1  - Stolberg, Robert
+A1  - Durkin, Mary C.
+A1  - Zumwalt, Gladys K.
+A2  - Contra Costa County (California) Schools Department
+T1  - Elementary science; suggested materials for second grade
+Y1  - 1951
+D1  - 1951
+SP  - 47
+KW  - Science
+PB  - Contra Costa County (California) Schools Department
+CY  - Martinez, CA
+LA  - English
+CN  - 519 .C76e v. 3
+SC  - California
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A1  - Stolberg, Robert
+A1  - Durkin, Mary C.
+A1  - Zumwalt, Gladys K.
+A2  - Contra Costa County (California) Schools Department
+T1  - Elementary science; suggested materials for third grade
+Y1  - 1951
+D1  - 1951
+SP  - 73
+KW  - Science
+PB  - Contra Costa County (California) Schools Department
+CY  - Martinez, CA
+LA  - English
+CN  - 519 .C76e v. 4
+SC  - California
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A1  - Stolberg, Robert
+A1  - Durkin, Mary C.
+A1  - Zumwalt, Gladys K.
+A2  - Contra Costa County (California) Schools Department
+T1  - Elementary science; suggested materials for fourth grade
+Y1  - 1952
+D1  - 1952
+SP  - 69
+KW  - Science
+PB  - Contra Costa County (California) Schools Department
+CY  - Martinez, CA
+LA  - English
+CN  - 519 .C76e v. 5
+SC  - California
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A1  - Stolberg, Robert
+A1  - Durkin, Mary C.
+A1  - Zumwalt, Gladys K.
+A2  - Contra Costa County (California) Schools Department
+T1  - Elementary science; suggested materials for sixth grade
+Y1  - 1952
+D1  - 1952
+SP  - 84
+KW  - Science
+PB  - Contra Costa County (California) Schools Department
+CY  - Martinez, CA
+LA  - English
+CN  - 519 .C76e v. 7
+SC  - California
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A1  - Stolberg, Robert
+A1  - McKimmey, Mark T.
+A2  - Contra Costa County (California) Schools Department
+T1  - Elementary science; suggested materials for seventh grade
+Y1  - 1953
+D1  - 10/1953
+SP  - 196
+KW  - Science
+PB  - Contra Costa County (California) Schools Department
+CY  - Martinez, CA
+LA  - English
+CN  - 519 .C76e v. 8
+SC  - California
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A2  - Columbus (Ohio) Public Schools
+T1  - Curriculum bulletin: ninth grade: general science
+Y1  - 1959
+D1  - 1959
+SP  - 96
+KW  - Science
+PB  - Columbus (Ohio) Public Schools
+CY  - Columbus, OH
+LA  - English
+CN  - 519 .C72g
+SC  - Ohio
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - New York University
+T1  - COPES, conceptually oriented program in elementary science : assessment kit for grade two
+Y1  - 1972
+D1  - 1972
+KW  - Science
+N1  - New York University; printed and distributed by Center for Educational Research and Field Services
+PB  - New York University
+CY  - New York, NY
+LA  - English
+CN  - 519 .C78s v. 2a
+SC  - New York
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A2  - New York University
+T1  - COPES, conceptually oriented program in elementary science : asssessment kit, for kindergarten - grade one sequence
+Y1  - 1971
+D1  - 1971?
+KW  - Science
+N1  - [53] Bl.; Responsibility: The Center for Educational Research and School Services.
+PB  - New York University
+CY  - New York, NY
+LA  - English
+CN  - 519 .C78s v. 1a
+SC  - New York
+G2  - Kindergarten
+G2  - 1st
+ER  - 
+
+TY  - BOOK
+A2  - New York University
+T1  - COPES : conceptually oriented program in elementary science : the teacher's guide for a conservation of energy sequence
+Y1  - 1967
+D1  - 08/1967
+SP  - 427
+KW  - Science
+N1  - ix; ill. ; 28 cm.; Note(s): For grades K-6./ "This teacher's guide represents a principal product of a curriculum study reported in A Pilot Project to Develop an Elementary Science Sequence, Final Report, Project No. H-281, Contract No. OE-6-10-175, United States Department of Health Education and Welfare, Office of Education, Bureau of Research, August 1967."; Other Titles: Conceptually oriented program in elementary science; COPES, conceptually oriented program in elementary science; Conservation of energy sequence
+PB  - New York University
+CY  - New York, NY
+LA  - English
+CN  - 519 .C78s v. 4
+SC  - New York
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - New York University
+T1  - COPES (Conceptually Oriented Program in Elementary Science) teacher's guide for kindergarten/grade one
+Y1  - 1971
+D1  - 1971
+SP  - 408
+KW  - Science
+ED  - Prelim.
+N1  - New York University; printed and distributed by Center for Educational Research and Field Services
+PB  - New York University
+CY  - New York, NY
+LA  - English
+CN  - 519 .C78s v. 1
+SC  - New York
+G2  - Kindergarten
+G2  - 1st
+ER  - 
+
+TY  - BOOK
+A2  - New York University
+T1  - Copes (Conceptually Oriented Program in Elementary Science) teacher's guide for grade three
+Y1  - 1972
+D1  - 1972
+SP  - 403
+KW  - Science
+ED  - Prelim.
+N1  - New York University; printed and distributed by the Center for Field Research and School Services
+CY  - New York, NY
+LA  - English
+CN  - 529 .C78 v. 3
+SC  - New York
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - New York University
+T1  - Copes (Conceptually Oriented Program in Elementary Science) teacher's guide for grade two
+Y1  - 1971
+D1  - 1971
+SP  - 215
+KW  - Science
+ED  - Prelim.
+N1  - New York University; printed and distributed by the Center for Field Research and School Services
+PB  - New York University
+CY  - New York, NY
+LA  - English
+CN  - 519 .C78s v. 2
+SC  - New York
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A2  - Dade County (Florida) Public Schools
+T1  - Junior high science guide
+SP  - 77
+KW  - Science
+PB  - Dade County (Florida) Public Schools
+CY  - Miami, CL
+LA  - English
+CN  - 519 .D12j
+SC  - Florida
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Dallas (Texas) Independent School District
+T1  - Science program content, scope, and sequence
+Y1  - 1959
+D1  - 09/1959
+SP  - 15
+KW  - Science
+PB  - Dallas (Texas) Independent School District
+CY  - Dallas, TX
+LA  - English
+CN  - 519 .D14s
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A1  - Davis, Helen Miles
+T1  - Science exhibits
+Y1  - 1955
+D1  - 1955
+SP  - 96
+KW  - Science
+KW  - Exhibitions
+T2  - Science service chemistry series
+PB  - Science Service
+CY  - Washington, DC
+LA  - English
+CN  - 519 .D26s
+ER  - 
+
+TY  - BOOK
+A2  - Denver (Colorado) Public Schools
+T1  - Instructional guide for junior high school science; grades 7-8
+Y1  - 1962
+D1  - 1962
+SP  - 40
+KW  - Science
+PB  - Division of Instructional Services, Denver Public School
+CY  - Denver, CO
+LA  - English
+CN  - 519 .D41i v. 7
+SC  - Colorado
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Denver (Colorado) Public Schools
+T1  - Instructional guide for elementary science : grade 1
+Y1  - 1962
+D1  - 1962
+SP  - 19
+KW  - Science
+PB  - Denver (Colorado) Public Schools
+CY  - Denver, CO
+LA  - English
+CN  - 519 .D41i v. 1
+SC  - Colorado
+G2  - 1st
+ER  - 
+
+TY  - BOOK
+A2  - Denver (Colorado) Public Schools
+T1  - Instructional guide for elementary science : grade 2
+Y1  - 1962
+D1  - 1962
+SP  - 19
+KW  - Science
+PB  - Denver (Colorado) Public Schools
+CY  - Denver, CO
+LA  - English
+CN  - 519 .D41i v. 2
+SC  - Colorado
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A2  - Denver (Colorado) Public Schools
+T1  - Instructional guide for elementary science : grade 3
+Y1  - 1962
+D1  - 1962
+SP  - 19
+KW  - Science
+PB  - Denver (Colorado) Public Schools
+CY  - Denver, CO
+LA  - English
+CN  - 519 .D41i v. 3
+SC  - Colorado
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - Denver (Colorado) Public Schools
+T1  - Instructional guide for elementary science : grade 4
+Y1  - 1962
+D1  - 1962
+SP  - 19
+KW  - Science
+PB  - Denver (Colorado) Public Schools
+CY  - Denver, CO
+LA  - English
+CN  - 519 .D41i v. 4
+SC  - Colorado
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Denver (Colorado) Public Schools
+T1  - Instructional guide for elementary science : grade 5
+Y1  - 1962
+D1  - 1962
+SP  - 19
+KW  - Science
+PB  - Denver (Colorado) Public Schools
+CY  - Denver, CO
+LA  - English
+CN  - 519 .D41i v. 5
+SC  - Colorado
+G2  - 5th
+ER  - 
+
+TY  - BOOK
+A2  - Denver (Colorado) Public Schools
+T1  - Instructional guide for elementary science : grade 6
+Y1  - 1962
+D1  - 1962
+SP  - 19
+KW  - Science
+PB  - Denver (Colorado) Public Schools
+CY  - Denver, CO
+LA  - English
+CN  - 519 .D41i v. 6
+SC  - Colorado
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A1  - Ballou, Mildred
+A1  - Grabau, Molie
+A1  - Loomis, Inez
+A1  - Morris, Nellie
+A1  - Ramsey, Rosamond
+A1  - Slaybaugh, Virginia
+A1  - Storbeck, Mary
+A1  - Merkley, Elaine
+T1  - Course of study for primary science
+Y1  - 1956
+D1  - 08/1956
+SP  - 88
+KW  - Science
+PB  - Des Moines (Iowa) Public Schools
+CY  - Des Moines, IA
+LA  - English
+CN  - 519 .D44p
+SC  - Iowa
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Detroit (Michigan) City Board of Education
+T1  - Science, 7, 8, and 9: a teacher's handbook
+Y1  - 1957
+D1  - 1957
+SP  - 325
+KW  - Science
+T2  - Detroit (Michigan) City Board of Education. Publication
+V1  - 400
+PB  - Detroit (Michigan) City Board of Education
+CY  - Detroit, MI
+LA  - English
+CN  - 519 .D48s
+SC  - Michigan
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - District of Columbia Public Schools
+T1  - Elementary science curriculum
+Y1  - 1959
+D1  - 1959
+SP  - 483
+KW  - Science
+KW  - Curricula
+PB  - District of Columbia Public Schools
+CY  - Washington, DC
+LA  - English
+CN  - 519 .D61e
+SC  - District of Columbia
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Duluth (Minnesota) Public Schools. Elementary Department
+T1  - Science, grade 1, resource units
+Y1  - 1964
+D1  - 1964
+SP  - 119
+KW  - Science
+PB  - Duluth (Minnesota) Public Schools. Elementary Department
+CY  - Duluth, MN
+LA  - English
+CN  - 519 .D88s v. 1
+SC  - Minnesota
+G2  - 1st
+ER  - 
+
+TY  - BOOK
+A2  - Duluth (Minnesota) Public Schools. Elementary Department
+T1  - Science, grade 2, resource units
+Y1  - 1964
+D1  - 1964
+SP  - 116
+KW  - Science
+PB  - Duluth (Minnesota) Public Schools. Elementary Department
+CY  - Duluth, MN
+LA  - English
+CN  - 519 .D88s v. 2
+SC  - Minnesota
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A2  - Duluth (Minnesota) Public Schools. Elementary Department
+T1  - Science, grade 3, resource units
+Y1  - 1964
+D1  - 1964
+SP  - 100
+KW  - Science
+PB  - Duluth (Minnesota) Public Schools. Elementary Department
+CY  - Duluth, MN
+LA  - English
+CN  - 519 .D88s v. 3
+SC  - Minnesota
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - Duluth (Minnesota) Public Schools. Elementary Department
+T1  - Science outline, junior high schools
+Y1  - 1954
+D1  - 1954
+KW  - Science
+PB  - Duluth (Minnesota) Public Schools. Elementary Department
+CY  - Duluth, MN
+LA  - English
+CN  - 519 .D88s 1954 v. 7
+SC  - Minnesota
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Duluth (Minnesota) Public Schools. Elementary Department
+T1  - Science outline, junior high schools
+Y1  - 1954
+D1  - 1954
+KW  - Science
+PB  - Duluth (Minnesota) Public Schools. Elementary Department
+CY  - Duluth, MN
+LA  - English
+CN  - 519 .D88s 1958 v. 7
+SC  - Minnesota
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - East Syracuse - Minoa (New York) Central Schools
+T1  - Curriculum guide: science for kindergarten through sixth grade
+Y1  - 1964
+D1  - 09/1964
+SP  - 216
+KW  - Science
+KW  - Curricula
+PB  - East Syracuse - Minoa (New York) Central Schools
+CY  - East Syracuse, NY
+LA  - English
+CN  - 519 .E12s
+SC  - New York
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  -
+
+TY  - BOOK
+A1  - Bohn, Gerald
+A1  - Dahlager, Richard
+A2  - Edina (Minnesota) Public Schools
+T1  - Curriculum materials for junior high school science
+Y1  - 1969
+D1  - 1969
+SP  - 104
+KW  - Science
+KW  - Curricula
+N1  - p. ; cm.; Responsibility: Gerald Bohn, Richard Dahlager.
+PB  - Edina Public Schools
+CY  - Edina, MN
+LA  - English
+CN  - 519 .E23c
+SC  - Minnesota
+G1  - Middle school
+ER  -
+
+TY  - BOOK
+A2  - El Paso (Texas) Public Schools
+T1  - Physical and earth sciences, grade 9 or 10: curriculum guide for high school teachers
+Y1  - 1962
+D1  - 08/1962
+SP  - 101
+KW  - Science
+KW  - Curricula
+PB  - El Paso (Texas) Public Schools
+CY  - El Paso, TX
+LA  - English
+CN  - 519 .E37c
+SC  - Texas
+G2  - 9th
+G2  - 10th
+ER  -
+
+TY  - BOOK
+A2  - Englewood (New Jersey) Public Schools
+T1  - Tentative outline for elementary science education, grades k-6
+Y1  - 1962
+D1  - 04/1962
+SP  - 46
+KW  - Science
+PB  - Englewood (New Jersey) Public Schools
+CY  - Englewood, NJ
+LA  - English
+CN  - 519 .E58s v. 1
+SC  - New Jersey
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Englewood (New Jersey) Public Schools
+T1  - Curriculum study junior high school science syllabus
+Y1  - 1962
+D1  - 04/1962
+KW  - Science
+PB  - Englewood (New Jersey) Public Schools
+CY  - Englewood, NJ
+LA  - English
+CN  - 519 .E58s v. 2
+SC  - New Jersey
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Englewood (New Jersey) Public Schools
+T1  - Curriculum study senior high school science syllabus
+Y1  - 1962
+D1  - 04/1962
+KW  - Science
+PB  - Englewood (New Jersey) Public Schools
+CY  - Englewood, NJ
+LA  - English
+CN  - 519 .E58s v. 3
+SC  - New Jersey
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Fair Lawn (New Jersey) Public Schools
+T1  - A child grows in science
+Y1  - 1957
+D1  - 09/1957
+SP  - 20
+KW  - Science
+PB  - Fair Lawn (New Jersey) Public Schools
+CY  - Fair Lawn, NJ
+LA  - English
+CN  - 519 .F16c
+SC  - New Jersey
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Fairfax (Virginia) County Schools. Division of Instruction
+T1  - Planning for science instruction (a tentative guide for teachers - grades 1-12)
+Y1  - 1957
+D1  - 09/1957
+SP  - 17
+KW  - Science
+PB  - Fairfax (Virginia) County Schools. Division of Instruction
+CY  - Fairfax, VA
+LA  - English
+CN  - 519 .F166p
+SC  - Virginia
+ER  - 
+
+TY  - BOOK
+A2  - Flint (Michigan) Schools
+T1  - [Science]
+KW  - Science
+PB  - Flint (Michigan) Schools
+CY  - Flint, MI
+LA  - English
+CN  - 519 .F62t
+SC  - Michigan
+ER  - 
+
+TY  - BOOK
+A2  - Florida State Department of Education
+T1  - A guide, science in Florida secondary schools
+Y1  - 1960
+D1  - 1960
+SP  - 171
+KW  - Science
+N1  - 171 pages illustrations 23 cm.; Note(s): Previous ed. published under title: A brief guide to the teaching of science in the secondary schools.
+T2  - Florida State Department of Education. Bulletin
+V1  - 8
+ED  - Rev.
+PB  - Florida State Department of Education
+CY  - Tallahassee, FL
+LA  - English
+CN  - 519 .F63g
+SC  - Florida
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Fresno (California) City Unified Schools
+T1  - Science units: first grade: seeds, magnets, aviation, sea life, our natural resources, weather and air
+Y1  - 1954
+D1  - 09/1954
+KW  - Science
+N1  - 1 v. (various pagings)
+PB  - Fresno (California) City Unified Schools
+CY  - Fresno, CA
+LA  - English
+CN  - 519 .F87s v. 1
+SC  - California
+G2  - 1st
+ER  -
+
+TY  - BOOK
+A2  - Fresno (California) City Unified Schools
+T1  - Science units: second grade: simple machines, airplanes, magnets, natural resources, sea life (farming the sea), seeds and seed travel, weather
+Y1  - 1954
+D1  - 09/1954
+KW  - Science
+N1  - 1 v. (various pagings)
+PB  - Fresno (California) City Unified Schools
+CY  - Fresno, CA
+LA  - English
+CN  - 519 .F87s v. 2
+SC  - California
+G2  - 2nd
+ER  -
+
+TY  - BOOK
+A2  - Fresno (California) City Unified Schools
+T1  - Third grade science guide
+Y1  - 1956
+D1  - 1956
+KW  - Science
+N1  - 1 v. (various pagings)
+PB  - Fresno (California) City Unified Schools
+CY  - Fresno, CA
+LA  - English
+CN  - 519 .F87s v. 3
+SC  - California
+G2  - 3rd
+ER  -
+
+TY  - BOOK
+A2  - Fresno (California) City Unified Schools
+T1  - Fourth grade science guide
+Y1  - 1956
+D1  - 1956
+SP  - 13
+KW  - Science
+PB  - Fresno (California) City Unified Schools
+CY  - Fresno, CA
+LA  - English
+CN  - 519 .F87s v. 4
+SC  - California
+G2  - 4th
+ER  -
+
+TY  - BOOK
+A2  - Fresno (California) City Unified Schools
+T1  - Fifth grade science guide
+Y1  - 1956
+D1  - 1956
+SP  - 9
+KW  - Science
+PB  - Fresno (California) City Unified Schools
+CY  - Fresno, CA
+LA  - English
+CN  - 519 .F87s v. 5
+SC  - California
+G2  - 5th
+ER  -
+
+TY  - BOOK
+A2  - Fresno (California) City Unified Schools
+T1  - Sixth grade science guide
+Y1  - 1956
+D1  - 1956
+SP  - 9
+KW  - Science
+PB  - Fresno (California) City Unified Schools
+CY  - Fresno, CA
+LA  - English
+CN  - 519 .F87s v. 6
+SC  - California
+G2  - 6th
+ER  -
+
+TY  - BOOK
+A2  - Fresno (California) County Schools
+T1  - Audio-visual materials for secondary schools: biology, general science, chemistry, physics, conservation
+Y1  - 1953
+D1  - 07/1953
+SP  - 52
+KW  - Science
+KW  - Biology
+KW  - Chemistry
+KW  - Physics
+KW  - Conservation
+PB  - Fresno (California) County Schools
+CY  - Fresno, CA
+LA  - English
+CN  - 519 .F88a
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - National Science Teachers Association
+T1  - If you want to do a science project
+Y1  - 1954
+D1  - 1954
+SP  - 20
+KW  - Science
+KW  - Experiments
+N1  - ill. ; 23 cm.; Note(s): Cover title.; Responsibility: by National Science Teachers Association.
+PB  - National Science Teachers Association
+CY  - Washington, DC
+LA  - English
+CN  - 519 .F99i
+ER  - 
+
+TY  - BOOK
+A2  - Garrett County (Maryland) Board of Education
+T1  - Science program: grade four
+Y1  - 1959
+D1  - 06/1959
+KW  - Science
+PB  - Garrett County (Maryland) Board of Education
+CY  - Oakland, MD
+LA  - English
+CN  - 519 .G23s v. 1
+SC  - Maryland
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Garrett County (Maryland) Board of Education
+T1  - Science program: grade five
+Y1  - 1959
+D1  - 06/1959
+KW  - Science
+PB  - Garrett County (Maryland) Board of Education
+CY  - Oakland, MD
+LA  - English
+CN  - 519 .G23s v. 2
+SC  - Maryland
+G2  - 5th
+ER  - 
+
+TY  - BOOK
+A2  - Garrett County (Maryland) Board of Education
+T1  - Science program: grade six
+Y1  - 1959
+D1  - 06/1959
+KW  - Science
+PB  - Garrett County (Maryland) Board of Education
+CY  - Oakland, MD
+LA  - English
+CN  - 519 .G23s v. 3
+SC  - Maryland
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A1  - Turchan, Norman R.
+A1  - Wallace, William T.
+A1  - Grigsby, George
+A1  - James, Robert
+A1  - Karch, Grace
+A1  - Lewis, Olivia
+A1  - Scott, Max
+A1  - Warner, Rita
+T1  - Curriculum and resource guide for science in the elementary school, grades 1-6
+Y1  - 1962
+D1  - 1962
+SP  - 288
+PB  - School City of Gary
+CY  - Gary, IN
+LA  - English
+CN  - 519 .G24c
+SC  - Indiana
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Georgia State Department of Education. Division of Instruction
+T1  - Science for Georgia schools: primary manual
+Y1  - 1958
+D1  - 1958
+SP  - 139
+KW  - Science
+PB  - Georgia State Department of Education
+CY  - Atlanta, GA
+LA  - English
+CN  - 519 .G35s v. 1
+SC  - Georgia
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Georgia State Department of Education. Division of Instruction
+T1  - Science for Georgia schools: intermediate manual
+Y1  - 1958
+D1  - 1958
+SP  - 189
+KW  - Science
+PB  - Georgia State Department of Education
+CY  - Atlanta, GA
+LA  - English
+CN  - 519 .G35s v. 2
+SC  - Georgia
+G1  - Elementary
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Glendale-River Hills (Wisconsin) Schools
+T1  - Science units
+Y1  - 1962
+D1  - 1962-1963
+KW  - Science
+N1  - 1 v. (various pagings)
+PB  - Glendale-River Hills (Wisconsin) Schools
+LA  - English
+CN  - 519 .G551s
+SC  - Wisconsin
+ER  - 
+
+TY  - BOOK
+A2  - Grand Island (Nebraska) Public Schools
+T1  - Elementary science (supplement number i): an introduction and guide for teachers: kindergarten - grade vi
+Y1  - 1955
+D1  - 06/1955
+SP  - 51
+KW  - Science
+PB  - Grand Island (Nebraska) Public Schools
+CY  - Grand Island, NE
+LA  - English
+CN  - 519 .G75e supp.
+SC  - Nebraska
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Granite School District (Salt Lake City, Utah)
+T1  - A guide to the teaching of general science in the junior high schools
+Y1  - 1963
+D1  - 1963
+SP  - 164
+KW  - Science
+PB  - Granite School District
+CY  - Salt Lake City, UT
+LA  - English
+CN  - 519 .G751g 1963-64 v. 1
+SC  - Utah
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Granite School District (Salt Lake City, Utah)
+T1  - A laboratory guide to the teaching of general science in the junior high schools
+Y1  - 1964
+D1  - 1964
+SP  - 115
+KW  - Science
+PB  - Granite School District
+CY  - Salt Lake City, UT
+LA  - English
+CN  - 519 .G751g 1963-64 v. 2
+SC  - Utah
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A1  - Ashley, Tracy
+A1  - Hertzberg, Alvin
+A1  - Hickey, William
+A1  - Saenger, Anne
+A1  - Holmberg, Sydney
+T1  - Science experiences related to social studies: kindergarten - three
+Y1  - 1957
+D1  - 08/1957
+KW  - Science
+PB  - Great Neck (New York) Public Schools
+CY  - Great Neck, NY
+LA  - English
+CN  - 519 .G78s
+SC  - New York
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - Great Neck Public Schools (Great Neck, N.Y.)
+T1  - Science program K-12
+Y1  - 1962
+D1  - 09/1962
+KW  - Science
+AB  - Animals -- Astronomy -- Earth Science -- Electricity and magnetism -- Health and the human body -- Light and sound -- Physical and chemical changes -- Plants -- Simple machines -- Water.
+N1  - 1 v. (various pagings) ; 28 cm.
+PB  - Great Neck Public Schools
+CY  - Great Neck, NY
+LA  - English
+CN  - 519 .G78sp
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A1  - Baker, Irma
+A1  - Doran, Martha
+A1  - Glowa, Harry
+T1  - Elementary science, grade 4
+Y1  - 1961
+D1  - 1961
+SP  - 67
+KW  - Science
+PB  - Greater Johnstown Public Schools
+CY  - Johnstown, PA
+LA  - English
+CN  - 519 .G781e v. 1
+SC  - New York
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A1  - Fuhrmann, Robert P.
+A1  - Karalfa, Elizabeth
+A1  - Marek, Ruth E.
+T1  - Elementary science, grade 5
+Y1  - 1961
+D1  - 1961
+SP  - 131
+KW  - Science
+PB  - Greater Johnstown Public Schools
+CY  - Johnstown, PA
+LA  - English
+CN  - 519 .G781e v. 2
+SC  - New York
+G2  - 5th
+ER  - 
+
+TY  - BOOK
+A1  - Cassidy, Jeanne
+A1  - Gilmor, Mary Martha
+A1  - Matsko, Paul
+T1  - Science, grade 7
+Y1  - 1961
+D1  - 1961
+SP  - 18
+KW  - Science
+PB  - Greater Johnstown Public Schools
+CY  - Johnstown, PA
+LA  - English
+CN  - 519 .G781s v. 1
+SC  - New York
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A1  - Cassidy, Jeanne
+A1  - Gilmor, Mary Martha
+A1  - Matsko, Paul
+T1  - Science, grade 8
+Y1  - 1961
+D1  - 1961
+SP  - 22
+KW  - Science
+PB  - Greater Johnstown Public Schools
+CY  - Johnstown, PA
+LA  - English
+CN  - 519 .G781s v. 2
+SC  - New York
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Green Bay Public Schools
+T1  - Science: elementary: magnetism
+KW  - Science
+PB  - Green Bay Public Schools
+LA  - English
+CN  - 519 .G79s v. 1
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Green Bay Public Schools
+T1  - Science: elementary: animals
+KW  - Science
+PB  - Green Bay Public Schools
+LA  - English
+CN  - 519 .G79s v. 2
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Highland Park (Texas) Public Schools
+T1  - Science for elementary children: a guide for teachers
+Y1  - 1957
+D1  - 05/1957
+SP  - 89
+KW  - Science
+PB  - Highland Park (Texas) Public Schools
+CY  - Dallas, TX
+LA  - English
+CN  - 519 .H63s
+SC  - Texas
+G1  - Elementary
+ER  -
+
+TY  - BOOK
+A2  - Hillsborough County (Florida) Public Schools
+T1  - Science for elementary children
+Y1  - 1958
+D1  - 1958
+SP  - 31
+KW  - Science
+PB  - Hillsborough County (Florida) Public Schools
+LA  - English
+CN  - 519 .H64s
+SC  - Florida
+G1  - Elementary
+ER  -

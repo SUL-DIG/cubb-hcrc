@@ -17,6 +17,5 @@
 # Added Ignores
 /config/database.yml
 .DS_Store
-/config/solr.yml
-/solr/hcrc_docs/originals/*
-/solr/hcrc_docs/converted\ docs/*
+
+/config/initializers/devise.rb

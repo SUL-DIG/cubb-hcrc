@@ -1,0 +1,1355 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Washoe County (Nevada) School District</field>
+<field name="title">A curriculum guide for the program of instruction in Washoe County
+schools</field>
+<field name="year">1957</field>
+<field name="date">1957</field>
+<field name="pages">176</field>
+<field name="keywords">Curricula</field>
+<field name="publisher">Washoe County (Nevada) School District</field>
+<field name="pub_place">Reno, NV</field>
+<field name="language">English</field>
+<field name="call_number">375.12 .W31c</field>
+<field name="state_country">Nevada</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Sacramento County (California) Schools</field>
+<field name="title">Social studies--science: course of study supplement: source materials for unit
+development expanded content outlines for kindergarten-grade 8</field>
+<field name="year">1960</field>
+<field name="date">1960?</field>
+<field name="keywords">Social sciences</field>
+<field name="publisher">Sacramento County (California) Schools</field>
+<field name="pub_place">Sacramento, CA</field>
+<field name="language">English</field>
+<field name="call_number">375.13 .S12s v. 2-10</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary</field>
+<field name="grade_level_group">Middle school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Sacramento County (California) Schools</field>
+<field name="title">Basic course of study for elementary grades</field>
+<field name="year">1967</field>
+<field name="date">08/1967</field>
+<field name="keywords">Elementary education</field>
+<field name="keywords">Curricula</field>
+<field name="publisher">Sacramento County (California) Schools</field>
+<field name="pub_place">Sacramento, CA</field>
+<field name="language">English</field>
+<field name="call_number">375.13 .S12sc</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">San Antonio (Texas) Independent School District</field>
+<field name="title">Curriculum guide for elementary schools, grades 1-6</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="pages">132</field>
+<field name="keywords">Elementary education</field>
+<field name="keywords">Curricula</field>
+<field name="edition">Rev</field>
+<field name="publisher">San Antonio (Texas) Independent School District</field>
+<field name="pub_place">San Antonio, TX</field>
+<field name="language">English</field>
+<field name="call_number">375.13 .S18c</field>
+<field name="state_country">Texas</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">San Diego (California) City Schools</field>
+<field name="title">Bank of course objectives : selected subject areas and grade levels : elementary
+schools</field>
+<field name="year">1976</field>
+<field name="date">1976</field>
+<field name="pages">237</field>
+<field name="keywords">Elementary education</field>
+<field name="keywords">Curricula</field>
+<field name="notes">v; ; 28 cm.; Responsibility: Programs Division, San Diego Unified School
+District.</field>
+<field name="edition">Rev</field>
+<field name="publisher">San Diego (California) City Schools</field>
+<field name="pub_place">San Diego, CA</field>
+<field name="language">English</field>
+<field name="call_number">375.13 .S19b</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">San Diego (California) City Schools</field>
+<field name="title">Course of study for elementary schools</field>
+<field name="year">1976</field>
+<field name="date">1976</field>
+<field name="pages">60</field>
+<field name="keywords">Elementary education</field>
+<field name="keywords">Curricula</field>
+<field name="notes">vii; ; 28 cm.; Note(s): Cover title.</field>
+<field name="publisher">San Diego (California) City Schools</field>
+<field name="pub_place">San Diego, CA</field>
+<field name="language">English</field>
+<field name="call_number">375.13 .S19c 1976</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">San Diego (California) City Schools</field>
+<field name="title">Course of study for elementary schools</field>
+<field name="year">1972</field>
+<field name="date">08/1972</field>
+<field name="pages">61</field>
+<field name="keywords">Elementary school</field>
+<field name="keywords">Curricula</field>
+<field name="keywords">Elementary education</field>
+<field name="notes">p. ; cm.; Note(s): The official course of study of the San Diego Unified School
+District levels kindergarten-six./ August 1972 revision.; Responsibility: adopted September 1972 by
+the Board of Education of the San Diego Unified School District for the school year 1972-73.</field>
+<field name="publisher">San Diego (California) City Schools</field>
+<field name="pub_place">San Diego, CA</field>
+<field name="language">English</field>
+<field name="call_number">375.13 .S19c 1972</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">San Diego (California) City Schools</field>
+<field name="title">Course of study for elementary schools : adopted September 1971 by the Board of
+Education of the San Diego Unified School District for the school year 1971-72</field>
+<field name="year">1971</field>
+<field name="date">08/1971</field>
+<field name="pages">49</field>
+<field name="keywords">Elementary education</field>
+<field name="keywords">Curricula</field>
+<field name="notes">49 p. ; 28 cm.</field>
+<field name="edition">Aug. 1971 revision Myra Campbell ... [et al.</field>
+<field name="publisher">San Diego (California) City Schools</field>
+<field name="pub_place">San Diego, CA</field>
+<field name="language">English</field>
+<field name="call_number">375.13 .S19c 1971</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Kenyon, Wanda L.</field><field name="author_nat">Wanda L. Kenyon</field>
+<field name="corp_author">San Diego (California) City Schools</field>
+<field name="title">Establishing a learning center in an existing elementary school</field>
+<field name="year">1970</field>
+<field name="date">1970?</field>
+<field name="pages">24</field>
+<field name="keywords">Individualized instruction</field>
+<field name="keywords">Teaching aids</field>
+<field name="notes">24 l. 28 cm.; Other Titles: Learning center.; Responsibility: Prepared by Wanda
+L. Kenyon.</field>
+<field name="publisher">San Diego (California) City Schools</field>
+<field name="pub_place">San Diego, CA</field>
+<field name="language">English</field>
+<field name="call_number">375.13 .S19e</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Johnson, Yvonne</field><field name="author_nat">Yvonne Johnson</field>
+<field name="author">Robbins, Esther V.</field><field name="author_nat">Esther V. Robbins</field>
+<field name="corp_author">San Diego (California) City Schools</field>
+<field name="title">Guide for individualization of instruction in elementary schools: single and
+multigrade classes</field>
+<field name="year">1972</field>
+<field name="date">1972</field>
+<field name="pages">79</field>
+<field name="keywords">Individualized instruction</field>
+<field name="notes">vii; illus. 28 cm.; Other Titles: Individualization of instruction.;
+Responsibility: Prepared by Yvonne Johnson and Esther V. Robbins.</field>
+<field name="publisher">San Diego (California) City Schools</field>
+<field name="pub_place">San Diego, CA</field>
+<field name="language">English</field>
+<field name="call_number">375.13 .S19g</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Pecoraro, John V.</field><field name="author_nat">John V. Pecoraro</field>
+<field name="corp_author">San Diego (California) City Schools</field>
+<field name="title">A guide for teachers of multigrade classes. (Multigrades 1-2, 3-4, 4-5, and
+5-6)</field>
+<field name="year">1969</field>
+<field name="date">07/1969</field>
+<field name="pages">35</field>
+<field name="keywords">Elementary education</field>
+<field name="notes">vi; 28 cm.; Other Titles: Multigrade classes.; Responsibility: Prepared by John
+V. Pecoraro.</field>
+<field name="publisher">San Diego (California) City Schools</field>
+<field name="pub_place">San Diego, CA</field>
+<field name="language">English</field>
+<field name="call_number">375.13 .S19gu</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">San Diego (California) City Schools</field>
+<field name="title">Basic course of study; 1967-68</field>
+<field name="year">1967</field>
+<field name="date">09/1967</field>
+<field name="pages">93</field>
+<field name="keywords">Elementary education</field>
+<field name="keywords">Curricula</field>
+<field name="notes">viii; 25 cm.</field>
+<field name="publisher">San Diego (California) City Schools</field>
+<field name="pub_place">San Diego, CA</field>
+<field name="language">English</field>
+<field name="call_number">375.13 .S192b</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Olson, Carl,Jr</field><field name="author_nat">Carl,Jr Olson</field>
+<field name="corp_author">San Diego (California) City Schools</field>
+<field name="title">Summary of elementary curriculum and special programs : grades kindergarten -
+6</field>
+<field name="year">1965</field>
+<field name="pages">27</field>
+<field name="keywords">Elementary education</field>
+<field name="keywords">Curricula</field>
+<field name="notes">iii; ; 28 cm.; Note(s): Cover title.; Responsibility: prepared by Carl Olson,
+Jr. ; revised by Thomas Wiggins (1963), Charles Marshall (1965).</field>
+<field name="edition">3rd</field>
+<field name="publisher">San Diego (California) City Schools</field>
+<field name="pub_place">San Diego, CA</field>
+<field name="language">English</field>
+<field name="call_number">375.13 .S194s 1965</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">San Diego (California) City Schools</field>
+<field name="title">The experimental kindergarten program in the San Diego City schools</field>
+<field name="keywords">Elementary education</field>
+<field name="publisher">San Diego (California) City Schools</field>
+<field name="pub_place">San Diego, CA</field>
+<field name="language">English</field>
+<field name="call_number">375.13 .S194s 1965</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">San Diego County (California) Schools</field>
+<field name="title">Tips on teaching</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="keywords">Teaching</field>
+<field name="publisher">San Diego County (California) Schools</field>
+<field name="pub_place">San Diego, CA</field>
+<field name="language">English</field>
+<field name="call_number">375.13 .S195t</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Olson, Carl</field><field name="author_nat">Carl Olson</field>
+<field name="author">Stegeman, William H.</field><field name="author_nat">William H. Stegeman</field>
+<field name="author">Wiggins, Thomas</field><field name="author_nat">Thomas Wiggins</field>
+<field name="author">Boyer, Donald N.</field><field name="author_nat">Donald N. Boyer</field>
+<field name="author">Fry, Wayne C.</field><field name="author_nat">Wayne C. Fry</field>
+<field name="author">Wilson, J. Fred</field><field name="author_nat">J. Fred Wilson</field>
+<field name="corp_author">San Diego (California) City Schools</field>
+<field name="title">Summary of elementary curriculum and special programs : grades kindergarten -
+6</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="pages">27</field>
+<field name="keywords">Elementary education</field>
+<field name="keywords">Curricula</field>
+<field name="notes">v leaves; tables ; 28 cm.; Note(s): Cover title./ "Tentative and
+unedited"--Cover./ Original edition: 1962./ Pref. by William H. Stegeman, Assist. Superintendent,
+Curriculum Services Division.; Other Titles: Elementary curriculum and special programs : grades
+kindergarten - 6; Responsibility: prepared by Carl Olson, Jr. ; revised by Thomas Wiggins at the
+request of the Elementary Schools Division ; Advisory Committee, Donald N. Boyer, Wayne C. Fry, J.
+Fred Wilson, Chairman.</field>
+<field name="edition">Rev. 1963</field>
+<field name="publisher">San Diego (California) City Schools</field>
+<field name="pub_place">San Diego, CA</field>
+<field name="language">English</field>
+<field name="call_number">375.13 .S194s 1965</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">San Diego County (California). Elementary Education Curriculum
+Committee</field>
+<field name="title">Trends in elementary education : a teacher's guide, San Diego County schools :
+statement of trends and suggested practices in social studies, language arts, and arithmetic</field>
+<field name="year">1945</field>
+<field name="date">1945</field>
+<field name="pages">118</field>
+<field name="keywords">Curricula</field>
+<field name="keywords">Elementary education</field>
+<field name="notes">118 pages : illustrations ; 28 cm; Note(s): "September 1945."/ Includes
+bibliographical references.; Responsibility: prepared by the Elementary Education Curriculum
+Committee.</field>
+<field name="publisher">San Diego County (California). Elementary Education Curriculum
+Committee</field>
+<field name="pub_place">San Diego, CA</field>
+<field name="language">English</field>
+<field name="call_number">375.13 .S195tr</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">San Luis Obispo County (California) Schools</field>
+<field name="title">Elementary course of study</field>
+<field name="year">1967</field>
+<field name="date">1967?</field>
+<field name="keywords">Curricula</field>
+<field name="keywords">Elementary education</field>
+<field name="publisher">San Luis Obispo County (California) Schools</field>
+<field name="pub_place">San Luis Obispo, CA</field>
+<field name="language">English</field>
+<field name="call_number">375.13 .S196e v. 1-4</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">San Mateo County (California). Office of the Superintendent of
+Schools</field>
+<field name="title">Course of study and curriculum guide</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="pages">217</field>
+<field name="keywords">Curricula</field>
+<field name="publisher">San Mateo County (California). Office of the Superintendent of
+Schools</field>
+<field name="pub_place">Redwood City, CA</field>
+<field name="language">English</field>
+<field name="call_number">375.13 .S197c</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">San Mateo County (California). Office of the Superintendent of
+Schools</field>
+<field name="title">Course of study and curriculum guide</field>
+<field name="year">1960</field>
+<field name="date">1960</field>
+<field name="keywords">Curricula</field>
+<field name="notes">1 v. (Various pagings)</field>
+<field name="publisher">San Mateo County (California). Office of the Superintendent of
+Schools</field>
+<field name="pub_place">Redwood City, CA</field>
+<field name="language">English</field>
+<field name="call_number">375.13 .S197c 1960</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Santa Barbara County (California) Schools</field>
+<field name="title">Course of study for the schools of Santa Barbara County</field>
+<field name="year">1953</field>
+<field name="date">07/1953</field>
+<field name="keywords">Curricula</field>
+<field name="publisher">Santa Barbara County (California) Schools</field>
+<field name="pub_place">Santa Barbara, CA</field>
+<field name="language">English</field>
+<field name="call_number">375.13 .S33c</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Shasta County (California) Schools</field>
+<field name="title">Course of study for the elementary schools of Shasta County</field>
+<field name="year">1964</field>
+<field name="date">07/1964</field>
+<field name="keywords">Elementary education</field>
+<field name="keywords">Curricula</field>
+<field name="publisher">Shasta County (California) Schools</field>
+<field name="pub_place">Redding, CA</field>
+<field name="language">English</field>
+<field name="call_number">375.13 .S529c 1964</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Calvey, Marie</field><field name="author_nat">Marie Calvey</field>
+<field name="author">Salzwedel, Gwendolyn</field><field name="author_nat">Gwendolyn Salzwedel</field>
+<field name="author">Greenfield, B. L.</field><field name="author_nat">B. L. Greenfield</field>
+<field name="author">Conger, Glenn</field><field name="author_nat">Glenn Conger</field>
+<field name="author">Koenig, Stanley</field><field name="author_nat">Stanley Koenig</field>
+<field name="author">Miller, Alvina</field><field name="author_nat">Alvina Miller</field>
+<field name="author">Schnelle, Elizabeth</field><field name="author_nat">Elizabeth Schnelle</field>
+<field name="author">Kleinhans, Cora</field><field name="author_nat">Cora Kleinhans</field>
+<field name="author">Simmelink, Lucille</field><field name="author_nat">Lucille Simmelink</field>
+<field name="author">Hennessey, Jane</field><field name="author_nat">Jane Hennessey</field>
+<field name="author">Boeselager, Lillian</field><field name="author_nat">Lillian Boeselager</field>
+<field name="author">Maercklein, Kathryn</field><field name="author_nat">Kathryn  Maercklein</field>
+<field name="title">Pupil-teacher planning</field>
+<field name="year">1957</field>
+<field name="date">04/1957</field>
+<field name="keywords">Teachers</field>
+<field name="publisher">Sheboygan County (Wisconsin) Schools</field>
+<field name="pub_place">Sheboygan, WI</field>
+<field name="language">English</field>
+<field name="call_number">375.13 .S53p</field>
+<field name="state_country">Wisconsin</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Shoreline School District No. 412 (Seattle, Washington)</field>
+<field name="title">Basic Curriculum Guide</field>
+<field name="year">1959</field>
+<field name="date">1959</field>
+<field name="keywords">Public schools</field>
+<field name="keywords">Curricula</field>
+<field name="notes">1 v. (various pagings). 28 cm.</field>
+<field name="publisher">Shoreline School District No. 412</field>
+<field name="pub_place">Seattle, WA</field>
+<field name="language">English</field>
+<field name="call_number">375.13 .S55b</field>
+<field name="state_country">Washington</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Solano County (California) Schools</field>
+<field name="title">Curriculum guide book and elementary course of study</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="keywords">Elementary education</field>
+<field name="keywords">Curricula</field>
+<field name="publisher">Solano County (California) Schools</field>
+<field name="pub_place">Fairfield, CA</field>
+<field name="language">English</field>
+<field name="call_number">375.13 .S68c</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Springfield (Missouri) Public Schools</field>
+<field name="title">Social sciences, science (elementary level)</field>
+<field name="year">1958</field>
+<field name="date">1958?</field>
+<field name="pages">105</field>
+<field name="keywords">Social sciences</field>
+<field name="keywords">Science</field>
+<field name="publisher">Springfield (Missouri) Public Schools</field>
+<field name="pub_place">Springfield, MO</field>
+<field name="language">English</field>
+<field name="call_number">375.13 .S77s</field>
+<field name="state_country">Missouri</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Stanford University. School of Education</field>
+<field name="title">Education 444: seminar in elementary education</field>
+<field name="year">1959</field>
+<field name="date">1959?</field>
+<field name="pages">41</field>
+<field name="keywords">Elementary education</field>
+<field name="notes">Education 444: Dan T. Dawson, Paul R. Hanna, Fannie Shaftel, G Wesley
+Sowards</field>
+<field name="publisher">Stanford University. School of Education</field>
+<field name="pub_place">Stanford, CA</field>
+<field name="language">English</field>
+<field name="call_number">375.13 .S78s</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Stockton (California) Unified School District</field>
+<field name="title">Suggestions for lesson planning, grouping, and daily programs, grades
+1-6</field>
+<field name="year">1956</field>
+<field name="date">06/1956</field>
+<field name="pages">19</field>
+<field name="keywords">Lesson planning</field>
+<field name="keywords">Elementary education</field>
+<field name="publisher">Stockton (California) Unified School District</field>
+<field name="pub_place">Stockton, CA</field>
+<field name="language">English</field>
+<field name="call_number">375.13 .S86s</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Stratford (Connecticut) Public Schools</field>
+<field name="title">Homework in the public elementary schools</field>
+<field name="pages">12</field>
+<field name="keywords">Homework</field>
+<field name="keywords">Elementary education</field>
+<field name="publisher">Stratford (Connecticut) Public Schools</field>
+<field name="pub_place">Stratford, CT</field>
+<field name="language">English</field>
+<field name="call_number">375.13 .S89h</field>
+<field name="state_country">Connecticut</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Sunnyvale (California) School District</field>
+<field name="title">Kindergarten through eighth grade curriculum information, 1957-1958</field>
+<field name="year">1959</field>
+<field name="date">06/1959</field>
+<field name="pages">141</field>
+<field name="keywords">Elementary education</field>
+<field name="keywords">Curricula</field>
+<field name="publisher">Sunnyvale (California) School District</field>
+<field name="pub_place">Sunnyvale, CA</field>
+<field name="language">English</field>
+<field name="call_number">375.13 .S95t</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Tulare County (California). Board of Education</field>
+<field name="title">Course of study for the elementary schools of Tulare County : as adopted June,
+1952 by the Tulare County Board of Education</field>
+<field name="year">1952</field>
+<field name="date">1952</field>
+<field name="keywords">Elementary education</field>
+<field name="keywords">Curricula</field>
+<field name="publisher">Tulare County (California). Board of Education</field>
+<field name="language">English</field>
+<field name="call_number">375.13 .T91c</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Tulsa (Oklahoma) Public Schools</field>
+<field name="title">A curriculum guide for teachers of kindergarten</field>
+<field name="year">1957</field>
+<field name="date">1957</field>
+<field name="pages">160</field>
+<field name="keywords">Kindergarten</field>
+<field name="notes">Responsibility: produced through the cooperative effort of the kindergarten
+teachers of Tulsa under the supervision of Mary McClenaghan.</field>
+<field name="edition">Rev</field>
+<field name="publisher">Tulsa (Oklahoma) Public Schools</field>
+<field name="pub_place">Tulsa, OK</field>
+<field name="language">English</field>
+<field name="call_number">375.13 .T92c v. 1</field>
+<field name="state_country">Oklahoma</field>
+<field name="grade_level_number">Kindergarten</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Tulsa (Oklahoma) Public Schools</field>
+<field name="title">A curriculum guide for teachers of grade one</field>
+<field name="year">1955</field>
+<field name="date">1955</field>
+<field name="pages">140</field>
+<field name="keywords">Primary education</field>
+<field name="notes">Responsibility: produced through the cooperative effort of the kindergarten
+teachers of Tulsa under the supervision of Mary McClenaghan.</field>
+<field name="publisher">Tulsa (Oklahoma) Public Schools</field>
+<field name="pub_place">Tulsa, OK</field>
+<field name="language">English</field>
+<field name="call_number">375.13 .T92c v. 2</field>
+<field name="state_country">Oklahoma</field>
+<field name="grade_level_number">1st grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Tulsa (Oklahoma) Public Schools</field>
+<field name="title">A curriculum guide for teachers of third grade: suggestions to teachers for
+guiding the experiences in children in reading, language, social studies, health and personal
+development</field>
+<field name="year">1957</field>
+<field name="date">1957</field>
+<field name="pages">160</field>
+<field name="keywords">Elementary education</field>
+<field name="notes">Responsibility: produced through the cooperative effort of the kindergarten
+teachers of Tulsa under the supervision of Mary McClenaghan.</field>
+<field name="edition">Rev</field>
+<field name="publisher">Tulsa (Oklahoma) Public Schools</field>
+<field name="pub_place">Tulsa, OK</field>
+<field name="language">English</field>
+<field name="call_number">375.13 .T92c v. 4</field>
+<field name="state_country">Oklahoma</field>
+<field name="grade_level_number">3rd grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Tulsa (Oklahoma) Public Schools</field>
+<field name="title">A curriculum guide for teachers of grade four: suggestions to teachers for
+guiding the experiences in children in reading, language, social studies, health and personal
+development</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="pages">125</field>
+<field name="keywords">Elementary education</field>
+<field name="notes">Responsibility: produced through the cooperative effort of the kindergarten
+teachers of Tulsa under the supervision of Mary McClenaghan.</field>
+<field name="publisher">Tulsa (Oklahoma) Public Schools</field>
+<field name="pub_place">Tulsa, OK</field>
+<field name="language">English</field>
+<field name="call_number">375.13 .T92c v. 5</field>
+<field name="state_country">Oklahoma</field>
+<field name="grade_level_number">4th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Tulsa (Oklahoma) Public Schools</field>
+<field name="title">A curriculum guide for teachers of grade five: suggestions to teachers for
+guiding the experiences in children in reading, language, social studies, health and personal
+development</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="pages">119</field>
+<field name="keywords">Elementary education</field>
+<field name="notes">Responsibility: produced through the cooperative effort of the kindergarten
+teachers of Tulsa under the supervision of Mary McClenaghan.</field>
+<field name="edition">Rev</field>
+<field name="publisher">Tulsa (Oklahoma) Public Schools</field>
+<field name="pub_place">Tulsa, OK</field>
+<field name="language">English</field>
+<field name="call_number">375.13 .T92c v. 6</field>
+<field name="state_country">Oklahoma</field>
+<field name="grade_level_number">5th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Tulsa (Oklahoma) Public Schools</field>
+<field name="title">A curriculum guide for teachers of grade six : suggestions to teachers for
+guiding the experiences of children in reading, language, social studies, health and personal
+development</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="pages">121</field>
+<field name="keywords">Elementary education</field>
+<field name="keywords">Curricula</field>
+<field name="notes">121 p. ; 28 cm.</field>
+<field name="publisher">Tulsa (Oklahoma) Public Schools</field>
+<field name="pub_place">Tulsa, OK</field>
+<field name="language">English</field>
+<field name="call_number">375.13 .T92c v.7</field>
+<field name="state_country">Oklahoma</field>
+<field name="grade_level_number">6th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Sowards, G. Wesley</field><field name="author_nat">G. Wesley Sowards</field>
+<field name="author">Mote, Florence B.</field><field name="author_nat">Florence B. Mote</field>
+<field name="author">Fielder, William R.</field><field name="author_nat">William R. Fielder</field>
+<field name="author">Moore, Robert Ezra</field><field name="author_nat">Robert Ezra Moore</field>
+<field name="title">Curriculum study in Tracy elementary public schools: a survey report to board of
+trustees.</field>
+<field name="year">1958</field>
+<field name="date">06/1958</field>
+<field name="pages">74</field>
+<field name="keywords">Elementary education</field>
+<field name="keywords">Curricula</field>
+<field name="publisher">Tracy (California) Elementary School District</field>
+<field name="pub_place">Tracy, CA</field>
+<field name="language">English</field>
+<field name="call_number">375.13 .T75c</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Ashburn, Ellen Waranch</field><field name="author_nat">Ellen Waranch Ashburn</field>
+<field name="corp_author">Virginia Beach (Virginia) Public Schools</field>
+<field name="title">Survey of student and teacher attitudes toward the 45-15 pilot program</field>
+<field name="year">1974</field>
+<field name="date">10/1974</field>
+<field name="pages">41</field>
+<field name="keywords">School year</field>
+<field name="notes">41 p. ; 22 cm.; Note(s): Cover title: Attitude surveys, teachers - students.;
+Other Titles: Attitude surveys, teachers - students.; Responsibility: prepared by Ellen Waranch
+Ashburn, Department of Research Planning and Development.</field>
+<field name="series_title">The Virginia Beach, Virginia 45-15 pilot program of year-round
+education</field>
+<field name="publisher">Virginia Beach (Virginia) Public Schools</field>
+<field name="pub_place">Virginia Beach, VA</field>
+<field name="language">English</field>
+<field name="call_number">375.13 .V81y</field>
+<field name="state_country">Virginia</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Clark, Ann Nolan</field><field name="author_nat">Ann Nolan Clark</field>
+<field name="title">Teachers' handbook for use by teachers in rural elementary schools</field>
+<field name="year">1953</field>
+<field name="date">1953</field>
+<field name="pages">149</field>
+<field name="keywords">Rural schools</field>
+<field name="keywords">Elementary education</field>
+<field name="notes">ill. ; 25 cm.; Note(s): Also issued online.; Other Titles: Teachers' handbook
+for use in cooperative education programs in the Latin American republics; Responsibility: developed
+through the collaboration of Latin American and United States educators under the direction of Ann
+Nolan Clark.</field>
+<field name="publisher">Institute of Inter-American Affairs, Division of Education</field>
+<field name="pub_place">Washington, DC</field>
+<field name="language">English</field>
+<field name="call_number">375.13 .U58t</field>
+<field name="state_country">Latin America</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Ventura County (California) Board of Education</field>
+<field name="title">A course of study for elementary schools</field>
+<field name="year">1953</field>
+<field name="date">1953</field>
+<field name="keywords">Elementary education</field>
+<field name="keywords">Curricula</field>
+<field name="notes">Reprint, 1955</field>
+<field name="publisher">Ventura County (California) Board of Education</field>
+<field name="language">English</field>
+<field name="call_number">375.13 .V46c</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Virginia Beach (Virginia) Public Schools</field>
+<field name="title">Cost analysis, 45-15 schools, 1973-74, Virginia Beach City Public Schools :
+interim report</field>
+<field name="year">1974</field>
+<field name="date">10/1974</field>
+<field name="pages">15</field>
+<field name="keywords">School year</field>
+<field name="notes">15 p. ; 22 cm.; Note(s): Cover title: Cost analysis, 1973-74./ "An interim
+report on the Virginia Beach, Virginia pilot program of year-round education."; Responsibility:
+Institute for Social Analysis.</field>
+<field name="series_title">The Virginia Beach, Virginia 45-15 pilot program of year-round
+education</field>
+<field name="publisher">Virginia Beach (Virginia) Public Schools</field>
+<field name="pub_place">Virginia Beach, VA</field>
+<field name="language">English</field>
+<field name="call_number">375.13 .V81y no. 3</field>
+<field name="state_country">Virginia</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Virginia Beach (Virginia) Public Schools</field>
+<field name="title">A study of the relative size of attendance groups in the Virginia Beach 45-15
+pilot program</field>
+<field name="year">1974</field>
+<field name="date">10/1974</field>
+<field name="pages">9</field>
+<field name="keywords">School year</field>
+<field name="notes">9 p. ; 22 cm.; Note(s): Cover title: Attendance group study: group A, group B,
+group C, group D.; Other Titles: Attendance group study.; Responsibility: prepared by Department of
+Research, Planning &amp;Development, Virginia Beach Public Schools.</field>
+<field name="series_title">The Virginia Beach, Virginia 45-15 pilot program of year-round
+education</field>
+<field name="publisher">Virginia Beach (Virginia) Public Schools</field>
+<field name="pub_place">Virginia Beach, VA</field>
+<field name="language">English</field>
+<field name="call_number">375.13 .V81y no. 1</field>
+<field name="state_country">Virginia</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">MacDonald, Robert H.</field><field name="author_nat">Robert H. MacDonald</field>
+<field name="author">Anderson, Bruce</field><field name="author_nat">Bruce Anderson</field>
+<field name="title">The effect of the 45-15 pilot program on community services in Virginia Beach,
+Virginia</field>
+<field name="year">1974</field>
+<field name="date">07/1974</field>
+<field name="pages">20</field>
+<field name="keywords">Recreation</field>
+<field name="keywords">Youth</field>
+<field name="notes">20 p. ; 21 cm.; Responsibility: by Robert H. MacDonald, Bruce Anderson.</field>
+<field name="publisher">Virginia Beach (Virginia) Public Schools</field>
+<field name="pub_place">Virginia Beach, VA</field>
+<field name="language">English</field>
+<field name="call_number">375.13 .V81y no. 4</field>
+<field name="state_country">Virginia</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Schlechty, Phillip C.</field><field name="author_nat">Phillip C. Schlechty</field>
+<field name="corp_author">Virginia Beach (Virginia) Public Schools</field>
+<field name="title">Parent attitudes toward the Virginia Beach year-round school pilot
+project</field>
+<field name="year">1974</field>
+<field name="date">10/1974</field>
+<field name="pages">47</field>
+<field name="keywords">School year</field>
+<field name="notes">47 p. ; 22 cm.; Note(s): On cover: Final report.; Responsibility: a report
+presented to the Virginia Beach Public Schools by Phillip C. Schlechty.</field>
+<field name="series_title">The Virginia Beach, Virginia 45-15 pilot program of year-round
+education</field>
+<field name="publisher">Virginia Beach (Virginia) Public Schools</field>
+<field name="pub_place">Virginia Beach, VA</field>
+<field name="language">English</field>
+<field name="call_number">375.13 .V81y no. 8</field>
+<field name="state_country">Virginia</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Virginia Beach (Virginia) Public Schools</field>
+<field name="corp_author">Schlechty Associates</field>
+<field name="title">The extensiveness and accuracy of parent information about the Virginia Beach
+45-15 pilot program</field>
+<field name="year">1973</field>
+<field name="date">04/1973</field>
+<field name="pages">37</field>
+<field name="keywords">School year</field>
+<field name="notes">37 p. ; 22 cm.; Responsibility: a report presented to Virginia Beach Public
+Schools by Schlechty Associates.</field>
+<field name="series_title">The Virginia Beach, Virginia 45-15 pilot program of year-round
+education</field>
+<field name="publisher">Virginia Beach (Virginia) Public Schools</field>
+<field name="pub_place">Virginia Beach, VA</field>
+<field name="language">English</field>
+<field name="call_number">375.13 .V81y no. 5</field>
+<field name="state_country">Virginia</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Virginia Beach (Virginia) Public Schools</field>
+<field name="title">News view : a compilation of newspaper reports and features about The Virginia
+Beach, Virginia, pilot program of year-round education</field>
+<field name="year">1973</field>
+<field name="date">1973-1974</field>
+<field name="keywords">School year</field>
+<field name="notes">2 v. .; v. ill. 27 cm; Note(s): Subtitle varies.</field>
+<field name="publisher">Virginia Beach (Virginia) Public Schools</field>
+<field name="pub_place">Virginia Beach, VA</field>
+<field name="language">English</field>
+<field name="call_number">375.13 .V81y nos. 6-7</field>
+<field name="state_country">Virginia</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Virginia Beach (Virginia) Public Schools</field>
+<field name="title">A public information approach</field>
+<field name="year">1973</field>
+<field name="date">04/1973</field>
+<field name="pages">7</field>
+<field name="keywords">School year</field>
+<field name="notes">7 p. ; 22 cm.; Note(s): Cover title.</field>
+<field name="series_title">The Virginia Beach, Virginia 45-15 pilot program of year-round
+education</field>
+<field name="publisher">Virginia Beach (Virginia) Public Schools</field>
+<field name="pub_place">Virginia Beach, VA</field>
+<field name="language">English</field>
+<field name="call_number">375.13 .V81y no. 11</field>
+<field name="state_country">Virginia</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Virginia Beach (Virginia) Public Schools</field>
+<field name="title">A rationale</field>
+<field name="year">1973</field>
+<field name="date">04/1973</field>
+<field name="keywords">School year</field>
+<field name="series_title">The Virginia Beach, Virginia 45-15 pilot program of year-round
+education</field>
+<field name="publisher">Virginia Beach (Virginia) Public Schools</field>
+<field name="pub_place">Virginia Beach, VA</field>
+<field name="language">English</field>
+<field name="call_number">375.13 .V81y no. 12</field>
+<field name="state_country">Virginia</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Virginia Beach (Virginia) Public Schools</field>
+<field name="title">The planning and preparation phase of the Virginia Beach, Virginia pilot program
+of year-round education : critical incidents, task identification, role assignments</field>
+<field name="year">1973</field>
+<field name="date">04/1973</field>
+<field name="keywords">School year</field>
+<field name="notes">[26] p. ; 22 cm.; Note(s): Cover title.</field>
+<field name="series_title">The Virginia Beach, Virginia 45-15 pilot program of year-round
+education</field>
+<field name="publisher">Virginia Beach (Virginia) Public Schools</field>
+<field name="pub_place">Virginia Beach, VA</field>
+<field name="language">English</field>
+<field name="call_number">375.13 .V81y no. 9</field>
+<field name="state_country">Virginia</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Brickell, E. E.</field><field name="author_nat">E. E. Brickell</field>
+<field name="title">A research and development approach to year-round education</field>
+<field name="series_title">Proceedings of the Fifth National Seminar on Year-Round Education, May
+8-11, 1973, Virginia Beach, Virginia, pp. 145-149</field>
+<field name="year">1973</field>
+<field name="date">05/1973</field>
+<field name="keywords">School year</field>
+<field name="publisher">Virginia State Department of Education</field>
+<field name="pub_place">Richmond, VA</field>
+<field name="language">English</field>
+<field name="call_number">375.13 .V81y no. 10</field>
+<field name="state_country">Virginia</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Mounie, James C</field><field name="author_nat">James C Mounie</field>
+<field name="author">Holgate, John F.</field><field name="author_nat">John F. Holgate</field>
+<field name="title">45-15--a pilot program of year-round education</field>
+<field name="series_title">Proceedings of the Fifth National Seminar on Year-Round Education, May
+8-11, 1973, Virginia Beach, Virginia, pp. 103-110</field>
+<field name="year">1973</field>
+<field name="date">05/1973</field>
+<field name="keywords">School year</field>
+<field name="publisher">Virginia State Department of Education</field>
+<field name="pub_place">Richmond, VA</field>
+<field name="language">English</field>
+<field name="call_number">375.13 .V81y no. 10</field>
+<field name="state_country">Virginia</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Galfo, Armand</field><field name="author_nat">Armand Galfo</field>
+<field name="author">Ries, Roger</field><field name="author_nat">Roger Ries</field>
+<field name="title">The Virginia Beach 45-15 school year : administrators' and supervisors'
+reactions</field>
+<field name="year">1974</field>
+<field name="date">11/1974</field>
+<field name="pages">9</field>
+<field name="keywords">School year</field>
+<field name="notes">9 p. ; 22 cm.; Note(s): Cover title: Staff reaction.; Responsibility: submitted
+by Armand Galfo, Roger Ries.</field>
+<field name="series_title">The Virginia Beach, Virginia 45-15 pilot program of year-round education;
+Variation: Virginia Beach, Virginia 45-15 pilot program of year-round education.</field>
+<field name="publisher">Virginia Beach (Virginia) Public Schools</field>
+<field name="pub_place">Virginia Beach, VA</field>
+<field name="language">English</field>
+<field name="call_number">375.13 .V81y no. 16</field>
+<field name="state_country">Virginia</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Virginia Beach (Virginia) Public Schools</field>
+<field name="title">A review of the pilot program of year-round education in Virginia Beach,
+Virginia</field>
+<field name="year">1974</field>
+<field name="date">04/1974</field>
+<field name="keywords">School year</field>
+<field name="notes">ill. ; 28 cm.; Responsibility: prepared by Office of Research, Planning and
+Development, Virginia Beach City Public Schools.</field>
+<field name="series_title">The Virginia Beach, Virginia 45-15 pilot program of year-round education;
+Variation: Virginia Beach, Virginia 45-15 pilot program of year-round education.</field>
+<field name="publisher">Virginia Beach (Virginia) Public Schools</field>
+<field name="pub_place">Virginia Beach, VA</field>
+<field name="language">English</field>
+<field name="call_number">375.13 .V81y no. 15</field>
+<field name="state_country">Virginia</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Virginia Beach (Virginia) Public Schools</field>
+<field name="title">Response : a compilation of public hearing comments about the Virginia Beach,
+Virginia, 45-15 pilot program of year-round education</field>
+<field name="year">1974</field>
+<field name="date">10/1974</field>
+<field name="keywords">School year</field>
+<field name="notes">[101] p. ; 22 cm.; Note(s): Cover title.</field>
+<field name="series_title">The Virginia Beach, Virginia 45-15 pilot program of year-round
+education</field>
+<field name="publisher">Virginia Beach (Virginia) Public Schools</field>
+<field name="pub_place">Virginia Beach, VA</field>
+<field name="language">English</field>
+<field name="call_number">375.13 .V81y no. 14</field>
+<field name="state_country">Virginia</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Virginia Beach (Virginia) Public Schools</field>
+<field name="title">A research design for year-round education : the Virginia Beach, Virginia Pilot
+program of 45-15 cycled attendance</field>
+<field name="year">1973</field>
+<field name="date">04/1973</field>
+<field name="pages">16</field>
+<field name="keywords">School year</field>
+<field name="notes">16 p. ; 22 cm.; Note(s): Cover title.</field>
+<field name="series_title">The Virginia Beach, Virginia 45-15 pilot program of year-round
+education</field>
+<field name="publisher">Virginia Beach (Virginia) Public Schools</field>
+<field name="pub_place">Virginia Beach, VA</field>
+<field name="language">English</field>
+<field name="call_number">375.13 .V81y no. 13</field>
+<field name="state_country">Virginia</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Virginia Beach (Virginia) Public Schools</field>
+<field name="title">Staff recommendation for the termination of the 45-15 program of year-round
+education</field>
+<field name="year">1974</field>
+<field name="date">1974?</field>
+<field name="pages">3</field>
+<field name="keywords">School year</field>
+<field name="publisher">Virginia Beach (Virginia) Public Schools</field>
+<field name="pub_place">Virginia Beach, VA</field>
+<field name="language">English</field>
+<field name="call_number">375.13 .V81y no. 17</field>
+<field name="state_country">Virginia</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Powers, Donald</field><field name="author_nat">Donald Powers</field>
+<field name="title">The Virginia Beach extended school year program and its effects on student
+achievement and attitudes : first year report</field>
+<field name="year">1974</field>
+<field name="date">11/1974</field>
+<field name="keywords">School year</field>
+<field name="notes">[50] p. ; 22 cm.; Note(s): Cover title: Student achievement.; Other Titles:
+Student achievement.; Responsibility: submitted by Donald Powers, principal investigator,
+Educational Testing Service, Princeton, N.J.</field>
+<field name="series_title">The Virginia Beach, Virginia 45-15 pilot program of year-round
+education</field>
+<field name="publisher">Virginia Beach (Virginia) Public Schools</field>
+<field name="pub_place">Virginia Beach, VA</field>
+<field name="language">English</field>
+<field name="call_number">375.13 .V81y no. 18</field>
+<field name="state_country">Virginia</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Schlechty Associates</field>
+<field name="title">A survey of parent attitudes toward and perceptions about the Virginia Beach
+45-15 Pilot Program</field>
+<field name="year">1973</field>
+<field name="date">06/1973</field>
+<field name="keywords">School year</field>
+<field name="notes">ill. ; 22 cm.; Note(s): The Virginia Beach, Virginia 45-15 pilot program [of
+year-round education].; Responsibility: presented to The Virginia Beach City Public Schools by
+Schlechty Associates.</field>
+<field name="publisher">Schlechty Associates</field>
+<field name="pub_place">Virginia Beach, VA</field>
+<field name="language">English</field>
+<field name="call_number">375.13 .V81y no. 20</field>
+<field name="state_country">Virginia</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">PERT/CPM Team</field>
+<field name="title">Summative report of planning and preparation phase of Virginia Beach 45-15
+year-round education pilot program</field>
+<field name="year">1973</field>
+<field name="date">06/1973</field>
+<field name="keywords">School year</field>
+<field name="notes">[60] p. ; 22 cm.; Responsibility: submitted by PERT/CPM Team [Old Dominion
+University].</field>
+<field name="series_title">The Virginia Beach, Virginia 45-15 pilot program of year-round education;
+Variation: Virginia Beach, Virginia 45-15 pilot program of year-round education.</field>
+<field name="publisher">Virginia Beach (Virginia) Public Schools</field>
+<field name="pub_place">Virginia Beach, VA</field>
+<field name="language">English</field>
+<field name="call_number">375.13 .V81y no. 19</field>
+<field name="state_country">Virginia</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Visalia (California) Elementary Schools</field>
+<field name="title">Course of study outline, grades one. two and three</field>
+<field name="pages">16</field>
+<field name="keywords">Curricula</field>
+<field name="keywords">Elementary education</field>
+<field name="publisher">Visalia (California) Elementary Schools</field>
+<field name="pub_place">Visalia, CA</field>
+<field name="language">English</field>
+<field name="call_number">375.13 .V82c v. 1</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Visalia (California) Elementary Schools</field>
+<field name="title">Course of study outline, grades one. two, three and four</field>
+<field name="year">1964</field>
+<field name="date">1964</field>
+<field name="pages">40</field>
+<field name="keywords">Curricula</field>
+<field name="keywords">Elementary education</field>
+<field name="edition">Rev</field>
+<field name="publisher">Visalia (California) Elementary Schools</field>
+<field name="pub_place">Visalia, CA</field>
+<field name="language">English</field>
+<field name="call_number">375.13 .V82c 1964 v. 1</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Visalia (California) Elementary Schools</field>
+<field name="title">Course of study outline, fifth grade, sixth grade</field>
+<field name="year">1964</field>
+<field name="date">1964</field>
+<field name="pages">44</field>
+<field name="keywords">Curricula</field>
+<field name="keywords">Elementary education</field>
+<field name="edition">Rev</field>
+<field name="publisher">Visalia (California) Elementary Schools</field>
+<field name="pub_place">Visalia, CA</field>
+<field name="language">English</field>
+<field name="call_number">375.13 .V82c 1964 v. 2</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Visalia (California) Elementary Schools</field>
+<field name="title">Course of study outline, seventh and eighth grades</field>
+<field name="year">1964</field>
+<field name="date">1964</field>
+<field name="pages">43</field>
+<field name="keywords">Curricula</field>
+<field name="keywords">Elementary education</field>
+<field name="publisher">Visalia (California) Elementary Schools</field>
+<field name="pub_place">Visalia, CA</field>
+<field name="language">English</field>
+<field name="call_number">375.13 .V82c 1964 v. 3</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Waco (Texas) Independent School District</field>
+<field name="title">Resource units in social studies, science, health for elementary grades
+(1-6)</field>
+<field name="year">1957</field>
+<field name="keywords">Social sciences</field>
+<field name="keywords">Science</field>
+<field name="keywords">Health education</field>
+<field name="notes">6 v. : ill. ; 28 cm.; Note(s): Includes bibliographical references and
+index.</field>
+<field name="series_title">Curriculum bulletin (Waco Independent School District)</field>
+<field name="series_vol">2</field>
+<field name="publisher">Waco (Texas) Independent School District</field>
+<field name="pub_place">Waco, TX</field>
+<field name="language">English</field>
+<field name="call_number">375.13 .W11r v. 1-6</field>
+<field name="state_country">Texas</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Walworth County (Wisconsin) Superintendent of Schools</field>
+<field name="title">Curriculum guide for grades one to eight</field>
+<field name="keywords">Curricula</field>
+<field name="keywords">Elementary education</field>
+<field name="publisher">Walworth County (Wisconsin) Superintendent of Schools</field>
+<field name="pub_place">Elkhorn, WI</field>
+<field name="language">English</field>
+<field name="call_number">375.13 .W24c</field>
+<field name="state_country">Wisconsin</field>
+<field name="grade_level_group">Elementary</field>
+<field name="grade_level_group">Middle school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Eastern Washington College of Education. Laboratory School</field>
+<field name="title">Tomorrow's citizen today</field>
+<field name="keywords">Laboratory schools</field>
+<field name="publisher">Eastern Washington College of Education. Laboratory School</field>
+<field name="pub_place">Cheney, WA</field>
+<field name="language">English</field>
+<field name="call_number">375.13 .W31t</field>
+<field name="state_country">Washington</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Washington (State). Superintendent of Public Instruction</field>
+<field name="title">Tentative curriculum guide, grades 1-6 ..</field>
+<field name="year">1957</field>
+<field name="date">1957-1958</field>
+<field name="keywords">Curricula</field>
+<field name="keywords">Elementary education</field>
+<field name="notes">2 v.</field>
+<field name="publisher">Washington (State). Superintendent of Public Instruction</field>
+<field name="pub_place">Olympia, WA</field>
+<field name="language">English</field>
+<field name="call_number">375.13 .W319c v. 1-2</field>
+<field name="state_country">Washington</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Webster Groves (Missouri) Public Schools</field>
+<field name="title">Aids to teaching language arts - social studies in the elementary school</field>
+<field name="year">1948</field>
+<field name="date">1948</field>
+<field name="pages">78</field>
+<field name="keywords">Language arts</field>
+<field name="keywords">Social sciences</field>
+<field name="abstract">pt. 1. Kindergarten - grades I and II</field>
+<field name="notes">1 v. : charts ; 28 cm.; Note(s): Includes bibliographical references.</field>
+<field name="publisher">Webster Groves (Missouri) Public Schools</field>
+<field name="pub_place">Webster Groves, MO</field>
+<field name="language">English</field>
+<field name="call_number">375.13 .W37a v. 1</field>
+<field name="state_country">Missouri</field>
+<field name="grade_level_number">Kindergarten</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Webster Groves (Missouri) Public Schools</field>
+<field name="title">Aids to teaching the social studies-- language arts core program, grades 7 and
+8</field>
+<field name="year">1948</field>
+<field name="date">1948</field>
+<field name="pages">108</field>
+<field name="keywords">Social sciences</field>
+<field name="keywords">English language</field>
+<field name="notes">108, 8, 3; ; 28 cm.</field>
+<field name="publisher">Webster Groves (Missouri) Public Schools</field>
+<field name="pub_place">Webster Groves, MO</field>
+<field name="language">English</field>
+<field name="call_number">375.13 .W37a v. 3</field>
+<field name="state_country">Missouri</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Webster Groves (Missouri) Public Schools</field>
+<field name="title">Aids to teaching the social studies-- language arts core program, grades 7 and
+8</field>
+<field name="year">1959</field>
+<field name="date">1959</field>
+<field name="pages">100</field>
+<field name="keywords">Social sciences</field>
+<field name="keywords">English language</field>
+<field name="publisher">Webster Groves (Missouri) Public Schools</field>
+<field name="pub_place">Webster Groves, MO</field>
+<field name="language">English</field>
+<field name="call_number">375.13 .W37a 1959 v. 3</field>
+<field name="state_country">Missouri</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Wilmette (Illinois) School District No. 39</field>
+<field name="title">Design for human growth</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="pages">142</field>
+<field name="keywords">Elementary education</field>
+<field name="keywords">Secondary education</field>
+<field name="keywords">Curricula</field>
+<field name="notes">ill. ; 28 cm.; Responsibility: Wilmette Public School District.</field>
+<field name="publisher">Wilmette (Illinois) School District No. 39</field>
+<field name="pub_place">Wilmette, IL</field>
+<field name="language">English</field>
+<field name="call_number">375.13 .W74d</field>
+<field name="state_country">Illinois</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Western New Mexico University. Teacher Education Center</field>
+<field name="title">Perceptions in early childhood creativity exer-genie</field>
+<field name="year">1966</field>
+<field name="date">1966</field>
+<field name="pages">38</field>
+<field name="keywords">Creative ability in children</field>
+<field name="series_title">WRI T-L</field>
+<field name="series_vol">1</field>
+<field name="issue">4</field>
+<field name="publisher">Western New Mexico University. Teacher Education Center</field>
+<field name="pub_place">Silver City, NM</field>
+<field name="language">English</field>
+<field name="call_number">375.13 .W51p</field>
+<field name="state_country">New Mexico</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+</add>

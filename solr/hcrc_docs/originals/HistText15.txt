@@ -1,0 +1,1087 @@
+
+
+
+
+TY  - BOOK
+A2  - New Jersey State Department of Education
+T1  - High school organization in New Jersey
+KW  - Secondary education
+KW  - High schools
+PB  - New Jersey State Department of Education
+CY  - Trenton NJ
+LA  - English
+CN  - 375.15 .N522h
+SC  - New Jersey
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New Trier (Illinois) Township High School West
+T1  - Curriculum Guide, 1967-1968
+Y1  - 1967
+D1  - 1967-1968
+SP  - 65
+KW  - High schools
+KW  - Curricula
+PB  - New Trier (Illinois) Township High School West
+CY  - Northfield, IL
+LA  - English
+CN  - 375.15 .N531ce
+SC  - Illinois
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New Trier (Illinois) Township High School East
+T1  - Curriculum Guide, 1967-1968
+Y1  - 1967
+D1  - 1967-1968
+SP  - 71
+KW  - High schools
+KW  - Curricula
+PB  - New Trier (Illinois) Township High School East
+CY  - Winnetka, IL
+LA  - English
+CN  - 375.15 .N531cw
+SC  - Illinois
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Norfolk (Virginia) City Schools
+T1  - Program of studies for the secondary schools of Norfolk, Virginia
+Y1  - 1966
+D1  - 09/1966
+SP  - 7
+KW  - High schools
+KW  - Curricula
+PB  - Norfolk (Virginia) City Schools
+CY  - Norfolk, VA
+LA  - English
+CN  - 375.15 .N83p
+SC  - Virginia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - North Carolina State Board of Education
+T1  - A status report of the high school curriculum, grades 9-12
+Y1  - 1960
+D1  - 1960
+SP  - 25
+KW  - High schools
+KW  - Curricula
+PB  - North Carolina State Board of Education
+CY  - Raleigh, NC
+LA  - English
+CN  - 375.15 .N86s
+SC  - North Carolina
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Oakdale (California) Joint Union High School
+T1  - Courses of study
+Y1  - 1957
+D1  - 1957-1958
+KW  - High schools
+KW  - Curricula
+PB  - Oakdale (California) Joint Union High School
+CY  - Oakdale, CA
+LA  - English
+CN  - 375.15 .O11c
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Secondary Curriculum Development
+T1  - Administrator's handbook on the secondary school curriculum of New York State
+Y1  - 1960
+D1  - 1960
+SP  - 72
+KW  - High schools
+KW  - Curricula
+N1  - 72 p. diagrs. 28 cm.; Note(s): Includes bibliographies.
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 375.15 .N52a
+SC  - New York
+G1  - High school
+ER  - 
+ 
+TY  - BOOK
+A1  - Wood,Hugh Bernard
+A1  - Hatch, Elinor
+A1  - Macy, M. J.
+A1  - Phelps, Victor N.
+A1  - Phillips, Robert
+A1  - DeKorte, Dena
+A1  - Farnsworth, Pearl
+T1  - Instruments for measuring "intangibles"
+Y1  - 1974
+D1  - 11/1974
+SP  - 40
+KW  - Creative ability
+KW  - Testing
+N1  - 40 p. ; 28 cm.; Note(s): Cover title.; Responsibility: prepared by Hugh B. Wood ... [et al.].
+T2  - Oregon ASCD curriculum bulletin
+V1  - 28
+IS  - 11/1974
+PB  - Oregon Association for Supervision and Curriculum Development
+CY  - Salem, OR
+LA  - English
+CN  - 375.15 .O65i
+ER  - 
+
+TY  - BOOK
+A1  - Heusser, H. Earl
+T1  - Evaluation-accreditation of secondary schools
+Y1  - 1968
+D1  - 08/1968
+SP  - 17
+KW  - Educational surveys
+KW  - High schools
+KW  - Accreditation
+N1  - 17 p.
+T2  - Curriculum bulletin
+V1  - 24
+IS  - 293
+PB  - School of Education, University of Oregon
+CY  - Eugene, OR
+LA  - English
+CN  - 375.15 .O67e
+ER  - 
+
+TY  - BOOK
+A1  - McGovern, Eugenia Gaye Roddis
+A1  - Crume, Jule
+T1  - Learning activity packages in the secondary curriculum
+Y1  - 1975
+D1  - 04/1975
+SP  - 40
+KW  - Programmed instruction
+N1  - ill. ; 28 cm.; Note(s): Cover title./ Includes bibliographical references.; Responsibility: prepared by Eugenia Gaye Roddis McGovern.
+T2  - Oregon ASCD curriculum bulletin
+V1  - 29
+IS  - 327
+PB  - Oregon Association for Supervision and Curriculum Development
+CY  - Salem, OR
+LA  - English
+CN  - 375.15 .O65L
+ER  - 
+
+TY  - BOOK
+A2  - Oregon State Department of Education
+T1  - Standards for public secondary schools in Oregon
+Y1  - 1956
+D1  - 1956
+SP  - 28
+KW  - Secondary education
+KW  - Standards
+KW  - High schools
+N1  - 28 pages ; 23 cm; Note(s): Cover title.; Responsibility: issued by the State Department of Education.
+PB  - Oregon State Department of Education
+CY  - Salem, OR
+LA  - English
+CN  - 375.15 .O66s
+SC  - Oregon
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Schwartz, Robert B.
+T1  - The clinical school program
+Y1  - 1969
+D1  - 11/1969
+SP  - 24
+KW  - Curriculum change
+KW  - Educational innovations
+KW  - Experimental methods
+KW  - Secondary education
+KW  - Curricula
+N1  - Note(s): Cover title.; Responsibility: by Robert B. Schwartz ... [et al.] editor, Hugh B. Wood.
+T2  - University of Oregon. Curriculum Laboratory. Curriculum bulletin
+V1  - 25
+IS  - 308
+PB  - College of Education, University of Oregon
+CY  - Eugene, OR
+LA  - English
+CN  - 375.15 .O67c
+ER  - 
+
+TY  - BOOK
+A1  - Garner, Ronald Alec
+T1  - Independent study in secondary schools
+Y1  - 1967
+D1  - 08/1967
+SP  - 21
+KW  - Independent study
+KW  - Study skills
+KW  - Curriculum planning
+KW  - Secondary education
+KW  - High schools
+KW  - Curricula
+T2  - University of Oregon. Curriculum Laboratory. Curriculum bulletin
+V1  - 23
+IS  - 281
+PB  - University of Oregon. Curriculum Laboratory
+CY  - Eugene, OR
+LA  - English
+CN  - 375.15 .O67i
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Kitzhaber, Albert R.
+T1  - A liberal arts view of the secondary school curriculum : a summary of critiques of the Portland Curriculum survey
+Y1  - 1962
+D1  - 01/1962
+SP  - 43
+KW  - Curriculum
+KW  - High schools
+N1  - 43 p.; Other Titles: Portland curriculum survey; Responsibility: prepared by Albert R. Kitzhaber ... [et al.].
+T2  - University of Oregon. School of Education. Curriculum bulletin
+V1  - 18
+IS  - 219
+PB  - University of Oregon. School of Education
+CY  - Eugene, OR
+LA  - English
+CN  - 375.15 .O67L
+SC  - Oregon
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Reich, Robert H.
+T1  - Knowledge of the human being as a learner
+Y1  - 1966
+D1  - 02/1966
+SP  - 9
+KW  - Teacher-student relationships
+KW  - Psychology of learning
+N1  - 9 p.; Note(s): Cover title.
+T2  - University of Oregon. School of Education. Curriculum bulletin
+V1  - 22
+IS  - 02/1966
+PB  - University of Oregon. School of Education
+CY  - Eugene, OR
+LA  - English
+CN  - 375.15 .O67k
+ER  - 
+
+TY  - BOOK
+A1  - Sybouts, Ward
+T1  - The Oregon six-year secondary school
+Y1  - 1967
+D1  - 01/1967
+SP  - 15
+KW  - School management and organization
+KW  - High schools
+N1  - 15 l. charts, tables. 28 cm.; Note(s): Cover title.; Responsibility: editor, Hugh B. Wood.
+T2  - University of Oregon. Curriculum Laboratory. Curriculum bulletin
+V1  - 23
+IS  - 274
+PB  - University of Oregon. School of Education
+CY  - Eugene, OR
+LA  - English
+CN  - 375.15 .O67o
+SC  - Oregon
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Wood, Hugh B.
+T1  - A program for neglected youth
+Y1  - 1969
+D1  - 02/1969
+SP  - 17
+KW  - School dropouts
+T2  - University of Oregon. School of Education. Curriculum bulletin
+V1  - 25
+IS  - 299
+PB  - University of Oregon. School of Education
+CY  - Eugene, OR
+LA  - English
+CN  - 375.15 .O67p
+ER  - 
+
+TY  - BOOK
+A2  - Pasadena (California) City School District
+T1  - Procedure for curriculum development and the adoption of instructional materials in the secondary schools
+Y1  - 1947
+D1  - 1947-1948
+SP  - 55
+KW  - Secondary education
+KW  - Curricula
+N1  - ill. ; 23 cm.; Responsibility: prepared by Youldon C. Howell ... [et. al.]
+T2  - Secondary curriculum publication
+V1  - 7
+PB  - Pasadena (California) City School District
+CY  - Pasadena, CA
+LA  - English
+CN  - 375.15 .P27p
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Pasadena (California) City School District
+T1  - High school course of study handbook
+Y1  - 1955
+D1  - 1955-1956
+SP  - 61
+KW  - Curricula
+KW  - High schools
+PB  - Pasadena (California) City School District
+CY  - Pasadena CA
+LA  - English
+CN  - 375.15 .P27h 1955
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Pasadena (California) City School District
+T1  - High school course of study handbook
+Y1  - 1963
+D1  - 1963
+SP  - 50
+KW  - Curricula
+KW  - High schools
+PB  - Pasadena (California) City School District
+CY  - Pasadena CA
+LA  - English
+CN  - 375.15 .P27h 1955
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Trump, J. Lloyd
+T1  - Sixteen issues concerning future comprehensive improvement of schools
+Y1  - 1968
+D1  - 11/1968
+KW  - Educational change
+SP  - 9
+N1  - 9 p.
+T2  - University of Oregon. School of Education. Curriculum bulletin
+V1  - 24
+IS  - 296
+PB  - College of Education, University of Oregon
+CY  - Eugene, OR
+LA  - English
+CN  - 375.15 .O67s
+ER  - 
+
+TY  - BOOK
+A1  - Tyler, C. Edward
+T1  - Team teaching; its operational definition, its historical development nationally, and a description of programs in the senior high schools of Oregon
+Y1  - 1967
+D1  - 01/1968
+SP  - 77
+KW  - Teaching teams
+N1  - 77 l. 28 cm.; Note(s): With: A cost analysis of teacher salary schedules and distributions, 1963-64. Eugene : Oregon School Study Council, 1965. Bound together subsequent to publication./ Bibliography: leaves 75-77.; Responsibility: by C. Edward Tyler.
+T2  - University of Oregon. School of Education. Curriculum bulletin
+PB  - College of Education, University of Oregon
+CY  - Eugene, OR
+LA  - English
+CN  - 375.15 .O67t
+ER  - 
+
+TY  - BOOK
+A2  - Oxnard (California) Union High School District
+T1  - The curriculum, 1958-1959
+Y1  - 1958
+D1  - 1958-1959
+KW  - High schools
+KW  - Curricula
+PB  - Oxnard (California) Union High School District
+CY  - Oxnard, CA
+LA  - English
+CN  - 375.15 .O98c
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Palo Alto (California) Unified School District
+T1  - Outlines of Courses, Palo Alto junior and senior high schools
+Y1  - 1954
+D1  - 1954-1955
+KW  - Junior high schools
+KW  - High schools
+KW  - Curricula
+PB  - Palo Alto (California) Unified School District
+CY  - Palo Alto, CA
+LA  - English
+CN  - 375.15 .P18o
+SC  - California
+G1  - Middle school
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Rich Township High School (Park Forest, Illinois)
+T1  - Course offerings, 1956-1957
+Y1  - 1956
+D1  - 1956-1957
+SP  - 23
+KW  - High schools
+KW  - Curricula
+PB  - Rich Township High School
+CY  - Park Forest, IL
+LA  - English
+CN  - 375.15 .P23c
+SC  - Illinois
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Portland (Oregon) Public Schools
+T1  - Progress report; high school curriculum study, a program for improving instruction for capable high school students
+Y1  - 1961
+D1  - 1961
+SP  - 31
+KW  - Secondary education
+KW  - Curricula
+N1  - 31 p.; Note(s): Cover title.; Other Titles: High school curriculum study
+PB  - Portland (Oregon) Public Schools
+CY  - Portland, OR
+LA  - English
+CN  - 375.15 .P85h v. 1
+SC  - Oregon
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Smith, Ronald O.
+A2  - Portland (Oregon) Public Schools
+T1  - The Portland high school curriculum study
+Y1  - 1962
+D1  - 06/1962
+SP  - 9
+KW  - High schools
+KW  - Curricula
+T2  - Portland (Oregon) Public Schools. Secondary curriculum reports
+V1  - 9
+IS  - 9
+PB  - Portland (Oregon) Public Schools
+CY  - Portland, OR
+LA  - English
+CN  - 375.15 .P85h v. 2
+SC  - Oregon
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Richmond (Virginia) Public Schools
+T1  - Tentative reorganized curriculum
+Y1  - 1947
+D1  - 09/1947
+SP  - 317
+KW  - Curricula
+PB  - Richmond (Virginia) Public Schools
+CY  - Richmond, VA
+LA  - English
+CN  - 375.15 .R53t
+SC  - Virginia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Riverside-Brookfield Township High School
+T1  - Course descriptions
+Y2  - 1968
+D1  - 1968
+SP  - 59
+KW  - High schools
+KW  - Curricula
+PB  - Riverside-Brookfield Township High School
+CY  - Riverside, IL
+LA  - English
+CN  - 375.15 .R62c
+SC  - Illinois
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Rochester (Minnesota) Public Schools
+T1  - Slow learner course of study (tentative)
+Y1  - 1968
+D1  - 1968
+SP  - 101
+KW  - Slow learning children
+N1  - iv; ; 22 x 28 cm.; Note(s): Includes bibliographical references.
+PB  - Rochester (Minnesota) Public Schools
+CY  - Rochester, MN
+LA  - English
+CN  - 375.15 .R67s
+SC  - Minnesota
+ER  - 
+
+TY  - BOOK
+A1  - Ritchey, Mercedes B.
+T1  - Staff utilization in cooperative teaching
+Y1  - 1964
+D1  - 1964
+SP  - 29
+KW  - Teaching teams
+N1  - iii, 29 leaves ; 28 cm.; Note(s): Cover title./ Rev. ed. of the author's Team teaching in San Diego, issued in 1961./ Includes bibliographical references (leaf 29).; Responsibility: by Mercedes B. Ritchey.
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 375.15 .S19s
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - San Diego (California) City Schools
+T1  - A digest of the secondary school curriculum; grade 9-12
+Y1  - 1976
+D1  - 1976
+KW  - Curricula
+KW  - High school
+N1  - 1 v.
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 375.15 .S19d
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - San Francisco (California) Unified School District
+T1  - Curriculum foundations for the San Francisco secondary schools
+Y1  - 1943
+D1  - 1943
+SP  - 109
+KW  - Curricula
+KW  - High schools
+KW  - Secondary education
+N1  - 109 p., 1 l. forms, diagrs. (1 fold.) 23 cm.; Note(s): On cover: San Francisco unified school district.
+PB  - San Francisco (California) Unified School District
+CY  - San Francisco, CA
+LA  - English
+CN  - 375.15 .S19c
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Shaffer, E. Evan
+A2  - San Diego (California) City Schools
+T1  - Handbook for organizing secondary summer schools
+Y1  - 1970
+D1  - 01/1970
+SP  - 61
+KW  - Secondary education
+KW  - Summer schools
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 375.15 .S19h
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - San Diego (California) City Schools
+T1  - Report of the workshop on educational specifications for Will C. Crawford Senior High School addition
+Y1  - 1959
+D1  - 08/1959
+SP  - 29
+KW  - High schools
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 375.15 .S194c
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - San Diego (California) City Schools
+T1  - A digest of the secondary school curriculum
+Y1  - 1966
+D1  - 1966
+SP  - 174
+KW  - High school
+KW  - Curricula
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 375.15 .S194d 1966
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - San Diego (California) City Schools
+T1  - A digest of the secondary school curriculum
+Y1  - 1965
+D1  - 1965
+SP  - 174
+KW  - High school
+KW  - Curricula
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 375.15 .S194d 1965
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Santa Monica (California) High School
+T1  - Student's handbook
+SP  - 79
+KW  - High schools
+N1  - Cover: What you need to know about your educational program at Santa Monica High School
+PB  - Santa Monica (California) High School
+CY  - Santa Monica, CA
+LA  - English
+CN  - 375.15 .S23w
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Scranton (Pennsylvania) Public Schools
+T1  - Program of studies, 1960-1962
+Y1  - 1960
+D1  - 1960-1962
+SP  - 34
+KW  - Curricula
+PB  - Scranton (Pennsylvania) Public Schools
+CY  - Scranton, PA
+LA  - English
+CN  - 375.15 .S43p
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Seattle (Washington) Schools
+T1  - An evaluation of the Sealth plan in its first year, 1965-1966
+Y1  - 1966
+D1  - 05/1966
+KW  - High schools
+PB  - Seattle (Washington) Schools
+CY  - Seattle, WA
+LA  - English
+CN  - 375.15 .S44e
+SC  - Washington
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - San Diego (California) City Schools
+T1  - A digest of the secondary school curriculum
+Y1  - 1963
+D1  - 1963
+SP  - 168
+KW  - High school
+KW  - Curricula
+N1  - 168 p. ; cm.
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 375.15 .S194d 1966
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Shorewood (Wisconsin) Board of Education
+T1  - A handbook of the curriculum, Shorewood Senior High School
+Y1  - 1952
+D1  - 1952
+SP  - 144
+KW  - Curricula
+KW  - High schools
+PB  - Shorewood (Wisconsin) Board of Education
+CY  - Shorewood, WI
+LA  - English
+CN  - 375.15 .S55c
+SC  - Wisconsin
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - South Carolina State Board of Education
+T1  - Standards for accredited high schools of South Carolina
+Y1  - 1956
+D1  - 1956
+SP  - 58
+KW  - High schools
+KW  - Standards
+PB  - South Carolina State Board of Education
+CY  - Columbia, SC
+LA  - English
+CN  - 375.15 .S72st
+SC  - South Carolina
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Stanford University. School of Education
+T1  - Curriculum development in the small high school
+Y1  - 1953
+D1  - 1953
+SP  - 74
+KW  - Curricula
+KW  - High school
+N1  - Summer session, ED226s, Dr. C. R. Timpany
+PB  - Stanford University
+CY  - Stanford, CA
+LA  - English
+CN  - 375.15 .S78c
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Stanford University. School of Education
+T1  - Secondary curriculum materials
+Y1  - 1954
+D1  - 12/1954
+KW  - Curricula
+KW  - High schools
+N1  - Educ 343, Dr. R. N. Bush
+PB  - Stanford University
+CY  - Stanford, CA
+LA  - English
+CN  - 375.15 .S78s
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Stockton College
+T1  - But we're working on it! General education at Stockton College
+Y1  - 1951
+D1  - 1951
+SP  - 94
+KW  - Higher education
+KW  - Curricula
+N1  - iv, 94 l. charts. 28 cm.; Note(s): Mimeographed copy.
+PB  - Stockton College
+CY  - Stockton, CA
+LA  - English
+CN  - 375.15 .S86b
+SC  - California
+G1  - Postsecondary
+ER  - 
+
+TY  - BOOK
+A2  - University Interscholastic League
+T1  - Constitution and contest rules for 1965-1966
+Y1  - 1965
+D1  - 06/1965
+SP  - 207
+KW  - Debates
+T2  - The University of Texas.; Publication
+IS  - 6511
+PB  - Bureau of Public School Service. Division of Extension. University of Texas
+CY  - Austin, TX
+LA  - English
+CN  - 375.15 .T35c 1965-66
+ER  - 
+
+TY  - BOOK
+A2  - University Interscholastic League
+T1  - Constitution and contest rules for 1967-1968
+Y1  - 1967
+D1  - 07/1967
+SP  - 218
+KW  - Debates
+T2  - The University of Texas.; Publication
+IS  - 6713
+PB  - Bureau of Public School Service. Division of Extension. University of Texas
+CY  - Austin, TX
+LA  - English
+CN  - 375.15 .T35c 1967-68
+ER  - 
+
+TY  - BOOK
+A2  - University Interscholastic League
+T1  - Constitution and contest rules for 1968-1969
+Y1  - 1968
+D1  - 05/1968
+SP  - 223
+KW  - Debates
+T2  - The University of Texas.; Publication
+IS  - 6810
+PB  - Bureau of Public School Service. Division of Extension. University of Texas
+CY  - Austin, TX
+LA  - English
+CN  - 375.15 .T35c 1968-69
+ER  - 
+
+TY  - BOOK
+A2  - University Interscholastic League
+T1  - Constitution and contest rules for 1970-1971
+Y1  - 1970
+D1  - 07/1970
+SP  - 224
+KW  - Debates
+T2  - The University of Texas.; Publication
+IS  - 7014
+PB  - Bureau of Public School Service. Division of Extension. University of Texas
+CY  - Austin, TX
+LA  - English
+CN  - 375.15 .T35c 1970-71
+ER  - 
+
+TY  - BOOK
+A2  - University Interscholastic League
+T1  - Constitution and contest rules for 1971-1972
+Y1  - 1971
+D1  - 04/1971
+SP  - 228
+KW  - Debates
+T2  - The University of Texas.; Publication
+IS  - 7107
+PB  - Bureau of Public School Service. Division of Extension. University of Texas
+CY  - Austin, TX
+LA  - English
+CN  - 375.15 .T35c 1971-72
+ER  - 
+
+TY  - BOOK
+A2  - Toronto (Ontario, Canada) Board of Education
+T1  - A message to parents and pupils concerning collegiate, commercial and technical education in Toronto
+Y1  - 1947
+D1  - 1947
+SP  - 15
+KW  - Vocational education
+PB  - Toronto (Ontario, Canada) Board of Education
+CY  - Toronto, ON
+LA  - english
+CN  - 375.15 .T68m
+SC  - Canada
+ER  - 
+
+TY  - BOOK
+A2  - Ventura County (California) Schools
+T1  - Students frame the framework
+Y1  - 1949
+D1  - 03/1949
+SP  - 21
+KW  - High schools
+PB  - Ventura County (California) Schools
+LA  - English
+CN  - 375.15 .V46s
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Jones, Hazel
+A2  - Whittier (California) Union High School District
+T1  - Descriptive bulletin of the basic course program
+Y1  - 1954
+D1  - 07/1954
+SP  - 26
+KW  - High schools
+KW  - Curricula
+PB  - Whittier (California) Union High School District
+CY  - Whittier, CA
+LA  - English
+CN  - 375.15 .W62d
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Whittier (California) Union High School District
+T1  - Description of the basic course program
+Y1  - 1954
+D1  - 09/1954
+SP  - 15
+KW  - High schools
+KW  - Curricula
+PB  - Whittier (California) Union High School District
+CY  - Whittier, CA
+LA  - English
+CN  - 375.15 .W62de
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Wichita (Kansas) Public Schools
+T1  - Workshop: supervision in secondary education, summer 1949: report of group studying: guidance
+Y1  - 1949
+D1  - Summer 1949
+SP  - 71
+KW  - Secondary education
+KW  - Counseling
+PB  - Wichita (Kansas) Public Schools
+CY  - Wichita, KS
+LA  - English
+CN  - 375.15 .W63w v. 1
+SC  - Kansas
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Wichita (Kansas) Public Schools
+T1  - Workshop: supervision in secondary education, summer 1949: report of group studying: extra-curricular activities
+Y1  - 1949
+D1  - Summer 1949
+SP  - 23
+KW  - Secondary education
+KW  - Student activities
+PB  - Wichita (Kansas) Public Schools
+CY  - Wichita, KS
+LA  - English
+CN  - 375.15 .W63w v. 2
+SC  - Kansas
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Wichita (Kansas) Public Schools
+T1  - Workshop: supervision in secondary education, summer 1949: report of group studying: pupil-teacher-community morale
+Y1  - 1949
+D1  - Summer 1949
+SP  - 15
+KW  - Secondary education
+PB  - Wichita (Kansas) Public Schools
+CY  - Wichita, KS
+LA  - English
+CN  - 375.15 .W63w v. 3
+SC  - Kansas
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Wichita (Kansas) Public Schools
+T1  - Workshop: supervision in secondary education, summer 1949: report of group studying: individual needs
+Y1  - 1949
+D1  - Summer 1949
+SP  - 45
+KW  - Secondary education
+PB  - Wichita (Kansas) Public Schools
+CY  - Wichita, KS
+LA  - English
+CN  - 375.15 .W63w v. 4
+SC  - Kansas
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Wichita (Kansas) Public Schools
+T1  - Workshop: supervision in secondary education, summer 1949: report of group studying: scope and philosophy of supervision
+Y1  - 1949
+D1  - Summer 1949
+SP  - 50
+KW  - Secondary education
+PB  - Wichita (Kansas) Public Schools
+CY  - Wichita, KS
+LA  - English
+CN  - 375.15 .W63w v. 5
+SC  - Kansas
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Wichita (Kansas) Public Schools
+T1  - Workshop: supervision in secondary education, summer 1949: report of group studying: the junior high school program
+Y1  - 1949
+D1  - Summer 1949
+SP  - 46
+KW  - Secondary education
+KW  - Junior high schools
+PB  - Wichita (Kansas) Public Schools
+CY  - Wichita, KS
+LA  - English
+CN  - 375.15 .W63w v. 6
+SC  - Kansas
+G1  - High school
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Wichita (Kansas) Public Schools
+T1  - Workshop: supervision in secondary education, summer 1949: report of group studying: group planning, resource units, teaching aid
+Y1  - 1949
+D1  - Summer 1949
+SP  - 80
+KW  - Secondary education
+KW  - Teaching aids
+PB  - Wichita (Kansas) Public Schools
+CY  - Wichita, KS
+LA  - English
+CN  - 375.15 .W63w v. 7
+SC  - Kansas
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Krug, Edward August
+T1  - Multiple-period curricular organization in Wisconsin secondary schools
+Y1  - 1952
+D1  - 1952
+SP  - 52
+KW  - High schools
+KW  - Curricula
+KW  - Secondary education
+N1  - 52 p. ; 28 cm.; Responsibility: by Edward A. Krug, Clifford S. Liddle, Quentin Schenk.
+T2  - University of Wisconsin.; School of Education.
+PB  - University of Wisconsin
+CY  - Madison, WI
+LA  - English
+CN  - 375.15 .W81m
+SC  - Wisconsin
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Stanton School District (Wilmington, Delaware)
+T1  - Humanities I-III
+Y1  - 1967
+D1  - 1967?
+KW  - Humanistic education
+AB  - Man and evolution -- Man and revolution -- The future of man.
+N1  - 3 v.
+PB  - John Dickinson High School
+CY  - Wilmington, DE
+LA  - English
+CN  - 375.15 .W74h v. 1-3
+SC  - Delaware
+ER  - 
+
+TY  - BOOK
+A2  - Wisconsin State Department of Public Instruction
+T1  - Secondary school study bulletin
+Y1  - 1956
+D1  - 07/1956
+SP  - 38
+KW  - Secondary education
+N1  - 38 p. ; 28 cm.; Note(s): "Curriculum bulletin."/ Cover title./ "July, 1956."
+PB  - Wisconsin State Department of Public Instruction
+CY  - Madison, WI
+LA  - English
+CN  - 375.15 .W811s
+SC  - Wisconsin
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Worcester (Massachusetts) Public Schools
+T1  - Length and organization of the academic senior high school day
+Y1  - 1958
+D1  - 1958-1959
+SP  - 31
+KW  - High school
+PB  - Worchester (Massachusetts) Public Schools
+CY  - Worchester, MA
+LA  - English
+CN  - 375.15 .W91L
+SC  - Massachusetts
+G1  - High school
+ER  - 
+
+

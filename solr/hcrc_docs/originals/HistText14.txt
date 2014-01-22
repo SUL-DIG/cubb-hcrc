@@ -1,0 +1,1060 @@
+
+
+
+
+TY  - BOOK
+A2  - Arcadia (California) Unified School District
+T1  - Curriculum guide, Arcadia High School
+KW  - High schools
+KW  - Curricula
+PB  - Arcadia (California) Unified School District
+CY  - Arcadia, CA
+LA  - English
+CN  - 375.15 .A67c
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Baltimore (Maryland) Public Schools
+T1  - College preparatory curricula for students of superior ability
+Y1  - 1960
+D1  - 09/1960
+KW  - Curricula
+PB  - Baltimore (Maryland) Public Schools
+CY  - Baltimore, MD
+LA  - English
+CN  - 375.15 .B191c
+SC  - Maryland
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Beverly Hills (California) Board of Education
+T1  - Circular of information and announcement of courses, 1958-1960
+Y1  - 1958
+D1  - 03/1958
+KW  - High schools
+KW  - Curricula
+PB  - Beverly Hills (California) Board of Education
+CY  - Beverly Hills, CA
+LA  - English
+CN  - 375.15 .B57c
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Blanchard, B. Everard
+T1  - A survey of Illinois Catholic secondary schools
+Y1  - 1966
+D1  - 1966
+SP  - 55
+KW  - High schools
+KW  - Catholic Church
+N1  - vii; 21 cm.; Responsibility: [by] B.E. Blanchard.
+ED  - 1st
+PB  - TFS Publications
+CY  - Chicago, IL
+LA  - English
+CN  - 375.15 .B63s
+SC  - Illinois
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Boston (Massachusetts) Public schools
+T1  - A guide to the choice of a secondary school
+Y1  - 1955
+D1  - 1955
+SP  - 54
+KW  - High schools
+N1  - 54 p., illus., 23 cm.; Note(s): "Helpful books for students and for parents": p. 53.
+T2  - Boston (Mass.).; School Committee.; School document
+V1  - 1
+CY  - Boston, MA
+LA  - English
+CN  - 375.15 .B74g
+SC  - Massachusetts
+G1  - High school
+ER  - 
+
+TY  - BOOK
+ID  - 14224
+A1  - Brown, James W.
+A1  - Bowers, Norman D.
+A1  - Scofield, Alice G.
+T1  - Learning experiences in secondary school curriculum : a guide for pre-service teachers
+Y1  - 1956
+D1  - 1956
+SP  - 103
+KW  - Secondary education
+KW  - Curricula
+N1  - 103 p. ; 28 cm.; Responsibility: by James W. Brown, Norman D. Bowers, Alice G. Scofield.
+PB  - Fearon Publishers
+CY  - San Francisco. CA
+LA  - English
+CN  - 375.15 .B88L
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - California Association of Secondary School Administration
+T1  - 1963 CASSA curriculum report
+Y1  - 1963
+D1  - 1963
+SP  - 79
+KW  - High schools
+KW  - Curricula
+PB  - California Association of Secondary School Administration
+CY  - Burlingame, CA
+LA  - English
+CN  - 375.15 .C15c 1963
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - California Association of Secondary School Administration
+T1  - 1965 CASSA curriculum report
+Y1  - 1965
+D1  - 1965
+SP  - 97
+KW  - High schools
+KW  - Curricula
+PB  - California Association of Secondary School Administration
+CY  - Burlingame, CA
+LA  - English
+CN  - 375.15 .C15c 1965
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Required courses and other required instruction in California public high schools, 1949-1950
+Y1  - 1951
+D1  - 07/1951
+SP  - 36
+KW  - Secondary education
+KW  - Curricula
+KW  - High schools
+N1  - 36 p. ; 23 cm.; Responsibility: prepared by the Secondary Education Staff of the California State Department of Education.
+T2  - Bulletin of the California State Department of Education
+V1  - 20
+IS  - 6
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 375.15 .C15r
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Jones, Leo
+T1  - Handbook on continuation education in California
+Y1  - 1950
+D1  - 03/1950
+SP  - 42
+KW  - Evening and continuation schools
+T2  - Bulletin of the California State Dept. of Education
+V1  - 19
+IS  - 2
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 375.15 .C15h
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Campbell (California) Union High School District
+T1  - Curriculum guide
+Y1  - 1957
+D1  - 1957
+KW  - High schools
+KW  - Curricula
+PB  - Campbell (California) Union High School District
+CY  - Campbell, CA
+LA  - English
+CN  - 375.15 .C18c 1957
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Campbell (California) Union High School District
+T1  - Curriculum guide
+Y1  - 1959
+D1  - 1959
+KW  - High schools
+KW  - Curricula
+PB  - Campbell (California) Union High School District
+CY  - Campbell, CA
+LA  - English
+CN  - 375.15 .C18c 1959
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Chaffey Union High School District (Ontario, California)
+T1  - Curriculum guide, Monclair High School
+Y1  - 1958
+D1  - 09/1958
+SP  - 55
+KW  - High schools
+KW  - Curricula
+PB  - Chaffey Union High School District
+CY  - Ontario, CA
+LA  - English
+CN  - 375.15 .C43c
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Covina-Valley (California) Unified School District
+T1  - Course of study framework for the Covina and Northview high schools of the Covina-Valley Unified School District
+Y1  - 1962
+D1  - 1962-1963
+SP  - 188
+KW  - High schools
+KW  - Curricula
+PB  - Covina-Valley (California) Unified School District
+LA  - English
+CN  - 375.15 .C87h
+SC  - California
+G1  - High schools
+ER  - 
+
+TY  - BOOK
+A2  - Chatham Township Teachers' Association
+T1  - Study of high school curriculum
+Y1  - 1958
+D1  - 12/1958
+SP  - 50
+KW  - High schools
+KW  - Curricula
+PB  - Chatham Township Teachers' Association
+LA  - English
+CN  - 375.15 .C49s
+SC  - New Jersey
+G1  - High schools
+ER  - 
+
+TY  - BOOK
+A2  - Clairton (Pennsylvania) Public Schools
+T1  - Course of study, secondary education
+Y1  - 1962
+D1  - 1962-1063
+SP  - 84
+KW  - Secondary education
+KW  - Curricula
+PB  - Clairton (Pennsylvania) Public Schools
+CY  - Clairton, PA
+LA  - English
+CN  - 375.15 .C58s
+SC  - Pennsylvania
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Hall, Evelyn
+A1  - Baker, Larry
+A1  - Grimm, Richard
+T1  - Humanities
+KW  - Humanities
+PB  - Clayton (Missouri) High School
+CY  - Clayton, MO
+LA  - English
+CN  - 375.15 .C62h v. 1-2
+SC  - Missouri
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Cogswell Polytechnical College (San Francisco, California)
+T1  - The pre-technology program; a descriptive report
+Y1  - 1966
+D1  - 1966
+SP  - 75
+KW  - High schools
+KW  - Curricula
+N1  - 75 p. illus. 28 cm.; Note(s): Cover title.
+PB  - Cogswell Polytechnical College
+CY  - San Francisco, CA
+LA  - English
+CN  - 375.15 .C67p
+SC  - California
+G1  - Postsecondary
+ER  - 
+
+TY  - BOOK
+A1  - Collier, Paul D.
+T1  - The redirection, reorganization, and retooling of secondary education
+Y1  - 1953
+D1  - 07/1953
+SP  - 56
+KW  - Secondary education
+PB  - Connecticut State Department of Education, Bureau of Youth Services
+CY  - Hartford, CT
+LA  - English
+CN  - 375.15 .C75r
+SC  - Connecticut
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Beal, Wanda
+A2  - Colorado State Department of Education
+T1  - Colorado accepts the challenge : the Rocky Mountain Area Project for Small High Schools, a report to citizens, 1961
+Y1  - 1961
+D1  - 1961
+SP  - 28
+KW  - Secondary education
+N1  - 28 pages : illustrations ; 28 cm; Responsibility: text by Wanda Beal ; photos by Myron Wood.
+PB  - Colorado State Department of Education
+CY  - Denver, CO
+LA  - English
+CN  - 375.15 .C71s
+SC  - Colorado
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Dallas (Texas) Independent School District
+T1  - General information concerning Dallas junior and senior high schools : authorized by the Board of Education June 24, 1959
+Y1  - 1959
+D1  - 09/1959
+SP  - 35
+KW  - High schools
+KW  - Junior high schools
+T2  - Dallas (Texas) Independent School District Bulletin
+V1  - 124
+PB  - Dallas (Texas) Independent School District
+CY  - Dallas, TX
+LA  - English
+CN  - 375.15 .D14g
+SC  - Texas
+G1  - Middle school
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Dayton (Ohio) Public Schools
+T1  - Course offerings--grades 9-12
+Y1  - 1954
+D1  - 1954-1955
+KW  - High schools
+KW  - Curricula
+PB  - Dayton (Ohio) Public Schools
+CY  - Dayton, OH
+LA  - English
+CN  - 375.15 .D27c
+SC  - Ohio
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Decatur (Illinois) Public Schools
+T1  - Present status of the secondary curriculum
+Y1  - 1953
+D1  - 06/1953
+SP  - 54
+KW  - Curricula
+KW  - Secondary education
+PB  - Decatur (Illinois) Public Schools
+CY  - Decatur, IL
+LA  - English
+CN  - 375.15 .D29p
+SC  - Illinois
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Douglas High School (Rapid City, South Dakota)
+T1  - Douglas patriots. second semester, 1973-74
+Y1  - 1973
+D1  - 1973-1974
+SP  - 31
+KW  - High schools
+PB  - Douglas High School
+CY  - Rapid City, SD
+LA  - English
+CN  - 375.15 .D73d
+SC  - South Dakota
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - East Side Union High School District (San Jose, California)
+T1  - Curriculum guide
+KW  - Curricula
+KW  - High schools
+PB  - East Side Union High School District
+CY  - San Jose, CA
+LA  - English
+CN  - 375.15 .E13c
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Eugene (Oregon). School District No. 4. Instruction Department
+T1  - The appropriate relations of activities to the academic curriculum; workshop no. 32, Eugene project, June 17-July 12, 1963, final report
+Y1  - 1963
+D1  - 1963
+SP  - 53
+KW  - Student activities
+N1  - 53 p. 30 cm.; Note(s): On cover: Eugene public schools: appropriate relations./ Bibliography: p. 51-53.
+PB  - Eugene (Oregon). School District No. 4. Instruction Department
+CY  - Eugene, OR
+LA  - English
+CN  - 375.15 .E87a
+SC  - Oregon
+ER  - 
+
+TY  - BOOK
+A2  - Flint (Michigan) Schools
+T1  - West Side High School
+SP  - 84
+KW  - High schools
+PB  - Flint (Michigan) Schools
+CY  - Flint, MI
+LA  - English
+CN  - 375.15 .F62w
+SC  - Michigan
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - University of Florida Libraries
+T1  - Core curriculum in action: a bibliography
+Y1  - 1955
+D1  - 11/1955
+SP  - 6
+KW  - Curricula
+KW  - Bibliography
+PB  - University of Florida Libraries
+CY  - Gainesville, FL
+LA  - English
+CN  - 375.15 .F63c
+SC  - Florida
+ER  - 
+
+TY  - BOOK
+A2  - Fresno (California) City Unified School District
+T1  - What is expected of the college preparatory student in high school
+KW  - Curricula
+KW  - High school
+PB  - Fresno (California) City Unified School District
+CY  - Fresno, CA
+LA  - English
+CN  - 375.15 .F88w
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Gordon, Ted
+A1  - Mitchell, Clyde
+A1  - Kamrath, W. A.
+T1  - Treasury of teaching techniques : 300 helpful hints
+Y1  - 1956
+D1  - 1956
+SP  - 83
+KW  - Teaching aids
+N1  - ill. ; 15 cm.; Responsibility: compiled by Ted Gordon ; art work by Clyde Mitchell ; edited by W.A. Kamrath.
+T2  - 1956 series
+PB  - California Education Press
+CY  - Los Angeles, CA
+LA  - English
+CN  - 375.15 .G66t
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Goodwin, Delmar
+T1  - Humanities program
+Y1  - 1965
+D1  - 1965?
+KW  - Humanities
+PB  - Hanover (New Hampshire) High School
+CY  - Hanover, NH
+LA  - English
+CN  - 375.15 .H24h
+SC  - New Hampshire
+ER  - 
+
+TY  - BOOK
+A2  - Hawaii (Territory) Department of Public Instruction
+T1  - Overall procedure in evaluating and revising the program of studies of the secondary school
+Y1  - 1956
+D1  - 11/1956
+SP  - 39
+KW  - Secondary education
+PB  - Hawaii (Territory) Department of Public Instruction
+CY  - Honolulu, HI
+LA  - English
+CN  - 375.15 .H38p
+SC  - Hawaii
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Hayward (California) Union High School District
+T1  - Basic furniture and equipment for a high school
+Y1  - 1959
+D1  - 12/1959
+KW  - High schools
+PB  - Hayward (California) Union High School District
+CY  - Hayward, CA
+LA  - English
+CN  - 375.15 .H42b
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Hayward (California) Union High School District
+T1  - Curriculum analysis progress report
+Y1  - 1958
+D1  - 01/1958
+KW  - High schools
+PB  - Hayward (California) Union High School District
+CY  - Hayward, CA
+LA  - English
+CN  - 375.15 .H42c
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Hayward (California) Union High School District
+T1  - Arroyo and Castro Valley High School curriculum study, 1955-56.
+Y1  - 1955
+D1  - 1955-1956
+KW  - High schools
+KW  - Curricula
+PB  - Hayward (California) Union High School District
+CY  - Hayward, CA
+LA  - English
+CN  - 375.15 .H42i
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Hayward (California) Union High School District
+T1  - San Lorenzo High School curriculum project, 1956-57
+Y1  - 1956
+D1  - 1956-1957
+KW  - High schools
+KW  - Curricula
+PB  - Hayward (California) Union High School District
+CY  - Hayward, CA
+LA  - English
+CN  - 375.15 .H42s
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Hand, Harold Curtis
+T1  - How the Illinois Secondary School Curriculum Program basic studies can help you improve your high school
+Y1  - 1951
+D1  - 05/1951
+SP  - 29
+KW  - High school
+KW  - Curricula
+N1  - 29 p. 23 cm.; Note(s): Illinois Secondary School Curriculum Program. Bulletin no. 13.
+T2  - Illinois.; Office of the Superintendent of Public Instruction.; Circular series A ;; no. 51.; Illinois Secondary School Curriculum Program bulletin
+V1  - 13
+PB  - Illinois State Public Instruction
+CY  - Springfield, IL
+LA  - English
+CN  - 375.15 .I29b no. 13
+SC  - Illinois
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Hoppe, Arthur
+T1  - Students help improve the curriculum in Indiana
+Y1  - 1956
+D1  - 01/1956
+SP  - 55
+KW  - Curricula
+N1  - 55 p illus. 23 cm.
+T2  - Bulletin of the School of Education, Indiana University
+V1  - 32
+IS  - 1
+PB  - Division of Research and Field Service, Indiana University
+CY  - Bloomington, IN
+LA  - English
+CN  - 375.15 .I39s
+SC  - Indiana
+ER  - 
+
+TY  - BOOK
+A2  - Indiana State University. School of Education
+T1  - Learning activity packages
+Y1  - 1972
+D1  - 1972
+SP  - 91
+KW  - Teaching aids
+PB  - Indiana State University. School of Education
+CY  - Terre Haute, IN
+LA  - English
+CN  - 375.15 .I391L
+SC  - Indiana
+ER  - 
+
+TY  - BOOK
+A1  - Throckmorton, Adel F.
+A2  - Kansas State Department of Public Instruction
+T1  - A curriculum guide for the secondary schools of Kansas
+Y1  - 1960
+D1  - 1960
+KW  - High schools
+KW  - Curricula
+N1  - 1 v. (loose-leaf) 28 cm.; Note(s): Includes a bibliography.
+PB  - Kansas State Department of Public Instruction
+CY  - Topeka, KS
+LA  - English
+CN  - 375.15 .K16c
+SC  - Kansas
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Kansas State Department of Public Instruction
+A2  - Kansas Commission for the Improvement of Secondary Education
+T1  - Fifth annual progress report
+Y1  - 1954
+D1  - 1954
+SP  - 49
+KW  - Secondary education
+PB  - Kansas State Department of Public Instruction
+CY  - Topeka, KS
+LA  - English
+CN  - 375.15 .K16a
+SC  - Kansas
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Long Beach (California) Board of Education
+T1  - The Long Beach senior high school follow-up study
+Y1  - 1952
+D1  - 03/1952
+SP  - 86
+KW  - Educational surveys
+KW  - Educational counseling
+KW  - Secondary education
+N1  - 86 p. charts.; Responsibility: Edited and published by the Office of Research.
+PB  - Long Beach (California) Board of Education
+CY  - Long Beach, CA
+LA  - English
+CN  - 375.15 .L84L
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Los Alamos (New Mexico) Schools
+T1  - High school curriculum guide
+Y1  - 1959
+D1  - 06/1959
+SP  - 204
+KW  - High schools
+KW  - Curricula
+PB  - Los Alamos (New Mexico) Schools
+CY  - Los Alamos, NM
+LA  - English
+CN  - 375.15 .L86c
+SC  - New Mexico
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) Unified School District
+T1  - Catalog of authorized courses
+Y1  - 1947
+D1  - 1947
+SP  - 110
+KW  - Adult education
+KW  - Curricula
+KW  - Continuing education centers
+N1  - xxvi; ; 29 cm.; Note(s): Cover title: Catalog of authorized courses for community adult schools, regional occupational centers, regional occupational programs center, specially funded programs./ Includes index.; Other Titles: Catalog of authorized courses for community adult schools, regional occupational centers, regional occupational programs center, specially funded programs.
+T2  - Los Angeles (California) Unified School District. Publication
+V1  - SC-344
+PB  - Los Angeles (California) Unified School District, Division of Career and Continuing Education
+CY  - Los Angeles, CA
+LA  - English
+CN  - 375.15 .L87c 1947
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Musselman, Vernon A.
+T1  - Improving the high school program through unit teaching
+Y1  - 1952
+D1  - 06/1952
+SP  - 80
+KW  - Secondary education
+KW  - Curricula
+N1  - 80 p. illus. 22 cm.; Responsibility: [by] Vernon A. Musselman and others. 
+T2  - Bulletin of the Bureau of School Service, College of Education, University of Kentucky
+V1  - 24
+IS  - 4
+PB  - University of Kentucky
+CY  - Lexington, KY
+LA  - English
+CN  - 375.15 .K37i
+SC  - Kentucky
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - La Marque (Texas) Independent School District
+T1  - La Marque senior and junior high schools, course descriptions, grades 9-12
+Y1  - 1962
+D1  - 1962
+SP  - 19
+KW  - Junior high schools
+KW  - High schools
+KW  - Curricula
+PB  - La Marque (Texas) Independent School District
+CY  - La Marque, TX
+LA  - English
+CN  - 375.15 .L21c v. 1
+SC  - Texas
+G1  - Middle school
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - La Marque (Texas) Independent School District
+T1  - Lincoln High School, course descriptions, grades 9-12
+Y1  - 1962
+D1  - 1962
+SP  - 14
+KW  - High schools
+KW  - Curricula
+PB  - La Marque (Texas) Independent School District
+CY  - La Marque, TX
+LA  - English
+CN  - 375.15 .L21c v. 2
+SC  - Texas
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Long Beach (California) Unified School District
+T1  - Design for better living
+Y1  - 1957
+D1  - 09/1957
+KW  - Teaching
+PB  - Long Beach (California) Unified School District
+CY  - Long Beach, CA
+LA  - English
+CN  - 375.15 .L84d
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District. Division of Instructional Services
+T1  - Catalog of authorized subjects, junior and senior high schools
+Y1  - 1965
+D1  - 1965
+SP  - 98
+KW  - Curricula
+KW  - Junior high schools
+KW  - High schools
+N1  - 98 p.; Note(s): This catalog is in agreement with Graduation requirements and curricula, 1963 rev./ Later ed. issued by Los Angeles City School District. Division of Instructional Planning and Services.
+T2  - Los Angeles City School District. Curriculum Division. Publication 
+V1  - SC-486
+ED  - Rev
+PB  - Los Angeles (California) City School District
+CY  - Los Angeles, CA
+LA  - English
+CN  - 375.15 .L87c 1965
+SC  - California
+G1  - Middle school
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District. Division of Instructional Services
+T1  - Catalog of authorized subjects, junior and senior high schools
+Y1  - 1958
+D1  - 1958
+SP  - 87
+KW  - Curricula
+KW  - Junior high schools
+KW  - High schools
+N1  - 87 p.; Note(s): The catalog of authorized subjects is in agreement with the publication, Graduation requirements and curricula, 1957.
+T2  - Los Angeles City School District. Curriculum Division. Publication 
+V1  - SC-486
+ED  - Rev
+PB  - Los Angeles (California) City School District
+CY  - Los Angeles, CA
+LA  - English
+CN  - 375.15 .L87c 1958
+SC  - California
+G1  - Middle school
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District. Division of Instructional Services
+T1  - Catalog of authorized subjects, junior and senior high schools
+Y1  - 1971
+D1  - 1971
+SP  - 126
+KW  - Curricula
+KW  - Junior high schools
+KW  - High schools
+N1  - xviii; ; 22 x 28 cm.; Responsibility: Los Angeles City Schools, Division of Planning and Research.
+T2  - Los Angeles City School District. Curriculum Division. Publication 
+V1  - SC-486
+ED  - Rev
+PB  - Los Angeles (California) City School District
+CY  - Los Angeles, CA
+LA  - English
+CN  - 375.15 .L87c 1971
+SC  - California
+G1  - Middle school
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District. Division of Instructional Services
+T1  - Catalog of authorized subjects : Junior and Senior High Schools
+Y1  - 1969
+D1  - 1969
+SP  - 91
+KW  - Curricula
+KW  - Junior high schools
+KW  - High schools
+T2  - Los Angeles City School District. Curriculum Division. Publication 
+V1  - SC-486
+ED  - Rev
+PB  - Los Angeles (California) City School District
+CY  - Los Angeles, CA
+LA  - English
+CN  - 375.15 .L87c 1969
+SC  - California
+G1  - Middle school
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Chiara, Clara R.
+T1  - The core
+Y1  - 1956
+D1  - 08/1956
+SP  - 86
+KW  - High schools
+KW  - Curricula
+N1  - 86 p. ill. 23 cm.
+T2  - School of Graduate Studies. Western Michigan College. Faculty contributions. Series 3
+V1  - 2
+PB  - School of Graduate Study, Western Michigan College
+CY  - Kalamazoo, MI
+LA  - English
+CN  - 375.15 .M62c
+SC  - Michigan
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District
+T1  - Secondary school curriculum : guidelines for instruction
+Y1  - 1973
+D1  - 1973
+KW  - Secondary education
+KW  - Curricula
+N1  - ca. 600 p. ; 22 cm.
+T2  - Publication/Los Angeles City Schools, Instructional Planning Division 
+V1  - SC-720
+PB  - Los Angeles (California) City School District
+CY  - Los Angeles, CA
+LA  - English
+CN  - 375.15 .L87sc
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - McVey, Catharine G.
+T1  - A six year withdrawal and drop-out study with a study of gradating seniors, 1950-1956
+Y1  - 1956
+D1  - 07/1956
+SP  - 14
+KW  - Dropouts
+PB  - Mira Costa High School (Manhattan Beach, California)
+CY  - Manhattan Beach, CA
+LA  - English
+CN  - 375.15 .M27s
+SC  - California
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District. Division of Instructional Services
+T1  - Junior and senior high school graduation requirements and curricula
+Y1  - 1957
+D1  - 1957
+SP  - 72
+KW  - Secondary education
+KW  - Curricula
+T2  - Los Angeles (California) City School District. Division of Instructional Services. Publication
+V1  - 489
+PB  - Los Angeles (California) City School District. Division of Instructional Services
+CY  - Los Angeles, CA
+LA  - English
+CN  - 375.15 .L87g 1957
+SC  - California
+G1  - Middle school
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District. Division of Instructional Services
+T1  - Progress report, superintendent's committee on graduation requirements and curricula
+Y1  - 1959
+D1  - 1959
+SP  - 11
+KW  - Secondary education
+KW  - Curricula
+PB  - Los Angeles (California) City School District. Division of Instructional Services
+CY  - Los Angeles, CA
+LA  - English
+CN  - 375.15 .L87g Supp.
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District. Division of Instructional Services
+T1  - Junior and senior high school graduation requirements and curricula
+Y1  - 1961
+D1  - 1961
+SP  - 97
+KW  - Secondary education
+KW  - Curricula
+T2  - Los Angeles (California) City School District. Division of Instructional Services. Publication
+V1  - 489
+PB  - Los Angeles (California) City School District. Division of Instructional Services
+CY  - Los Angeles, CA
+LA  - English
+CN  - 375.15 .L87g 1961
+SC  - California
+G1  - Middle school
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District. Division of Instructional Services
+T1  - Junior and senior high school graduation requirements and curricula
+Y1  - 1967
+D1  - 1967
+SP  - 62
+KW  - Secondary education
+KW  - Curricula
+T2  - Los Angeles (California) City School District. Division of Instructional Services. Publication
+V1  - 489
+PB  - Los Angeles (California) City School District. Division of Instructional Services
+CY  - Los Angeles, CA
+LA  - English
+CN  - 375.15 .L87g 1967
+SC  - California
+G1  - Middle school
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Minneapolis (Minnesota) Public Schools
+T1  - Educational program Minneapolis junior high schools
+Y1  - 1957
+Y1  - 1957-1959
+SP  - 34
+KW  - Secondary education
+KW  - Junior high schools
+N1  - 34 p. illus.
+PB  - Minneapolis (Minnesota) Public Schools
+CY  - Minneapolis, MN
+LA  - English
+CN  - 375.15 .M66e v. 1
+SC  - Minnesota
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Minneapolis (Minnesota) Public Schools
+T1  - Educational program senior high schools
+Y1  - 1960
+Y1  - 1960-1961
+SP  - 58
+KW  - Secondary education
+KW  - Junior high schools
+PB  - Minneapolis (Minnesota) Public Schools
+CY  - Minneapolis, MN
+LA  - English
+CN  - 375.15 .M66e v. 2
+SC  - Minnesota
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Modesto (California) High School District
+T1  - Course outlines
+Y1  - 1969
+D1  - 1969-1970
+KW  - Curricula
+KW  - High schools
+PB  - Modesto (California) High School District
+CY  - Modesto, CA
+LA  - English
+CN  - 375.15 .M69c v. 1-2
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Monterey (California) Union High School
+T1  - An overview of the mathematics, science, and English curricula
+Y1  - 1958
+D1  - 1958
+SP  - 20
+KW  - Mathematics
+KW  - English language
+KW  - Science
+PB  - Monterey (California) Union High School
+CY  - Monterey, CA
+LA  - English
+CN  - 375.15 .M75o
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Mountain View-Los Altos (California) Union High School District
+T1  - Curriculum guide
+Y1  - 1960
+D1  - 1960-1961
+SP  - 64
+KW  - High schools
+KW  - Curricula
+PB  - Mountain View-Los Altos (California) Union High School District
+CY  - Mountain View, CA
+LA  - English
+CN  - 375.15 .M92c
+SC  - California
+G1  - High school
+ER  - 
+

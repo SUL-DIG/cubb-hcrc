@@ -1,0 +1,1351 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">San Leandro (California) Unified School District</field>
+<field name="title">Roads of excellence through books</field>
+<field name="year">1968</field>
+<field name="date">1968</field>
+<field name="pages">103</field>
+<field name="keywords">Reading</field>
+<field name="keywords">Children's literature</field>
+<field name="notes">103 pages : illustrations ; 29 cm; Note(s): Includes bibliographical
+references.; Responsibility: developed by the San Leandro Unified School District : approved by the
+Alameda County Board of Education.</field>
+<field name="publisher">Alameda County (California) Schools Department</field>
+<field name="pub_place">Hayward, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.4 .A31r</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Alameda (California) Unified School District</field>
+<field name="title">Reading activities : low first</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="pages">93</field>
+<field name="keywords">Reading</field>
+<field name="publisher">Alameda (California) Unified School District</field>
+<field name="pub_place">Alameda, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.4 .A31r v. 1</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">1st grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Alameda (California) Unified School District</field>
+<field name="title">Reading activities : high first</field>
+<field name="year">1955</field>
+<field name="date">1955</field>
+<field name="pages">22</field>
+<field name="keywords">Reading</field>
+<field name="publisher">Alameda (California) Unified School District</field>
+<field name="pub_place">Alameda, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.4 .A31r v. 2</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">1st grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Alameda (California) Unified School District</field>
+<field name="title">Reading activities : grade 2</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="pages">104</field>
+<field name="keywords">Reading</field>
+<field name="publisher">Alameda (California) Unified School District</field>
+<field name="pub_place">Alameda, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.4 .A31r v. 3</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">2nd grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Alameda (California) Unified School District</field>
+<field name="title">Reading activities : grade 3</field>
+<field name="year">1955</field>
+<field name="date">1955</field>
+<field name="pages">25</field>
+<field name="keywords">Reading</field>
+<field name="publisher">Alameda (California) Unified School District</field>
+<field name="pub_place">Alameda, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.4 .A31r v. 4</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">3rd grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Alameda (California) Unified School District</field>
+<field name="title">Reading activities : grade 4</field>
+<field name="year">1955</field>
+<field name="date">1955</field>
+<field name="pages">15</field>
+<field name="keywords">Reading</field>
+<field name="publisher">Alameda (California) Unified School District</field>
+<field name="pub_place">Alameda, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.4 .A31r v. 5</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">4th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Alameda (California) Unified School District</field>
+<field name="title">Techniques and procedures for the teaching of reading : a suppl. to the Guide to
+elementary education, kindergarten through eighth grade</field>
+<field name="year">1954</field>
+<field name="date">09/1954</field>
+<field name="pages">34</field>
+<field name="keywords">Reading</field>
+<field name="publisher">Alameda (California) Unified School District</field>
+<field name="pub_place">Alameda, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.4 .A31t 1954</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary</field>
+<field name="grade_level_group">Middle school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Alameda (California) Unified School District</field>
+<field name="title">Techniques and procedures for the teaching of reading : a suppl. to the Guide to
+elementary education, kindergarten through eighth grade</field>
+<field name="year">1955</field>
+<field name="date">09/1955</field>
+<field name="pages">34</field>
+<field name="keywords">Reading</field>
+<field name="publisher">Alameda (California) Unified School District</field>
+<field name="pub_place">Alameda, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.4 .A31t 1955</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary</field>
+<field name="grade_level_group">Middle school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Alameda (California) Unified School District</field>
+<field name="title">Techniques and procedures for the teaching of reading : a suppl. to the Guide to
+elementary education, kindergarten through eighth grade</field>
+<field name="year">1960</field>
+<field name="date">1960</field>
+<field name="pages">83</field>
+<field name="keywords">Reading</field>
+<field name="publisher">Alameda (California) Unified School District</field>
+<field name="pub_place">Alameda, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.4 .A31t 1960</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary</field>
+<field name="grade_level_group">Middle school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Alameda County (California) Board of Education</field>
+<field name="title">Book placement charts</field>
+<field name="year">1958</field>
+<field name="date">06/1958</field>
+<field name="keywords">Reading</field>
+<field name="publisher">Alameda County (California) Board of Education</field>
+<field name="pub_place">Hayward, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.4 .A318b</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary</field>
+<field name="grade_level_group">Middle school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Alameda County (California) Board of Education</field>
+<field name="title">Reading and literature textbook placement charts</field>
+<field name="year">1961</field>
+<field name="date">06/1961</field>
+<field name="keywords">Reading</field>
+<field name="publisher">Alameda County (California) Board of Education</field>
+<field name="pub_place">Hayward, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.4 .A318r 1961</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary</field>
+<field name="grade_level_group">Middle school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Alameda County (California) Board of Education</field>
+<field name="title">Reading and literature textbook placement charts</field>
+<field name="year">1964</field>
+<field name="date">1964-1965</field>
+<field name="keywords">Reading</field>
+<field name="publisher">Alameda County (California) Board of Education</field>
+<field name="pub_place">Hayward, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.4 .A318r 1964-1965</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary</field>
+<field name="grade_level_group">Middle school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">American Book Company. Reading Workshop</field>
+<field name="title">How to teach phonics : and the role that phonics plays in your reading
+program</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="pages">32</field>
+<field name="keywords">English language</field>
+<field name="keywords">Phonetics</field>
+<field name="publisher">American Book Company. Reading Workshop</field>
+<field name="pub_place">New York, NY</field>
+<field name="language">English</field>
+<field name="call_number">428.4 .A51p </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Albany (California) Unified School District</field>
+<field name="title">Reading guide for the elementary grades</field>
+<field name="year">1962</field>
+<field name="date">09/1962</field>
+<field name="pages">31</field>
+<field name="keywords">Reading</field>
+<field name="notes">31 leaves. 28 cm.</field>
+<field name="publisher">Albany (California) Unified School District</field>
+<field name="pub_place">Albany, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.4 .A32r</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Arizona State Department of Public Instruction</field>
+<field name="title">Reading guide for Arizona elementary schools</field>
+<field name="year">1964</field>
+<field name="date">1964</field>
+<field name="pages">40</field>
+<field name="keywords">Reading</field>
+<field name="keywords">Curricula</field>
+<field name="notes">40 pages illustrations 28 cm; Note(s): Cover title./ Includes bibliographical
+references.</field>
+<field name="publisher">Arizona State Department of Public Instruction</field>
+<field name="pub_place">Phoenix, AZ</field>
+<field name="language">English</field>
+<field name="call_number">428.4 .A71r</field>
+<field name="state_country">Arizona</field>
+<field name="grade_level_group">Elementary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Arlington Heights (Illinois) Public Schools</field>
+<field name="title">Junior high school reading handbook</field>
+<field name="year">1966</field>
+<field name="date">09/1966</field>
+<field name="pages">52</field>
+<field name="keywords">Reading</field>
+<field name="publisher">Arlington Heights (Illinois) Public Schools</field>
+<field name="pub_place">Arlington Heights, IL</field>
+<field name="language">English</field>
+<field name="call_number">428.4 .A72j</field>
+<field name="state_country">Illinois</field>
+<field name="grade_level_group">Middle school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Atlanta (Georgia) Public Schools</field>
+<field name="title">Handbook for resource teachers in reading</field>
+<field name="year">1957</field>
+<field name="date">05/1957</field>
+<field name="pages">23</field>
+<field name="keywords">Reading</field>
+<field name="publisher">Atlanta (Georgia) Public Schools</field>
+<field name="pub_place">Atlanta, GA</field>
+<field name="language">English</field>
+<field name="call_number">428.4 .A88h</field>
+<field name="state_country">Georgia</field>
+<field name="grade_level_group">Elementary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Bamman, Henry A.</field><field name="author_nat">Henry A. Bamman</field>
+<field name="author">Dawson, Mildred A.</field><field name="author_nat">Mildred A. Dawson</field>
+<field name="title">Teaching reading : a guide to aids, materials, and activities</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="pages">48</field>
+<field name="keywords">Reading</field>
+<field name="keywords">Bibliography</field>
+<field name="notes">ill. ; 21 x 28 cm.; Responsibility: by Henry A. Bamman and Mildred A. Dawson ;
+illustrated by Robert A. Else ; consulting editor Morton S. Malter.</field>
+<field name="publisher">H. Chandler</field>
+<field name="pub_place">San Francisco, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.4 .B21t </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Campbell, Bonnie</field><field name="author_nat">Bonnie Campbell</field>
+<field name="author">Quinn, Goldie</field><field name="author_nat">Goldie Quinn</field>
+<field name="title">Phonetic analysis of words in grades 3 and 4</field>
+<field name="year">1965</field>
+<field name="date">06/1965</field>
+<field name="pages">20</field>
+<field name="keywords">Reading</field>
+<field name="keywords">Phonetics</field>
+<field name="publisher">Bellevue (Nebraska) Public Schools</field>
+<field name="pub_place">Bellevue, NE</field>
+<field name="language">English</field>
+<field name="call_number">428.4 .B43g v. 2</field>
+<field name="state_country">Nebraska</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">McCollum, John A.</field><field name="author_nat">John A. McCollum</field>
+<field name="title">An evaluation of the Carden reading program</field>
+<field name="year">1961</field>
+<field name="date">06/1961</field>
+<field name="pages">29</field>
+<field name="keywords">Reading</field>
+<field name="publisher">Berkeley (California) Unified School District</field>
+<field name="pub_place">Berkeley, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.4 .B51e</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Billings Elementary Schools</field>
+<field name="title">Continuous growth plan in reading</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="pages">37</field>
+<field name="keywords">Reading</field>
+<field name="publisher">Billings Elementary Schools</field>
+<field name="language">English</field>
+<field name="call_number">428.4 .B59c</field>
+<field name="grade_level_group">Elementary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Boston University. School of Education. Educational Clinic</field>
+<field name="title">High interest low vocabulary booklist</field>
+<field name="year">1952</field>
+<field name="date">1952</field>
+<field name="pages">35</field>
+<field name="keywords">Children's literature</field>
+<field name="keywords">Bibliography</field>
+<field name="notes">35 p. ; 23 cm.</field>
+<field name="publisher">Boston University. School of Education. Educational Clinic</field>
+<field name="pub_place">Boston, MA</field>
+<field name="language">English</field>
+<field name="call_number">428.4 .B74h </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Brookline (Massachusetts) Public Schools</field>
+<field name="title">Course of study in reading: primary grades</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="pages">12</field>
+<field name="keywords">Reading</field>
+<field name="publisher">Brookline (Massachusetts) Public Schools</field>
+<field name="pub_place">Brookline, MA</field>
+<field name="language">English</field>
+<field name="call_number">428.4 .B87c v. 1</field>
+<field name="state_country">Massachusetts</field>
+<field name="grade_level_group">Elementary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Brookline (Massachusetts) Public Schools</field>
+<field name="title">Course of study in reading: grades 4-8</field>
+<field name="year">1957</field>
+<field name="date">1957</field>
+<field name="pages">27</field>
+<field name="keywords">Reading</field>
+<field name="publisher">Brookline (Massachusetts) Public Schools</field>
+<field name="pub_place">Brookline, MA</field>
+<field name="language">English</field>
+<field name="call_number">428.4 .B87c v. 2</field>
+<field name="state_country">Massachusetts</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Burbank (California) Unified School District</field>
+<field name="title">Teachers' guide to reading instruction: advanced first - sixth grade</field>
+<field name="year">1950</field>
+<field name="date">08/1950</field>
+<field name="pages">26</field>
+<field name="keywords">Reading</field>
+<field name="publisher">Burbank (California) Unified School District</field>
+<field name="pub_place">Burbank, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.4 .B94t grade 1-6 1950</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Burbank (California) Unified School District</field>
+<field name="title">Teachers' guide to reading instruction: first grade</field>
+<field name="year">1951</field>
+<field name="date">07/1951</field>
+<field name="keywords">Reading</field>
+<field name="publisher">Burbank (California) Unified School District</field>
+<field name="pub_place">Burbank, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.4 .B94t grade 1 1951</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">1st grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Burbank (California) Unified School District</field>
+<field name="title">Teacher's guide to reading instruction : grades 1-6.</field>
+<field name="year">1959</field>
+<field name="date">03/1959</field>
+<field name="pages">134</field>
+<field name="keywords">Reading</field>
+<field name="notes">xi; ; 28 cm.; Note(s): Bibliography p. 129.; Responsibility: Burbank Unified
+School District [J.R. Croad, Superintendent ; F.C. Merrill, Assistant superintendent.].</field>
+<field name="publisher">Burbank (California) Unified School District</field>
+<field name="pub_place">Burbank, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.4 .B94t 1959</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">California State Department of Education</field>
+<field name="title">Relating reading and the school library program in the primary grades</field>
+<field name="year">1973</field>
+<field name="date">1973</field>
+<field name="pages">45</field>
+<field name="keywords">School libraries</field>
+<field name="keywords">Reading</field>
+<field name="notes">ix, [1]; ges : illustrations ; 23 cm; Responsibility: California State
+Department of Education.</field>
+<field name="publisher">California State Department of Education</field>
+<field name="pub_place">Sacramento, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.4 .C15r</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">San Francisco State College</field>
+<field name="title">This is our answer for children with reading problems</field>
+<field name="year">1955</field>
+<field name="date">Summer, 1955</field>
+<field name="keywords">Reading</field>
+<field name="notes">"prepared by a seminar on current trends in the modern elementary school, San
+Francisco State College at San Lorenzo, California, Edendale School, Summer 1955"</field>
+<field name="publisher">San Francisco State College</field>
+<field name="pub_place">San Francisco, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.4 .C153t</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Keene, Teresa</field><field name="author_nat">Teresa Keene</field>
+<field name="title">Tips for tutors; a manual for reading improvement</field>
+<field name="year">1970</field>
+<field name="date">1970</field>
+<field name="pages">31</field>
+<field name="keywords">Reading</field>
+<field name="keywords">Tutors and tutoring</field>
+<field name="notes">31 p. illus. 28 cm.; Note(s): Includes bibliographies.; Responsibility: Tutoring
+Committee: Eloise Jordan, Katherine Freshley [and] Philomence Martin.</field>
+<field name="publisher">Chicago Public Library</field>
+<field name="pub_place">Chicago, IL</field>
+<field name="language">English</field>
+<field name="call_number">428.4 .C531t</field>
+<field name="state_country">Illinois </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Ott, Helen Keating</field><field name="author_nat">Helen Keating Ott</field>
+<field name="title">Helping children through books; a selected booklist for the seventies</field>
+<field name="year">1974</field>
+<field name="date">1974</field>
+<field name="pages">16</field>
+<field name="keywords">Children's literature</field>
+<field name="keywords">Bibliography</field>
+<field name="keywords">Bibliotherapy for children</field>
+<field name="notes">i; 29 cm.; Note(s): An updated version of a bibliography prepared for use at a
+workshop held during the 1973 annual conference of the Church and Synagogue Library Association,
+July 1973, Portland, Or.; Entry: 19740819; Update: 20121123</field>
+<field name="series_title">CSLA bibliography.</field>
+<field name="publisher">Church and Synagogue Library Association</field>
+<field name="pub_place">Bryn Mawr, PA</field>
+<field name="language">English</field>
+<field name="call_number">428.4 .C56h </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Caddo Parish (Louisiana) Schools</field>
+<field name="title">Reading instruction in Caddo Parish Schools : a resource bulletin for
+teachers</field>
+<field name="year">1957</field>
+<field name="date">1957</field>
+<field name="pages">55</field>
+<field name="keywords">Reading</field>
+<field name="publisher">Caddo Parish (Louisiana) Schools</field>
+<field name="pub_place">Shreveport, LA</field>
+<field name="language">English</field>
+<field name="call_number">428.4 .C12r</field>
+<field name="state_country">Louisiana </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Clairton (Pennsylvania) Public Schools</field>
+<field name="title">Course of study: elementary education: reading</field>
+<field name="year">1957</field>
+<field name="date">1957-1958</field>
+<field name="pages">296</field>
+<field name="keywords">Reading</field>
+<field name="publisher">Clairton (Pennsylvania) Public Schools</field>
+<field name="pub_place">Clairton, PA</field>
+<field name="language">English</field>
+<field name="call_number">428.4 .C58r</field>
+<field name="state_country">Pennsylvania</field>
+<field name="grade_level_group">Elementary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Briggs, Daniel A.</field><field name="author_nat">Daniel A. Briggs</field>
+<field name="author">Shaw, Luther G.</field><field name="author_nat">Luther G. Shaw</field>
+<field name="author">Gumaer, Harry T.</field><field name="author_nat">Harry T. Gumaer</field>
+<field name="title">Reading in grades 7-12 : a handbook for teachers and administrators</field>
+<field name="year">1964</field>
+<field name="date">1964</field>
+<field name="pages">46</field>
+<field name="keywords">Reading</field>
+<field name="notes">ill. ; 28 cm.; Note(s): Includes bibliographical references (p. 45-46).;
+Responsibility: Daniel A. Briggs, Luther G. Shaw, Harry T. Gumaer ; with a foreword by Nila Banton
+Smith.</field>
+<field name="series_title">CDC handbook</field>
+<field name="publisher">Curriculum Development Council for Southern New Jersey</field>
+<field name="pub_place">Glassboro, NJ</field>
+<field name="language">English</field>
+<field name="call_number">428.4 .C97r</field>
+<field name="state_country">New Jersey</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Denver (Colorado) Public Schools. Department of General and Curriculum
+Services</field>
+<field name="title">A guide to the teaching of reading in the Denver public schools :
+preschool</field>
+<field name="year">1967</field>
+<field name="date">1967</field>
+<field name="pages">21</field>
+<field name="keywords">Reading</field>
+<field name="notes">21 pages ; 28 cm; Note(s): Includes bibliographical references (page 17).;
+Responsibility: prepared and produced in the Department of General Curriculum Services, Division of
+Instructional Services, Denver Public Schools.</field>
+<field name="publisher">Denver (Colorado) Public Schools. Department of General and Curriculum
+Services</field>
+<field name="pub_place">Denver, CO</field>
+<field name="language">English</field>
+<field name="call_number">428.4 .D41g v. 1</field>
+<field name="state_country">Colorado</field>
+<field name="grade_level_group">Pre-K </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Denver (Colorado) Public Schools. Department of General and Curriculum
+Services</field>
+<field name="title">A guide to the teaching of reading in the Denver public schools :
+kindergarten-grade two</field>
+<field name="year">1967</field>
+<field name="date">1967</field>
+<field name="pages">49</field>
+<field name="keywords">Reading</field>
+<field name="publisher">Denver (Colorado) Public Schools. Department of General and Curriculum
+Services</field>
+<field name="pub_place">Denver, CO</field>
+<field name="language">English</field>
+<field name="call_number">428.4 .D41g v. 2</field>
+<field name="state_country">Colorado</field>
+<field name="grade_level_number">Kindergarten</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Denver (Colorado) Public Schools. Department of General and Curriculum
+Services</field>
+<field name="title">A guide to the teaching of reading in the Denver public schools : grades
+three-six</field>
+<field name="year">1967</field>
+<field name="date">1967</field>
+<field name="pages">53</field>
+<field name="keywords">Reading</field>
+<field name="publisher">Denver (Colorado) Public Schools. Department of General and Curriculum
+Services</field>
+<field name="pub_place">Denver, CO</field>
+<field name="language">English</field>
+<field name="call_number">428.4 .D41g v. 3</field>
+<field name="state_country">Colorado</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Denver (Colorado) Public Schools. Department of General and Curriculum
+Services</field>
+<field name="title">A guide to the teaching of reading in the Denver public schools : English
+(grades 7-12)</field>
+<field name="year">1967</field>
+<field name="date">1967</field>
+<field name="pages">47</field>
+<field name="keywords">Reading</field>
+<field name="publisher">Denver (Colorado) Public Schools. Department of General and Curriculum
+Services</field>
+<field name="pub_place">Denver, CO</field>
+<field name="language">English</field>
+<field name="call_number">428.4 .D41g v. 4</field>
+<field name="state_country">Colorado</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Denver (Colorado) Public Schools. Department of General and Curriculum
+Services</field>
+<field name="title">A guide to the teaching of reading in the Denver public schools : science
+(grades 7-12)</field>
+<field name="year">1967</field>
+<field name="date">1967</field>
+<field name="pages">33</field>
+<field name="keywords">Reading</field>
+<field name="publisher">Denver (Colorado) Public Schools. Department of General and Curriculum
+Services</field>
+<field name="pub_place">Denver, CO</field>
+<field name="language">English</field>
+<field name="call_number">428.4 .D41g v. 5</field>
+<field name="state_country">Colorado</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Denver (Colorado) Public Schools. Department of General and Curriculum
+Services</field>
+<field name="title">A guide to the teaching of reading in the Denver public schools : social studies
+(grades 7-12)</field>
+<field name="year">1967</field>
+<field name="date">1967</field>
+<field name="pages">23</field>
+<field name="keywords">Reading</field>
+<field name="publisher">Denver (Colorado) Public Schools. Department of General and Curriculum
+Services</field>
+<field name="pub_place">Denver, CO</field>
+<field name="language">English</field>
+<field name="call_number">428.4 .D41g v. 6</field>
+<field name="state_country">Colorado</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Denver (Colorado) Public Schools. Department of General and Curriculum
+Services</field>
+<field name="title">A guide to the teaching of reading in the Denver public schools : elementary
+school principals</field>
+<field name="year">1967</field>
+<field name="date">1967</field>
+<field name="pages">25</field>
+<field name="keywords">Reading</field>
+<field name="publisher">Denver (Colorado) Public Schools. Department of General and Curriculum
+Services</field>
+<field name="pub_place">Denver, CO</field>
+<field name="language">English</field>
+<field name="call_number">428.4 .D41g v. 7</field>
+<field name="state_country">Colorado </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Latting, Lucile H.</field><field name="author_nat">Lucile H. Latting</field>
+<field name="corp_author">Colorado State Department of Education</field>
+<field name="title">The program in word analysis</field>
+<field name="year">1950</field>
+<field name="date">1950?</field>
+<field name="pages">52</field>
+<field name="keywords">Reading</field>
+<field name="notes">52 pages illustrations 23 cm; Note(s): Includes bibliographical references (page
+45).; Other Titles: Word analysis; Responsibility: prepared by Lucile H. Latting, State supervisor
+of elementary education.</field>
+<field name="publisher">Colorado State Department of Education</field>
+<field name="pub_place">Denver, CO</field>
+<field name="language">English</field>
+<field name="call_number">428.4 .C71p</field>
+<field name="state_country">Colorado</field>
+<field name="grade_level_group">Elementary </field>
+</doc>
+
+<doc>
+<field name="type">Journal</field>
+<field name="corp_author">Project Literacy</field>
+<field name="corp_author">Cornell University</field>
+<field name="title">Project Literacy reports</field>
+<field name="year">1964</field>
+<field name="date">12/1964</field>
+<field name="pages">53</field>
+<field name="keywords">Reading</field>
+<field name="notes">Frequency: Irregular; Began with: No. 1 (July 1964).; v. ; 28 cm</field>
+<field name="publisher">Cornell University</field>
+<field name="pub_place">Ithaca, NY</field>
+<field name="language">English</field>
+<field name="call_number">428.4 .C81p </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Denver (Colorado) Public Schools</field>
+<field name="title">McKee-Harrison reading technique : reading research main study. Grade 4</field>
+<field name="year">1964</field>
+<field name="date">1964</field>
+<field name="pages">24</field>
+<field name="keywords">Reading</field>
+<field name="publisher">Denver (Colorado) Public Schools</field>
+<field name="pub_place">Denver, CO</field>
+<field name="language">English</field>
+<field name="call_number">428.4 .D41m v. 3</field>
+<field name="state_country">Colorado</field>
+<field name="grade_level_number">4th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Denver (Colorado) Public Schools</field>
+<field name="title">McKee-Harrison reading technique : kindergarten, grade one, grade two</field>
+<field name="year">1964</field>
+<field name="date">1964</field>
+<field name="pages">85</field>
+<field name="keywords">Reading</field>
+<field name="publisher">Denver (Colorado) Public Schools</field>
+<field name="pub_place">Denver, CO</field>
+<field name="language">English</field>
+<field name="call_number">428.4 .D41m v. 1</field>
+<field name="state_country">Colorado</field>
+<field name="grade_level_number">Kindergarten</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Denver (Colorado) Public Schools</field>
+<field name="title">McKee-Harrison reading technique : grade 3</field>
+<field name="year">1964</field>
+<field name="date">1964</field>
+<field name="pages">60</field>
+<field name="keywords">Reading</field>
+<field name="notes">60, [3] p. ; cm; </field>
+<field name="publisher">Denver (Colorado) Public Schools</field>
+<field name="pub_place">Denver, CO</field>
+<field name="language">English</field>
+<field name="call_number">428.4 .D41m v. 2</field>
+<field name="state_country">Colorado</field>
+<field name="grade_level_number">3rd grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Denver (Colorado) Public Schools</field>
+<field name="title">Phonics maintenance : improvement and reinforcement of phonics and structural
+analysis skills: pupil exercises</field>
+<field name="year">1966</field>
+<field name="date">1965-1966</field>
+<field name="pages">13</field>
+<field name="keywords">Phonetics</field>
+<field name="keywords">Language arts</field>
+<field name="notes">; 28 cm.; Responsibility: prepared and produced in the Dept. of General
+Curriculum Services, Division of Instructional Services, Denver Public Schools.</field>
+<field name="publisher">Denver (Colorado) Public Schools</field>
+<field name="pub_place">Denver, CO</field>
+<field name="language">English</field>
+<field name="call_number">428.4 .D41p v. 1</field>
+<field name="state_country">Colorado </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Denver (Colorado) Public Schools</field>
+<field name="title">Phonics maintenance : improvement and reinforcement of phonics and structural
+analysis skills: teacher's manual</field>
+<field name="year">1966</field>
+<field name="date">1965-1966</field>
+<field name="pages">32</field>
+<field name="keywords">Phonetics</field>
+<field name="keywords">Language arts</field>
+<field name="notes">; 28 cm.; Responsibility: prepared and produced in the Dept. of General
+Curriculum Services, Division of Instructional Services, Denver Public Schools.</field>
+<field name="publisher">Denver (Colorado) Public Schools</field>
+<field name="pub_place">Denver, CO</field>
+<field name="language">English</field>
+<field name="call_number">428.4 .D41p v. 2</field>
+<field name="state_country">Colorado </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Denver (Colorado) Public Schools</field>
+<field name="title">Improving meaning through outlining an informative selection, pupil exercises :
+reading improvement materials, Public Law 531 series</field>
+<field name="year">1966</field>
+<field name="date">1965-1966</field>
+<field name="pages">16</field>
+<field name="keywords">Curricula</field>
+<field name="keywords">Reading</field>
+<field name="notes">16 leaves ; 28 cm.; Other Titles: Outlining an informative selection;
+Responsibility: prepared and produced in the Department of General Curriculum Services.</field>
+<field name="publisher">Denver (Colorado) Public Schools</field>
+<field name="pub_place">Denver, CO</field>
+<field name="language">English</field>
+<field name="call_number">428.4 .D41im v. 1</field>
+<field name="state_country">Colorado </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Denver (Colorado) Public Schools</field>
+<field name="title">Improving meaning through outlining an informative selection, teacher's manual :
+reading improvement materials, Public Law 531 series</field>
+<field name="year">1966</field>
+<field name="date">1965-1966</field>
+<field name="pages">24</field>
+<field name="keywords">Curricula</field>
+<field name="keywords">Reading</field>
+<field name="publisher">Denver (Colorado) Public Schools</field>
+<field name="pub_place">Denver, CO</field>
+<field name="language">English</field>
+<field name="call_number">428.4 .D41im v. 2</field>
+<field name="state_country">Colorado </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Denver (Colorado) Public Schools</field>
+<field name="title">Improving meaning through using context to get the meaning of a word, pupil
+exercises : reading improvement materials, Public Law 531 series</field>
+<field name="year">1966</field>
+<field name="date">1965-1966</field>
+<field name="pages">16</field>
+<field name="keywords">Curricula</field>
+<field name="keywords">Reading</field>
+<field name="publisher">Denver (Colorado) Public Schools</field>
+<field name="pub_place">Denver, CO</field>
+<field name="language">English</field>
+<field name="call_number">428.4 .D41im v. 3</field>
+<field name="state_country">Colorado </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Denver (Colorado) Public Schools</field>
+<field name="title">Improving meaning through using context to get the meaning of a word, teacher's
+manual : reading improvement materials, Public Law 531 series</field>
+<field name="year">1966</field>
+<field name="date">1965-1966</field>
+<field name="pages">25</field>
+<field name="keywords">Curricula</field>
+<field name="keywords">Reading</field>
+<field name="publisher">Denver (Colorado) Public Schools</field>
+<field name="pub_place">Denver, CO</field>
+<field name="language">English</field>
+<field name="call_number">428.4 .D41im v. 4</field>
+<field name="state_country">Colorado </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Denver (Colorado) Public Schools</field>
+<field name="title">Improving meaning through locating information quickly on a page, pupil
+exercises : reading improvement materials, Public Law 531 series</field>
+<field name="year">1966</field>
+<field name="date">1965-1966</field>
+<field name="pages">6</field>
+<field name="keywords">Curricula</field>
+<field name="keywords">Reading</field>
+<field name="publisher">Denver (Colorado) Public Schools</field>
+<field name="pub_place">Denver, CO</field>
+<field name="language">English</field>
+<field name="call_number">428.4 .D41im v. 5</field>
+<field name="state_country">Colorado </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Denver (Colorado) Public Schools</field>
+<field name="title">Improving meaning through locating information quickly on a page, teacher's
+manual : reading improvement materials, Public Law 531 series</field>
+<field name="year">1966</field>
+<field name="date">1965-1966</field>
+<field name="pages">17</field>
+<field name="keywords">Curricula</field>
+<field name="keywords">Reading</field>
+<field name="publisher">Denver (Colorado) Public Schools</field>
+<field name="pub_place">Denver, CO</field>
+<field name="language">English</field>
+<field name="call_number">428.4 .D41im v. 6</field>
+<field name="state_country">Colorado </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Denver (Colorado) Public Schools</field>
+<field name="title">Improving meaning through determining purposes for reading and adjusting rate to
+purpose, pupil exercises : reading improvement materials, Public Law 531 series</field>
+<field name="year">1966</field>
+<field name="date">1965-1966</field>
+<field name="pages">7</field>
+<field name="keywords">Curricula</field>
+<field name="keywords">Reading</field>
+<field name="publisher">Denver (Colorado) Public Schools</field>
+<field name="pub_place">Denver, CO</field>
+<field name="language">English</field>
+<field name="call_number">428.4 .D41im v. 7</field>
+<field name="state_country">Colorado </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Denver (Colorado) Public Schools</field>
+<field name="title">Improving meaning through determining purposes for reading and adjusting rate to
+purpose, teacher's manual : reading improvement materials, Public Law 531 series</field>
+<field name="year">1966</field>
+<field name="date">1965-1966</field>
+<field name="pages">14</field>
+<field name="keywords">Curricula</field>
+<field name="keywords">Reading</field>
+<field name="publisher">Denver (Colorado) Public Schools</field>
+<field name="pub_place">Denver, CO</field>
+<field name="language">English</field>
+<field name="call_number">428.4 .D41im v. 8</field>
+<field name="state_country">Colorado </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Denver (Colorado) Public Schools</field>
+<field name="title">Improving meaning through using an index, pupil exercises : reading improvement
+materials, Public Law 531 series</field>
+<field name="year">1966</field>
+<field name="date">1965-1966</field>
+<field name="pages">34</field>
+<field name="keywords">Curricula</field>
+<field name="keywords">Reading</field>
+<field name="publisher">Denver (Colorado) Public Schools</field>
+<field name="pub_place">Denver, CO</field>
+<field name="language">English</field>
+<field name="call_number">428.4 .D41im v. 11</field>
+<field name="state_country">Colorado </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Denver (Colorado) Public Schools</field>
+<field name="title">Improving meaning through using an index, teacher's manual : reading improvement
+materials, Public Law 531 series</field>
+<field name="year">1966</field>
+<field name="date">1965-1966</field>
+<field name="pages">4</field>
+<field name="keywords">Curricula</field>
+<field name="keywords">Reading</field>
+<field name="publisher">Denver (Colorado) Public Schools</field>
+<field name="pub_place">Denver, CO</field>
+<field name="language">English</field>
+<field name="call_number">428.4 .D41im v. 12</field>
+<field name="state_country">Colorado </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Denver (Colorado) Public Schools</field>
+<field name="title">Improving meaning through individualized reading, teacher's manual : reading
+improvement materials, Public Law 531 series</field>
+<field name="year">1966</field>
+<field name="date">1965-1966</field>
+<field name="pages">8</field>
+<field name="keywords">Curricula</field>
+<field name="keywords">Reading</field>
+<field name="keywords">Individualized instruction</field>
+<field name="publisher">Denver (Colorado) Public Schools</field>
+<field name="pub_place">Denver, CO</field>
+<field name="language">English</field>
+<field name="call_number">428.4 .D41im v. 14</field>
+<field name="state_country">Colorado </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Denver (Colorado) Public Schools</field>
+<field name="title">Reading guide for use in the elementary school</field>
+<field name="year">1948</field>
+<field name="date">1948</field>
+<field name="pages">82</field>
+<field name="keywords">Reading</field>
+<field name="publisher">Denver (Colorado) Public Schools</field>
+<field name="pub_place">Denver, CO</field>
+<field name="language">English</field>
+<field name="call_number">428.4 .D41r</field>
+<field name="state_country">Colorado</field>
+<field name="grade_level_group">Elementary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Denver (Colorado) Public Schools</field>
+<field name="title">Sounds and symbols: phonics exercises for use in the Denver public
+schools</field>
+<field name="year">1952</field>
+<field name="date">12/1952</field>
+<field name="pages">137</field>
+<field name="keywords">Reading</field>
+<field name="keywords">Phonetics</field>
+<field name="publisher">Denver (Colorado) Public Schools</field>
+<field name="pub_place">Denver, CO</field>
+<field name="language">English</field>
+<field name="call_number">428.4 .D41s</field>
+<field name="state_country">Colorado </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Detroit (Michigan) Public Schools. Department of Language
+Education</field>
+<field name="title">Curriculum guide in reading, grades IV to VIII, inclusive</field>
+<field name="year">1953</field>
+<field name="date">1953</field>
+<field name="pages">202</field>
+<field name="keywords">Reading</field>
+<field name="keywords">Curricula</field>
+<field name="notes">202 pages 24 cm.</field>
+<field name="series_title">Detroit. Public Schools. Publication</field>
+<field name="series_vol">356</field>
+<field name="publisher">Detroit (Michigan) Board of Education</field>
+<field name="pub_place">Detroit, MI</field>
+<field name="language">English</field>
+<field name="call_number">428.4 .D48c</field>
+<field name="state_country">Michigan</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Roberts, Helen Mary</field><field name="author_nat">Helen Mary Roberts</field>
+<field name="corp_author">Denver (Colorado) Public Schools. Department of Instruction</field>
+<field name="title">Toward better reading, an instructional guide for use in the junior and senior
+high schools of Denver</field>
+<field name="year">1945</field>
+<field name="date">1945</field>
+<field name="pages">88</field>
+<field name="keywords">Reading</field>
+<field name="notes">4 preliminary leaves; ges including illustrations, forms, diagrams 23 cm;
+Note(s): "Prepared ... by Helen M. Roberts."--2d prelim. leaf./ Issued by the Dept. of Instruction,
+Denver Public Schools. cf. 2d prelim. leaf./ Includes bibliographical references.</field>
+<field name="publisher">Denver (Colorado) Public Schools</field>
+<field name="pub_place">Denver, CO</field>
+<field name="language">English</field>
+<field name="call_number">428.4 .D41t</field>
+<field name="state_country">Colorado</field>
+<field name="grade_level_group">Middle school</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">District of Columbia Public Schools</field>
+<field name="title">Reading curriculum bulletin</field>
+<field name="year">1950</field>
+<field name="date">1950</field>
+<field name="pages">97</field>
+<field name="keywords">Reading</field>
+<field name="publisher">District of Columbia Public Schools</field>
+<field name="pub_place">Washington, DC</field>
+<field name="language">English</field>
+<field name="call_number">428.4 .D61r</field>
+<field name="state_country">District of Columbia</field>
+<field name="grade_level_group">Elementary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Haas, Leonta R.</field><field name="author_nat">Leonta R. Haas</field>
+<field name="title">Selected bibliography for the reading improvement program in Downey secondary
+schools</field>
+<field name="year">1955</field>
+<field name="date">09/1955</field>
+<field name="pages">21</field>
+<field name="keywords">Reading</field>
+<field name="language">English</field>
+<field name="call_number">428.4 .D74s </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Englewood (New Jersey) Public Schools</field>
+<field name="title">Elementary reading guide</field>
+<field name="year">1964</field>
+<field name="date">11/1964</field>
+<field name="pages">90</field>
+<field name="keywords">Reading</field>
+<field name="notes">90 leaves ; 23 x 28 cm.; Note(s): Includes bibliographical references.;
+Responsibility: prepared by the Elementary Reading Committee.</field>
+<field name="publisher">Englewood (New Jersey) Public Schools</field>
+<field name="pub_place">Englewood, NJ</field>
+<field name="language">English</field>
+<field name="call_number">428.4 .E59e</field>
+<field name="state_country">New Jersey</field>
+<field name="grade_level_group">Elementary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Cody, Isabel</field><field name="author_nat">Isabel Cody</field>
+<field name="author">Sanderson, Alice</field><field name="author_nat">Alice Sanderson</field>
+<field name="title">Reading readiness handbook</field>
+<field name="year">1958</field>
+<field name="date">07/1958</field>
+<field name="pages">26</field>
+<field name="keywords">Reading</field>
+<field name="publisher">Fairfield (California) School District</field>
+<field name="pub_place">Fairfield, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.4 .F16r</field>
+<field name="state_country">California </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Flint (Michigan) Public Schools</field>
+<field name="title">An administrative and instructional reading guide for the primary cycle (the
+ungraded primary plan) of the Flint public schools</field>
+<field name="year">1961</field>
+<field name="date">09/1961</field>
+<field name="pages">48</field>
+<field name="keywords">Reading</field>
+<field name="publisher">Flint (Michigan) Public Schools</field>
+<field name="pub_place">Flint, MI</field>
+<field name="language">English</field>
+<field name="call_number">428.4 .F62t v. 1</field>
+<field name="state_country">Michigan</field>
+<field name="grade_level_group">Elementary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Flint (Michigan) Public Schools</field>
+<field name="title">A reading and language arts guide for the intermediate cycle: an experimental
+ungraded plan of the Flint community schools</field>
+<field name="year">1961</field>
+<field name="date">06/1961</field>
+<field name="pages">48</field>
+<field name="keywords">Reading</field>
+<field name="publisher">Flint (Michigan) Public Schools</field>
+<field name="pub_place">Flint, MI</field>
+<field name="edition">Rev.</field>
+<field name="language">English</field>
+<field name="call_number">428.4 .F62t v. 2</field>
+<field name="state_country">Michigan</field>
+<field name="grade_level_group">Elementary </field>
+</doc>
+
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Florida State Department of Education</field>
+<field name="title">A guide, reading in Florida secondary schools</field>
+<field name="year">1966</field>
+<field name="date">1966</field>
+<field name="pages">183</field>
+<field name="keywords">Reading</field>
+<field name="notes">v; ges ; 23 cm.; Note(s): Includes bibliographical references.; Other Titles:
+Reading in Florida secondary schools </field>
+<field name="series_title">Florida. State Department of Education. Bulletin</field>
+<field name="series_vol">35C</field>
+<field name="publisher">Florida State Department of Education</field>
+<field name="pub_place">Tallahassee, FL</field>
+<field name="language">English</field>
+<field name="call_number">428.4 .F63r</field>
+<field name="state_country">Florida</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Francis W. Parker School (Chicago, Illinois)</field>
+<field name="title">The first seven years of the Gillingham Reading Program at the Francis W. Parker
+School : as presented at the Gillingham Institute, January 26, 1957</field>
+<field name="year">1957</field>
+<field name="date">1957</field>
+<field name="pages">57</field>
+<field name="keywords">Reading</field>
+<field name="keywords">Remedial teaching</field>
+<field name="notes">57 leaves : ill. ; 28 cm.; Note(s): Cover title.; Other Titles: Gillingham
+Reading Program</field>
+<field name="publisher">Francis W. Parker School</field>
+<field name="pub_place">Chicago, IL</field>
+<field name="language">English</field>
+<field name="call_number">428.4 .F81f</field>
+<field name="state_country">Illinois </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Fresno (California) City Unified School District</field>
+<field name="title">Book assignments to reading levels</field>
+<field name="year">1952</field>
+<field name="date">09/1952</field>
+<field name="keywords">Reading</field>
+<field name="publisher">Fresno (California) City Unified School District</field>
+<field name="pub_place">Fresno, CA</field>
+<field name="edition">Rev.</field>
+<field name="language">English</field>
+<field name="call_number">428.4 .F88b</field>
+<field name="state_country">California </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Fresno (California) City Unified School District</field>
+<field name="title">Teacher's guide to child development in reading, grades one to six : approved,
+accepted by the Board of Education</field>
+<field name="year">1954</field>
+<field name="date">09/1954</field>
+<field name="pages">72</field>
+<field name="keywords">Reading</field>
+<field name="notes">ii, 72 leaves : ill. ; 28 cm.; Note(s): Bibliography: leaf 72.</field>
+<field name="publisher">Fresno (California) City Unified School District</field>
+<field name="pub_place">Fresno, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.4 .F88t</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Spache, George Daniel</field><field name="author_nat">George Daniel Spache</field>
+<field name="title">Are we teaching reading?</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="pages">31</field>
+<field name="keywords">Reading</field>
+<field name="notes">31 p. illus. 23 cm.</field>
+<field name="publisher">University of Florida</field>
+<field name="pub_place">Gainesville, FL</field>
+<field name="language">English</field>
+<field name="call_number">428.4 .F636a</field>
+<field name="state_country">Florida</field>
+<field name="grade_level_group">Elementary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Fort Knox (Kentucky) Elementary Schools</field>
+<field name="title">Building a modern reading program</field>
+<field name="year">1966</field>
+<field name="date">1966?</field>
+<field name="pages">93</field>
+<field name="keywords">Reading</field>
+<field name="publisher">Fort Knox (Kentucky) Elementary Schools</field>
+<field name="pub_place">Fort Knox, KY</field>
+<field name="language">English</field>
+<field name="call_number">428.4 .F74b</field>
+<field name="state_country">Kentucky </field>
+</doc>
+</add>

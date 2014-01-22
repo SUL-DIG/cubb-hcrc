@@ -1,0 +1,2048 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="type">Book</field>
+<field name="author">Hardgrove, Clarence Ethel</field><field name="author_nat">Clarence Ethel Hardgrove</field>
+<field name="title">The elementary and junior high school mathematics library</field>
+<field name="year">1960</field>
+<field name="date">1960</field>
+<field name="pages">32</field>
+<field name="keywords">Mathematics</field>
+<field name="keywords">Bibliography</field>
+<field name="notes">32 p. 24 cm.</field>
+<field name="publisher">National Council of Teachers of Mathematics</field>
+<field name="pub_place">Washington, DC</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .N27eL v. 1</field>
+<field name="grade_level_group">Elementary</field>
+<field name="grade_level_group">Middle school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Potter, Mary</field><field name="author_nat">Mary Potter</field>
+<field name="author">Mallory, Virgil Sampson</field><field name="author_nat">Virgil Sampson Mallory</field>
+<field name="title">Education in mathematics for the slow learner</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="pages">36</field>
+<field name="keywords">Mathematics</field>
+<field name="notes">36 p. ; 23 cm.; Note(s): Includes bibliographical references (p. 32-36).;
+Responsibility: by Mary Potter and Virgil Mallory.</field>
+<field name="publisher">National Council of Teachers of Mathematics</field>
+<field name="pub_place">Washington, DC</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .N27e </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Ransom, William R.</field><field name="author_nat">William R. Ransom</field>
+<field name="corp_author">National Council of Teachers of Mathematics</field>
+<field name="title">Geometry growing : early and later proofs of famous theorems</field>
+<field name="year">1954</field>
+<field name="date">1954</field>
+<field name="pages">36</field>
+<field name="keywords">Geometry</field>
+<field name="notes">iv; ill. ; 23 cm.; Note(s): Includes index.; Responsibility: William R.
+Ransom.</field>
+<field name="publisher">National Council of Teachers of Mathematics</field>
+<field name="pub_place">Washington, DC</field>
+<field name="language">English</field>
+<field name="call_number">513 .N27g </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Schaaf, William Leonard</field><field name="author_nat">William Leonard Schaaf</field>
+<field name="title">The high school mathematics library</field>
+<field name="year">1960</field>
+<field name="date">1960</field>
+<field name="pages">36</field>
+<field name="keywords">Mathematics</field>
+<field name="keywords">Bibliography</field>
+<field name="notes">36 p. 23 cm.; Note(s): "Second printing, 1961."</field>
+<field name="publisher">National Council of Teachers of Mathematics</field>
+<field name="pub_place">Washington, DC</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .N27eL v. 2</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Vollmar, Robert</field><field name="author_nat">Robert Vollmar</field>
+<field name="author">Peak, Philip</field><field name="author_nat">Philip Peak</field>
+<field name="title">How to use films and filmstrips in mathematics classes</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="pages">14</field>
+<field name="keywords">Mathematics</field>
+<field name="notes">14 p. ill. 29 cm.; Note(s): "Publications which aid in film and filmstrip
+selection": p. 11-12./ "Directory of film producers and distributors": p. 14.; Responsibility: by
+Robert Vollmar, and Philop Peak.</field>
+<field name="series_title">National Council of Teachers of Mathematics. How to series</field>
+<field name="series_vol">4</field>
+<field name="publisher">National Council of Teachers of Mathematics</field>
+<field name="pub_place">Washington, DC</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .N27h v. 4 </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Archer, Allene</field><field name="author_nat">Allene Archer</field>
+<field name="title">How to use your library in mathematics ..</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="pages">6</field>
+<field name="keywords">Mathematics</field>
+<field name="keywords">School libraries</field>
+<field name="notes">6 p. ill. 29 cm.; Note(s): Also issued online.</field>
+<field name="series_title">National Council of Teachers of Mathematics. How to series</field>
+<field name="series_vol">5</field>
+<field name="publisher">National Council of Teachers of Mathematics</field>
+<field name="pub_place">Washington, DC </field>
+<field name="language">English</field>
+<field name="call_number">511.6 .N27h</field>
+<field name="grade_level_group">Elementary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Berger, Emil J.</field><field name="author_nat">Emil J. Berger</field>
+<field name="author">Johnson, Donovan A.</field><field name="author_nat">Donovan A. Johnson</field>
+<field name="title">A guide to the use and procurement of teaching aids for mathematics</field>
+<field name="year">1959</field>
+<field name="date">1959</field>
+<field name="pages">41</field>
+<field name="keywords">Mathematics</field>
+<field name="keywords">Teaching aids</field>
+<field name="publisher">National Council of Teachers of Mathematics</field>
+<field name="pub_place">Washington, DC</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .N27gu v. 1 </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Johnson, Donovan A.</field><field name="author_nat">Donovan A. Johnson</field>
+<field name="title">How to use field trips in mathematics</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="pages">8</field>
+<field name="keywords">Mathematics</field>
+<field name="notes">8 p. ill. 29 cm.; Responsibility: by Donovan A. Johnson, Dirk Ten Brinke, and
+Lauren G. Woodby.</field>
+<field name="series_title">National Council of Teachers of Mathematics. How to series</field>
+<field name="series_vol">3</field>
+<field name="publisher">National Council of Teachers of Mathematics</field>
+<field name="pub_place">Washington, DC </field>
+<field name="language">English</field>
+<field name="call_number">%11.6 .N27gu v. 3 </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Johnson, Donovan A.</field><field name="author_nat">Donovan A. Johnson</field>
+<field name="author">Olander, Clarence E.</field><field name="author_nat">Clarence E. Olander</field>
+<field name="title">How to use your bulletin board</field>
+<field name="year">1955</field>
+<field name="date">1955</field>
+<field name="pages">11</field>
+<field name="keywords">Bulletin boards</field>
+<field name="keywords">Mathematics</field>
+<field name="notes">11 p. ill. 28 cm.; Responsibility: [by] Donovan A. Johnson [and] Clarence E.
+Olander.</field>
+<field name="series_title">National Council of Teachers of Mathematics. How to do it series</field>
+<field name="series_vol">1</field>
+<field name="publisher">National Council of Teachers of Mathematics</field>
+<field name="pub_place">Washington, DC</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .N27h v. 1 </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Keiffer, Mildred</field><field name="author_nat">Mildred Keiffer</field>
+<field name="author">Evans, Anna Marie</field><field name="author_nat">Anna Marie Evans</field>
+<field name="title">How to develop a teaching guide in mathematics</field>
+<field name="year">1955</field>
+<field name="date">1955</field>
+<field name="pages">9</field>
+<field name="keywords">Mathematics</field>
+<field name="notes">9 p. 29 cm.; Responsibility: by Mildred Keiffer and Anna Marie Evans.</field>
+<field name="series_title">National Council of Teachers of Mathematics. How to series</field>
+<field name="series_vol">2</field>
+<field name="publisher">National Council of Teachers of Mathematics</field>
+<field name="pub_place">Washington, DC</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .N27h v. 2 </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Myers, Sheldon S.</field><field name="author_nat">Sheldon S. Myers</field>
+<field name="title">Mathematics tests available in the United States</field>
+<field name="year">1959</field>
+<field name="date">04/1959</field>
+<field name="pages">12</field>
+<field name="keywords">Mathematical ability</field>
+<field name="keywords">Testing</field>
+<field name="publisher">National Council of Teachers of Mathematics</field>
+<field name="pub_place">Washington, DC</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .N27gu v. 2 </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Carnahan, Walter H.</field><field name="author_nat">Walter H. Carnahan</field>
+<field name="corp_author">National Council of Teachers of Mathematics. Mathematics Club Pamphlet
+Committee</field>
+<field name="title">Mathematics clubs in high schools</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="pages">32</field>
+<field name="keywords">Mathematics</field>
+<field name="notes">32 p. 23 cm.; Responsibility: Walter H. Carnahan, editor.</field>
+<field name="publisher">National Council of Teachers of Mathematics</field>
+<field name="pub_place">Washington, DC</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .N27m</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Johnson, Donovan A.</field><field name="author_nat">Donovan A. Johnson</field>
+<field name="title">Paper folding for the mathematics class</field>
+<field name="year">1957</field>
+<field name="date">1957</field>
+<field name="pages">32</field>
+<field name="keywords">Geometry</field>
+<field name="keywords">Paper work</field>
+<field name="publisher">National Council of Teachers of Mathematics</field>
+<field name="pub_place">Washington, DC</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .N27pa </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">National Council of Teachers of Mathematics</field>
+<field name="title">The revolution in school mathematics; a challenge for administrators and
+teachers, a report</field>
+<field name="year">1961</field>
+<field name="date">1961</field>
+<field name="pages">90</field>
+<field name="keywords">Mathematics</field>
+<field name="notes">iv; illus. 23 cm.; Note(s): "Sponsored by National Council of Teachers of
+Mathematics."/ Biographical footnotes./ Bibliographical footnotes./ Also issued online.</field>
+<field name="series_title">Regional Orientation Conferences in Mathematics (1960 : Philadelphia,
+etc.)</field>
+<field name="publisher">National Council of Teachers of Mathematics</field>
+<field name="pub_place">Washington, DC</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .N27r </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Vance, Elbridge Putnam</field><field name="author_nat">Elbridge Putnam Vance</field>
+<field name="corp_author">National Council of Teachers of Mathematics</field>
+<field name="title">Program provisions for the mathematically gifted student in the secondary
+school</field>
+<field name="year">1957</field>
+<field name="date">1957</field>
+<field name="pages">28</field>
+<field name="keywords">Mathematics</field>
+<field name="notes">28 p. 23 cm.; Note(s): Bibliography : p. 25-28.; Responsibility: editor, E.P.
+Vance. Contributors: Julius H. Hlavaty, Richard S. Pieters [and] Leroy Sachs.</field>
+<field name="publisher">National Council of Teachers of Mathematics</field>
+<field name="pub_place">Washington, DC</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .N27p</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Nederland (Texas) Independent School District</field>
+<field name="title">Secondary mathematics for grades 6 through 9. Part I, An approach to
+individualization of instruction in sixth grade mathematics, seventh grade mathematics, eighth grade
+mathematics, algebra 13, general mathematics at Central Junior High School, C.O. Wilson Junior High
+School, Nederland High School</field>
+<field name="year">1966</field>
+<field name="date">08/1966</field>
+<field name="keywords">Mathematics</field>
+<field name="keywords">Individualized instruction</field>
+<field name="edition">Experimental</field>
+<field name="publisher">Nederland (Texas) Independent School District</field>
+<field name="pub_place">Nederland, TX</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .N37s v. 1</field>
+<field name="state_country">Texas</field>
+<field name="grade_level_number">6th grade</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Nederland (Texas) Independent School District</field>
+<field name="title">Secondary mathematics for grades 6 through 12. Part II, An approach to
+individualization of instruction in business arithmetic, Geometry 33. Algebra 33. Trigonometry 41.
+Elementary analysis 42. Consumer mathematics 43 at Central Junior High School, C.O. Wilson Junior
+High School, Nederland High School</field>
+<field name="year">1966</field>
+<field name="date">08/1966</field>
+<field name="keywords">Mathematics</field>
+<field name="keywords">Individualized instruction</field>
+<field name="edition">Experimental</field>
+<field name="publisher">Nederland (Texas) Independent School District</field>
+<field name="pub_place">Nederland, TX</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .N37s v. 2</field>
+<field name="state_country">Texas</field>
+<field name="grade_level_number">6th grade</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">New Hampshire State Department of Education</field>
+<field name="title">A suggested syllabus for grade 12 mathematics: trigonometry and advanced
+algebra</field>
+<field name="year">1956</field>
+<field name="date">07/1956</field>
+<field name="pages">10</field>
+<field name="keywords">Mathematics</field>
+<field name="keywords">Algebra</field>
+<field name="keywords">Trigonometry</field>
+<field name="publisher">New Hampshire State Department of Education</field>
+<field name="pub_place">Concord, NH</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .N48s</field>
+<field name="state_country">New Hampshire</field>
+<field name="grade_level_number">12th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">New York (New York) Board of Education</field>
+<field name="title">Mathematics, grade 7</field>
+<field name="year">1959</field>
+<field name="date">1959</field>
+<field name="pages">194</field>
+<field name="keywords">Mathematics</field>
+<field name="series_title">New York (New York) Board of Education. Curriculum bulletin, 1959-60
+series</field>
+<field name="series_vol">3</field>
+<field name="publisher">New York (New York) Board of Education</field>
+<field name="pub_place">New York, NY</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .N52ma</field>
+<field name="state_country">New York</field>
+<field name="grade_level_number">7th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">New York (New York) Board of Education</field>
+<field name="title">General mathematics for the tenth year</field>
+<field name="year">1954</field>
+<field name="date">1954</field>
+<field name="pages">95</field>
+<field name="keywords">Mathematics</field>
+<field name="series_title">New York (New York) Board of Education. Curriculum bulletin,; 1953-54
+series</field>
+<field name="series_vol">5</field>
+<field name="publisher">New York (New York) Board of Education</field>
+<field name="pub_place">New York, NY</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .N52g</field>
+<field name="state_country">New York</field>
+<field name="grade_level_number">10th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">New York State Education Department</field>
+<field name="title">An experimental course in mathematics for the twelfth year</field>
+<field name="year">1957</field>
+<field name="date">1957</field>
+<field name="pages">30</field>
+<field name="keywords">Mathematics</field>
+<field name="publisher">New York State Education Department</field>
+<field name="pub_place">Albany, NY</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .N53e</field>
+<field name="state_country">New York</field>
+<field name="grade_level_number">12th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Carey, Elizabeth B.</field><field name="author_nat">Elizabeth B. Carey</field>
+<field name="author">Seymour, F. Eugene</field><field name="author_nat">F. Eugene Seymour</field>
+<field name="title">Improving basic skills in mathematics : a digest of the report of the Basic
+Skills Conference-Clinics in Mathematics</field>
+<field name="year">1952</field>
+<field name="date">1952</field>
+<field name="pages">8</field>
+<field name="keywords">Mathematics</field>
+<field name="notes">8 p. ; 22 cm.; Note(s): "This abstract was prepared by the staff of the Bureau
+of Secondary Curriculum Development. It is based upon a comprehensive report of the outcomes of the
+ten Basic Skills Conference-Clinics in Mathematics prepared by Elizabeth B. Carey supervisor of
+elementary education, in cooperation with F. Eugene Seymour, supervisor of mathematics education.";
+Responsibility: Bureau of Secondary Curriculum development, State Education Department.</field>
+<field name="series_title">New York State Education Department. Curriculum leaflet</field>
+<field name="series_vol">1</field>
+<field name="publisher">Bureau of Secondary Currculum Development, New York State Education
+Department</field>
+<field name="pub_place">Albany, NY</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .N53i</field>
+<field name="state_country">New York</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of the State of New York. Bureau of Elementary Curriculum
+Development</field>
+<field name="title">Mathematics for boys and girls; a handbook for teachers</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="pages">154</field>
+<field name="keywords">Mathematics</field>
+<field name="notes">154 p. illus. 23 cm.; Note(s): "A suggested grade placement, kindergarten, grade
+1-6": fold. leaf in pocket.</field>
+<field name="publisher">University of the State of New York</field>
+<field name="pub_place">Albany, NY</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .N53m v. 1</field>
+<field name="state_country">New York</field>
+<field name="grade_level_group">Elementary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of the State of New York. Bureau of Secondary Curriculum
+Development</field>
+<field name="title">Graphs and statistics; a resource handbook for teachers of basic
+mathematics</field>
+<field name="year">1960</field>
+<field name="date">1960</field>
+<field name="pages">90</field>
+<field name="keywords">Mathematics</field>
+<field name="keywords">Statistics</field>
+<field name="notes">90 p. map, diagrs. 23 cm.</field>
+<field name="publisher">University of the State of New York</field>
+<field name="pub_place">Albany, NY</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .N53g</field>
+<field name="state_country">New York</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of the State of New York. Bureau of Secondary Curriculum
+Development</field>
+<field name="title">Mathematics, 7-8-9; an integrated sequence for the early secondary school
+grades</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="pages">63</field>
+<field name="keywords">Mathematics</field>
+<field name="notes">63 p. illus. 22 cm.</field>
+<field name="publisher">University of the State of New York</field>
+<field name="pub_place">Albany, NY</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .N53m v. 2</field>
+<field name="state_country">New York</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Petty, Olan</field><field name="author_nat">Olan Petty</field>
+<field name="title">A guide to curriculum study : elementary mathematics, grades 1-8</field>
+<field name="year">1959</field>
+<field name="date">1959</field>
+<field name="pages">35</field>
+<field name="keywords">Mathematics</field>
+<field name="notes">ii; ; 28 cm.; Note(s): Cover title./ Includes bibliographical references (p.
+32-35).; Other Titles: Elementary mathematics, grades 1-8; Responsibility: by Olan Petty.</field>
+<field name="publisher">Curriculum Study, North Carolina State Board of Education</field>
+<field name="pub_place">Raleigh, NC</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .N85g v. 1</field>
+<field name="state_country">North Carolina</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Clary, Robert</field><field name="author_nat">Robert Clary</field>
+<field name="author">Eason, Margaret</field><field name="author_nat">Margaret Eason</field>
+<field name="author">Harris, Bryce</field><field name="author_nat">Bryce Harris</field>
+<field name="author">Ridgeway, Jane</field><field name="author_nat">Jane Ridgeway</field>
+<field name="title">A guide to curriculum study : high school mathematics grades 9 - 12</field>
+<field name="year">1959</field>
+<field name="date">1959</field>
+<field name="pages">56</field>
+<field name="keywords">Mathematics</field>
+<field name="notes">ii; ; 28 cm.; Note(s): Cover title./ Includes bibliographical references (p.
+42-53).; Other Titles: High school mathematics, grades 9-12; Responsibility: by Robert Clary et
+al.</field>
+<field name="publisher">Curriculum Study, North Carolina State Board of Education</field>
+<field name="pub_place">Raleigh, NC</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .N85g v. 2</field>
+<field name="state_country">North Carolina</field>
+<field name="grade_level_number">9th grade</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of the State of New York. Bureau of Secondary Curriculum
+Development</field>
+<field name="title">Mathematics 10; a handbook of resource material to accompany the course of study
+in mathematics 10</field>
+<field name="year">1962</field>
+<field name="date">1962</field>
+<field name="pages">130</field>
+<field name="keywords">Geometry</field>
+<field name="notes">v; diagrs. 23 cm.; Note(s): Bibliography: p. 130.</field>
+<field name="publisher">University of the State of New York. Bureau of Secondary Curriculum
+Development</field>
+<field name="pub_place">Albany, NY</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .N53m v. 3a</field>
+<field name="state_country">New York</field>
+<field name="grade_level_number">10th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of the State of New York. Bureau of General Education
+Curriculum Development</field>
+<field name="title">Mathematics courses for the seventh year and eighth yearbook</field>
+<field name="year">1967</field>
+<field name="date">1967</field>
+<field name="pages">29</field>
+<field name="keywords">Mathematics</field>
+<field name="notes">v; ill. ; 22 cm.; Responsibility: Bureau of General Education Curriculum
+Development, University of the State of New York.</field>
+<field name="publisher">University of the State of New York. Bureau of General Education Curriculum
+Development</field>
+<field name="pub_place">Albany, NY</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .N53m v. 2a</field>
+<field name="state_country">New York</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of the State of New York. Bureau of Mathematics
+Education</field>
+<field name="title">Mathematics education and the educationally disadvantaged</field>
+<field name="year">1968</field>
+<field name="date">05/1968</field>
+<field name="pages">68</field>
+<field name="keywords">Mathematics</field>
+<field name="keywords">Children with social disabilities</field>
+<field name="notes">68 p. 22 cm.; Note(s): Papers delivered at two conferences held in Albany, Mar.
+17 and Dec. 1, 1967, on the theme: Low achievers in mathematics and title 1, ESEA, and sponsored by
+the Bureau of Mathematics Education and the Office of Title 1, ESEA.</field>
+<field name="publisher">University of the State of New York, Bureau of Mathematics Education</field>
+<field name="pub_place">Albany, NY</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .N53ma</field>
+<field name="state_country">New York </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Oakland (California) Public Schools</field>
+<field name="title">Intermediate mathematics: pilot course</field>
+<field name="year">1961</field>
+<field name="date">06/1961</field>
+<field name="pages">4</field>
+<field name="keywords">Mathematics</field>
+<field name="publisher">Oakland (California) Public Schools</field>
+<field name="pub_place">Oakland, CA</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .O11i</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Oakland (California) Public Schools</field>
+<field name="title">Mathematics I : teacher's guide, tentative</field>
+<field name="year">1961</field>
+<field name="date">06/1961</field>
+<field name="keywords">Mathematics</field>
+<field name="notes">1 v. (various pagings)</field>
+<field name="publisher">Oakland (California) Public Schools</field>
+<field name="pub_place">Oakland, CA</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .O11m</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">9th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Oakland (California) Public Schools</field>
+<field name="title">Mathematics I : teacher's guide, tentative</field>
+<field name="year">1962</field>
+<field name="date">07/1962</field>
+<field name="keywords">Mathematics</field>
+<field name="notes">1 v. (various pagings)</field>
+<field name="publisher">Oakland (California) Public Schools</field>
+<field name="pub_place">Oakland, CA</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .O11mt</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">9th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Oakland (California) Public Schools</field>
+<field name="title">Advanced mathematics I teachers guide : tentative</field>
+<field name="year">1962</field>
+<field name="date">07/1962</field>
+<field name="pages">13</field>
+<field name="keywords">Mathematics</field>
+<field name="publisher">Oakland (California) Public Schools</field>
+<field name="pub_place">Oakland, CA</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .O11mt v. 2</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">11th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Oakland (California) Public Schools</field>
+<field name="title">Advanced mathematics II: teacher's guide</field>
+<field name="year">1964</field>
+<field name="date">07/1964</field>
+<field name="pages">4</field>
+<field name="keywords">Mathematics</field>
+<field name="publisher">Oakland (California) Public Schools</field>
+<field name="pub_place">Oakland, CA</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .O11mt v. 3</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">12th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Oakland (California) Public Schools</field>
+<field name="title">Advanced mathematics II: teacher's guide</field>
+<field name="year">1967</field>
+<field name="date">07/1967</field>
+<field name="pages">4</field>
+<field name="keywords">Mathematics</field>
+<field name="publisher">Oakland (California) Public Schools</field>
+<field name="pub_place">Oakland, CA</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .O11mt 1967 v. 3</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">12th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Charp, Sylvia</field><field name="author_nat">Sylvia Charp</field>
+<field name="title">Computers in general education</field>
+<field name="year">1967</field>
+<field name="date">1967</field>
+<field name="pages">39</field>
+<field name="keywords">Computers in education</field>
+<field name="notes">iii; ges : illustrations ; 23 cm; Note(s): Pa. State Docs. class. no. PPI
+1.2:C738g./ Includes bibliographical references (38-39).; Responsibility: by Sylvia Charp.</field>
+<field name="publisher">Pennsylvania State Department of Public Instruction</field>
+<field name="pub_place">Harrisburg, PA</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .P41c</field>
+<field name="state_country">Pennsylvania </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Oklahoma State University. Mathematics Workshop</field>
+<field name="title">Improvement of the teaching of mathematics</field>
+<field name="year">1957</field>
+<field name="date">Summer, 1957</field>
+<field name="pages">94</field>
+<field name="keywords">Mathematics</field>
+<field name="notes">94 p. ill. 23 cm.; Note(s): Bibliography: p. 89-94.; Responsibility: Prepared by
+Mathematics Workshop at Oklahoma State University at Stillwater, June 3-28, 1957, under the auspices
+of Oklahoma Curriculum Improvement Commission, Frontiers of Science Foundation of Oklahoma, inc.,
+Oklahoma State University, University of Oklahoma. Oklahoma State Department of Education, Oliver
+Hodge, superintendent.</field>
+<field name="publisher">Oklahoma State Department of Education</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .O41i</field>
+<field name="state_country">Oklahoma </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Oklahoma City (Oklahoma) Public Schools</field>
+<field name="title">In-service mathematics for elementary teachers</field>
+<field name="year">1963</field>
+<field name="date">1963-1964</field>
+<field name="pages">61</field>
+<field name="keywords">Mathematics</field>
+<field name="publisher">Oklahoma City (Oklahoma) Public Schools</field>
+<field name="pub_place">Oklahoma City, OK</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .O42i</field>
+<field name="state_country">Oklahoma</field>
+<field name="grade_level_group">Elementary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Organisation for European Economic Co-operation. Office for Scientific and
+Technical Personnel</field>
+<field name="title">Synopses for modern secondary school mathematics</field>
+<field name="year">1961</field>
+<field name="date">1961</field>
+<field name="pages">310</field>
+<field name="keywords">Mathematics</field>
+<field name="notes">310 p. illus. 24 cm.; Note(s): Bibliography: p. 290-291, 309-310.</field>
+<field name="publisher">Organisation for European Economic Co-operation. Office for Scientific and
+Technical Personnel</field>
+<field name="pub_place">Paris, France</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .O67s</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Paterson (New Jersey) Board of Education</field>
+<field name="title">The mathematics program, grades 9 through 12</field>
+<field name="year">1961</field>
+<field name="date">09/1961</field>
+<field name="pages">116</field>
+<field name="keywords">Mathematics</field>
+<field name="publisher">Paterson (New Jersey) Board of Education</field>
+<field name="pub_place">Paterson, NJ</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .P29m</field>
+<field name="grade_level_number">9th grade</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Horn, R. A.</field><field name="author_nat">R. A. Horn</field>
+<field name="title">Teacher's guide : seventh grade mathematics for the academically
+talented.</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="pages">125</field>
+<field name="keywords">Mathematics</field>
+<field name="publisher">Ohio State Department of Education</field>
+<field name="pub_place">Columbus, OH</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .O37t v. 1</field>
+<field name="state_country">Ohio</field>
+<field name="grade_level_number">7th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Horn, R. A.</field><field name="author_nat">R. A. Horn</field>
+<field name="title">Teacher's guide : eighth grade mathematics for the academically
+talented.</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="pages">107</field>
+<field name="keywords">Mathematics</field>
+<field name="publisher">Ohio State Department of Education</field>
+<field name="pub_place">Columbus, OH</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .O37t v. 2</field>
+<field name="state_country">Ohio</field>
+<field name="grade_level_number">8th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Horn, R. A.</field><field name="author_nat">R. A. Horn</field>
+<field name="title">Teacher's guide : ninth grade mathematics for the academically talented.</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="pages">273</field>
+<field name="keywords">Mathematics</field>
+<field name="publisher">Ohio State Department of Education</field>
+<field name="pub_place">Columbus, OH</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .O37t v. 3</field>
+<field name="state_country">Ohio</field>
+<field name="grade_level_number">9th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Jacoby, Elliott</field><field name="author_nat">Elliott Jacoby</field>
+<field name="corp_author">School District of Philadelphia, Pennsylvania. Curriculum Office</field>
+<field name="title">General mathematics, grade 9</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="pages">125</field>
+<field name="keywords">Mathematics</field>
+<field name="notes">xii; ill. ; 28 cm.; Responsibility: [writers, Elliott Jacoby ... [et
+al.]].</field>
+<field name="publisher">Curriculum Office, Philadelphia Public Schoools</field>
+<field name="pub_place">Philadelphia, PA</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .P54ge 1963 v. 1</field>
+<field name="state_country">Pennsylvania</field>
+<field name="grade_level_number">9th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Philadelphia (Pennsylvania) Public Schools</field>
+<field name="title">A guide to mathematics, grades 7 and 8</field>
+<field name="year">1950</field>
+<field name="date">02/1950</field>
+<field name="pages">49</field>
+<field name="keywords">Mathematics</field>
+<field name="notes">49 leaves ; 28 cm.; Note(s): Bibliography: leaves 42-44.</field>
+<field name="publisher">Curriculum Office, Philadelphia Public Schools</field>
+<field name="pub_place">Philadelphia, PA</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .P54g 1950</field>
+<field name="state_country">Pennsylvania</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Philadelphia (Pennsylvania) Public Schools</field>
+<field name="title">A guide to mathematics, grades 7 and 8</field>
+<field name="year">1957</field>
+<field name="date">1957</field>
+<field name="pages">145</field>
+<field name="keywords">Mathematics</field>
+<field name="publisher">Curriculum Office, Philadelphia Public Schools</field>
+<field name="pub_place">Philadelphia, PA</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .P54g 1957</field>
+<field name="state_country">Pennsylvania</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Sapolsky, Benjamin</field><field name="author_nat">Benjamin Sapolsky</field>
+<field name="author">Brooks, Milton</field><field name="author_nat">Milton Brooks</field>
+<field name="corp_author">School District of Philadelphia, Pennsylvania</field>
+<field name="title">Basic concepts of modern mathematics</field>
+<field name="year">1969</field>
+<field name="date">1969</field>
+<field name="pages">262</field>
+<field name="keywords">Mathematics</field>
+<field name="notes">ix; ill. ; 28 cm.; Note(s): Includes bibliographical references and index.;
+Responsibility: [written by Benjamin Sapolsky, Milton Brooks].</field>
+<field name="publisher">Office of Curriculum and Instruction, the School District of
+Philadelphia</field>
+<field name="pub_place">Philadelphia, PA</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .P54b</field>
+<field name="state_country">Pennsylvania</field>
+<field name="grade_level_number">10th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">School District of Philadelphia, Pennsylvania</field>
+<field name="title">General and business mathematics : adapted, tenth grade</field>
+<field name="year">1962</field>
+<field name="date">1962</field>
+<field name="pages">134</field>
+<field name="keywords">Business mathematics</field>
+<field name="notes">xvii; ill. ; 28 cm.; Note(s): Includes bibliographical references.</field>
+<field name="publisher">School District of Philadelphia</field>
+<field name="pub_place">Philadelphia, PA</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .P54ga</field>
+<field name="state_country">Pennsylvania</field>
+<field name="grade_level_number">10th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Philadelphia (Pennsylvania) Pubic Schools</field>
+<field name="title">Guide to the teaching of general mathematics 3 and 4 : gr. 10 : mathematics for
+the consumer</field>
+<field name="year">1957</field>
+<field name="date">1957</field>
+<field name="pages">60</field>
+<field name="keywords">Mathematics</field>
+<field name="publisher">Philadelphia (Pennsylvania) Pubic Schools</field>
+<field name="pub_place">Philadelphia, PA</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .P54ge 1957 v. 2</field>
+<field name="state_country">Pennsylvania</field>
+<field name="grade_level_number">10th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Philadelphia (Pennsylvania) Public Schools. Curriculum Office</field>
+<field name="title">Shop mathematics : problem book (tentative)</field>
+<field name="year">1961</field>
+<field name="date">1961</field>
+<field name="pages">102</field>
+<field name="keywords">Shop mathematics</field>
+<field name="keywords">Mathematics</field>
+<field name="edition">Rev.</field>
+<field name="notes">ix; ill. ; 28 cm.; Responsibility: Curriculum Office, Philadelphia Public
+Schools.</field>
+<field name="publisher">Philadelphia Public Schools</field>
+<field name="pub_place">Philadelphia, PA</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .P54s v. 2</field>
+<field name="state_country">Pennsylvania</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Philadelphia (Pennsylvania) Public Schools. Curriculum Office</field>
+<field name="title">A guide to the teaching of shop mathematics</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="pages">131</field>
+<field name="keywords">Shop mathematics</field>
+<field name="keywords">Mathematics</field>
+<field name="notes">xii; ill. ; 28 cm.; Other Titles: Shop mathematics.; Responsibility: Curriculum
+Office, Philadelphia Public Schools.</field>
+<field name="edition">Tentative</field>
+<field name="publisher">Philadelphia Public Schools</field>
+<field name="pub_place">Philadelphia, PA</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .P54s v. 1</field>
+<field name="state_country">Pennsylvania</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">School District of Philadelphia, Pennsylvania</field>
+<field name="title">General mathematics 3 and 4, adapted : tenth grade (tentative)</field>
+<field name="year">1959</field>
+<field name="date">1959</field>
+<field name="pages">130</field>
+<field name="keywords">Mathematics</field>
+<field name="notes">130 p. ; 28 cm.; Note(s): Typescript./ Includes bibliographical
+references.</field>
+<field name="publisher">Philadelphia Public Schools</field>
+<field name="pub_place">Philadelphia, PA</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .P54ge 1959 v. 2</field>
+<field name="state_country">Pennsylvania</field>
+<field name="grade_level_number">10th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Philadelphia (Pennsylvania) Public Schools. Curriculum Office</field>
+<field name="title">Shop mathematics : problem book : answers</field>
+<field name="year">1961</field>
+<field name="date">1961</field>
+<field name="pages">32</field>
+<field name="keywords">Shop mathematics</field>
+<field name="keywords">Mathematics</field>
+<field name="notes">v; ; 28 cm.; Responsibility: Curriculum Office, Philadelphia Public
+Schools.</field>
+<field name="publisher">Philadelphia Public Schools</field>
+<field name="pub_place">Philadelphia, PA</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .P54s v. 3</field>
+<field name="state_country">Pennsylvania</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Portland (Oregon) Public Schools</field>
+<field name="title">Curriculum guide and student supplement commentary for the ninth grade general
+mathematics program</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="pages">195</field>
+<field name="keywords">Mathematics</field>
+<field name="series_title">Portland (Oregon) Public Schools. Curriculum Publications</field>
+<field name="series_vol">M-31</field>
+<field name="publisher">Portland (Oregon) Public Schools</field>
+<field name="pub_place">Portland, OR</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .P85g v. 1</field>
+<field name="state_country">Oregon</field>
+<field name="grade_level_number">9th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Portland (Oregon) Public Schools</field>
+<field name="title">Student supplement for general mathematics</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="pages">323</field>
+<field name="keywords">Mathematics</field>
+<field name="publisher">Portland (Oregon) Public Schools</field>
+<field name="pub_place">Portland, OR</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .P85g v. 2</field>
+<field name="state_country">Oregon </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Portland (Oregon) Public Schools</field>
+<field name="title">Brief course outlines of the secondary school mathematics program</field>
+<field name="pages">25</field>
+<field name="keywords">Mathematics</field>
+<field name="series_title">Portland (Oregon) Public Schools. Curriculum Publications</field>
+<field name="series_vol">M-34</field>
+<field name="publisher">Portland (Oregon) Public Schools</field>
+<field name="pub_place">Portland, OR</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .P85g v. 3</field>
+<field name="state_country">Oregon</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Portland (Oregon) Public Schools</field>
+<field name="title">Mathematics classes for exceptionally endowed students in the high schools of
+Portland, Oregon</field>
+<field name="year">1957</field>
+<field name="date">1957?</field>
+<field name="pages">99</field>
+<field name="keywords">Mathematics</field>
+<field name="keywords">Gifted children</field>
+<field name="notes">99 leaves ; 28 cm.; Note(s): Includes bibliographical references.;
+Responsibility: prepared by Laura D. Scott, Dana Small, William W. Matson ; consultants, Lesta P.
+Hoel, Lloyd B. Williams.</field>
+<field name="series_title">Portland (Oregon) Public Schools. Curriculum publication</field>
+<field name="series_vol">GC-4</field>
+<field name="publisher">Portland (Oregon) Public Schools</field>
+<field name="pub_place">Portland, OR</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .P85m</field>
+<field name="state_country">Oregon</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Ramapo Central School District No. 2 (Spring Valley, New York)</field>
+<field name="title">A tentative course of study: basic mathematics grade 7</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="pages">40</field>
+<field name="keywords">Mathematics</field>
+<field name="publisher">Ramapo Central School District No. 2</field>
+<field name="pub_place">Spring Valley, NY</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .R17t v. 1</field>
+<field name="state_country">New York</field>
+<field name="grade_level_number">7th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Ramapo Central School District No. 2 (Spring Valley, New York)</field>
+<field name="title">A tentative course of study: general mathematics grade 9</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="pages">52</field>
+<field name="keywords">Mathematics</field>
+<field name="publisher">Ramapo Central School District No. 2</field>
+<field name="pub_place">Spring Valley, NY</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .R17t v. 2</field>
+<field name="state_country">New York</field>
+<field name="grade_level_number">9th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Ramapo Central School District No. 2 (Spring Valley, New York)</field>
+<field name="title">A tentative course of study: 10th year mathematics (non-regents)</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="pages">55</field>
+<field name="keywords">Mathematics</field>
+<field name="publisher">Ramapo Central School District No. 2</field>
+<field name="pub_place">Spring Valley, NY</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .R17t v. 3</field>
+<field name="state_country">New York</field>
+<field name="grade_level_number">10th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Ramapo Central School District No. 2 (Spring Valley, New York)</field>
+<field name="title">A tentative course of study: 12th year mathematics (fundamentals for advanced
+mathematics)</field>
+<field name="year">1964</field>
+<field name="date">1964</field>
+<field name="pages">27</field>
+<field name="keywords">Mathematics</field>
+<field name="publisher">Ramapo Central School District No. 2</field>
+<field name="pub_place">Spring Valley, NY</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .R17t v. 4</field>
+<field name="state_country">New York</field>
+<field name="grade_level_number">12th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">San Jose State College. Mathematics Department</field>
+<field name="title">An accelerated program for the more capable and interested students in
+mathematics, grades 7-12</field>
+<field name="year">1958</field>
+<field name="date">11/1958</field>
+<field name="keywords">Mathematics</field>
+<field name="notes">12, 66, 47, 9 leaves illustrations 28 cm; Responsibility: developed by members
+of a seminar under the direction of Dr. Max Kramer ... August, 1958; built upon a framework prepared
+by the Santa Clara Valley Mathematics Association during the winter and spring of 1958.</field>
+<field name="publisher">Santa Clara County Schools Office</field>
+<field name="pub_place">San Jose, CA</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .S23a</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">School Mathematics Project</field>
+<field name="title">The School Mathematics Project. Computing in mathematics. Some experimental
+ideas for teachers</field>
+<field name="year">1971</field>
+<field name="date">1971</field>
+<field name="pages">135</field>
+<field name="keywords">Mathematics</field>
+<field name="keywords">Computer science</field>
+<field name="notes">[8]; col. ill. ; 23 cm.; Note(s): Bibliography p. 131. - Includes index.</field>
+<field name="publisher">Cambridge University Press</field>
+<field name="pub_place">London, UK</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .S37c</field>
+<field name="state_country">United Kingdom </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">South Carolina Education Association. Department of Mathematics
+Teachers</field>
+<field name="title">Mathematics syllabus : a suggested guide</field>
+<field name="year">1954</field>
+<field name="date">1954?</field>
+<field name="pages">14</field>
+<field name="keywords">Mathematics</field>
+<field name="notes">14 pages ; 22 cm; Responsibility: Mathematics Teachers Department, South
+Carolina Education Association.</field>
+<field name="publisher">South Carolina Education Association</field>
+<field name="pub_place">Columbia, SC</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .S72m</field>
+<field name="state_country">South Carolina </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Springfield (Missouri) Public Schools</field>
+<field name="title">Mathematics : senior high school level (grades 6-12)</field>
+<field name="year">1956</field>
+<field name="date">10/1956</field>
+<field name="pages">77</field>
+<field name="keywords">Mathematics</field>
+<field name="keywords">Curricula</field>
+<field name="notes">77 p. ; 28 cm.; Responsibility: [prepared under the direction of Roy F. Litle in
+cooperation with the Production Committee].</field>
+<field name="series_title">Instructional guidelines, bulletin / Springfield, Mo. Public
+Schools</field>
+<field name="series_vol">12</field>
+<field name="publisher">Springfield (Missouri) Public Schools</field>
+<field name="pub_place">Springfield, MO</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .S77m</field>
+<field name="state_country">Missouri</field>
+<field name="grade_level_number">6th grade</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Superior (Wisconsin) Public Schools</field>
+<field name="title">Primary mathematics: third grade</field>
+<field name="year">1949</field>
+<field name="date">1949</field>
+<field name="keywords">Mathematics</field>
+<field name="publisher">Superior (Wisconsin) Public Schools</field>
+<field name="pub_place">Superior, WI</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .S95m v. 4</field>
+<field name="state_country">Wisconsin</field>
+<field name="grade_level_number">3rd grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Texas Education Agency</field>
+<field name="title">Freshman mathematics course descriptions: Texas colleges and
+universities</field>
+<field name="year">1966</field>
+<field name="date">1966</field>
+<field name="pages">177</field>
+<field name="keywords">Mathematics</field>
+<field name="keywords">Universities and colleges</field>
+<field name="keywords">Curricula</field>
+<field name="notes">vi; 26 cm.; Note(s): "Published and distributed by the Texas Education Agency in
+cooperation with the Commission on School and College Relations of the Texas Colleges and
+Universities."</field>
+<field name="series_title">Texas Education Agency. Bulletin</field>
+<field name="series_vol">662</field>
+<field name="publisher">Texas Education Agency</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .T35f</field>
+<field name="state_country">Texas</field>
+<field name="grade_level_group">Postsecondary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Tyler (Texas) Independent School District</field>
+<field name="title">Curriculum guide for seventh and eighth grade mathematics</field>
+<field name="year">1964</field>
+<field name="date">08/1964</field>
+<field name="keywords">Mathematics</field>
+<field name="notes">133 leaves in various foliations ; 22 x 28 cm.; Note(s): Includes
+bibliographical references.; Responsibility: prepared by Juanita Anderson ... [et al.].</field>
+<field name="publisher">Tyler (Texas) Independent School District</field>
+<field name="pub_place">Tyler, TX</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .T98c</field>
+<field name="state_country">Texas</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Reid, Irene M.</field><field name="author_nat">Irene M. Reid</field>
+<field name="title">Teaching mathematics through school savings</field>
+<field name="year">1949</field>
+<field name="date">1949</field>
+<field name="pages">32</field>
+<field name="keywords">School savings banks</field>
+<field name="keywords">Mathematics</field>
+<field name="notes">ill. ; 24 cm.; Responsibility: by Irene M. Reid.</field>
+<field name="publisher">U.S. Government Printing Office</field>
+<field name="pub_place">Washington, DC</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .U59t </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Texas Education Agency</field>
+<field name="title">Mathematics, level: nine through twelve</field>
+<field name="year">1973</field>
+<field name="date">01/1973</field>
+<field name="pages">92</field>
+<field name="keywords">Mathematics</field>
+<field name="notes">vi; ; 22 x 28 cm.; Note(s): Replaces Mathematics programs described in bulletins
+615, 617, and 620.; Responsibility: Texas Education Agency.</field>
+<field name="series_title">Texas Education Agency. Bulletin</field>
+<field name="series_vol">731</field>
+<field name="publisher">Texas Education Agency</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .T35m v. 2</field>
+<field name="state_country">Texas</field>
+<field name="grade_level_number">9th grade</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Texas Education Agency</field>
+<field name="title">Mathematics, level: kindergarten through eight</field>
+<field name="year">1973</field>
+<field name="date">01/1973</field>
+<field name="pages">121</field>
+<field name="keywords">Mathematics</field>
+<field name="notes">vi; ; 22 x 28 cm.; Note(s): Replaces mathematics programs described in bulletins
+615, 617, and 620.; Responsibility: Texas Education Agency.</field>
+<field name="series_title">Texas Education Agency. Bulletin</field>
+<field name="series_vol">730</field>
+<field name="publisher">Texas Education Agency</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .T35m v. 1</field>
+<field name="state_country">Texas</field>
+<field name="grade_level_number">Kindergarten</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Warwick (Rhode Island) Public Schools</field>
+<field name="title">A continuing program in mathematics for the Warwick Public Schools : grades K -
+6. Vol. I</field>
+<field name="year">1967</field>
+<field name="date">09/1967</field>
+<field name="pages">27</field>
+<field name="keywords">Mathematics</field>
+<field name="keywords">Curricula</field>
+<field name="publisher">Warwick (Rhode Island) Public Schools</field>
+<field name="pub_place">Warwick, RI</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .W29c v. 1</field>
+<field name="state_country">Rhode Island</field>
+<field name="grade_level_number">Kindergarten</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Washington State Superintendent of Public Instruction</field>
+<field name="title">Guidelines for mathematics: secondary</field>
+<field name="year">1962</field>
+<field name="date">1962</field>
+<field name="pages">35</field>
+<field name="keywords">Mathematics</field>
+<field name="notes">35 l. 28 cm.; Note(s): Cover title./ "Prepared by the Advisory Committee on
+Mathematics of the State Offcie of Public Instruction."</field>
+<field name="publisher">Washington State Superintendent of Public Instruction</field>
+<field name="pub_place">Olympia, WA</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .W31g</field>
+<field name="state_country">Washington</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Washington State Superintendent of Public Instruction</field>
+<field name="title">Mathematics tentative curriculum guide; grades seven, eight and nine</field>
+<field name="year">1960</field>
+<field name="date">1960</field>
+<field name="pages">131</field>
+<field name="keywords">Curricula</field>
+<field name="keywords">Mathematics</field>
+<field name="notes">131 p. illus.</field>
+<field name="publisher">Washington State Superintendent of Public Instruction</field>
+<field name="pub_place">Olympia, WA</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .W31m</field>
+<field name="state_country">Washington</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">West Virginia State Department of Education</field>
+<field name="title">Section 13: mathematics</field>
+<field name="year">1970</field>
+<field name="date">1970</field>
+<field name="pages">18</field>
+<field name="keywords">Mathematics</field>
+<field name="publisher">West Virginia State Department of Education</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .W51m</field>
+<field name="state_country">West Virginia </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Wichita (Kansas) Public Schools. Curriculum Services Division</field>
+<field name="title">Teacher's guide for mathematics 7, 8, 9, and algebra I</field>
+<field name="year">1969</field>
+<field name="date">1969</field>
+<field name="pages">49</field>
+<field name="keywords">Mathematics</field>
+<field name="keywords">Curricula</field>
+<field name="publisher">Wichita (Kansas) Public Schools. Curriculum Services Division</field>
+<field name="pub_place">Wichita, KS</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .W63t</field>
+<field name="state_country">Kansas</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Wyandotte (Michigan) Public Schools</field>
+<field name="title">Mathematics curriculum guide</field>
+<field name="year">1956</field>
+<field name="date">09/1956</field>
+<field name="pages">30</field>
+<field name="keywords">Mathematics</field>
+<field name="keywords">Curricula</field>
+<field name="publisher">Wyandotte (Michigan) Public Schools</field>
+<field name="pub_place">Wyandotte, MI</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .W97m</field>
+<field name="state_country">Michigan </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Cincinnati (Ohio) Public Schools</field>
+<field name="title">Algebra one, grade 9</field>
+<field name="year">1957</field>
+<field name="date">1957</field>
+<field name="pages">73</field>
+<field name="keywords">Algebra</field>
+<field name="notes">vi; ill. ; 28 cm.; Note(s): Bibliography: p. 73.; Other Titles: Algebra one,
+junior high school, grade 9</field>
+<field name="series_title">Cincinnati (Ohio) Public Schools. Curriculum bulletin</field>
+<field name="series_vol">3</field>
+<field name="publisher">Cincinnati (Ohio) Public Schools</field>
+<field name="pub_place">Cincinnati, OH</field>
+<field name="language">English</field>
+<field name="call_number">512 .C57a</field>
+<field name="state_country">Ohio</field>
+<field name="grade_level_number">9th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">College Entrance Examination Board. Commission on Mathematics</field>
+<field name="title">Concepts of equation and inequality; sample classroom unit for high school
+algebra students</field>
+<field name="year">1959</field>
+<field name="date">1959</field>
+<field name="pages">12</field>
+<field name="keywords">Algebra</field>
+<field name="keywords">Mathematics</field>
+<field name="edition">Rev.</field>
+<field name="publisher">College Entrance Examination Board</field>
+<field name="pub_place">Princeton, NJ</field>
+<field name="language">English</field>
+<field name="call_number">512 .C68c</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Dallas (Texas) Independent School District</field>
+<field name="title">Algebra 1 for low ninth grade</field>
+<field name="year">1953</field>
+<field name="date">01/1953</field>
+<field name="pages">36</field>
+<field name="keywords">Algebra</field>
+<field name="series_title">Dallas (Texas) Independent School District. Practice exercises for
+pupils</field>
+<field name="publisher">Dallas (Texas) Independent School District</field>
+<field name="pub_place">Dallas, TX</field>
+<field name="language">English</field>
+<field name="call_number">512 .D14a v. 1</field>
+<field name="grade_level_number">9th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Dallas (Texas) Independent School District</field>
+<field name="title">Algebra 2 for high ninth grade</field>
+<field name="year">1947</field>
+<field name="date">09/1947</field>
+<field name="pages">41</field>
+<field name="keywords">Algebra</field>
+<field name="series_title">Dallas (Texas) Independent School District. Practice exercises for
+pupils</field>
+<field name="publisher">Dallas (Texas) Independent School District</field>
+<field name="pub_place">Dallas, TX</field>
+<field name="language">English</field>
+<field name="call_number">512 .D14a v. 2</field>
+<field name="grade_level_number">9th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Dallas (Texas) Independent School District</field>
+<field name="title">Algebra 3 for high tenth grade</field>
+<field name="year">1950</field>
+<field name="date">09/1950</field>
+<field name="pages">43</field>
+<field name="keywords">Algebra</field>
+<field name="series_title">Dallas (Texas) Independent School District. Practice exercises for
+pupils</field>
+<field name="publisher">Dallas (Texas) Independent School District</field>
+<field name="pub_place">Dallas, TX</field>
+<field name="language">English</field>
+<field name="call_number">512 .D14a v. 3</field>
+<field name="grade_level_number">10th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Fort Worth (Texas) Public Schools</field>
+<field name="title">Algebra 3 and 4: a tentative teaching guide for second-year algebra</field>
+<field name="year">1964</field>
+<field name="date">1964</field>
+<field name="pages">15</field>
+<field name="keywords">Algebra</field>
+<field name="series_title">Fort Worth (Texas) Public Schools. Curriculum bulletin</field>
+<field name="series_vol">B 245</field>
+<field name="publisher">Fort Worth (Texas) Public Schools</field>
+<field name="pub_place">Fort Worth, TX</field>
+<field name="language">English</field>
+<field name="call_number">512 .F73a</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City School District</field>
+<field name="title">Instructional guide for algebra 3 and 4</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="pages">157</field>
+<field name="keywords">Algebra</field>
+<field name="notes">x; ; 28 cm.; Responsibility: Los Angeles City Schools, Division of Instructional
+Services.</field>
+<field name="series_title">Los Angeles (California) City School District. Publication</field>
+<field name="series_vol">SC-594</field>
+<field name="publisher">Los Angeles (California) City School District</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="language">English</field>
+<field name="call_number">512 .L87a v. 2</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City School District</field>
+<field name="title">Instructional guide for algebra 1 and 2</field>
+<field name="year">1961</field>
+<field name="date">1961</field>
+<field name="pages">295</field>
+<field name="keywords">Algebra</field>
+<field name="notes">295 p. 28 cm.</field>
+<field name="series_title">Los Angeles (California) City School District. Publication</field>
+<field name="series_vol">SC-576</field>
+<field name="publisher">Los Angeles City Schools, Division of Instructional Services</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="language">English</field>
+<field name="call_number">512 .L87a v. 1</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Farrell, Margaret A.</field><field name="author_nat">Margaret A. Farrell</field>
+<field name="title">Geoboard geometry</field>
+<field name="year">1971</field>
+<field name="date">1971</field>
+<field name="pages">42</field>
+<field name="keywords">Geometry</field>
+<field name="notes">ill. ; 28 cm.; Responsibility: Margaret A. Farrell.</field>
+<field name="publisher">Creative Publications</field>
+<field name="pub_place">Palo Alto, CA</field>
+<field name="language">English</field>
+<field name="call_number">513 .C91g </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City School District</field>
+<field name="title">Instructional guide for Algebra 1, Grades 9 to 12</field>
+<field name="year">1966</field>
+<field name="date">1966</field>
+<field name="pages">49</field>
+<field name="keywords">Algebra</field>
+<field name="notes">viii; ; 28 cm.; Note(s): Cover title.</field>
+<field name="series_title">Los Angeles (California) City School District. Publication</field>
+<field name="series_vol">X-65</field>
+<field name="publisher">Los Angeles (California) City Schools</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="language">English</field>
+<field name="call_number">512 .L87i v. 1</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">9th grade</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Mathematical Association</field>
+<field name="title">The teaching of algebra in sixth forms; a report prepared for the Mathematical
+Association</field>
+<field name="year">1957</field>
+<field name="date">1957</field>
+<field name="pages">104</field>
+<field name="keywords">Algebra</field>
+<field name="notes">104 p. ill. 24 cm.; Note(s): "Prepared by a sub-committee appointed by the
+Teaching Committee of the Mathematical Association, and adopted by the Teaching Committee in Jan.
+1957."/ Includes bibliographical references.</field>
+<field name="publisher">G. Bell &amp;Sons</field>
+<field name="pub_place">London, UK</field>
+<field name="language">English</field>
+<field name="call_number">512 .M42t</field>
+<field name="state_country">United Kingdom </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Oakland (California) Public Schools</field>
+<field name="title">Algebra teacher's guide, tentative</field>
+<field name="year">1958</field>
+<field name="date">03/1958</field>
+<field name="pages">26</field>
+<field name="keywords">Algebra</field>
+<field name="publisher">Oakland (California) Public Schools</field>
+<field name="pub_place">Oakland, CA</field>
+<field name="language">English</field>
+<field name="call_number">512 .O11a 1958</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Oakland (California) Public Schools</field>
+<field name="title">Algebra teacher's guide, tentative</field>
+<field name="year">1962</field>
+<field name="date">06/1962</field>
+<field name="pages">7</field>
+<field name="keywords">Algebra</field>
+<field name="publisher">Oakland (California) Public Schools</field>
+<field name="pub_place">Oakland, CA</field>
+<field name="language">English</field>
+<field name="call_number">512 .O11a 1962</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Oakland (California) Public Schools</field>
+<field name="title">Algebraic theory I teacher's guide, tentative</field>
+<field name="year">1957</field>
+<field name="date">12/1957</field>
+<field name="pages">8</field>
+<field name="keywords">Algebra</field>
+<field name="publisher">Oakland (California) Public Schools</field>
+<field name="pub_place">Oakland, CA</field>
+<field name="language">English</field>
+<field name="call_number">512 .O11at</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Oakland (California) Public Schools</field>
+<field name="title">Algebraic theory II teacher's guide, tentative</field>
+<field name="year">1957</field>
+<field name="date">12/1957</field>
+<field name="pages">3</field>
+<field name="keywords">Algebra</field>
+<field name="publisher">Oakland (California) Public Schools</field>
+<field name="pub_place">Oakland, CA</field>
+<field name="language">English</field>
+<field name="call_number">512 .O11at</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Ramapo (New York) Central School District No. 2</field>
+<field name="title">A tentative course of study advanced mathematics grade 9 selected topics in
+algebra</field>
+<field name="year">1964</field>
+<field name="date">1964</field>
+<field name="pages">45</field>
+<field name="keywords">Mathematics</field>
+<field name="keywords">Algebra</field>
+<field name="publisher">Ramapo (New York) Central School District No. 2</field>
+<field name="pub_place">Spring Valley, NY</field>
+<field name="language">English</field>
+<field name="call_number">512 .R17s</field>
+<field name="state_country">New York</field>
+<field name="grade_level_number">9th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Sacramento (California) City Unified School District</field>
+<field name="title">Course of study for algebra one and two: junior-senior high schools</field>
+<field name="year">1949</field>
+<field name="date">09/1949</field>
+<field name="keywords">Algebra</field>
+<field name="publisher">Sacramento (California) City Unified School District</field>
+<field name="pub_place">Sacramento, CA</field>
+<field name="language">English</field>
+<field name="call_number">512 .S12c</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Middle school</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Tyler (Texas) Independent School District</field>
+<field name="title">Curriculum guide for algebra I</field>
+<field name="year">1964</field>
+<field name="date">08/1964</field>
+<field name="pages">28</field>
+<field name="keywords">Algebra</field>
+<field name="publisher">Tyler (Texas) Independent School District</field>
+<field name="pub_place">Tyler, TX</field>
+<field name="language">English</field>
+<field name="call_number">512 .T98c v. 1</field>
+<field name="grade_level_group">Middle school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Tyler (Texas) Independent School District</field>
+<field name="title">Curriculum guide for algebra II</field>
+<field name="year">1964</field>
+<field name="date">08/1964</field>
+<field name="pages">36</field>
+<field name="keywords">Algebra</field>
+<field name="publisher">Tyler (Texas) Independent School District</field>
+<field name="pub_place">Tyler, TX</field>
+<field name="language">English</field>
+<field name="call_number">512 .T98c v. 2</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Menger, Karl</field><field name="author_nat">Karl Menger</field>
+<field name="corp_author">Illinois Institute of Technology</field>
+<field name="title">You will like geometry : a guide book for the Illinois Institute of Technology
+geometry exhibition at the Museum of Science and Industry</field>
+<field name="year">1961</field>
+<field name="date">1961</field>
+<field name="pages">36</field>
+<field name="keywords">Geometry</field>
+<field name="notes">ill. ; 23 cm.; Responsibility: by Karl Menger.</field>
+<field name="publisher">Karl Menger</field>
+<field name="pub_place">Chicago, IL</field>
+<field name="language">English</field>
+<field name="call_number">513 .I29y </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City Schools</field>
+<field name="title">Geometry 1 (B10-A12) (A-9 honors)</field>
+<field name="year">1965</field>
+<field name="date">1965</field>
+<field name="pages">33</field>
+<field name="keywords">Geometry</field>
+<field name="publisher">Los Angeles (California) City Schools</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="language">English</field>
+<field name="call_number">513 .L87g v. 1</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City Schools</field>
+<field name="title">Geometry 2 (B10-A12)</field>
+<field name="year">1965</field>
+<field name="date">1965</field>
+<field name="pages">37</field>
+<field name="keywords">Geometry</field>
+<field name="publisher">Los Angeles (California) City Schools</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="language">English</field>
+<field name="call_number">513 .L87g v. 2</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Walter, Marion I.</field><field name="author_nat">Marion I. Walter</field>
+<field name="title">Boxes, squares, and other things; a teacher's guide for a unit in informal
+geometry</field>
+<field name="year">1970</field>
+<field name="date">1970</field>
+<field name="pages">88</field>
+<field name="keywords">Geometry</field>
+<field name="notes">viii; illus. 23 cm.; Note(s): Bibliography: p. 81-88.; Responsibility: [by]
+Marion I. Walter.</field>
+<field name="publisher">National Council of Teachers of Mathematics</field>
+<field name="pub_place">Washington, DC</field>
+<field name="language">English</field>
+<field name="call_number">513 .N27b </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Oakland (California) Public Schools</field>
+<field name="title">Geometry teacher's guide, tentative</field>
+<field name="year">1964</field>
+<field name="date">07/1964</field>
+<field name="pages">4</field>
+<field name="keywords">Geometry</field>
+<field name="publisher">Oakland (California) Public Schools</field>
+<field name="pub_place">Oakland, CA</field>
+<field name="language">English</field>
+<field name="call_number">513 .O11g</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Philadelphia (Pennsylvania) Public Schools</field>
+<field name="title">A guide to the study of plane geometry</field>
+<field name="year">1951</field>
+<field name="date">1951</field>
+<field name="pages">102</field>
+<field name="keywords">Geometry</field>
+<field name="publisher">Philadelphia (Pennsylvania) Public Schools</field>
+<field name="pub_place">Philadelphia, PA</field>
+<field name="language">English</field>
+<field name="call_number">513.1 .P54p</field>
+<field name="state_country">Pennsylvania </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Philadelphia (Pennsylvania) Public Schools</field>
+<field name="title">Supplement to plane geometry for the integration of solid geometry into a one
+year combined course (tentative)</field>
+<field name="year">1960</field>
+<field name="date">1960</field>
+<field name="pages">9</field>
+<field name="keywords">Geometry</field>
+<field name="publisher">Philadelphia (Pennsylvania) Public Schools</field>
+<field name="pub_place">Philadelphia, PA</field>
+<field name="language">English</field>
+<field name="call_number">513.1 .P54p 1960 supp.</field>
+<field name="state_country">Pennsylvania </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of the State of New York. Bureau of Secondary Curriculum
+Development</field>
+<field name="title">Tenth year mathematics: coordinate geometry</field>
+<field name="year">1957</field>
+<field name="date">09/1957</field>
+<field name="pages">16</field>
+<field name="keywords">Geometry</field>
+<field name="notes">16 p. ill. 22 cm.; Note(s): Caption title./ "An edited excerpt from Curriculum
+Report #126-5/22/57, of the Bureau of Curriculum Research of the Board of Education of the City of
+New York."</field>
+<field name="publisher">University of the State of New York</field>
+<field name="pub_place">Albany, NY</field>
+<field name="language">English</field>
+<field name="call_number">513 .N53t</field>
+<field name="state_country">New York</field>
+<field name="grade_level_number">10th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Kogan, Irvin J.</field><field name="author_nat">Irvin J. Kogan</field>
+<field name="title">Trends of secondary education in the subjects of plane geometry, solid geometry,
+trigonometry, and calculus</field>
+<field name="year">1954</field>
+<field name="date">10/1954</field>
+<field name="pages">4</field>
+<field name="keywords">Geometry</field>
+<field name="keywords">Trigonometry</field>
+<field name="keywords">Calculus</field>
+<field name="notes">Ed. 343</field>
+<field name="language">English</field>
+<field name="call_number">513 .S78t </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Glaubiger, Pearl</field><field name="author_nat">Pearl Glaubiger</field>
+<field name="author">Greene, Samuel S.</field><field name="author_nat">Samuel S. Greene</field>
+<field name="author">Johnson, G. Philip</field><field name="author_nat">G. Philip Johnson</field>
+<field name="author">Levi, Howard</field><field name="author_nat">Howard Levi</field>
+<field name="author">Moskowistz, Martin M.</field><field name="author_nat">Martin M. Moskowistz</field>
+<field name="author">Puckette, Stephen</field><field name="author_nat">Stephen Puckette</field>
+<field name="author">Rosenbaum, Robert A.</field><field name="author_nat">Robert A. Rosenbaum</field>
+<field name="author">Sitomer, Harry</field><field name="author_nat">Harry Sitomer</field>
+<field name="author">Wylie, C.R.</field><field name="author_nat">C.R. Wylie</field>
+<field name="title">Modern coordinate geometry: commentary for teachers</field>
+<field name="year">1964</field>
+<field name="date">1964</field>
+<field name="pages">203</field>
+<field name="keywords">Geometry</field>
+<field name="series_title">A Wesleyan Experimental Curricular Study</field>
+<field name="publisher">Wesleyan University</field>
+<field name="pub_place">Middletown, CT</field>
+<field name="language">English</field>
+<field name="call_number">513 .W51m </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Tyler (Texas) Independent School District</field>
+<field name="title">Curriculum guide for geometry</field>
+<field name="year">1964</field>
+<field name="date">08/1964</field>
+<field name="pages">54</field>
+<field name="keywords">Geometry</field>
+<field name="publisher">Tyler (Texas) Independent School District</field>
+<field name="pub_place">Tyler, TX</field>
+<field name="language">English</field>
+<field name="call_number">513.1 .T98c</field>
+<field name="state_country">Texas</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Oakland (California) Public Schools</field>
+<field name="title">Solid geometry and supplementary topics: teacher's guide, tentative</field>
+<field name="year">1957</field>
+<field name="date">12/1957</field>
+<field name="pages">4</field>
+<field name="keywords">Geometry</field>
+<field name="publisher">Oakland (California) Public Schools</field>
+<field name="pub_place">Oakland, CA</field>
+<field name="language">English</field>
+<field name="call_number">513.3 .O11s</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Oakland (California) Public Schools</field>
+<field name="title">Trigonometry: teacher's guide, tentative</field>
+<field name="year">1957</field>
+<field name="date">12/1957</field>
+<field name="pages">3</field>
+<field name="keywords">Trigonometry</field>
+<field name="publisher">Oakland (California) Public Schools</field>
+<field name="pub_place">Oakland, CA</field>
+<field name="language">English</field>
+<field name="call_number">513.3 .O11t</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Philadelphia (Pennsylvania) Public Schools</field>
+<field name="title">Plane trigonometry : a guide for teachers</field>
+<field name="year">1957</field>
+<field name="date">1957</field>
+<field name="pages">69</field>
+<field name="keywords">Trigonometry</field>
+<field name="publisher">Philadelphia (Pennsylvania) Public Schools</field>
+<field name="pub_place">Philadelphia, PA</field>
+<field name="language">English</field>
+<field name="call_number">514 .P54p</field>
+<field name="state_country">Pennsylvania</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Brookline (Massachusetts) Public Schools</field>
+<field name="title">Course of study in advanced placement mathematics analytic geometry and
+calculus, grade 12</field>
+<field name="year">1959</field>
+<field name="date">1959</field>
+<field name="pages">8</field>
+<field name="keywords">Geometry</field>
+<field name="keywords">Calculus</field>
+<field name="publisher">Brookline (Massachusetts) Public Schools</field>
+<field name="pub_place">Brookline, MA</field>
+<field name="language">English</field>
+<field name="call_number">516 .B87c</field>
+<field name="state_country">Massachusetts</field>
+<field name="grade_level_number">12 </field>
+</doc>
+</add>

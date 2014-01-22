@@ -1,0 +1,794 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="type">Book</field>
+<field name="author">Lodge, Evan</field><field name="author_nat">Evan Lodge</field>
+<field name="title">English activity outlines for grades 7, 8, 9</field>
+<field name="year">1953</field>
+<field name="date">06/1953</field>
+<field name="pages">49</field>
+<field name="keywords">English language</field>
+<field name="pub_place">Cleveland, OH</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .C63e</field>
+<field name="state_country">Ohio</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Cleveland Heights-University Heights (Ohio) City School District</field>
+<field name="title">Thematic approach to literature, language, and composition : grades 7, 8, 9,
+junior high school course guide</field>
+<field name="year">1966</field>
+<field name="date">09/1966</field>
+<field name="pages">255</field>
+<field name="keywords">Literature</field>
+<field name="keywords">English language</field>
+<field name="keywords">Composition and exercises</field>
+<field name="notes">255 leaves ; 28 cm.; Responsibility: Cleveland Heights-University Heights City
+School District.</field>
+<field name="publisher">Cleveland Heights-University Heights (Ohio) City School District</field>
+<field name="pub_place">Cleveland Heights, OH</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .C63L v. 1</field>
+<field name="state_country">Ohio</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Cleveland Heights-University Heights (Ohio) City School District</field>
+<field name="title">Thematic approach to literature, language, and composition : grades 10, 11, 12,
+senior high school course guide</field>
+<field name="year">1967</field>
+<field name="date">09/1967</field>
+<field name="pages">325</field>
+<field name="keywords">Literature</field>
+<field name="keywords">English language</field>
+<field name="keywords">Composition and exercises</field>
+<field name="publisher">Cleveland Heights-University Heights (Ohio) City School District</field>
+<field name="pub_place">Cleveland Heights, OH</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .C63L v. 2</field>
+<field name="state_country">Ohio</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Clover Park School District No. 400 (Lakewood Center, Washington)</field>
+<field name="title">Elementary composition curriculum guide</field>
+<field name="year">1967</field>
+<field name="date">09/1967</field>
+<field name="pages">151</field>
+<field name="keywords">Language arts</field>
+<field name="publisher">Clover Park School District No. 400</field>
+<field name="pub_place">Lakewood Center, WA</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .C64s</field>
+<field name="state_country">Washington</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Wolf, Leonard</field><field name="author_nat">Leonard Wolf</field>
+<field name="title">Teaching a poem</field>
+<field name="year">1965</field>
+<field name="date">1965</field>
+<field name="pages">15</field>
+<field name="series_title">Kinescripts. Set I</field>
+<field name="keywords">English literature</field>
+<field name="keywords">American literature</field>
+<field name="keywords">English language</field>
+<field name="publisher">College Entrance Examination Board. Commission on English</field>
+<field name="pub_place">Princeton, NJ</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .C73k v. 1</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Carr, Arthur J.</field><field name="author_nat">Arthur J. Carr</field>
+<field name="title">A student writing assignment based on "Fire walking in Ceylon"</field>
+<field name="year">1965</field>
+<field name="date">1965</field>
+<field name="pages">29</field>
+<field name="series_title">Kinescripts. Set I</field>
+<field name="keywords">Composition and exercises</field>
+<field name="keywords">English language</field>
+<field name="publisher">College Entrance Examination Board. Commission on English</field>
+<field name="pub_place">Princeton, NJ</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .C73k v. 2</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Coleman, Alice C.</field><field name="author_nat">Alice C. Coleman</field>
+<field name="title">A class study of Theodore Roethke's "The waking"</field>
+<field name="year">1965</field>
+<field name="date">1965</field>
+<field name="pages">14</field>
+<field name="series_title">Kinescripts. Set I</field>
+<field name="keywords">American literature</field>
+<field name="keywords">English language</field>
+<field name="publisher">College Entrance Examination Board. Commission on English</field>
+<field name="pub_place">Princeton, NJ</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .C73k v. 3</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Curwen, Henry Darcy</field><field name="author_nat">Henry Darcy Curwen</field>
+<field name="title">Teaching biography in the secondary school</field>
+<field name="year">1965</field>
+<field name="date">1965</field>
+<field name="pages">14</field>
+<field name="series_title">Kinescripts. Set I</field>
+<field name="keywords">English language</field>
+<field name="publisher">College Entrance Examination Board. Commission on English</field>
+<field name="pub_place">Princeton, NJ</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .C73k v. 4</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Smith, Hallett D.</field><field name="author_nat">Hallett D. Smith</field>
+<field name="title">Teaching Shakespeare's Henry IV, Part 1</field>
+<field name="year">1965</field>
+<field name="date">1965</field>
+<field name="pages">14</field>
+<field name="series_title">Kinescripts. Set I</field>
+<field name="keywords">English literature</field>
+<field name="keywords">English language</field>
+<field name="publisher">College Entrance Examination Board. Commission on English</field>
+<field name="pub_place">Princeton, NJ</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .C73k v. 5</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Teeter, Karl V.</field><field name="author_nat">Karl V. Teeter</field>
+<field name="title">Grammar and generative grammar</field>
+<field name="year">1965</field>
+<field name="date">1965</field>
+<field name="pages">13</field>
+<field name="series_title">Kinescripts. Set I</field>
+<field name="keywords">English language</field>
+<field name="publisher">College Entrance Examination Board. Commission on English</field>
+<field name="pub_place">Princeton, NJ</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .C73k v. 6</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Gibson, Walker</field><field name="author_nat">Walker Gibson</field>
+<field name="title">The "Speaking voice" and the teaching of composition</field>
+<field name="year">1965</field>
+<field name="date">1965</field>
+<field name="pages">13</field>
+<field name="series_title">Kinescripts. Set I</field>
+<field name="keywords">Composition and exercises</field>
+<field name="keywords">English language</field>
+<field name="publisher">College Entrance Examination Board. Commission on English</field>
+<field name="pub_place">Princeton, NJ</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .C73k v. 7</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Elledge, Scott B.</field><field name="author_nat">Scott B. Elledge</field>
+<field name="title">Invention and topics: or, where to look for something to say</field>
+<field name="year">1965</field>
+<field name="date">1965</field>
+<field name="pages">17</field>
+<field name="series_title">Kinescripts. Set I</field>
+<field name="keywords">Composition and exercises</field>
+<field name="keywords">English language</field>
+<field name="publisher">College Entrance Examination Board. Commission on English</field>
+<field name="pub_place">Princeton, NJ</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .C73k v. 8</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Martin, Terence</field><field name="author_nat">Terence Martin</field>
+<field name="title">Teaching a novel: Moby Dick in the classroom</field>
+<field name="year">1965</field>
+<field name="date">1965</field>
+<field name="pages">14</field>
+<field name="series_title">Kinescripts. Set I</field>
+<field name="keywords">American literature</field>
+<field name="keywords">English language</field>
+<field name="publisher">College Entrance Examination Board. Commission on English</field>
+<field name="pub_place">Princeton, NJ</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .C73k v. 11</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Williams, George</field><field name="author_nat">George Williams</field>
+<field name="title">Organization--rhetorical and artistic</field>
+<field name="year">1965</field>
+<field name="date">1965</field>
+<field name="pages">22</field>
+<field name="series_title">Kinescripts. Set I</field>
+<field name="keywords">Composition and exercises</field>
+<field name="keywords">English language</field>
+<field name="publisher">College Entrance Examination Board. Commission on English</field>
+<field name="pub_place">Princeton, NJ</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .C73k v. 9</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Youngblood, Sarah</field><field name="author_nat">Sarah Youngblood</field>
+<field name="title">Teaching a short story: Faulkner's "Barn burning"</field>
+<field name="year">1965</field>
+<field name="date">1965</field>
+<field name="pages">44</field>
+<field name="series_title">Kinescripts. Set I</field>
+<field name="keywords">American literature</field>
+<field name="keywords">English language</field>
+<field name="publisher">College Entrance Examination Board. Commission on English</field>
+<field name="pub_place">Princeton, NJ</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .C73k v. 10</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Kinder, Robert Farrar</field><field name="author_nat">Robert Farrar Kinder</field>
+<field name="title">Challenges to meet : guidelines for building English language arts curriculum,
+K-12</field>
+<field name="year">1969</field>
+<field name="date">1969</field>
+<field name="pages">132</field>
+<field name="keywords">Language arts</field>
+<field name="keywords">English language</field>
+<field name="notes">xi; ill. ; 27 cm.; Note(s): Includes bibliographical references.;
+Responsibility: by Robert Farrar Kinder with the assistance of M. Agnella Gunn ... [et al.].</field>
+<field name="series_title">Connecticut State Department of Education. Bulletin</field>
+<field name="series_vol">109</field>
+<field name="publisher">Connecticut State Department of Educatio, Bureau of Elementary and Secondary
+Education</field>
+<field name="pub_place">Hartford, CT</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .C75c</field>
+<field name="state_country">Connecticut</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Joll, Leonard W.</field><field name="author_nat">Leonard W. Joll</field>
+<field name="title">English, grades 7-12</field>
+<field name="year">1959</field>
+<field name="date">09/1959</field>
+<field name="pages">42</field>
+<field name="keywords">English language</field>
+<field name="series_title">Connecticut State Department of Education. Curriculum bulletin
+series</field>
+<field name="series_vol">4 (Tentative)</field>
+<field name="publisher">Connecticut State Department of Education</field>
+<field name="pub_place">Hartford, CT</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .C75e</field>
+<field name="state_country">Connecticut</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">New Haven State Teachers College</field>
+<field name="title">Guide for teaching the language arts in the laboratory schools</field>
+<field name="year">1958</field>
+<field name="date">07/1958</field>
+<field name="pages">55</field>
+<field name="keywords">Language arts</field>
+<field name="publisher">New Haven State Teachers College</field>
+<field name="pub_place">New Haven, CT</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .C75g</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Cooper, Georgia</field><field name="author_nat">Georgia Cooper</field>
+<field name="corp_author">Contra Costa County (California) Department of Education</field>
+<field name="title">Wings emerging; language opportunities and the pre-school child</field>
+<field name="year">1966</field>
+<field name="date">06/1966</field>
+<field name="pages">45</field>
+<field name="keywords">English language</field>
+<field name="notes">45 pages illustrations; Note(s): Includes bibliographical references.;
+Responsibility: by Georgia Cooper [and others].</field>
+<field name="publisher">Contra Costa County (California) Department of Education</field>
+<field name="pub_place">Pleasant Hill, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .C76w</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Pre-K</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Covina-Valley (California) Unified School District</field>
+<field name="title">A research guide for an experimental project in team teaching with junior
+English students during the 1962-63 school year</field>
+<field name="year">1962</field>
+<field name="date">1962-1963</field>
+<field name="pages">136</field>
+<field name="keywords">English language</field>
+<field name="publisher">Covina-Valley (California) Unified School District</field>
+<field name="pub_place">Covina, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .C87L</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Culver City (California) Unified School District</field>
+<field name="title">An audio-lingual approach to teaching composition: teachers guide</field>
+<field name="year">1965</field>
+<field name="date">08/1965</field>
+<field name="keywords">English language</field>
+<field name="keywords">Composition and exercises</field>
+<field name="publisher">Culver City (California) Unified School District</field>
+<field name="pub_place">Culver City, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .C96a</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Dade County (Florida) Public Schools</field>
+<field name="title">Basic education skills package: a social sciences-language arts supplement to
+bulletin 10-b</field>
+<field name="year">1968</field>
+<field name="date">1968</field>
+<field name="pages">61</field>
+<field name="keywords">Language arts</field>
+<field name="keywords">Social sciences</field>
+<field name="publisher">Dade County (Florida) Public Schools</field>
+<field name="pub_place">Miami, FL</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .D12b</field>
+<field name="state_country">Florida</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Dade County (Florida) Public Schools</field>
+<field name="title">Language arts guide: written composition: grades 10-11-12</field>
+<field name="year">1965</field>
+<field name="date">1965</field>
+<field name="pages">70</field>
+<field name="keywords">Language arts</field>
+<field name="keywords">Composition and exercises</field>
+<field name="series_title">Dade County (Florida) Public Schools. Bulletin.</field>
+<field name="series_vol">6G</field>
+<field name="publisher">Dade County (Florida) Public Schools</field>
+<field name="pub_place">Miami, FL</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .D12w</field>
+<field name="state_country">Florida</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Dallas (Texas) Independent School District</field>
+<field name="title">Content, scope, and sequence of language arts program</field>
+<field name="year">1957</field>
+<field name="date">01/1957</field>
+<field name="keywords">Language arts</field>
+<field name="publisher">Dallas (Texas) Independent School District</field>
+<field name="pub_place">Dallas, TX</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .D14c</field>
+<field name="state_country">Texas</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Dallas (Texas) Public Schools</field>
+<field name="title">Exercises in English grammar</field>
+<field name="year">1946</field>
+<field name="date">11/1946</field>
+<field name="pages">14</field>
+<field name="keywords">English language</field>
+<field name="publisher">Dallas (Texas) Public Schools</field>
+<field name="pub_place">Dallas, TX</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .D14e v. 5</field>
+<field name="state_country">Texas</field>
+<field name="grade_level_group">Middle school</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Dallas (Texas) Independent School District</field>
+<field name="title">Language arts for secondary schools : resource materials</field>
+<field name="year">1953</field>
+<field name="date">1953</field>
+<field name="pages">256</field>
+<field name="keywords">Language arts</field>
+<field name="series_title">Curriculum bulletin series (Dallas Independent School District)</field>
+<field name="publisher">Dallas (Texas) Independent School District</field>
+<field name="pub_place">Dallas, TX</field>
+<field name="language">English</field>
+<field name="call_number">428.2 D14L v. 2</field>
+<field name="state_country">Texas</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Dallas (Texas) Independent School District</field>
+<field name="title">Language arts program content, scope, and sequence</field>
+<field name="year">1959</field>
+<field name="date">1959</field>
+<field name="pages">12</field>
+<field name="keywords">Language arts</field>
+<field name="publisher">Dallas (Texas) Independent School District</field>
+<field name="pub_place">Dallas, TX</field>
+<field name="language">English</field>
+<field name="call_number">428.2 D14Lc</field>
+<field name="state_country">Texas</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Dallas (Texas) Independent School District</field>
+<field name="title">Language arts for secondary schools : curriculum guide</field>
+<field name="year">1959</field>
+<field name="date">1959</field>
+<field name="pages">132</field>
+<field name="keywords">Language arts</field>
+<field name="notes">ill. ; 28 cm.; Note(s): Includes bibliographical references.; Responsibility:
+authorized by the Board of Education, June 24, 1959.</field>
+<field name="series_title">Curriculum bulletin series (Dallas Independent School District)</field>
+<field name="publisher">Dallas (Texas) Independent School District</field>
+<field name="pub_place">Dallas, TX</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .D14L v. 1</field>
+<field name="state_country">Texas</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Dallas (Texas) Independent School District</field>
+<field name="title">Learning our language. grade six</field>
+<field name="year">1955</field>
+<field name="date">09/1955</field>
+<field name="pages">78</field>
+<field name="keywords">English language</field>
+<field name="series_title">Bulletin (Dallas Independent School District (Texas))</field>
+<field name="publisher">Dallas (Texas) Independent School District</field>
+<field name="pub_place">Dallas, TX</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .D14L3 v. 3</field>
+<field name="state_country">Texas</field>
+<field name="grade_level_number">6th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Dallas (Texas) Independent School District</field>
+<field name="title">Learning our language. grade four</field>
+<field name="year">1955</field>
+<field name="date">09/1955</field>
+<field name="pages">58</field>
+<field name="keywords">English language</field>
+<field name="series_title">Bulletin (Dallas Independent School District (Texas))</field>
+<field name="series_vol">206</field>
+<field name="publisher">Dallas (Texas) Independent School District</field>
+<field name="pub_place">Dallas, TX</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .D14Le v. 1</field>
+<field name="state_country">Texas</field>
+<field name="grade_level_number">4th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Davenport (Iowa) Board of Education</field>
+<field name="title">English language arts, grades 7-8-9: a teaching guide</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="pages">85</field>
+<field name="keywords">English language</field>
+<field name="keywords">Language arts</field>
+<field name="publisher">Davenport (Iowa) Board of Education</field>
+<field name="pub_place">Davenport, IA</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .D24e</field>
+<field name="state_country">Iowa</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Dayton (Ohio) Public Schools</field>
+<field name="title">Course of study, language arts, high school</field>
+<field name="year">1953</field>
+<field name="date">04/1953</field>
+<field name="pages">164</field>
+<field name="keywords">Language arts</field>
+<field name="publisher">Dayton (Ohio) Public Schools</field>
+<field name="pub_place">Dayton, OH</field>
+<field name="language">English</field>
+<field name="call_number">428.2 D27c</field>
+<field name="state_country">Ohio</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Delaware (State) Department of Public Instruction</field>
+<field name="title">Dialogue with a teacher of listeners, speakers, readers, writers : guidelines
+for the teacher of English language arts K-13</field>
+<field name="year">1967</field>
+<field name="date">11/1967</field>
+<field name="pages">46</field>
+<field name="keywords">English language</field>
+<field name="keywords">Language arts</field>
+<field name="notes">iii; ges : illustrations ; 29 cm; Note(s): Includes bibliographical references
+(pages 39-45).</field>
+<field name="publisher">Delaware (State) Department of Public Instruction</field>
+<field name="pub_place">Dover, DE</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .D34d</field>
+<field name="state_country">Delaware</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Delaware (State) Department of Public Instruction</field>
+<field name="title">English language arts curriculum supplement</field>
+<field name="year">1966</field>
+<field name="date">1966?</field>
+<field name="keywords">English language</field>
+<field name="keywords">Communication</field>
+<field name="publisher">Delaware (State) Department of Public Instruction</field>
+<field name="pub_place">Dover, DE</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .D34e</field>
+<field name="state_country">Delaware</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Denver (Colorado) Public Schools</field>
+<field name="title">Improving vocabulary and interpreting factual material through understanding
+simple graphs: public exercises</field>
+<field name="year">1965</field>
+<field name="date">1965-1966</field>
+<field name="pages">18</field>
+<field name="keywords">English language</field>
+<field name="keywords">Reading</field>
+<field name="publisher">Denver (Colorado) Public Schools</field>
+<field name="pub_place">Denver, CO</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .D41iv v. 3</field>
+<field name="state_country">Colorado</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Denver (Colorado) Public Schools</field>
+<field name="title">Improving vocabulary and interpreting factual material through understanding
+simple graphs: teacher's manual</field>
+<field name="year">1965</field>
+<field name="date">1965-1966</field>
+<field name="pages">28</field>
+<field name="keywords">English language</field>
+<field name="keywords">Reading</field>
+<field name="publisher">Denver (Colorado) Public Schools</field>
+<field name="pub_place">Denver, CO</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .D41iv v. 4</field>
+<field name="state_country">Colorado</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Denver (Colorado) Public Schools</field>
+<field name="title">Improving vocabulary and interpreting factual material through understanding
+metaphors: pupil exercises</field>
+<field name="year">1965</field>
+<field name="date">1965-1966</field>
+<field name="pages">10</field>
+<field name="keywords">English language</field>
+<field name="publisher">Denver (Colorado) Public Schools</field>
+<field name="pub_place">Denver, CO</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .D41iv v. 5</field>
+<field name="state_country">Colorado</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Denver (Colorado) Public Schools</field>
+<field name="title">Improving vocabulary and interpreting factual material through understanding
+metaphors: teacher's manual</field>
+<field name="year">1965</field>
+<field name="date">1965-1966</field>
+<field name="pages">18</field>
+<field name="keywords">English language</field>
+<field name="publisher">Denver (Colorado) Public Schools</field>
+<field name="pub_place">Denver, CO</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .D41iv v. 6</field>
+<field name="state_country">Colorado</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Des Moines (Iowa) Public Schools</field>
+<field name="title">Communication skills: listening, speaking, writing</field>
+<field name="year">1958</field>
+<field name="date">08/1958</field>
+<field name="pages">58</field>
+<field name="keywords">English language</field>
+<field name="keywords">Communication</field>
+<field name="publisher">Des Moines (Iowa) Public Schools</field>
+<field name="pub_place">Des Moines, IA</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .D44c</field>
+<field name="state_country">Iowa</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Des Moines (Iowa) Public Schools</field>
+<field name="title">Course of study for junior high school English</field>
+<field name="year">1956</field>
+<field name="date">08/1956</field>
+<field name="keywords">English language</field>
+<field name="series_title">Des Moines (Iowa) Public Schools. Curriculum bulletin</field>
+<field name="publisher">Des Moines (Iowa) Public Schools</field>
+<field name="pub_place">Des Moines, IA</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .D44j</field>
+<field name="state_country">Iowa</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Dover (Ohio) Public Schools</field>
+<field name="title">Curriculum guide for the Dover elementary school (K-6) in elementary language
+arts: English</field>
+<field name="year">1963</field>
+<field name="date">1963-1964</field>
+<field name="pages">163</field>
+<field name="keywords">English language</field>
+<field name="keywords">Language arts</field>
+<field name="publisher">Dover (Ohio) Public Schools</field>
+<field name="pub_place">Dover, OH</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .D73c v. 1</field>
+<field name="state_country">Ohio</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Dover (Ohio) Public Schools</field>
+<field name="title">Curriculum guide for the Dover junior high school (7-9) in secondary language
+arts: English</field>
+<field name="year">1963</field>
+<field name="date">1963-1964</field>
+<field name="pages">128</field>
+<field name="keywords">English language</field>
+<field name="keywords">Language arts</field>
+<field name="publisher">Dover (Ohio) Public Schools</field>
+<field name="pub_place">Dover, OH</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .D73c v. 2</field>
+<field name="state_country">Ohio</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Dover (Ohio) Public Schools</field>
+<field name="title">Curriculum guide for the Dover junior high school (10-12) in secondary language
+arts: English</field>
+<field name="year">1963</field>
+<field name="date">1963-1964</field>
+<field name="pages">121</field>
+<field name="keywords">English language</field>
+<field name="keywords">Language arts</field>
+<field name="publisher">Dover (Ohio) Public Schools</field>
+<field name="pub_place">Dover, OH</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .D73c v. 3</field>
+<field name="state_country">Ohio</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Downey (California) Secondary Schools</field>
+<field name="title">A tentative course of study in the language arts, grades 7-12</field>
+<field name="year">1955</field>
+<field name="date">09/1955</field>
+<field name="pages">216</field>
+<field name="keywords">English language</field>
+<field name="keywords">Language arts</field>
+<field name="publisher">Downey (California) Secondary Schools</field>
+<field name="pub_place">Downey, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .D74t</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Duluth (Minnesota?) Public Schools</field>
+<field name="title">Brief outline of junior high school English composition and literature
+units</field>
+<field name="year">1952</field>
+<field name="date">03/1952</field>
+<field name="pages">7</field>
+<field name="keywords">English language</field>
+<field name="keywords">Language arts</field>
+<field name="publisher">Duluth (Minnesota?) Public Schools</field>
+<field name="pub_place">Duluth</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .D88b</field>
+<field name="grade_level_group">Middle school</field>
+</doc>
+</add>

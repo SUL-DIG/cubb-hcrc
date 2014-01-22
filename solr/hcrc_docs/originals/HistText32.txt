@@ -1,0 +1,1412 @@
+
+
+
+
+TY  - BOOK
+A2  - Alameda County (California) Superintendent of Schools
+T1  - Listening habits and speech sound discrimination developed through a multiple sensory approach
+Y1  - 1963
+D1  - 1963
+SP  - 44
+KW  - Speech
+KW  - Listening
+N1  - 44 p. 28 cm.
+PB  - Alameda County (California) Superintendent of Schools
+CY  - Hayward, CA
+LA  - English
+CN  - 428.7 .A31L
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Austin (Texas) Public Schools
+T1  - Guide for junior high school speech, grades seven-nine
+Y1  - 1958
+D1  - 1958
+SP  - 107
+KW  - Speech
+PB  - Austin (Texas) Public Schools
+CY  - Austin, TX
+LA  - English
+CN  - 428.7 .A93g
+SC  - Texas
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Boston (Massachusetts) Public Schools
+T1  - Speech improvement: suggestions for the improvement of speech at the primary level
+Y1  - 1951
+D1  - 09/1951
+SP  - 11
+KW  - Speech
+PB  - Boston (Massachusetts) Public Schools
+CY  - Boston, MA
+LA  - English
+CN  - 428.7 .B74s
+SC  - Massachusetts
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Willis, Benjamin C.
+A2  - Chicago (Illinois) Board of Education
+T1  - A tentative program in speech for the secondary schools
+Y1  - 1958
+D1  - 1958
+SP  - 25
+KW  - Speech
+N1  - 25 l. 29 cm.; Responsibility: by Benjamin C. Willis.
+PB  - Chicago (Illinois) Board of Education
+CY  - Chicago, IL
+LA  - English
+CN  - 428.7 .C53t
+SC  - Illinois
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Chicago (Illinois) Public Schools. Division of Speech Correction
+T1  - Speech correction : techniques, materials, references
+Y1  - 1952
+D1  - 1952
+SP  - 71
+KW  - Speech therapy
+N1  - 71 leaves : ill. ; 29 cm.; Responsibility: Chicago Public Schools, Division of Speech Correction.
+PB  - Chicago (Illinois) Public Schools. Division of Speech Correction
+CY  - Chicago, IL
+LA  - English
+CN  - 428.7 .C53s
+SC  - Illinois
+ER  - 
+
+TY  - BOOK
+A2  - Cincinnati (Ohio) Public Schools
+T1  - Course of study: speech, grades 9-12
+Y1  - 1953
+D1  - 1953
+SP  - 107
+KW  - Speech
+N1  - iv l., 107 p.; Note(s): Mimeographed./ Bibliography: p. 87-107.
+T2  - Cincinnati (Ohio) Public Schools. Curriculum bulletin
+V1  - 211
+PB  - Cincinnati (Ohio) Public Schools
+CY  - Cincinnati, OH
+LA  - English
+CN  - 428.7 .C57c
+SC  - Ohio
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Cleveland Heights (Ohio) Public Schools
+T1  - Senior high school tentative course of study: English: speech i and ii
+Y1  - 1949
+D1  - 09/1949
+SP  - 29
+KW  - Speech
+PB  - Cleveland Heights (Ohio) Public Schools
+CY  - Cleveland Heights, OH
+LA  - English
+CN  - 428.7 .C63s
+SC  - Ohio
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Garrison, Geraldine
+A2  - Connecticut State Department of Education
+T1  - What about speech!
+Y1  - 1954
+D1  - 1954
+SP  - 12
+KW  - Speech
+N1  - 12 pages 23 cm.; Note(s): Cover title.; Responsibility: [Prepared under the direction of Geraldine Garrison by the Elementary Section of the Commissioner's Committee on Speech Education.].
+T2  - Connecticut State Department of Education. Bulletin
+V1  - 62
+PB  - Connecticut State Department of Education, School and Community Services
+CY  - Hartford, CT
+LA  - English
+CN  - 428.7 .C75w
+SC  - Connecticut
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Glendale (California) Unified School District
+T1  - Course of study guide: speech for the junior high school
+Y1  - 1960
+D1  - 1960?
+SP  - 151
+KW  - Speech
+PB  - Glendale (California) Unified School District
+CY  - Glendale, CA
+LA  - English
+CN  - 428.7 .G55s
+SC  - California
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Indiana State Department of Public Instruction
+A2  - Indiana University. English Curriculum Study Center
+T1  - Teacher's guide to high school speech
+Y1  - 1966
+D1  - 1966
+SP  - 249
+KW  - Public speaking
+N1  - x; 23 cm.; Note(s): Prepared in cooperation with the Indiana University English Curriculum Study Center./ Includes bibliographies.
+T2  - Indiana Committee on Speech. Bulletin
+V1  - 503
+PB  - Indiana State Department of Public Instruction
+CY  - Indianapolis, IN
+LA  - English
+CN  - 428.7 .I39t
+SC  - Indiana
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Williams, Esther
+T1  - Choral reading: some suggestions for its use in your classrooms
+SP  - 6
+KW  - Choral speaking
+T2  - Northern Illinois University. Educational Bulletin Service
+PB  - Northern Illinois University
+CY  - DeKalb, IL
+LA  - English
+CN  - 428.7 .I29c
+ER  - 
+
+TY  - BOOK
+A2  - Lancaster School District
+T1  - Speech aids: nasal consonants: lessons on 'M', 'N', & 'NG' sounds
+Y1  - 1959
+D1  - 03/1959
+KW  - Speech
+PB  - Lancaster School District
+LA  - English
+CN  - 428.7 .L24s v. 1
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A2  - Lancaster School District
+T1  - Speech aids: nasal consonants: lessons on 'M', 'N', & 'NG' sounds
+Y1  - 1959
+D1  - 03/1959
+KW  - Speech
+PB  - Lancaster School District
+LA  - English
+CN  - 428.7 .L24s v. 2
+G2  - 3rd
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Lancaster School District
+T1  - Speech aids: lessons on 'K'and 'G' sounds
+Y1  - 1959
+D1  - 04/1959
+KW  - Speech
+PB  - Lancaster School District
+LA  - English
+CN  - 428.7 .L24s v. 3
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A2  - Lancaster School District
+T1  - Speech aids: lessons on 'K'and 'G' sounds
+Y1  - 1959
+D1  - 04/1959
+KW  - Speech
+PB  - Lancaster School District
+LA  - English
+CN  - 428.7 .L24s v. 4
+G2  - 3rd
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District
+T1  - Instructional guide for speech 1 and 2 : senior high school
+Y1  - 1966
+D1  - 1966
+SP  - 186
+KW  - Speech
+KW  - Oral communication
+N1  - xi; ; 28 cm.; Responsibility: Los Angeles City Schools, Division of Instructional Services.
+T2  - Los Angeles (California) City School District Publication
+V1  - SC-619
+PB  - Los Angeles (California) City School District
+CY  - Los Angeles, CA
+LA  - English
+CN  - 428.7 .L87i
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Austin, Ruth R.
+T1  - Speech education in the Norfolk County schools
+Y1  - 1956
+D1  - 1956?
+SP  - 26
+KW  - Speech
+PB  - Norfolk County Public Schools
+CY  - Norfolk, VA
+LA  - English
+CN  - 428.7 .N83s
+SC  - Virginia
+ER  - 
+
+TY  - BOOK
+A1  - Bennett, Robert A.
+A1  - Corbin, Richard
+A1  - Lamar, Wilmer
+A1  - Majerrison, Mary
+A1  - Reeves, Ruth
+A1  - Scheerer, Lorietta
+T1  - Speech in the English classroom : a portfolio
+Y1  - 1961
+D1  - 1961
+KW  - Speech
+N1  - 1 portfolio ; 26 cm.; Note(s): "This portfolio contains twelve articles concerning the teaching of speech in the English class. Most of the articles originally appeared in the English Journal."/ Includes bibliographical references.; Responsibility: produced by the Secondary School Section Committee of the National Council of Teachers of English ; Robert A. Bennett, general editor.
+PB  - National Council of Teachers of English
+CY  - Champaign, IL
+LA  - English
+CN  - 428.7 .N27s
+ER  - 
+
+TY  - BOOK
+A2  - New York City Board of Education
+T1  - Syllabus in remedial English, eleventh year
+Y1  - 1954
+D1  - 1954
+KW  - English language
+PB  - New York City Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 428.7 .N532s
+SC  - New York
+G2  - 11th
+ER  - 
+
+TY  - BOOK
+A2  - New York (New York) Board of Education
+A2  - Bureau for Speech Improvement
+T1  - Our public schools. Part V, Speech improvement
+Y1  - 1956
+D1  - 1955-1956
+SP  - 24
+KW  - Speech therapy
+KW  - Speech disorders
+T2  - Report of the Superintendent of Schools, 1955-1956
+V1  - 5
+PB  - Bureau for Speech Improvement, New York (New York) Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 428.7 .N532sp
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - State University of New York
+T1  - Audiovisual aids for teaching speech in English and speech classes of the secondary school
+Y1  - 1958
+D1  - 1958
+SP  - 32
+KW  - Speech
+KW  - Audio-visual materials
+PB  - University of the State of New York. The State Education Dept
+CY  - Albany, NY
+LA  - English
+CN  - 428.7 .N533av
+SC  - New York
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Carroll, Anne Welch
+A1  - Bliler, Robert
+A1  - Mosher, Donna
+A1  - Pals, Marjorie
+A1  - Stone, Carole Rapp
+A1  - Van Tine, Ruth
+A1  - Yoder, Dave
+T1  - Guidelines for oral language development
+Y1  - 1966
+D1  - 04/1966
+SP  - 92
+KW  - Language arts
+KW  - Speech therapy
+N1  - 92 leaves ; 28 cm.; Note(s): Cover title.; Responsibility: prepared by the Committee on exceptional children of the Rocky Mountain school study council ; editor Anne Welch Carroll.
+PB  - University of Denver
+CY  - Denver, CO
+LA  - English
+CN  - 428.7 .R68f
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A2  - Santa Clara County (California) Office of Education
+T1  - Speech education in the elementary school
+KW  - Speech therapy
+PB  - Santa Clara County (California) Office of Education
+CY  - San Jose, CA
+LA  - English
+CN  - 428.7 .S23s
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools
+T1  - A guide to the teaching of speaking and listening : grades 7-12 (tentative)
+Y1  - 1963
+D1  - 1963
+SP  - 59
+KW  - Speech
+KW  - Comprehension
+N1  - 59 p. ; 28 cm.; Responsibility: Philadelphia Public Schools.
+PB  - Philadelphia (Pennsylvania) Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 428.7 .P54s
+SC  - Pennsylvania
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Pontiac (Michigan) Board of Education
+T1  - Speech: courses of study and classroom materials for grades 7, 8, 9
+Y1  - 1957
+D1  - 1957
+KW  - Speech
+PB  - Pontiac (Michigan) Board of Education
+CY  - Pontiac, MI
+LA  - English
+CN  - 428.7 .P81s
+SC  - Michigan
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Sweetwater Union High School District (Chula Vista, California)
+T1  - Course notes and suggestions for speech arts
+Y1  - 1964
+D1  - 1964
+SP  - 27
+KW  - Public speaking
+PB  - Sweetwater Union High School District
+CY  - Chula Vista, CA
+LA  - English
+CN  - 428.7 .S97s v. 1
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Tulare County (California) Superintendent of Schools
+T1  - Choral speaking for Christmas
+SP  - 8
+KW  - Choral speaking
+T2  - Language arts bulletin
+V1  - 20
+PB  - Tulare County (California) Superintendent of Schools
+CY  - Visalia, CA
+LA  - English
+CN  - 428.7 .T91c v. 1
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Tulare County (California) Superintendent of Schools
+T1  - Choral speaking for graduation
+KW  - Choral speaking
+T2  - Language arts bulletin
+V1  - 21
+PB  - Tulare County (California) Superintendent of Schools
+CY  - Visalia, CA
+LA  - English
+CN  - 428.7 .T91c v. 2
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Tulare County (California) Superintendent of Schools
+T1  - Poems for choral speaking
+KW  - Choral speaking
+T2  - Language arts bulletin
+V1  - 22
+PB  - Tulare County (California) Superintendent of Schools
+CY  - Visalia, CA
+LA  - English
+CN  - 428.7 .T91c v. 3
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Tulare County (California) Superintendent of Schools
+T1  - Selections for choral speaking
+KW  - Choral speaking
+T2  - Language arts bulletin
+V1  - 23
+PB  - Tulare County (California) Superintendent of Schools
+CY  - Visalia, CA
+LA  - English
+CN  - 428.7 .T91c v. 4
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Tulare County (California) Superintendent of Schools
+T1  - Speech improvement
+KW  - Speech
+T2  - Bulletin
+V1  - 1
+PB  - Tulare County (California) Superintendent of Schools
+CY  - Visalia, CA
+LA  - English
+CN  - 428.7 .T91s v. 1-2
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Tulare County (California) Superintendent of Schools
+T1  - Speech correction teacher's workshop
+KW  - Speech
+PB  - Tulare County (California) Superintendent of Schools
+CY  - Visalia, CA
+LA  - English
+CN  - 428.7 .T91sp
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Alberico, John
+A1  - Johnson, Lowell
+A1  - McBade, Jack
+A1  - McMenamin, Milton
+T1  - A guide to teaching dramatics 1-2 in senior high school
+Y1  - 1968
+D1  - 1968
+SP  - 139
+KW  - Drama in education
+N1  - iii; ill. ; 28 cm.; Note(s): Includes bibliographical references.; Other Titles: Dramatics 1-2; Responsibility: prepared by John Alberico ... [et al.].
+PB  - Long Beach Unified School District
+CY  - Long Beach, CA
+LA  - English
+CN  - 428.73 .L84d
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Chicago (Illinois) Board of Education
+T1  - A tentative program in drama for the secondary schools
+Y1  - 1959
+D1  - 1959
+SP  - 74
+KW  - Drama in education
+PB  - Chicago (Illinois) Board of Education
+CY  - Chicago, IL
+LA  - English
+CN  - 428.73 .C53t
+SC  - Illinois
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Cleveland Heights (Ohio) Public Schools
+T1  - Senior high school tentative course of study: English: dramatics i & ii
+Y1  - 1949
+D1  - 09/1949
+SP  - 16
+KW  - Drama in education
+PB  - Cleveland Heights (Ohio) Public Schools
+CY  - Cleveland Heights, OH
+LA  - English
+CN  - 428.73 .C63d
+SC  - Ohio
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Fenderson, Julia K.
+T1  - Let's visit a movie lot
+Y1  - 1956
+D1  - 1956
+SP  - 47
+KW  - Motion pictures
+KW  - Juvenile literature
+N1  - 47 p. illus. 21 x 25 cm.
+PB  - Culver City (California) Unified School District
+CY  - Culver City, CA
+LA  - English
+CN  - 428.73 .C96L
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Tulsa (Oklahoma) Public Schools
+T1  - Curriculum guide for teachers of speech arts in the elementary school
+Y1  - 1957
+D1  - 1957
+SP  - 202
+KW  - Speech therapy
+KW  - Language arts
+KW  - Curricula
+N1  - iii; ill. ; 28 cm.; Note(s): "Suggestions to teachers for guiding the experiences of pupils in speech arts in grades one through six."/ Includes bibliographical references.; Responsibility: Tulsa Public Schools.
+PB  - Tulsa (Oklahoma) Public Schools
+CY  - Tulsa, OK
+LA  - English
+CN  - 428.7 .T92c
+SC  - Oklahoma
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Bruton, Wanda
+A1  - Burkhalter, Edward M.
+A1  - Haynes, Bennie
+A1  - Oliver, George N.
+A1  - Parker, Cordell
+T1  - Curriculum guide for speech and dramatics, grades 9-12
+Y1  - 1964
+D1  - 08/1964
+SP  - 34
+KW  - Curricula
+KW  - Speech
+KW  - Drama in education
+PB  - Tyler (Texas) Independent School District
+CY  - Tyler, TX
+LA  - English
+CN  - 428.7 .T98c
+SC  - Texas
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District
+T1  - Senior high school drama 1, drama 2, play production : instructional guide
+Y1  - 1967
+D1  - 1967
+SP  - 130
+KW  - Drama in education
+N1  - x; ill. ; 28 cm.; Note(s): Includes bibliographical references.; Other Titles: Drama 1, drama 2, play production.
+T2  - Los Angeles (California) City Schools, Division of Instructional Services. Publication
+V1  - SC-623
+PB  - Los Angeles (California) City Schools, Division of Instructional Services
+CY  - Los Angeles, CA
+LA  - English
+CN  - 428.73 .L87d
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City Schools
+T1  - Instructional guide for stagecraft : junior high school industrial arts senior high school industrial education
+Y1  - 1965
+D1  - 1965
+KW  - Theater architecture
+N1  - 1 v. (various pagings) : ill. ; 28 cm.; Responsibility: Los Angeles City Schools, Division of Instructional Services.
+T2  - Los Angeles (California) City Schools. Publication
+V1  - SC-445
+PB  - Los Angeles (California) City Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 428.73 .L87i
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Oakland (California) Public Schools
+T1  - Tentative guide for drama classes: second progress report: senior high school
+Y1  - 1956
+D1  - 07/1956
+SP  - 38
+KW  - Drama in education
+PB  - Oakland (California) Public Schools
+CY  - Oakland, CA
+LA  - English
+CN  - 428.73 .O11t
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Iron, William Z.
+T1  - The high school multi-purpose theatre: a critical study
+Y1  - 1961
+D1  - 12/1961
+SP  - 21
+KW  - Drama in education
+PB  - University of Oregon. School of Education
+CY  - Eugene, OR
+LA  - English
+CN  - 428.73 .O66h
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Sequoia Union High School District (Redwood City, California)
+T1  - Drama i, ii, and iii
+Y1  - 1961
+D1  - 09/1961
+SP  - 133
+KW  - Drama in education
+PB  - Sequoia Union High School District
+CY  - Redwood City, CA
+LA  - English
+CN  - 428.73 .S47d
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Sweetwater Union High School District (Chula Vista, California)
+T1  - Course notes and suggestions for dramatics
+Y1  - 1964
+D1  - 1964
+SP  - 99
+KW  - English language
+KW  - Drama in education
+PB  - Sweetwater Union High School District
+CY  - Chula Vista, CA
+LA  - English
+CN  - 428.73 .S97d
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - University of Texas
+A2  - University Interscholastic League (Texas)
+T1  - A basic list of plays : for use in the one-act play contests, the University Interscholastic League, 1958-1959
+Y1  - 1958
+D1  - 10/1958
+SP  - 22
+KW  - Drama in education
+KW  - Bibliography
+KW  - One-act plays
+N1  - 22 p. ; 23 cm.; Note(s): "October 1, 1958."; Responsibility: Bureau of Public School Service, Division of Extension.
+T2  - University of Texas publication
+V1  - 5819
+PB  - University of Texas
+CY  - Austin, TX
+LA  - English
+CN  - 428.73 .T35b
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+ID  - 15278
+A2  - University of Texas
+A2  - University Interscholastic League (Texas)
+T1  - A suggested list of plays : for use in the one-act play contests, the University Interscholastic League, 1956-1957
+Y1  - 1956
+D1  - 10/1956
+SP  - 27
+KW  - Drama in education
+KW  - Bibliography
+KW  - One-act plays
+N1  - 27 p. ; 22 cm.; Note(s): "October 1, 1956."; Responsibility: Bureau of Public School Service, Division of Extension.
+T2  - University of Texas publication
+V1  - 5619
+PB  - University of Texas
+CY  - Austin, TX
+LA  - English
+CN  - 428.73 .T35s
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - University of Texas
+A2  - University Interscholastic League (Texas)
+T1  - A prescribed list of plays : for use in the one-act play contests, the University Interscholastic League, 1950-51
+Y1  - 1950
+D1  - 11/1950
+SP  - 20
+KW  - Drama in education
+KW  - Bibliography
+KW  - One-act plays
+N1  - 20 p. ; 22 cm.; Responsibility: Bureau of Public School Service, Division of Extension.
+T2  - University of Texas publication
+V1  - 5021
+PB  - University of Texas
+CY  - Austin, TX
+LA  - English
+CN  - 428.73 .T35p 1950
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - University of Texas
+A2  - University Interscholastic League (Texas)
+T1  - A prescribed list of plays : for use in the one-act play contests, the University Interscholastic League, 1949-50
+Y1  - 1949
+D1  - 11/1949
+SP  - 20
+KW  - Drama in education
+KW  - Bibliography
+KW  - One-act plays
+N1  - 20 p. ; 22 cm.; Note(s): "November 1, 1949."; Responsibility: Bureau of Public School Service, Division of Extension.
+T2  - University of Texas publication
+V1  - 4921
+PB  - University of Texas
+CY  - Austin, TX
+LA  - English
+CN  - 428.73 .T35p 1949
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - University of Texas
+A2  - University Interscholastic League (Texas)
+T1  - A prescribed list of plays : for use in the one-act play contests, the University Interscholastic League, 1948-49
+Y1  - 1948
+D1  - 10/1948
+SP  - 20
+KW  - Drama in education
+KW  - Bibliography
+KW  - One-act plays
+N1  - 20 p. ; 22 cm.; Responsibility: Bureau of Public School Service, Division of Extension.
+T2  - University of Texas publication
+V1  - 4820
+PB  - University of Texas
+CY  - Austin, TX
+LA  - English
+CN  - 428.73 .T35p 1948
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - University of Texas
+A2  - University Interscholastic League (Texas)
+T1  - A prescribed list of plays : for use in the one-act play contests, the University Interscholastic League, 1947-48
+Y1  - 1947
+D1  - 07/1947
+SP  - 16
+KW  - Drama in education
+KW  - Bibliography
+KW  - One-act plays
+N1  - 16 p. ; 22 cm.; Responsibility: Bureau of Public School Service, Division of Extension.
+T2  - University of Texas publication
+V1  - 4725
+PB  - University of Texas
+CY  - Austin, TX
+LA  - English
+CN  - 428.73 T35p 1947
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - University of Texas
+A2  - University Interscholastic League (Texas)
+T1  - A prescribed list of plays : for use in the one-act play contests, the University Interscholastic League, 1944-1945
+Y1  - 1944
+D1  - 07/1944
+SP  - 14
+KW  - Drama in education
+KW  - Bibliography
+N1  - 14 p. ; 22 cm.; Responsibility: Bureau of Public School Service, Division of Extension.
+T2  - University of Texas publication
+V1  - 4425
+PB  - University of Texas
+CY  - Austin, TX
+LA  - English
+CN  - 428.73 .T35p 1944
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - Beloit (Wisconsin) Public Schools
+T1  - Foreign language: German 1 alm, secondary
+Y1  - 1964
+D1  - 08/1964
+SP  - 30
+KW  - German language
+T2  - Beloit (Wisconsin) Public Schools. Bulletin
+V1  - 87
+PB  - Beloit (Wisconsin) Public Schools
+CY  - Beloit, WI
+LA  - English
+CN  - 430 .B45f
+SC  - Wisconsin
+ER  - 
+
+TY  - BOOK
+A2  - Brookline (Massachusetts) Public Schools
+T1  - Course of study in German
+Y1  - 1961
+D1  - 1961
+SP  - 11
+KW  - German language
+PB  - Brookline (Massachusetts) Public Schools
+CY  - Brookline, MA
+LA  - English
+CN  - 430 .B87c
+SC  - Massachusetts
+ER  - 
+
+TY  - BOOK
+A2  - Cincinnati (Ohio) Public Schools
+T1  - Course of study in German : grades 9-12
+Y1  - 1951
+KW  - German language
+KW  - Curricula
+T2  - Curriculum bulletin (Cincinnati, Ohio)
+V1  - 193
+PB  - Cincinnati (Ohio) Public Schools
+CY  - Cincinnati, OH
+LA  - English
+CN  - 430 .C57c
+SC  - Ohio
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Culver City (California) Unified School District
+T1  - German 3, 4, Level ii
+Y1  - 1965
+D1  - 09/1965
+SP  - 137
+KW  - German language
+PB  - Culver City (California) Unified School District
+CY  - Culver City, CA
+LA  - English
+CN  - 430 .C96g v. 2
+ER  - 
+
+TY  - BOOK
+A2  - Culver City (California) Unified School District
+T1  - German 7, 8, Level iv
+Y1  - 1965
+D1  - 08/1965
+SP  - 62
+KW  - German language
+PB  - Culver City (California) Unified School District
+CY  - Culver City, CA
+LA  - English
+CN  - 430 .C96g v. 4
+ER  - 
+
+TY  - BOOK
+A1  - Feldman, David Morris
+A1  - Kline, Walter D.
+T1  - German: contemporary methodology. A series of inservice study guides for modern foreign language teachers
+Y1  - 1967
+D1  - 09/1967
+SP  - 86
+KW  - German language
+KW  - Teacher training
+N1  - 86 p. charts.; Note(s): Cover title.; Responsibility: by David M. Feldman and Walter D. Kline; under the direction of Dorothy D. Duhan.
+PB  - Colorado State Department of Education
+CY  - Denver, CO
+LA  - English
+CN  - 430 .C71g
+SC  - Colorado
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Koski, Tauno
+A1  - McCammon, Marilyn
+A1  - McFall, Paula
+A1  - McLennan, Robert
+A1  - Silins, Brigita
+T1  - A practical guide to teaching German (levels I-V)
+Y1  - 1967
+D1  - 1967?
+SP  - 147
+KW  - German language
+N1  - 29 cm.; Responsibility: Mountain View-Los Altos Union High School District.
+PB  - Mountain View-Los Altos Union High School District
+CY  - Mountain View, CA
+LA  - English
+CN  - 430 .M92p
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools
+T1  - Guide to the teaching of German in the secondary schools of Philadelphia : grades 9-12
+Y1  - 1961
+D1  - 1961
+SP  - 69
+KW  - German language
+N1  - xvii, 69; ; 28 cm.; Note(s): Includes bibliographical references.; Responsibility: Philadelphia Public Schools.
+PB  - Philadelphia (Pennsylvania) Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 430 .P54t v. 1
+SC  - Pennsylvania
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools
+T1  - Supplementary bibliography for the teaching of German, terms 1 through 8
+Y1  - 1961
+D1  - 1961
+SP  - 11
+KW  - German language
+PB  - Philadelphia (Pennsylvania) Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 430 .P54t v. 2
+SC  - Pennsylvania
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools
+T1  - Leben und sprechen : for use in second term German
+Y1  - 1954
+D1  - 1954
+SP  - 46
+KW  - German language
+PB  - Philadelphia (Pennsylvania) Public Schools
+CY  - Philadelphia, PA
+LA  - German
+LA  - English
+CN  - 430 .P54t v. 4
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools
+T1  - Leben und sprechen : for use in first term German
+Y1  - 1958
+D1  - 1958
+SP  - 30
+KW  - German language
+PB  - Philadelphia (Pennsylvania) Public Schools
+CY  - Philadelphia, PA
+LA  - German
+LA  - English
+CN  - 430 .P54t v. 3
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Baltimore (Maryland) City Public Schools
+T1  - Elementary French guide
+SP  - 45
+ED  - Rev. ed.
+KW  - French language
+PB  - Baltimore (Maryland) City Public Schools
+CY  - Baltimore, MD
+LA  - English
+LA  - French
+CN  - 440 /B19e
+SC  - Maryland
+ER  - 
+
+TY  - BOOk
+A2  - Beverly Hills (California) Unified School District
+T1  - French: teaching and resource guide for elementary schools
+Y1  - 1963
+D1  - 09/1963
+SP  - 237
+KW  - French language
+PB  - Beverly Hills (California) Unified School District
+CY  - Beverly Hills, CA
+LA  - English
+LA  - French
+CN  - 440 .B57f
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Brookline (Massachusetts) Public Schools
+T1  - Course of study in French, grades 9-12
+Y1  - 1959
+D1  - 1959
+SP  - 50
+KW  - French language
+PB  - Brookline (Massachusetts) Public Schools
+CY  - Brookline, MA
+LA  - English
+LA  - French
+CN  - 440 .B87c
+SC  - Massachusetts
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Cincinnati (Ohio) Public Schools
+T1  - Course of study in French : grades 9-12
+Y1  - 1950
+D1  - 1950
+SP  - 20
+KW  - French language
+KW  - Curricula
+N1  - [20] p. ; 28 cm.; Note(s): Copy has original green wrapper.; Other Titles: Course of study :; French, grades 9-12
+T2  - Curriculum bulletin (Cincinnati, Ohio)
+V1  - 147
+PB  - Cincinnati (Ohio) Public Schools
+CY  - Cincinnati, OH
+LA  - English
+CN  - 440 .C57c
+SC  - Ohio
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Cleveland (Ohio) Public Schools
+T1  - Course of study--juvenile French
+Y1  - 1952
+D1  - 1952
+KW  - French language
+AB  - pt. 1. Grades 1-6. -- pt. 2. Grades 2-6.
+N1  - 2 v. ; 29 cm.
+PB  - Cleveland (Ohio) Public Schools
+CY  - Cleveland, OH
+LA  - English
+CN  - 440 .C63c v. 1-2
+SC  - Ohio
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Cleveland Heights (Ohio) Public Schools
+T1  - Senior high school tentative course of study: French
+Y1  - 1950
+D1  - 10/1950
+SP  - 32
+KW  - French language
+PB  - Cleveland Heights (Ohio) Public Schools
+CY  - Cleveland Heights, OH
+LA  - English
+LA  - French
+CN  - 440 .C635s
+SC  - Ohio
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Cleveland Heights (Ohio) Public Schools
+T1  - Tentative elementary French course of study for the first year of instruction
+Y1  - 1958
+D1  - 09/1958
+SP  - 19
+KW  - French language
+PB  - Cleveland Heights (Ohio) Public Schools
+CY  - Cleveland Heights, OH
+LA  - English
+LA  - French
+CN  - 440 .C635t
+SC  - Ohio
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Denver (Colorado) Public Schools
+T1  - A guide to teaching French FLES
+Y1  - 1967
+D1  - 1967
+SP  - 68
+KW  - French language
+N1  - 68 p. ; 28 cm.; Note(s): Includes bibliographical references.
+PB  - Denver (Colorado) Public Schools
+CY  - Denver, CO
+LA  - English
+LA  - French
+CN  - 440 .D41g v. 1
+CN  - Colorado
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Denver (Colorado) Public Schools. Division of Instructional Services. Department of General Curriculum Services
+T1  - A guide to teaching French, levels I through VI
+Y1  - 1967
+D1  - 1967
+SP  - 99
+KW  - French language
+PB  - Denver (Colorado) Public Schools
+CY  - Denver, CO
+LA  - English
+LA  - French
+CN  - 440 .D41g v. 2
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A1  - Feldman, David Morris
+A1  - Kline, Walter D.
+T1  - French: contemporary methodology. A series of inservice study guides for modern foreign language teachers
+Y1  - 1967
+D1  - 09/1967
+SP  - 86
+KW  - French language
+KW  - Teacher training
+N1  - 86 p. charts.; Note(s): Cover title.; Responsibility: by David M. Feldman and Walter D. Kline; under the direction of Dorothy D. Duhan.
+PB  - Colorado State Department of Education
+CY  - Denver, CO
+LA  - English
+CN  - 440 .C71f
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A2  - Massachusetts Council for Public Schools. Foreign Language Committee
+T1  - FLES ... Foreign languages elementary schools; a study of teaching foreign languages to young children by the oral method
+Y1  - 1957
+D1  - 1957
+SP  - 31
+KW  - Modern languages
+N1  - 31 p. 15 x 23 cm.; Other Titles: Teaching foreign languages to young children
+PB  - Massachusetts Council for Public Schools
+CY  - Boston, MA
+LA  - English
+CN  - 440 .M41f
+SC  - Massachusetts
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Secondary Education Board (Milton, Massachusetts)
+T1  - A French vocabulary
+Y1  - 1952
+D1  - 1952
+SP  - 202
+KW  - French language
+PB  - Secondary Education Board
+CY  - Milton, MA
+LA  - English
+LA  - French
+CN  - 440 .M66f
+SC  - Massachusetts
+ER  - 
+
+TY  - BOOK
+A2  - Mount Lebanon Public Schools (Pittsburg, Pa.)
+T1  - The curriculum guide for French for the more able
+Y1  - 1961
+D1  - 1961
+KW  - French language
+KW  - Gifted children
+KW  - Curricula
+N1  - [55] leaves ; 28 cm.
+PB  - Mount Lebanon Public Schools
+CY  - Pittsburg, PA
+LA  - English
+LA  - French
+CN  - 440 .M92c
+SC  - Pennsylvania
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Rowlands, David
+T1  - A puppet theatre for language teaching
+Y1  - 1965
+D1  - 05/1965
+SP  - 36
+KW  - Puppet theater in education
+KW  - Languages
+N1  - ill. ; 33 cm.; Responsibility: by David Rowlands ; illus. by Andrew Wright and Marie-France Cauvin.
+PB  - Nuffield Foundation
+CY  - London, UK
+LA  - English
+LA  - French
+CN   - 440 .N96n v. 2
+SC  - United Kingdom
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Elementary Curriculum Development
+T1  - French for elementary schools, a teaching guide
+Y1  - 1966
+D1  - 1966
+SP  - 44
+KW  - French language
+N1  - v; 22 cm.; Note(s): Bibliography: p. 37-41.
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+LA  - French
+CN  - 440 .N52fe
+SC  - New York
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Nuffield Foreign Languages Teaching Materials Project
+T1  - Nuffield introductory French course, primary state 1, part a, units 1-20
+Y1  - 1965
+D1  - 1965
+KW  - French language
+N1  - 1 v. various paging
+PB  - Nuffield Foundation
+CY  - Leeds, UK
+LA  - English
+LA  - French
+CN  - 440 .N96n v. 1
+SC  - United Kingdom
+ER  - 
+
+TY  - BOOK
+A2  - Oakland (California) Public Schools
+T1  - Guide for teaching French: French i to iv
+Y1  - 1958
+D1  - 06/1958
+SP  - 50
+KW  - French language
+PB  - Oakland (California) Public Schools
+CY  - Oakland, CA
+LA  - English
+CN  - 440 .O11g
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools. Curriculum Office
+T1  - Vivre et parler : for use in second term French
+Y1  - 1960
+D1  - 1960
+SP  - 40
+KW  - French language
+N1  - ix; ; 21 cm.; Responsibility: [Secondary School Foreign Language Curriculum Committee].
+PB  - Philadelphia (Pennsylvania) Public Schools
+CY  - Philadelphia, PA
+LA  - English
+LA  - French
+CN  - 440 .P54t supp. 2
+SC  - Pennsylvania
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools. Curriculum Office
+T1  - Supplementary bibliography for the teaching of French, terms 1 through 8
+Y1  - 1961
+D1  - 1961
+SP  - 18
+KW  - French language
+N1  - ix; ; 21 cm.; Responsibility: [Secondary School Foreign Language Curriculum Committee].
+PB  - Philadelphia (Pennsylvania) Public Schools
+CY  - Philadelphia, PA
+LA  - English
+LA  - French
+CN  - 440 .P54t supp. 3
+SC  - Pennsylvania
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools. Curriculum Office
+T1  - Vivre et parler : for use in first term French
+Y1  - 1960
+D1  - 1960
+SP  - 27
+KW  - French language
+N1  - ix; ; 21 cm.; Responsibility: Secondary School Foreign Language Curriculum Committee].
+ED  - Rev
+PB  - Philadelphia (Pennsylvania) Public Schools
+CY  - Philadelphia, PA
+LA  - English
+LA  - French
+CN  - 440 .P54t supp. 1
+SC  - Pennsylvania
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools
+T1  - Guide to the teaching of French in the secondary schools of Philadelphia, grades 9-12
+Y1  - 1961
+D1  - 1961
+KW  - French language
+N1  - 54 p.; Note(s): Includes bibliography./ Also issued online.
+PB  - Philadelphia (Pennsylvania) Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 440 .P54t
+SC  - Pennsylvania
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Sacramento (California) City Unified School District
+T1  - Course of study in French 1 and 2, junior-senior high schools
+Y1  - 1955
+D1  - 02/1955
+SP  - 109
+KW  - French language
+PB  - Sacramento (California) City Unified School District
+CY  - Sacramento, CA
+LA  - English
+LA  - French
+CN  - 440 .S12c v. 1
+SC  - California
+G1  - Middle school
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Sacramento (California) City Unified School District
+T1  - Course of study in French 3 and 4, junior-senior high schools
+Y1  - 1955
+D1  - 07/1955
+SP  - 54
+KW  - French language
+PB  - Sacramento (California) City Unified School District
+CY  - Sacramento, CA
+LA  - English
+LA  - French
+CN  - 440 .S12c v. 2
+SC  - California
+G1  - Middle school
+G1  - High school
+ER  - 
+

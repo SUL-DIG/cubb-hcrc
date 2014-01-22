@@ -1,0 +1,893 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="type">Book</field>
+<field name="author">Muth, Elizabeth</field><field name="author_nat">Elizabeth Muth</field>
+<field name="author">Kuykendall, Kay</field><field name="author_nat">Kay Kuykendall</field>
+<field name="title">Course notes and suggestions for English-geography; Part 1: English</field>
+<field name="year">1964</field>
+<field name="date">1964</field>
+<field name="pages">84</field>
+<field name="keywords">English language</field>
+<field name="publisher">Sweetwater Union High School District</field>
+<field name="pub_place">Chula Vista, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .S97e v. 1</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">7th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Dubost, Nancyann</field><field name="author_nat">Nancyann Dubost</field>
+<field name="author">Runyon, Anna</field><field name="author_nat">Anna Runyon</field>
+<field name="title">Course notes and suggestions for English 8</field>
+<field name="year">1964</field>
+<field name="date">1964</field>
+<field name="pages">114</field>
+<field name="keywords">English language</field>
+<field name="publisher">Sweetwater Union High School District</field>
+<field name="pub_place">Chula Vista, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .S97e v. 2</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">8th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Ferguson, Margaret I.</field><field name="author_nat">Margaret I. Ferguson</field>
+<field name="author">Jensen, Clara F.</field><field name="author_nat">Clara F. Jensen</field>
+<field name="title">Course notes and suggestions for English 9 regular</field>
+<field name="year">1964</field>
+<field name="date">1964</field>
+<field name="pages">63</field>
+<field name="keywords">English language</field>
+<field name="publisher">Sweetwater Union High School District</field>
+<field name="pub_place">Chula Vista, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .S97e v. 3</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">9th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Ferguson, Margaret I.</field><field name="author_nat">Margaret I. Ferguson</field>
+<field name="author">Jensen, Clara F.</field><field name="author_nat">Clara F. Jensen</field>
+<field name="title">Course notes and suggestions for English 9 enrichment</field>
+<field name="year">1964</field>
+<field name="date">1964</field>
+<field name="pages">75</field>
+<field name="keywords">English language</field>
+<field name="publisher">Sweetwater Union High School District</field>
+<field name="pub_place">Chula Vista, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .S97e v. 4</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">9th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Ferguson, Margaret I.</field><field name="author_nat">Margaret I. Ferguson</field>
+<field name="author">Jensen, Clara F.</field><field name="author_nat">Clara F. Jensen</field>
+<field name="title">Course notes and suggestions for English 9 z track</field>
+<field name="year">1964</field>
+<field name="date">1964</field>
+<field name="pages">37</field>
+<field name="keywords">English language</field>
+<field name="publisher">Sweetwater Union High School District</field>
+<field name="pub_place">Chula Vista, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .S97e v. 5</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">9th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Bauer, Judith L.</field><field name="author_nat">Judith L. Bauer</field>
+<field name="author">Beck, Martin E.</field><field name="author_nat">Martin E. Beck</field>
+<field name="title">Course notes and suggestions for English 10 regular</field>
+<field name="year">1964</field>
+<field name="date">1964</field>
+<field name="pages">47</field>
+<field name="keywords">English language</field>
+<field name="publisher">Sweetwater Union High School District</field>
+<field name="pub_place">Chula Vista, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .S97e v. 6</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">10th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Bauer, Judith L.</field><field name="author_nat">Judith L. Bauer</field>
+<field name="author">Beck, Martin E.</field><field name="author_nat">Martin E. Beck</field>
+<field name="title">Course notes and suggestions for English 10 enrichment</field>
+<field name="year">1964</field>
+<field name="date">1964</field>
+<field name="pages">45</field>
+<field name="keywords">English language</field>
+<field name="publisher">Sweetwater Union High School District</field>
+<field name="pub_place">Chula Vista, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .S97e v. 7</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">10th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Bauer, Judith L.</field><field name="author_nat">Judith L. Bauer</field>
+<field name="author">Beck, Martin E.</field><field name="author_nat">Martin E. Beck</field>
+<field name="title">Course notes and suggestions for English 10 z track</field>
+<field name="year">1964</field>
+<field name="date">1964</field>
+<field name="pages">33</field>
+<field name="keywords">English language</field>
+<field name="publisher">Sweetwater Union High School District</field>
+<field name="pub_place">Chula Vista, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .S97e v. 8</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">10th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Bennett, Wilson</field><field name="author_nat">Wilson Bennett</field>
+<field name="author">McDonald, Leo P.</field><field name="author_nat">Leo P. McDonald</field>
+<field name="title">Course notes and suggestions for English 11 regular</field>
+<field name="year">1964</field>
+<field name="date">1964</field>
+<field name="pages">51</field>
+<field name="keywords">English language</field>
+<field name="publisher">Sweetwater Union High School District</field>
+<field name="pub_place">Chula Vista, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .S97e v. 9</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">11th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Bennett, Wilson</field><field name="author_nat">Wilson Bennett</field>
+<field name="author">McDonald, Leo P.</field><field name="author_nat">Leo P. McDonald</field>
+<field name="title">Course notes and suggestions for English 11 enrichment</field>
+<field name="year">1964</field>
+<field name="date">1964</field>
+<field name="pages">53</field>
+<field name="keywords">English language</field>
+<field name="publisher">Sweetwater Union High School District</field>
+<field name="pub_place">Chula Vista, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .S97e v. 10</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">11th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Bennett, Wilson</field><field name="author_nat">Wilson Bennett</field>
+<field name="author">McDonald, Leo P.</field><field name="author_nat">Leo P. McDonald</field>
+<field name="title">Course notes and suggestions for English 11 z track</field>
+<field name="year">1964</field>
+<field name="date">1964</field>
+<field name="pages">41</field>
+<field name="keywords">English language</field>
+<field name="publisher">Sweetwater Union High School District</field>
+<field name="pub_place">Chula Vista, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .S97e v. 11</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">11th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Hassler, Martha</field><field name="author_nat">Martha Hassler</field>
+<field name="author">Mills, W. Burke</field><field name="author_nat">W. Burke Mills</field>
+<field name="title">Course notes and suggestions for English 12 regular</field>
+<field name="year">1964</field>
+<field name="date">1964</field>
+<field name="pages">157</field>
+<field name="keywords">English language</field>
+<field name="publisher">Sweetwater Union High School District</field>
+<field name="pub_place">Chula Vista, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .S97e v. 12</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">12th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Hassler, Martha</field><field name="author_nat">Martha Hassler</field>
+<field name="author">Mills, W. Burke</field><field name="author_nat">W. Burke Mills</field>
+<field name="title">Course notes and suggestions for English 12 enrichment</field>
+<field name="year">1964</field>
+<field name="date">1964</field>
+<field name="pages">172</field>
+<field name="keywords">English language</field>
+<field name="publisher">Sweetwater Union High School District</field>
+<field name="pub_place">Chula Vista, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .S97e v. 13</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">12th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Hassler, Martha</field><field name="author_nat">Martha Hassler</field>
+<field name="author">Mills, W. Burke</field><field name="author_nat">W. Burke Mills</field>
+<field name="title">Course notes and suggestions for English 12 z track</field>
+<field name="year">1964</field>
+<field name="date">1964</field>
+<field name="pages">86</field>
+<field name="keywords">English language</field>
+<field name="publisher">Sweetwater Union High School District</field>
+<field name="pub_place">Chula Vista, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .S97e v. 14</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">12th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Texas Education Agency</field>
+<field name="title">Coordination in the English program for grades 7, 8, 9</field>
+<field name="year">1966</field>
+<field name="date">10/1966</field>
+<field name="keywords">English language</field>
+<field name="publisher">Texas Education Agency</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .T35c v. 1</field>
+<field name="state_country">Texas</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Texas Education Agency</field>
+<field name="title">Coordination in the English program for grades 10, 11, 12</field>
+<field name="year">1966</field>
+<field name="date">10/1966</field>
+<field name="keywords">English language</field>
+<field name="publisher">Texas Education Agency</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .T35c v. 2</field>
+<field name="state_country">Texas</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Texas Education Agency</field>
+<field name="title">Coordinated vocational-academic education: English language arts</field>
+<field name="year">1972</field>
+<field name="date">1972</field>
+<field name="pages">129</field>
+<field name="keywords">Language arts</field>
+<field name="keywords">Vocational education</field>
+<field name="keywords">Curricula</field>
+<field name="notes">vii; 28 cm.; Note(s): Bibliography: p. 121-129.</field>
+<field name="publisher">Texas Education Agency</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .T35e</field>
+<field name="state_country">Texas </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Trenton (Michigan) Public Schools</field>
+<field name="title">Project APEX : appropriate placement for excellence in English</field>
+<field name="year">1970</field>
+<field name="date">Winter, 1970</field>
+<field name="pages">266</field>
+<field name="keywords">English language</field>
+<field name="notes">vi; ; 23 cm.; Note(s): Cover title: APEX: a nongraded phase elective English
+curriculum./ Includes bibliographical references (p. 260-261).; Other Titles: APEX: a nongraded
+phase elective English curriculum.</field>
+<field name="edition">4th ed. rev</field>
+<field name="publisher">Trenton (Michigan) Public Schools</field>
+<field name="pub_place">Trenton, MI</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .T79p</field>
+<field name="state_country">Michigan </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Tucson (Arizona) Public Schools</field>
+<field name="title">Teachers guide: high school English department</field>
+<field name="year">1955</field>
+<field name="date">08/1955</field>
+<field name="pages">78</field>
+<field name="keywords">English language</field>
+<field name="publisher">Tucson (Arizona) Public Schools</field>
+<field name="pub_place">Tucson, AZ</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .T89t</field>
+<field name="state_country">Arizona</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Tulare County (California) Superintendent of Schools</field>
+<field name="title">Social studies bulletin 2: experience stories, charts and outlines</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="pages">10</field>
+<field name="keywords">Social sciences</field>
+<field name="publisher">Tulare County (California) Superintendent of Schools</field>
+<field name="pub_place">Visalia, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.2 T91e</field>
+<field name="state_country">California </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Tulare County (California) Schools</field>
+<field name="title">Tulare County cooperative language arts guide</field>
+<field name="year">1949</field>
+<field name="date">1949</field>
+<field name="pages">132</field>
+<field name="keywords">Language arts</field>
+<field name="publisher">Tulare County (California) Schools</field>
+<field name="pub_place">Visalia, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .T91t</field>
+<field name="state_country">California </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Tyler (Texas) Independent School District</field>
+<field name="title">Curriculum guide for English, grades 7-9</field>
+<field name="year">1964</field>
+<field name="date">08/1964</field>
+<field name="pages">103</field>
+<field name="keywords">Curricula</field>
+<field name="keywords">English language</field>
+<field name="publisher">Tyler (Texas) Independent School District</field>
+<field name="pub_place">Tyler, TX</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .T98c</field>
+<field name="state_country">Texas</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">United States Dependent School European Area</field>
+<field name="title">Education and training: secondary English curriculum guide</field>
+<field name="year">1965</field>
+<field name="date">08/1965</field>
+<field name="pages">252</field>
+<field name="keywords">Curricula</field>
+<field name="keywords">English language</field>
+<field name="series_title">USDESEA Pamphlet</field>
+<field name="series_vol">350-112</field>
+<field name="publisher">United States Dependent School European Area</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .U58e </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University City (Missouri) Schools</field>
+<field name="title">A guide for the English language arts: elementary, junior high, senior
+high</field>
+<field name="year">1961</field>
+<field name="date">09/1961</field>
+<field name="pages">131</field>
+<field name="keywords">English language</field>
+<field name="keywords">Language arts</field>
+<field name="publisher">University City (Missouri) Schools</field>
+<field name="pub_place">University City, MO</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .U59g</field>
+<field name="state_country">Missouri </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Vallejo (California) Unified School District</field>
+<field name="title">Course of study in language arts: kindergarten through sixth grade, Vallejo
+Elementary Schools</field>
+<field name="year">1960</field>
+<field name="date">07/1960</field>
+<field name="pages">26</field>
+<field name="keywords">Language arts</field>
+<field name="publisher">Vallejo (California) Unified School District</field>
+<field name="pub_place">Vallejo, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .V18c</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">Kindergarten</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Victor Valley Junior-Senior High School (Victorville, California)</field>
+<field name="title">An outline of pupil activities in language arts, grades 7-12</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="keywords">Language arts</field>
+<field name="publisher">Victor Valley Junior-Senior High School</field>
+<field name="pub_place">Victorville, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .V64o</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
+</doc>
+
+<doc>
+<field name="type">BOOk</field>
+<field name="corp_author">Warren (Ohio) City Schools</field>
+<field name="title">Correlated English and history, grade 10 and 11</field>
+<field name="year">1956</field>
+<field name="date">11/1956</field>
+<field name="keywords">English</field>
+<field name="keywords">History</field>
+<field name="publisher">Warren (Ohio) City Schools</field>
+<field name="pub_place">Warren, Ohio</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .W29c</field>
+<field name="state_country">Ohio</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Washington State Superintendent of Public Instruction</field>
+<field name="title">Language arts tentative curriculum guide, grades seven, eight and nine</field>
+<field name="year">1961</field>
+<field name="date">01/1961</field>
+<field name="pages">62</field>
+<field name="keywords">Language arts</field>
+<field name="edition">Rev.</field>
+<field name="publisher">Washington State Superintendent of Public Instruction</field>
+<field name="pub_place">Olympia, WA</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .W31e v. 1</field>
+<field name="state_country">Washington</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Waukesha (Wisconsin) Public Schools</field>
+<field name="title">Language handbook</field>
+<field name="year">1959</field>
+<field name="date">09/1959</field>
+<field name="pages">81</field>
+<field name="keywords">Language arts</field>
+<field name="publisher">Waukesha (Wisconsin) Public Schools</field>
+<field name="pub_place">Waukesha, WI</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .W35L</field>
+<field name="state_country">Wisconsin </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">West Hempstead (New York) Public Schools</field>
+<field name="title">The language arts program: oral and written expression, grades 1-6</field>
+<field name="year">1962</field>
+<field name="date">1962</field>
+<field name="pages">14</field>
+<field name="keywords">Language arts</field>
+<field name="publisher">West Hempstead (New York) Public Schools</field>
+<field name="pub_place">West Hempstead, NY</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .W51L v. 1</field>
+<field name="state_country">English</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">West Hempstead (New York) Public Schools</field>
+<field name="title">Form and style manual for elementary schools</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="pages">11</field>
+<field name="keywords">Language arts</field>
+<field name="publisher">West Hempstead (New York) Public Schools</field>
+<field name="pub_place">West Hempstead, NY</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .W51L v. 2</field>
+<field name="state_country">New York</field>
+<field name="grade_level_group">Elementary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">West Hartford (Connecticut) Public Schools</field>
+<field name="title">Guide for English, grades 7-12</field>
+<field name="year">1962</field>
+<field name="date">1962</field>
+<field name="pages">97</field>
+<field name="keywords">English language</field>
+<field name="publisher">West Hartford (Connecticut) Public Schools</field>
+<field name="pub_place">West Hartford, CT</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .W511c</field>
+<field name="state_country">Connecticut</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">WVASCD Region II, West Virginia</field>
+<field name="title">Let's communicate: language arts curriculum guide</field>
+<field name="pages">301</field>
+<field name="keywords">Language arts</field>
+<field name="publisher">WVASCD Region II, West Virginia</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .W513L </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Wichita (Kansas) Public Schools</field>
+<field name="title">Tentative guide in communication for third year teachers</field>
+<field name="year">1953</field>
+<field name="date">1953-54</field>
+<field name="pages">30</field>
+<field name="keywords">English language</field>
+<field name="keywords">Spelling</field>
+<field name="keywords">Writing</field>
+<field name="publisher">Wichita (Kansas) Public Schools</field>
+<field name="pub_place">Wichita, KS</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .W63t v. 1</field>
+<field name="state_country">Kansas</field>
+<field name="grade_level_number">3rd grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Wichita (Kansas) Public Schools</field>
+<field name="title">Tentative guide in communication for fourth year teachers</field>
+<field name="year">1954</field>
+<field name="date">1954-55</field>
+<field name="pages">26</field>
+<field name="keywords">English language</field>
+<field name="keywords">Spelling</field>
+<field name="keywords">Writing</field>
+<field name="publisher">Wichita (Kansas) Public Schools</field>
+<field name="pub_place">Wichita, KS</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .W63t v. 2</field>
+<field name="state_country">Kansas</field>
+<field name="grade_level_number">4th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Wichita (Kansas) Public Schools</field>
+<field name="title">Tentative guide in communication for fifth year teachers</field>
+<field name="year">1953</field>
+<field name="date">1953-54</field>
+<field name="pages">25</field>
+<field name="keywords">English language</field>
+<field name="keywords">Spelling</field>
+<field name="keywords">Writing</field>
+<field name="publisher">Wichita (Kansas) Public Schools</field>
+<field name="pub_place">Wichita, KS</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .W63t v. 3</field>
+<field name="state_country">Kansas</field>
+<field name="grade_level_number">5th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Wichita (Kansas) Public Schools</field>
+<field name="title">Tentative guide in communication for sixth year teachers</field>
+<field name="year">1954</field>
+<field name="date">1954-55</field>
+<field name="pages">26</field>
+<field name="keywords">English language</field>
+<field name="keywords">Spelling</field>
+<field name="keywords">Writing</field>
+<field name="publisher">Wichita (Kansas) Public Schools</field>
+<field name="pub_place">Wichita, KS</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .W63t v. 4</field>
+<field name="state_country">Kansas</field>
+<field name="grade_level_number">6th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Wilmington (Delaware) Public Schools</field>
+<field name="title">English: a guide to instruction: grades 7-12 (tentative)</field>
+<field name="year">1964</field>
+<field name="date">1964</field>
+<field name="keywords">English language</field>
+<field name="publisher">Wilmington (Delaware) Public Schools</field>
+<field name="pub_place">Wilmington, DE</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .W74e</field>
+<field name="state_country">Delaware</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Wisconsin Cooperative Educational Planning Program</field>
+<field name="title">Basic considerations in a functional speech program</field>
+<field name="year">1948</field>
+<field name="date">10/1948</field>
+<field name="pages">38</field>
+<field name="keywords">Speech</field>
+<field name="notes">38 pages : illustrations ; 23 cm.; Note(s): Cover title./ "Publication of this
+pamphlet was authorized by the Curriculum Guiding Committee of the Wisconsin Cooperative Educational
+Planning Program"--T.p. verso./ "October, 1948."</field>
+<field name="series_title">Wisconsin Cooperative Educational Planning Program. Curriculum
+bulletin</field>
+<field name="series_vol">18</field>
+<field name="issue">4</field>
+<field name="publisher">Wisconsin State Superintendent</field>
+<field name="pub_place">Madison, WI</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .W81b</field>
+<field name="state_country">Wisconsin </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Wisconsin Cooperative Educational Planning Program</field>
+<field name="title">Underlying principles and implementations</field>
+<field name="year">1948</field>
+<field name="date">09/1948</field>
+<field name="pages">38</field>
+<field name="keywords">Curricula</field>
+<field name="keywords">English language</field>
+<field name="notes">ill. ; 23 cm.; Note(s): Cover title./ "September, 1948."</field>
+<field name="series_title">Curriculum bulletin (Wisconsin Cooperative Educational Planning Program)
+;; no. 16.; Language arts bulletin (Wisconsin Cooperative Educational Planning Program) ;; no.
+2.</field>
+<field name="publisher">Wisconsin Cooperative Educational Planning Program</field>
+<field name="pub_place">Madison, WI</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .W81u</field>
+<field name="state_country">Wisconsin </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Wisconsin State Department of Public Instruction</field>
+<field name="title">English language arts in Wisconsin : a sequential growth curriculum in English
+language arts for the kindergarten through grade twelve</field>
+<field name="year">1968</field>
+<field name="date">01/1968</field>
+<field name="pages">449</field>
+<field name="keywords">Curriculum planning</field>
+<field name="keywords">Language arts</field>
+<field name="notes">ix; ill. ; 28 cm.; Note(s): Includes bibliographical references and index.;
+Responsibility: prepared by Wisconsin teachers for the children and youth of Wisconsin as an
+activity of the Wisconsin Language Arts Curriculum Project.</field>
+<field name="publisher">Wisconsin State Department of Public Instruction</field>
+<field name="pub_place">Madison, WI</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .W81e v. 1</field>
+<field name="state_country">Wisconsin </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Wisconsin State Department of Public Instruction</field>
+<field name="title">Teaching, speaking and writing in Wisconsin</field>
+<field name="year">1966</field>
+<field name="date">1966</field>
+<field name="pages">150</field>
+<field name="keywords">Speech</field>
+<field name="keywords">Language arts</field>
+<field name="keywords">English language</field>
+<field name="notes">vi; ges : illustrations ; 28 cm; Note(s): "A sequential growth curriculum in
+speaking and writing activities from the kindergarten through grade twelve."/ "January 1966."/
+Includes bibliographical references (pages 120-126).; Responsibility: prepared by Wisconsin teachers
+for the children and youth of Wisconsin as an activity of the Wisconsin English-Language-Arts
+Curriculum Project.</field>
+<field name="edition">Experimental</field>
+<field name="publisher">Wisconsin State Department of Public Instruction</field>
+<field name="pub_place">Madison, WI</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .W81e v. 3</field>
+<field name="state_country">Wisconsin </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Wisconsin State Department of Public Instruction</field>
+<field name="title">Teaching literature in Wisconsin : a sequential growth curriculum in experiences
+with literature from the kindergarten through grade twelve. Experimental ed.</field>
+<field name="year">1965</field>
+<field name="date">1965</field>
+<field name="pages">155</field>
+<field name="keywords">Literature</field>
+<field name="keywords">Language arts</field>
+<field name="keywords">Curricula</field>
+<field name="notes">iv; ; 28 cm.; Note(s): Includes bibliographical references (p. 155).;
+Responsibility: prepared by Wisconsin teachers for the children and youth of Wisconsin as an
+activity of the Wisconsin English-Language-Arts Curriculum Project.</field>
+<field name="publisher">Wisconsin State Department of Public Instruction</field>
+<field name="pub_place">Madison, WI</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .W81e v. 2</field>
+<field name="state_country">Wisconsin </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Hoffman, Harry H.</field><field name="author_nat">Harry H. Hoffman</field>
+<field name="title">English teaching today : an investigation of the preparation of high-school
+English teachers of the North Central Association of Colleges and Secondary Schools</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="pages">160</field>
+<field name="keywords">Literature</field>
+<field name="keywords">English teachers</field>
+<field name="keywords">Teacher training</field>
+<field name="notes">ix; ; 28 cm.; Note(s): Originally presented as the author's thesis (Ed.
+D.)--University of Wyoming, 1955./ Includes bibliographical references (p. [142]-148).;
+Responsibility: by Harry H. Hoffman ; edited by Edna L. Furness.</field>
+<field name="publisher">Curriculum and Research Center, College of Education, University of
+Wyoming</field>
+<field name="pub_place">Laramie, WY</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .W98e </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Kunz, Linda Ann</field><field name="author_nat">Linda Ann Kunz</field>
+<field name="author">Viscount, Robert R.</field><field name="author_nat">Robert R. Viscount</field>
+<field name="title">Write me a ream : a course in controlled composition</field>
+<field name="year">1973</field>
+<field name="date">1973</field>
+<field name="pages">62</field>
+<field name="keywords">English language</field>
+<field name="keywords">Composition and exercises</field>
+<field name="notes">62 p. ; 21 cm.; Responsibility: by Linda Ann Kunz and Robert R.
+Viscount.</field>
+<field name="publisher">Teacher's College Press</field>
+<field name="pub_place">New York, NY</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .W94k </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Wyoming State Department of Education</field>
+<field name="title">English and the language arts : a curriculum guide for grades K-12</field>
+<field name="year">1965</field>
+<field name="date">01/1965</field>
+<field name="pages">152</field>
+<field name="keywords">Language arts</field>
+<field name="keywords">English language</field>
+<field name="notes">152 pages ; 28 cm; Note(s): Cover title: English curriculum guide.; Other
+Titles: English curriculum guide.; Responsibility: [Wyoming Education Dept.].</field>
+<field name="publisher">Wyoming State Department of Education</field>
+<field name="pub_place">Cheyenne, WY</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .W96c</field>
+<field name="state_country">Wyoming </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Yolo County (California) Superintendent of Schools</field>
+<field name="title">Communicative arts: course of study for the elementary schools of Yolo
+County</field>
+<field name="keywords">Language arts</field>
+<field name="publisher">Yolo County (California) Superintendent of Schools</field>
+<field name="pub_place">Woodland, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .Y54c</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Yolo County (California) Superintendent of Schools</field>
+<field name="title">Language arts: course of study and teachers guide for Yolo County for primary
+grades</field>
+<field name="year">1959</field>
+<field name="date">1959</field>
+<field name="pages">76</field>
+<field name="keywords">Language arts</field>
+<field name="publisher">Yolo County (California) Superintendent of Schools</field>
+<field name="pub_place">Woodland, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .Y54L v. 1</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Yolo County (California) Superintendent of Schools</field>
+<field name="title">Language arts: course of study and teachers guide for Yolo County for
+intermediate grades</field>
+<field name="year">1960</field>
+<field name="date">1960</field>
+<field name="pages">74</field>
+<field name="keywords">Language arts</field>
+<field name="publisher">Yolo County (California) Superintendent of Schools</field>
+<field name="pub_place">Woodland, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .Y54L v. 2</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary</field>
+<field name="grade_level_group">Middle school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Yolo County (California) Superintendent of Schools</field>
+<field name="title">Language arts: course of study and teachers guide for Yolo County for upper
+grades</field>
+<field name="year">1960</field>
+<field name="date">1960</field>
+<field name="pages">87</field>
+<field name="keywords">Language arts</field>
+<field name="publisher">Yolo County (California) Superintendent of Schools</field>
+<field name="pub_place">Woodland, CA</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .Y54L v. 3</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Middle school </field>
+</doc>
+
+</add>

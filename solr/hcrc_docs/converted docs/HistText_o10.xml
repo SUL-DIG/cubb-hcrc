@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+
+    
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Project Social Studies Curriculum Development Center</field>
+        <field name="title">Intergroup relations : resource unit</field>
+        <field name="keywords">Social sciences</field>
+        <field name="keywords">Sociology</field>
+        <field name="year">1968</field>
+        <field name="date">1968</field>
+        <field name="publisher">University of Minnesota</field>
+        <field name="pub_place">Minneapolis, MN</field>
+        <field name="pages">143</field>
+        <field name="language">English</field>
+        <field name="call_number">371.33 .M661m v. 7</field>
+        <field name="notes">143 p. ; 22 x 28 cm.; Note(s): "These materials were developed by the
+            Project Social Studies Curriculum Center of the University of Minnesota under a special contract
+            with the Cooperative Reserarch Division of the United States Office of Education, effective prior to
+            July 14, 1965 (Project HS-045)."</field>
+        <field name="state_country">Minnesota</field>
+    </doc>
+    
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">University of the State of New York</field>
+        <field name="title">Intergroup relations: a resource handbook for 12th grade social studies</field>
+        <field name="series_title">Intergroup relations</field>
+        <field name="keywords">Intergroup relations</field>
+        <field name="keywords">Social sciences</field>
+        <field name="year">1965</field>
+        <field name="date">1965</field>
+        <field name="publisher">University of the State of New York/State Education Department</field>
+        <field name="pub_place">Albany, NY</field>
+        <field name="pages">56</field>
+        <field name="call_number">323 .N531i v. 3</field>
+        <field name="state_country">New York</field>
+        <field name="grade_level_number">12th grade</field>
+    </doc>
+    
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">University of the State of New York</field>
+        <field name="title">Intergroup relations: a resource handbook for elementary school teachers, grades
+            4, 5 and 6</field>
+        <field name="keywords">Minorities</field>
+        <field name="year">1963</field>
+        <field name="date">1963</field>
+        <field name="publisher">University of the State of New York, State Education Department</field>
+        <field name="pub_place">Albany, NY</field>
+        <field name="pages">48</field>
+        <field name="call_number">323 .N531i v. 2</field>
+        <field name="state_country">New York</field>
+        <field name="grade_level_number">4th grade</field>
+        <field name="grade_level_number">5th grade</field>
+        <field name="grade_level_number">6th grade</field>
+    </doc>
+    
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Morehouse, Ward</field><field name="author_nat">Ward Morehouse</field>
+        <field name="title">The international dimensions of education in New York State : guidelines for the
+            development of foreign area studies in New York schools and colleges and for strEnglishthening the
+            role in international education of the State Education department</field>
+        <field name="keywords">Area studies</field>
+        <field name="keywords">International education</field>
+        <field name="year">1963</field>
+        <field name="date">1963</field>
+        <field name="publisher">University of the State of New York</field>
+        <field name="pub_place">Albany, NY</field>
+        <field name="pages">48</field>
+        <field name="language">English</field>
+        <field name="call_number">327 .N532f v. 1</field>
+        <field name="notes">vii; ill. ; 22 cm.; Note(s): "May 1, 1963"--Letter of transmittal./
+            Includes bibliographical references.; General Info: Continued in 1963 by: The challEnglishe of a
+            revolutionary world (University of the State of New York).; Responsibility: by Ward
+            Morehouse.</field>
+        <field name="state_country">New York</field>
+    </doc>
+    
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">U.S. National Commission for UNESCO</field>
+        <field name="title">International education year</field>
+        <field name="keywords">Unesco</field>
+        <field name="year">1970</field>
+        <field name="date">1970</field>
+        <field name="publisher">U.S. National Commission for UNESCO</field>
+        <field name="pub_place">Washington, DC</field>
+        <field name="pages">36</field>
+        <field name="call_number">327 .U69i</field>
+        <field name="notes">Memo. Special Issue.</field>
+    </doc>
+    
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Portland (Oregon) Public Schools</field>
+        <field name="title">International relations: problems course, teachers' guide</field>
+        <field name="keywords">International relations</field>
+        <field name="year">1962</field>
+        <field name="date">1962</field>
+        <field name="publisher">Portland (Oregon) Public Schools</field>
+        <field name="pub_place">Portland, OR</field>
+        <field name="pages">76</field>
+        <field name="call_number">327 .P85i v. 1</field>
+        <field name="state_country">Oregon</field>
+    </doc>
+    
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">La Marque (Texas) Independent School District</field>
+        <field name="title">Interpreting, adminstering and reporting standardized test results</field>
+        <field name="keywords">Educational tests and measurements</field>
+        <field name="year">1963</field>
+        <field name="date">1963</field>
+        <field name="publisher">La Marque (Texas) Independent School District</field>
+        <field name="pub_place">La Marque, TX</field>
+        <field name="pages">13</field>
+        <field name="call_number">371.45 .L21i</field>
+        <field name="state_country">Texas</field>
+    </doc>
+    
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">New York (New York) Department of Education</field>
+        <field name="title">Interviewing Puerto Rican parents and children in Spanish; a guide for school
+            personnel</field>
+        <field name="keywords">Puerto Ricans</field>
+        <field name="keywords">Spanish language</field>
+        <field name="keywords">English language</field>
+        <field name="date">1950s</field>
+        <field name="publisher">Board of Education of the City of New York</field>
+        <field name="pub_place">New York, NY</field>
+        <field name="pages">10</field>
+        <field name="language">English</field>
+        <field name="call_number">370.21 .N55i</field>
+        <field name="notes">iv; 29 cm.</field>
+        <field name="state_country">New York</field>
+    </doc>
+</add>

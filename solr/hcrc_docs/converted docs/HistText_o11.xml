@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+    
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Shoreline (Washington) School District</field>
+        <field name="title">An interdisciplinary outdoor education program</field>
+        <field name="keywords">Outdoor education</field>
+        <field name="year">1966</field>
+        <field name="date">1966</field>
+        <field name="publisher">Shoreline (Washington) School District</field>
+        <field name="pub_place">Seattle, WA</field>
+        <field name="pages">446</field>
+        <field name="language">English</field>
+        <field name="call_number">371.84 .S559i</field>
+        <field name="notes">iii; ill. ; 28 cm.; Note(s): Includes bibliographical references.;
+            Responsibility: by Shoreline School District No. 412.</field>
+        <field name="state_country">Washington</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Berkeley (California) Unified School District</field>
+        <field name="title">Intergroup in-service guide</field>
+        <field name="keywords">Minorities</field>
+        <field name="keywords">Race relations</field>
+        <field name="keywords">Multicultural education</field>
+        <field name="year">1967</field>
+        <field name="date">09/1967</field>
+        <field name="publisher">Berkeley (California) Unified School District</field>
+        <field name="pub_place">Berkeley, CA</field>
+        <field name="pages">102</field>
+        <field name="language">English</field>
+        <field name="call_number">323 .B51i</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">University of the State of New York</field>
+        <field name="title">Intergroup relations : a resource handbook for elementary school
+            teachers, grades K-3</field>
+        <field name="keywords">Minorities</field>
+        <field name="year">1967</field>
+        <field name="date">1967</field>
+        <field name="publisher">University of the State of New York, State Education Dept</field>
+        <field name="pub_place">Albany, N.Y</field>
+        <field name="pages">40</field>
+        <field name="language">English</field>
+        <field name="call_number">323 .N531i v. 1</field>
+        <field name="notes">ill. ; 28 cm.; Note(s): Includes bibliographical references (p.
+            28-40).</field>
+        <field name="state_country">New York</field>
+        <field name="grade_level_group">Elementary</field>
+    </doc>
+</add>

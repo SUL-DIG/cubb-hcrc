@@ -1,0 +1,1018 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="type">Book</field>
+<field name="author">Hammerman, Donald R.</field><field name="author_nat">Donald R. Hammerman</field>
+<field name="author">Weirick, Robert</field><field name="author_nat">Robert Weirick</field>
+<field name="author">Sheriff, Marion</field><field name="author_nat">Marion Sheriff</field>
+<field name="author">Bowden, Kenneth</field><field name="author_nat">Kenneth Bowden</field>
+<field name="title">Outdoor education : a handbook for teachers</field>
+<field name="date">1960s</field>
+<field name="pages">15</field>
+<field name="keywords">Outdoor education</field>
+<field name="notes">15 leaves ; 28 cm.; Note(s): Caption title./ Includes bibliographical references
+(leaf 14).; Responsibility: compiled and edited by Donald R. Hammerman ... [et al.].</field>
+<field name="series_title">Educational bulletin service</field>
+<field name="publisher">Northern Illinois University</field>
+<field name="pub_place">DeKalb, IL</field>
+<field name="language">English</field>
+<field name="call_number">519 .I29o </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Illinois State Office of the Superintendent of Instruction. Illinois
+Curriculum Program</field>
+<field name="title">Strengthening science teaching in elementary schools</field>
+<field name="year">1960</field>
+<field name="date">1960</field>
+<field name="pages">184</field>
+<field name="keywords">Science</field>
+<field name="notes">vii; illus. 26 cm.; Note(s): Includes bibliographical references.</field>
+<field name="series_title">Illinois Curriculum Program. Subject field series; bulletin</field>
+<field name="series_vol">C-3</field>
+<field name="publisher">Illinois Curriculum Program</field>
+<field name="pub_place">Springfield, IL</field>
+<field name="language">English</field>
+<field name="call_number">519 .I291s</field>
+<field name="state_country">Illinois</field>
+<field name="grade_level_group">Elementary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Indiana University. Audio-Visual Center</field>
+<field name="title">Films for college: biological and physical sciences</field>
+<field name="year">1962</field>
+<field name="date">1962</field>
+<field name="pages">158</field>
+<field name="keywords">Science</field>
+<field name="keywords">Biology</field>
+<field name="series_title">Indiana University. Audio-Visual Center. Bulletin</field>
+<field name="series_vol">5</field>
+<field name="issue">16</field>
+<field name="publisher">Indiana University. Audio-Visual Center</field>
+<field name="pub_place">Bloomington, IN</field>
+<field name="language">English</field>
+<field name="call_number">519 .I381f</field>
+<field name="state_country">Indiana</field>
+<field name="grade_level_group">Postsecondary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Illinois State Office of the Superintendent of Instruction</field>
+<field name="title">Handbook for elementary science workshops</field>
+<field name="year">1960</field>
+<field name="date">1960?</field>
+<field name="pages">507</field>
+<field name="keywords">Science</field>
+<field name="publisher">Illinois State Office of the Superintendent of Instruction</field>
+<field name="language">English</field>
+<field name="call_number">519 .I291h</field>
+<field name="state_country">Illinois</field>
+<field name="grade_level_group">Elementary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Iowa State Department of Public Instruction</field>
+<field name="title">Science for Iowa schools : grades 4-6</field>
+<field name="year">1968</field>
+<field name="date">1968</field>
+<field name="pages">129</field>
+<field name="keywords">Science</field>
+<field name="notes">vii; ges : illustrations ; 28 cm; Note(s): "Writing team: Karl Nice, Alan B.
+Swanson, Robert James."; Responsibility: State of Iowa, Department of Public Instruction.</field>
+<field name="publisher">Iowa State Department of Public Instruction</field>
+<field name="pub_place">Des Moines, IA</field>
+<field name="language">English</field>
+<field name="call_number">519 .I62s</field>
+<field name="state_country">Iowa</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Kansas City (Missouri) Public Schools</field>
+<field name="title">Curriculum guide for seventh and eight grade general science (Junior high
+school)</field>
+<field name="year">1960</field>
+<field name="date">06/1960</field>
+<field name="pages">86</field>
+<field name="keywords">Science</field>
+<field name="series_title">Kansas City (Missouri) Public Schools. Secondary curriculum
+bulletin</field>
+<field name="series_vol">118</field>
+<field name="publisher">Kansas City (Missouri) Public Schools</field>
+<field name="pub_place">Kansas City, MO</field>
+<field name="language">English</field>
+<field name="call_number">519 .K15c</field>
+<field name="state_country">Kansas</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Yager, Robert Eugene</field><field name="author_nat">Robert Eugene Yager</field>
+<field name="title">The secondary science program</field>
+<field name="year">1961</field>
+<field name="date">05/1961</field>
+<field name="keywords">Science</field>
+<field name="keywords">Curricula</field>
+<field name="notes">28 cm.; Note(s): On cover: Secondary science curriculum./ "May 1961."; Other
+Titles: Secondary science curriculum; Responsibility: edited by Robert E. Yeager.</field>
+<field name="publisher">University High School, State University of Iowa</field>
+<field name="pub_place">Iowa City, IA</field>
+<field name="language">English</field>
+<field name="call_number">519 .I64s</field>
+<field name="state_country">Iowa</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Jefferson County (Colorado) Schools</field>
+<field name="title">Science instructional guide, grade 7, 1960-1961</field>
+<field name="year">1960</field>
+<field name="date">1960-1961</field>
+<field name="keywords">Science</field>
+<field name="notes">1 v. (various pagings)</field>
+<field name="publisher">Jefferson County (Colorado) Schools</field>
+<field name="pub_place">Lakewood, CO</field>
+<field name="language">English</field>
+<field name="call_number">519 .J45s v. 1</field>
+<field name="state_country">Colorado</field>
+<field name="grade_level_number">7th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Jefferson County (Colorado) Schools</field>
+<field name="title">Science instructional guide, grade 8, 1961-1962</field>
+<field name="year">1961</field>
+<field name="date">1961-1962</field>
+<field name="keywords">Science</field>
+<field name="notes">1 v. (various pagings)</field>
+<field name="publisher">Jefferson County (Colorado) Schools</field>
+<field name="pub_place">Lakewood, CO</field>
+<field name="language">English</field>
+<field name="call_number">519 .J45s v. 2</field>
+<field name="state_country">Colorado</field>
+<field name="grade_level_number">8th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Jefferson County (Colorado) Schools</field>
+<field name="title">Science instructional guide, grade 9, 1960-1961</field>
+<field name="year">1960</field>
+<field name="date">1960-1961</field>
+<field name="keywords">Science</field>
+<field name="notes">1 v. (various pagings)</field>
+<field name="publisher">Jefferson County (Colorado) Schools</field>
+<field name="pub_place">Lakewood, CO</field>
+<field name="language">English</field>
+<field name="call_number">519 .J45s v. 3</field>
+<field name="state_country">Colorado</field>
+<field name="grade_level_number">9th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Kentucky Department of Education</field>
+<field name="title">In-service conferences for the improvement of science instruction; a teacher
+education program</field>
+<field name="year">1957</field>
+<field name="date">11/1957</field>
+<field name="keywords">Science</field>
+<field name="notes">657-746 p. illus. 23 cm.; Note(s): Cover title.</field>
+<field name="series_title">Kentucky Department of Education. Educational bulletin</field>
+<field name="series_vol">25</field>
+<field name="issue">11</field>
+<field name="publisher">Kentucky Department of Education</field>
+<field name="pub_place">Frankfort, KY</field>
+<field name="language">English</field>
+<field name="call_number">519 .K37i</field>
+<field name="state_country">Kentucky </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Kentucky State Department of Education</field>
+<field name="title">Science in Kentucky</field>
+<field name="year">1969</field>
+<field name="date">1969</field>
+<field name="pages">82</field>
+<field name="keywords">Science</field>
+<field name="notes">iv; 23 cm.; Note(s): Includes bibliographical references.</field>
+<field name="series_title">New directions, new dimensions</field>
+<field name="publisher">Office of Curriculum Development, Kentucky Department of Education</field>
+<field name="pub_place">Frankfort, KY</field>
+<field name="language">English</field>
+<field name="call_number">519 .K37n</field>
+<field name="state_country">Kentucky </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Trewet, John</field><field name="author_nat">John Trewet</field>
+<field name="corp_author">Kern County (California) Superintendent of Schools</field>
+<field name="title">Reading in science</field>
+<field name="year">1960</field>
+<field name="date">08/1960</field>
+<field name="pages">5</field>
+<field name="keywords">Science</field>
+<field name="publisher">Kern County (California) Superintendent of Schools</field>
+<field name="pub_place">Bakersfield, CA</field>
+<field name="language">English</field>
+<field name="call_number">519 .K39r</field>
+<field name="state_country">California </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Kern County (California) Superintendent of Schools</field>
+<field name="title">First grade science activities correlated with basic social studies unit</field>
+<field name="pages">15</field>
+<field name="keywords">Science</field>
+<field name="keywords">Social sciences</field>
+<field name="series_title">Kern County (California) Superintendent of Schools. Social
+studies-science bulletin</field>
+<field name="series_vol">15</field>
+<field name="publisher">Kern County (California) Superintendent of Schools</field>
+<field name="pub_place">Bakersfield, CA</field>
+<field name="language">English</field>
+<field name="call_number">519 .K39s v. 1</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">1st grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Kern County (California) Superintendent of Schools</field>
+<field name="title">Science experiences for the second grade</field>
+<field name="pages">13</field>
+<field name="keywords">Science</field>
+<field name="keywords">Social sciences</field>
+<field name="series_title">Kern County (California) Superintendent of Schools. Social
+studies-science bulletin</field>
+<field name="series_vol">16</field>
+<field name="publisher">Kern County (California) Superintendent of Schools</field>
+<field name="pub_place">Bakersfield, CA</field>
+<field name="language">English</field>
+<field name="call_number">519 .K39s v. 2</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">2nd grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Kern County (California) Superintendent of Schools</field>
+<field name="title">Science experiences for the third grade</field>
+<field name="pages">27</field>
+<field name="keywords">Science</field>
+<field name="keywords">Social sciences</field>
+<field name="series_title">Kern County (California) Superintendent of Schools. Social
+studies-science bulletin</field>
+<field name="series_vol">17</field>
+<field name="publisher">Kern County (California) Superintendent of Schools</field>
+<field name="pub_place">Bakersfield, CA</field>
+<field name="language">English</field>
+<field name="call_number">519 .K39s v. 3</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">3rd grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Kern County (California) Superintendent of Schools</field>
+<field name="title">Science experiences for the fourth grade</field>
+<field name="pages">15</field>
+<field name="keywords">Science</field>
+<field name="keywords">Social sciences</field>
+<field name="series_title">Kern County (California) Superintendent of Schools. Social
+studies-science bulletin</field>
+<field name="series_vol">18</field>
+<field name="publisher">Kern County (California) Superintendent of Schools</field>
+<field name="pub_place">Bakersfield, CA</field>
+<field name="language">English</field>
+<field name="call_number">519 .K39s v. 4</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">4th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Kern County (California) Superintendent of Schools</field>
+<field name="title">Science experiences for the sixth grade</field>
+<field name="pages">7</field>
+<field name="keywords">Science</field>
+<field name="keywords">Social sciences</field>
+<field name="series_title">Kern County (California) Superintendent of Schools. Social
+studies-science bulletin</field>
+<field name="series_vol">19</field>
+<field name="publisher">Kern County (California) Superintendent of Schools</field>
+<field name="pub_place">Bakersfield, CA</field>
+<field name="language">English</field>
+<field name="call_number">519 .K39s v. 6</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">6th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Kern County (California) Superintendent of Schools</field>
+<field name="title">Grade vii science</field>
+<field name="pages">16</field>
+<field name="keywords">Science</field>
+<field name="keywords">Social sciences</field>
+<field name="series_title">Kern County (California) Superintendent of Schools. Social
+studies-science bulletin</field>
+<field name="series_vol">20</field>
+<field name="publisher">Kern County (California) Superintendent of Schools</field>
+<field name="pub_place">Bakersfield, CA</field>
+<field name="language">English</field>
+<field name="call_number">519 .K39s v. 7</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">7th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Kem Tech Furniture</field>
+<field name="title">Science furniture</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="pages">27</field>
+<field name="keywords">Science</field>
+<field name="publisher">Kewaunee Mfg.</field>
+<field name="pub_place">Adrian, MI</field>
+<field name="language">English</field>
+<field name="call_number">519 .K44k </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Lake Charles (Louisiana) City Schools</field>
+<field name="title">A guide for teaching elementary school science</field>
+<field name="keywords">Science</field>
+<field name="publisher">Lake Charles (Louisiana) City Schools</field>
+<field name="pub_place">Lake Charles, LA</field>
+<field name="language">English</field>
+<field name="call_number">519 .L18g</field>
+<field name="state_country">Louisiana</field>
+<field name="grade_level_group">Elementary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Lakewood (Ohio) Public Schools</field>
+<field name="title">A comprehensive outline of content and materials to assist in teaching science
+in the elementary schools: primary grades</field>
+<field name="year">1956</field>
+<field name="date">1956-1957</field>
+<field name="pages">108</field>
+<field name="keywords">Science</field>
+<field name="publisher">Lakewood (Ohio) Public Schools</field>
+<field name="pub_place">Lakewood, OH</field>
+<field name="language">English</field>
+<field name="call_number">519 .L19s v. 1</field>
+<field name="state_country">Ohio</field>
+<field name="grade_level_number">Kindergarten</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Lakewood (Ohio) Public Schools</field>
+<field name="title">A comprehensive outline of content and materials to assist in teaching science
+in the elementary schools: upper grades</field>
+<field name="year">1956</field>
+<field name="date">1956-1957</field>
+<field name="pages">78</field>
+<field name="keywords">Science</field>
+<field name="publisher">Lakewood (Ohio) Public Schools</field>
+<field name="pub_place">Lakewood, OH</field>
+<field name="language">English</field>
+<field name="call_number">519 .L19s v. 2</field>
+<field name="state_country">Ohio</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Lakewood (Ohio) Public Schools</field>
+<field name="title">Teaching guide for science: fourth grade level</field>
+<field name="year">1960</field>
+<field name="date">1960-1961</field>
+<field name="pages">191</field>
+<field name="keywords">Science</field>
+<field name="publisher">Lakewood (Ohio) Public Schools</field>
+<field name="pub_place">Lakewood, OH</field>
+<field name="language">English</field>
+<field name="call_number">519 .L19s 1960</field>
+<field name="state_country">Ohio</field>
+<field name="grade_level_number">4th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">La Marque (Texas) Independent School District</field>
+<field name="title">Elementary science guide: grade six</field>
+<field name="year">1957</field>
+<field name="date">1957</field>
+<field name="pages">83</field>
+<field name="keywords">Science</field>
+<field name="publisher">La Marque (Texas) Independent School District</field>
+<field name="pub_place">La Marque, TX</field>
+<field name="language">English</field>
+<field name="call_number">519 .L21e</field>
+<field name="state_country">Texas</field>
+<field name="grade_level_number">6th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">La Marque (Texas) Independent School District</field>
+<field name="title">Science guide, book I, grades nine-twelve</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="pages">279</field>
+<field name="keywords">Science</field>
+<field name="notes">[viii], 279 leaves ; 28 cm.; Note(s): "July, 1956."/ Includes bibliographical
+references.; Responsibility: La Marque Independent School District.</field>
+<field name="publisher">La Marque (Texas) Independent School District</field>
+<field name="pub_place">La Marque, TX</field>
+<field name="language">English</field>
+<field name="call_number">519 .L21s v. 1</field>
+<field name="grade_level_number">9th grade</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">La Marque (Texas) Independent School District</field>
+<field name="title">Supplement to high school science guide: general science</field>
+<field name="year">1957</field>
+<field name="date">1957</field>
+<field name="keywords">Science</field>
+<field name="publisher">La Marque (Texas) Independent School District</field>
+<field name="pub_place">La Marque, TX</field>
+<field name="language">English</field>
+<field name="call_number">519 .L21s v. 2</field>
+<field name="grade_level_number">9th grade</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">La Marque (Texas) Independent School District</field>
+<field name="title">Supplement to high school science guide: chemistry</field>
+<field name="year">1957</field>
+<field name="date">1957</field>
+<field name="keywords">Science</field>
+<field name="keywords">Chemistry</field>
+<field name="publisher">La Marque (Texas) Independent School District</field>
+<field name="pub_place">La Marque, TX</field>
+<field name="language">English</field>
+<field name="call_number">519 .L21s v. 3</field>
+<field name="grade_level_number">9th grade</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">La Marque (Texas) Independent School District</field>
+<field name="title">Supplement to high school science guide: physics</field>
+<field name="year">1957</field>
+<field name="date">1957</field>
+<field name="keywords">Science</field>
+<field name="keywords">Chemistry</field>
+<field name="publisher">La Marque (Texas) Independent School District</field>
+<field name="pub_place">La Marque, TX</field>
+<field name="language">English</field>
+<field name="call_number">519 .L21s v. 4</field>
+<field name="grade_level_number">9th grade</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Lassen County (California) Superintendent of Schools</field>
+<field name="title">Lassen County course of study: elementary science</field>
+<field name="year">1960</field>
+<field name="date">06/1960</field>
+<field name="pages">22</field>
+<field name="keywords">Science</field>
+<field name="publisher">Lassen County (California) Superintendent of Schools</field>
+<field name="pub_place">Susanville, CA</field>
+<field name="language">English</field>
+<field name="call_number">519 .L34e</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Lexington Public Schools</field>
+<field name="title">Report of the science committee</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="pages">26</field>
+<field name="keywords">Science</field>
+<field name="publisher">Lexington Public Schools</field>
+<field name="language">English</field>
+<field name="call_number">519 .L67r</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Lincoln Parish (Louisiana) Schools</field>
+<field name="title">Elementary science in Lincoln Parish Schools suggested units and
+experiments</field>
+<field name="keywords">Science</field>
+<field name="publisher">Lincoln Parish (Louisiana) Schools</field>
+<field name="language">English</field>
+<field name="call_number">519 .L73e</field>
+<field name="state_country">Louisiana</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+<field name="grade_level_number">7th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Lindbergh (Missouri) Elementary Schools</field>
+<field name="title">Science curriculum guide for Lindbergh Elementary Schools</field>
+<field name="keywords">Science</field>
+<field name="publisher">Lindbergh (Missouri) Elementary Schools</field>
+<field name="pub_place">Lindbergh, MO</field>
+<field name="language">English</field>
+<field name="call_number">519 .L75s</field>
+<field name="state_country">Missouri</field>
+<field name="grade_level_group">Elementary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Long Beach (California) City Schools</field>
+<field name="title">Guide to eighth grade general science</field>
+<field name="year">1962</field>
+<field name="date">1962</field>
+<field name="pages">106</field>
+<field name="keywords">Science</field>
+<field name="notes">106 p. charts.</field>
+<field name="publisher">Long Beach (California) City Schools</field>
+<field name="pub_place">Long Beach, CA</field>
+<field name="language">English</field>
+<field name="call_number">519 .L84g</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">8th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Long Beach (California) Unified School District</field>
+<field name="title">Guide for teaching science, grade 5</field>
+<field name="year">1970</field>
+<field name="date">1970</field>
+<field name="pages">31</field>
+<field name="keywords">Science</field>
+<field name="publisher">Long Beach (California) Unified School District</field>
+<field name="pub_place">Long Beach, CA</field>
+<field name="language">English</field>
+<field name="call_number">519 .L84gu v. 5</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">5th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Long Beach (California) Unified School District</field>
+<field name="title">Guide for teaching science, grade 6</field>
+<field name="year">1970</field>
+<field name="date">1970</field>
+<field name="pages">25</field>
+<field name="keywords">Science</field>
+<field name="publisher">Long Beach (California) Unified School District</field>
+<field name="pub_place">Long Beach, CA</field>
+<field name="language">English</field>
+<field name="call_number">519 .L84gu v. 6</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">6th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Long Beach (California) Unified School District</field>
+<field name="title">Guide for teaching science, grade 3</field>
+<field name="year">1969</field>
+<field name="date">1969</field>
+<field name="pages">17</field>
+<field name="keywords">Science</field>
+<field name="publisher">Long Beach (California) Unified School District</field>
+<field name="pub_place">Long Beach, CA</field>
+<field name="language">English</field>
+<field name="call_number">519 .L84gu v. 3</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">3rd grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Long Beach (California) Unified School District</field>
+<field name="title">Guide for teaching science, grade 2</field>
+<field name="year">1969</field>
+<field name="date">1969</field>
+<field name="pages">18</field>
+<field name="keywords">Science</field>
+<field name="publisher">Long Beach (California) Unified School District</field>
+<field name="pub_place">Long Beach, CA</field>
+<field name="language">English</field>
+<field name="call_number">519 .L84gu v. 2</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">2nd grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Long Beach (California) Unified School District</field>
+<field name="title">Guide for teaching science, grade 4</field>
+<field name="year">1969</field>
+<field name="date">1969</field>
+<field name="pages">20</field>
+<field name="keywords">Science</field>
+<field name="publisher">Long Beach (California) Unified School District</field>
+<field name="pub_place">Long Beach, CA</field>
+<field name="language">English</field>
+<field name="call_number">519 .L84gu v. 4</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">4th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Long Beach (California) Unified School District</field>
+<field name="title">Guide for teaching science, grade 1</field>
+<field name="year">1969</field>
+<field name="date">1969</field>
+<field name="pages">21</field>
+<field name="keywords">Science</field>
+<field name="publisher">Long Beach (California) Unified School District</field>
+<field name="pub_place">Long Beach, CA</field>
+<field name="language">English</field>
+<field name="call_number">519 .L84gu v. 1</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">1st grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Longview (Washington?) Public Schools</field>
+<field name="title">Teaching guide: science: kindergarten through junior college</field>
+<field name="year">1954</field>
+<field name="date">1954</field>
+<field name="pages">107</field>
+<field name="keywords">Science</field>
+<field name="publisher">Longview (Washington?) Public Schools</field>
+<field name="pub_place">Longview, WA?</field>
+<field name="language">English</field>
+<field name="call_number">519 .L85s</field>
+<field name="state_country">Washington </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City Schools</field>
+<field name="title">Audio-visual materials for science</field>
+<field name="year">1946</field>
+<field name="date">03/1946</field>
+<field name="pages">137</field>
+<field name="keywords">Audio-visual materials</field>
+<field name="keywords">Science</field>
+<field name="publisher">Los Angeles (California) City Schools</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="language">English</field>
+<field name="call_number">519 .L87a</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City School District</field>
+<field name="title">Elementary science guide : supplementing the Source book of materials for
+teaching science in the elementary schools : tentative</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="pages">57</field>
+<field name="keywords">Science</field>
+<field name="publisher">Los Angeles (California) City School District</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="language">English</field>
+<field name="call_number">519 .L87e</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City School District</field>
+<field name="title">Teacher's handbook for advanced physical science 2</field>
+<field name="year">1967</field>
+<field name="date">1967</field>
+<field name="pages">44</field>
+<field name="keywords">Science</field>
+<field name="keywords">Physics</field>
+<field name="keywords">Chemistry</field>
+<field name="series_title">Los Angeles (California) City School District. Publication</field>
+<field name="series_vol">SC-638</field>
+<field name="publisher">Los Angeles (California) City School District</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="language">English</field>
+<field name="call_number">519 .L87a 1967 v. 3</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City School District</field>
+<field name="title">Teacher's handbook for advanced physical science 1</field>
+<field name="year">1967</field>
+<field name="date">1967</field>
+<field name="pages">93</field>
+<field name="keywords">Science</field>
+<field name="keywords">Physics</field>
+<field name="keywords">Chemistry</field>
+<field name="series_title">Los Angeles (California) City School District. Publication</field>
+<field name="series_vol">SC-625</field>
+<field name="publisher">Los Angeles (California) City School District</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="language">English</field>
+<field name="call_number">519 .L87a 1967 v. 1</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City School District</field>
+<field name="title">Laboratory manual for advanced physical science 1</field>
+<field name="year">1967</field>
+<field name="date">1967</field>
+<field name="pages">99</field>
+<field name="keywords">Science</field>
+<field name="keywords">Physics</field>
+<field name="keywords">Chemistry</field>
+<field name="series_title">Los Angeles (California) City School District. Publication</field>
+<field name="series_vol">X-62</field>
+<field name="publisher">Los Angeles (California) City School District</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="language">English</field>
+<field name="call_number">519 .L87a 1967 v. 2</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City School District</field>
+<field name="title">Industry-education program in science and mathematics</field>
+<field name="year">1959</field>
+<field name="date">1959</field>
+<field name="pages">12</field>
+<field name="keywords">Science</field>
+<field name="keywords">Mathematics</field>
+<field name="notes">Page one missing</field>
+<field name="publisher">Los Angeles (California) City School District</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="language">English</field>
+<field name="call_number">519 .L87i</field>
+<field name="state_country">California </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City School District</field>
+<field name="title">Modern science: instructional guide for senior high school</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="pages">190</field>
+<field name="keywords">Science</field>
+<field name="series_title">Los Angeles (California) City School District. Publication</field>
+<field name="series_vol">SC-599</field>
+<field name="publisher">Los Angeles (California) City School District</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="language">English</field>
+<field name="call_number">519 .L87ig</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City School District</field>
+<field name="title">Outline course of study for general science: junior high school</field>
+<field name="year">1952</field>
+<field name="date">1952</field>
+<field name="pages">108</field>
+<field name="keywords">Science</field>
+<field name="series_title">Los Angeles (California) City School District. Publication</field>
+<field name="series_vol">SC-448</field>
+<field name="publisher">Los Angeles (California) City School District</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="language">English</field>
+<field name="call_number">519 .L87o</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Middle school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Chaffee, Everett</field><field name="author_nat">Everett Chaffee</field>
+<field name="corp_author">Los Angeles (California) City School District, Division of Instructional
+Services</field>
+<field name="title">Science and mathematics in the Los Angeles city schools; a report to the
+community</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="pages">32</field>
+<field name="keywords">Science</field>
+<field name="keywords">Mathematics</field>
+<field name="notes">32 p. ill.; rts.; Responsibility: [by Everett Chafee and Robert E.
+Kelly.</field>
+<field name="publisher">Los Angeles (California) City School District, Division of Instructional
+Services</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="language">English</field>
+<field name="call_number">519 .L87s</field>
+<field name="state_country">California </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City School District, Division of Instructional
+Services</field>
+<field name="title">Junior high school : science 1 and 2 : course of study. Science 1 - A8, science
+2 - B9 or A9</field>
+<field name="year">1967</field>
+<field name="date">1967</field>
+<field name="pages">60</field>
+<field name="keywords">Science</field>
+<field name="series_title">Los Angeles (California) City School District. Publication</field>
+<field name="series_vol">SC-632</field>
+<field name="publisher">Los Angeles (California) City School District, Division of Instructional
+Services</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="language">English</field>
+<field name="call_number">519 .L87sc</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Middle school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles County (California) Superintendent of Schools</field>
+<field name="title">Science books for use in the elementary school</field>
+<field name="year">1959</field>
+<field name="date">01/1959</field>
+<field name="pages">64</field>
+<field name="keywords">Science</field>
+<field name="publisher">Los Angeles County (California) Superintendent of Schools</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="language">English</field>
+<field name="call_number">519 .L871s v. 1</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles County (California) Superintendent of Schools</field>
+<field name="title">Science books for use in the elementary school</field>
+<field name="year">1961</field>
+<field name="date">01/1961</field>
+<field name="pages">44</field>
+<field name="keywords">Science</field>
+<field name="publisher">Los Angeles County (California) Superintendent of Schools</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="language">English</field>
+<field name="call_number">519 .L871s v. 2</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Nietos (California) School District</field>
+<field name="title">Science curriculum</field>
+<field name="year">1969</field>
+<field name="date">1969?</field>
+<field name="pages">60</field>
+<field name="keywords">Science</field>
+<field name="publisher">Los Nietos (California) School District</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="language">English</field>
+<field name="call_number">519 .L873s</field>
+<field name="state_country">California </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Nietos (California) Elementary School District</field>
+<field name="title">Science guide</field>
+<field name="year">1961</field>
+<field name="date">09/1961</field>
+<field name="pages">122</field>
+<field name="keywords">Science</field>
+<field name="publisher">Los Nietos (California) School District</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="language">English</field>
+<field name="call_number">519 .L873s</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Louisville (Kentucky) Public Schools. Division of Curriculum and
+Research</field>
+<field name="title">A source book of science experiences for elementary school children</field>
+<field name="year">1954</field>
+<field name="date">09/1954</field>
+<field name="keywords">Science</field>
+<field name="keywords">Science experiments</field>
+<field name="abstract">v. 1. Kindergarten and primary grades.--pt. 1. Weather and climate; the story
+of the earth; living things.--pt. 2. Health and nutrition; machines and how they help us; magnets
+and electricity; light and sound.--v.2. Intermediate grades.--pt. 1. Weather and climate; the story
+of the earth.--pt. 2. Light and sound; magnets and electricity; machines and how they help us.--pt.
+3. Living things; health and nutrition; matter and energy.</field>
+<field name="edition">Rev.</field>
+<field name="publisher">Louisville (Kentucky) Public Schools</field>
+<field name="pub_place">Louisville, KY</field>
+<field name="language">English</field>
+<field name="call_number">519 .L88s v. 1-5</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Lovington (New Mexico) Public Schools</field>
+<field name="title">Elementary science: experiences - experiments</field>
+<field name="year">1959</field>
+<field name="date">1959</field>
+<field name="pages">85</field>
+<field name="keywords">Science</field>
+<field name="keywords">Science experiments</field>
+<field name="publisher">Lovington (New Mexico) Public Schools</field>
+<field name="pub_place">Lovington, NM</field>
+<field name="language">English</field>
+<field name="call_number">519 .L91e</field>
+<field name="state_country">New Mexico</field>
+<field name="grade_level_group">Elementary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Lynwood (California) Unified School District</field>
+<field name="title">Course of study for science</field>
+<field name="year">1960</field>
+<field name="date">1960</field>
+<field name="pages">50</field>
+<field name="keywords">Science</field>
+<field name="publisher">Lynwood (California) Unified School District</field>
+<field name="pub_place">Lynwood, CA</field>
+<field name="language">English</field>
+<field name="call_number">519 .L98c</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+</add>

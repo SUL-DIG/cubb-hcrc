@@ -1,0 +1,1180 @@
+
+
+
+
+TY  - BOOK
+A2  - El Paso (Texas) Board of Education
+T1  - Guide to writing a high school social studies research paper
+Y1  - 1964
+D1  - 08/1964
+SP  - 13
+KW  - Report writing
+KW  - Social sciences
+N1  - 13, 13l ; 28 cm.; Note(s): Includes bibliographical references.
+PB  - El Paso (Texas) Board of Education
+CY  - El Paso, TX
+LA  - English
+CN  - 428.2 .E37g
+SC  - Texas
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Western Reserve University
+T1  - The curriculum of the Project English Demonstration Center at Euclid Central Junior High School
+Y1  - 1964
+D1  - 1964
+KW  - English language
+PB  - Western Reserve University
+CY  - Cleveland, OH
+LA  - English
+CN  - 428.2 .E86p v. 1
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Western Reserve University
+T1  - A unit on semantics: seventh grade curriculum
+Y1  - 1963
+D1  - 1963
+KW  - English language
+PB  - Western Reserve University
+CY  - Cleveland, OH
+LA  - English
+CN  - 428.2 .E86p v. 2
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A2  - Western Reserve University
+T1  - A unit on semantics: eighth grade curriculum
+Y1  - 1963
+D1  - 1963
+KW  - English language
+PB  - Western Reserve University
+CY  - Cleveland, OH
+LA  - English
+CN  - 428.2 .E86p v. 3
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Western Reserve University
+T1  - A unit on semantics: ninth grade curriculum
+Y1  - 1964
+D1  - 1964
+KW  - English language
+PB  - Western Reserve University
+CY  - Cleveland, OH
+LA  - English
+CN  - 428.2 .E86p v. 4
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Western Reserve University
+T1  - A unit on symbolism: ninth grade honors curriculum
+Y1  - 1964
+D1  - 1964
+KW  - English language
+PB  - Western Reserve University
+CY  - Cleveland, OH
+LA  - English
+CN  - 428.2 .E86p v. 5
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Florida State University. Curriculum Study Center in English
+T1  - General introduction to accompany materials sent to MLA-NCTE Institute Materials Center
+Y1  - 1965
+D1  - 01/1965
+SP  - 6
+KW  - English language
+PB  - Florida State University
+CY  - Tallahassee, FL
+LA  - English
+CN  - 428.2 .F636c v. 1
+ER  - 
+
+TY  - BOOK
+A2  - Florida State University. Curriculum Study Center in English
+T1  - Curriculum ii: introduction; man and nature; adolescents we learn about
+SP  - 63
+KW  - English language
+PB  - Florida State University
+CY  - Tallahassee, FL
+LA  - English
+CN  - 428.2 .F636c v. 2
+ER  - 
+
+TY  - BOOK
+A2  - Florida State University. Curriculum Study Center in English
+T1  - Curriculum iii: introduction; cognitive processes
+SP  - 44
+KW  - English language
+PB  - Florida State University
+CY  - Tallahassee, FL
+LA  - English
+CN  - 428.2 .F636c v. 3
+ER  - 
+
+TY  - BOOK
+A2  - Fountain Valley (California) School District
+T1  - Writing personal experiences, thoughts and reactions
+SP  - 15
+KW  - Writing
+PB  - Fountain Valley (California) School District
+CY  - Huntington Beach, CA
+LA  - English
+CN  - 428.2 .F77w
+SC  - California
+ER  - 
+ 
+TY  - BOOK
+A2  - Fresno (California) City Unified School District
+T1  - Instructional guide for teaching composition in junior high
+Y1  - 1956
+D1  - 05/1956
+SP  - 30
+KW  - Writing
+KW  - Composition and exercises
+PB  - Fresno (California) City Unified School District
+CY  - Fresno, CA
+LA  - English
+CN  - 428.2 .F88i
+SC  - California
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Fresno (California) City Unified School District
+T1  - Teacher's guide to child development in language, grades one through six
+Y1  - 1955
+D1  - 01/1955
+SP  - 40
+KW  - Language arts
+PB  - Fresno (California) City Unified School District
+CY  - Fresno, CA
+LA  - English
+CN  - 428.2 .F88L
+SC  - California
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Gallaudet College
+T1  - Exercises on syntax : for use with The Calculus of structure
+KW  - English language
+SP  - 61
+N1  - 61 p. ; 28 cm.
+PB  - Gallaudet College
+CY  - Washington, DC
+LA  - English
+CN  - 428.2 .G17e v. 2
+ER  - 
+
+TY  - BOOK
+A2  - Gallaudet College
+T1  - Exercises for use with A short guide to English writing
+KW  - English language
+SP  - 103
+PB  - Gallaudet College
+CY  - Washington, DC
+LA  - English
+CN  - 428.2 .G17e v. 3
+ER  - 
+
+TY  - BOOK
+A2  - Gallaudet College
+T1  - Exercises developed by the Gallaudet College English Curriculum Development Center
+SP  - 129
+KW  - English language
+KW  - Composition and exercises
+KW  - Generative grammar
+N1  - 129 p. 28 cm.; Note(s): "4A."
+PB  - Gallaudet College
+CY  - Washington, DC
+LA  - English
+CN  - 428.2 .G17e v. 1
+ER  - 
+
+TY  - BOOK
+A2  - Gary (Indiana) Public Schools
+T1  - Reading and language in the elementary school
+Y1  - 1962
+D1  - 1962
+SP  - 134
+KW  - Reading
+KW  - Language arts
+N1  - 134 leaves ; 28 cm.; Responsibility: by members of the supervisory, administrative, and teaching staff of the Gary Public Schools ...
+PB  - Gary (Indiana) Public Schools
+CY  - Gary, IN
+LA  - English
+CN  - 428.2 .G24r
+SC  - Indiana
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - University of Georgia. English Curriculum Study Center
+T1  - Teaching materials, K-6
+Y1  - 1966
+D1  - 1966
+SP  - 196
+KW  - English language
+PB  - University of Georgia
+CY  - Athens, GA
+LA  - English
+CN  - 428.2 G35t
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Gloucester (Massachusetts) Public Schools
+T1  - The language arts: student's guide, grades 7 - 8
+Y1  - 1956
+D1  - 1956
+SP  - 68
+KW  - Language arts
+PB  - Gloucester (Massachusetts) Public Schools
+CY  - Gloucester, MA
+LA  - English
+CN  - 428.2 .G56L v. 1
+SC  - Massachusetts
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Gloucester (Massachusetts) Public Schools
+T1  - The language arts: teacher's guide, grades one - twelve
+Y1  - 1956
+D1  - 1956
+SP  - 70
+KW  - Language arts
+PB  - Gloucester (Massachusetts) Public Schools
+CY  - Gloucester, MA
+LA  - English
+CN  - 428.2 .G56L v. 2
+SC  - Massachusetts
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Grand Rapids (Michigan) Public Schools
+T1  - Course of study in English
+Y1  - 1955
+D1  - 09/1955
+SP  - 56
+KW  - English language
+PB  - Grand Rapids (Michigan) Public Schools
+CY  - Grand Rapids, MI
+LA  - English
+CN  - 428.2 .G75c
+SC  - Michigan
+ER  - 
+
+TY  - BOOK
+A2  - Granite School District (Salt Lake County, Utah)
+T1  - How to write: a program of instruction in the development of writing skills for tenth grade students
+Y1  - 1961
+D1  - 07/1961
+SP  - 87
+KW  - Writing
+ED  - 3rd
+PB  - Granite School District
+CY  - Salt Lake City, Utah
+LA  - English language
+CN  - 428.2 .G75h v. 2
+SC  - Utah
+G2  - 10th
+ER  -
+
+TY  - BOOK
+A2  - Granite School District (Salt Lake County, Utah)
+T1  - Teacher's guide: scope and sequence in English, grades 7 - 12
+Y1  - 1959
+D1  - 01/1959
+SP  - 69
+KW  - English language
+ED  - Tentative
+PB  - Granite School District
+CY  - Salt Lake City, Utah
+LA  - English
+CN  - 428.2 .G75t
+SC  - Utah
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Granite School District (Salt Lake County, Utah)
+T1  - An English teacher's manual of unit lessons in language, grade 7-12
+Y1  - 1964
+D1  - 1964
+SP  - 474
+KW  - English language
+N1  - 474 p. ; 30 cm.
+PB  - Granite School District
+CY  - Salt Lake City, Utah
+LA  - English
+CN  - 428.2 .G75e
+SC  - Utah
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Greenwich (Connecticut) Public Schools
+T1  - Language arts, grades 1, 2, 3
+Y1  - 1965
+D1  - 1965
+SP  - 62
+KW  - Language arts
+PB  - Greenwich (Connecticut) Public Schools
+CY  - Greenwich, CT
+LA  - English
+CN  - 428.2 .G81L v. 1
+SC  - Connecticut
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - Greenwich (Connecticut) Public Schools
+T1  - A guide to the teaching of the language arts in grades 4, 5, and 6
+KW  - Language arts
+PB  - Greenwich (Connecticut) Public Schools
+CY  - Greenwich, CT
+LA  - English
+CN  - 428.2 .G81L v. 2
+SC  - Connecticut
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Hawaii State Division of Instruction
+T1  - Language arts guide for the secondary schools of Hawaii, grades 7-12
+Y1  - 1961
+D1  - 1961
+SP  - 78
+KW  - English language
+KW  - English literature
+N1  - viii; ill.; Note(s): On cover: Secondary language arts guide, Dept. of Education, State of Hawaii.; Other Titles: Secondary language arts guide
+PB  - Hawaii State Division of Instruction
+CY  - Honolulu, HI
+LA  - English
+CN  - 428.2 .H38s
+SC  - Hawaii
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Highline Public Schools (Seattle, Washington)
+T1  - Teaching the language arts in the elementary schools
+Y1  - 1952
+D1  - 1952
+SP  - 205
+KW  - Language arts
+PB  - Highline Public Schools
+CY  - Seattle, WA
+LA  - English
+CN  - 428.2 .H63t v. 1
+SC  - Washington
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Highline Public Schools (Seattle, Washington)
+T1  - Teaching the language arts in the secondary schools
+Y1  - 1952
+D1  - 1952
+SP  - 189
+KW  - Language arts
+PB  - Highline Public Schools
+CY  - Seattle, WA
+LA  - English
+CN  - 428.2 .H63t v. 2
+SC  - Washington
+G1  - High school
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Henry Holt
+T2  - Holt Service Bulletin
+T1  - Aids and ideas in teaching English
+Y1  - 1957
+D1  - 1957
+KW  - English language
+PB  - Henry Holt
+CY  - San Francisco, CA
+LA  - English
+CN  - 428.2 .H75a
+ER  - 
+
+TY  - BOOK
+A1  - Reeves, Ruth
+A2  - Houston (Texas) Independent School District
+T1  - Grammar and composition: grades 10, 11, and 12
+Y1  - 1957
+D1  - 1957?
+SP  - 47
+KW  - English language
+N1  - 47 p. 28 cm.; Responsibility: Prepared by Ruth Reeves.
+T2  - Curriculum bulletin; no. 56CBM53, item no. 34.110
+PB  - Houston (Texas) Independent School District
+CY  - Houston, TX
+LA  - English
+CN  - 428.2 .H84g
+SC  - Texas
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Illinois Association of Teachers of English. Committee on Teaching Aids
+T1  - Teaching aids in the English language arts, an annotated and critical list
+Y1  - 1963
+D1  - 02/1963
+KW  - Teaching aids
+KW  - Bibliography
+KW  - English language
+N1  - 111 p.; Note(s): Cover title.
+T2  - Illinois English Bulletin
+V1  - 50
+IS  - 5 
+ED  - Rev.
+PB  - Illinois Association of Teachers of English. Committee on Teaching Aids
+CY  - Urbana, IL
+LA  - English
+CN  - 428.2 .I29t
+SC  - Illinois
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Illinois Curriculum Program
+T1  - English language communication, grade K-six
+Y1  - 1961
+D1  - 10/1961
+SP  - 111
+KW  - English language
+KW  - Communication
+KW  - Composition and exercises
+N1  - vi; illus. 26 cm.; Note(s): Includes bibliographies.
+T2  - Illinois Curriculum Program.; Subject field series; bulletin
+V1  - C-6.
+PB  - Illinois Curriculum Program
+CY  - Springfield, IL
+LA  - English
+CN  - 428.2 .I28e 1961
+SC  - Illinois
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Illinois Curriculum Program
+T1  - English language communication, grade K-six
+Y1  - 1967
+D1  - 1967
+SP  - 111
+KW  - English language
+KW  - Communication
+KW  - Composition and exercises
+N1  - vi; illus. 26 cm.; Note(s): Includes bibliographies.
+T2  - Illinois Curriculum Program.; Subject field series; bulletin
+V1  - C-6.
+PB  - Illinois Curriculum Program
+CY  - Springfield, IL
+LA  - English
+CN  - 428.2 .I28e 1967
+SC  - Illinois
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Jefferson County (Kentucky) Public Schools
+T1  - Advance program English : grade 10
+Y1  - 1964
+D1  - Summer, 1964
+KW  - English language
+ED  - Rev.
+PB  - Jefferson County Education Center
+CY  - Louisville, KY
+LA  - English
+CN  - 428.2 .J45a
+SC  - Kentucky
+G2  - 10th
+ER  - 
+
+TY  - BOOK
+A2  - Kansas City (Missouri) Public Schools
+T1  - A teacher's guide to experiences in the language arts: freshman year
+Y1  - 1949
+D1  - 02/1949
+SP  - 75
+T2  - Kansas City (Missouri) Public Schools. Bulletin
+V1  - 71
+KW  - Language arts
+PB  - Kansas City (Missouri) Public Schools
+CY  - Kansas City, MO
+LA  - English
+CN  - 428.2 .K16e v. 1
+SC  - Missouri
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Kansas City (Missouri) Public Schools
+T1  - A teacher's guide to experiences in the language arts: junior year
+Y1  - 1950
+D1  - 09/1950
+SP  - 77
+T2  - Kansas City (Missouri) Public Schools. Bulletin
+V1  - 77
+KW  - Language arts
+PB  - Kansas City (Missouri) Public Schools
+CY  - Kansas City, MO
+LA  - English
+CN  - 428.2 .K16e v. 3
+SC  - Missouri
+G2  - 11th
+ER  - 
+
+TY  - BOOK
+A2  - Kenosha (Wisconsin) Public Schools
+T1  - Language arts : oral and written expression, grades one through three
+Y1  - 1953
+D1  - 06/1953
+KW  - Language arts
+PB  - Kenosha (Wisconsin) Public Schools
+CY  - Kenosha, WI
+LA  - English
+CN  - 428.2 .K36L v. 1
+SC  - Wisconsin
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - Kenosha (Wisconsin) Public Schools
+T1  - Language arts : oral and written expression, grades four through six
+Y1  - 1953
+D1  - 06/1953
+KW  - Language arts
+PB  - Kenosha (Wisconsin) Public Schools
+CY  - Kenosha, WI
+LA  - English
+CN  - 428.2 .K36L v. 2
+SC  - Wisconsin
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - La Canada (California) School District
+T1  - Writing a research paper: introduction
+SP  - 10
+KW  - Report writing
+PB  - La Canada (California) School District
+LA  - English
+CN  - 428.2 .L13w
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - La Crosse (Wisconsin) City District Public Schools
+T1  - Guides for the teaching of language arts in the elementary schools of the La Crosse city district public schools
+Y1  - 1963
+D1  - 1963-1964
+SP  - 75
+KW  - Language arts
+PB  - La Crosse (Wisconsin) City District Public Schools
+CY  - La Crosse, WI
+LA  - English
+CN  - 428.2 L14t v. 1
+SC  - Wisconsin
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - La Crosse (Wisconsin) City District Public Schools
+T1  - Guides for the teaching of communication arts in the junior and senior high schools of the La Crosse city district public schools
+SP  - 128
+KW  - Communication
+PB  - La Crosse (Wisconsin) City District Public Schools
+CY  - La Crosse, WI
+LA  - English
+CN  - 428.2 L14t v. 2
+SC  - Wisconsin
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Lawndale (California) School District
+T1  - Language arts guide, grades K-8; grammar, speaking, spelling, listening, writing
+Y1  - 1961
+D1  - 1961
+SP  - 109
+KW  - English language
+KW  - Curricula
+KW  - Language arts
+N1  - 109 leaves. illus. 26 cm.; Note(s): Cover title.
+PB  - Lawndale (California) School District
+CY  - Lawndale, CA
+LA  - English
+CN  - 428.2 .L42L
+SC  - California
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Lexington (Kentucky) Public Schools
+T1  - Report of language arts committee
+Y1  - 1956
+D1  - 1956
+KW  - Language arts
+PB  - Lexington (Kentucky) Public Schools
+CY  - Lexington, KY
+LA  - English
+CN  - 428.2 .L67r
+SC  - Kentucky
+ER  - 
+
+TY  - BOOK
+A2  - Lexington (Massachusetts) Public Schools
+T1  - Goals and sequences: principal volume in the study guide for the language arts
+Y1  - 1964
+D1  - 1964
+SP  - 136
+KW  - Language arts
+PB  - Lexington (Massachusetts) Public Schools
+CY  - Lexington, MA
+LA  - English
+CN  - 428.2 .L671L
+SC  - Massachusetts
+ER  - 
+
+TY  - BOOK
+A2  - Lincoln Parish (Louisiana) Schools
+T1  - Language arts concepts, grades 1-7
+Y1  - 1963
+D1  - 1963
+KW  - Language arts
+PB  - Lincoln Parish (Louisiana) Schools
+CY  - Lincoln Parish, LA
+LA  - English
+CN  - 428.2 .L73L
+SC  - Louisiana
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A2  - Lindbergh School District (St. Louis, Missouri)
+T1  - A curriculum guide for language arts: grade 7 - grade 12
+Y1  - 1961
+D1  - 1961
+SP  - 52
+KW  - Language arts
+PB  - Lindbergh School District
+CY  - St. Louis, MO
+LA  - English
+CN  - 428.2 .L74L
+SC  - Missouri
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Long Beach (California) Public Schools
+T1  - Handbook in English for senior high school students
+Y1  - 1965
+D1  - 1965
+KW  - English language
+N1  - 56 p. ; cm
+PB  - Long Beach (California) Public Schools
+CY  - Long Beach, CA
+LA  - English
+CN  - 428.2 .L84h 1965
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Long Beach (California) Public Schools. Office of Curriculum Development
+T1  - Handbook in English for senior high school students
+Y1  - 1952
+SP  - 58
+KW  - English language
+N1  - iv; ill. 23 cm.
+PB  - Long Beach (California) Public Schools
+CY  - Long Beach, CA
+LA  - English
+CN  - 428.2 .L84h 1952
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Long Beach (California) Unified School District
+T1  - Handbook in English for senior high school students
+Y1  - 1969
+D1  - 1969
+SP  - 59
+KW  - Language arts
+KW  - Report writing
+KW  - English language
+N1  - 59 p. ; 30 cm.; Responsibility: prepared by a committee of English teachers from Jordan, Lakewood ... senior high schools.
+PB  - Long Beach (California) Unified School District
+CY  - Long Beach, CA
+LA  - English
+CN  - 428.2 .L84th 1969
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Long Beach (California) Unified School District
+T1  - Ninth grade English exercises
+Y1  - 1969
+D1  - 1969
+KW  - English language
+KW  - Composition and exercises
+PB  - Long Beach (California) Unified School District
+CY  - Long Beach, CA
+LA  - English
+CN  - 428.2 .L84e v. 3
+SC  - California
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Long Beach (California) Unified School District
+T1  - Seventh grade English exercises
+Y1  - 1968
+D1  - 1968
+SP  - 188
+KW  - English language
+KW  - Composition and exercises
+PB  - Long Beach (California) Unified School District
+CY  - Long Beach, CA
+LA  - English
+CN  - 428.2 .L84e v. 1
+SC  - California
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A2  - Long Beach (California) Unified School District
+T1  - Eighth grade English exercises
+Y1  - 1968
+D1  - 1968
+SP  - 151
+KW  - English language
+KW  - Composition and exercises
+PB  - Long Beach (California) Unified School District
+CY  - Long Beach, CA
+LA  - English
+CN  - 428.2 .L84e v. 2
+SC  - California
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Long Beach (California) Unified School District
+T1  - Guide for teachers of tenth grade English. Part 1
+Y1  - 1968
+D1  - 1968
+SP  - 72
+KW  - English language
+KW  - Curricula
+ED  - Rev.
+N1  - p. ; cm.; Responsibility: prepared by a committee of teachers ; references revised by Beth Campbell, Jeanne C. Seeger ; under the supervision of Marilouise Kreidler, Consultant, English and Social Studies.
+PB  - Long Beach (California) Unified School District
+CY  - Long Beach, CA
+LA  - English
+CN  - 428.2 .L84t v. 1
+SC  - California
+G2  - 10th
+ER  - 
+
+TY  - BOOK
+A2  - Long Beach (California) Unified School District
+T1  - Guide for teachers of tenth grade English. Part 2
+Y1  - 1968
+D1  - 1968
+SP  - 78
+KW  - English language
+KW  - Curricula
+ED  - Rev.
+N1  - p. ; cm.; Responsibility: prepared by a committee of teachers ; references revised by Beth Campbell, Jeanne C. Seeger ; under the supervision of Marilouise Kreidler, Consultant, English and Social Studies.
+PB  - Long Beach (California) Unified School District
+CY  - Long Beach, CA
+LA  - English
+CN  - 428.2 .L84t v. 2
+SC  - California
+G2  - 10th
+ER  - 
+
+TY  - BOOK
+A2  - Los Alamos (New Mexico) Schools
+T1  - Language arts and social studies: junior high school curriculum guide
+Y1  - 1959
+D1  - 06/1959
+KW  - Language arts
+KW  - Social sciences
+PB  - Los Alamos (New Mexico) Schools
+CY  - Los Alamos, NM
+LA  - English
+CN  - 428.2 .L86L
+SC  - New Mexico
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Los Altos (California) School District
+T1  - A guide to teaching written expression
+Y1  - 1964
+D1  - 07/1964
+SP  - 94
+KW  - Writing
+PB  - Los Altos (California) School District
+CY  - Los Altos, CA
+LA  - English
+CN  - 428.2 .L861f
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District
+T1  - A9 English unit III; living with change; a teacher's resource unit to be used in conjunction with the junior high school English course of study
+Y1  - 1969
+D1  - 1969
+SP  - 26
+KW  - English language
+KW  - Grammar
+KW  - Literature
+N1  - viii; 28 cm.; Note(s): Cover title.; Other Titles: Living with change
+PB  - Los Angeles (California) City School District
+CY  - Los Angeles, CA
+LA  - English
+CN  - 428.2 .L879a
+SC  - California
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles County (California) Schools
+T1  - Guiding growth in written expression
+Y1  - 1956
+D1  - 06/1956
+SP  - 135
+KW  - English language
+KW  - Composition and exercises
+PB  - Los Angeles (California) County Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 428.2 .L87g v. 1
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) County Schools
+T1  - Using short films to motivate English activities
+Y1  - 1947
+D1  - 01/1947
+SP  - 31
+KW  - English language
+PB  - Los Angeles (California) County Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 428.2 .L87u
+SC  - California
+ER  - 
+ER  - 
+
+TY  - BOOK
+A1  - Los Angeles (California) City Schools
+T1  - Instructional guide, b11 English
+Y1  - 1962
+D1  - 1962
+SP  - 258
+KW  - English language
+N1  - 258 p. ; cm.
+PB  - Los Angeles (California) City Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 428.2 .L879i v. 3
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District
+T1  - Junior high school English: course of study
+Y1  - 1967
+D1  - 1967
+SP  - 68
+KW  - English language
+N1  - 1 v.; Note(s): Pub. No. X-66.
+PB  - Los Angeles (California) City Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 428.2 .L879i v. 1
+SC  - California
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District. Instructional Planning Branch
+T1  - The art of questioning in English, using oral English as a means of communication in developing attitudes, interests, and values; an instructional bulletin
+Y1  - 1968
+D1  - 1968
+SP  - 31
+KW  - Questioning
+KW  - English language
+KW  - Spoken English
+KW  - Oral communication
+N1  - xv; 22 x 28 cm.; Note(s): Cover title./ Includes bibliographies.
+T2  - School publication (Los Angeles City School District : lettered series)
+V1  - EC-274
+PB  - Los Angeles (California) City School District. Instructional Planning Branch
+CY  - Los Angeles, CA
+LA  - English
+CN  - 428.2 .L879ar
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City Schools
+T1  - English for low-index classes in tenth grade and b11: an instructional guide
+Y1  - 1967
+D1  - 1967
+SP  - 85
+KW  - Language arts
+KW  - Slow learning children
+N1  - xvii; ; 28 cm.
+T2  - Los Angeles (California) City Schools. Publication
+V1  - X-60
+PB  - Los Angeles (California) City Schools, Division of Instructional Services, Curriculum Branch
+CY  - Los Angeles, CA
+LA  - English
+CN  - 428.2 .L879e v. 2
+SC  - California
+G2  - 10th
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City Schools
+T1  - Advanced composition : 12th grade : an instructional guide
+Y1  - 1963
+D1  - 1963
+SP  - 53
+KW  - Composition and exercises
+KW  - English language
+N1  - 53 p. ; cm.
+PB  - Los Angeles (California) City Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 428.2 .L879i v. 6
+SC  - California
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A1  - Los Angeles (California) City Schools
+T1  - Instructional guide for senior English : [grade 12]
+Y1  - 1956
+D1  - 1956
+SP  - 41
+KW  - English language
+N1  - 41 p. ; cm.
+PB  - Los Angeles (California) City Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 428.2 .L879i v. 4
+SC  - California
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District
+T1  - Improving English usage, grades 7-9; an instructional bulletin
+Y1  - 1969
+D1  - 1969
+SP  - 20
+KW  - English language
+KW  - Grammar
+N1  - v; 28 cm.; Note(s): Cover title.
+PB  - Los Angeles (California) City School District
+CY  - Los Angeles, CA
+LA  - English
+CN  - 428.2 .L879ie
+SC  - California
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District
+T1  - Improving sentence structure, grades 7-9; an instructional bulletin
+Y1  - 1969
+D1  - 1969
+SP  - 38
+KW  - English language
+KW  - Grammar
+N1  - vii; 28 cm.; Note(s): Cover title.
+PB  - Los Angeles (California) City School District
+CY  - Los Angeles, CA
+LA  - English
+CN  - 428.2 .L879im
+SC  - California
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A1  - Robertson, Andrew Beaumont
+A2  - Los Angeles (California) City School District. Division of Instructional Services
+T1  - Instructional guide for the course in senior composition, grade 12
+Y1  - 1957
+D1  - 1957
+SP  - 71
+KW  - Composition and exercises
+KW  - English language
+T2  - School publication (Los Angeles City School District : lettered series)
+V1  - 555
+PB  - Los Angeles (California) City School District. Division of Instructional Services
+CY  - Los Angeles, CA
+LA  - English
+CN  - 428.2 .L879i v. 5
+SC  - California
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District
+T1  - On the ballpoint : classroom practices in teaching composition
+Y1  - 1976
+D1  - 1976
+SP  - 52
+KW  - English language
+KW  - Composition and exercises
+N1  - iii; ; 28 cm.
+PB  - Los Angeles (California) City School District
+CY  - Los Angeles, CA
+LA  - English
+CN  - 428.2 .L879o
+SC  - California
+G1  - Middle school
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District
+T1  - The teaching of English in junior and senior high schools: a position statement
+Y1  - 1967
+D1  - 1967
+SP  - 10
+KW  - English language
+T2  - Los Angeles (California) City School District. Instructional bulletin
+V1  - SC-37
+N1  - 1 v.; Note(s): Instructional bulletin no. SC-37.
+PB  - Los Angeles (California) City Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 428.2 .L879t
+SC  - California
+G1  - Middle school
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Lovington (New Mexico) Municipal Schools
+T1  - Language arts curriculum guide: grades six through twelve
+SP  - 75
+KW  - Language arts
+KW  - Curricula
+PB  - Lovington (New Mexico) Municipal Schools
+CY  - Lovington, NM
+LA  - English
+CN  - 428.2 .L91L
+SC  - New Mexico
+G2  - 6th
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+

@@ -1,0 +1,826 @@
+
+
+
+
+TY  - BOOK
+A2  - Gary (Indiana) Public Schools
+T1  - Individual developmental reading handbook
+Y1  - 1963
+D1  - 1963
+KW  - Reading
+ED  - Rev.
+PB  - Gary (Indiana) Public Schools
+CY  - Gary, IN
+LA  - English
+CN  - 428.4 .G24d v. 1
+SC  - Indiana
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Gary (Indiana) Public Schools
+T1  - Individual developmental reading handbook
+Y1  - 1967
+D1  - 1967
+KW  - Reading
+ED  - Rev.
+PB  - Gary (Indiana) Public Schools
+CY  - Gary, IN
+LA  - English
+CN  - 428.4 .G24d 1967/68 v. 1
+SC  - Indiana
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Gary (Indiana) Public Schools
+T1  - Developmental reading activities
+Y1  - 1963
+D1  - 1963
+SP  - 142
+KW  - Reading
+N1  - 142 p. ; 22 x 28 cm.
+ED  - Rev.
+PB  - Gary (Indiana) Public Schools
+CY  - Gary, IN
+LA  - English
+CN  - 428.4 .G24d v. 2
+SC  - Indiana
+ER  - 
+
+TY  - BOOK
+A2  - Gary (Indiana) Public Schools
+T1  - Developmental reading activities [grades 1-12]
+Y1  - 1968
+D1  - 1968
+SP  - 142
+KW  - Reading
+N1  - 142 p. ; 22 x 28 cm.
+ED  - Rev.
+PB  - Gary (Indiana) Public Schools
+CY  - Gary, IN
+LA  - English
+CN  - 428.4 .G24d 1967/68 v. 2
+SC  - Indiana
+ER  - 
+
+TY  - BOOK
+A2  - Hudson School District (La Puente, California)
+T1  - Individualized reading
+Y1  - 1964
+D1  - 1964
+SP  - 44
+KW  - Reading
+KW  - Individualized instruction
+PB  - Hudson School District
+CY  - La Puente, CA
+LA  - English
+CN  - 428.4 .H88i
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Hudson School District (La Puente, California)
+T1  - Special reading handbook
+Y1  - 1964
+D1  - 1964
+SP  - 36
+KW  - Reading
+PB  - Hudson School District
+CY  - La Puente, CA
+LA  - English
+CN  - 428.4 .H88s
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Gould, Annabelle
+A1  - Schollaert, Warren
+T1  - Reading activities for primary and intermediate grades
+Y1  - 1967
+D1  - 1967
+SP  - 48
+KW  - Reading
+AB  - Introduction -- Getting ready -- Word recognition -- Increasing comprehension -- Using audio-visual equipment -- Do-it-yourself machines and devices -- Interest builders -- Individualizing your reading program -- Keep it rewarding.
+N1  - ill. ; 18 x 27 cm.; Responsibility: Annabelle Gould, Warren Schollaert.
+T2  - Instructor handbook series; Instructor curriculum materials
+V1  - 366
+PB  - F.A. Owen Publishing Company
+CY  - Dansville, NY
+LA  - English
+CN  - 428.4 .I59r
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Grant, Eugene Benjamin
+A1  - Karlin, Robert
+A1  - Burnett, Richard
+A1  - Fishback, Woodson W.
+A1  - Littlehale, Robert
+A1  - Frueh, Myrtle
+A1  - McCann, Ann
+A2  - Illinois Curriculum Program
+T1  - Developmental reading
+Y1  - 1964
+D1  - 1964
+SP  - 104
+KW  - Reading
+N1  - vii; 26 cm.; Note(s): Includes bibliographical references.; Responsibility: editors, Eugene B. Grant [and] Robert Karlin.
+T2  - Illinois Curriculum Program.; Administration and supervision series. Bulletin
+V1  - A-5
+PB  - Illinois Curriculum Program
+CY  - Springfield, IL
+LA  - English
+CN  - 428.4 .I29d
+SC  - Illinois
+ER  - 
+
+TY  - BOOK
+A1  - Sunderland, Harold
+T1  - Phonics in the elementary schools, grades one to six
+SP  - 27
+KW  - Reading
+KW  - English language
+KW  - Phonetics
+PB  - Inglewood (California) Unified School District
+CY  - Inglewood, CA
+LA  - English
+CN  - 428.4 .I51p
+SC  - California
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A1  - Johnson, Marjorie Seddon
+A1  - Kress, Roy A.
+A2  - International Reading Association
+T1  - Informal reading inventories
+Y1  - 1965
+D1  - 1965
+SP  - 44
+KW  - Reading
+N1  - vi; ill. ; 23 cm.; Note(s): Includes bibliographical references (p. 44).; Responsibility: by Marjorie Seddon Johnson and Roy A. Kress.
+T2  - Reading aids series.; IRA service bulletin.
+PB  - International Reading Association
+CY  - Newark, DE
+LA  - English
+CN  - 428.4 .I61r v. 2
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Lee, Dorris May Potter
+A1  - Woelfel, Sue
+A1  - Bingham, Alma
+T1  - Critical reading develops early
+Y1  - 1968
+D1  - 1968
+SP  - 44
+KW  - Reading
+T2  - Reading aids series.; IRA service bulletin.
+PB  - International Reading Association
+CY  - Newark, DE
+LA  - English
+CN  - 428.4 .I61r v. 4
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Viox, Ruth G.
+T1  - Evaluating reading and study skills in the secondary classroom; a guide for content teachers
+Y1  - 1968
+D1  - 1968
+SP  - 56
+KW  - Reading
+KW  - Ability testing
+N1  - vii; 23 cm.; Note(s): Bibliography: p. 56.; Responsibility: by Ruth G. Viox.
+T2  - Reading aids series.; IRA service bulletin.
+PB  - International Reading Association
+CY  - Newark, DE
+LA  - English
+CN  - 428.4 .I61r v. 5
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Whipple, Gertrude
+A1  - Black, Millard H.
+T1  - Reading for children without : our disadvantaged youth
+Y1  - 1966
+D1  - 1966
+SP  - 53
+KW  - Children with social disabilities
+KW  - Reading
+KW  - Remedial teaching
+N1  - vi; ill. ; 22 cm.; Responsibility: compiled by Gertrude Whipple and Millard H. Black.
+T2  - Reading aids series.; IRA service bulletin.
+PB  - International Reading Association
+CY  - Newark, DE
+LA  - English
+CN  - 428.4 .I61r v. 3
+ER  - 
+
+TY  - BOOK
+A1  - Farr, Roger C.
+A1  - Anastasiow, Nicholas J.
+T1  - Tests of reading readiness and achievement; a review and evaluation
+Y1  - 1969
+D1  - 1969
+SP  - 51
+KW  - Reading readiness
+KW  - Ability testing
+N1  - iv; 23 cm.; Responsibility: by Roger Farr and Nicholas Anastasiow.
+T2  - Reading aids series.; IRA service bulletin.
+PB  - International Reading Association
+CY  - Newark, DE
+LA  - English
+CN  - 428.4 .I61r v. 8
+ER  - 
+
+TY  - BOOK
+A1  - Sargent, Eileen E.
+A1  - Huus, Helen
+A1  - Andresen, Oliver
+T1  - How to read a book
+Y1  - 1970
+D1  - 1970
+SP  - 44
+KW  - Study skills
+KW  - Reading
+N1  - iv; 23 cm.; Note(s): An IRA service bulletin./ Bibliography: p. 44.; Responsibility: [by] Eileen E. Sargent, Helen Huus [and] Oliver Andresen.
+T2  - Reading aids series.; IRA service bulletin.
+PB  - International Reading Association
+CY  - Newark, DE
+LA  - English
+CN  - 428.4 .I61r v. 9
+ER  - 
+
+TY  - BOOK
+A1  - Stauffer, Russell G.
+A1  - Cramer, Ronald L.
+A2  - International Reading Association
+T1  - Teaching critical reading at the primary level
+Y1  - 1968
+D1  - 1968
+SP  - 50
+KW  - Reading
+N1  - v; illus. 23 cm.; Note(s): Includes bibliographical references.; Responsibility: by Russell G. Stauffer and Ronald Cramer.
+T2  - Reading aids series.; IRA service bulletin.
+PB  - International Reading Association
+CY  - Newark, DE
+LA  - English
+CN  - 428.4 .I61r v. 6
+ER  - 
+
+TY  - BOOK
+A1  - Strang, Ruth May
+A2  - International Reading Association
+T1  - Guidance and the teaching of reading
+Y1  - 1969
+D1  - 1969
+SP  - 39
+KW  - Reading
+KW  - Educational counseling
+N1  - vii; 23 cm.; Note(s): Bibliography: p. 37-39.; Responsibility: by Ruth Strang.
+T2  - Reading aids series.; IRA service bulletin.
+PB  - International Reading Association
+CY  - Newark, DE
+LA  - English
+CN  - 428.4 .I61r v. 7
+ER  - 
+
+TY  - BOOK
+A1  - Blanton, William E.
+A1  - Farr, Roger C.
+A1  - Tuinman, J. Jaap
+T1  - Reading tests for the secondary grades: a review and evaluation
+Y1  - 1972
+D1  - 1972
+SP  - 55
+KW  - Reading
+KW  - Ability testing
+N1  - iv; 23 cm.; Responsibility: William Blanton, Roger Farr, and J. Jaap Tuinman, editors.
+T2  - Reading aids series.; IRA service bulletin.
+PB  - International Reading Association
+CY  - Newark, DE
+LA  - English
+CN  - 428.4 .I61r v. 11
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Cheyney, Arnold B.
+T1  - Teaching reading skills through the newspaper
+Y1  - 1971
+D1  - 1971
+SP  - 50
+KW  - Reading
+KW  - Newspapers in education
+N1  - vi; illus. 23 cm.; Note(s): Bibliography: p. 46-50.; Responsibility: [by] Arnold B. Cheyney.
+T2  - Reading aids series.; IRA service bulletin.
+PB  - International Reading Association
+CY  - Newark, DE
+LA  - English
+CN  - 428.4 .I61r v. 10
+ER  - 
+
+TY  - BOOK
+A1  - Kaufman, Maurice
+T1  - Perceptual and language readiness programs; critical reviews
+Y1  - 1973
+D1  - 1973
+SP  - 55
+KW  - Language acquisition
+KW  - Reading readiness
+KW  - Perceptual learning
+N1  - vi; 22 cm.; Note(s): Includes bibliographical references.; Responsibility: [Edited by Maurice Kaufman.
+T2  - Reading aids series.; IRA service bulletin.
+PB  - International Reading Association
+CY  - Newark, DE
+LA  - English
+CN  - 428.4 .I61r v. 13
+ER  - 
+
+TY  - BOOK
+A1  - Otto, Wayne
+A1  - Erickson, Lawrence G.
+T1  - Inservice education to improve reading instruction
+Y1  - 1973
+D1  - 1973
+SP  - 47
+KW  - Teacher training
+KW  - Reading
+N1  - viii; 22 cm.; Note(s): Includes bibliographical references.; Responsibility: [by] Wayne Otto and Lawrence Erickson.
+T2  - Reading aids series.; IRA service bulletin.
+PB  - International Reading Association
+CY  - Newark, DE
+LA  - English
+CN  - 428.4 .I61r v. 12
+ER  - 
+
+TY  - BOOK
+A2  - Jackson (Michigan) Public Schools
+T1  - Developmental reading program, junior high school
+Y1  - 1958
+D1  - 07/1958
+SP  - 66
+KW  - Reading
+PB  - Jackson (Michigan) Public Schools
+CY  - Jackson, MI
+LA  - English
+CN  - 428.4 .J13d
+SC  - Michigan
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Kenosha (Wisconsin) Public Schools
+T1  - The improvement of reading instruction, kindergarten through grade three
+Y1  - 1957
+D1  - 08/1957
+SP  - 94
+KW  - Reading
+PB  - Kenosha (Wisconsin) Public Schools
+CY  - Kenosha, WI
+LA  - English
+CN  - 428.4 .K36i v. 1
+SC  - Wisconsin
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - Kenosha (Wisconsin) Public Schools
+T1  - The improvement of reading instruction, grades four through six
+Y1  - 1957
+D1  - 08/1957
+SP  - 106
+KW  - Reading
+PB  - Kenosha (Wisconsin) Public Schools
+CY  - Kenosha, WI
+LA  - English
+CN  - 428.4 .K36i v. 2
+SC  - Wisconsin
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Kenya Ministry of Education
+T1  - A course for backward readers: notes on how to help non-readers and very slow readers in class library periods
+Y1  - 1968
+D1  - 1968
+SP  - 95
+KW  - Reading
+KW  - Remedial teaching
+PB  - Jomo Kenyatta Foundation
+CY  - Nairobi, Kenya
+LA  - English
+CN  - 428.4 .K37c
+SC  - Kenya
+ER  - 
+
+TY  - BOOK
+A1  - Trewet, John
+T1  - Reading in social studies for jr. and sr. high schools
+Y1  - 1960
+D1  - 08/1960
+SP  - 5
+KW  - Reading
+PB  - Kern County (California) Superintendent of Schools
+CY  - Bakersfield, CA
+LA  - English
+CN  - 428.4 .K39r
+SC  - California
+G1  - Middle school
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Trewet, John
+T1  - Teaching reading in the content subjects
+Y1  - 1960
+D1  - 08/1960
+SP  - 5
+KW  - Reading
+PB  - Kern County (California) Superintendent of Schools
+CY  - Bakersfield, CA
+LA  - English
+CN  - 428.4 .K39t
+SC  - California
+G1  - Middle school
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Lancaster (California) School District
+T1  - A fundamental approach to a remedial reading program, grades 4-8
+Y1  - 1959
+D1  - 1959
+SP  - 14
+KW  - Reading
+PB  - Lancaster (California) School District
+CY  - Lancaster, CA
+LA  - English
+CN  - 428.4 .L24f
+SC  - California
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Lancaster (California) School District
+T1  - Reading skills development grades 1-8
+Y1  - 1959
+D1  - 1959
+SP  - 30
+KW  - Reading
+PB  - Lancaster (California) School District
+CY  - Lancaster, CA
+LA  - English
+CN  - 428.4 .L24r
+SC  - California
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Las Vegas (New Mexico) City Schools
+T1  - Reading
+Y1  - 1955
+D1  - 08/1955
+SP  - 2
+KW  - Reading
+PB  - Las Vegas (New Mexico) City Schools
+CY  - Las Vegas
+LA  - English
+CN  - 428.4 .L33r
+SC  - New Mexico
+ER  - 
+
+TY  - BOOK
+A2  - Long Beach (California) Unified School District
+T1  - Guide for teaching reading in the primary grades
+Y1  - 1961
+D1  - 1961
+SP  - 128
+KW  - Reading
+N1  - ill. ; 22 x 28 cm.; Responsibility: prepared under the supervision of Doris Gregory and Neva Hagaman ; edited and published by Office of Curriculum Development, Division of Instruction.
+PB  - Long Beach (California) Unified School District
+CY  - Long Beach, CA
+LA  - English
+CN  - 428.4 .L84gt
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Long Beach (California) Unified School District
+T1  - Demonstration program in experiential reading
+Y1  - 1968
+D1  - 07/1968
+KW  - Reading
+PB  - Long Beach (California) Unified School District
+CY  - Long Beach, CA
+LA  - English
+CN  - 428.4 .L84d
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Long Beach (California) Unified School District
+T1  - Guide to selective reading
+Y1  - 1964
+D1  - 1964
+SP  - 112
+KW  - Individualized instruction
+PB  - Long Beach (California) Unified School District
+CY  - Long Beach, CA
+LA  - English
+CN  - 428.4 .L84gu
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Mason, Antoinette
+A1  - Beman, Arlene
+A1  - Mentzer, June
+A2  - Licking County (Ohio) Department of Education
+T1  - A remedial reading guide: prepared for Licking County Teachers
+Y1  - 1967
+D1  - 05/1967
+SP  - 71
+KW  - Reading
+KW  - Language arts
+KW  - Remedial teaching
+N1  - pages ; cm; Responsibility: prepared for Licking County teachers by Antoinette Mason, Arlene Beman, June Mentzer.
+ED  - A rev.
+PB  - Licking County (Ohio) Department of Education
+CY  - Licking County, OH
+LA  - English
+CN  - 428.4 .L71r
+SC  - Ohio
+ER  - 
+
+TY  - BOOK
+A2  - Long Beach (California) Unified School District
+T1  - Suggestions for preparing related written work for the reading program; primary grades
+Y1  - 1962
+D1  - 1962
+SP  - 75
+KW  - Reading
+KW  - English language
+PB  - Long Beach (California) Unified School District
+CY  - Long Beach, CA
+LA  - English
+CN  - 428.4 .L84s
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Longview (Washington) Public Schools
+T1  - Teaching guide: reading kindergarten through high school
+Y1  - 1954
+D1  - 1954
+SP  - 76
+KW  - Reading
+PB  - Longview (Washington) Public Schools
+CY  - Longview, WA
+LA  - English
+CN  - 428.4 .L85r
+SC  - Washington
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District
+T1  - Teaching reading in the elementary school: phonic and other word perception skills
+Y1  - 1966
+D1  - 1966
+SP  - 122
+KW  - Reading
+KW  - Phonetics
+T2  - Los Angeles (California) City School District. Instructional bulletin
+V1  - EC-110
+PB  - Los Angeles (California) City School District
+CY  - Los Angeles, CA
+LA  - English
+CN  - 428.4 .L869t v. 1
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District
+T1  - The Art of questioning in reading : for workshop use, 1966-67
+Y1  - 1966
+D1  - 1966
+SP  - 14
+KW  - Questioning
+KW  - Reading
+KW  - Critical thinking
+N1  - ii; ; 22 x 28 cm.
+T2  - Los Angeles (California) City School District. Instructional bulletin
+V1  - EC-117
+PB  - Los Angeles (California) City School District, Division of Instructional Services, Curriculum Branch
+CY  - Los Angeles, CA
+LA  - English
+CN  - 428.4 .L869a
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District. Instructional Planning Division
+T1  - Improving reading skills in regular English classes, grades 7-9 : an instructional bulletin
+Y1  - 1968
+D1  - 1968
+SP  - 26
+KW  - Reading
+T2  - Los Angeles (California) City School District. Instructional bulletin
+PB  - Los Angeles (California) City Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 428.4 .L869i
+SC  - California
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) Unified School District
+T1  - I can decode
+Y1  - 1974
+D1  - 1974
+KW  - Reading
+KW  - Phonetics
+AB  - The phonic exercises were developed to implement TEACHING READING IN THE ELEMENTARY SCHOOLS ... PHONIC AND OTHER WORD PERCEPTION SKILLS. (Instructional Bulletin No. EC-110.) They have been developed primarily as reinforcement materials and could be used either in a reading center or as follow up material or assigned to individual children or small groups.
+N1  - 65 activity cards ; 28 x 22 cm. + teacher's manual.; Responsibility: Los Angeles Unified School District.
+T2  - School publication (Los Angeles Unified School District)
+V1  - EC-382-383.
+PB  - Los Angeles (California) Unified School District
+CY  - Los Angeles, CA
+LA  - English
+CN  - 428.4 .L869t v. 2-3
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City Schools
+T1  - Teaching the educable mentally retarded child to read
+Y1  - 1966
+D1  - 1966
+SP  - 77
+KW  - Reading
+KW  - Children with mental disabilities
+T2  - Los Angeles (California) City School District. Instructional bulletin
+V1  - EC-106
+PB  - Los Angeles (California) City Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 428.4 .L869te
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City Schools
+T1  - Use of readers in the elementary schools
+Y1  - 1960
+D1  - 1960
+SP  - 30
+KW  - Reading
+T2  - Los Angeles (California) City School District. Instructional bulletin
+V1  - EC-103
+PB  - Los Angeles (California) City Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 428.4 .L869u
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles County (California). Office of Superintendent of Schools
+T1  - Guiding growth in reading
+Y1  - 1952
+D1  - 06/1952
+SP  - 171
+KW  - Reading
+N1  - xi; ill. ; 25 cm.; Note(s): Includes bibliographical references.; Responsibility: prepared by the staff of the Division of Elementary Education, Los Angeles County Schools.
+T2  - Los Angeles County (California). Curriculum supplement. Language arts
+V1  - 2
+PB  - Los Angeles County (California). Office of Superintendent of Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 428.4 .L87g
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Louisville (Kentucky) Public Schools. Division of Curriculum
+T1  - Reading handbook, grades 7-8-9
+Y1  - 1962
+D1  - 11/1962
+SP  - 74
+KW  - Reading
+PB  - Louisville (Kentucky) Public Schools. Division of Curriculum
+CY  - Louisville, KY
+LA  - English
+CN  - 428.4 .L88r
+SC  - Kentucky
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A1  - Knudson, Richard L.
+T1  - A look at book reports
+Y1  - 1967
+D1  - 02/1967
+SP  - 18
+KW  - Report writing
+T2  - Maine State Department of Education. English Bulletin
+V1  - 1
+PB  - Maine State Department of Education
+CY  - Augusta, ME
+LA  - English
+CN  - 428.4 .M22L
+SC  - Maine
+ER  -
+
+TY  - BOOK
+A2  - Massachusetts State Department of Education. Division of Elementary and Secondary Education
+T1  - Phonics at work .. Supplement to Massachusetts curriculum guide
+Y1  - 1954
+D1  - 1954?
+KW  - Reading
+KW  - Phonetics
+PB  - Massachusetts State Department of Education
+CY  - Boston, MA
+LA  - English
+CN  - 428.4 .M41p
+SC  - Massachusetts
+ER  - 
+
+TY  - BOOK
+A2  - Milwaukee (Wisconsin) Public Schools
+T1  - Questions that help in the development of reading skills and abilities; a guide for elementary teachers
+Y1  - 1965
+D1  - 1965
+SP  - 17
+KW  - Reading
+PB  - Milwaukee (Wisconsin) Public Schools
+CY  - Milwaukee, WI
+LA  - English
+CN  - 428.4 .M64q
+SC  - Wisconsin
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Modesto (California) City Schools
+T1  - Working guide for coordinated program of instruction in reading in all subject areas, kindergarten-junior college
+Y1  - 1955
+D1  - 1955
+SP  - 53
+KW  - Reading
+PB  - Modesto (California) City Schools
+CY  - Modesto, CA
+LA  - English
+CN  - 428.4 .M69w
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Reese, Dora J.
+T1  - A survey of corrective and remedial reading materials
+SP  - 24
+KW  - Reading
+KW  - Remedial teaching
+KW  - Bibliography
+KW  - Children's literature
+PB  - Eastern Montana College of Education
+CY  - Billings, MT
+LA  - English
+CN  - 428.4 .M76s
+ER  - 

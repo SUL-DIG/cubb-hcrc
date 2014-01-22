@@ -1,0 +1,814 @@
+
+
+
+
+TY  - BOOK
+A1  - Durr, William Kirtley
+T1  - The first day of school
+Y1  - 1957
+D1  - 1957
+SP  - 16
+KW  - Classroom management
+KW  - Teaching
+KW  - Elementary education
+N1  - ill. ; 23 cm.; Responsibility: William K. Durr.
+T2  - Professional series bulletin
+V1  - 28
+PB  - Bureau of Educational Research, College of Education, Michigan State University
+CY  - East Lansing, MI
+LA  - English
+CN  - 375.13 .M62f
+SC  - Michigan
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Minneapolis (Minnesota) Public Schools
+T1  - Living and learning in the elementary schools
+Y1  - 1956
+D1  - 1956
+SP  - 152
+KW  - Elementary education
+N1  - ill. ; 29 cm.; Note(s): Includes bibliographical references and index.
+ED  - Rev
+PB  - Minneapolis (Minnesota) Public Schools
+CY  - Minneapolis, MN
+LA  - English
+CN  - 375.13 M665L
+SC  - Minnesota
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Minnesota State Department of Education
+T1  - A guide for better instruction in Minnesota schools
+Y1  - 1946
+D1  - 1946
+SP  - 203
+KW  - Curricula
+KW  - Public schools
+N1  - 203 pages : illustrations ; 23 cm.; Note(s): Bibliography at end of each chapter.; Responsibility: State of Minnesota, Department of Education.
+T2  - Curriculum bulletin (Minnesota. Department of Education)
+V1  - 1
+PB  - Minnesota State Department of Education
+CY  - St. Paul, MN
+LA  - English
+CN  - 375.13 .M668g
+SC  - Minnesota
+ER  - 
+
+TY  - BOOK
+A2  - Monrovia (California) City SChool District
+T1  - Supplementary outline to Los Angeles County course of study
+Y1  - 1957
+D1  - 09/1957
+SP  - 20
+KW  - Curricula
+PB  - Monrovia (California) City SChool District
+CY  - Los Angeles, CA
+LA  - English
+CN  - 375.13 .M75s
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Morongo (California) Unified School District
+T1  - Course of study outline for elementary schools
+Y1  - 1960
+D1  - 1960
+SP  - 354
+KW  - Curricula
+KW  - Elementary education
+PB  - Morongo (California) Unified School District
+CY  - Twentynine Palms, CA
+LA  - English
+CN  - 375.13 .M82c
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Alameda (California) County Schools
+T1  - Curriculum guide for seventh and eighth grades
+Y1  - 1953
+D1  - 06/1953
+SP  - 106
+KW  - Curricula
+PB  - Alameda (California) County Schools
+CY  - Alameda, CA
+LA  - English
+CN  - 375.14 .A31c
+SC  - California
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Battle Creek (Michigan) Public Schools
+T1  - Social studies and English program for the seventh grade
+Y1  - 1956
+D1  - 08/1956
+KW  - Social sciences
+KW  - English language
+PB  - Battle Creek (Michigan) Public Schools
+CY  - Battle Creek, MI
+LA  - English
+CN  - 375.14.B33s v. 1
+SC  - Michigan
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A2  - Battle Creek (Michigan) Public Schools
+T1  - Social studies and English program for the eighth grade
+Y1  - 1956
+D1  - 08/1956
+KW  - Social sciences
+KW  - English language
+PB  - Battle Creek (Michigan) Public Schools
+CY  - Battle Creek, MI
+LA  - English
+CN  - 375.14.B33s v. 2
+SC  - Michigan
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Boston (Massachusetts) School Committee
+T1  - Organization and administration of junior high schools in Boston
+Y1  - 1957
+D1  - 1957
+SP  - 22
+KW  - Junior high schools
+KW  - School administrators
+T2  - Variation: Boston (Mass.).; School Committee.; School document
+V1  - 1
+PB  - Boston (Massachusetts) Public Schools
+CY  - Boston, MA
+LA  - English
+CN  - 375.14 .B74o
+SC  - Massachusetts
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Clover Park School District 400 (Lakewood Center, Washington)
+T1  - Using blocks of time : aids to the teaching of social studies and English in grades seven and eight
+Y1  - 1960
+D1  - 1960
+SP  - 185
+KW  - Social sciences
+KW  - English language
+N1  - 185 p. ; 28 cm.; Note(s): Includes bibliographical references (p. 178-185).; Responsibility: Clover Park School District No. 400.
+PB  - Clover Park School District 400
+CY  - Lakewood Center, WA
+LA  - English
+CN  - 375.14 .C64u
+SC  - Washington
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A1  - Henderson, Adin D.
+T1  - Handbook for junior high school education in California. Prepared for the Bureau of Elementary and Secondary Education, Division of Instruction
+Y1  - 1969
+D1  - 1969
+SP  - 268
+KW  - Junior high schools
+N1  - xii; 23 cm.; Note(s): Bibliography: p. 250-264.; Responsibility: by Adin D. Henderson.
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 375.14 .C15h
+SC  - California
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Cleveland Heights (Ohio) Public Schools
+T1  - Living and learning in the junior high school: a manual of information for the guidance of pupils, parents, and teachers
+Y1  - 1948
+D1  - 05/1948
+SP  - 11
+KW  - Junior high schools
+PB  - Cleveland Heights (Ohio) Public Schools
+CY  - Cleveland Heights, OH
+LA  - English
+CN  - 375.14 .C63L
+SC  - Ohio
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Connecticut State Department of Education
+T1  - The junior high school in Connecticut : a survey of curriculum and special services
+Y1  - 1954
+D1  - 02/1954
+SP  - 43
+KW  - Junior high schools
+KW  - Curriculum enrichment
+N1  - 43 pages ; 28 cm; Note(s): Cover title./ "February, 1954."; Other Titles: Survey of curriculum and special services
+PB  - Connecticut State Department of Education
+CY  - Hartford, CT
+LA  - English
+CN  - 375.14 .C75j
+SC  - Connecticut
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Dearborn (Michigan) Public Schools. Division of Instruction
+T1  - Supplement : the Dearborn junior high school curriculum study progress report, August, 1964
+Y1  - 1964
+D1  - 08/1964
+SP  - 25
+KW  - Junior high schools
+KW  - Curricula
+N1  - Supplement: the Dearborn junior high school curriculum study progress report, August, 1964 / Dearborn Public Schools. 1964 English Book 25 p. : ill. ; 28 cm. Dearborn, Mich. : Dearborn Public Schools; ill. ; 28 cm.; Other Titles: Supplement to progress report, junior high school curriculum study 1963-1964 and preview of 1964-1965; Responsibility: Division of Instruction, Dearborn Public Schools.
+PB  - Dearborn (Michigan) Public Schools
+CY  - Dearborn, MI
+LA  - English
+CN  - 375.14 .D28p Supp.
+SC  - Michigan
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Dearborn (Michigan) Public Schools. Division of Instruction
+T1  - Progress report of the Dearborn junior high school curriculum study during 1963-64
+Y1  - 1964
+D1  - 08/1964
+SP  - 61
+KW  - Junior high schools
+KW  - Curricula
+N1  - 61 p. tables. 28 cm.; Note(s): Bibliography: p. 52-61.
+PB  - Dearborn (Michigan) Public School
+CY  - Dearborn, MI
+LA  - English
+CN  - 375.14 .D28p
+SC  - Michigan
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Frederick County (Maryland) Board of Education
+T1  - A core program for core teaching : a handbook for core teachers
+Y1  - 1957
+D1  - 1957
+SP  - 79
+KW  - Teaching
+T2  - Frederick County (Maryland) Board of Education. Curriculum bulletin
+V1  - 1
+N1  - 79 p. ; cm
+PB  - Frederick County (Maryland) Board of Education
+CY  - Frederick, MD
+LA  - English
+CN  - 375.14 .F85c v. 1
+SC  - Maryland
+ER  - 
+
+TY  - BOOK
+A2  - Decatur (Illinois) Public Schools
+T1  - A guide for combination social studies and English grade 7
+Y1  - 1955
+D1  - 06/1955
+KW  - Social sciences
+KW  - English language
+PB  - Decatur (Illinois) Public Schools
+CY  - Decatur, IL
+LA  - English
+CN  - 375.14 .D29g
+SC  - Illinois
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A1  - Baughman, Millard Dale
+A2  - Junior High School Association of Illinois
+T1  - Pupil evaluation in the junior high school
+Y1  - 1963
+D1  - 1963
+SP  - 70
+KW  - Grading and marking
+KW  - Junior high schools
+N1  - 70 p.; Note(s): Includes bibliographical references.
+PB  - Interstate Printers and Publishers
+CY  - Urbana, IL
+LA  - English
+CN  - 375.14 .I29p
+SC  - Illinois
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Frederick County (Maryland) Board of Education
+T1  - Understanding myself and my world and living in a democratic society : skeleton outline of units in suggested problem areas for grades seven, eight, and nine
+Y1  - 1957
+D1  - 1957
+SP  - 66
+T2  - Frederick County (Maryland) Board of Education. Curriculum bulletin
+V1  - 2
+KW  - Junior high schools
+KW  - Curricula
+N1  - 66 p. ; cm
+PB  - Frederick County (Maryland) Board of Education
+CY  - Frederick, MD
+LA  - English
+CN  - 375.14 .F85c
+SC  - Maryland
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Iowa State Department of Public Instruction
+T1  - Junior high schools for Iowa youth
+Y1  - 1960
+D1  - 1960
+SP  - 60
+KW  - Junior high schools
+KW  - Curricula
+N1  - xii; ill. ; 28 cm.; Responsibility: State Dept. of Public Instruction, Division of Curriculum.
+PB  - Iowa State Department of Public Instruction
+CY  - Des Moines. IA
+LA  - English
+CN  - 375.14 I64j
+SC  - Iowa
+G1  - Middle school
+ER  - 
+
+Ty  - BOOK
+A2  - Jefferson County (Kentucky) Public Schools
+T1  - Core curriculum bulletin: a tentative guide for teachers
+Y1  - 1958
+D1  - 1958
+SP  - 257
+KW  - Curricula
+PB  - Jefferson County (Kentucky) Public Schools
+LA  - English
+CN  - 375.14 .J45c
+SC  - Kentucky
+ER  - 
+
+TY  - BOOK
+A2  - Long Beach City (California) Schools. Office of Curriculum Development
+T1  - A guide to the teaching of eighth grade social living
+Y1  - 1957
+D1  - 1957
+SP  - 371
+KW  - Social sciences
+KW  - Curricula
+N1  - 371 p. ; 22 x 28 cm.; Note(s): Includes bibliographical references.
+PB  - Long Beach City (California) Schools
+CY  - Long Beach, CA
+LA  - English
+CN  - 375.14 .L84g
+SC  - California
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Maine State Department of Education
+T1  - A Guide to learning in grades seven, eight, and nine
+Y1  - 1962
+D1  - 1962
+SP  - 234
+KW  - Secondary education
+KW  - Curricula
+KW  - Psychology of learning
+N1  - 234 pages ; 28 cm.; Note(s): Includes bibliographical references.
+T2  - Curriculum bulletin
+V1  - 22
+PB  - Maine State Department of Education
+CY  - Augusta, ME
+LA  - English
+CN  - 375.14 .M22g
+SC  - Maine
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Manhasset (New York) Public Schools
+T1  - Your junior high school
+Y1  - 1955
+D1  - 1955-1956
+SP  - 23
+KW  - Junior high schools
+PB  - Manhasset (New York) Public Schools
+CY  - Long Island, NY
+LA  - English
+CN  - 375.14 .M27y
+SC  - New York
+G1  - Middle schools
+ER  - 
+
+TY  - BOOK
+A1  - Shaeffer, Jo
+A1  - Jaquette, Fred
+A2  - Mesa County (Colorado) Valley Schools
+T1  - Ungraded elementary schools
+SP  - 9
+KW  - Elementary schools
+KW  - Nongraded schools
+PB  - Mesa County (Colorado) Valley Schools
+CY  - Grand Junction, CO
+LA  - English
+CN  - 375.13 .M57u
+SC  - Colorado
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Missouri State Board of Education
+T1  - Missouri's elementary curriculum guide : grades one-six. Language arts, social studies-science, arithmetic
+Y1  - 1955
+D1  - 1955
+SP  - 313
+KW  - Elementary education
+KW  - Curricula
+N1  - xiii; ill. ; 28 cm.; Note(s): Cover title: A guide for elementary education.; Other Titles: Elementary curriculum guide; Guide for elementary education; Responsibility: State Board of Education.
+T2  - Missouri.; Board of Education.; Publication
+V1  - 100
+PB  - Missouri State Board of Education
+CY  - Jefferson City, MO
+LA  - English
+CN  - 375.13 .M67g
+SC  - Missouri
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Las Vegas (New Mexico) City Schools
+T1  - Core programs: 7th and 8th grades, 1956-57
+Y1  - 1956
+D1  - 1956-1957
+KW  - Junior high schools
+PB  - Las Vegas (New Mexico) City Schools
+CY  - Las Vegas, NM
+LA  - English
+CN  - 375.14 .L34c
+SC  - New Mexico
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Monterey County (California) Schools
+T1  - Monterey County schools curriculum
+Y1  - 1958
+D1  - 09/1958
+KW  - Curricula
+N1  - p. ; cm
+ED  - Rev.
+PB  - Monterey County (California) Schools
+CY  - Monterey, CA
+LA  - English
+CN  - 375.13 .M77c
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Napa (California) Schools
+A2  - Stockton (California) Schools
+A2  - Vallejo (California) Schools
+T1  - The middle four of 6-4-4
+SP  - 15
+KW  - Middle schools
+PB  - Napa (California) Schools
+CY  - Napa, CA
+LA  - English
+CN  - 375.14 .N19m
+SC  - California
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - New York (New York) Board of Education. Division of Junior High Schools
+T1  - Developing a core program in the junior high school grades
+Y1  - 1958
+D1  - 1958
+SP  - 136
+KW  - Junior high schools
+KW  - Curricula
+N1  - 136 p. illus. 23 cm.; Responsibility: [by] Division of Junior High Schools [and] Division of Curriculum Development, Board of Education of the city of New York.
+T2  - New York (N.Y.). Board of Education. Curriculum bulletin, 1957-58 series
+V1  - 12
+PB  - New York (New York) Board of Education
+CY  - Brooklyn, NY
+LA  - English
+CN  - 375.14 .N532d
+SC  - New York
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Secondary Education Board (Massachusetts)
+T1  - Definition of the requirements for 1956 : with the examinations of March and May, 1955 ..
+Y1  - 1955
+D1  - 1955
+KW  - Examinations
+KW  - Private schools
+PB  - Office of the Secondary Education Board
+CY  - Milton, MA
+LA  - English
+CN  - 375.14 .M66d
+SC  - Massachusetts
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York
+T1  - A design for early secondary education in New York State : suggestions to schools and their communities for improving educational programs in grades 7, 8 and 9
+Y1  - 1954
+D1  - 1954
+SP  - 118
+KW  - Secondary education
+KW  - Junior high schools
+N1  - x; ill. ; 29 cm.; Note(s): Includes bibliographical references.
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 375.14 .N53d
+SC  - New York
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Oakland (California) Public Schools
+T1  - Description of courses offered in junior high schools
+Y1  - 1960
+D1  - 03/1960
+SP  - 17
+KW  - Curricula
+KW  - Junior high schools
+PB  - Oakland (California) Public Schools
+CY  - Oakland, CA
+LA  - English
+CN  - 375.14 .O11d
+SC  - California
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Oklahoma State Department of Public Instruction
+T1  - Scale for evaluating a junior high school
+KW  - Junior high schools
+PB  - Oklahoma State Department of Public Instruction
+LA  - English
+CN  - 375.14 .O41s
+SC  - Oklahoma
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A1  - Mortimore, David E.
+A1  - Roberts, Thomas H.
+A1  - Jackson, Donald M.
+T1  - The emergence and development of a radically innovative junior high school program
+Y1  - 1973
+D1  - 10/1973
+SP  - 39
+KW  - Junior high schools
+KW  - Curricula
+N1  - 39 p. ; 28 cm.; Note(s): Cover title./ Oregon ASCD curriculum bulletin, no. 319, Oct. 1973./ Analysis of the program during its initial 3 years of development and its first year of operation (1969/70)--at Theodore Roosevelt Junior High School in Eugene, Oregon./ Includes bibliographical references (p. 39).; Other Titles: Oregon ASCD curriculum bulletin.; Responsibility: prepared by David E. Mortimer [sic], Thomas H. Roberts [and] Donald M. Jackson ; Harold Stauffer, special ed.
+T2  - Oregon ASCD curriculum bulletin
+V1  - 27
+IS  - 319
+PB  - Oregon Association for Supervision and Curriculum Development
+CY  - Salem, OR
+LA  - English
+CN  - 375.14 .O65e
+SC  - Oregon
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A1  - Hansen, John H.
+T1  - Age of trial: the junior high school years
+Y1  - 1964
+D1  - 07/1964
+SP  - 13
+KW  - Junior high schools
+T2  - Oregon ASCD curriculum bulletin
+V1  - 20
+IS  - 246
+PB  - Oregon Association for Supervision and Curriculum Development
+CY  - Salen, OR
+LA  - English
+CN  - 375.14 .O66a
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A1  - Akin, J. G.
+A1  - Lee, Enda
+A1  - Fulcher, Virginia
+A1  - Grayson, Vera
+A1  - Dossett, Janey
+A1  - Williams, Annie B.
+A1  - Courtney, Louise
+T1  - The core program for grade seven
+Y1  - 1951
+D1  - 06/1951
+KW  - Curricula
+PB  - Owensboro (Kentucky) Public Schools
+CY  - Owensboro, KY
+LA  - English
+CN  - 375.14 .O97c
+SC  - Kentucky
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A1  - Lee, Enda
+A1  - Brashear, Lucile
+A1  - Fields, Harry
+A1  - Gentry, Julia
+A1  - Johnson, Josie
+A1  - Maas, Sonja
+A1  - Robinson, W. H.
+T1  - The core curriculum bulletin no. 2
+Y1  - 1961
+D1  - 07/1961
+KW  - Curricula
+PB  - Owensboro (Kentucky) Public Schools
+CY  - Owensboro, KY
+LA  - English
+CN  - 375.14 .O97c 1961
+SC  - Kentucky
+ER  - 
+
+TY  - BOOK
+A2  - Pasadena (California) Junior High Schools
+T1  - English - social studies program in the Pasadena junior high schools
+Y1  - 1955
+D1  - 1955
+KW  - Social sciences
+KW  - English language
+PB  - Pasadena (California) Junior High Schools
+CY  - Pasadena, CA
+LA  - English
+CN  - 375.14 .P27e
+SC  - California
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A1  - Hamann, James A.
+A1  - Jennings, Wayne B.
+A1  - Koch, Keith S.
+T1  - Teaching the core class : some suggested methods
+Y1  - 1967
+D1  - 08/1967
+SP  - 62
+KW  - Curricula
+N1  - iv; ; 28 cm.; Note(s): Includes bibliographical references (p. 61-62).; Responsibility: by James A. Hamann, Wayne B. Jennings, Keith S. Koch.
+T2  - St. Paul (Minnesota) Publication 
+V1  - 323
+PB  - Office of Instruction, St. Paul (Minnesota) Public Schools
+CY  - St. Paul, MN
+LA  - English
+CN  - 375.14 .S14t
+SC  - Minnesota
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools
+T1  - Choosing appropriate techniques
+Y1  - 1964
+D1  - 1964
+SP  - 79
+KW  - Junior high schools
+KW  - Curricula
+KW  - Lesson planning
+N1  - ix, 79 leaves : ill. ; 28 cm.; Note(s): Includes bibliographical references (leaf 79).; Responsibility: Curriculum Office, Philadelphia Public Schools.
+ED  - Rev
+PB  - Philadelphia (Pennsylvania) Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 375.14 .P54c
+SC  - Pennsylvania
+G1  - Middle school
+ER  - 
+ 
+TY  - BOOK
+A2  - Pasadena (California) City Schools
+T1  - Junior high school course of study
+Y1  - 1947
+D1  - 1947-1948
+SP  - 31
+KW  - Junior high schools
+KW  - Curricula
+T2  - Secondary curriculum publication
+V1  - 10
+PB  - Pasadena (California) City Schools
+CY  - Pasadena, CA
+LA  - English
+CN  - 375.14 .P27j
+SC  - California
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Raleigh (North Carolina) Public Schools
+T1  - The junior high school program
+SP  - 45
+KW  - Junior high schools
+PB  - Raleigh (North Carolina) Public Schools
+CY  - Raleigh, NC
+LA  - English
+CN  - 375.14 .R16j
+SC  - North Carolina
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Rochester (New York) City School District
+T1  - General education viii
+Y1  - 1963
+D1  - 1963
+SP  - 162
+KW  - Curricula
+PB  - Rochester (New York) City School District
+CY  - Rochester, NY
+LA  - English
+CN  - 375.14 .R67g
+SC  - New York
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Spokane (Washington) Public Schools
+T1  - Language arts-social studies guide, grades 7-8-9
+Y1  - 1962
+D1  - 09/1962
+SP  - 74
+KW  - Language arts
+KW  - Social sciences
+PB  - Spokane (Washington) Public Schools
+CY  - Spokane, WA
+LA  - English
+CN  - 375.14 .S75L
+SC  - Washington
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Springfield (Missouri) Public Schools
+T1  - Social studies, English language arts : junior high school level
+Y1  - 1956
+D1  - 09/1956
+SP  - 35
+KW  - Social sciences
+KW  - English language
+KW  - Curricula
+N1  - 35 p. ; 28 cm.; Note(s): Includes bibliographies.; Responsibility: [prepared under the direction of Roy F. Litle].
+T2  - Instructional guidelines, bulletin / Springfield, Mo. Public Schools
+V1  - 4
+PB  - Springfield (Missouri) Public Schools
+CY  - Springfield, MO
+LA  - English
+CN  - 375.14 .S77s
+SC  - Missouri
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Elizabeth Cobb School (Tallahassee, Florida)
+T1  - Junior high curriculum guides, grades 7 & 8: a guide for study and further development
+Y1  - 1958
+D1  - 1958
+SP  - 113
+KW  - Junior high schools
+KW  - Curricula
+PB  - Elizabeth Cobb School
+CY  - Tallahassee, FL
+LA  - English
+CN  - 375.14 .T14j
+SC  - Florida
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Winnetka (Illinois) Public Schools
+T1  - Design for learning, learning laboratory, Skokie Jr. High School
+Y1  - 1984
+D1  - 05/1964
+SP  - 55
+KW  - Junior high schools
+PB  - Winnetka (Illinois) Public Schools
+CY  - Winnetka, IL
+LA  - English
+CN  - 375.14 .W77L
+SC  - Illinois
+G1  - Middle school
+ER  - 
+

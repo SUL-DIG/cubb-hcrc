@@ -1,0 +1,250 @@
+
+
+TY  - BOOK
+A2  - Alameda (California) Unified School District
+T1  - Arithmetic activities, grade 1
+Y1  - 1958
+D1  - 1958
+SP  - 110
+KW  - Arithmetic
+PB  - Alameda (California) Unified School District
+CY  - Alameda, CA
+LA  - English
+CN  - 511.2 .A31a v. 1
+SC  - California
+G2  - 1st
+ER  - 
+
+TY  - BOOK
+A2  - Alameda (California) Unified School District
+T1  - Arithmetic activities, grade 2
+Y1  - 1958
+D1  - 1958
+SP  - 80
+KW  - Arithmetic
+PB  - Alameda (California) Unified School District
+CY  - Alameda, CA
+LA  - English
+CN  - 511.2 .A31a v. 2
+SC  - California
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A2  - Arlington (Virginia) County Public Schools
+T1  - Elementary arithmetic, grades one through six
+Y1  - 1956
+D1  - 1956
+SP  - 165
+KW  - Arithmetic
+PB  - Arlington (Virginia) County Public Schools
+CY  - Arlington, VA
+LA  - English
+CN  - 511.2 .A72e
+SC  - Virginia
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Atlanta (Georgia) Community High School
+T1  - Supplement to mathematics in the Atlanta Community High School, arithmetic 1 and 2
+Y1  - 1948
+D1  - 1948
+KW  - Arithmetic
+PB  - Atlanta (Georgia) Community High School
+CY  - Atlanta, GA
+LA  - English
+CN  - 511.2 .A88s
+SC  - Georgia
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Beverly Hills (California) Unified School District
+T1  - Mathematics: tentative course of study 3-8
+Y1  - 1962
+D1  - 10/1962
+SP  - 145
+KW  - Arithmetic
+T2  - Beverly Hills (California) Unified School District. Curriculum bulletin.
+V1  - 12
+PB  - Beverly Hills (California) Unified School District
+CY  - Beverly Hills, CA
+LA  - English
+CN  - 511.2 .B57c
+SC  - California
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Buffalo (New York) Public Schools
+T1  - Mathematics: curriculum guide, grades K-6 (tentative)
+Y1  - 1956
+D1  - 1956
+KW  - Mathematics
+N1  - 1 v, various pagings
+PB  - Buffalo (New York) Public Schools
+CY  - Buffalo, NY
+LA  - English
+CN  - 511.2 .B92m
+SC  - New York
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A1  - Beatty, Leslie
+T1  - Guide to the teaching of arithmetic in kindergarten and grades one and two
+Y1  - 1949
+D1  - 11/1949
+SP  - 75
+KW  - Arithmetic
+N1  - vii; ges illustrations 23 cm.; Note(s): Cover title./ L124.B62 vol. 18, no. 8 with : Home and school work together for young children / Ralph G. Eckert. Sacramento : California State Department of Education, 1949. Bound together subsequent to publication./ Includes bibliographical references (pages 74-75).
+T2  - Bulletin of the California State Dept. of Education
+V1  - 18
+IS  - 8
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 511.2 .C15g
+SC  - California
+G2  - 1st
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A1  - California State Department of Education. Mathematics Education Task Force
+T1  - Inservice guide to teaching measurement, kindergarten through grade eight; an introduction through grade eight; an introduction to the SI metric system
+Y1  - 1975
+D1  - 1975
+SP  - 48
+KW  - Metric system
+N1  - ill. ; 23 cm.; Note(s): Includes bibliographical references (p. 47-48).; Other Titles: Inservice guide for teaching measurement.; SI metric system.; Responsibility: prepared by the Mathematics Education Task Force.
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 511.2 .C15i
+SC  - California
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. State Curriculum Commission. Advisory Committee on Mathematics
+T1  - Mathematics framework for California public schools; Kindergarten through grade eight
+Y1  - 1972
+D1  - 1972
+SP  - 118
+KW  - Mathematics
+N1  - ix; ill. 24 cm.; Other Titles: Strands report; Responsibility: Prepared for the California State Board of Education and the California State Curriculum Commission by the Statewide Mathematics Advisory Committee. The second Strands report.
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 511.2 .C15m
+SC  - California
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Central New York School Study Council. Committee on Flexibility
+T1  - Developing meaningful practices in arithmetic; another step toward a more flexible elementary school curriculum, a third report
+Y1  - 1951
+D1  - 06/1951
+SP  - 123
+KW  - Arithmetic
+N1  - 123 p. illus. 22 cm.
+PB  - Central New York School Study Council
+CY  - Syracuse, NY
+LA  - English
+CN  - 511.2 .C39d
+G1  - Elementary
+ER  - 
+
+
+
+
+TY  - BOOK
+ID  - 15383
+A1  - Chicago Public Schools. Department of Elementary Education
+T1  - Arithmetic teaching techniques; an in-service survey and study conducted by a Committee on Arithmetic Teaching Techniques, with the cooperation of the district superintendents, principals and teachers in the Chicago public elementary schools
+Y1  - 1956
+SP  - 347
+EP  - 347
+KW  - Arithmetic -- Study and teaching
+N1  - x; ges illustrations 26 cm; Responsibility: Committee: Joseph J. Urbancek, J.T. Johnson [and] Don C. Rogers, Chairman.; Entry: 19760501; Update: 20130607
+PB  - Board of Education
+CY  - Chicago
+SN  - LCCN: 49-3142
+N1  - LC: QA135; Dewey: 372.7
+M1  - Book, Whole
+ER  - 
+
+TY  - BOOK
+ID  - 15384
+A1  - Chula Vista City School District
+T1  - Mathematics in the kindergarten
+Y1  - 1964
+SP  - 117
+EP  - 117
+N1  - ill. ; 22 x 28 cm.; Note(s): Cover title.; Responsibility: Chula Vista City School District.; Entry: 19800314; Update: 20111213
+PB  - The District
+CY  - Chula Vista, Calif
+N1  - Dewey: 510
+M1  - Book, Whole
+ER  - 
+
+TY  - BOOK
+ID  - 15381
+A1  - Clark County School District (Nev.)
+T1  - Elementary mathematics curriculum guide
+Y1  - 1967
+N1  - ill. ; 23 x 28 cm.; Note(s): Cover title.; Responsibility: Clark County School District.; Entry: 19781206; Update: 20111213
+PB  - The District
+CY  - Las Vegas
+AV  - Search the catalog at your library
+M1  - Book, Whole
+ER  - 
+
+TY  - BOOK
+ID  - 15382
+A1  - Cleveland. Public Schools
+T1  - Course of study in arithmetic, Primary Division, 1947
+Y1  - 1947
+KW  - Arithmetic -- Study and teaching
+N1  - 200 p. ill., diagrs. 31 cm.; Note(s): Includes bibliographical references.; Entry: 19980811; Update: 20130513
+PB  - Board of Education
+CY  - Cleveland
+SN  - LCCN: 47-8075
+N1  - LC: QA135; Dewey: 372.7
+M1  - Book, Whole
+ER  - 

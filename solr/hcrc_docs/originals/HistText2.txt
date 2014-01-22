@@ -1,0 +1,1530 @@
+
+TY  - BOOK
+A2  - Lake Charles (Louisiana) City Schools
+T1  - Enrichment activities in the regular classroom
+Y1  - 1960
+D1  - 1960?
+SP  - 20
+KW  - Curriculum enrichment
+PB  - Lake Charles (Louisiana) City Schools
+CY  - Lake Charles, LA
+LA  - English
+CN  - 371.9 .L19e
+SC  - Louisiana
+ER  -
+
+TY  - BOOK
+A2  - La Marque (Texas) School District
+T1  - Special curricula for ninth grade opportunity classes
+Y1  - 1957
+D1  - 07/1957
+SP  - 56
+KW  - Children with mental disabilities
+PB  - La Marque (Texas) School District
+CY  - La Marque, TX
+LA  - English
+CN  - 371.9 .L21s
+SC  - Texas
+G2  - 9th grade
+ER  - 
+
+TY  - BOOK
+A2  - La Mesa-Spring Valley (California) School District
+T1  - A guide for special education
+Y1  - 1957
+D1  - 08/1957
+SP  - 151
+KW  - Special education
+PB  - La Mesa-Spring Valley (California) School District
+CY  - La Mesa, CA
+LA  - English
+CN  - 371.9 .L22g
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Berglund, Gladys
+T1  - A study of the survey of exceptional children conducted in Lassen County during 1950-51: a report presented to educators in Lassen County
+Y1  - 1951
+D1  - 12/1951
+SP  - 74
+KW  - Children with disabilities
+PB  - Lassen County (California) Office of Education
+CY  - Susanville, CA?
+LA  - English
+CN  - 371.9 .L34s
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Long Beach (California) Unified School District
+T1  - Guide for teachers of the severely mentally retarded (tentative)
+Y1  - 1961
+D1  - 1961
+SP  - 78
+KW  - Children with mental disabilities
+PB  - Long Beach (California) Unified School District
+CY  - Long Beach, CA
+LA  - English
+CN  - 371.9 .L84gs
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Long Beach (California) City Schools
+T1  - A guide to the teaching of special classes of physical education
+Y1  - 1952
+D!  - 04/1952
+SP  - 46
+KW  - Physical education and training
+N1  - 46 l. illus.; Note(s): Includes bibliographical references.
+PB  - Long Beach (California) City Schools
+CY  - Long Beach, CA
+LA  - English
+CN  - 371.9 .L84g
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Armstrong, Grace I.
+A2  - Long Beach (California) City Schools. Office of Curriculum Development
+T1  - The very superior pupil, a handbook for the junior high school teacher
+Y1  - 1955
+D1  - 1955
+SP  - 62
+KW  - Gifted children
+KW  - Curricula
+N1  - 62 l.; Other Titles: Superior pupil; Responsibility: Prepared by Grace I. Armstrong, Herbert Engelko [and] Helen E. Hansen, under the supervision of Nelle B. O'Brien.
+PB  - Long Beach (California) Public Schools
+CY  - Long Beach, CA
+LA  - English
+CN  - 371.9 .L84v v. 2
+SC  - California
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A1  - Harter, Aubrey B.
+A2  - Long Beach (California) City Schools. Office of Curriculum Development
+T1  - The very superior pupil, a handbook for the senior high school teacher
+Y1  - 1955
+D1  - 1955
+KW  - Gifted children
+KW  - Curricula
+N1  - 36 l.; Other Titles: Superior pupil; Responsibility: Prepared by Aubrey B. Harter ... [et al.] under the supervision of William E. Keeley.
+PB  - Long Beach (California) Public Schools
+CY  - Long Beach, CA
+LA  - English
+CN  - 371.9 .L84v v. 3
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Long Beach (California) Unified School District
+T1  - Guide for teachers of the mentally retarded
+Y1  - 1959
+D1  - 1959
+SP  - 144
+KW  - Children with mental disabilities
+N1  - 144 p.
+PB  - Long Beach (California) Unified School District
+CY  - Long Beach, CA
+LA  - English
+CN  - 371.9 .L84gu
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Long Beach (California) Unified School District. Office of Curriculum Development. Division of Instruction
+T1  - The very superior pupil: a handbook for the elementary school teacher
+Y1  - 1958
+D1  - 1958
+KW  - Gifted children
+N1  - 42 l. 28 cm.
+PB  - Long Beach (California) Unified School District
+CY  - Long Beach, CA
+LA  - English
+CN  - 371.9 .L84v v. 1
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City Schools
+T1  - Characteristics and needs of disadvantaged children: an instructional bulletin
+Y1  - 1968
+D1  - 1968
+KW  - Children with social disabilities
+PB  - Los Angeles (California) City Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 371.9 .L87c
+SC  - California
+ER  - 
+
+TY  - BOOK
+ID  - 13441
+A2  - Los Angeles (California) City School District
+T1  - Communication skills for EMR pupils; teacher resource material, an instructional bulletin for elementary schools
+Y1  - 1973
+D1  - 1973
+SP  - 218
+KW  - Children with mental disabilities
+KW  - English language
+KW  - Reading
+N1  - vii; ill. 28 cm.; Note(s): Cover title.
+ED  - Experimental
+PB  - Los Angeles (California) City Schools, Special Instructional Programs Branch
+CY  - Los Angeles, CA
+LA  - English
+CN  - 371.9 .L87co
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District
+T1  - Daily living and physical education skills for EMR pupils : teacher resource material, an instructional bulletin for elementary schools
+Y1  - 1973
+SP  - 346
+KW  - Children with disabilities
+N1  - viii; ill. ; 28 cm.; Note(s): Cover title.
+ED  - Experimental
+PB  - Los Angeles (California) City Schools, Special Instructional Programs Branch
+CY  - Los Angeles, CA
+LA  - English
+CN  - 371.9 .L87d
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District
+T1  - Guidelines for teachers of classes for EMR pupils : a handbook for elementary schools and junior and senior high schools
+Y1  - 1972
+D1  - 1972
+SP  - 106
+KW  - Children with mental disabilities
+N1  - vi; ill. ; 28 cm.; Note(s): Includes bibliographical references (p. 105-107).; Responsibility: Division of Planning, Research, and Development, Los Angeles City Schools, 1972.
+T2  - Publication/Los Angeles City Schools
+V1  - GC-19
+PB  - Los Angeles (California) City Schools
+CY  - Los Angeles CA
+LA  - English
+CN  - 371.9 .L87g
+SC  - California
+G1  - Elementary
+G1  - Middle school
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District
+T1  - Education of the blind child; a guide for teachers
+Y1  - 1951
+D1  - 1951
+SP  - 245
+KW  - Blind
+N1  - 245 p. ill. 29 cm.
+T2  - School publication (Los Angeles City School District : numbered series)
+V1  - 522.
+PB  - Los Angeles (California) City School District, Curriculum Division
+CY  - Los Angeles, CA
+LA  - English
+CN  - 371.9 .L87e
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School Districts. Curriculum Division
+T1  - Practical arts, elementary special training school and classes
+Y1  - 1950
+D1  - 1950
+SP  - 288
+KW  - Home economics
+KW  - Handicraft
+N1  - 288 p. ill. 29 cm.
+T2  - School publication (Los Angeles City School District : numbered series)
+V1  - 509.
+PB  - Los Angeles (California) City School Districts
+CY  - Los Angeles, CA
+LA  - English
+CN  - 371.9 .L87p
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District
+T1  - Instructional guide for teachers of special training schools and classes
+Y1  - 1948
+D1  - 1948
+SP  - 351
+KW  - Children with mental disabilities
+N1  - 351 p. 28 cm.
+T2  - Los Angeles City School District.; Publication
+V1  - E C 136.
+PB  - Los Angeles City School Districts, Curriculum Division
+CY  - Los Angeles, CA
+LA  - English
+CN  - 371.9 .L87i
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District
+T1  - Program for intellectually gifted in junior and senior high schools
+Y1  - 1962
+D1  - 1962
+SP  - 8
+V1  - 8
+KW  - Gifted children
+N1  - 8 p.; Note(s): Cover title.
+PB  - Los Angeles City School Districts
+CY  - Los Angeles, CA
+LA  - English
+CN  - 371.9 .L87pg
+SC  - California
+G1  - Middle school
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District
+T1  - Schools and classes for exceptional children. The child with impaired vision
+Y1  - 1943
+D1  - 1943
+SP  - 48
+N1  - 48 p. ill.
+KW  - Children with disabilities
+T2  - Los Angeles (California) City School District. School publication
+V1  - 391
+PB  - Los Angeles (California) City Schools. Office of the Superintendent
+CY  - Los Angeles, CA
+LA  - English
+CN  - 371.9 .L87s
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City Schools
+T1  - Summary report of a planning team created to develop projects to expand opportunities for the educationally deprived pupil
+Y1  - 1963
+D1  - 02/1963
+SP  - 72
+KW  - Children with social disabilities
+PB  - Los Angeles (California) City School District
+CY  - Los Angeles, CA
+LA  - English
+CN  - 371.9 .L87sr
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Blaha, M. Jay
+A1  - Eales, John R.
+A1  - Nolan, Esther Grace
+A2  - Los Angeles County (California). Office of Superintendent of Schools. Division of Secondary Education
+T1  - The slow learner in the secondary school
+T2  - Los Angeles City School District. Secondary curriculum monograph
+V1  - M-70
+Y1  - 1949
+D1  - 09/1949
+SP  - 69
+KW  - Children with disabilities
+N1  - 69 leaves ; 28 cm.; Note(s): "Bulletin-Special #10:49-50 E."; Responsibility: -- prepared by M. Jay Blaha ... [et al.].
+PB  - Los Angeles (California) City School District
+CY  - Los Angeles, CA
+LA  - English
+CN  - 371.9 .L879s
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles County (California) Office of Superintendent of Schools
+T1  - A teacher's guide to curriculum development with the mentally retarded child
+Y1  - 1949
+D1  - 12/1949
+SP  - 61
+KW  - Children with mental disabilities
+PB  - Los Angeles County (California) Office of Superintendent of Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 371.9 .L879t
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Lubbock (Texas) Public Schools
+T1  - A handbook for the program of special education
+Y1  - 1957
+D1  - 1957
+SP  - 29
+KW  - Special education
+PB  - Lubbock (Texas) Public Schools
+CY  - Lubbock, TX
+LA  - English
+CN  - 371.9 .L92h
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - Manhasset (New York) Public Schools
+T1  - Educating the gifted in our schools: report of the Advisory Committee on Education to the Board of Education
+Y1  - 1956
+D1  - 11/1956
+SP  - 67
+KW  - Gifted children
+PB  - Manhasset (New York) Public Schools
+CY  - Manhasset, NY
+LA  - English
+CN  - 371.9 .M27e
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A1  - Howe, John W.
+A1  - Smith, Thomas W.
+A2  - Los Angeles (California). Office of the Superintendent of Schools
+T1  - Characteristics of mentally retarded children
+Y1  - 1950
+D1  - 09/1950
+SP  - 42
+KW  - Children with disabilities
+N1  - 42 l. illus.; Note(s): Includes bibliographical references.; Responsibility: Prepared by John W. Howe and Thomas W. Smith.
+PB  - Los Angeles (California). Office of the Superintendent of Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 371.9 .L879c
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles County (California). Office of the Superintendent of Schools
+T1  - Equipment and supplies suggested for classes in special education
+Y1  - 1952
+D1  - 11/1952
+SP  - 28
+KW  - Special education
+PB  - Los Angeles (California). Office of the Superintendent of Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 371.9 .L879e
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles County (California) Office of Superintendent of Schools
+T1  - Education in special training classes of children who are severely mentally retarded; a handbook for teachers to use with parents
+Y1  - 1960
+D1  - 1960
+SP  - 65
+KW  - Children with mental disabilities
+N1  - 65 p. 28 cm.
+PB  - Los Angeles County (California) Office of Superintendent of Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 371.9 .L879ed
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles County (California) Office of Superintendent of Schools
+T1  - Educating the mentally handicapped: a search for potentialities
+Y1  - 1960
+D1  - 06/1960
+SP  - 169
+KW  - Children with mental disabilities
+PB  - Los Angeles County (California) Office of Superintendent of Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 371.9 .L879em
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Maryland State Department of Education
+T1  - Planning for effective learning: children with special needs
+Y1  - 1958
+D1  - 1958
+SP  - 36
+KW  - Special education
+PB  - Maryland State Department of Education
+CY  - Baltimore, MD?
+LA  - English
+CN  - 371.9 .M39c
+SC  - Maryland
+ER  - 
+
+TY  - BOOK
+A2  - Maryland State Department of Education
+T1  - Educating the highly able
+Y1  - 1962
+D1  - 12/1962
+SP  - 43
+KW  - Gifted children
+AB  - Bound with:Public and school library development in Maryland -- Policies and programs public secondary education in Maryland -- Public adult education in Maryland.
+N1  - 43 pages 23 cm.; Note(s): Cover title.
+T2  - Maryland.; State Department of Education.; Maryland school bulletin
+V1  - 39
+IS  - 1
+PB  - Maryland State Department of Education
+CY  - Baltimore, MD
+LA  - English
+CN  - 371.9 .M39e
+SC  - Maryland
+ER  - 
+
+TY  - BOOK
+A1  - Kipfer, James F.
+A2  - Michigan Society for Mental Health
+T1  - School mental health project second year report, August 1, 1957 - July 31, 1958
+Y1  - 1958
+D1  - 12/1958
+SP  - 10
+ED  - 3rd.
+KW  - Mental health services
+N1  - vi; map ; 25 cm.; Note(s): "James F. Kipfer, coordinator"--Cover.
+PB  - Michigan Society for Mental Health
+CY  - Detroit, MI
+LA  - English
+CN  - 371.9 .M62s
+SC  - Michigan
+ER  - 
+
+TY  - BOOK
+A2  - Massachusetts Council for Public Schools
+T1  - Here's hope for the talented child; a description of several programs for talented students
+Y1  - 1958
+D1  - 1958?
+SP  - 22
+KW  - Gifted children
+N1  - 22 p. 16 x 23 cm.
+PB  - Massachusetts Council for Public Schools
+CY  - Boston, MA
+LA  - English
+CN  - 371.9 .M41h
+SC  - Massachusetts
+ER  - 
+
+TY  - BOOK
+A2  - Mecklenburg County (North Carolina) Schools. Special Education Department
+T1  - Down many paths
+Y1  - 1961
+D1  - 1961
+KW  - Special education
+PB  - Mecklenburg County (North Carolina) Schools
+CY  - Charlotte, NC
+LA  - English
+CN  - 371.9 .M47d
+SC  - North Carolina
+ER  - 
+
+TY  - BOOK
+A2  - Memphis (Tennessee) City Schools
+T1  - The superior-talented student project
+Y1  - 1963
+D1  - 06/1963
+SP  - 9
+KW  - Gifted children
+PB  - Memphis (Tennessee) City Schools
+CY  - Memphis, TN
+LA  - English
+CN  - 371.9 .M53s
+SC  - Tennessee
+ER  - 
+
+TY  - BOOK
+A2  - Michigan Migrant Program
+T1  - Handbook for teachers of migrant children
+Y1  - 1970
+D1  - 1970
+KW  - Children of migrant laborers
+KW  - Teaching aids
+N1  - 80 p. ; 28 cm.; Note(s): "Title I E.S.E.A.P.L. 89-750."/ Includes bibliographical references (p. 71-80).
+PB  - Michigan Department of Education, Migrant Education Program
+CY  - Lansing, MI
+LA  - English
+CN  - 371.9 .M61h
+SC  - Michigan
+ER  - 
+
+TY  - BOOK
+A2  - Michigan State Department of Education
+T1  - Michigan's special education programs for children who need extra help : childpower unlimited
+Y1  - 1969
+D1  - 1969
+SP  - 17
+KW  - Children with disabilities
+KW  - Special education
+N1  - 17 pages : illustrations ; 21 cm; Note(s): Cover title.; Other Titles: Childpower unlimited
+PB  - Michigan State Department of Education
+CY  - Lansing, MI
+LA  - English
+CN  - 371.9 .M61c
+SC  - Michigan
+ER  - 
+
+TY  - BOOK
+A2  - Missouri State Department of Education
+T1  - Curriculum guide for teachers of trainable mentally retarded children
+Y1  - 1970
+D1  - 1970
+SP  - 331
+KW  - Children with mental disabilities
+N1  - 331 pages; Note(s): Cover title./ "This publication [is] a revision of the Curriculum Guide published by the State Department of Education in 1967 ..."/ Includes bibliographical references.
+PB  - Missouri State Department of Education
+CY  - Jefferson City, MO
+LA  - English
+CN  - 371.9 .M671c
+SC  - Missouri
+ER  - 
+
+TY  - BOOK
+A1  - Gray,Susan Walton
+A1  - Klaus, Rupert A.
+A2  - George Peabody College for Teachers
+T1  - The Early Training Project: interim report
+Y1  - 1963
+D1  - 11/1963
+SP  - 25
+KW  - Children with social disabilities
+KW  - Preschool education
+N1  - ii; ill.; Note(s): Project supported by National Institute of Mental Health and National Institute of Child Health and Human Development with the cooperation of the Murfreesboro, Tenn., City Schools./ Bibliography: p. 91-96.; Responsibility: by Susan W. Gray ... [et al.].
+PB  - George Peabody College for Teachers
+CY  - Murfreesboro, TN
+LA  - English
+CN  - 371.9 .M97e
+SC  - Tennessee
+ER  - 
+
+TY  - BOOK
+A1  - Isaacs, Ann F.
+A2  - National Association for Gifted Children (U.S.)
+T1  - Guiding the growth and development of young gifted children
+Y1  - 1961
+D1  - 1961
+SP  - 15
+KW  - Gifted children
+N1  - ii; ; 22 cm.; Note(s): Cover title./ Includes bibliographical references (p. 12-15).; Responsibility: Ann F. Isaacs.
+PB  - National Association for Gifted Children
+CY  - Cincinnati, OH
+LA  - English
+CN  - 371.9 .N26g
+SC  - Ohio
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Modesto (California) City Schools
+T1  - Special training program for the mentally retarded. Elementary schools (K-6)
+Y1  - 1960
+D1  - 1960-1961
+SP  - 92
+KW  - Children with mental disabilities
+N1  - 92 p. ill.
+PB  - Modesto (California) City Schools
+CY  - Modesto, CA
+LA  - English
+CN  - 371.9 .M69s v. 1
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Modesto (California) City Schools
+T1  - Special training program for the mentally retarded. Mark Twain School (7th and 8th grades)
+Y1  - 1960
+D1  - 1960-1961
+SP  - 114
+KW  - Children with mental disabilities
+N1  - 114 p. ill.
+PB  - Modesto (California) City Schools
+CY  - Modesto, CA
+LA  - English
+CN  - 371.9 .M69s v. 2
+SC  - California
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Modesto (California) City Schools
+T1  - Special training program for the mentally retarded. Thomas Downey High School, Modesto High School, Grace M. Davis High School
+Y1  - 1960
+D1  - 1960-1961
+SP  - 101
+KW  - Children with mental disabilities
+N1  - 101 p. ill.
+PB  - Modesto (California) City Schools
+CY  - Modesto, CA
+LA  - English
+CN  - 371.9 .M69s v. 3
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Monterey County (California) Schools
+T1  - Guide for teachers of educable mentally retarded children
+KW  - Children with mental disabilities
+N1  - 1 v. (various pagings)
+PB  - Monterey County (California) Schools
+CY  - Salinas, CA
+LA  - English
+CN  - 371.9 .M77t
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Montgomery County (Maryland) Public Schools
+T1  - Guide for teachers of mentally retarded children, brain-injured children
+Y1  - 1955
+D1  - 09/1955
+KW  - Children with mental disabilities
+KW  - Brain-damaged children
+N1  - 377 p. ; 28 cm. --; Responsibility: Public Schools, Montgomery County, Maryland. --
+T2  - Bulletin (Montgomery County Public Schools (Md.))
+V1  - 139
+PB  - Montgomery County (Maryland) Public Schools
+CY  - Rockville, MD?
+LA  - English
+CN  - 371.9 .M78g v. 1
+SC  - Maryland
+ER  - 
+
+TY  - BOOK
+A2  - Montgomery County (Maryland) Public Schools
+T1  - Guide for teachers of trainable retarded children
+Y1  - 1955
+D1  - 09/1955
+KW  - Children with mental disabilities
+N1  - 377 p. ; 28 cm. --; Responsibility: Public Schools, Montgomery County, Maryland. --
+T2  - Bulletin (Montgomery County Public Schools (Md.))
+V1  - 140
+PB  - Montgomery County (Maryland) Public Schools
+CY  - Rockville, MD?
+LA  - English
+CN  - 371.9 .M78g v. 2
+SC  - Maryland
+ER  - 
+
+TY  - BOOK
+A1  - Chamberlain, Naomi H.
+A1  - Moss, Dorothy H.
+A2  - National Association for Retarded Children
+T1  - The three R's for the retarded: repetition, relaxation, and routine. A program for training the retarded child at home
+D1  - 1950s
+KW  - Children with mental disabilities
+N1  - 48 p.; Note(s): Also issued online.; Responsibility: [by] Naomi H. Chamberlain and Dorothy H. Moss.
+PB  - National Association for Retarded Children
+CY  - New York, NY
+LA  - English
+CN  - 371.9 .N27t
+ER  - 
+
+TY  - BOOK
+A2  - Communicative Skills Program
+T1  - A basic course in manual communication
+Y1  - 1973
+D1  - 1973
+SP  - 161
+KW  - Deafness
+KW  - Manual Communication
+N1  - x; ill. ; 23 cm.; Note(s): "This publication was supported, in part, jointly by grant RSA 44-P-8100/3-01 from the Department of Health, Education, and Welfare, Social and Rehabilitation Service, Rehabilitation Services Administration."/ "Manual communication bibliography": p. 121-126. "A selected annotated bibliography of books, films, and teaching media on sign language": p. 127-146.; Responsibility: Communicative Skills Program, Terence J. O'Rourke, director ; illustrated by Donald W. Lacock ; consultant, Shirley H. Glassman ; revision art by Shirley A. Hoemann.
+ED  - 2nd
+PB  - National Association for the Deaf
+CY  - Silver Spring, MD
+LA  - English
+CN  - 371.9 .N266b
+ER  - 
+
+TY  - BOOK
+A1  - Hungate, Vernon Edward
+A1  - Hiskey, Marshall S.
+T1  - Planning for mentally handicapped children in Nebraska public schools
+Y1  - 1957
+D1  - 1957
+SP  - 129
+KW  - Children with mental disabilities
+N1  - iv; 22 cm.; Note(s): Bibliography: p. 125-129.; Responsibility: By Vernon E. Hungate and Marshall S. Hiskey. Edited by George E. Rotter.
+PB  - Nebraska State Department of Education
+CY  - Lincoln, NE
+LA  - English
+CN  - 371.9 .N36p
+SC  - Nebraska
+ER  - 
+
+TY  - BOOK
+A1  - Hungate, Vernon Edward
+A1  - Carriker, William R.
+A1  - Holland, Dorothy E.
+T1  - Special education : a guide for providing programs for handicapped children in Nebraska public schools
+Y1  - 1955
+D1  - 1955
+SP  - 29
+KW  - Children with disabilities
+N1  - 29 pages ; 23 cm; Note(s): Includes bibliographical references (pages 24-29).; Responsibility: prepared by Vernon E. Hungate, William R. Carriker, Dorothy E. Holland.
+PB  - Nebraska State Department of Education, Division of Supervision
+CY  - Lincoln, NE
+LA  - English
+CN  - 371.9 .N36sp
+SC  - Nebraska
+ER  - 
+
+TY  - BOOK
+A1  - Murdoch, Thomas S.
+T1  - A curriculum guide for the educable retarded
+Y1  - 1964
+D1  - 1964
+SP  - 60
+KW  - Children with mental disabilities
+KW  - Education
+N1  - 60 p. ; 28 cm.; Responsibility: Thomas S. Murdoch.
+PB  - Nevada State Department of Education
+CY  - Carson City, NV
+LA  - English
+CN  - 371.9 .N49c
+SC  - Nevada
+ER  - 
+
+TY  - BOOK
+A2  - New Jersey State Department of Education
+T1  - Program for four-year-olds: the Junior Five Story
+SP  - 26
+KW  - Early childhood education
+PB  - New Jersey State Department of Education
+LA  - English
+CN  - 371.9 .N52j v. 2
+SC  - New Jersey
+G1  - Pre-K
+ER  - 
+
+TY  - BOOK
+A2  - New York City Board of Education
+T1  - The college bound program
+KW  - College students
+PB  - New York City Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 371.9 .N53c v. 1
+SC  - New York
+G1  - Postsecondary
+ER  - 
+
+TY  - BOOK
+A2  - New York City Board of Education
+T1  - Puerto Rican profiles; resource materials for teachers
+Y1  - 1964
+D1  - 1964
+SP  - 96
+KW  - Puerto Ricans
+AB  - In Puerto Rico : Background, The economy and politics, The culture, The Migrant -- In New York City : The people, Problems of adjustment, Problems of adequate housing, Economic status, The neighborhood and the schools, Contributions.
+N1  - 96 p.
+T2  - New York (New York).; Board of Education.; Curriculum bulletin
+V1  - 5
+PB  - New York (New York). Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 371.9 .N53p
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - New York City Board of Education
+T1  - Speech aids for children on home instruction
+Y1  - 1956
+D1  - 1956
+SP  - 44
+KW  - Speech
+N1  - ill. ; 23 cm.; Note(s): Includes bibliographical references (p. 42-44).; Responsibility: Board of Education of the City of New York.
+T2  - New York (New York).; Board of Education.; Curriculum bulletin ;; 1955-56 ser.
+V1  - 3
+PB  - New York (New York). Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 371.9 .N53s
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - New York City Board of Education
+T1  - Instructing visually limited boys and girls
+Y1  - 1957
+D1  - 1957
+SP  - 57
+KW  - Blind
+KW  - Children with visual disabilities
+N1  - viii; ill. ; 23 cm.; Note(s): Includes bibliographical references (p. 57).
+T2  - New York (New York).; Board of Education.; Curriculum bulletin.; 1956-57 series
+V1  - 6
+PB  - Board of Education of the City of New York
+CY  - New York, NY
+LA  - English
+CN  - 371.9 .N53i
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - New York City Board of Education
+T1  - New York City programs for the educationally disadvantaged
+Y1  - 1963
+D1  - 02/1963
+SP  - 13
+KW  - Children with social disabilities
+PB  - New York City Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 371.9 .N53n
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - National Association for Retarded Children
+T1  - Legislative and governor's commissions concerned with state legislation and programing for the mentally retarded, active during 1956-1959
+Y1  - 1959
+D1  - 03/1959
+SP  - 28
+KW  - Children with mental disabilities
+N1  - 28 p.
+PB  - National Association for Retarded Children
+CY  - New York, NY
+LA  - English
+CN  - 371.9 .N27L
+ER  - 
+
+TY  - BOOK
+A2  - National Education Association of the United States
+T1  - Finding and educating the academically talented student in the secondary school
+Y1  - 1958
+D1  - 1958
+SP  - 15
+KW  - Gifted children
+N1  - 15 p. ill. 26 cm.
+PB  - National Education Association
+CY  - Washington, DC
+LA  - English
+CN  - 371.9 .N277f
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Kirk, Samuel A.
+T1  - Public school provisions for severely retarded children; a survey of practices in the United States. Special report to the Interdepartmental Health Resources Board, Albany, New York
+Y1  - 1957
+D1  - 07/1957
+SP  - 87
+KW  - Children with mental disabilities
+N1  - 87 p.; Note(s): Includes bibliographical references.
+PB  - New York State Interdepartmental Health Resources Board
+CY  - Albany, NY
+LA  - English
+CN  - 371.9 .N532p
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - New York City Board of Education
+T1  - Speech for the retarded child; a teacher's handbook
+Y1  - 1960
+D1  - 1960
+SP  - 98
+KW  - Children with mental disabilities
+KW  - Children
+KW  - Speech
+N1  - 98 p. 23 cm.
+T2  - New York (New York).; Board of Education.; Curriculum bulletin, 1958-59 series
+V1  - 7
+PB  - New York (New York). Board of Education
+CY  - Brooklyn, NY
+LA  - English
+CN  - 371.9 .N53se
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Elementary Curriculum Development
+T1  - Educating migrant children
+Y1  - 1968
+D1  - 1968
+SP  - 80
+KW  - Children of migrant laborers
+KW  - Elementary education
+N1  - v; 22 cm.
+PB  - New York State Education Department
+CY  - Albany, NY
+CN  - 371.9 .N532e
+SC  - New York
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Elementary Curriculum Development
+T1  - Curriculum adaptations for the gifted
+Y1  - 1958
+D1  - 1958
+KW  - Gifted children
+N1  - 52 p. 23 cm.; Note(s): Includes bibliography.
+PB  - New York State Education Department
+CY  - Albany, NY
+LA  - English
+CN  - 371.9 .N532ca
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Secondary Curriculum Development
+T1  - 56 practices for the gifted from secondary schools of New York State
+Y1  - 1958
+D1  - 1958
+KW  - Gifted children
+N1  - 129 p. illus. 23 cm.; Responsibility: with selected bibliography.
+PB  - New York State Department of Education
+CY  - Albany, NY
+LA  - English
+CN  - 371.9 .N532f
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A1  - Morrill, Maurice B.
+A2  - Western Carolina College
+T1  - Gifted children. A special class conducted in the summer of 1958
+Y1  - 1959
+D1  - 01/1959
+SP  - 32
+KW  - Gifted children
+N1  - 32 p. ill. 22 cm.; Note(s): Bulletin ... Western Carolina College, v. 36, Suppl. no. 1 to no. 1, January 1959.; Responsibility: Maurice B. Morrill, editor.
+T2  - Western Carolina College Bulletin
+V1  - 36
+IS  - Suppl. no. 1 to no. 1
+PB  - Western Carolina College
+CY  - Cullowhee, NC
+LA  - English
+CN  - 371.9 .N859g
+SC  - North Carolina
+ER  - 
+
+TY  - BOOK
+A2  - New York (State). Youth Commission
+T1  - Reducing juvenile delinquency; what New York State schools can do
+Y1  - 1952
+D1  - 1952
+SP  - 34
+KW  - Juvenile delinquency
+N1  - 34 p. ill. 23 cm.
+PB  - New York State Youth Commission
+CY  - Albany, NY
+LA  - English
+CN  - 371.9 .N532r
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A1  - Barbe, Walter Burke
+A1  - Stephens, Thomas M.
+A1  - Horn, R. A.
+T1  - Educating tomorrow's leaders
+Y1  - 1961
+D1  - 1961
+SP  - 156
+KW  - Gifted children
+N1  - 156 p. 23 cm.; Note(s): Includes bibliographical references.; Responsibility: Walter B. Barbe and Thomas M. Stephens, editors. Prepared under the direction of R.A. Horn.
+PB  - Ohio State Board of Education
+CY  - Columbus, OH
+LA  - English
+CN  - 371.9 .O37e
+SC  - Ohio
+ER  - 
+
+TY  - BOOK
+A1  - Gibbony, Hazel Lee
+T1  - Enrichment -- classroom challenge
+Y1  - 1962
+D1  - 1962
+SP  - 90
+KW  - Teaching aids
+N1  - vii; 23 cm.; Note(s): Includes bibliographical references.; Responsibility: by Hazel L. Gibbony. Prepared under the direction of R.A. Horn, director, Division of Special Education.
+PB  - Ohio State Board of Education
+CY  - Columbus, OH
+LA  - English
+CN  - 371.9 .O37ec
+SC  - Ohio
+ER  - 
+
+TY  - BOOK
+A1  - New, Frank E.
+T1  - Guidelines, work-study phase of E.M.R. programs
+Y1  - 1972
+D1  - 1972
+SP  - 32
+KW  - Children with mental disabilities
+KW  - Cooperative education
+N1  - vi; 23 cm.; Note(s): Developed by the Division of Special Education./ Bibliography: p. 32.; Responsibility: by Frank E. New.
+PB  - Ohio Department of Education
+CY  - Columbus, OH
+LA  - English
+CN  - 371.9 .O37g
+SC  - Ohio
+ER  - 
+
+TY  - BOOK
+A2  - North Carolina. Commission to Study the Public School Education of Exceptionally Talented Children
+T1  - Practices in teaching the superior and gifted; final report
+Y1  - 1962
+D1  - 01/1962
+SP  - 274
+KW  - Gifted children
+N1  - 274 p. illus. 23 cm.
+PB  - North Carolina. Commission to Study the Public School Education of Exceptionally Talented Children
+CY  - Cullowhee, NC
+LA  - English
+CN  - 371.9 .N859p
+SC  - North Carolina
+ER  - 
+
+TY  - BOOK
+A2  - Oakland (California) Public Schools
+T1  - Program for academically gifted students in secondary schools
+Y1  - 1962
+D1  - 10/1962
+SP  - 6+
+KW  - Gifted children
+PB  - Oakland (California) Public Schools
+CY  - Oakland, CA
+LA  - English
+CN  - 371.9 .O11p
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Ohio State University. Bureau of Educational Research and Service
+T1  - A selected and annotated bibliography on the gifted
+Y1  - 1960
+D1  - 1960
+SP  - 172
+KW  - Gifted children
+KW  - Bibliography
+N1  - 172 p. 23 cm.
+PB  - Ohio State Board of Education
+CY  - Columbus, OH
+LA  - English
+CN  - 371.9 .O37s
+SC  - Ohio
+ER  - 
+
+TY  - BOOK
+A2  - Norfolk (Virginia) Public Schools
+T1  - Social studies : grade 4, curriculum guide
+Y1  - 1966
+D1  - 1966
+SP  - 42
+KW  - Social sciences
+N1  - 42 p. ; 29 cm.; Note(s): Cover title./ Includes bibliographical references (p. 41-42).
+PB  - Norfolk (Virginia) Public Schools
+CY  - Norfolk, VA
+LA  - English
+CN  - 371.33 .N83sc
+SC  - Virginia
+G2  - 4th grade
+ER  - 
+
+TY  - BOOK
+A1  - Rabinow, Barney
+T1  - The training and supervision of teachers for emotionally disturbed children
+Y1  - 1964
+D1  - 1964
+SP  - 67
+KW  - Mentally ill children
+KW  - Teacher training
+N1  - vi; 28 cm.; Note(s): Includes bibliographical references.
+PB  - University of the State of New York, Bureau of Teacher Education
+CY  - Albany, NY
+LA  - English
+CN  - 371.9 .N532t
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - Normandy (Missouri) School District
+T1  - A guide for the enrichment program in the Normandy Schools
+SP  - 26
+KW  - Curriculum enrichment
+PB  - Normandy (Missouri) School District
+CY  - St. Louis, MO
+LA  - English
+CN  - 371.9 .N84g
+SC  - Missouri
+ER  - 
+
+TY  - BOOK
+A2  - Oklahoma Curriculum Improvement Commission
+T1  - A program of education for exceptional children in Oklahoma
+Y1  - 1971
+D1  - 1971
+SP  - 131
+KW  - Children with disabilities
+N1  - v; 24 cm.; Note(s): "[Prepared] in cooperation with Oklahoma Curriculum Improvement Commission."/ Includes bibliographical references.
+T2  - Oklahoma Curriculum Improvement Commission.; Bulletin S.E.
+V1  - 8
+PB  - Oklahoma State Department of Education
+CY  - Oklahoma City, OK
+LA  - English
+CN  - 371.9 .O41p 1971
+SC  - Oklahoma
+ER  - 
+
+TY  - BOOK
+A2  - Oklahoma State Department of Education. Special Education Division
+A2  - Oklahoma Curriculum Improvement Commission
+T1  - A guide for teachers of trainable mentally retarded children.
+Y1  - 1968
+D1  - 1968
+SP  - 75
+KW  - Children with mental disabilities
+N1  - iv; 28 cm; Responsibility: prepared by teachers of mentally retarded children, school administrators, and college personnel in 1960 and revised by state Special Education Division personnel in 1968 in cooperation with Oklahoma Curriculum Improvement Commission.
+PB  - Oklahoma State Department of Education
+CY  - Oklahoma City, OK
+LA  - English
+CN  - 371.9 .O41g
+SC  - Oklahoma
+ER  - 
+
+TY  - BOOK
+A2  - Oklahoma State Department of Education. Special Education Section
+A2  - Oklahoma Curriculum Improvement Commission
+T1  - A program of education for exceptional children in Oklahoma : a handbook for administrators, boards of education, special education teachers, and others interested in handicapped children
+Y1  - 1968
+D1  - 1968
+SP  - 108
+KW  - Special education
+KW  - Children with disabilities
+KW  - Disabled Children
+N1  - v; ges ; 25 cm.; Note(s): Includes bibliographical references.; Responsibility: Division of Special Education, in cooperation with Oklahoma Curriculum Improvement Commission.
+T2  - Oklahoma.; State Department of Education.; Special Education Section.; Bulletin S.E.
+V1  - 7
+IS  - Rev.
+PB  - Oklahoma State Dept. of Education
+CY  - Oklahoma City, OK
+LA  - English
+CN  - 371.9 .O41p 1968
+SC  - Oklahoma
+ER  - 
+
+TY  - BOOK
+A2  - Oklahoma State Department of Education. Special Education Section
+A2  - Oklahoma Curriculum Improvement Commission
+T1  - A program of education for exceptional children in Oklahoma : a handbook for administrators, boards of education, special education teachers, and others interested in exceptional children
+Y1  - 1976
+D1  - 1976
+SP  - 145
+KW  - Children with disabilities
+KW  - Gifted children
+N1  - vii; ges ; 23 cm.; Note(s): Includes bibliographical references.; Responsibility: Special Education Section, in cooperation with Oklahoma Curriculum Improvement Commission, Curriculum Section.
+T2  - Oklahoma.; State Department of Education.; Special Education Section.; Bulletin S.E.
+V1  - 10
+ED  - Rev. ed.
+PB  - Oklahoma State Dept. of Education
+CY  - Oklahoma City, OK
+LA  - English
+CN  - 371.9 .O41p 1976
+SC  - Oklahoma
+ER  - 
+
+TY  - BOOK
+A1  - Hutchinson, Linn
+T1  - Work experience education for the educable mentally retarded
+Y1  - 1963
+D1  - 05/1963
+SP  - 66
+KW  - Children with mental disabilities
+KW  - Vocational education
+N1  - v, 66 leaves ; 28 cm.; Responsibility: by Linn Hutchinson and EMR Steering Committee.
+PB  - Orange County Department of Education
+CY  - Santa Ana, CA
+CN  - 371.9 .O64e v. 3
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Hutchinson, Linn
+T1  - Unit organization for teaching the educable mentally retarded
+SP  - 24
+KW  - Children with mental disabilities
+N1  - 24 leaves 28 cm.; Note(s): "Educational Services Division. Bulletin EM-3708."/ Bibliography: leaves 23-24.; Responsibility: by Linn Hutchinson.
+PB  - California, Office of the Orange County Superintendent of Schools
+CY  - Santa Ana, CA
+CN  - 371.9 .O64e v. 4
+ER  - 
+
+TY  - BOOK
+A1  - Williamson, Margaret
+A1  - Hutchinson, Linn
+A2  - Orange County (California) Schools
+T1  - Health education for the educable mentally retarded; a curriculum guide for primary and intermediate teachers
+Y1  - 1962
+D1  - 09/1962
+SP  - 9
+KW  - Children with mental disabilities
+N1  - ii, 9 l. 28 cm.; Responsibility: Prepared by Margaret Williamson.
+PB  - Orange County (California) Schools
+CY  - Santa Ana, CA
+CN  - 371.9 .O65e v. 2
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Orange County (California) Schools
+T1  - Orange County special training program: trainable mentally retarded children
+Y1  - 1961
+D1  - 01/1961
+SP  - 19
+KW  - Children with mental disabilities
+KW  - Curricula
+N1  - 19 leaves : ill. ; 28 cm.
+T2  - Santa Ana, Cal. Orange County Schools.; Bulletin series S
+V1  - 123
+PB  - Orange County (California) Schools
+CY  - Santa Ana, CA
+CN  - 371.9 .O64e v. 1
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - McQuiston, Mason Dale
+A2  - Oregon State Department of Education. Special Education Section
+T1  - Oregon program for special education services for mentally retarded school children
+Y1  - 1955
+D1  - 1955
+SP  - 9+
+KW  - Children with mental disabilities
+KW  - Special education
+N1  - 9 leaves; unpaged Appendix; 29 cm; Responsibility: prepared by Mason D. McQuiston.
+PB  - Oregon State Department of Education
+CY  - Salem, OR
+CN  - 371.9 .O66o
+SC  - Oregon
+ER  - 
+
+TY  - BOOK
+A1  - Meyer, Jayne A.
+T1  - An analysis of recent articles related to ability grouping
+Y1  - 1966
+D1  - 05/1965
+SP  - 14
+KW  - Ability grouping in education
+KW  - Evaluation
+N1  - 14 leaves ; 28 cm.; Note(s): Cover.; Responsibility: by Jayne A. Meyer 
+T2  - Curriculum bulletin (University of Oregon. School of Education)
+V1  - 21
+IS  - 256
+PB  - University of Oregon. School of Education
+CY  - Eugene, OR
+CN  - 371.9 .O67a
+SC  - Oregon
+ER  - 
+
+TY  - BOOK
+A2  - Oregon State Department of Education
+T1  - Special education, the Oregon program; a handbook for school administrators, directors of special education programs, and special education teachers
+Y1  - 1957
+D1  - 1957
+SP  - 57
+KW  - Children with disabilities
+N1  - 57 l. 28 cm.; "Approved by the State Board of Education, September 11, 1956."
+PB  - Oregon State Department of Education
+CY  - Salem, OR
+CN  - 371.9 .O66s
+SC  - Oregon
+ER  - 
+
+TY  - BOOK
+A2  - Oregon. Governor's Education Improvement Advisory Commission
+T1  - Programs for children whose basic educational needs require specialized additional attention and services; a statement with suggested guidelines for Oregon schools
+Y1  - 1965
+D1  - 1965
+SP  - 21
+KW  - Children with disabilities
+N1  - 21 p. 28 cm.; Note(s): Cover title: Programs for children with special educational needs.; Other Titles: Programs for children with special educational needs
+T2  - Oregon. Governor's Education Improvement Advisory Commission. Report
+V1  - 1
+PB  - Division of Education Development, Oregon State Department of Education
+CY  - Salem, OR
+CN  - 371.9 .O66p
+SC  - Oregon
+ER  - 
+
+TY  - BOOK
+A2  - Orange County (California) Schools
+T1  - Education of neurologically handicapped children in the regular classroom: a guide for teachers
+Y1  - 1959
+D1  - 12/1959
+SP  - 26
+KW  - Children with mental disabilities
+T2  - Santa Ana, California Orange County Schools.; Bulletin series S
+V1  - 116
+PB  - Orange County (California) Schools
+CY  - Santa Ana, CA
+CN  - 371.9 .O64n
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Gifford, Grant R.
+T1  - Creativity: its identification and development
+Y1  - 1964
+D1  - 05/1964
+KW  - Creative ability
+KW  - Creative thinking
+SP  - 26
+N1  - 26 p. 28 cm.; Note(s): Cover title./ Bibliography: p. 24-26.; Responsibility: editor, Hugh B. Wood.
+T2  - Oregon. University. Curriculum bulletin
+V1  - 20
+IS  - 244
+PB  - University of Oregon. School of Education
+CY  - Eugene, OR
+CN  - 371.9 .O67c
+SC  - Oregon
+ER  - 
+
+TY  - BOOK
+A1  - Leavitt, Florence E.
+T1  - The culturally disadvantaged
+Y1  - 1967
+D1  - 09/1967
+SP  - 138
+KW  - Children with social disabilities
+N1  - 138 [i.e. 70] p. 28 cm.; Note(s): Cover title./ Bibliography: p. 80-138.; Responsibility: editor, Hugh B. Wood. 
+T2  - Oregon. University. Curriculum bulletin
+V1  - 23
+IS  - 282
+PB  - University of Oregon. School of Education
+CY  - Eugene, OR
+CN  - 371.9 .O67cu
+SC  - Oregon
+ER  - 
+
+TY  - BOOK
+A1  - Nielsen, Margaret A.
+T1  - The chewing method in certain aspects of speech therapy
+Y1  - 1968
+D1  - 04/1968
+SP  - 6
+KW  - Speech therapy
+N1  - 6 p.; Note(s): Cover title.
+T2  - Oregon. University. Curriculum bulletin
+V1  - 24
+IS  - 289
+PB  - University of Oregon. School of Education
+CY  - Eugene, OR
+CN  - 371.9 .O67ch
+SC  - Oregon
+ER  - 
+
+TY  - BOOK
+A1  - Armstrong, Jeanne
+T1  - Socialization and acculturation of deprived young children in schools
+Y1  - 1968
+D1  - 09/1968
+SP  - 4
+KW  - Socialization
+KW  - Children with social disabilities
+N1  - 4 p.
+T2  - Oregon. University. Curriculum bulletin
+V1  - 24
+IS  - 294
+PB  - University of Oregon. School of Education
+CY  - Eugene, OR
+CN  - 371.9 .O67s
+SC  - Oregon
+ER  - 
+
+TY  - BOOK
+A1  - Farrow, Vern L.
+A2  - University of Oregon. School of Education
+T1  - Music and the mentally retarded child; an annotated bibliography
+Y1  - 1963
+D1  - 06/1963
+SP  - 7
+KW  - Children with mental disabilities
+KW  - Bibliography
+KW  - Music
+N1  - 7 p.
+T2  - Oregon. University. Curriculum bulletin
+V1  - 19
+IS  - 235
+PB  - University of Oregon. School of Education
+CY  - Eugene, OR
+CN  - 371.9 .O67
+SC  - Oregon
+ER  - 
+
+TY  - BOOK
+A1  - Wood, Hugh B.
+A2  - University of Oregon. School of Education
+T1  - Random excerpts on the disadvantaged
+Y1  - 1965
+D1  - 12/1965
+SP  - 16
+KW  - Children with social disabilities
+T2  - Oregon. University. Curriculum bulletin
+V1  - 21
+IS  - 262
+PB  - University of Oregon. School of Education
+CY  - Eugene, OR
+CN  - 371.9 .O67r
+SC  - Oregon
+ER  - 
+
+TY  - BOOK
+A1  - Lindsley, Ogden R.
+A1  - Haughton, Eric
+T1  - Direct measurement and prosthesis of retarded behavior
+Y1  - 1969
+D1  - 06/1969
+SP  - 24+
+KW  - Children with mental disabilities
+N1  - 24, [7] p. charts, graph. 28 cm.; Note(s): Cover title./ Bibliography: p. 21-23.; Responsibility: Revised by Eric Haughton. editor, Hugh B. Wood.
+T2  - Oregon. University. Curriculum bulletin
+V1  - 25
+IS  - 303
+PB  - University of Oregon. School of Education
+CY  - Eugene, OR
+CN  - 371.9 .O67d
+SC  - Oregon
+ER  - 
+
+TY  - BOOK
+A1  - Nugent, Anne Graham
+T1  - Prelude to kindergarten; a summary of a research project
+Y1  - 1959
+D1  - 1959
+SP  - 67
+KW  - Early childhood education
+KW  - Blind
+N1  - 67 p. illus. 24 cm.; Note(s): Bibliography: p. 33-36.; Responsibility: sponsored by the Dolfinger-McMahon Foundation, Philadelphia.
+PB  - Overbrook School for the Blind
+CY  - Philadelphia, PA
+CN  - 371.9 .O96p
+G1  - Pre-K
+ER  - 
+
+TY  - BOOK
+A1  - Sheperd, George
+T1  - The education of educable mentally retarded students in secondary schools; a review of the literature
+Y1  - 1967
+D1  - 07/1967
+SP  - 31
+KW  - Children with mental disabilities
+N1  - 31 p. 28 cm.; Note(s): Cover title./ Bibliography: p. 29-31.; Responsibility: editor, Hugh B. Wood.
+T2  - Oregon. University. Curriculum bulletin
+V1  - 23
+IS  - 280
+PB  - University of Oregon. School of Education
+CY  - Eugene, OR
+CN  - 371.9 .O67e
+SC  - Oregon
+G1  - High school
+ER  - 

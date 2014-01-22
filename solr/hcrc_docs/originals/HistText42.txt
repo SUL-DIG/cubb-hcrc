@@ -1,0 +1,1743 @@
+
+
+
+
+TY  - BOOK
+A1  - Ianora, Dorothy
+A1  - Brandwein, Paul F.
+A1  - Lansdown, Brenda
+A1  - Raskin, Abraham
+A1  - Metzner, Jerome
+A1  - Williams, Harry H.
+A2  - National Science Teachers Association
+T1  - Abstracts of science teaching ideas; from all entries in the 1953 and 1954 programs of recognition awards for science teachers
+Y1  - 1955
+D1  - 1955
+SP  - 23
+KW  - Science
+KW  - Awards
+N1  - 23 p. 24 cm.; Responsibility: Edited by Dorthy Ianora.
+PB  - National Science Teachers Association
+CY  - Washington, DC
+LA  - English
+CN  - 519 .N27a
+ER  - 
+
+TY  - BOOK
+A2  - National Science Teachers Association
+T1  - NTA membership service
+Y1  - 1953
+D1  - 06/1953
+SP  - 11
+KW  - Science
+PB  - National Science Teachers Association
+CY  - Washington, DC
+LA  - English
+CN  - 519 .N27b 
+ER  - 
+
+TY  - BOOK
+A1  - Mallinson, George Greisen
+A1  - Mallinson, Jacqueline V. Buck
+T1  - A bibliography of reference books for elementary science
+Y1  - 1960
+D1  - 1960
+SP  - 40
+KW  - Science
+KW  - Bibliography
+KW  - Reference books
+N1  - iv; 28 cm.; Responsibility: [by] George Greisen Mallinson and Jacqueline V. Buck.
+PB  - National Science Teachers Association
+CY  - Washington, DC
+LA  - English
+CN  - 519 .N27br 1960
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Mallinson, George Greisen
+A1  - Mallinson, Jacqueline V. Buck
+T1  - A bibliography of reference books for elementary science
+Y1  - 1956
+D1  - 1956
+SP  - 37
+KW  - Science
+KW  - Bibliography
+KW  - Reference books
+N1  - iv, 37 l. 28 cm.
+VL  - 1958 ed. [By] George Greisen Mallinson and Jacqueline V. Buck Mallinson
+PB  - National Science Teachers Association
+CY  - Washington, DC
+LA  - English
+CN  - 519 .N27br
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - National Committee for the Development of Scientists and Engineers (U.S.)
+T1  - Improving science and mathematics education
+Y1  - 1957
+D1  - 1957-1958
+KW  - Science
+KW  - Mathematics
+PB  - National Committee for the Development of Scientists and Engineers (U.S.)
+CY  - Washington, DC
+LA  - English
+CN  - 519 .N269i
+ER  - 
+
+TY  - BOOK
+A2  - National Science Teachers Association. Commission on Professional Standards and Practices
+T1  - Conditions for good science teaching in secondary schools : recommendations of the Commission on Professional Standards and Practices of the National Science Teachers Association
+Y1  - 1970
+D1  - 1970
+SP  - 16
+KW  - Science
+PB  - National Science Teachers Association
+CY  - Washington, DC
+LA  - English
+CN  - 519 .N27c
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Elementary Curriculum Development
+T1  - Geometry and measurement
+Y1  - 1965
+D1  - 1965
+SP  - 28
+EP  - 28
+KW  - Geometry
+KW  - Mensuration
+N1  - v; illus. 22 cm.; Note(s): "No. 5 of a series of informational pamphlets about elementary school mathematics."/ Material directly related to Mathematics K-6./ Bibliography: p. 28.
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 511.2 .N53g
+SC  - New York
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - National Appliance Company
+T1  - Laboratory apparatus
+Y1  - 1956
+D1  - 1956?
+KW  - Scientific equipment
+PB  - National Appliance Company
+CY  - Portland, OR
+LA  - English
+CN  - 519 . N26L
+ER  - 
+
+TY  - BOOK
+A1  - Mervine, Kathryn E.
+A1  - Cawley, Rebecca E.
+T1  - Energy-environment materials guide
+Y1  - 1975
+D1  - 1975
+KW  - Power resources
+KW  - Bibliography
+KW  - Environmental protection
+KW  - Pollution
+N1  - 57 p. in various pagings ; 28 cm.; Note(s): Includes index.; Responsibility: Kathryn E. Mervine and Rebecca E. Cawley.
+PB  - National Science Teachers Association
+CY  - Washington, DC
+LA  - English
+CN  - 519 .N27e
+ER  - 
+
+TY  - BOOK
+A1  - George, Kenneth D.
+T1  - How to utilize the services of a science consultant to improve school science programs
+Y1  - 1965
+D1  - 1965
+KW  - Science consultants
+N1  - ill. ; 28 cm.; Other Titles: Utilize the services of a science consultant ...; Responsibility: Kenneth D. George.
+T2  - National Science Teachers Association. Instructional aid; National Science Teachers Association. How to do it pamphlet series
+PB  - National Science Teachers Association
+CY  - Washington, DC
+LA  - English
+CN  - 519 .N27h no. 1
+ER  - 
+
+TY  - BOOK
+A1  - Hurd, Paul DeHart
+T1  - How to teach science through field studies
+Y1  - 1965
+D1  - 1965
+SP  - 11
+KW  - Science
+KW  - Fieldwork
+N1  - ill. ; 28 cm.; Note(s): Caption title./ Includes bibliographical references (p. 11).; Responsibility: Paul DeHart Hurd.
+T2  - National Science Teachers Association. Instructional aid; National Science Teachers Association. How to do it pamphlet series
+PB  - National Science Teachers Association
+CY  - Washington, DC
+LA  - English
+CN  - 519 .N27h no. 3
+ER  - 
+
+TY  - BOOK
+A1  - Munch, Theodore W.
+T1  - How to individualize science instruction in the elementary school
+Y1  - 1965
+D1  - 1955
+SP  - 12
+KW  - Science
+N1  - 12 p. ill. 28 cm.
+T2  - National Science Teachers Association. Instructional aid; National Science Teachers Association. How to do it pamphlet series
+PB  - National Science Teachers Association
+CY  - Washington, DC
+LA  - English
+CN  - 519 .N27h no. 5
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Pratt, Grace K.
+T1  - How to care for living things in the classroom
+Y1  - 1965
+D1  - 1965
+KW  - Animal welfare
+KW  - House plants
+N1  - ill. ; 28 cm.; Note(s): Includes bibliographical references (p. [15]).; Responsibility: Grace K. Pratt.
+T2  - National Science Teachers Association. Instructional aid; National Science Teachers Association. How to do it pamphlet series
+PB  - National Science Teachers Association
+CY  - Washington, DC
+LA  - English
+CN  - 519 .N27h no. 2
+ER  - 
+
+TY  - BOOK
+A1  - Hurd, Paul DeHart
+T1  - Let's take a field trip
+Y1  - 1956
+D1  - 1956
+SP  - 12
+KW  - Science
+T2  - National Science Teachers Association. Pamphlet Series
+V1  - 1
+PB  - National Science Teachers Association
+CY  - Washington, DC
+LA  - English
+CN  - 519 .N27p
+ER  - 
+
+TY  - BOOK
+A1  - Bryan, J. Ned
+A1  - West Coast Summer Conference for General Science Teachers. Oregon State College, 1958
+T1  - Science in the junior high school : report of the 1958 West Coast Summer Conference
+Y1  - 1959
+D1  - 1959
+SP  - 22
+KW  - Science
+PB  - National Science Teachers Association
+CY  - Washington, DC
+LA  - English
+CN  - 519 .N27sc
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A1  - Raskin, Abraham H.
+T1  - STAR ideas in science teaching : a selection from the winning entries in the 1956-57 Science teacher achievement recognition program
+Y1  - 1957
+D1  - 1957
+SP  - 47
+KW  - Science
+N1  - ill. ; 22 x 28 cm.; Other Titles: Science teacher achievement recognition program.; Responsibility: edited by Abraham Raskin.
+PB  - National Science Teachers Association
+CY  - Washington, DC
+LA  - English
+CN  - 519 .N27si
+ER  - 
+
+TY  - BOOK
+A1  - Raskin, Abraham H.
+A1  - National Science Teachers Association
+T1  - Science teaching ideas ii
+Y1  - 1955
+D1  - 1955
+SP  - 47
+KW  - Science
+N1  - 47 p. ill.; Note(s): The second collection of ideas submitted to the program of Recognition Awards for Science Teachers; the first has title: Selected science teaching ideas of 1952.; Responsibility: ed. by Abraham Raskin.
+PB  - National Science Teachers Association
+CY  - Washington, DC
+LA  - English
+CN  - 519 .N27s v. 2
+ER  - 
+
+TY  - BOOK
+A1  - Raskin, Abraham H.
+A1  - National Science Teachers Association
+T1  - Star '58 : a selection from the winning entries in the 1958 Science Teacher Achievement Recognition Program
+Y1  - 1958
+D1  - 1958
+SP  - 51
+KW  - Science
+N1  - ill. ; 22 x 28 cm.; Note(s): Includes bibliographical references.; Responsibility: edited by Abraham Raskin.
+PB  - National Science Teachers Association
+CY  - Washington, DC
+LA  - English
+CN  - 519 .N27ss
+ER  - 
+
+TY  - BOOK
+A1  - Bruce, Guy V.
+T1  - Experiments with water
+Y1  - 1950
+D1  - 1950
+SP  - 48
+KW  - Science
+T2  - Science teaching today
+V1  - 1
+PB  - National Science Teachers Association
+CY  - Washington, DC
+LA  - English
+CN  - 519 .N27st v. 1
+ER  - 
+
+TY  - BOOK
+A1  - Bruce, Guy V.
+T1  - Experiments with air
+Y1  - 1950
+D1  - 1950
+SP  - 44
+KW  - Science
+T2  - Science teaching today
+V1  - 2
+PB  - National Science Teachers Association
+CY  - Washington, DC
+LA  - English
+CN  - 519 .N27st v. 2
+ER  - 
+
+TY  - BOOK
+A1  - Bruce, Guy V.
+T1  - Experiences with heat
+Y1  - 1951
+D1  - 1951
+SP  - 40
+KW  - Science
+T2  - Science teaching today
+V1  - 4
+PB  - National Science Teachers Association
+CY  - Washington, DC
+LA  - English
+CN  - 519 .N27st v. 4
+ER  - 
+
+TY  - BOOK
+A1  - Bruce, Guy V.
+T1  - Experiences with magnetism and electricity
+Y1  - 1951
+D1  - 1951
+SP  - 72
+KW  - Science
+T2  - Science teaching today
+V1  - 5
+PB  - National Science Teachers Association
+CY  - Washington, DC
+LA  - English
+CN  - 519 .N27st v. 5
+ER  - 
+
+TY  - BOOK
+A1  - Bruce, Guy V.
+T1  - Experiences with sound
+Y1  - 1951
+D1  - 1951
+SP  - 44
+KW  - Science
+T2  - Science teaching today
+V1  - 6
+PB  - National Science Teachers Association
+CY  - Washington, DC
+LA  - English
+CN  - 519 .N27st v. 6
+ER  - 
+
+TY  - BOOK
+A1  - Bruce, Guy V.
+T1  - Experiences with heat
+Y1  - 1951
+D1  - 1951
+SP  - 47
+KW  - Science
+T2  - Science teaching today
+V1  - 7
+PB  - National Science Teachers Association
+CY  - Washington, DC
+LA  - English
+CN  - 519 .N27st v. 7
+ER  - 
+
+TY  - BOOK
+A1  - Burnett, R. Will
+T1  - Combatting prejudice through science teaching
+Y1  - 1952
+D1  - 1952
+SP  - 31
+KW  - Science
+T2  - Science teaching today: a series of practical teaching aids
+V1  - 8
+PB  - National Science Teachers Association
+CY  - Washington, DC
+LA  - English
+CN  - 519 .N27st v. 8
+ER  - 
+
+TY  - BOOK
+A1  - Barnard, J. Darrell
+A2  - National Education Association of the United States
+A2  - Department of Classroom Teachers
+A2  - American Educational Research Association
+T1  - Teaching high-school science
+Y1  - 1956
+D1  - 04/1956
+SP  - 33
+KW  - Science
+N1  - 33 pages : illustrations ; 22 cm.; Note(s): Cover title./ Includes bibliographical references (pages 31-33).; Responsibility: J. Darrell Barnard.
+T2  - What research says to the teacher
+V1  - 10
+ED  - 1st
+PB  - American Educational Research Association of the National Education Association
+CY  - Washington, DC
+LA  - English
+CN  - 519 .N277t
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Greer, Edith Christine Simanek
+A1  - Rotter, George E.
+A1  - Waite, Evangeline
+A2  - Nebraska State Department of Education
+T1  - Science for Nebraska elementary school children : course of study and instructional guide
+Y1  - 1951
+D1  - 1951
+SP  - 204
+KW  - Science
+KW  - Curricula
+N1  - viii; ges : illustrations ; 23 cm; Responsibility: prepared by Edith S. Greer and George E. Rotter.
+PB  - Nebraska State Department of Education
+CY  - Lincoln, NE
+LA  - English
+CN  - 519 .N36s
+SC  - Nebraska
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Nederland (Texas) Independent School District
+T1  - Science for grades 6, 7, 8, & 9 : an approach to individualization of instruction in sixth grade science, Life Science 7, Earth Science 8, Physical Science 9 at Central Junior High School, C.O. Wilson Junior High School
+Y1  - 1966
+D1  - 08/1966
+KW  - Science
+KW  - Curriculum planning
+KW  - Curricula
+N1  - 1 v. (unpaged) ; 37 cm.; Note(s): Cover title./ Includes bibliographical references.
+ED  - Experimental ed.
+PB  - Nederland (Texas) Independent School District
+CY  - Nederland, TX
+LA  - English
+CN  - 519 .N37s v. 1
+SC  - Texas
+G2  - 6th
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Nederland (Texas) Independent School District
+T1  - Science for grades 10, 11, & 12 : an approach to individualization of instruction in Biology 23, Biology 33, Chemistry 33, Chemistry 43, Physics 43
+Y1  - 1966
+D1  - 08/1966
+KW  - Science
+KW  - Curriculum planning
+KW  - Curricula
+N1  - 1 v. (unpaged) ; 36 cm.; Note(s): Includes bibliographical references.
+ED  - Rev. ed., 1966
+PB  - Nederland (Texas) Independent School District
+CY  - Nederland, TX
+LA  - English
+CN  - 519 .N37s v. 2
+SC  - Texas
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - New Albany-Floyd County (Indiana) Consolidated School Corp.
+T1  - Elementary science suggestions
+Y1  - 1954
+D1  - 1954-1959
+KW  - Science
+PB  - New Albany-Floyd County (Indiana) Consolidated School Corp.
+CY  - New Albany, IN
+LA  - English
+CN  - 519 .N51e
+SC  - Indiana
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - New Albany-Floyd County (Indiana) Consolidated School Corp
+T1  - Nature study and conservation : an educational tour unit for grade six
+Y1  - 1962
+D1  - 03/1962
+SP  - 34
+KW  - Nature study
+KW  - Nature centers
+N1  - ill. ; 23 cm.; Responsibility: New Albany-Floyd County Consolidated School Corp.
+PB  - New Albany-Floyd County School Print Shop
+CY  - New Albany, IN
+LA  - English
+CN  - 519 .N51n
+SC  - Indiana
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - New Albany-Floyd County (Indiana) Consolidated School Corp
+T1  - A tentative unit outline for nature study and conservation at Floyd County Conservation Club
+Y1  - 1958
+D1  - 04/1958
+SP  - 39
+KW  - Nature study
+KW  - Nature centers
+N1  - ill. ; 23 cm.; Responsibility: New Albany-Floyd County Consolidated School Corp.
+PB  - New Albany-Floyd County School Print Shop
+CY  - New Albany, IN
+LA  - English
+CN  - 519 .N51t
+SC  - Indiana
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - New Jersey State Department of Education. Division of Curriculum and Instruction
+T1  - Teaching science; a guide to the problem approach
+Y1  - 1958
+D1  - 1958
+SP  - 110
+KW  - Science
+ED  - First rev.
+PB  - New Jersey State Department of Education. Division of Curriculum and Instruction
+CY  - Trenton, NJ
+LA  - English
+CN  - 519 .N52t
+SC  - New Jersey
+ER  - 
+
+TY  - BOOK
+A2  - New South Wales Department of Education
+T1  - Science bulletin for teachers in secondary schools
+Y1  - 1968
+D1  - 1968
+SP  - 65
+KW  - Science
+PB  - New South Wales Department of Education
+CY  - Sydney, NSW
+LA  - English
+CN  - 519 .N53s #12
+SC  - Australia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New York (New York) Board of Education
+T1  - Course of study in science for the elementary schools: grades K-6
+Y1  - 1954
+D1  - 1954
+SP  - 14
+KW  - Science
+N1  - 14 p. 24 cm.
+PB  - New York (New York) Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 519 .N531c
+SC  - New York
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - New York (New York) Board of Education. Committee on science
+T1  - For greater safety in science teaching
+Y1  - 1961
+D1  - 02/1961
+SP  - 25
+KW  - Accident prevention
+KW  - Science
+N1  - 25 p.; Other Titles: Safety in science teaching
+ED  - 2nd rev.
+PB  - New York (New York) Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 519 .N531f
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - New York (New York) Board of Education
+T1  - General science: course of study and syllabus, grades 7, 8, 9
+Y1  - 1959
+D1  - 1959
+SP  - 265
+KW  - Science
+N1  - 265 p. illus. 23 cm.
+T2  - New York (New York) Board of Education. Curriculum bulletin, 1958-59 series
+V1  - 4
+PB  - New York (New York) Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 519 .N531g 1959
+SC  - New York
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - New York (New York) Board of Education
+T1  - Science grade 7: 3. The materials of life
+Y1  - 1964
+D1  - 1964
+SP  - 41
+KW  - Science
+KW  - Biology
+T2  - New York (New York) Board of Education. Curriculum bulletin, 1962-63 series
+V1  - 9C
+PB  - New York (New York) Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 519 .N531g supp. A
+SC  - New York
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A2  - New York (New York) Board of Education
+T1  - Science grade 8: matter and energy in physics
+Y1  - 1964
+D1  - 1964
+SP  - 35
+KW  - Science
+KW  - Physics
+T2  - New York (New York) Board of Education. Curriculum bulletin, 1964-65 series
+V1  - 3b
+PB  - New York (New York) Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 519 .N531g supp. B
+SC  - New York
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - New York (New York) Board of Education
+T1  - Science grade 9: reactions of metals
+Y1  - 1965
+D1  - 1965
+SP  - 50
+KW  - Science
+T2  - New York (New York) Board of Education. Curriculum bulletin, 1965-66 series
+V1  - 3a
+PB  - New York (New York) Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 519 .N531s v. 1
+SC  - New York
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - New York (New York) Board of Education
+T1  - Science grade 9: wave and mechanical motion
+Y1  - 1966
+D1  - 1966
+SP  - 42
+KW  - Science
+KW  - Physics
+T2  - New York (New York) Board of Education. Curriculum bulletin, 1965-66 series
+V1  - 3b
+PB  - New York (New York) Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 519 .N531s v. 2
+SC  - New York
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - New York (New York) Board of Education
+T1  - Science grade 9: reproduction and heredity
+Y1  - 1966
+D1  - 1966
+SP  - 46
+KW  - Science
+KW  - Biology
+T2  - New York (New York) Board of Education. Curriculum bulletin, 1965-66 series
+V1  - 3c
+PB  - New York (New York) Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 519 .N531s v. 3
+SC  - New York
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - New York (New York) Board of Education
+T1  - Science grade 9: matter and life in space
+Y1  - 1966
+D1  - 1966
+SP  - 46
+KW  - Science
+T2  - New York (New York) Board of Education. Curriculum bulletin, 1965-66 series
+V1  - 3d
+PB  - New York (New York) Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 519 .N531s v. 4
+SC  - New York
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - New York (New York) Board of Education
+T1  - The in-service training of science teachers : a report on the training of out-of-license teachers of general science in New York City
+Y1  - 1958
+D1  - 1958
+SP  - 68
+KW  - Teacher training
+KW  - Science
+N1  - 68 p. ; 24 cm.; Note(s): "Joint publication of the Divisions of Curriculum Development and Junior High Schools."
+PB  - A2  - New York (New York) Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 519 .N531i
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - New York (New York) Board of Education
+T1  - Operation New York, using the natural environment of the city as a curriculum resource
+Y1  - 1960
+D1  - 1960
+SP  - 117
+KW  - Nature study
+KW  - Natural history
+N1  - 117 p. illus. 23 cm.; Note(s): Includes bibliographical references.
+T2  - New York (New York) Board of Education. Curriculum research report
+PB  - New York (New York) Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 519 .N531o
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - New York (New York) Board of Education
+T1  - A guide to the teaching of science : for use with Puerto Rican pupils in the secondary school
+Y1  - 1957
+D1  - 1957
+SP  - 173
+KW  - Puerto Ricans
+KW  - Science
+N1  - vii; ill. ; 23 cm.; Note(s): Includes bibliographical references.
+T2  - Related curriculum materials series / Puerto Rican Study
+PB  - New York (New York) Board of Education
+CY  - Brooklyn, NY
+LA  - English
+CN  - 519 .N531gp
+SC  - New York
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Secondary Curriculum Development
+T1  - General science equipment inventory a check list of science apparatus and supplies for grades 7, 8 and 9
+Y1  - 1955
+D1  - 1955
+SP  - 18
+KW  - Science
+T2  - Curriculum leaflet
+V1  - 5
+PB  - University of the State of New York. Bureau of Secondary Curriculum Development
+CY  - Albany, NY
+LA  - English
+CN  - 519 .N532ge
+SC  - New York
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Secondary Curriculum Development
+T1  - General science bibliography; a selected list of science books for grades 7, 8 and 9
+Y1  - 1956
+D1  - 1956
+SP  - 16
+KW  - Science
+N1  - 16 p. 23 cm.; Note(s): Cover title./ "A supplement to the syllabus Science 7-8-9 and The general science handbook, parts 1, 2 and 3."
+T2  - New York State Education Dept. Bureau of Secondary Curriculum Development. Curriculum leaflet
+V1  - 6
+PB  - University of the State of New York Press
+CY  - Albany, NY
+LA  - English
+CN  - 519 .N532gb
+SC  - New York
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York
+A2  - Bureau of Secondary Curriculum Development
+T1  - The general science handbook : experiments, demonstrations and other activities suggested for the second year of general science
+Y1  - 1952
+D1  - 1952
+SP  - 183
+KW  - Science
+KW  - Science experiments
+AB  - Part 2
+N1  - ill. ; 23 cm.; Responsibility: Bureau of Secondary Curriculum Development, New York State Education Department.
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 519 .N532g v. 2
+SC  - New York
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York
+A2  - Bureau of Secondary Curriculum Development
+T1  - The general science handbook : experiments, demonstrations and other activities suggested for the second year of general science
+Y1  - 1956
+D1  - 1956
+SP  - 261
+KW  - Science
+KW  - Science experiments
+AB  - Part 3
+N1  - ill. ; 23 cm.; Responsibility: Bureau of Secondary Curriculum Development, New York State Education Department.
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 519 .N532g v. 3
+SC  - New York
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Secondary Curriculum Development
+T1  - Science 7, 8, 9 experimental syllabus: block n: weather and climate
+Y1  - 1967
+D1  - 1967
+SP  - 88
+KW  - Science
+KW  - Weather
+PB  - University of the State of New York. Bureau of Secondary Curriculum Development
+CY  - Albany, NY
+LA  - English
+CN  - 519 .N532s v. 7
+SC  - New York
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Secondary Curriculum Development
+T1  - Science 7, 8, 9 experimental syllabus: block g: living in the space age
+Y1  - 1967
+D1  - 1967
+SP  - 96
+KW  - Science
+PB  - University of the State of New York. Bureau of Secondary Curriculum Development
+CY  - Albany, NY
+LA  - English
+CN  - 519 .N532s v. 8
+SC  - New York
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Secondary Curriculum Development
+T1  - Science bibliography, 7-8-9; a selected list of books for general science grades 7, 8, and 9
+Y1  - 1960
+D1  - 1960
+SP  - 20
+KW  - Science
+KW  - Bibliography
+N1  - 20 p. 23 cm.; Note(s): "A revision of the General science bibliography of 1956," compiled by Audna T. Clum.
+PB  - University of the State of New York. Bureau of Secondary Curriculum Development
+CY  - Albany, NY
+LA  - English
+CN  - 519 .N532sb v. 2
+SC  - New York
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Elementary Curriculum Development
+T1  - Science books for able readers in elementary schools, grades 4-6
+Y1  - 1960
+D1  - 1960
+SP  - 37
+KW  - Science
+KW  - Juvenile literature
+KW  - Bibliography
+N1  - 37 p. ; 22 x 10 cm.; Note(s): Cover title.
+PB  - Bureau of Elementary Curriculum Development, New York State Education Dept
+CY  - Albany, NY
+LA  - English
+CN  - 519 .N532sb v. 1
+SC  - New York
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A1  - Williams, Paul T.
+A2  - University of the State of New York, The State Education Department, Bureau of audio and visual aids
+T1  - General science
+Y1  - 1959
+D1  - 1959
+SP  - 37
+KW  - Science
+N1  - 37 p. ; 23 cm.; Responsibility: initiated by Paul T. Williams.
+T2  - Film roundup
+V1  - 16
+PB  - University of the State of New York, the State Education Dept., Bureau of audio and visual aids
+CY  - Albany, NY
+LA  - English
+CN  - 519 .N532gs
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Elementary Curriculum Development
+T1  - Science for children: the elementary school curriculum
+Y1  - 1959
+D1  - 1959
+SP  - 8
+KW  - Science
+PB  - University of the State of New York. Bureau of Elementary Curriculum Development
+CY  - Albany, NY
+LA  - English
+CN  - 519 .N532sc v. 1
+SC  - New York
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Elementary Curriculum Development
+T1  - Science for children: area 1--kinds of living things, area 10--survival of living things: insects
+Y1  - 1962
+D1  - 1962
+SP  - 36
+KW  - Science
+PB  - University of the State of New York. Bureau of Elementary Curriculum Development
+CY  - Albany, NY
+LA  - English
+CN  - 519 .N532sc v. 2
+SC  - New York
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Elementary Curriculum Development
+T1  - Science for children: area 1-kinds of living things, area 3--electricity and magnetism
+Y1  - 1959
+D1  - 1959
+SP  - 12
+KW  - Science
+PB  - University of the State of New York. Bureau of Elementary Curriculum Development
+CY  - Albany, NY
+LA  - English
+CN  - 519 .N532sc v. 3
+SC  - New York
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Elementary Curriculum Development
+T1  - Science for children: area 5--lifting and moving things
+Y1  - 1959
+D1  - 1959
+SP  - 18
+KW  - Science
+PB  - University of the State of New York. Bureau of Elementary Curriculum Development
+CY  - Albany, NY
+LA  - English
+CN  - 519 .N532sc v. 4
+SC  - New York
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Elementary Curriculum Development
+T1  - Science for children: area 6--energy from the sun, area 8--earth and sky
+Y1  - 1959
+D1  - 1959
+SP  - 22
+KW  - Science
+PB  - University of the State of New York. Bureau of Elementary Curriculum Development
+CY  - Albany, NY
+LA  - English
+CN  - 519 .N532sc v. 5
+SC  - New York
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Elementary Curriculum Development
+T1  - Science for children: area 7--the atmosphere
+Y1  - 1959
+D1  - 1959
+SP  - 12
+KW  - Science
+PB  - University of the State of New York. Bureau of Elementary Curriculum Development
+CY  - Albany, NY
+LA  - English
+CN  - 519 .N532sc v. 6
+SC  - New York
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Elementary Curriculum Development
+T1  - Science for children: area 9--rocks and soil (running water)
+Y1  - 1960
+D1  - 1960
+SP  - 31
+KW  - Science
+PB  - University of the State of New York. Bureau of Elementary Curriculum Development
+CY  - Albany, NY
+LA  - English
+CN  - 519 .N532sc v. 7
+SC  - New York
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Elementary Curriculum Development
+T1  - Science for children: area --rocks and soil (ground water)
+Y1  - 1960
+D1  - 1960
+SP  - 20
+KW  - Science
+PB  - University of the State of New York. Bureau of Elementary Curriculum Development
+CY  - Albany, NY
+LA  - English
+CN  - 519 .N532sc v. 8
+SC  - New York
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Elementary Curriculum Development
+T1  - Science k-6: science supplement no. 1: nature laboratories
+Y1  - 1965
+D1  - 1965
+SP  - 41
+KW  - Science
+PB  - University of the State of New York. Bureau of Elementary Curriculum Development
+CY  - Albany, NY
+LA  - English
+CN  - 519 .N532sc v. 9
+SC  - New York
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Elementary Curriculum Development
+T1  - Science equipment: a suggested list for the elementary schools grades k-6
+Y1  - 1961
+D1  - 1961
+SP  - 14
+KW  - Science equipment
+PB  - University of the State of New York. Bureau of Elementary Curriculum Development
+CY  - Albany, NY
+LA  - English
+CN  - 519 .N532se
+SC  - New York
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Elementary Curriculum Development
+T1  - The science program in elementary schools: units one and two: the science in children's toys
+Y1  - 1956
+D1  - 1956
+SP  - 9
+KW  - Science
+PB  - University of the State of New York. Bureau of Elementary Curriculum Development
+CY  - Albany, NY
+LA  - English
+CN  - 519 .N532sp
+SC  - New York
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Kelley, Robert
+A2  - University of the State of New York. The State Education Department
+T1  - What science is
+Y1  - 1961
+D1  - 1961
+SP  - 23
+KW  - Science
+N1  - 23 p. 23 cm.; Responsibility: [by Robert Kelley, associate in science education]
+PB  - University of the State of New York. The State Education Department
+CY  - Albany, NY
+LA  - English
+CN  - 519 .N532w
+SC  - New York
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Elementary Curriculum Development
+T1  - The world of science : books for boys and girls
+Y1  - 1958
+D1  - 01/1958
+SP  - 12
+KW  - Science
+KW  - Bibliography
+N1  - 12 p. ; 22 x 10 cm.; Note(s): Cover title.
+PB  - University of the State of New York. Bureau of Elementary Curriculum Development
+CY  - Albany, NY
+LA  - English
+CN  - 519 .N532wo
+SC  - New York
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Educational Services Incorporated. Elementary Science Study
+T1  - A survey of the elementary science study with excerpts from the 1962 elementary science summer conference report
+Y1  - 1962
+D1  - 1962
+KW  - Science
+N1  - 1 v. (various pagings)
+PB  - Educational Services Incorporated. Elementary Science Study
+CY  - Watertown, MA
+LA  - English
+CN  - 519 .N56s
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Norfolk County (Virginia) Public Schools
+T1  - Science
+Y1  - 1952
+D1  - 1952
+SP  - 28
+KW  - Science
+PB  - Norfolk County (Virginia) Public Schools
+CY  - Norfolk, VA
+LA  - English
+CN  - 519 .N83s
+SC  - Virginia
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Normandy (Missouri) School District
+T1  - Normandy science: vertical integration program; v. i: general science
+SP  - 55
+KW  - Science
+PB  - Normandy (Missouri) Schools
+CY  - Normandy, MO
+LA  - English
+CN  - 519 .N84n v. 1
+SC  - Missouri
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Normandy (Missouri) School District
+T1  - Normandy science: vertical integration program; v. ii: biology and physical science
+SP  - 55
+KW  - Science
+KW  - Biology
+PB  - Normandy (Missouri) Schools
+CY  - Normandy, MO
+LA  - English
+CN  - 519 .N84n v. 2
+SC  - Missouri
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Normandy (Missouri) School District
+T1  - Normandy science: vertical integration program; v. iii: chemistry and physics
+SP  - 58
+KW  - Science
+KW  - Chemistry
+KW  - Physics
+PB  - Normandy (Missouri) Schools
+CY  - Normandy, MO
+LA  - English
+CN  - 519 .N84n v. 3
+SC  - Missouri
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Normandy (Missouri) School District
+T1  - Science: a curriculum guide
+SP  - 72
+KW  - Science
+PB  - Normandy (Missouri) Schools
+CY  - Normandy, MO
+LA  - English
+CN  - 519 .N84s
+SC  - Missouri
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - North Carolina State Department of Public Instruction
+T1  - Science; a resource bulletin for grades 9-12
+Y1  - 1958
+D1  - 1958
+SP  - 302
+KW  - Science
+N1  - 302 pages illustrations 23 cm.; Note(s): Includes bibliographical references (pages 270-302)./ Published by the office under a variant name: State Dept. of Public Instruction.
+T2  - North Carolina State Department of Public Instruction. Publication
+V1  - 320
+PB  - North Carolina State Department of Public Instruction
+CY  - Raleigh, NC
+LA  - English
+CN  - 519 .N85s
+SC  - North Carolina
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - North Dakota State Department of Public Instruction
+T1  - An introduction to physical science: a proposed course of study and laboratory guide for ninth grade science
+Y1  - 1961
+D1  - 09/1961
+SP  - 14
+KW  - Science
+N1  - for trial purposes not final
+PB  - North Dakota State Department of Public Instruction
+CY  - Bismarck, ND
+LA  - English
+CN  - 519 .N86g
+SC  - North Dakota
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - North Haven (Connecticut) Public Schools
+T1  - Science curriculum, kindergarten thru grade 3
+Y1  - 1959
+D1  - 03/1959
+KW  - Science
+N1  - 1 v. (various pagings)
+PB  - North Haven (Connecticut) Public Schools
+CY  - North Haven, CT
+LA  - English
+CN  - 519 .N86s v. 1
+SC  - Connecticut
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - North Haven (Connecticut) Public Schools
+T1  - Science curriculum, grades 4 thru 6
+Y1  - 1959
+D1  - 03/1959
+KW  - Science
+N1  - 1 v. (various pagings)
+PB  - North Haven (Connecticut) Public Schools
+CY  - North Haven, CT
+LA  - English
+CN  - 519 .N86s v. 2
+SC  - Connecticut
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - North Dakota State Department of Public Instruction
+T1  - An introduction to physical science for the ninth grade
+Y1  - 1968
+D1  - 1968
+SP  - 184
+KW  - Science
+N1  - viii; illustrations ; 28 cm + teacher's guide.; Note(s): Cover title.; Responsibility: Department of Public Instruction.
+ED  - Rev.
+PB  - North Dakota State Department of Public Instruction
+CY  - Bismarck, ND
+LA  - English
+CN  - 519 .N87i v. 1-2
+SC  - North Dakota
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Oakland (California) Public Schools. Audio-Visual Department
+T1  - Audio-visual instructional materials for science, grades k-2
+Y1  - 1953
+D1  - 08/1953
+SP  - 9
+KW  - Science
+KW  - Audio-visual materials
+PB  - Oakland (California) Public Schools. Audio-Visual Department
+CY  - Oakland, CA
+LA  - English
+CN  - 519 .O11a v. 1
+SC  - California
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A2  - Oakland (California) Public Schools. Audio-Visual Department
+T1  - Audio-visual instructional materials for science, grades 3-4
+Y1  - 1953
+D1  - 08/1953
+SP  - 13
+KW  - Science
+KW  - Audio-visual materials
+PB  - Oakland (California) Public Schools. Audio-Visual Department
+CY  - Oakland, CA
+LA  - English
+CN  - 519 .O11a v. 2
+SC  - California
+G2  - 3rd
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Oakland (California) Public Schools. Audio-Visual Department
+T1  - Audio-visual instructional materials for science, grades 5-6
+Y1  - 1953
+D1  - 08/1953
+SP  - 17
+KW  - Science
+KW  - Audio-visual materials
+PB  - Oakland (California) Public Schools. Audio-Visual Department
+CY  - Oakland, CA
+LA  - English
+CN  - 519 .O11a v. 3
+SC  - California
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Oakland (California) Public Schools.
+T1  - Teaching guide (tentative) low-nine science
+Y1  - 1952
+D1  - 07/1952
+SP  - 67
+KW  - Science
+PB  - Oakland (California) Public Schools.
+CY  - Oakland, CA
+LA  - English
+CN  - 519 .O11t
+SC  - California
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A1  - Carr, William D.
+A1  - Wright, Clifford
+A1  - Oklahoma Curriculum Improvement Commission. State Science Committee
+T1  - The improvement of science instruction in Oklahoma : grades k-6
+Y1  - 1968
+D1  - 1968
+SP  - 83
+KW  - Science
+N1  - 83 pages : illustrations, graphs, tables ; 23 cm; Note(s): Includes bibliographical references (pages 77-82).; Responsibility: recommendations of the State Science Committee of the Oklahoma Curriculum Improvement Commission. William D. Carr, chairman ; Clifford Wright, executive secretary ; foreword by Oliver Hodge.
+PB  - Oklahoma State Department of Education
+CY  - Oklahoma City, OK
+LA  - English
+CN  - 519 .O411i 1968 v. 1
+SC  - Oklahoma
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Oklahoma Curriculum Improvement Commission
+T1  - The improvement of science instruction in Oklahoma, grades 1-12
+Y1  - 1960
+D1  - 08/1960
+SP  - 95
+KW  - Science
+N1  - xi; , illus., 23 cm.; Note(s): Bibliography: p. 90-95.
+PB  - Oklahoma State Department of Education
+CY  - Oklahoma City, OK
+LA  - English
+CN  - 519 .O411i 1960
+SC  - Oklahoma
+ER  - 
+
+TY  - BOOK
+A1  - Reynolds, Earl A.
+A2  - Oklahoma Curriculum Improvement Commission
+T1  - The improvement of science instruction in Oklahoma grades 7-12
+Y1  - 1970
+D1  - 1970
+SP  - 105
+KW  - Science
+N1  - vi; ges : illustrations ; 23 cm; Responsibility: recommendations of the State Science Committee ; Earl A. Reynolds, chairman of the Oklahoma Curriculum Improvement Commission. Willian D. Carr, chairman ; Clifford Wright, executive secretary ... Foreword by Scott Tuxhorn.
+PB  - Oklahoma State Department of Education
+CY  - Oklahoma City, OK
+LA  - English
+CN  - 519 .O411i 1968 v. 2
+SC  - Oklahoma
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A1  - Richardson, John S.
+A1  - Banks, William Henry
+T1  - Resource literature for science teachers
+Y1  - 1961
+D1  - 1961
+SP  - 103
+KW  - Science
+KW  - Bibliography
+N1  - 103 l. 28 cm.; Responsibility: John S. Richardson, editor, and William H. Banks ... [et al.].
+ED  - 2d
+PB  - College of Education, Ohio State University
+CY  - Columbus. OH
+LA  - English
+CN  - 519 .O37r
+ER  - 
+
+TY  - BOOK
+A2  - Kent State University
+T1  - Mathematics and science before college
+Y1  - 1958
+D1  - 02/1958
+KW  - Mathematics
+KW  - Science
+PB  - Kent State University
+CY  - Kent, OH
+LA  - English
+CN  - 519 .O38m
+SC  - Ohio
+ER  - 
+
+TY  - BOOK
+A1  - Vickers, Meredith R.
+A1  - Vickers, Robert C.
+A2  - Kent State University. Department of Library Science
+T1  - A selected bibliography in science education
+Y1  - 1954
+D1  - Fall, 1954
+SP  - 18
+KW  - Science
+KW  - Bibliography
+PB  - Kent State University. Department of Library Science
+CY  - Kent, OH
+LA  - English
+CN  - 519 .O38s
+SC  - Ohio
+ER  - 
+
+TY  - BOOK
+A1  - Wright, William
+A1  - Deprey, Milford J.
+A1  - Hughes, Thomas H.
+T1  - The amity plan for junior high science
+KW  - Science
+PB  - Amity Regional Junior High School
+CY  - Orange, CT
+LA  - English
+CN  - 519 .O63a
+SC  - Connecticut
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Orange County (California) Superintendent of Schools
+T1  - Implementing the state science text with extended experiments using the science equipment board
+Y1  - 1960-1961
+KW  - Science
+N1  - 3 v.
+T2  - Orange County (California) Superintendent of Schools. Bulletin series I,
+V1  - 148
+V1  - 152
+V1  - 153
+PB  - Orange County (California) Superintendent of Schools
+CY  - Santa Ana, CA
+LA  - English
+CN  - 519 .O631i v. 4-6
+SC  - California
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Orange County (California) Superintendent of Schools
+T1  - Science equipment board; materials, construction and care, safety; grades 1-6
+Y1  - 1959
+D1  - 09/1959
+SP  - 21
+KW  - Science equipment
+KW  - Science
+N1  - 21 l. ill.
+T2  - Orange County (California) Superintendent of Schools. Bulletin series I
+V1  - 144
+PB  - Orange County (California) Superintendent of Schools
+CY  - Santa Ana, CA
+LA  - English
+CN  - 519 .O631i v. 7
+SC  - California
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Orange County (California) Superintendent of Schools
+T1  - Guiding science experiences, gr. 1-3
+Y1  - 1960
+D1  - 1960-1962
+KW  - Science
+KW  - Space sciences
+KW  - Machinery
+AB  - Section I. The earth--Section II. The universe, space beyond the earth--Section III. Machines--Section IV. Care and feeding of classroom pets and animals.
+N1  - v. ill. 21 x 28 cm.
+PB  - Orange County (California) Superintendent of Schools
+CY  - Santa Ana, CA
+LA  - English
+CN  - 519 .O64g v. 1-4
+SC  - California
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A1  - Anderson, Robert E.
+A2  - Oregon State Office of Superintendent of Public Instruction
+T1  - Science for Oregon schools: pt. 1. Elementary and junior high school grades
+Y1  - 1948
+D1  - 1948
+SP  - 109
+KW  - Science
+N1  - 1 v. 23 cm.; Note(s): Includes bibliographies.; Responsibility: Edited by Robert E. Anderson.
+PB  - Oregon State Office of Superintendent of Public Instruction
+CY  - Salem, OR
+LA  - English
+CN  - 519 .O65s
+SC  - Oregon
+G1  - Elementary
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A1  - Kambly, Paul E.
+A1  - Ladley, Winifred
+T1  - Science books for the elementary school library, published 1959-60
+Y1  - 1961
+D1  - 04/1961
+SP  - 16
+KW  - Science
+KW  - Bibliography
+N1  - 16 p. ; 28 cm.; Note(s): Cover title./ Supplements bulletin 191, which covers books published during the years 1955-58.; Responsibility: prepared by Paul E. Kambly and Winifred Ladley.
+T2  - Curriculum bulletin (University of Oregon. School of Education)
+V1  - 17
+IS  - 212
+PB  - School of Education, University of Oregon
+CY  - Eugene, OR
+LA  - English
+CN  - 519 .O66s supp.
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Osborn Schools (Phoenix, Arizona)
+T1  - A sample unit in the science learning area: "Living things and their activities"
+Y1  - 1954
+D1  - 1954-1955
+KW  - Science
+PB  - Osborn Schools (Phoenix, Arizona)
+CY  - Phoenix, AZ
+LA  - English
+CN  - 519 .O81L
+SC  - Arizona
+ER  - 
+
+TY  - BOOK
+A2  - Osborn Schools (Phoenix, Arizona)
+T1  - Science: grade one
+Y1  - 1956
+D1  - 1956
+SP  - 66
+KW  - Science
+PB  - Osborn Schools (Phoenix, Arizona)
+CY  - Phoenix, AZ
+LA  - English
+CN  - 519 .O81s v. 1
+SC  - Arizona
+G2  - 1st
+ER  - 
+
+TY  - BOOK
+A2  - Osborn Schools (Phoenix, Arizona)
+T1  - Science: grade two
+Y1  - 1956
+D1  - 1956
+SP  - 59
+KW  - Science
+PB  - Osborn Schools (Phoenix, Arizona)
+CY  - Phoenix, AZ
+LA  - English
+CN  - 519 .O81s v. 2
+SC  - Arizona
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A2  - Osborn Schools (Phoenix, Arizona)
+T1  - Science: grade three
+Y1  - 1956
+D1  - 1956
+SP  - 48
+KW  - Science
+PB  - Osborn Schools (Phoenix, Arizona)
+CY  - Phoenix, AZ
+LA  - English
+CN  - 519 .O81s v. 3
+SC  - Arizona
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - Osborn Schools (Phoenix, Arizona)
+T1  - Science: upper grades
+Y1  - 1956
+D1  - 1956
+SP  - 79
+KW  - Science
+PB  - Osborn Schools (Phoenix, Arizona)
+CY  - Phoenix, AZ
+LA  - English
+CN  - 519 .O81s v. 4
+SC  - Arizona
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Osborn Schools (Phoenix, Arizona)
+T1  - The teaching of science in the elementary school
+Y1  - 1956
+D1  - 1956
+SP  - 11
+KW  - Science
+PB  - Osborn Schools (Phoenix, Arizona)
+CY  - Phoenix, AZ
+LA  - English
+CN  - 519 .O81t
+SC  - Arizona
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Owens Publishing Co.
+T1  - Primary science experiments, book i
+SP  - 24
+KW  - Science
+PB  - Owens Publishing Co.
+CY  - Dansville, NY
+LA  - English
+CN  - 519 .O97s v. 1
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Owens Publishing Co.
+T1  - Primary science experiments, book ii
+SP  - 24
+KW  - Science
+PB  - Owens Publishing Co.
+CY  - Dansville, NY
+LA  - English
+CN  - 519 .O97s v. 2
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Owens Publishing Co.
+T1  - Middle grade science experiments, book i
+SP  - 24
+KW  - Science
+PB  - Owens Publishing Co.
+CY  - Dansville, NY
+LA  - English
+CN  - 519 .O97s v. 3
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Owens Publishing Co.
+T1  - Middle grade science experiments, book ii
+SP  - 24
+KW  - Science
+PB  - Owens Publishing Co.
+CY  - Dansville, NY
+LA  - English
+CN  - 519 .O97s v. 4
+G1  - Elementary
+ER  - 
+
+

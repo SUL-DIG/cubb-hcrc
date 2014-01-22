@@ -1,0 +1,1341 @@
+
+
+TY  - BOOK
+A1  - Diehl, Glenna L.
+A1  - Erwin, Mary F.
+T1  - Guide for teaching beginning addition facts
+SP  - 4
+KW  - Arithmetic
+PB  - Creative Publishing House of Oxford, Inc.
+CY  - Oxford, OH
+LA  - English
+CN  - 511.2 .C91g
+ER  - 
+
+TY  - BOOK
+A2  - New Jersey State Department of Education
+T1  - Arithmetic in child development
+Y1  - 1956
+D1  - 1956
+SP  - 85
+KW  - Arithmetic
+N1  - 85 pages ; 23 cm.
+T2  - Elementary school bulletin / State of New Jersey, Dept. of Education
+V1  - 16
+PB  - New Jersey State Department of Education
+CY  - Trenton NJ
+LA  - English
+CN  - 511.2 .N51a
+SC  - New Jersey
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - New York (New York) Board of Education
+T1  - Mathematics, grades 7, 8, 9; course of study
+Y1  - 1959
+D1  - 1959
+SP  - 20
+KW  - Mathematics
+N1  - 20 p.; Note(s): Cover title.
+T2  - New York (New York) Board of Education. Curriculum bulletin, 1958-59 series
+V1  - 3
+PB  - New York (New York) Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 511.2 .N52 ma 1958 v. 6
+SC  - New York
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - New York (New York) Division of Elementary Schools
+A2  - New York (New York) Division of Curriculum Development
+T1  - Mathematics 1-2
+Y1  - 1955
+D1  - 1955
+SP  - 91
+KW  - Arithmetic
+N1  - 91 p. 23 cm.; Note(s): Cover title./ Bibliography, p. 11-12.; Responsibility: [Prepared by] Division of Elementary Schools [and] Division of curriculum development, Board of Education of the City of New York.
+PB  - New York (New York) Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 511.2 .N52ma 1955 v. 1
+SC  - New York
+G2  - 1st
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A2  - New York (New York) Division of Elementary Schools
+A2  - New York (New York) Division of Curriculum Development
+T1  - Mathematics 1-2
+Y1  - 1960
+D1  - 1960
+SP  - 121
+KW  - Arithmetic
+PB  - New York (New York) Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 511.2 .N52ma 1960 v. 1
+SC  - New York
+G2  - 1st
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A2  - New York (New York) Board of Education
+T1  - Mathematics grade 4
+Y1  - 1963
+D1  - 1963
+SP  - 532
+KW  - Arithmetic
+T2  - New York (New York) Board of Education. Curriculum bulletin 1962-63 series
+V1  - 4
+PB  - New York (New York) Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 511.2 .N52ma 1963 v. 4
+SC  - New York
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - New York (New York) Board of Education
+T1  - Source materials for ninth grade arithmetic : arithmetic for everyday living
+Y1  - 1958
+D1  - 1958
+SP  - 53
+KW  - Arithmetic
+ED  - Rev
+PB  - New York (New York) Board of Education
+CY  - Brooklyn, NY
+LA  - English
+CN  - 511.2 .N52s
+SC  - New York
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Nuffield Mathematics Project
+T1  - Mathematics, the later primary years
+Y1  - 1972
+D1  - 1972
+SP  - 178
+KW  - Mathematics
+T2  - A Nuffield/CEDO handbook for teachers
+PB  - Nuffield Mathematics Project
+CY  - London, UK
+LA  - English
+CN  - 511.2 .N96m
+SC  - United Kingdom
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Scurrah, Mark B.
+A2  - University of the State of New York. Bureau of Elementary Curriculum Development
+T1  - Research in arithmetic
+Y1  - 1957
+D1  - 1957
+SP  - 15
+KW  - Arithmetic
+KW  - Bibliography
+N1  - 15 l. 29 cm.; Note(s): Cover title./ Bibliography: leaves 12-15.; Responsibility: [Prepared by Mark B. Scurrah].
+PB  - New York State Department of Education
+CY  - Albany, NY
+LA  - English
+CN  - 511.2 .N53r
+SC  - New York
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Elementary Curriculum Development
+T1  - The third R 'rithmetic
+Y1  - 1958
+D1  - 1958
+SP  - 55
+KW  - Arithmetic
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 511.2 .N53t
+SC  - New York
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Elementary Curriculum Development
+T1  - Developing mathematical awareness in prekindergarten children
+Y1  - 1966
+D1  - 1966
+SP  - 20
+KW  - Mathematics
+N1  - 20 p. ; 22 cm.; Note(s): Includes bibliographical references (p. 19-20).
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 511.2 .N53d
+SC  - New York
+G1  - Pre-K
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Elementary Curriculum Development
+T1  - Mathematics for boys and girls; a handbook for teachers
+Y1  - 1950
+D1  - 02/1950
+SP  - 154
+KW  - Mathematics
+N1  - 154 p. 23 cm.; Note(s): First issued in 1937 as Bulletins no. 1113 and 1120 of the University of the State of New York under title: Mathematics for elementary schools./ "A suggested grade placement, kindergarten, grade 1-6": fold. sheet in pocket./ "A bibliography: books and visual aids": p. 149-154.; Responsibility: [by] Bureau of Curriculum Development, Division of Elementary Education, New York State Education Dept.
+T2  - New York (State) University. Bulletin
+V1  - 1385
+ED  - Rev.
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 511.2 .N53m
+SC  - New York
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Babcock, Ruth Evans
+T1  - Books that count and that help children to understand numberland
+Y1  - 1961
+D1  - 1961
+SP  - 8
+KW  - Arithmetic
+KW  - Bibliography
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 511.2 .N53b
+SC  - New York
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Oakland (California) Public Schools
+T1  - Curriculum guide seventh and eighth grade arithmetic
+Y1  - 1959
+D1  - 11/1959
+KW  - Arithmetic
+N1  - 1 v. (various pagings); Note: Approved: superintendent's Cabinet, November 19, 1959
+PB  - Oakland (California) Public Schools
+CY  - Oakland, CA
+LA  - English
+CN  - 511.2 .O11a v. 1
+SC  - California
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Oakland (California) Public Schools
+T1  - Ninth grade arithmetic (9 arithmetic) curriculum guide, tentative
+Y1  - 1960
+D1  - 06/1960
+SP  - 3
+KW  - Arithmetic
+N1  - Note: Approved: Superintendent's Cabinet, June 13, 1960
+PB  - Oakland (California) Public Schools
+CY  - Oakland, CA
+LA  - English
+CN  - 511.2 .O11a v. 2
+SC  - California
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Cincinnati (Ohio) Public Schools
+A2  - Ohio State Department of Education
+T1  - Arithmetic enrichment ideas for grades 4, 5 and 6
+Y1  - 1962
+D1  - 09/1962
+SP  - 44
+KW  - Arithmetic
+N1  - 44 pages; Responsibility: Prepared by Cincinati Public Schools, Dept. of Instruction in cooperation with Programs for the Academically Gifted under the direction of R.A. Horn, director, Division of Special Education.
+PB  - Ohio State Department of Education
+CY  - Columbus, OH
+LA  - English
+CN  - 511.2 .O37a
+SC  - Ohio
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Oklahoma City Public Schools
+T1  - Arithmetic grade 6 study guide: an educational television series of lessons in arithmetic for grade six
+SP  - 45
+KW  - Arithmetic
+KW  - Television in education
+PB  - Oklahoma City Public Schools
+CY  - Oklahoma City, OK
+LA  - English
+CN  - 511.2 .O41a
+SC  - Oklahoma
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Oklahoma City (Oklahoma) Public Schools
+T1  - Arithmetic grades 4-5-6
+Y1  - 1963
+D1  - 1963-1964
+SP  - 74
+KW  - Arithmetic
+PB  - Oklahoma City Public Schools
+CY  - Oklahoma City, OK
+LA  - English
+CN  - 511.2 .O41a 1963-64
+SC  - Oklahoma
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A1  - Ross, Ramon
+T1  - Underachievers in arithmetic
+Y1  - 1964
+D1  - 11/1964
+SP  - 16
+KW  - Arithmetic
+PB  - University of Oregon. School of Education
+CY  - Eugene, OR
+LA  - English
+CN  - 511.2 .O66u
+ER  - 
+
+TY  - BOOK
+A2  - Osborn School (Phoenix, Arizona)
+T1  - Building numbers theory
+SP  - 26
+KW  - Arithmetic
+PB  - Osborn School
+CY  - Phoenix, AZ
+LA  - English
+CN  - 511.2 .O81b
+SC  - Arizona
+ER  - 
+
+TY  - BOOK
+A2  - Palo Alto (California) Unified School District
+T1  - Arithmetic guide, kindergarten--8th gr[ade]
+Y1  - 1957
+D1  - 09/1957
+KW  - Arithmetic
+N1  - 1 v. (various pagings) : ill. ; 29 cm.; Note(s): Cover title.
+PB  - Palo Alto (California) Unified School District
+CY  - Palo Alto, CA
+LA  - English
+CN  - 511.2 .P18a
+SC  - California
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Palo Alto (California) Unified School District
+T1  - A guide for teaching arithmetic grades k-8, vol. i-iii (tentative)
+Y1  - 1955
+D1  - 1955
+SP  - 155
+KW  - Arithmetic
+PB  - Palo Alto (California) Unified School District
+CY  - Palo Alto, CA
+LA  - English
+CN  - 511.2 .P18g
+SC  - California
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Palo Alto (California) Unified School District
+T1  - Pattern of learning experiences in arithmetic
+Y1  - 1955
+D1  - 1955
+KW  - Arithmetic
+N1  - poster
+PB  - Palo Alto (California) Unified School District
+CY  - Palo Alto, CA
+LA  - English
+CN  - 511.2 .P18g
+SC  - California
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools. Curriculum Office
+T1  - Problem solving : arithmetic supplement
+Y1  - 1960
+D1  - 1960
+SP  - 19
+KW  - Arithmetic
+N1  - ill. ; 28 cm.; Note(s): Cover title./ Supplement to the Arithmetic guide, grades 1 through 6.; Other Titles: Arithmetic supplement : problem solving.; Responsibility: prepared by the Subcommittee on Problem Solving for the Arithmetic Curriculum Committee of the elementary schools.
+PB  - Curriculum Office, Philadelphia Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 511.2 .P54a 1960 supp.
+SC  - Pennsylvania
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Portland (Oregon) Public Schools. Curriculum Division
+T1  - The kindergarten mathematics program
+Y1  - 1966
+SP  - 111
+KW  - Mathematics
+N1  - ill. ; 28 cm.; Responsibility: prepared by Curriculum Division, Portland Public Schools.
+T2  - Portland (Oregon) Public Schools. Curriculum publication
+V1  - M-32
+PB  - Portland (Oregon) Public Schools
+CY  - Portland, OR
+LA  - English
+CN  - 511.2 P85k
+SC  - Oregon
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools
+T1  - Arithmetic program : primary unit, Philadelphia Public Elementary Schools
+Y1  - 1963
+D1  - 1963
+SP  - 149
+KW  - Arithmetic
+PB  - Curriculum Office, Philadelphia Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 511.2 .P54a 1963
+SC  - Pennsylvania
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools. Elementary Mathematics Curriculum Committee
+T1  - Elementary mathematics: proposed scope and sequence for grades 4,5,6
+Y1  - 1966
+D1  - 1966
+SP  - 19
+KW  - Mathematics
+PB  - Philadelphia (Pennsylvania) Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 511.2 .P54e
+SC  - Pennsylvania
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools. Curriculum Office
+T1  - Figure it yourself! (workbook)
+Y1  - 1955
+D1  - 1955
+SP  - 69
+KW  - Mathematics
+ED  - Revised
+N1  - 12 page Teacher's manual stapled to back cover
+PB  - Philadelphia (Pennsylvania) Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 511.2 .P54f
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A1  - Frankman, Margaret R.
+A1  - Lauer, Lionel
+A1  - Taylor, Naomi L.
+A2  - Philadelphia (Pennsylvania) Public Schools
+T1  - An introduction to the "new" mathematics in the elementary school
+Y1  - 1963
+D1  - 01/1963
+SP  - 15
+KW  - Mathematics
+PB  - Philadelphia (Pennsylvania) Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 511.2 .P54n
+SC  - Pennsylvania
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Pinellas County (Florida) Board of Public Instruction. Department of Elementary Curriculum
+T1  - New directions in elementary mathematics
+Y1  - 1964
+D1  - 08/1964
+SP  - 51
+KW  - Mathematics
+ED  - Transitional draft
+PB  - Pinellas County (Florida) Board of Public Instruction
+CY  - Clearwater, FL
+LA  - English
+CN  - 511.2 .P65n
+SC  - Florida
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Porterville (California) Elementary Schools
+T1  - Arithmetic course of study
+Y1  - 1960
+D1  - 09/1960
+KW  - Arithmetic
+N1  - 1 v. (various pagings)
+PB  - Porterville (California) Elementary Schools
+CY  - Porterville, CA
+LA  - English
+CN  - 511.2 .P84a
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools
+T1  - Arithmetic: a guide for teachers, kindergarten through grade six
+Y1  - 1946
+D1  - 09/1946
+SP  - 207
+KW  - Arithmetic
+PB  - Philadelphia (Pennsylvania) Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 511.2 .P54a 1946
+SC  - Pennsylvania
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Portland (Oregon) Public School
+T1  - Road to mathematicsville (ideas for the primary teacher)
+Y1  - 1964
+D1  - 1964
+SP  - 16
+KW  - Mathematics
+T2  - Portland (Oregon) Public School. Curriculum publication
+V1  - M-35
+PB  - Portland (Oregon) Public School
+CY  - Portland, OR
+LA  - English
+CN  - 511.2 .P85r
+SC  - Oregon
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Raleigh (North Carolina) Public Schools
+T1  - Arithmetic : a guidebook for grades one two
+Y1  - 1958
+D1  - 1958
+SP  - 36
+KW  - Arithmetic
+PB  - Raleigh (North Carolina) Public Schools
+CY  - Raleigh, NC
+LA  - English
+CN  - 511.2 .R16a
+SC  - North Carolina
+G2  - 1st
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A1  - Rogers, Lloyd
+T1  - A course of study for the mathematics enrichment program (summer session)
+Y1  - 1962
+D1  - 05/1962
+SP  - 7
+KW  - Mathematics
+PB  - Ravenswood City School District
+LA  - English
+CN  - 511.2 .R25c
+ER  - 
+
+TY  - BOOK
+A2  - Richmond (Virginia) Public Schools
+T1  - Elementary arithmetic, junior primary - sixth grade
+Y1  - 1963
+D1  - 1963
+SP  - 23
+KW  - Arithmetic
+PB  - Richmond (Virginia) Public Schools
+CY  - Richmond, VA
+LA  - English
+CN  - 511.2 .R53e
+SC  - Virginia
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Riverside (California) City Schools
+T1  - Elementary arithmetic: an instructional guide (kindergarten-sixth grade)
+Y1  - 1958
+D1  - 06/1958
+KW  - Arithmetic
+PB  - Riverside (California) City Schools
+CY  - Riverside, CA
+LA  - English
+CN  - 511.2 .R62e
+SC  - California
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Riverside County (California) Schools
+T1  - Elementary school mathematics in transition; guide for incorporating new topics and procedures into the traditional arithmetic program [for] grades 4-6
+Y1  - 1963
+D1  - 1963
+SP  - 285
+KW  - Arithmetic
+N1  - 285 l. ill. 28 cm.
+ED  - Rev. and enl.
+PB  - Riverside County (California) Schools
+CY  - Riverside, CA
+LA  - English
+CN  - 511.2 .R62es
+SC  - California
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Rochester (New York) Board of Education
+T1  - A guide for the development of the arithmetic program in the elementary school
+Y1  - 1957
+D1  - 1957
+SP  - 117
+KW  - Arithmetic
+N1  - 117 p. tables 28 cm.; Note(s): Includes bibliographical references.
+PB  - Rochester (New York) Board of Education
+CY  - Rochester, NY
+LA  - English
+CN  - 511.2 .R67g
+SC  - New York
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Roseville (Minnesota) Schools
+T1  - Arithmetic resource manual
+Y1  - 1962
+D1  - 01/1962
+SP  - 72
+KW  - Arithmetic
+PB  - Roseville (Minnesota) Schools
+CY  - Roseville, MN
+LA  - English
+CN  - 511.2 .R81a
+SC  - Minnesota
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Roseburg (Oregon) Public Schools
+T1  - The changing emphasis in mathematics and concept development in the elementary school
+Y1  - 1960
+D1  - Summer, 1960
+KW  - Mathematics
+N1  - 1 v. (various pagings)
+PB  - Roseburg (Oregon) Public Schools
+CY  - Roseburg, OR
+LA  - English
+CN  - 511.2 .R811c
+SC  - Oregon
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Roseburg (Oregon) Public Schools District #4
+T1  - Grade 1: mathematics scope and sequence
+Y1  - 1961
+D1  - 1961
+SP  - 24
+KW  - Mathematics
+ED  - Revised
+PB  - Roseburg Public Schools District #4
+CY  - Roseburg, OR?
+LA  - English
+CN  - 511.2 .R811m v. 1
+G2  - 1st
+ER  - 
+
+TY  - BOOK
+A2  - Roseburg (Oregon) Public Schools District #4
+T1  - Grade 2: mathematics scope and sequence
+Y1  - 1961
+D1  - 1961
+SP  - 13
+KW  - Mathematics
+ED  - Revised
+PB  - Roseburg Public Schools District #4
+CY  - Roseburg, OR?
+LA  - English
+CN  - 511.2 .R811m v. 2
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A2  - Roseburg (Oregon) Public Schools District #4
+T1  - Grade 3
+Y1  - 1961
+D1  - Spring, 1961
+KW  - Mathematics
+ED  - Revised
+PB  - Roseburg Public Schools District #4
+CY  - Roseburg, OR?
+LA  - English
+CN  - 511.2 .R811m v. 3
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - Roseburg (Oregon) Public Schools District #4
+T1  - Grade 4
+Y1  - 1961
+D1  - Spring, 1961
+KW  - Mathematics
+ED  - Revised
+PB  - Roseburg Public Schools District #4
+CY  - Roseburg, OR?
+LA  - English
+CN  - 511.2 .R811m v. 4
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Roseburg (Oregon) Public Schools District #4
+T1  - Grade 5
+Y1  - 1961
+D1  - Spring, 1961
+KW  - Mathematics
+ED  - Revised
+PB  - Roseburg Public Schools District #4
+CY  - Roseburg, OR?
+LA  - English
+CN  - 511.2 .R811m v. 5
+G2  - 5th
+ER  - 
+
+TY  - BOOK
+A2  - Roseburg (Oregon) Public Schools District #4
+T1  - Grade 6
+Y1  - 1961
+D1  - Spring, 1961
+KW  - Mathematics
+ED  - Revised
+PB  - Roseburg Public Schools District #4
+CY  - Roseburg, OR?
+LA  - English
+CN  - 511.2 .R811m v. 6
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Roslyn (New York) Public Schools
+T1  - Arithmetic guide for grade seven
+Y1  - 1957
+D1  - 01/1957
+SP  - 35
+KW  - Arithmetic
+PB  - Roslyn (New York) Public Schools
+CY  - Roslyn, NY
+LA  - English
+CN  - 511.2 .R82a
+SC  - New York
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A2  - Royal Oak (Michigan) Public Schools. Arithmetic Committee
+T1  - Arithmetic experiences for today's six and seven year olds
+Y1  - 1957
+D1  - 1955-1957
+SP  - 16
+KW  - Arithmetic
+PB  - Royal Oak (Michigan) Public Schools
+CY  - Royal Oak, MI
+LA  - English
+CN  - 511.2 .R88a
+SC  - Michigan
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Salt Lake City (Utah) Board of Education
+T1  - A guide for the teaching of arithmetic in the fourth grade
+Y1  - 1947
+D1  - 1947
+SP  - 73
+KW  - Arithmetic
+PB  - Salt Lake City (Utah) Board of Education
+CY  - Salt Lake City, UT
+LA  - English
+CN  - 511.2 .S17g v. 1
+SC  - Utah
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Salt Lake City (Utah) Board of Education
+T1  - A guide for the teaching of arithmetic in the sixth grade
+Y1  - 1947
+D1  - 1947
+SP  - 60
+KW  - Arithmetic
+PB  - Salt Lake City (Utah) Board of Education
+CY  - Salt Lake City, UT
+LA  - English
+CN  - 511.2 .S17g v. 3
+SC  - Utah
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Salt Lake City (Utah) Board of Education
+T1  - A guide for the teaching of arithmetic in the seventh grade
+Y1  - 1948
+D1  - 1948
+SP  - 98
+KW  - Arithmetic
+PB  - Salt Lake City (Utah) Board of Education
+CY  - Salt Lake City, UT
+LA  - English
+CN  - 511.2 .S17g v. 4
+SC  - Utah
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A2  - San Diego (California) City Schools
+T1  - Handbook for the use of supplementary arithmetic materials: multiplication and division (grades iv-vi)
+Y1  - 1945
+D1  - 1945
+SP  - 35
+KW  - Arithmetic
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 511.2 .S18h
+SC  - California
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - San Diego (California) City Schools
+T1  - Guide for teaching mathematics; level 0; kindergarten
+Y1  - 1976
+D1  - 1976
+SP  - 105
+KW  - Mathematics
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 511.2 .S19g
+SC  - California
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - San Diego County (California) Schools
+T1  - Arithmetic; grades one through eight, course of study
+Y1  - 1956
+D1  - 09/1956
+SP  - 88
+KW  - Arithmetic
+PB  - San Diego County (California) Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 511.2 .S19ar
+SC  - California
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - San Diego County (California) Schools
+T1  - A report to the Citizens Advisory Commission of the California Legislature Joint Interim Committee on the Public Education System
+T1  - Improvement of instruction in arithmetic in schools of San Diego County
+Y1  - 1959
+D1  - 05/1959
+SP  - 7
+KW  - Arithmetic
+PB  - San Diego County (California) Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 511.2 .S19i
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Beatty, Leslie S.
+A1  - Madden, Richard
+A1  - Moore, Edwena B.
+A2  - San Diego County (California) Schools
+T1  - Teacher's guide to problem solving in arithmetic: report of an action research project in San Diego County School Districts
+Y1  - 1959
+D1  - 01/1959
+SP  - 35
+KW  - Arithmetic
+PB  - San Diego County (California) Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 511.2 .S19t
+SC  - California
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - San Mateo County (California) Board of Education
+T1  - Teacher's guide for arithmetic, grades seven and eight (with supplement of grade six)
+Y1  - 1950
+D1  - 09/1950
+SP  - 125
+KW  - Arithmetic
+PB  - San Mateo County (California) Board of Education
+CY  - Redwood City, CA
+LA  - English
+CN  - 511.2 .S196t
+SC  - California
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Schenectady (New York) City School District
+T1  - Mathematics in the primary grades
+Y1  - 1956
+D1  - 1956
+SP  - 24
+KW  - Mathematics
+PB  - Schenectady (New York) City School District
+CY  - Schenectady, NY
+LA  - English
+CN  - 511.2 .S32m
+SC  - New York
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Glennon, Vincent Joseph
+A1  - McLennan, Doris L.
+T1  - Teaching arithmetic in the modern school, with a discussion of arithmetic and the exceptional child
+Y1  - 1953
+D1  - 1953
+SP  - 139
+KW  - Arithmetic
+N1  - x; ill. 23 cm.; Note(s): Includes bibliographical references./ Also issued online.; Responsibility: [by] Vincent J. Glennon with Doris L. McLennan and students.
+T2  - Syracuse University.; Bureau of School Service.; Monographs on the teaching of arithmetic
+V1  - 2
+PB  - Bureau of School Service, School of Education, Syracuse University
+CY  - Syracuse, NY
+LA  - English
+CN  - 511.2 .S99t
+ER  - 
+
+TY  - BOOK
+A1  - Hartung, Maurice L.
+A1  - Van Engen, Henry
+A1  - Knowles, Lois
+A1  - Gibb, E. Glenadine
+T1  - Charting the course for arithmetic
+Y1  - 1960
+D1  - 1960
+SP  - 176
+KW  - Arithmetic
+KW  - Curricula
+N1  - 176 p. illus. 22 cm.; Responsibility: by Maurice L. Hartung [and others]
+PB  - Scott, Foresman and Company
+CY  - Chicago, IL
+LA  - English
+CN  - 511.2 .S42c
+ER  - 
+
+TY  - BOOK
+A2  - Scott, Foresman and Company
+T1  - Textbook evaluation material: arithmetic
+KW  - Arithmetic
+PB  - Scott, Foresman and Company
+CY  - Chicago, IL
+LA  - English
+CN  - 511.2 .S42t
+ER  - 
+
+TY  - BOOK
+A2  - Scott, Foresman and Company
+T1  - Let's help 1st- and 2nd-graders feel at home with numbers: check list points way to a meaningful program this fall
+Y1  - 1953
+D1  - 05/1953
+KW  - Arithmetic
+PB  - Scott, Foresman and Company
+CY  - Chicago, IL
+LA  - English
+CN  - 511.2 .S42t
+ER  - 
+
+TY  - BOOK
+A2  - Scott, Foresman and Company
+T1  - Helping children experience numbers in new ways
+Y1  - 1953
+D1  - 10/1953
+SP  - 15
+KW  - Arithmetic
+PB  - Scott, Foresman and Company
+CY  - Chicago, IL
+LA  - English
+CN  - 511.2 .S42t
+ER  - 
+
+TY  - BOOK
+A2  - Scott, Foresman and Company
+T1  - A sample card from set 2: the number system of the arithmetic readiness cards
+Y1  - 1953
+D1  - 12/1953
+KW  - Arithmetic
+PB  - Scott, Foresman and Company
+CY  - Chicago, IL
+LA  - English
+CN  - 511.2 .S42t
+ER  - 
+
+TY  - BOOK
+A1  - Johnston, Aaron Montgomery
+T1  - Arithmetic in Tennessee, a survey of teaching practices. grades one through eight
+Y1  - 1960
+D1  - 05/1960
+SP  - 58
+KW  - Arithmetic
+T2  - University of Tennessee record
+V1  - 63
+IS  - 3
+PB  - University of Tennessee
+CY  - Knoxville, TN
+LA  - English
+CN  - 511.2 .T29a
+SC  - Tennessee
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Springfield (Massachusetts) Public Schools
+T1  - Arithmetic curriculum guide, kindergarten - grade 6
+Y1  - 1958
+D1  - 1958
+SP  - 98
+KW  - Arithmetic
+KW  - Curricula
+PB  - Springfield (Massachusetts) Public Schools
+CY  - Springfield, MA
+LA  - English
+CN  - 511.2 .S77a
+SC  - Massachusetts
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A1  - Tully, Jean
+T1  - The seventh and eighth grade arithmetic program of the Stockton Unified School District (tentative)
+Y1  - 1951
+D1  - 1951
+SP  - 29
+KW  - Arithmetic
+PB  - Stockton (California) Unified School District
+CY  - Stockton, CA
+LA  - English
+CN  - 511.2 .S86a
+SC  - California
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A1  - Hartgraves, Joan
+A1  - Swanson, William
+A1  - Wanless, Robet
+A1  - Bourns, Otis
+A1  - Nicholls, John
+A1  - Walters, Laraine
+A1  - Broussard, Vernon
+T1  - Doing your own 'thing': individualized learning unit on addition of whole numbers, part ii
+Y1  - 1969
+D1  - 07/1969
+KW  - Arithmetic
+PB  - Stockton (California) Unified School District
+CY  - Stockton, CA
+LA  - English
+CN  - 511.2 .S86i pt. ii
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - U.S. Department of Health, Education, and Welfare. Office of Education. Division of State and Local School Systems
+T1  - Arithmetic in elementary education
+Y1  - 1958
+D1  - 03/1958
+SP  - 19
+KW  - Arithmetic
+PB  - U.S. Department of Health, Education, and Welfare
+CY  - Washington, DC
+LA  - English
+CN  - 511.2 .U58a
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Ventura County (California) Schools
+T1  - Enriching the curriculum in arithmetic for gifted children
+Y1  - 1955
+D1  - 1955
+SP  - 24
+KW  - Arithmetic
+KW  - Gifted children
+N1  - 24 p. illus.; Responsibility: [by] Ralph Alamillo ... [et al.].
+PB  - Ventura County (California) Schools
+LA  - English
+CN  - 511.2 .V46e
+SC  - California
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A1  - Wallace, Mildred
+A1  - Timson, Iris
+A1  - Wisely, Edna
+A2  - Ventura County (California) Schools
+T1  - Suggestions for using Arithmetic we use, third grade
+Y1  - 1948
+D1  - 08/1948
+SP  - 37
+KW  - Arithmetic
+PB  - Ventura County (California) Schools
+LA  - English
+CN  - 511.2 .V46s v. 1
+SC  - California
+G2  - 3rd
+ER  - 
+
+
+TY  - BOOK
+A1  - Reid, Irene M.
+T1  - Lessons in arithmetic through school savings : activities, problems, and techniques for elementary grades
+Y1  - 1949
+D1  - 1949?
+SP  - 26
+KW  - Mathematics
+KW  - Personal finance
+KW  - Savings bonds
+KW  - Savings stamps
+N1  - ii; ill. ; 24 cm.; Note(s): Includes bibliographical references.; Responsibility: by Irene M. Reid.
+PB  - Education Section of the U.S. Savings Bonds Division, Treasury Department
+CY  - Washington, DC
+LA  - English
+CN  - 511.2 .U59L
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Virginia State Department of Education. Elementary Education Service
+T1  - Elementary mathematics guide, K-7
+Y1  - 1968
+D1  - 09/1968
+SP  - 183
+KW  - Mathematics
+N1  - iii; ill. ; 28 cm.; Note(s): Includes index.
+PB  - Elementary Education Service, Virginia State Department of Education
+CY  - Richmond, VA
+LA  - English
+CN  - 511.2 .V81e
+SC  - Virginia
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A2  - Washington State Superintendent of Public Instruction
+T1  - Arithmetic supplement, grades one through six, curriculum guide
+Y1  - 1959
+D1  - 1959?
+SP  - 70
+KW  - Arithmetic
+N1  - 70 p. illus.
+PB  - Washington State Superintendent of Public Instruction
+CY  - Olympia, WA
+LA  - English
+CN  - 511.2 .W31a
+SC  - Washington
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Washington State Superintendent of Public Instruction
+A2  - Washington State Advisory Committee on Mathematics
+T1  - Guidelines for mathematics: elementary
+Y1  - 1963
+D1  - 1963
+SP  - 43
+KW  - Mathematics
+N1  - 43 l. 28 cm.; Note(s): Cover title./ "A second publication of the State Advisory Committee on Mathematics."/ "Sources of information and materials": l. 42-43.
+PB  - Washington State Superintendent of Public Instruction
+CY  - Olympia, WA
+LA  - English
+CN  - 511.2 .W31g
+SC  - Washington
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Wichita (Kansas) Public Schools
+T1  - Tentative arithmetic guide, 1955-'56
+Y1  - 1955
+D1  - 1955-1956
+KW  - Arithmetic
+PB  - Wichita (Kansas) Public Schools
+CY  - Wichita, KS
+LA  - English
+CN  - 511.2 .W63t
+SC  - Kansas
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Elementary Mathematics Curriculum Committee of Wyoming
+A2  - Wyoming State Department of Education
+T1  - Wyoming mathematics curriculum guide : grades K-6
+Y1  - 1969
+D1  - 1969
+SP  - 38
+KW  - Mathematics
+N1  - ill. ; 22 x 28 cm.; Note(s): "Prepared ... under a grant with the U.S. Office of Education, as authorized under Title V, Elementary and Secondary Education Act, 1965."/ Includes bibliographical references.; Responsibility: prepared by the Elementary Mathematics Curriculum Committee of Wyoming.
+PB  - Wyoming State Department of Education
+CY  - Cheyenne, WY
+LA  - English
+CN  - 511.2 .W96m
+SC  - Wyoming
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Yolo County (California) Board of Education
+T1  - Arithmetic course of study for elementary schools of Yolo County, grades 1-8
+Y1  - 1958
+D1  - 1958
+SP  - 24
+KW  - Arithmetic
+PB  - Yolo County (California) Board of Education
+CY  - Woodland, CA
+LA  - English
+CN  - 511.2 .Y54a
+SC  - California
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  - 
+

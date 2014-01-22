@@ -1,0 +1,1267 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="type">Book</field>
+<field name="author">Cash, Rowley Vincent</field><field name="author_nat">Rowley Vincent Cash</field>
+<field name="author">Coburn, Harold</field><field name="author_nat">Harold Coburn</field>
+<field name="author">Kuhnly, Lucille E.</field><field name="author_nat">Lucille E. Kuhnly</field>
+<field name="author">Hall, Philip A.</field><field name="author_nat">Philip A. Hall</field>
+<field name="title">Selected science books for secondary schools, a bibliography</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="pages">116</field>
+<field name="keywords">Bibliography</field>
+<field name="keywords">Science</field>
+<field name="notes">116 p. 23 cm.; Responsibility: compiled by R. Vincent Cash ... [et al.].</field>
+<field name="publisher">Connecticut Science Teachers Association</field>
+<field name="pub_place">New Britain, CT</field>
+<field name="language">English</field>
+<field name="call_number">519 .C748s</field>
+<field name="state_country">Connecticut</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Keirstead, Ralph</field><field name="author_nat">Ralph Keirstead</field>
+<field name="corp_author">Connecticut State Department of Education</field>
+<field name="title">Science education, grades 7-12</field>
+<field name="year">1958</field>
+<field name="date">09/1958</field>
+<field name="pages">32</field>
+<field name="keywords">Science</field>
+<field name="series_title">Connecticut State Department of Education. Curriculum bulletin series
+(tentative)</field>
+<field name="series_vol">12</field>
+<field name="publisher">Connecticut State Department of Education</field>
+<field name="pub_place">Hartford, CT</field>
+<field name="language">English</field>
+<field name="call_number">519 .C749sc</field>
+<field name="state_country">Connecticut</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Stolberg, Robert</field><field name="author_nat">Robert Stolberg</field>
+<field name="author">Durkin, Mary C.</field><field name="author_nat">Mary C. Durkin</field>
+<field name="author">Zumwalt, Gladys K.</field><field name="author_nat">Gladys K. Zumwalt</field>
+<field name="corp_author">Contra Costa County (California) Schools Department</field>
+<field name="title">Elementary science; suggested materials for kindergarten</field>
+<field name="year">1951</field>
+<field name="date">1951</field>
+<field name="pages">26</field>
+<field name="keywords">Science</field>
+<field name="publisher">Contra Costa County (California) Schools Department</field>
+<field name="pub_place">Martinez, CA</field>
+<field name="language">English</field>
+<field name="call_number">519 .C76e v. 1</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">Kindergarten </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Stolberg, Robert</field><field name="author_nat">Robert Stolberg</field>
+<field name="author">Durkin, Mary C.</field><field name="author_nat">Mary C. Durkin</field>
+<field name="author">Zumwalt, Gladys K.</field><field name="author_nat">Gladys K. Zumwalt</field>
+<field name="corp_author">Contra Costa County (California) Schools Department</field>
+<field name="title">Elementary science; suggested materials for first grade</field>
+<field name="year">1951</field>
+<field name="date">1951</field>
+<field name="pages">37</field>
+<field name="keywords">Science</field>
+<field name="publisher">Contra Costa County (California) Schools Department</field>
+<field name="pub_place">Martinez, CA</field>
+<field name="language">English</field>
+<field name="call_number">519 .C76e v. 2</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">1st grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Stolberg, Robert</field><field name="author_nat">Robert Stolberg</field>
+<field name="author">Durkin, Mary C.</field><field name="author_nat">Mary C. Durkin</field>
+<field name="author">Zumwalt, Gladys K.</field><field name="author_nat">Gladys K. Zumwalt</field>
+<field name="corp_author">Contra Costa County (California) Schools Department</field>
+<field name="title">Elementary science; suggested materials for second grade</field>
+<field name="year">1951</field>
+<field name="date">1951</field>
+<field name="pages">47</field>
+<field name="keywords">Science</field>
+<field name="publisher">Contra Costa County (California) Schools Department</field>
+<field name="pub_place">Martinez, CA</field>
+<field name="language">English</field>
+<field name="call_number">519 .C76e v. 3</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">2nd grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Stolberg, Robert</field><field name="author_nat">Robert Stolberg</field>
+<field name="author">Durkin, Mary C.</field><field name="author_nat">Mary C. Durkin</field>
+<field name="author">Zumwalt, Gladys K.</field><field name="author_nat">Gladys K. Zumwalt</field>
+<field name="corp_author">Contra Costa County (California) Schools Department</field>
+<field name="title">Elementary science; suggested materials for third grade</field>
+<field name="year">1951</field>
+<field name="date">1951</field>
+<field name="pages">73</field>
+<field name="keywords">Science</field>
+<field name="publisher">Contra Costa County (California) Schools Department</field>
+<field name="pub_place">Martinez, CA</field>
+<field name="language">English</field>
+<field name="call_number">519 .C76e v. 4</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">3rd grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Stolberg, Robert</field><field name="author_nat">Robert Stolberg</field>
+<field name="author">Durkin, Mary C.</field><field name="author_nat">Mary C. Durkin</field>
+<field name="author">Zumwalt, Gladys K.</field><field name="author_nat">Gladys K. Zumwalt</field>
+<field name="corp_author">Contra Costa County (California) Schools Department</field>
+<field name="title">Elementary science; suggested materials for fourth grade</field>
+<field name="year">1952</field>
+<field name="date">1952</field>
+<field name="pages">69</field>
+<field name="keywords">Science</field>
+<field name="publisher">Contra Costa County (California) Schools Department</field>
+<field name="pub_place">Martinez, CA</field>
+<field name="language">English</field>
+<field name="call_number">519 .C76e v. 5</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">4th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Stolberg, Robert</field><field name="author_nat">Robert Stolberg</field>
+<field name="author">Durkin, Mary C.</field><field name="author_nat">Mary C. Durkin</field>
+<field name="author">Zumwalt, Gladys K.</field><field name="author_nat">Gladys K. Zumwalt</field>
+<field name="corp_author">Contra Costa County (California) Schools Department</field>
+<field name="title">Elementary science; suggested materials for sixth grade</field>
+<field name="year">1952</field>
+<field name="date">1952</field>
+<field name="pages">84</field>
+<field name="keywords">Science</field>
+<field name="publisher">Contra Costa County (California) Schools Department</field>
+<field name="pub_place">Martinez, CA</field>
+<field name="language">English</field>
+<field name="call_number">519 .C76e v. 7</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">6th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Stolberg, Robert</field><field name="author_nat">Robert Stolberg</field>
+<field name="author">McKimmey, Mark T.</field><field name="author_nat">Mark T. McKimmey</field>
+<field name="corp_author">Contra Costa County (California) Schools Department</field>
+<field name="title">Elementary science; suggested materials for seventh grade</field>
+<field name="year">1953</field>
+<field name="date">10/1953</field>
+<field name="pages">196</field>
+<field name="keywords">Science</field>
+<field name="publisher">Contra Costa County (California) Schools Department</field>
+<field name="pub_place">Martinez, CA</field>
+<field name="language">English</field>
+<field name="call_number">519 .C76e v. 8</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">7th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Columbus (Ohio) Public Schools</field>
+<field name="title">Curriculum bulletin: ninth grade: general science</field>
+<field name="year">1959</field>
+<field name="date">1959</field>
+<field name="pages">96</field>
+<field name="keywords">Science</field>
+<field name="publisher">Columbus (Ohio) Public Schools</field>
+<field name="pub_place">Columbus, OH</field>
+<field name="language">English</field>
+<field name="call_number">519 .C72g</field>
+<field name="state_country">Ohio</field>
+<field name="grade_level_number">9th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">New York University</field>
+<field name="title">COPES, conceptually oriented program in elementary science : assessment kit for
+grade two</field>
+<field name="year">1972</field>
+<field name="date">1972</field>
+<field name="keywords">Science</field>
+<field name="notes">New York University; printed and distributed by Center for Educational Research
+and Field Services</field>
+<field name="publisher">New York University</field>
+<field name="pub_place">New York, NY</field>
+<field name="language">English</field>
+<field name="call_number">519 .C78s v. 2a</field>
+<field name="state_country">New York</field>
+<field name="grade_level_number">2nd grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">New York University</field>
+<field name="title">COPES, conceptually oriented program in elementary science : asssessment kit,
+for kindergarten - grade one sequence</field>
+<field name="year">1971</field>
+<field name="date">1971?</field>
+<field name="keywords">Science</field>
+<field name="notes">[53] Bl.; Responsibility: The Center for Educational Research and School
+Services.</field>
+<field name="publisher">New York University</field>
+<field name="pub_place">New York, NY</field>
+<field name="language">English</field>
+<field name="call_number">519 .C78s v. 1a</field>
+<field name="state_country">New York</field>
+<field name="grade_level_number">Kindergarten</field>
+<field name="grade_level_number">1st grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">New York University</field>
+<field name="title">COPES : conceptually oriented program in elementary science : the teacher's
+guide for a conservation of energy sequence</field>
+<field name="year">1967</field>
+<field name="date">08/1967</field>
+<field name="pages">427</field>
+<field name="keywords">Science</field>
+<field name="notes">ix; ill. ; 28 cm.; Note(s): For grades K-6./ "This teacher's guide represents a
+principal product of a curriculum study reported in A Pilot Project to Develop an Elementary Science
+Sequence, Final Report, Project No. H-281, Contract No. OE-6-10-175, United States Department of
+Health Education and Welfare, Office of Education, Bureau of Research, August 1967."; Other Titles:
+Conceptually oriented program in elementary science; COPES, conceptually oriented program in
+elementary science; Conservation of energy sequence</field>
+<field name="publisher">New York University</field>
+<field name="pub_place">New York, NY</field>
+<field name="language">English</field>
+<field name="call_number">519 .C78s v. 4</field>
+<field name="state_country">New York</field>
+<field name="grade_level_group">Elementary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">New York University</field>
+<field name="title">COPES (Conceptually Oriented Program in Elementary Science) teacher's guide for
+kindergarten/grade one</field>
+<field name="year">1971</field>
+<field name="date">1971</field>
+<field name="pages">408</field>
+<field name="keywords">Science</field>
+<field name="edition">Prelim.</field>
+<field name="notes">New York University; printed and distributed by Center for Educational Research
+and Field Services</field>
+<field name="publisher">New York University</field>
+<field name="pub_place">New York, NY</field>
+<field name="language">English</field>
+<field name="call_number">519 .C78s v. 1</field>
+<field name="state_country">New York</field>
+<field name="grade_level_number">Kindergarten</field>
+<field name="grade_level_number">1st grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">New York University</field>
+<field name="title">Copes (Conceptually Oriented Program in Elementary Science) teacher's guide for
+grade three</field>
+<field name="year">1972</field>
+<field name="date">1972</field>
+<field name="pages">403</field>
+<field name="keywords">Science</field>
+<field name="edition">Prelim.</field>
+<field name="notes">New York University; printed and distributed by the Center for Field Research
+and School Services</field>
+<field name="pub_place">New York, NY</field>
+<field name="language">English</field>
+<field name="call_number">529 .C78 v. 3</field>
+<field name="state_country">New York</field>
+<field name="grade_level_number">3rd grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">New York University</field>
+<field name="title">Copes (Conceptually Oriented Program in Elementary Science) teacher's guide for
+grade two</field>
+<field name="year">1971</field>
+<field name="date">1971</field>
+<field name="pages">215</field>
+<field name="keywords">Science</field>
+<field name="edition">Prelim.</field>
+<field name="notes">New York University; printed and distributed by the Center for Field Research
+and School Services</field>
+<field name="publisher">New York University</field>
+<field name="pub_place">New York, NY</field>
+<field name="language">English</field>
+<field name="call_number">519 .C78s v. 2</field>
+<field name="state_country">New York</field>
+<field name="grade_level_number">2nd grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Dade County (Florida) Public Schools</field>
+<field name="title">Junior high science guide</field>
+<field name="pages">77</field>
+<field name="keywords">Science</field>
+<field name="publisher">Dade County (Florida) Public Schools</field>
+<field name="pub_place">Miami, CL</field>
+<field name="language">English</field>
+<field name="call_number">519 .D12j</field>
+<field name="state_country">Florida</field>
+<field name="grade_level_group">Middle school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Dallas (Texas) Independent School District</field>
+<field name="title">Science program content, scope, and sequence</field>
+<field name="year">1959</field>
+<field name="date">09/1959</field>
+<field name="pages">15</field>
+<field name="keywords">Science</field>
+<field name="publisher">Dallas (Texas) Independent School District</field>
+<field name="pub_place">Dallas, TX</field>
+<field name="language">English</field>
+<field name="call_number">519 .D14s</field>
+<field name="state_country">Texas </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Davis, Helen Miles</field><field name="author_nat">Helen Miles Davis</field>
+<field name="title">Science exhibits</field>
+<field name="year">1955</field>
+<field name="date">1955</field>
+<field name="pages">96</field>
+<field name="keywords">Science</field>
+<field name="keywords">Exhibitions</field>
+<field name="series_title">Science service chemistry series</field>
+<field name="publisher">Science Service</field>
+<field name="pub_place">Washington, DC</field>
+<field name="language">English</field>
+<field name="call_number">519 .D26s </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Denver (Colorado) Public Schools</field>
+<field name="title">Instructional guide for junior high school science; grades 7-8</field>
+<field name="year">1962</field>
+<field name="date">1962</field>
+<field name="pages">40</field>
+<field name="keywords">Science</field>
+<field name="publisher">Division of Instructional Services, Denver Public School</field>
+<field name="pub_place">Denver, CO</field>
+<field name="language">English</field>
+<field name="call_number">519 .D41i v. 7</field>
+<field name="state_country">Colorado</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Denver (Colorado) Public Schools</field>
+<field name="title">Instructional guide for elementary science : grade 1</field>
+<field name="year">1962</field>
+<field name="date">1962</field>
+<field name="pages">19</field>
+<field name="keywords">Science</field>
+<field name="publisher">Denver (Colorado) Public Schools</field>
+<field name="pub_place">Denver, CO</field>
+<field name="language">English</field>
+<field name="call_number">519 .D41i v. 1</field>
+<field name="state_country">Colorado</field>
+<field name="grade_level_number">1st grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Denver (Colorado) Public Schools</field>
+<field name="title">Instructional guide for elementary science : grade 2</field>
+<field name="year">1962</field>
+<field name="date">1962</field>
+<field name="pages">19</field>
+<field name="keywords">Science</field>
+<field name="publisher">Denver (Colorado) Public Schools</field>
+<field name="pub_place">Denver, CO</field>
+<field name="language">English</field>
+<field name="call_number">519 .D41i v. 2</field>
+<field name="state_country">Colorado</field>
+<field name="grade_level_number">2nd grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Denver (Colorado) Public Schools</field>
+<field name="title">Instructional guide for elementary science : grade 3</field>
+<field name="year">1962</field>
+<field name="date">1962</field>
+<field name="pages">19</field>
+<field name="keywords">Science</field>
+<field name="publisher">Denver (Colorado) Public Schools</field>
+<field name="pub_place">Denver, CO</field>
+<field name="language">English</field>
+<field name="call_number">519 .D41i v. 3</field>
+<field name="state_country">Colorado</field>
+<field name="grade_level_number">3rd grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Denver (Colorado) Public Schools</field>
+<field name="title">Instructional guide for elementary science : grade 4</field>
+<field name="year">1962</field>
+<field name="date">1962</field>
+<field name="pages">19</field>
+<field name="keywords">Science</field>
+<field name="publisher">Denver (Colorado) Public Schools</field>
+<field name="pub_place">Denver, CO</field>
+<field name="language">English</field>
+<field name="call_number">519 .D41i v. 4</field>
+<field name="state_country">Colorado</field>
+<field name="grade_level_number">4th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Denver (Colorado) Public Schools</field>
+<field name="title">Instructional guide for elementary science : grade 5</field>
+<field name="year">1962</field>
+<field name="date">1962</field>
+<field name="pages">19</field>
+<field name="keywords">Science</field>
+<field name="publisher">Denver (Colorado) Public Schools</field>
+<field name="pub_place">Denver, CO</field>
+<field name="language">English</field>
+<field name="call_number">519 .D41i v. 5</field>
+<field name="state_country">Colorado</field>
+<field name="grade_level_number">5th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Denver (Colorado) Public Schools</field>
+<field name="title">Instructional guide for elementary science : grade 6</field>
+<field name="year">1962</field>
+<field name="date">1962</field>
+<field name="pages">19</field>
+<field name="keywords">Science</field>
+<field name="publisher">Denver (Colorado) Public Schools</field>
+<field name="pub_place">Denver, CO</field>
+<field name="language">English</field>
+<field name="call_number">519 .D41i v. 6</field>
+<field name="state_country">Colorado</field>
+<field name="grade_level_number">6th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Ballou, Mildred</field><field name="author_nat">Mildred Ballou</field>
+<field name="author">Grabau, Molie</field><field name="author_nat">Molie Grabau</field>
+<field name="author">Loomis, Inez</field><field name="author_nat">Inez Loomis</field>
+<field name="author">Morris, Nellie</field><field name="author_nat">Nellie Morris</field>
+<field name="author">Ramsey, Rosamond</field><field name="author_nat">Rosamond Ramsey</field>
+<field name="author">Slaybaugh, Virginia</field><field name="author_nat">Virginia Slaybaugh</field>
+<field name="author">Storbeck, Mary</field><field name="author_nat">Mary Storbeck</field>
+<field name="author">Merkley, Elaine</field><field name="author_nat">Elaine Merkley</field>
+<field name="title">Course of study for primary science</field>
+<field name="year">1956</field>
+<field name="date">08/1956</field>
+<field name="pages">88</field>
+<field name="keywords">Science</field>
+<field name="publisher">Des Moines (Iowa) Public Schools</field>
+<field name="pub_place">Des Moines, IA</field>
+<field name="language">English</field>
+<field name="call_number">519 .D44p</field>
+<field name="state_country">Iowa</field>
+<field name="grade_level_group">Elementary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Detroit (Michigan) City Board of Education</field>
+<field name="title">Science, 7, 8, and 9: a teacher's handbook</field>
+<field name="year">1957</field>
+<field name="date">1957</field>
+<field name="pages">325</field>
+<field name="keywords">Science</field>
+<field name="series_title">Detroit (Michigan) City Board of Education. Publication</field>
+<field name="series_vol">400</field>
+<field name="publisher">Detroit (Michigan) City Board of Education</field>
+<field name="pub_place">Detroit, MI</field>
+<field name="language">English</field>
+<field name="call_number">519 .D48s</field>
+<field name="state_country">Michigan</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">District of Columbia Public Schools</field>
+<field name="title">Elementary science curriculum</field>
+<field name="year">1959</field>
+<field name="date">1959</field>
+<field name="pages">483</field>
+<field name="keywords">Science</field>
+<field name="keywords">Curricula</field>
+<field name="publisher">District of Columbia Public Schools</field>
+<field name="pub_place">Washington, DC</field>
+<field name="language">English</field>
+<field name="call_number">519 .D61e</field>
+<field name="state_country">District of Columbia</field>
+<field name="grade_level_group">Elementary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Duluth (Minnesota) Public Schools. Elementary Department</field>
+<field name="title">Science, grade 1, resource units</field>
+<field name="year">1964</field>
+<field name="date">1964</field>
+<field name="pages">119</field>
+<field name="keywords">Science</field>
+<field name="publisher">Duluth (Minnesota) Public Schools. Elementary Department</field>
+<field name="pub_place">Duluth, MN</field>
+<field name="language">English</field>
+<field name="call_number">519 .D88s v. 1</field>
+<field name="state_country">Minnesota</field>
+<field name="grade_level_number">1st grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Duluth (Minnesota) Public Schools. Elementary Department</field>
+<field name="title">Science, grade 2, resource units</field>
+<field name="year">1964</field>
+<field name="date">1964</field>
+<field name="pages">116</field>
+<field name="keywords">Science</field>
+<field name="publisher">Duluth (Minnesota) Public Schools. Elementary Department</field>
+<field name="pub_place">Duluth, MN</field>
+<field name="language">English</field>
+<field name="call_number">519 .D88s v. 2</field>
+<field name="state_country">Minnesota</field>
+<field name="grade_level_number">2nd grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Duluth (Minnesota) Public Schools. Elementary Department</field>
+<field name="title">Science, grade 3, resource units</field>
+<field name="year">1964</field>
+<field name="date">1964</field>
+<field name="pages">100</field>
+<field name="keywords">Science</field>
+<field name="publisher">Duluth (Minnesota) Public Schools. Elementary Department</field>
+<field name="pub_place">Duluth, MN</field>
+<field name="language">English</field>
+<field name="call_number">519 .D88s v. 3</field>
+<field name="state_country">Minnesota</field>
+<field name="grade_level_number">3rd grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Duluth (Minnesota) Public Schools. Elementary Department</field>
+<field name="title">Science outline, junior high schools</field>
+<field name="year">1954</field>
+<field name="date">1954</field>
+<field name="keywords">Science</field>
+<field name="publisher">Duluth (Minnesota) Public Schools. Elementary Department</field>
+<field name="pub_place">Duluth, MN</field>
+<field name="language">English</field>
+<field name="call_number">519 .D88s 1954 v. 7</field>
+<field name="state_country">Minnesota</field>
+<field name="grade_level_group">Middle school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Duluth (Minnesota) Public Schools. Elementary Department</field>
+<field name="title">Science outline, junior high schools</field>
+<field name="year">1954</field>
+<field name="date">1954</field>
+<field name="keywords">Science</field>
+<field name="publisher">Duluth (Minnesota) Public Schools. Elementary Department</field>
+<field name="pub_place">Duluth, MN</field>
+<field name="language">English</field>
+<field name="call_number">519 .D88s 1958 v. 7</field>
+<field name="state_country">Minnesota</field>
+<field name="grade_level_group">Middle school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">East Syracuse - Minoa (New York) Central Schools</field>
+<field name="title">Curriculum guide: science for kindergarten through sixth grade</field>
+<field name="year">1964</field>
+<field name="date">09/1964</field>
+<field name="pages">216</field>
+<field name="keywords">Science</field>
+<field name="keywords">Curricula</field>
+<field name="publisher">East Syracuse - Minoa (New York) Central Schools</field>
+<field name="pub_place">East Syracuse, NY</field>
+<field name="language">English</field>
+<field name="call_number">519 .E12s</field>
+<field name="state_country">New York</field>
+<field name="grade_level_number">Kindergarten</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Bohn, Gerald</field><field name="author_nat">Gerald Bohn</field>
+<field name="author">Dahlager, Richard</field><field name="author_nat">Richard Dahlager</field>
+<field name="corp_author">Edina (Minnesota) Public Schools</field>
+<field name="title">Curriculum materials for junior high school science</field>
+<field name="year">1969</field>
+<field name="date">1969</field>
+<field name="pages">104</field>
+<field name="keywords">Science</field>
+<field name="keywords">Curricula</field>
+<field name="notes">p. ; cm.; Responsibility: Gerald Bohn, Richard Dahlager.</field>
+<field name="publisher">Edina Public Schools</field>
+<field name="pub_place">Edina, MN</field>
+<field name="language">English</field>
+<field name="call_number">519 .E23c</field>
+<field name="state_country">Minnesota</field>
+<field name="grade_level_group">Middle school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">El Paso (Texas) Public Schools</field>
+<field name="title">Physical and earth sciences, grade 9 or 10: curriculum guide for high school
+teachers</field>
+<field name="year">1962</field>
+<field name="date">08/1962</field>
+<field name="pages">101</field>
+<field name="keywords">Science</field>
+<field name="keywords">Curricula</field>
+<field name="publisher">El Paso (Texas) Public Schools</field>
+<field name="pub_place">El Paso, TX</field>
+<field name="language">English</field>
+<field name="call_number">519 .E37c</field>
+<field name="state_country">Texas</field>
+<field name="grade_level_number">9th grade</field>
+<field name="grade_level_number">10th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Englewood (New Jersey) Public Schools</field>
+<field name="title">Tentative outline for elementary science education, grades k-6</field>
+<field name="year">1962</field>
+<field name="date">04/1962</field>
+<field name="pages">46</field>
+<field name="keywords">Science</field>
+<field name="publisher">Englewood (New Jersey) Public Schools</field>
+<field name="pub_place">Englewood, NJ</field>
+<field name="language">English</field>
+<field name="call_number">519 .E58s v. 1</field>
+<field name="state_country">New Jersey</field>
+<field name="grade_level_number">Kindergarten</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Englewood (New Jersey) Public Schools</field>
+<field name="title">Curriculum study junior high school science syllabus</field>
+<field name="year">1962</field>
+<field name="date">04/1962</field>
+<field name="keywords">Science</field>
+<field name="publisher">Englewood (New Jersey) Public Schools</field>
+<field name="pub_place">Englewood, NJ</field>
+<field name="language">English</field>
+<field name="call_number">519 .E58s v. 2</field>
+<field name="state_country">New Jersey</field>
+<field name="grade_level_group">Middle school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Englewood (New Jersey) Public Schools</field>
+<field name="title">Curriculum study senior high school science syllabus</field>
+<field name="year">1962</field>
+<field name="date">04/1962</field>
+<field name="keywords">Science</field>
+<field name="publisher">Englewood (New Jersey) Public Schools</field>
+<field name="pub_place">Englewood, NJ</field>
+<field name="language">English</field>
+<field name="call_number">519 .E58s v. 3</field>
+<field name="state_country">New Jersey</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Fair Lawn (New Jersey) Public Schools</field>
+<field name="title">A child grows in science</field>
+<field name="year">1957</field>
+<field name="date">09/1957</field>
+<field name="pages">20</field>
+<field name="keywords">Science</field>
+<field name="publisher">Fair Lawn (New Jersey) Public Schools</field>
+<field name="pub_place">Fair Lawn, NJ</field>
+<field name="language">English</field>
+<field name="call_number">519 .F16c</field>
+<field name="state_country">New Jersey</field>
+<field name="grade_level_group">Elementary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Fairfax (Virginia) County Schools. Division of Instruction</field>
+<field name="title">Planning for science instruction (a tentative guide for teachers - grades
+1-12)</field>
+<field name="year">1957</field>
+<field name="date">09/1957</field>
+<field name="pages">17</field>
+<field name="keywords">Science</field>
+<field name="publisher">Fairfax (Virginia) County Schools. Division of Instruction</field>
+<field name="pub_place">Fairfax, VA</field>
+<field name="language">English</field>
+<field name="call_number">519 .F166p</field>
+<field name="state_country">Virginia </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Flint (Michigan) Schools</field>
+<field name="title">[Science]</field>
+<field name="keywords">Science</field>
+<field name="publisher">Flint (Michigan) Schools</field>
+<field name="pub_place">Flint, MI</field>
+<field name="language">English</field>
+<field name="call_number">519 .F62t</field>
+<field name="state_country">Michigan </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Florida State Department of Education</field>
+<field name="title">A guide, science in Florida secondary schools</field>
+<field name="year">1960</field>
+<field name="date">1960</field>
+<field name="pages">171</field>
+<field name="keywords">Science</field>
+<field name="notes">171 pages illustrations 23 cm.; Note(s): Previous ed. published under title: A
+brief guide to the teaching of science in the secondary schools.</field>
+<field name="series_title">Florida State Department of Education. Bulletin</field>
+<field name="series_vol">8</field>
+<field name="edition">Rev.</field>
+<field name="publisher">Florida State Department of Education</field>
+<field name="pub_place">Tallahassee, FL</field>
+<field name="language">English</field>
+<field name="call_number">519 .F63g</field>
+<field name="state_country">Florida</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Fresno (California) City Unified Schools</field>
+<field name="title">Science units: first grade: seeds, magnets, aviation, sea life, our natural
+resources, weather and air</field>
+<field name="year">1954</field>
+<field name="date">09/1954</field>
+<field name="keywords">Science</field>
+<field name="notes">1 v. (various pagings)</field>
+<field name="publisher">Fresno (California) City Unified Schools</field>
+<field name="pub_place">Fresno, CA</field>
+<field name="language">English</field>
+<field name="call_number">519 .F87s v. 1</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">1st grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Fresno (California) City Unified Schools</field>
+<field name="title">Science units: second grade: simple machines, airplanes, magnets, natural
+resources, sea life (farming the sea), seeds and seed travel, weather</field>
+<field name="year">1954</field>
+<field name="date">09/1954</field>
+<field name="keywords">Science</field>
+<field name="notes">1 v. (various pagings)</field>
+<field name="publisher">Fresno (California) City Unified Schools</field>
+<field name="pub_place">Fresno, CA</field>
+<field name="language">English</field>
+<field name="call_number">519 .F87s v. 2</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">2nd grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Fresno (California) City Unified Schools</field>
+<field name="title">Third grade science guide</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="keywords">Science</field>
+<field name="notes">1 v. (various pagings)</field>
+<field name="publisher">Fresno (California) City Unified Schools</field>
+<field name="pub_place">Fresno, CA</field>
+<field name="language">English</field>
+<field name="call_number">519 .F87s v. 3</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">3rd grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Fresno (California) City Unified Schools</field>
+<field name="title">Fourth grade science guide</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="pages">13</field>
+<field name="keywords">Science</field>
+<field name="publisher">Fresno (California) City Unified Schools</field>
+<field name="pub_place">Fresno, CA</field>
+<field name="language">English</field>
+<field name="call_number">519 .F87s v. 4</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">4th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Fresno (California) City Unified Schools</field>
+<field name="title">Fifth grade science guide</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="pages">9</field>
+<field name="keywords">Science</field>
+<field name="publisher">Fresno (California) City Unified Schools</field>
+<field name="pub_place">Fresno, CA</field>
+<field name="language">English</field>
+<field name="call_number">519 .F87s v. 5</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">5th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Fresno (California) City Unified Schools</field>
+<field name="title">Sixth grade science guide</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="pages">9</field>
+<field name="keywords">Science</field>
+<field name="publisher">Fresno (California) City Unified Schools</field>
+<field name="pub_place">Fresno, CA</field>
+<field name="language">English</field>
+<field name="call_number">519 .F87s v. 6</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">6th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Fresno (California) County Schools</field>
+<field name="title">Audio-visual materials for secondary schools: biology, general science,
+chemistry, physics, conservation</field>
+<field name="year">1953</field>
+<field name="date">07/1953</field>
+<field name="pages">52</field>
+<field name="keywords">Science</field>
+<field name="keywords">Biology</field>
+<field name="keywords">Chemistry</field>
+<field name="keywords">Physics</field>
+<field name="keywords">Conservation</field>
+<field name="publisher">Fresno (California) County Schools</field>
+<field name="pub_place">Fresno, CA</field>
+<field name="language">English</field>
+<field name="call_number">519 .F88a</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">High school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">National Science Teachers Association</field>
+<field name="title">If you want to do a science project</field>
+<field name="year">1954</field>
+<field name="date">1954</field>
+<field name="pages">20</field>
+<field name="keywords">Science</field>
+<field name="keywords">Experiments</field>
+<field name="notes">ill. ; 23 cm.; Note(s): Cover title.; Responsibility: by National Science
+Teachers Association.</field>
+<field name="publisher">National Science Teachers Association</field>
+<field name="pub_place">Washington, DC</field>
+<field name="language">English</field>
+<field name="call_number">519 .F99i </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Garrett County (Maryland) Board of Education</field>
+<field name="title">Science program: grade four</field>
+<field name="year">1959</field>
+<field name="date">06/1959</field>
+<field name="keywords">Science</field>
+<field name="publisher">Garrett County (Maryland) Board of Education</field>
+<field name="pub_place">Oakland, MD</field>
+<field name="language">English</field>
+<field name="call_number">519 .G23s v. 1</field>
+<field name="state_country">Maryland</field>
+<field name="grade_level_number">4th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Garrett County (Maryland) Board of Education</field>
+<field name="title">Science program: grade five</field>
+<field name="year">1959</field>
+<field name="date">06/1959</field>
+<field name="keywords">Science</field>
+<field name="publisher">Garrett County (Maryland) Board of Education</field>
+<field name="pub_place">Oakland, MD</field>
+<field name="language">English</field>
+<field name="call_number">519 .G23s v. 2</field>
+<field name="state_country">Maryland</field>
+<field name="grade_level_number">5th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Garrett County (Maryland) Board of Education</field>
+<field name="title">Science program: grade six</field>
+<field name="year">1959</field>
+<field name="date">06/1959</field>
+<field name="keywords">Science</field>
+<field name="publisher">Garrett County (Maryland) Board of Education</field>
+<field name="pub_place">Oakland, MD</field>
+<field name="language">English</field>
+<field name="call_number">519 .G23s v. 3</field>
+<field name="state_country">Maryland</field>
+<field name="grade_level_number">6th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Turchan, Norman R.</field><field name="author_nat">Norman R. Turchan</field>
+<field name="author">Wallace, William T.</field><field name="author_nat">William T. Wallace</field>
+<field name="author">Grigsby, George</field><field name="author_nat">George Grigsby</field>
+<field name="author">James, Robert</field><field name="author_nat">Robert James</field>
+<field name="author">Karch, Grace</field><field name="author_nat">Grace Karch</field>
+<field name="author">Lewis, Olivia</field><field name="author_nat">Olivia Lewis</field>
+<field name="author">Scott, Max</field><field name="author_nat">Max Scott</field>
+<field name="author">Warner, Rita</field><field name="author_nat">Rita Warner</field>
+<field name="title">Curriculum and resource guide for science in the elementary school, grades
+1-6</field>
+<field name="year">1962</field>
+<field name="date">1962</field>
+<field name="pages">288</field>
+<field name="publisher">School City of Gary</field>
+<field name="pub_place">Gary, IN</field>
+<field name="language">English</field>
+<field name="call_number">519 .G24c</field>
+<field name="state_country">Indiana</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Georgia State Department of Education. Division of Instruction</field>
+<field name="title">Science for Georgia schools: primary manual</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="pages">139</field>
+<field name="keywords">Science</field>
+<field name="publisher">Georgia State Department of Education</field>
+<field name="pub_place">Atlanta, GA</field>
+<field name="language">English</field>
+<field name="call_number">519 .G35s v. 1</field>
+<field name="state_country">Georgia</field>
+<field name="grade_level_group">Elementary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Georgia State Department of Education. Division of Instruction</field>
+<field name="title">Science for Georgia schools: intermediate manual</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="pages">189</field>
+<field name="keywords">Science</field>
+<field name="publisher">Georgia State Department of Education</field>
+<field name="pub_place">Atlanta, GA</field>
+<field name="language">English</field>
+<field name="call_number">519 .G35s v. 2</field>
+<field name="state_country">Georgia</field>
+<field name="grade_level_group">Elementary</field>
+<field name="grade_level_group">Middle school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Glendale-River Hills (Wisconsin) Schools</field>
+<field name="title">Science units</field>
+<field name="year">1962</field>
+<field name="date">1962-1963</field>
+<field name="keywords">Science</field>
+<field name="notes">1 v. (various pagings)</field>
+<field name="publisher">Glendale-River Hills (Wisconsin) Schools</field>
+<field name="language">English</field>
+<field name="call_number">519 .G551s</field>
+<field name="state_country">Wisconsin </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Grand Island (Nebraska) Public Schools</field>
+<field name="title">Elementary science (supplement number i): an introduction and guide for
+teachers: kindergarten - grade vi</field>
+<field name="year">1955</field>
+<field name="date">06/1955</field>
+<field name="pages">51</field>
+<field name="keywords">Science</field>
+<field name="publisher">Grand Island (Nebraska) Public Schools</field>
+<field name="pub_place">Grand Island, NE</field>
+<field name="language">English</field>
+<field name="call_number">519 .G75e supp.</field>
+<field name="state_country">Nebraska</field>
+<field name="grade_level_number">Kindergarten</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Granite School District (Salt Lake City, Utah)</field>
+<field name="title">A guide to the teaching of general science in the junior high schools</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="pages">164</field>
+<field name="keywords">Science</field>
+<field name="publisher">Granite School District</field>
+<field name="pub_place">Salt Lake City, UT</field>
+<field name="language">English</field>
+<field name="call_number">519 .G751g 1963-64 v. 1</field>
+<field name="state_country">Utah</field>
+<field name="grade_level_group">Middle school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Granite School District (Salt Lake City, Utah)</field>
+<field name="title">A laboratory guide to the teaching of general science in the junior high
+schools</field>
+<field name="year">1964</field>
+<field name="date">1964</field>
+<field name="pages">115</field>
+<field name="keywords">Science</field>
+<field name="publisher">Granite School District</field>
+<field name="pub_place">Salt Lake City, UT</field>
+<field name="language">English</field>
+<field name="call_number">519 .G751g 1963-64 v. 2</field>
+<field name="state_country">Utah</field>
+<field name="grade_level_group">Middle school </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Ashley, Tracy</field><field name="author_nat">Tracy Ashley</field>
+<field name="author">Hertzberg, Alvin</field><field name="author_nat">Alvin Hertzberg</field>
+<field name="author">Hickey, William</field><field name="author_nat">William Hickey</field>
+<field name="author">Saenger, Anne</field><field name="author_nat">Anne Saenger</field>
+<field name="author">Holmberg, Sydney</field><field name="author_nat">Sydney Holmberg</field>
+<field name="title">Science experiences related to social studies: kindergarten - three</field>
+<field name="year">1957</field>
+<field name="date">08/1957</field>
+<field name="keywords">Science</field>
+<field name="publisher">Great Neck (New York) Public Schools</field>
+<field name="pub_place">Great Neck, NY</field>
+<field name="language">English</field>
+<field name="call_number">519 .G78s</field>
+<field name="state_country">New York</field>
+<field name="grade_level_number">Kindergarten</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Great Neck Public Schools (Great Neck, N.Y.)</field>
+<field name="title">Science program K-12</field>
+<field name="year">1962</field>
+<field name="date">09/1962</field>
+<field name="keywords">Science</field>
+<field name="abstract">Animals -- Astronomy -- Earth Science -- Electricity and magnetism -- Health
+and the human body -- Light and sound -- Physical and chemical changes -- Plants -- Simple machines
+-- Water.</field>
+<field name="notes">1 v. (various pagings) ; 28 cm.</field>
+<field name="publisher">Great Neck Public Schools</field>
+<field name="pub_place">Great Neck, NY</field>
+<field name="language">English</field>
+<field name="call_number">519 .G78sp</field>
+<field name="state_country">New York </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Baker, Irma</field><field name="author_nat">Irma Baker</field>
+<field name="author">Doran, Martha</field><field name="author_nat">Martha Doran</field>
+<field name="author">Glowa, Harry</field><field name="author_nat">Harry Glowa</field>
+<field name="title">Elementary science, grade 4</field>
+<field name="year">1961</field>
+<field name="date">1961</field>
+<field name="pages">67</field>
+<field name="keywords">Science</field>
+<field name="publisher">Greater Johnstown Public Schools</field>
+<field name="pub_place">Johnstown, PA</field>
+<field name="language">English</field>
+<field name="call_number">519 .G781e v. 1</field>
+<field name="state_country">New York</field>
+<field name="grade_level_number">4th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Fuhrmann, Robert P.</field><field name="author_nat">Robert P. Fuhrmann</field>
+<field name="author">Karalfa, Elizabeth</field><field name="author_nat">Elizabeth Karalfa</field>
+<field name="author">Marek, Ruth E.</field><field name="author_nat">Ruth E. Marek</field>
+<field name="title">Elementary science, grade 5</field>
+<field name="year">1961</field>
+<field name="date">1961</field>
+<field name="pages">131</field>
+<field name="keywords">Science</field>
+<field name="publisher">Greater Johnstown Public Schools</field>
+<field name="pub_place">Johnstown, PA</field>
+<field name="language">English</field>
+<field name="call_number">519 .G781e v. 2</field>
+<field name="state_country">New York</field>
+<field name="grade_level_number">5th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Cassidy, Jeanne</field><field name="author_nat">Jeanne Cassidy</field>
+<field name="author">Gilmor, Mary Martha</field><field name="author_nat">Mary Martha Gilmor</field>
+<field name="author">Matsko, Paul</field><field name="author_nat">Paul Matsko</field>
+<field name="title">Science, grade 7</field>
+<field name="year">1961</field>
+<field name="date">1961</field>
+<field name="pages">18</field>
+<field name="keywords">Science</field>
+<field name="publisher">Greater Johnstown Public Schools</field>
+<field name="pub_place">Johnstown, PA</field>
+<field name="language">English</field>
+<field name="call_number">519 .G781s v. 1</field>
+<field name="state_country">New York</field>
+<field name="grade_level_number">7th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Cassidy, Jeanne</field><field name="author_nat">Jeanne Cassidy</field>
+<field name="author">Gilmor, Mary Martha</field><field name="author_nat">Mary Martha Gilmor</field>
+<field name="author">Matsko, Paul</field><field name="author_nat">Paul Matsko</field>
+<field name="title">Science, grade 8</field>
+<field name="year">1961</field>
+<field name="date">1961</field>
+<field name="pages">22</field>
+<field name="keywords">Science</field>
+<field name="publisher">Greater Johnstown Public Schools</field>
+<field name="pub_place">Johnstown, PA</field>
+<field name="language">English</field>
+<field name="call_number">519 .G781s v. 2</field>
+<field name="state_country">New York</field>
+<field name="grade_level_number">8th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Green Bay Public Schools</field>
+<field name="title">Science: elementary: magnetism</field>
+<field name="keywords">Science</field>
+<field name="publisher">Green Bay Public Schools</field>
+<field name="language">English</field>
+<field name="call_number">519 .G79s v. 1</field>
+<field name="grade_level_group">Elementary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Green Bay Public Schools</field>
+<field name="title">Science: elementary: animals</field>
+<field name="keywords">Science</field>
+<field name="publisher">Green Bay Public Schools</field>
+<field name="language">English</field>
+<field name="call_number">519 .G79s v. 2</field>
+<field name="grade_level_group">Elementary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Highland Park (Texas) Public Schools</field>
+<field name="title">Science for elementary children: a guide for teachers</field>
+<field name="year">1957</field>
+<field name="date">05/1957</field>
+<field name="pages">89</field>
+<field name="keywords">Science</field>
+<field name="publisher">Highland Park (Texas) Public Schools</field>
+<field name="pub_place">Dallas, TX</field>
+<field name="language">English</field>
+<field name="call_number">519 .H63s</field>
+<field name="state_country">Texas</field>
+<field name="grade_level_group">Elementary </field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Hillsborough County (Florida) Public Schools</field>
+<field name="title">Science for elementary children</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="pages">31</field>
+<field name="keywords">Science</field>
+<field name="publisher">Hillsborough County (Florida) Public Schools</field>
+<field name="language">English</field>
+<field name="call_number">519 .H64s</field>
+<field name="state_country">Florida</field>
+<field name="grade_level_group">Elementary </field>
+</doc>
+</add>

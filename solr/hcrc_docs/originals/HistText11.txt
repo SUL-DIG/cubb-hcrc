@@ -1,0 +1,935 @@
+
+
+
+
+TY  - BOOK
+A2  - Maine State Department of Education
+T1  - A Guide to learning in grades four, five, and six
+Y1  - 1959
+D1  - 1959
+SP  - 150
+KW  - Elementary education
+KW  - Curricula
+KW  - Psychology of learning
+N1  - 150 pages : illustrations ; 28 cm.; Note(s): Includes bibliographical references.
+T2  - Curriculum bulletin
+V1  - 20
+PB  - Maine State Department of Education
+CY  - Augusta, ME
+LA  - English
+CN  - 375.13 .M22g
+SC  - Maine
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Manhattan Beach (California) City School District
+T1  - What we teach in the first grade
+KW  - Elementary education
+PB  - Manhattan Beach (California) City School District
+CY  - Manhattan Beach, CA
+LA  - English
+CN  - 375.13 .M26w
+SC  - California
+G2  - 1st
+ER  - 
+
+TY  - BOOK
+A2  - Manhattan Beach (California) City School District
+T1  - What we teach in the second grade
+KW  - Elementary education
+PB  - Manhattan Beach (California) City School District
+CY  - Manhattan Beach, CA
+LA  - English
+CN  - 375.13 .M26w
+SC  - California
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A2  - Manhattan Beach (California) City School District
+T1  - What we teach in the third grade
+KW  - Elementary education
+PB  - Manhattan Beach (California) City School District
+CY  - Manhattan Beach, CA
+LA  - English
+CN  - 375.13 .M26w
+SC  - California
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - Manhattan Beach (California) City School District
+T1  - What we teach in the fourth grade
+KW  - Elementary education
+PB  - Manhattan Beach (California) City School District
+CY  - Manhattan Beach, CA
+LA  - English
+CN  - 375.13 .M26w
+SC  - California
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Manhattan Beach (California) City School District
+T1  - What we teach in the fifth grade
+KW  - Elementary education
+PB  - Manhattan Beach (California) City School District
+CY  - Manhattan Beach, CA
+LA  - English
+CN  - 375.13 .M26w
+SC  - California
+G2  - 5th
+ER  - 
+
+TY  - BOOK
+A2  - Manhattan Beach (California) City School District
+T1  - What we teach in the sixth grade
+KW  - Elementary education
+PB  - Manhattan Beach (California) City School District
+CY  - Manhattan Beach, CA
+LA  - English
+CN  - 375.13 .M26w
+SC  - California
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Manhattan Beach (California) City School District
+T1  - What we teach in the seventh grade
+KW  - Elementary education
+PB  - Manhattan Beach (California) City School District
+CY  - Manhattan Beach, CA
+LA  - English
+CN  - 375.13 .M26w
+SC  - California
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A2  - Manhattan Beach (California) City School District
+T1  - What we teach in the eighth grade
+KW  - Elementary education
+PB  - Manhattan Beach (California) City School District
+CY  - Manhattan Beach, CA
+LA  - English
+CN  - 375.13 .M26w
+SC  - California
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Marin County (California) Schools
+T1  - Course of study handbook for elementary grades
+Y1  - 1948
+D1  - 1948
+SP  - 148
+KW  - Elementary education
+PB  - Marin County (California) Schools
+CY  - San Rafael, CA
+LA  - English
+CN  - 375.13 .M33c
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Minneapolis (Minnesota) Public Schools
+T1  - An overview of the elementary school curriculum : kindergarten - grade 6
+Y1  - 1958
+D1  - 1958
+SP  - 61
+KW  - Elementary education
+N1  - 61 p. ; cm
+ED  - Rev
+PB  - Minneapolis (Minnesota) Public Schools
+CY  - Minneapolis, MN
+LA  - English
+CN  - 375.13 .M665o
+SC  - Minnesota
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Mountain View (California) School District
+T1  - The Klein concept for team teaching and continuous progress education
+Y1  - 1967
+D1  - 1967
+SP  - 28
+KW  - Teaching teams
+N1  - 28 cm.
+T2  - Educational Resources Information Center (U.S.) ERIC reports
+PB  - Mountain View (California) School District
+CY  - Mountain View, CA
+LA  - English
+CN  - 375.13 .M921k
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BIIK
+A2  - New Albany-Floyd County (Indiana) Consolidated School Corp.
+T1  - The teacher speaks
+Y1  - 1959
+D1  - 01/1959
+KW  - Teachers
+PB  - New Albany-Floyd County (Indiana) Consolidated School Corp.
+CY  - New Albany, IN
+LA  - English
+CN  - 375.13 .N51t
+SC  - Indiana
+ER  - 
+
+TY  - BOOK
+A2  - New York (New York) Board of Education
+T1  - Skillful teaching practices in the elementary schools
+Y1  - 1962
+D1  - 1962
+SP  - 115
+KW  - Elementary education
+N1  - 115 p.
+T2  - Curriculum bulletin, 1961-62 series
+V1  - 12
+PB  - New York (New York) Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 375.13 .N52s
+SC  - New York
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Elementary Curriculum Development
+T1  - The elementary school curriculum, an overview
+Y1  - 1961
+D1  - 1961
+SP  - 152
+KW  - Elementary education
+KW  - Curricula
+N1  - 152 p. ill. 27 cm.
+PB  - University of the State of New York. Bureau of Elementary Curriculum Development
+CY  - Albany, NY
+LA  - English
+CN  - 375.13 .N53e 1961
+SC  - New York
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Elementary Curriculum Development
+T1  - The elementary school curriculum; an overview
+Y1  - 1954
+D1  - 1964
+SP  - 152
+KW  - Elementary education
+KW  - Curricula
+N1  - 152 p. ill. 27 cm.
+PB  - University of the State of New York. Bureau of Elementary Curriculum Development
+CY  - Albany, NY
+LA  - English
+CN  - 375.13 .N53e 1954
+SC  - New York
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York
+T1  - A design for improving elementary education in New York State : a guide for the improvement of educational programs in the elementary grades
+Y1  - 1955
+D1  - 1955
+SP  - 75
+KW  - Elementary education
+N1  - ill. ; 28 cm.; Note(s): "While the major responsibility for this report has rested with the Division of Research, the Division of Elementary Education has assisted"--Foreword./ Includes bibliographical references (p. 71-75).; Other Titles: Guide for the improvement of educational programs in the elementary grades 
+PB  - University of the State of New York, State Education Dept
+CY  - Albany, NY
+LA  - English
+CN  - 375.13 .N53d
+SC  - New York
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Elementary School Principals' Group
+T1  - Goals for the elementary schools of Newton
+Y1  - 1964
+D1  - 09/1964
+SP  - 26
+KW  - Elementary schools
+KW  - Elementary education
+PB  - Elementary School Principals' Group
+CY  - Newton, MA
+LA  - English
+CN  - 375.13 .N56g
+SC  - Massachusetts
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - McLoughlin, William P.
+T1  - The nongraded school, a critical assessment
+Y1  - 1967
+D1  - 09/1967
+SP  - 56
+KW  - Nongraded schools
+N1  - vi; illus. 22 cm.; Note(s): On cover: The University of the State of New York, the State Education Department, Office of Research and Evaluation./ Bibliography: p. 45-56./ Also issued online.; Responsibility: [by] William P. McLoughlin.
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 375.13 .N53n
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of School and Cultural Research
+T1  - Elementary school organization; an annotated bibliography
+Y1  - 1967
+D1  - 07/1967
+SP  - 28
+KW  - Elementary school administration
+KW  - Bibliography
+N1  - 28 p. 28 cm.; Note(s): Also issued online.
+PB  - University of the State of New York. Bureau of School and Cultural Research
+CY  - Albany, NY
+LA  - English
+CN  - 375.13 .N53el
+SC  - New York
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Niagara Falls (New York) Public Schools
+T1  - Elementary school overview
+Y1  - 1955
+D1  - 03/1955
+KW  - Elementary education
+PB  - Niagara Falls (New York) Public Schools
+CY  - Niagara Falls, NY
+LA  - English
+CN  - 375.13 .N57e
+SC  - New York
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Berg, Selmer H.
+A1  - Phillips, Stuart S.
+A2  - Oakland (California) Public Schools. Board of Education
+T1  - Curriculum guide : grades three and four
+Y1  - 1955
+D1  - 155
+KW  - Elementary education
+KW  - Curricula
+KW  - Curriculum planning
+N1  - 2 v.  : ill. ; 27 cm.; Note(s): Includes bibliographical references.; Responsibility: the Board of Education, Oakland Public Schools ; prepared under the direction of Selmer H. Berg and Stuart S. Phillips.
+PB  - Oakland (California) Public Schools
+CY  - Oakland, CA
+LA  - English
+CN  - 375.13 .O11c v. 3-4
+SC  - California
+G2  - 3rd
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A1  - Grover, Charles C.
+A1  - Berg, Selmer H.
+A2  - Oakland (California) Public Schools. Board of Education
+T1  - Curriculum guide : grades kindergarten one and two
+Y1  - 1953
+D1  - 1953
+KW  - Primary education
+KW  - Curricula
+KW  - Curriculum planning
+N1  - 2 v. : ill. ; 26 cm.; Responsibility: the Board of Education, Oakland Public Schools ; prepared under the direction of Selmer H. Berg and Charles C. Grover.
+PB  - Oakland (California) Public Schools
+CY  - Oakland, CA
+LA  - English
+CN  - 375.13 .O11c v. 1-2
+SC  - California
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A1  - Berg, Selmer H.
+A1  - Phillips, Stuart S.
+A2  - Oakland (California) Public Schools. Board of Education
+T1  - Curriculum guide : grades five and six
+Y1  - 1956
+D1  - 1956
+KW  - Elementary education
+KW  - Curricula
+KW  - Curriculum planning
+N1  - 2 v. : ill. ; 26 cm.; Responsibility: the Board of Education, Oakland Public Schools ; prepared under the direction of Selmer H. Berg and Charles C. Grover.
+PB  - Oakland (California) Public Schools
+CY  - Oakland, CA
+LA  - English
+CN  - 375.13 .O11c v. 5-6
+SC  - California
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Oakley (California) Union School District
+T1  - Grouping procedures described
+KW  - Track system
+PB  - Oakley (California) Union School District
+CY  - Oakley, CA
+LA  - English
+CN  - 375.13 .O112g
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Ohio State University. University High School
+T1  - Group studies in the elementary grades of the Ohio State University School
+Y1  - 1955
+D1  - 1955
+SP  - 124
+KW  - Elementary education
+KW  - Curricula
+N1  - viii; illus. 23 cm.; Note(s): Also issued online.; Responsibility: by a committee of the elementary staff. More Records: Show record information
+PB  - College of Education, Ohio State University
+CY  - Columbus, OH
+LA  - English
+CN  - 375.13 .O37g
+SC  - Ohio
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Oklahoma City (Oklahoma) Public Schools
+T1  - Units of work: kindergarten
+Y1  - 1951
+D1  - 1951
+SP  - 70
+KW  - Kindergarten
+T2  - Oklahoma City Public Schools. Curriculum Bulletin
+V1  - 510
+PB  - Oklahoma City (Oklahoma) Public Schools
+CY  - Oklahoma City, OK
+LA  - English
+CN  - 375.13 .O41u v. 1
+SC  - Oklahoma
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - Oklahoma City (Oklahoma) Public Schools
+T1  - Units of work: first grade
+Y1  - 1951
+D1  - 1951
+SP  - 102
+KW  - Elementary education
+T2  - Oklahoma City Public Schools. Curriculum Bulletin
+V1  - 511
+PB  - Oklahoma City (Oklahoma) Public Schools
+CY  - Oklahoma City, OK
+LA  - English
+CN  - 375.13 .O41u v. 2
+SC  - Oklahoma
+G2  - 1st
+ER  - 
+
+TY  - BOOK
+A2  - Oklahoma City (Oklahoma) Public Schools
+T1  - Units of work: second grade
+Y1  - 1951
+D1  - 1951
+SP  - 87
+KW  - Elementary education
+T2  - Oklahoma City Public Schools. Curriculum Bulletin
+V1  - 512
+PB  - Oklahoma City (Oklahoma) Public Schools
+CY  - Oklahoma City, OK
+LA  - English
+CN  - 375.13 .O41u v. 3
+SC  - Oklahoma
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A2  - Oklahoma City (Oklahoma) Public Schools
+T1  - Units of work: third grade
+Y1  - 1952
+D1  - 1952
+SP  - 135
+KW  - Elementary education
+T2  - Oklahoma City Public Schools. Curriculum Bulletin
+V1  - 523
+PB  - Oklahoma City (Oklahoma) Public Schools
+CY  - Oklahoma City, OK
+LA  - English
+CN  - 375.13 .O41u v. 4
+SC  - Oklahoma
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - Oklahoma City (Oklahoma) Public Schools
+T1  - Units of work: fourth grade
+Y1  - 1953
+D1  - 1953
+SP  - 167
+KW  - Elementary education
+T2  - Oklahoma City Public Schools. Curriculum Bulletin
+V1  - 534
+PB  - Oklahoma City (Oklahoma) Public Schools
+CY  - Oklahoma City, OK
+LA  - English
+CN  - 375.13 .O41u v. 5
+SC  - Oklahoma
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Oklahoma City (Oklahoma) Public Schools
+T1  - Units of work: fifth grade
+Y1  - 1952
+D1  - 1952
+SP  - 208
+KW  - Elementary education
+T2  - Oklahoma City Public Schools. Curriculum Bulletin
+V1  - 525
+PB  - Oklahoma City (Oklahoma) Public Schools
+CY  - Oklahoma City, OK
+LA  - English
+CN  - 375.13 .O41u v. 6
+SC  - Oklahoma
+G2  - 5th
+ER  - 
+
+TY  - BOOK
+A2  - Oklahoma City (Oklahoma) Public Schools
+T1  - Units of work: sixth grade
+Y1  - 1952
+D1  - 1952
+SP  - 171
+KW  - Elementary education
+T2  - Oklahoma City Public Schools. Curriculum Bulletin
+V1  - 516
+PB  - Oklahoma City (Oklahoma) Public Schools
+CY  - Oklahoma City, OK
+LA  - English
+CN  - 375.13 .O41u v. 7
+SC  - Oklahoma
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Oklahoma State Department of Education
+T1  - Evaluation manual for the improvement of elementary schools
+Y1  - 1958
+D1  - 1958
+SP  - 48
+KW  - Elementary schools
+PB  - Oklahoma State Department of Education
+LA  - English
+CN  - 375.13 .O42e
+SC  - Oklahoma
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Oregon Office of Superintendent of Public Instruction
+T1  - A guide to the program of studies in the elementary schools of Oregon
+Y1  - 1945
+D1  - 1945
+SP  - 155
+KW  - Elementary education
+KW  - Curricula
+N1  - 155 p. ; 23 cm.; Note(s): "Prepared by the supervisory staff of the State department of education and the advisory committees for the improvement of the curriculum in the elementary schools of Oregon."
+PB  - Oregon Office of Superintendent of Public Instruction
+CY  - Salem, OR
+LA  - English
+CN  - 375.13 .O65g
+SC  - Oregon
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Gibson, Robert Leone
+T1  - A comparative study of the academic achievements of elementary age students of the United States and the British Isles
+Y1  - 1966
+D1  - 04/1966
+SP  - 16
+KW  - Academic achievement
+KW  - Comparative education
+N1  - 16 p. 28 cm.; Note(s): Cover title./ Bibliography: p. 15-16.; Responsibility: prepared by Robert L. Gibson [director] ... [et al.] editor, Hugh B. Wood.
+T2  - University of Oregon. Curriculum Laboratory. Curriculum bulletin
+V1  - 22
+IS  - 266
+PB  - School of Education, University of Oregon
+CY  - Eugene, OR
+LA  - English
+CN  - 375.13 .O67co
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Hopke, Marie E.
+A1  - Witter, Janet
+T1  - A review of the literature on the open-concept elementary school
+Y1  - 1976
+D1  - 03/1976
+SP  - 20
+KW  - Open plan schools
+N1  - 20 p. ; 28 cm.; Note(s): Cover title./ Includes bibliographical references.; Responsibility: prepared by Marie E. Hopke ; special editor, Janet Witter.
+T2  - Oregon ASCD curriculum bulletin
+V1  - 30
+IS  - 331
+PB  - Oregon Association for Supervision and Curriculum Development
+CY  - Salem, OR
+LA  - English
+CN  - 375.13 .O65r
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Oregon State Department of Education
+T1  - Teaching Oregon's children; handbook for elementary teachers
+Y1  - 1957
+D1  - 1957
+SP  - 214
+KW  - Teachers
+KW  - Elementary education
+KW  - Bibliography
+N1  - 214 p. illus. 28 cm.
+PB  - Oregon State Department of Education
+CY  - Salem, OR
+LA  - English
+CN  - 375.13 .O66t
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Phillips, Robert
+A1  - De Korte, Dena
+A1  - Farnsworth, Pearl
+T1  - Creativity and the classroom
+Y1  - 1967
+D1  - 03/1967
+SP  - 33
+KW  - Creative ability in children
+KW  - Social sciences
+N1  - 33 p. ill. 28 cm.; Note(s): Cover title./ Includes bibliographical references (p. 9-10).; Responsibility: by Robert Phillips, Dean DeKorte [and] Pearl Farnsworth. editor, Hugh B. Wood.
+T2  - University of Oregon. Curriculum Laboratory. Curriculum bulletin
+V1  - 23
+IS  - 276
+PB  - School of Education, University of Oregon
+CY  - Eugene, OR
+LA  - English
+CN  - 375.13 .O67c
+ER  - 
+
+TY  - BOOK
+A1  - Becken, Elliott DeForrest
+T1  - Team teaching in grades five and six through partial departmentalization
+Y1  - 1963
+D1  - 04/1963
+SP  - 11
+KW  - Teaching teams
+KW  - Teaching
+KW  - Elementary education
+KW  - Case studies
+N1  - 11 leaves ; 28 cm.; Note(s): "September, 1961."; Responsibility: by Elliott Becken.
+T2  - University of Oregon. Curriculum Laboratory. Curriculum bulletin
+V1  - 19
+IS  - 233
+PB  - School of Education, University of Oregon
+CY  - Eugene, OR
+LA  - English
+CN  - 375.13 .O67t
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A1  - Kennedy, Daniel A.
+T1  - A study of the academic achievement of fourth-grade boys relative to three measures of emotional adjustment
+Y1  - 1967
+D1  - 12/1967
+SP  - 17
+KW  - Child development
+KW  - Child psychology
+KW  - Emotional maturity
+KW  - Academic achievement
+N1  - 17 p. 28 cm.; Note(s): Cover title./ Bibliography: p. 16-17.; Responsibility: editor, Hugh B. Wood.
+T2  - University of Oregon. Curriculum Laboratory. Curriculum bulletin
+V1  - 23
+IS  - 285
+PB  - School of Education, University of Oregon
+CY  - Eugene, OR
+LA  - English
+CN  - 375.13 .O67s
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A1  - Suttle, John E.
+T1  - Elementary school instructional organization patterns
+Y1  - 1962
+D1  - 10/1962
+SP  - 33
+N1  - 33 p. illus.
+KW  - Elementary schools
+T2  - University of Oregon. Curriculum Laboratory. Curriculum bulletin
+V1  - 18
+IS  - 227
+PB  - University of Oregon. School of Education
+CY  - Eugene, OR
+LA  - English
+CN  - 375.13 .O67e
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Walker, Wanda M.
+T1  - Guidelines to learning: the place of inquiry and discovery in the elementary school
+Y1  - 1967
+D1  - 06/1967
+SP  - 19
+KW  - Learning by discovery
+KW  - Questioning
+N1  - 19 p. ill. 28 cm.; Note(s): Cover title./ Bibliography: p. 18-19.; Responsibility: editor, Hugh B. Wood.
+T2  - University of Oregon. Curriculum Laboratory. Curriculum bulletin
+V1  - 23
+IS  - 279
+PB  - School of Education, University of Oregon
+CY  - Eugene, OR
+LA  - English
+CN  - 375.13 .O67g
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Leavitt, Jerome E.
+T1  - The teaching-learning environment
+Y1  - 1969
+D1  - 03/1969
+SP  - 15
+KW  - Teaching
+T2  - University of Oregon. Curriculum Laboratory. Curriculum bulletin
+V1  - 25
+IS  - 300
+PB  - School of Education, University of Oregon
+CY  - Eugene, OR
+LA  - English
+CN  - 375.13 .O67te
+ER  - 
+
+TY  - BOOK
+A2  - Pasadena (California) City Schools
+T1  - Policies of control, administration and management
+Y1  - 1936
+D1  - 10/1936
+KW  - School administrators
+PB  - Pasadena (California) City Schools
+CY  - Pasadena, CA
+LA  - English
+CN  - 375.13 .P27i 1936
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Pasadena (California) City Schools
+T1  - Instructional policies in the Pasadena elementary schools
+Y1  - 1944
+D1  - 10/1944
+KW  - School administrators
+PB  - Pasadena (California) City Schools
+CY  - Pasadena, CA
+LA  - English
+CN  - 375.13 .P27i 1944
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools
+T1  - The elementary school program
+Y1  - 1963
+D1  - 1963
+SP  - 140
+KW  - Elementary education
+PB  - Philadelphia (Pennsylvania) Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 375.13 .P54e
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Placer County (California) Schools
+T1  - Course of study for elementary schools
+Y1  - 1954
+D1  - 09/1954
+KW  - Elementary education
+KW  - Curricula
+PB  - Placer County (California) Schools
+CY  - Auburn, CA
+LA  - English
+CN  - 375.13 .P69c
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Placer County (California) Schools
+T1  - Course of study
+Y1  - 1963
+D1  - 1963
+KW  - Elementary education
+KW  - Curricula
+PB  - Placer County (California) Schools
+CY  - Auburn, CA
+LA  - English
+CN  - 375.13 .P71c
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Portage (Michigan) Public Schools
+T1  - Third grade curriculum guide
+Y1  - 1960
+D1  - 1960?
+KW  - Curricula
+KW  - Elementary education
+PB  - Portage (Michigan) Public Schools
+CY  - Portage, MI
+LA  - English
+CN  - 375.13 .P84c v. 3
+SC  - Michigan
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - Portage (Michigan) Public Schools
+T1  - Fourth grade curriculum guide
+Y1  - 1960
+D1  - 1960?
+KW  - Curricula
+KW  - Elementary education
+PB  - Portage (Michigan) Public Schools
+CY  - Portage, MI
+LA  - English
+CN  - 375.13 .P84c v. 4
+SC  - Michigan
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Portage (Michigan) Public Schools
+T1  - Fifth grade curriculum guide
+Y1  - 1960
+D1  - 1960?
+KW  - Curricula
+KW  - Elementary education
+PB  - Portage (Michigan) Public Schools
+CY  - Portage, MI
+LA  - English
+CN  - 375.13 .P84c v. 5
+SC  - Michigan
+G2  - 5th
+ER  - 
+
+TY  - BOOK
+A2  - Portage (Michigan) Public Schools
+T1  - Sixth grade curriculum guide
+Y1  - 1960
+D1  - 1960?
+KW  - Curricula
+KW  - Elementary education
+PB  - Portage (Michigan) Public Schools
+CY  - Portage, MI
+LA  - English
+CN  - 375.13 .P84c v. 6
+SC  - Michigan
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Portland (Oregon) Public Schools
+T1  - Criteria for a good elementary school
+Y1  - 1951
+D1  - 10/1951
+KW  - Elementary schools
+PB  - Portland (Oregon) Public Schools
+CY  - Portland, OR
+LA  - English
+CN  - 375.13 .P85c
+SC  - Oregon
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Reed Union School District (Marin County, California)
+T1  - The Granada community school and teacher education center: a prospectus to the Granada educational plan
+Y1  - 1964
+D1  - 1964
+SP  - 29
+KW  - Elementary schools
+PB  - Reed Union School District
+CY  - Belvedere-Tiburon, CA
+LA  - English
+CN  - 375.13 .R32g
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Riverside (California) City Schools
+T1  - Elementary instructional framework (kindergarten - sixth grade)
+Y1  - 1957
+D1  - 1957
+SP  - 67
+KW  - Elementary education
+PB  - Riverside (California) City Schools
+CY  - Riverside, CA
+LA  - English
+CN  - 375.13 .R62e
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Riverside County (California) Schools
+T1  - Recommended course of study for grades kindergarten through eight for non-city elementary school districts, Riverside County, 1961-62
+Y1  - 1961
+D1  - 1961-1962
+SP  - 188
+KW  - Elementary education
+KW  - Curricula
+PB  - Riverside County (California) Schools
+CY  - Riverside, CA
+LA  - English
+CN  - 375.13 .R625c
+SC  - California
+G1  - Elementary
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Roslyn (New York) Public Schools
+T1  - Homework in the elementary schools (effective, September 1962)
+Y1  - 1962
+D1  - 1962
+SP  - 4
+KW  - Homework
+PB  - Roslyn (New York) Public Schools
+CY  - Roslyn, NY
+LA  - English
+CN  - 375.13 .R82h
+SC  - New York
+G1  - Elementary
+ER  - 
+
+
+
+
