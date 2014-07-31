@@ -13,9 +13,5 @@
       <li>
         <%= render_show_doc_actions @document %>
       </li>
-      <% if @document.respond_to?( :export_as_csv ) %>
-      <li class="csv">
-      <%= link_to t('blacklight.tools.csv'), catalog_path(@document, :format => 'csv') %>
-      </li>
     <% end %>
   </ul>
