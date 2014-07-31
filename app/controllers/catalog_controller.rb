@@ -199,11 +199,5 @@ class CatalogController < ApplicationController
     # mean") suggestion is offered.
     config.spell_max = 5
   end
-  
-  def index
-    @documents = Documentexport.order(:title)
-    respond_to do |format|
-     format.csv { send_data @documents.to_csv }
-    end
 	end
 end 
