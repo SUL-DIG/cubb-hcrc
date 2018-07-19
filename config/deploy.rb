@@ -1,11 +1,8 @@
-# config valid only for Capistrano 3.1
-lock '3.1.0'
-
 set :application, 'cubb-hcrc'
 set :repo_url, 'https://github.com/SUL-DIG/cubb-hcrc.git'
 
 # Default branch is :master
-# ask :branch, proc { `git rev-parse --abbrev-ref HEAD`.chomp }
+ask :branch, proc { `git rev-parse --abbrev-ref HEAD`.chomp }
 
 # Default deploy_to directory is /var/www/my_app
 set :deploy_to, '/home/blacklight/dig/public/cubb-hcrc'
