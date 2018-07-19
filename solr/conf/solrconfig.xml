@@ -35,7 +35,7 @@
        that you fully re-index after changing this setting as it can
        affect both how text is indexed and queried.
   -->
-  <luceneMatchVersion>LUCENE_42</luceneMatchVersion>
+  <luceneMatchVersion>5.4.1</luceneMatchVersion>
 
   <!-- <lib/> directives can be used to instruct Solr to load an Jars
        identified and use them to resolve any "plugins" specified in
@@ -69,22 +69,6 @@
        The examples below can be used to load some solr-contribs along 
        with their external dependencies.
     -->
-  <lib dir="../../../contrib/extraction/lib" regex=".*\.jar" />
-  <lib dir="../../../dist/" regex="solr-cell-\d.*\.jar" />
-
-  <lib dir="../../../contrib/clustering/lib/" regex=".*\.jar" />
-  <lib dir="../../../dist/" regex="solr-clustering-\d.*\.jar" />
-
-  <lib dir="../../../contrib/langid/lib/" regex=".*\.jar" />
-  <lib dir="../../../dist/" regex="solr-langid-\d.*\.jar" />
-
-  <lib dir="../../../contrib/velocity/lib" regex=".*\.jar" />
-  <lib dir="../../../dist/" regex="solr-velocity-\d.*\.jar" />
-
-  <!-- If a 'dir' option (with or without a regex) is used and nothing
-       is found that matches, it will be ignored
-    -->
-  <lib dir="/total/crap/dir/ignored" /> 
 
   <!-- an exact 'path' can be used instead of a 'dir' to specify a 
        specific jar file.  This will cause a serious error to be logged 
@@ -107,7 +91,7 @@
       <str name="dir">${solr.data.dir:}</str>
     </updateLog>
     </updateHandler>
-    
+    <jmx />
     <requestHandler name="/get" class="solr.RealTimeGetHandler">
       <lst name="defaults">
         <str name="omitHeader">true</str>
@@ -120,7 +104,7 @@
   </requestDispatcher>
   <requestHandler name="/analysis/field" startup="lazy" class="solr.FieldAnalysisRequestHandler" />
   <requestHandler name="/update" class="solr.UpdateRequestHandler" />
-  <requestHandler name="/admin/" class="org.apache.solr.handler.admin.AdminHandlers" />
+
      
   <requestHandler name="/admin/ping" class="solr.PingRequestHandler">
     <lst name="invariants">
@@ -237,7 +221,6 @@ http://wiki.apache.org/solr/LocalParams
          publisher,
          pub_place,
          state_country,
-         notes,
          year,
          title,
          call_number,
@@ -397,7 +380,6 @@ prepended or appended to the default list. (see below)
          publisher,
          pub_place,
          state_country,
-         notes,
          year,
          title,
          call_number,
