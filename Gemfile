@@ -21,6 +21,7 @@ gem 'mysql2', '~> 0.3.0'
 #end
 
 gem 'jquery-rails'
+gem 'rubyzip', '~> 1.2.2'
 
 gem 'blacklight', '~> 4.8'
 
