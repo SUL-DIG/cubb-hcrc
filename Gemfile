@@ -23,7 +23,7 @@ gem 'mysql2', '~> 0.3.0'
 gem 'jquery-rails'
 gem 'rubyzip', '~> 1.2.2'
 
-gem 'blacklight', '~> 4.8'
+gem 'blacklight', '~> 4.9'
 
 gem "unicode", :platforms => [:mri_18, :mri_19]
 gem "devise"
